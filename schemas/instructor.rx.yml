@@ -1,0 +1,7 @@
+type: //rec
+required:
+  name: //str
+optional:
+  email: //str
+  phone: //str
+  website: //str
