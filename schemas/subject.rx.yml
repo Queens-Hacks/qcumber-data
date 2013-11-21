@@ -1,1 +1,4 @@
-blah
+type: //rec
+required:
+  code: //str
+  name: //str
