@@ -1,1 +1,17 @@
-blah
+validate:
+
+  - name: Courses
+    schema: schemas/course.rx
+    data: courses/*/course.yml
+
+  - name: Course Sections
+    schema: schemas/course-section.rx
+    data: courses/*/section*.yml
+
+  - name: Subjects
+    schema: schemas/subject.rx
+    data: subjects/*.yml
+
+  - name: Instructors
+    schema: schemas/instructor.rx
+    data: instructors/*.yml
