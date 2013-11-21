@@ -1,17 +1,17 @@
 validate:
 
   - name: Courses
-    schema: schemas/course.rx
+    schema: schemas/course.rx.yml
     data: courses/*/course.yml
 
   - name: Course Sections
-    schema: schemas/course-section.rx
+    schema: schemas/course-section.rx.yml
     data: courses/*/section*.yml
 
   - name: Subjects
-    schema: schemas/subject.rx
+    schema: schemas/subject.rx.yml
     data: subjects/*.yml
 
   - name: Instructors
-    schema: schemas/instructor.rx
+    schema: schemas/instructor.rx.yml
     data: instructors/*.yml
