@@ -8,10 +8,10 @@ validate:
 #    schema: schemas/course-section.rx.yml
 #    data: courses/*/section*.yml
 
-#  - name: Subjects
-#    schema: schemas/subject.rx.yml
-#    data: subjects/*.yml
+  - name: Subjects
+    schema: schemas/subject.rx.yml
+    data: subjects/*.yml
 
-#  - name: Instructors
-#    schema: schemas/instructor.rx.yml
-#    data: instructors/*.yml
+  - name: Instructors
+    schema: schemas/instructor.rx.yml
+    data: instructors/*.yml

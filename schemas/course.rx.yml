@@ -19,8 +19,8 @@ required:
     contents:
       type: //rec
       required:
-        name: //str  # semantic collision um....
-        mandatory: //bool  # booom another
+        name: //str
+        mandatory: //bool
 
 optional:
   raw_requisites: //str  # garbage from solus
