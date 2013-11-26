@@ -1,1 +1,16 @@
-blah: blah
+title: System Level Programming
+description: Basic concepts of Unix-like systems. Shells and scripting. System-level programming in the C language. Software development tools and techniques.
+subject: subjects/CISC.yml
+number: "220"
+
+career: undergraduate
+grading: pass/fail
+units: 1.1
+components:
+  - name: lecture
+    mandatory: true
+  - name: laboratory
+    mandatory: false
+
+corequisites:
+  - /courses/cisc-124  # ??? (currently on qcumber)

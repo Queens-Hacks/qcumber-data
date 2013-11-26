@@ -1,1 +1,38 @@
-blah
+type: //rec
+required:
+
+  title: //str
+  description: //str
+  subject: //str  # ref
+  number:
+    type: //any  # quoting numbers is annoying
+    of: [//str, //int]
+
+  career: //str  # TODO: implement //choice or //re and limit this to undergraduate or graduate
+  grading: //str  # also ^^
+  units:
+    type: //num
+    range:
+      min: 0
+  components:
+    type: //arr
+    contents:
+      type: //rec
+      required:
+        name: //str
+        mandatory: //bool
+
+optional:
+  raw_requisites: //str  # garbage from solus
+  prerequisites:
+    type: //arr
+    contents: //str  # ref
+  corequisites:
+    type: //arr
+    contents: //str  # ref
+  recommends:
+    type: //arr
+    contents: //str  # ref
+  excludes:
+    type: //arr
+    contents: //str  #ref
