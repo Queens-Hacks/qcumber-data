@@ -1,1 +1,4 @@
-blah fixme
+language: python
+python: 2.7
+install: pip install rx-data-validate
+script: data_schema_validate.py schemas/validate-config.yml
