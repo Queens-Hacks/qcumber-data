@@ -4,9 +4,8 @@ required:
   title: //str
   description: //str
   subject: //str  # ref
-  number:
-    type: //any  # quoting numbers is annoying
-    of: [//str, //int]
+  number: //str
+  session: //str  # TODO: limit choice
 
   career: //str  # TODO: implement //choice or //re and limit this to undergraduate or graduate
   grading: //str  # also ^^
@@ -14,16 +13,12 @@ required:
     type: //num
     range:
       min: 0
-  components:
-    type: //arr
-    contents:
-      type: //rec
-      required:
-        name: //str
-        mandatory: //bool
 
 optional:
-  raw_requisites: //str  # garbage from solus
+  solus:
+    type: //rec
+    required:
+      raw_requirements: //str  # garbage from solus
   prerequisites:
     type: //arr
     contents: //str  # ref
