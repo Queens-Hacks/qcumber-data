@@ -1,0 +1,37 @@
+type: //rec
+required:
+  
+  season: //str
+  year: //str
+  
+  sections:
+    type: //arr
+    contents:
+      type: //rec
+      required:
+        type: //str
+        mandatory: //bool
+        session: //str
+        campus: //str
+        
+        timeslots:
+          type: //arr
+          contents:
+            type: //rec
+            required:
+              location: //str
+              day_of_week: //int  # ha haaaa 1-7 beginning monday
+              start_time: //str
+              end_time: //str
+              term_start: //str
+              term_end: //str
+              instructors:
+                type: //arr
+                contents: //str
+  
+      optional:
+        solus:
+          type: //rec
+          required:
+            id: //str
+            index: //str
