@@ -1,0 +1,34 @@
+season: fall
+year: "2013"
+
+sections:
+  
+  - type: lecture
+    mandatory: true
+    session: Regular Academic Session
+    campus: main
+    
+    solus:
+      id: "2427"
+      index: "001"
+    
+    timeslots:
+    
+      - location: "Humphrey Aud"
+        day_of_week: 2
+        start_time: "12:30"
+        end_time: "13:30"
+        term_start: "2013-09-09"
+        term_end: "2013-11-29"
+        instructors:
+          - instructors/lamb-margaret
+    
+      - location: "Humphrey Aud"
+        day_of_week: 4
+        start_time: "11:30"
+        end_time: "12:30"
+        term_start: "2013-09-09"
+        term_end: "2013-11-29"
+        instructors:
+          - instructors/lamb-margaret
+        

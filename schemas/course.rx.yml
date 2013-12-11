@@ -1,1 +1,33 @@
-blah
+type: //rec
+required:
+
+  title: //str
+  description: //str
+  subject: //str  # ref
+  number: //str
+  session: //str  # TODO: limit choice
+
+  career: //str  # TODO: implement //choice or //re and limit this to undergraduate or graduate
+  grading: //str  # also ^^
+  units:
+    type: //num
+    range:
+      min: 0
+
+optional:
+  solus:
+    type: //rec
+    required:
+      raw_requirements: //str  # garbage from solus
+  prerequisites:
+    type: //arr
+    contents: //str  # ref
+  corequisites:
+    type: //arr
+    contents: //str  # ref
+  recommends:
+    type: //arr
+    contents: //str  # ref
+  excludes:
+    type: //arr
+    contents: //str  #ref
