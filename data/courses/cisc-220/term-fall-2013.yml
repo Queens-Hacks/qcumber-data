@@ -32,3 +32,42 @@ sections:
         instructors:
           - instructors/lamb-margaret
 
+  - type: lab
+    mandatory: true
+    session: Regular Academic Session
+    campus: main
+
+    solus:
+      id: "2429"
+      index: "002"
+
+    timeslots:
+
+      - location: "Goodwin RM248"
+        day_of_week: 3
+        start_time: "8:30"
+        end_time: "10:30"
+        term_start: "2013-09-09"
+        term_end: "2013-11-29"
+        instructors:
+          - Staff
+
+  - type: lab
+    mandatory: true
+    session: Regular Academic Session
+    campus: main
+
+    solus:
+      id: "2431"
+      index: "003"
+
+    timeslots:
+
+      - location: "Goodwin RM248"
+        day_of_week: 4
+        start_time: "8:30"
+        end_time: "10:30"
+        term_start: "2013-09-09"
+        term_end: "2013-11-29"
+        instructors:
+          - Staff
