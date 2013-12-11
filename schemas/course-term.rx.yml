@@ -1,9 +1,9 @@
 type: //rec
 required:
-  
+
   season: //str
   year: //str
-  
+
   sections:
     type: //arr
     contents:
@@ -13,7 +13,7 @@ required:
         mandatory: //bool
         session: //str
         campus: //str
-        
+
         timeslots:
           type: //arr
           contents:
@@ -28,7 +28,7 @@ required:
               instructors:
                 type: //arr
                 contents: //str
-  
+
       optional:
         solus:
           type: //rec
