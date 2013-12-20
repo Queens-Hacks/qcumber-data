@@ -3,7 +3,10 @@ required:
 
   title: //str
   description: //str
-  subject: //str  # ref
+  subject:
+    type: //rec
+    required:
+        ref: //str
   number: //str
   session: //str  # TODO: limit choice
 

@@ -21,7 +21,7 @@ sections:
         term_start: "2013-09-09"
         term_end: "2013-11-29"
         instructors:
-          - instructors/lamb-margaret
+          - ref: instructors/lamb-margaret
 
       - location: "Humphrey Aud"
         day_of_week: 4
@@ -30,7 +30,7 @@ sections:
         term_start: "2013-09-09"
         term_end: "2013-11-29"
         instructors:
-          - instructors/lamb-margaret
+          - ref: instructors/lamb-margaret
 
   - type: lab
     mandatory: true
@@ -70,4 +70,4 @@ sections:
         term_start: "2013-09-09"
         term_end: "2013-11-29"
         instructors:
-          - Staff
+            - Staff

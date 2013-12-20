@@ -1,6 +1,7 @@
 title: System Level Programming
 description: Basic concepts of Unix-like systems. Shells and scripting. System-level programming in the C language. Software development tools and techniques.
-subject: subjects/CISC.yml
+subject:
+    ref: subjects/cisc
 number: "220"
 session: "Regular Academic Session"
 

@@ -27,7 +27,13 @@ required:
               term_end: //str
               instructors:
                 type: //arr
-                contents: //str
+                contents:
+                    type: //any
+                    of:
+                        - type: //str
+                        - type: //rec
+                          required:
+                            ref: //str
 
       optional:
         solus:
