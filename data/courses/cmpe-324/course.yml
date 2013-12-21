@@ -1,0 +1,13 @@
+title: Operating Systems
+description: "Layered operating systems for conventional shared memory computers: concurrent processes. Synchronization and communication. Concurrent algorithms. Scheduling. Deadlock. Memory management. Protection. File systems. Device management. Typical layers."
+subject:
+    ref: subjects/cmpe
+number: "324"
+session: "Regular Academic Session"
+
+career: undergraduate
+grading: graded
+units: 3.0
+
+solus:
+  raw_requirements: "PREREQ: ELEC 274 and ELEC 276 or ELEC 278 and registered in BSCE EXCLUSION: ELEC 377"

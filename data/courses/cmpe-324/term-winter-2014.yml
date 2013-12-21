@@ -1,0 +1,42 @@
+season: winter
+year: "2014"
+
+sections:
+
+  - type: lecture
+    mandatory: true
+    session: Regular Academic Session
+    campus: main
+
+    solus:
+      id: "NNNN"
+      index: "001"
+
+    timeslots:
+
+      - location: "MCLAUGHLIN RM306"
+        day_of_week: 3
+        start_time: "08:30"
+        end_time: "09:30"
+        term_start: "2014-01-06"
+        term_end: "2014-04-04"
+        instructors:
+          - ref: instructors/blostein-dorothea
+
+      - location: "MCLAUGHLIN RM306"
+        day_of_week: 4
+        start_time: "10:30"
+        end_time: "11:30"
+        term_start: "2014-01-06"
+        term_end: "2014-04-04"
+        instructors:
+          - ref: instructors/blostein-dorothea
+
+      - location: "MCLAUGHLIN RM306"
+        day_of_week: 6
+        start_time: "09:30"
+        end_time: "10:30"
+        term_start: "2014-01-06"
+        term_end: "2014-04-04"
+        instructors:
+          - ref: instructors/blostein-dorothea
