@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is an introduction to various qualitative research methods used in planning. Theoretical and ethical issues regarding qualitative research methods are also discussed. Students will have opportunities to critically explore the development of a planning project from posing a research question through to the presentation of findings.", 
+        "subject": "SURP", 
+        "number": "812", 
+        "title": "Qualitative Methods Planning"
+    }
+}

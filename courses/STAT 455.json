@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "typically_offered": "Winter", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 STAT353 or (STAT269 or STAT351) with permission of the Department).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Markov chains, birth and death processes, random walk problems, elementary renewal theory, Markov processes, Brownian motion and Poisson processes, queuing theory, branching processes. Given jointly with STAT 855*.", 
+        "subject": "STAT", 
+        "number": "455", 
+        "title": "Stochastic Processes & Applic"
+    }
+}

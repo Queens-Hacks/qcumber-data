@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHIL361 or ELEC270.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "From first-order monadic predicate calculus to polyadic predicate calculus with identity. Symbolization, rules of inference, derivation and refutation of arguments. Introduction to modal logics.", 
+        "subject": "PHIL", 
+        "number": "362", 
+        "title": "Further Studies in Logic"
+    }
+}

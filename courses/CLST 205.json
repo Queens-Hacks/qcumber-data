@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Blended": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
+        "career": "Distance Studies", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The techniques by which humour was created in literature and the visual arts in antiquity; social and psychological aspects of humour.", 
+        "subject": "CLST", 
+        "number": "205", 
+        "title": "Ancient Humour"
+    }
+}

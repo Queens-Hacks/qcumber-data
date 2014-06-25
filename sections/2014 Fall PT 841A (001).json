@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "2894", 
+        "subject": "PT", 
+        "status": "Open", 
+        "course": "841A", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (2894)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-22T00:00:00", 
+            "instructors": [
+                "Norman, Kathleen E"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 1, 
+            "location": "BOTTER RM B143"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-22T00:00:00", 
+            "instructors": [
+                "Norman, Kathleen E"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 5, 
+            "location": "BOTTER RM B147"
+        }
+    ]
+}

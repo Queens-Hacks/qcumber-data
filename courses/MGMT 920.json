@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course studies the theoretical foundations of the financial problems faced by individuals and firms under conditions of uncertainty. Contemporary theory is examined as it relates to portfolio selection by individuals, equilibrium market values of capital assets, the behaviour of capital asset prices and yields over time. (Crossed with ECON-870*.)", 
+        "subject": "MGMT", 
+        "number": "920", 
+        "title": "Finance Theory"
+    }
+}

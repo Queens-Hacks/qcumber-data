@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Subject matter will vary from year to year. Three term-hours, Fall or winter; Seminar or reading course.", 
+        "subject": "MATH", 
+        "number": "932", 
+        "title": "Topics In Applied Mathematics"
+    }
+}

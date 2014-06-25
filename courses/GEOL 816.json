@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Mechanisms of brittle and ductile deformation applied to geological structures and rock fabrics. Emphasis is on structures in fold and thrust belts, fracture and vein analysis, and studies of superposed deformation. (Offered jointly with GEOL-481*, but extra assignments are given.)", 
+        "subject": "GEOL", 
+        "number": "816", 
+        "title": "Advanced Structural Geology"
+    }
+}

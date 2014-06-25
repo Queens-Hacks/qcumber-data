@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A multi-disciplinary course exploring advanced concepts of clinical neuroscience . Topics can include stroke, traumatic brain and cord injuries, neurodegenerative disorders, epilepsy, schizophrenia, depression, deep brain stimulation, pain and placebo effects, normal and abnormal aging, stem cells. Students will learn to critically evaluate scientific literature and present these concepts to classmates during student-led seminars. Enrolment is limited.", 
+        "subject": "NSCI", 
+        "number": "829", 
+        "title": "Clinical Neuroscience"
+    }
+}

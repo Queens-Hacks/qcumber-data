@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "An overview of the major themes, approaches, and methods of geographic information science and related GIS software tools. Spatial analysis, fundamentals of cartography, and fundamentals of data management.\u00a0 Students will gain exposure at a level appropriate for effectively managing and using spatial data for graduate level projects.\u00a0 (1.5 credit units). PREREQUISITE: Permission of the instructor EXCLUSION: GEOL 463, GPHY 243", 
+        "subject": "GEOL", 
+        "number": "811", 
+        "title": "Introduction to GIScience"
+    }
+}

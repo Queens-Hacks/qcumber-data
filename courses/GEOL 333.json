@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GEOL104 or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the principles of geomorphology relevant to Geological Sciences and Geological Engineering.\u00a0 An emphasis is made on the evaluation of terrain features using analog and digital imagery using traditional and digital (GIS) methods. Terrain analysis using computational\u00a0 methods, generation of surface models from LiDAR.", 
+        "subject": "GEOL", 
+        "number": "333", 
+        "title": "Terrain Evaluation"
+    }
+}

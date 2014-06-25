@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 in a GPHY or GISC plan, or permission of the Department.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides intensive coverage of a topic in Geographic Information Science and will be offered periodically by visiting professors. Consult the Departmental homepage for details on specific course offerings each year.", 
+        "subject": "GPHY", 
+        "number": "372", 
+        "title": "Special Topics Geographic Information Science"
+    }
+}

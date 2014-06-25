@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "EXCLUSIONS: ANAT-899, BCHM-899, MICR-899, PHAR-899, PHGY-899", 
+        "subject": "BMED", 
+        "number": "899", 
+        "title": "Master's Thesis Research"
+    }
+}

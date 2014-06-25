@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8728", 
+        "subject": "EPID", 
+        "status": "Open", 
+        "course": "825", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (8728)", 
+    "classes": [
+        {
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "O'Connor, Kathleen Owen Steel"
+            ], 
+            "end_time": "1900-01-01T12:00:00", 
+            "start_time": "1900-01-01T09:00:00", 
+            "day_of_week": 1, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6413", 
+        "subject": "GNDS", 
+        "status": "Open", 
+        "course": "326", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (6413)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Jafri, Beenash"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "STIRLING RM414"
+        }
+    ]
+}

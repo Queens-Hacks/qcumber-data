@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "CHEE229 excludes MICR221.\u00a0 Prerequisite of APSC131 and APSC132 and registration in a BSCE Academic Plan is required.", 
+        "CEAB": {
+            "Basic Sci": 35, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 13, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.75"
+    }, 
+    "basic": {
+        "description": "Introduction to the Biological, Biochemical and Life Science principles of cell/enzyme based engineering systems and processes.\u00a0 The emphasis will be placed on microbial cell culture, but comparisons will be drawn to related systems including viral, plant and animal cell culture as it relates to medicine, industrial practice or the environment.", 
+        "subject": "CHEE", 
+        "number": "229", 
+        "title": "Cell Based Engineering Princip"
+    }
+}

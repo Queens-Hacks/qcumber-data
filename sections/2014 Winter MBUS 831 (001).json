@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6732", 
+        "subject": "MBUS", 
+        "status": "Closed", 
+        "course": "831", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (6732)", 
+    "classes": [
+        {
+            "term_end": "2014-04-12T00:00:00", 
+            "term_start": "2014-01-03T00:00:00", 
+            "instructors": [
+                "Handelman, Jay"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

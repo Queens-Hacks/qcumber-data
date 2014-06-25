@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4852", 
+        "subject": "PACT", 
+        "status": "Closed", 
+        "course": "333A", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "PRA", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-PRA (4852)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Jackson, Kathy"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

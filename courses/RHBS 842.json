@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }, 
+    "basic": {
+        "description": "The role of exercise as a treatment modality will be examined in two chronic diseases with a metabolic underpinning: renal disease and diabetes. Topics will include the physiological limitations that can be addressed with exercise rehabilitation as well as maintenance of physiological health and wellbeing. (NOTE 1.0 credit unit course.\u00a0 EXCLUSION: RHBS-873*", 
+        "subject": "RHBS", 
+        "number": "842", 
+        "title": "Exercise Rehabilitation-Metabolic"
+    }
+}

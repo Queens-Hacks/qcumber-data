@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8138", 
+        "subject": "WRIT", 
+        "status": "Open", 
+        "course": "290", 
+        "year": "2015", 
+        "solus_id": "700", 
+        "type": "ONL", 
+        "season": "Winter"
+    }, 
+    "_unique": "700-ONL (8138)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "May, Robert G"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

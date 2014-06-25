@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course establishes the analytical foundations for the maintenance of heavy industrial plant and mobile equipment in a production environment. Topics covered are: maintenance planning and life-cycle behaviour; condition monitoring, including vibration analysis; organization and management of maintenance; reliability centered maintenance.\u00a0 Three term hours, fall and winter term; lectures. L.K. Daneshmend", 
+        "subject": "MINE", 
+        "number": "851", 
+        "title": "Maintenance Engineering"
+    }
+}

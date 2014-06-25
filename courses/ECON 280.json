@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON110 OR ECON111", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An examination of the interrelationships between changes in the size, composition and distribution of population and changes in the economy. Application is made of some elementary concepts of economic theory and some basic techniques of demographic analysis are introduced. Illustrations are drawn from both the Canadian and the international settings.", 
+        "subject": "ECON", 
+        "number": "280", 
+        "title": "Population and Economic Change"
+    }
+}

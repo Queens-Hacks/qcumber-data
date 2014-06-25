@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.02"
+    }, 
+    "basic": {
+        "description": "", 
+        "subject": "MIR", 
+        "number": "803", 
+        "title": "Quantitative Skills"
+    }
+}

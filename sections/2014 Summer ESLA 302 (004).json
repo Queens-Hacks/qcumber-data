@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2325", 
+        "subject": "ESLA", 
+        "status": "Open", 
+        "course": "302", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "004-LEC (2325)", 
+    "classes": [
+        {
+            "term_end": "2014-09-10T00:00:00", 
+            "term_start": "2014-08-20T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

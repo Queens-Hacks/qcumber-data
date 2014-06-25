@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The first part of the course covers the basic optimization techniques used in static economic analysis and their application to a number of problems in economic theory. The second part of the course is devoted to static general equilibrium theory. The major emphasis is placed on the proof of the existence of a competitive equilibrium and the proof of the classical optimality properties of competitive equilibrium. Other topics which may be covered include the computation of equilibrium, non-Walrasian equilibrium theory, n-person game theory and its applications to economic models, monopolistic competition, the Leontief economy, the two-sector general equilibrium model, duality theory, index numbers and aggregation.", 
+        "subject": "ECON", 
+        "number": "856", 
+        "title": "Static Optimization"
+    }
+}

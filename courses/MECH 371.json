@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH270 or MECH271 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 11, 
+            "Math": 0, 
+            "Eng Des": 11, 
+            "Eng Sci": 20, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Fracture Mechanics are developed to explain crack propagation in materials and structures. This includes development of the strain energy release rate (GIC) and the critical stress intensity factor (KIC). Emphasis will be placed on developing the correlation between microstructure control and the resistance to crack propagation which this variable produces. Dislocation theory will be evoked to analyse the stress fields of point, line and plane defects. Plasticity and fracture will be detailed, which includes the time dependent aspects of such processes as static fatigue and creep fracture.", 
+        "subject": "MECH", 
+        "number": "371", 
+        "title": "Fracture Mech & Dislocation"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Summer", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An intensive six-week study of archaeological methods and interpretation while participating in a fieldwork project in Jordan (Humayama) run by a member of the Classics Department.", 
+        "subject": "CLAS", 
+        "number": "808", 
+        "title": "Archaeology Fieldwork Jordan"
+    }
+}

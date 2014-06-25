@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE: ENPH 239 (PHYS 239, ENPH 345 (PHYS 345)\r\nEXCLUSIONS:\u00a0\u00a0 ENPH380 (PHYS380), ENPH481(PHY481).", 
+        "CEAB": {
+            "Basic Sci": 31, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 11, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An introduction to the properties of insulators, semiconductors and metals. Topics include: crystal structure, X-ray and neutron scattering, the reciprocal lattice, phonons, electronic energy bands, and the thermal, magnetic, optical and transport properties of solids.", 
+        "subject": "ENPH", 
+        "number": "480", 
+        "title": "Solid State Physics"
+    }
+}

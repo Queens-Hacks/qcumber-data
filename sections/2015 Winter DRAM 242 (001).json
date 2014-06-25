@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2201", 
+        "subject": "DRAM", 
+        "status": "Open", 
+        "course": "242", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "PRA", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-PRA (2201)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Redish, Adair"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "THEOLOGICAL RM102"
+        }
+    ]
+}

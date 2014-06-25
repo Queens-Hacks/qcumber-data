@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 SPAN302 or permission of the Department of Languages, Literatures and Cultures.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course discusses the main concepts and methods of linguistic analysis, focusing on Spanish. The course introduces concepts and techniques of sentence structure analysis (syntax), word formation (morphology), and meaning (semantics).", 
+        "subject": "SPAN", 
+        "number": "410", 
+        "title": "Spanish Syntax"
+    }
+}

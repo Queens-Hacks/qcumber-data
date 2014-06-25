@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Topic selected under the supervision of a faculty member. Emphasis is on the application of software engineering techniques to the development of a substantial software system. Group work, oral presentation, participation in design and code review meetings, and delivery of complete software specification and design are required.", 
+        "subject": "CISC", 
+        "number": "498B", 
+        "title": "Information Technology Project"
+    }
+}

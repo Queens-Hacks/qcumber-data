@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 36, 
+            "Eng Sci": 0, 
+            "Comp St": 12
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Students will be assigned individual design topics of the type a practicing engineering physicist might expect to encounter. They must develop a solution under the supervision of a faculty member, and give oral and written presentations to an examining committee. Grades will be based on the quality of the analysis of the problem, the proposed solution, and the written and oral presentations. The demonstration of effective written and oral communications skills is required.", 
+        "subject": "ENPH", 
+        "number": "455B", 
+        "title": "Engineering Physics Thesis"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 17, 
+            "Eng Sci": 25, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An introduction to the principles of noise control. Topics include: basic properties of sound and noise, the measurement of noise, effects of noise on people, description of sound fields, acoustics of rooms and enclosures, acoustical materials and structures, and noise source identification. A coherent approach to the solution of noise control problems is stressed throughout the course.", 
+        "subject": "MECH", 
+        "number": "482", 
+        "title": "Noise Control"
+    }
+}

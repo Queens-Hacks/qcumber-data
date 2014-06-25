@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Winter", 
+        "enrollment_requirement": "Prerequisite of APSC112 and APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 20, 
+            "Math": 11, 
+            "Eng Des": 0, 
+            "Eng Sci": 14, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.80"
+    }, 
+    "basic": {
+        "description": "A study of the fundamental aspects of electromagnetic fields. The following topics are covered: partial differential equations for transmission lines and Maxwell\u00bfs equations; vector analysis, including orthogonal coordinate systems, and the calculus of field quantities; electrostatic fields including the concepts of electric potential, capacitance, and current and current density; magnetostatic fields including inductance; time\u00bfvarying fields and the complete form of Maxwell's equations; basic transmission line phenomena including steady\u00bfstate sinusoidal behaviour and standing waves, transient performance and impedance matching.", 
+        "subject": "ELEC", 
+        "number": "280", 
+        "title": "Fund. Of Electromagnetics"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "basic": {
+        "class_num": "2687", 
+        "subject": "COMM", 
+        "status": "Open", 
+        "course": "163", 
+        "year": "2013", 
+        "solus_id": "004", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "004-LEC (2687)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T13:00:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "GOODES RM308"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "GOODES RM308"
+        }
+    ]
+}

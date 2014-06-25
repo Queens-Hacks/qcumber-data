@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1063", 
+        "subject": "STAT", 
+        "status": "Closed", 
+        "course": "898", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (1063)", 
+    "classes": [
+        {
+            "term_end": "2015-08-12T00:00:00", 
+            "term_start": "2015-05-01T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

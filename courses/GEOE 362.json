@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 18, 
+            "Comp St": 12
+        }, 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GEOE 232 (GEOL 232) and GEOE 221 (GEOL 211), or permission of the instructor.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An earth-system engineering perspective on the nature and acquisition of energy, mineral and water resources, with particular emphasis on the environment considerations in their extraction, processing, and use.\u00a0 Criteria for designing resource exploration programmes are examined.\u00a0 Practical exercises, projects and seminars (team and individual) deal with these issues, and include the design of risk-management plans, environmental life-cycle assessments, sustainable systems, and ore-reserve estimations.", 
+        "subject": "GEOE", 
+        "number": "362", 
+        "title": "Resource Engineering"
+    }
+}

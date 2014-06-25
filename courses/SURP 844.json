@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 36
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines real estate market research, project planning finance and development techniques. Residential, retail and office market analysis and development are studied through lectures and case study discussions. Learning materials approx. $30.", 
+        "subject": "SURP", 
+        "number": "844", 
+        "title": "Real Estate Plan & Development"
+    }
+}

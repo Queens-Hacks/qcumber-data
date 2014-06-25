@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 Second year standing or above", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An investigation of the impact of war on art and architecture, as well as human attempts to preserve cultural heritage. A chronological or thematic approach may be taken, with focus placed on one or more case studies, such as: the Sacks of Rome, the Napoleonic wars, Nazi looting, the Cultural Revolution in China, Afghanistan under Taliban rule.", 
+        "subject": "ARTH", 
+        "number": "260", 
+        "title": "Culture and Conflict"
+    }
+}

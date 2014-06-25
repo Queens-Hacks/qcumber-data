@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 MATH328 and MATH231, or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topics include: global properties of flows and diffeomorphisms, Invariant sets and dynamics, Bifurcations of fixed and periodic points; stability and chaos. Examples will be selected by the instructor. Given jointly with MATH 827/3.0.", 
+        "subject": "MATH", 
+        "number": "427", 
+        "title": "Introduction to Deterministic Dynamical Systems"
+    }
+}

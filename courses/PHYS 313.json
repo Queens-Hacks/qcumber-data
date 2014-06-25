@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (PHYS212 and PHYS239) and (MATH221 or MATH280) and (MATH232 or MATH231).\r\nExclusions\u00a0\u00a0\u00a0 No more than 3.0 units from\u00a0 CISC271; MATH272; PHYS313.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction to Linux and a programming language.\u00a0Foundations and limitations of numerical calculations.\u00a0Code development, debugging, optimization and profiling.\u00a0Algorithms and techniques used in physics problems.\u00a0Possible topics to be covered include numerical differentiation and integration, root finding and optimization problems, solution of linear systems of equations, Monte Carlo simulations, symbolic computation.", 
+        "subject": "PHYS", 
+        "number": "313", 
+        "title": "Computational Methods in Physics"
+    }
+}

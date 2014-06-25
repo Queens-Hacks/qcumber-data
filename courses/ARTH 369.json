@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of third year standing or above", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Theory and practice of architecture and town planning from the 15th to the late 16th centuries in Italy and elsewhere in Europe.", 
+        "subject": "ARTH", 
+        "number": "369", 
+        "title": "Architecture of the Renaissance Period"
+    }
+}

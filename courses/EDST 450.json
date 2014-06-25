@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Restricted to BED/DED Program", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is intended for candidates who are not in the Aboriginal Teacher Education Program (ATEP) track. Introductory course for candidates wishing to develop a basic understanding and appreciation of Aboriginal education, which is a unique and evolving field of study bring together different disciplines and perspectives of knowledge grounded in the world view of North American Aboriginal cultures. Acknowledges the legitimacy of Aboriginal perspectives and fosters a sensitivity to traditional values of Aboriginal peoples. Emphasis on understanding the historical development of Aboriginal peoples as they see it, learning the nature of Aboriginal cultures from their teachings, and linking anthropological and sociological frames of reference for teachers choosing to further Aboriginal education. Provides an introduction to issues in Aboriginal education and an enrichment experience in the area of curriculum planning. Some topics are human needs as the basis for curriculum; public, personal and inter-personal meaning in curriculum in the context of Aboriginal education; examples of instrumental and experiential approaches to teaching and learning; aspects of curriculum logistics as applied to northern classroom; and material appropriate for use in teaching about Aboriginal peoples.", 
+        "subject": "EDST", 
+        "number": "450", 
+        "title": "Intro to Aboriginal Education"
+    }
+}

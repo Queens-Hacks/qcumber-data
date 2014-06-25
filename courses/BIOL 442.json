@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL206.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An exploration of human disease, illness, and injury, and the symptoms and treatments of medical conditions, with an evolutionary framework.", 
+        "subject": "BIOL", 
+        "number": "442", 
+        "title": "Evolutionary Medicine"
+    }
+}

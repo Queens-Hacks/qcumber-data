@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "class_num": "4968", 
+        "subject": "PHYS", 
+        "status": "Open", 
+        "course": "104B", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-LAB (4968)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING RM412A"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING RM512"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING RM513"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING RM514"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "In this course advanced technologies for metals extraction are discussed and evaluated. Metals of interest include: magnesium, titanium, zirconium and uranium. Both pyrometallurgical and hydrometallurgical aspects of the extraction processes are described. Emerging technologies such as plasma processing and microwave processing are reviewed. The course material can be tailored to the interests of the students. Each student performs a literature review and writes a report on a suitable topic in metals extraction. Three term-hours, fall or winter term; lectures. C.A. Pickles", 
+        "subject": "MINE", 
+        "number": "839", 
+        "title": "Advanced Metals Extraction"
+    }
+}

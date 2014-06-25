@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines experimental, analytical and numerical methods employed for evaluating and predicting forming limits in a variety of industrial metal forming operations. The concept of a forming limit diagram (FLD) is introduced and related to classical theories for plastic instability and failure. Constitutive equations of elastic-plastic flow are derived using a continuum mechanics approach, with additional discussion regarding issues of plastic anisotropy, damage accumulation, localization and material length scales. Three term-hours.\u00a0 K. Pilkey.", 
+        "subject": "MECH", 
+        "number": "861", 
+        "title": "Principles Of Metal Forming"
+    }
+}

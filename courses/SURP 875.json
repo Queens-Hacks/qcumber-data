@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is meant to develop an understanding of policy and program delivery mechanisms for community services. The focus of the course is on how individuals and communities as clients of these programs experience their effects. The course will be structured around individualized field placements in public and non-profit agencies. The observations and experiences of the field assignment in concert with faculty supervision will be the primary mode of learning in this course. (Offered contingent upon finding an appropriate supervisor).", 
+        "subject": "SURP", 
+        "number": "875", 
+        "title": "Community Practicum in Service Delivery"
+    }
+}

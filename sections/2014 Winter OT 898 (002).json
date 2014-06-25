@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6148", 
+        "subject": "OT", 
+        "status": "Open", 
+        "course": "898", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LEC (6148)", 
+    "classes": [
+        {
+            "term_end": "2014-08-29T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Woodbury, Gail"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "TBA"
+        }
+    ]
+}

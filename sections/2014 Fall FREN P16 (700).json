@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6217", 
+        "subject": "FREN", 
+        "status": "Open", 
+        "course": "P16", 
+        "year": "2014", 
+        "solus_id": "700", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "700-SEM (6217)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Dhavernas, Catherine D Marie"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 Level 4 and reg in a FILM Major or Medial Plan and (a GPA of 2.6 in FILM) and (18.0 units in FILM).", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced course in developing expertise in research and critical writing concerning contemporary world cinema, media arts, and other cultural phenomena.\nNOTE\u00a0\u00a0\u00a0 Students will be asked to view material and visit exhibitions outside of class time.", 
+        "subject": "FILM", 
+        "number": "400", 
+        "title": "Special Topics in Film, Media, and Cultural Studies"
+    }
+}

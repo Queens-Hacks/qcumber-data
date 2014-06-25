@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prereq ELEC293 Coreq ELEC294 and registered in BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "A year-long team design project based around an autonomous, programmable, robotic vehicle. Students explore different sensors and software strategies for vehicle control and navigation, in addition to wiring up sensor and motor circuits. The design goal is to configure and program a vehicle to take part in a year-end competition in which robots compete head-to-head on a pre-defined playfield under established competition rules. Mid-year and final project reports must be produced that document the experimentation, design, and testing. A final exam tests knowledge of sensors and software", 
+        "subject": "ELEC", 
+        "number": "299", 
+        "title": "Autonomous Robot Design Project"
+    }
+}

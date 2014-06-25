@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1270", 
+        "subject": "LAW", 
+        "status": "Open", 
+        "course": "585A", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "IND", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-IND (1270)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00", 
+            "instructors": [
+                "Adell, Bernard"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

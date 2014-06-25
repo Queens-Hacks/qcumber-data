@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 MATH310 or MATH313.\r\nEquivalency\u00a0\u00a0\u00a0 MATH314.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to Galois Theory and some of its applications.", 
+        "subject": "MATH", 
+        "number": "414", 
+        "title": "Introduction to Galois Theory"
+    }
+}

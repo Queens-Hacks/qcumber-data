@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topics include pseudopotential theory of metals, band theory of ordered and disordered solids, linear response theory, density functional theory, field theories of phase transitions.", 
+        "subject": "PHYS", 
+        "number": "983", 
+        "title": "Advanced Solid State Theory"
+    }
+}

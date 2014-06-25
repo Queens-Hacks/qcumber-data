@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3439", 
+        "subject": "GEOE", 
+        "status": "Open", 
+        "course": "337", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (3439)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "MILLER RM409"
+        }
+    ]
+}

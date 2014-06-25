@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC322 and CISC325 \r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CISC423; SOFT423", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Advanced user interface styles such as multimedia, support for collaboration over the Internet, virtual reality and wearable computers. Processes supporting the design of advanced user interfaces. Implementation techniques. Alternately offered as CISC 425/3.0.\u00a0", 
+        "subject": "CMPE", 
+        "number": "425", 
+        "title": "Advanced User Interface Design"
+    }
+}

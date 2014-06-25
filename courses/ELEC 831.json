@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Fundamentals of loss-less switching techniques: zero-voltage switching, zero-current switching. Resonant converters: series, parallel and series-parallel topologies; Soft-switching converters: natural and auxiliary commutation converter topologies; Control techniques: variable frequency, phase-shift and hybrid control. Applications to single-phase three-phase and multi-level converters. Special emphasis will be placed on the design techniques using practical examples. Three term-hours, lectures.P. Jain.", 
+        "subject": "ELEC", 
+        "number": "831", 
+        "title": "Power Electronics"
+    }
+}

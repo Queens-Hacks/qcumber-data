@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course considers the physical basis of microstructural evolution during processing of metal alloys. The thermodynamics and kinetics of the following phase transformations are discussed. Solidification, precipitation, cellular transformation, martensite, spinodal, decomposition, order/disorder and recrystallization. Examples are drawn mainly from the thermomechanical processing of modern microalloyed steels. Three term-hours, J.D. Boyd.", 
+        "subject": "MECH", 
+        "number": "860", 
+        "title": "Principles Of Phys. Metallurgy"
+    }
+}

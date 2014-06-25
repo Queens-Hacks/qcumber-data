@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 18
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This course provides advanced instruction and practice in effective technical writing and oral presentation. Most exercises will be linked to required oral and written communications tasks in other courses. Open to Chemical Engineering and Engineering Chemistry students only.", 
+        "subject": "CHEE", 
+        "number": "360B", 
+        "title": "Technical Communications II"
+    }
+}

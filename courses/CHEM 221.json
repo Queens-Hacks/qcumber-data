@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 CHEM112 and 6.0 units from 1st year MATH", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A survey of the thermodynamic properties of gases and liquids, including phase and chemical equilibria and electrochemistry. An introduction to the properties of materials, interfaces, surfaces and aqueous solutions. The laboratory uses modern software to facilitate equilibrium calculations, illustrates measurement techniques and develops laboratory skills. \r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $20.", 
+        "subject": "CHEM", 
+        "number": "221", 
+        "title": "Material, Solutions, Interfaces"
+    }
+}

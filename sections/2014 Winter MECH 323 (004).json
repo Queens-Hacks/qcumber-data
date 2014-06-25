@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4382", 
+        "subject": "MECH", 
+        "status": "Open", 
+        "course": "323", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "004-LAB (4382)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Kim, Il Yong"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM109"
+        }
+    ]
+}

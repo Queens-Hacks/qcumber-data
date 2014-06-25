@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "COREQ: MTHE 280\r\nEXCLUSION: STAT 251\r\nMust be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 42, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course is a PREREQUISITE for theoretical statistics courses and further courses in probability and stochastic processes. Basic probability theory: probability models; discrete and continuous random variables; moments; jointly distributed random variables; transformations and generating functions. Inequalities and limit laws. Distributions include: binomial, Poisson, exponential, gamma, normal. Applications include: elementary stochastic processes, time-to-failure models, binary communication channels with Gaussian noise.", 
+        "subject": "MTHE", 
+        "number": "351", 
+        "title": "Probability I"
+    }
+}

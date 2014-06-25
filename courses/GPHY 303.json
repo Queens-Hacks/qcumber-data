@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "GPHY208 OR GPHY209", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Focusing on the Great Lakes, the physical processes of lakes and the landforms that result.\r\nNOTE\u00a0\u00a0 \u00a0Field trip: estimated cost $20.", 
+        "subject": "GPHY", 
+        "number": "303", 
+        "title": "Physical Limnology"
+    }
+}

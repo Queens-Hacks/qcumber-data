@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "(MATH128 AND MATH129) OR COMM161 OR (APSC171 AND APSC172) OR MATH12##", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Exploratory data analysis -- graphical and statistical analysis and presentation of experimental data.\u00a0 Random sampling.\u00a0 Probability and probability models for discrete and continuous random variables.\u00a0 Process capability.\u00a0 Normal probability graphs.\u00a0 Sampling distribution of means and proportions.\u00a0 Statistical Quality Control and Statistical Process Control.\u00a0 Estimation using confidence intervals.\u00a0 Testing of hypothesis procedures for means, variances and proportions -- one and two samples cases.\u00a0 Liner regression, residuals and correlation.\u00a0 ANOVA.\u00a0 Use of statistical software. (44/0/0/4/0)", 
+        "subject": "STAT", 
+        "number": "367", 
+        "title": "Engineering Data Analysis"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Corequiste:\u00a0 Mine 330 or APSC 321 or permission of the instructor Prerequisite: APSC 221 or permission of the insturctor", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 14, 
+            "Eng Des": 24, 
+            "Eng Sci": 16, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "This course presents technologies and techniques employed in open pit mining with a focus on strategic and operations planning considerations. Topics of study include: pit design, application of algorithms for economic pit limit analysis, equipment selection, production scheduling, material control and reconciliation, remote sensing and geomatics applications, mine waste management, emerging trends in open pit mining, and mine safety. Regulatory controls and best practices in design are stressed for all stages of the mine life cycle. Environmental impacts of design decisions and mitigating strategies are explored. The use of software at various stages of the design and planning process is introduced and a strategic design project completed using commercial software applications.", 
+        "subject": "MINE", 
+        "number": "341", 
+        "title": "Open Pit Mining"
+    }
+}

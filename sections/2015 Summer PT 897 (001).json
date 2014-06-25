@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1002", 
+        "subject": "PT", 
+        "status": "Closed", 
+        "course": "897", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-SEM (1002)", 
+    "classes": [
+        {
+            "term_end": "2015-08-31T00:00:00", 
+            "term_start": "2015-06-01T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

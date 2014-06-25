@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH110 or MATH111 or MATH112) and (MATH120 or MATH121 or MATH122 or MATH123 or MATH124 or MATH126) and CISC124.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction to fundamental concepts and applications in image processing and computer vision. Topics include image acquisition, convolution, Discrete Fourier Transform, image enhancement, edge detection, segmentation, image registration, human contrast perception, colour perception and reproduction, stereo vision.", 
+        "subject": "CMPE", 
+        "number": "457", 
+        "title": "Image Processing & Computer"
+    }
+}

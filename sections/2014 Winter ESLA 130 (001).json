@@ -1,0 +1,105 @@
+{
+    "basic": {
+        "class_num": "8359", 
+        "subject": "ESLA", 
+        "status": "Open", 
+        "course": "130", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (8359)", 
+    "classes": [
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM D214"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM D209"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "JEFFERY RM102"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "MACINTOSH-CORRY RM D122"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "MILLER RM210"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "MACINTOSH-CORRY RM E229"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "STIRLING RM414"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "MACINTOSH-CORRY RM D214"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "JEFFERY RM110"
+        }, 
+        {
+            "term_end": "2014-04-10T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "MACINTOSH-CORRY RM D216"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2347", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "822", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2347)", 
+    "classes": [
+        {
+            "term_end": "2014-07-30T00:00:00", 
+            "term_start": "2014-07-03T00:00:00", 
+            "instructors": [
+                "Saryal, Fatma"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

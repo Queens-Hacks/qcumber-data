@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Clinical": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "A 6-week full-time placement providing experience in physiotherapy practice in a clinical facility or community-based agency. During their fourth clinical placement students will be expected to further develop their skills, knowledge and behaviours and integrate material presented during block 3 in year two. By the end of the clinical placement students should have developed skills to work efficiently as a member of a multidisciplinary health care team, providing consultation and care to clients of all ages and with simple to complex conditions. In addition, students will be expected to demonstrate knowledge of the business, administrative and legal issues related to clinical practice.", 
+        "subject": "PT", 
+        "number": "884", 
+        "title": "Clinical Placement IV"
+    }
+}

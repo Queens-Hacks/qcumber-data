@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Exam": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "LATN209", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "", 
+        "subject": "LATN", 
+        "number": "591", 
+        "title": "General Examination"
+    }
+}

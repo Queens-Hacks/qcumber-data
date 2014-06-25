@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "Provides teacher candidates with the opportunity to develop understandings, skills and attitudes to effectively teach physical and health education and to help children develop\u00a0active healthy lifestyles. Candidates become familiar with Ministry of Education curriculum documents and a variety of teaching/learning strategies and resources.", 
+        "subject": "CURR", 
+        "number": "395", 
+        "title": "Health & Physical Educ (PJ)"
+    }
+}

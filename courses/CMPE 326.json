@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Undergraduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 17, 
+            "Eng Sci": 19, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to software architectural design through the application domain of game development. Topics will include notations for expressing static and dynamic aspects of software architecture, design patterns, interface design, and application of these techniques to 3D games, mobile games and web\u00bfbased games.", 
+        "subject": "CMPE", 
+        "number": "326", 
+        "title": "Game Architecture"
+    }
+}

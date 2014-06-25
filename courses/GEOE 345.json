@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Exclusion: GEOL445.\u00a0 Completion of 2nd year in GEOL-N-BSE required.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 36, 
+            "Eng Sci": 0, 
+            "Comp St": 12
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "The course provides involves a team approach to tackling current geological engineering problems and developing innovative solutions. Critical site investigation and site selection decisions are proposed, undertaken and tested with consideration of downstream engineering issues and constraints. The course relies on student consultation with guest participants, most of whom are practicing professional engineers. Additionaly, topics such as professional liability and ethics, environmental legislation, and the Occupational Health and Safety Act are presented and discussed. In addition, formalized design tools including FMEA, QRA will be utilized. Course includes a field exercise in modern engineering investigation methods.", 
+        "subject": "GEOE", 
+        "number": "345", 
+        "title": "Site Invest & Geol Eng. Design"
+    }
+}

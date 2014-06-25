@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2285", 
+        "subject": "CURR", 
+        "status": "Open", 
+        "course": "393", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2285)", 
+    "classes": [
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-11T00:00:00", 
+            "instructors": [
+                "Grant, Christina"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

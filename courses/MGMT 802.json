@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This course will provide students with the foundations of qualitative research techniques. Topics covered in this course include, but are not limited to, observational field research, narratives, case histories, interviewing, principles of action research and grounded theory. The equivalent of at least one session of the 6 will be dedicated to ethical considerations associated with the qualitative methods.", 
+        "subject": "MGMT", 
+        "number": "802", 
+        "title": "Qualitative Research Method Design"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "basic": {
+        "class_num": "3547", 
+        "subject": "PROF", 
+        "status": "Open", 
+        "course": "101", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-TUT (3547)", 
+    "classes": [
+        {
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A232"
+        }, 
+        {
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A232"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite Level 3 or above in any DEVS plans", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Seminars offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each year.", 
+        "subject": "DEVS", 
+        "number": "396", 
+        "title": "Topics in Development Studies V"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "(Fall-Winter Technological Education candidates only). Teacher candidates further investigate theory, concepts, practices, and processes of the curriculum field to link the community to school technological education programs. Teacher candidates use this knowledge, and their professional and school experiences to an application of the community-based project curriculum model. Using this curriculum model, teacher candidates plan and write a Grade 11 or 12 course profile.", 
+        "subject": "CURR", 
+        "number": "369", 
+        "title": "Curriculum Dev in Tech Ed,Pt 2"
+    }
+}

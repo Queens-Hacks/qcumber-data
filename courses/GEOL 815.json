@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A seminar-based course focussing on advanced concepts in structural geology and Tectonics. Topics may include flow concepts applied to ductile deformation, description and interpretation of microstructural fabrics, subduction processes, fluid and faulting, modelling approaches to Tectonic problems, and exhumation processes of metamorphic rocks. Far field effects such as lithosphere rheology, climate, and erosion will also be discussed.", 
+        "subject": "GEOL", 
+        "number": "815", 
+        "title": "Topics In Tectonics"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ECON310 & ECON320", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced discussion of selected topics in macroeconomic theory, policy, and evidence. Analysis uses: two-period models; linear, rational expectations models; overlapping generations models; and the neoclassical growth model. These methods are applied to such topics as: asset-pricing; hyperinflation; exchange-rate overshooting; Ricardian equivalence; international evidence on sources of economic growth. Detailed reference is made to empirical evidence.", 
+        "subject": "ECON", 
+        "number": "421", 
+        "title": "Topics in Macroeconomics Theory"
+    }
+}

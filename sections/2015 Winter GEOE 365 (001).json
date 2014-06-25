@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "4000", 
+        "subject": "GEOE", 
+        "status": "Open", 
+        "course": "365", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (4000)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Kyser, Kurtis T"
+            ], 
+            "end_time": "1900-01-01T12:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 2, 
+            "location": "MILLER RM105"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Kyser, Kurtis T"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM105"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Kyser, Kurtis T"
+            ], 
+            "end_time": "1900-01-01T13:30:00", 
+            "start_time": "1900-01-01T12:30:00", 
+            "day_of_week": 5, 
+            "location": "MILLER RM105"
+        }
+    ]
+}

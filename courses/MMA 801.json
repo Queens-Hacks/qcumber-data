@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.88"
+    }, 
+    "basic": {
+        "description": "This course introduces students to the main functional areas of business and demonstrates how these areas interact to produce and market products and/or services effectively and efficiently.\u00a0 A key focus is the development and application of business management skills and financial analysis for decision-making.\u00a0 This focus necessitates a base-level understanding (which the course delivers) of strategic fit, as well as market, operational, and financial risk.\u00a0 The course also helps students understand the nature of the modern corporate enterprise in Canadian and international contexts, and of the tasks, practices, and responsibilities of its managers. Among other topics, the course will discuss ethical and legal issues in the collection and use of data, as well as the incorporation of analytics into the strategic planning process.", 
+        "subject": "MMA", 
+        "number": "801", 
+        "title": "Introduction to Management"
+    }
+}

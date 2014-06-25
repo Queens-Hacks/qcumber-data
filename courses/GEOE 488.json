@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: Fourth year Geological Engineering or permission of the department.", 
+        "CEAB": {
+            "Basic Sci": 20, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 16, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced course discussing the principles of earth evolution as exemplified by North America. The holistic approach illustrates the way in which geodynamics, geochemistry, sedimentation, paleo-biology and oceanography are used to unravel the history of the continent.", 
+        "subject": "GEOE", 
+        "number": "488", 
+        "title": "Geology Of North America"
+    }
+}

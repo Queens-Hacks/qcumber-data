@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "A twelve-week (minimum) practicum for candidates in the Aboriginal Teacher Education part-time, community-based program track. Candidates are placed in First Nations Federal or Provincial schools which follow Ontario curriculum guidelines.", 
+        "subject": "PRAC", 
+        "number": "195A", 
+        "title": "Practicum - ATEP"
+    }
+}

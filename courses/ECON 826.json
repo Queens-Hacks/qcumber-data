@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Macroeconomic and monetary theory in an open economy including topics such as:\u00a0 capital flows and models of the current account; international risk-sharing; sovereign debt; real and nominal exchange rates; currency crises; and the choice of exchange-rate regime.", 
+        "subject": "ECON", 
+        "number": "826", 
+        "title": "International Finance"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC323 or MATH335 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 36, 
+            "Eng Sci": 12, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Introduction to linear systems and feedback control. Analysis is done in both the time and frequency domains. Topics include time-domain specifications of second-order systems, PID control, steady-state error and disturbance rejection, root locus analysis, stability analysis using the Routh-Hurwitz criterion and the Nyquist criterion, and state-space analysis. These methods are applied and tested using software such as MATLAB/Simulink, and laboratory experiments.", 
+        "subject": "ELEC", 
+        "number": "443", 
+        "title": "Control Systems I"
+    }
+}

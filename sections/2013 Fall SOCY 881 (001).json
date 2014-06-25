@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8620", 
+        "subject": "SOCY", 
+        "status": "Open", 
+        "course": "881", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (8620)", 
+    "classes": [
+        {
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Lyon, David"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "MACINTOSH-CORRY RM A416"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "basic": {
+        "class_num": "1417", 
+        "subject": "APSC", 
+        "status": "Closed", 
+        "course": "111", 
+        "year": "2013", 
+        "solus_id": "102", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "102-LEC (1417)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-10T00:00:00", 
+            "instructors": [
+                "Knobel, Robert G"
+            ], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 1, 
+            "location": "STIRLING AUD"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Knobel, Robert G"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 2, 
+            "location": "STIRLING AUD"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Knobel, Robert G"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING AUD"
+        }, 
+        {
+            "term_end": "2013-09-14T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Knobel, Robert G"
+            ], 
+            "end_time": "1900-01-01T13:30:00", 
+            "start_time": "1900-01-01T12:30:00", 
+            "day_of_week": 5, 
+            "location": "ETHERINGTON AUD"
+        }
+    ]
+}

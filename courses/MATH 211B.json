@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Algebraic techniques used in applied mathematics, statistics, computer science and other areas. Polynomials, complex numbers; least squares approximations; discrete linear systems; eigenvalue estimation; non-negative matrices - Markov chains; permutation groups; linear Diophantine equations; introduction to algebraic structures.", 
+        "subject": "MATH", 
+        "number": "211B", 
+        "title": "Algebraic Methods"
+    }
+}

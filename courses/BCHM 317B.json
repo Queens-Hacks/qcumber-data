@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "BCHM 315/316 corequisite", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Application of separation and assay techniques to the study of proteins, metabolism and molecular biology. Attendance required in both terms. Enrollment will be limited because of laboratory constraints, and selection will be based on academic standing.", 
+        "subject": "BCHM", 
+        "number": "317B", 
+        "title": "Introductory Biochemistry Laboratory"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Artist in Community Education", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "(Artist in Community Education candidates only) Examines a number of problems that are of particular concern to teachers of the arts. Tries to discover the sources of our appreciation of works of art so that we may be in a better position to bring others - most notably our students - to share in that appreciation.", 
+        "subject": "FOUN", 
+        "number": "448B", 
+        "title": "Aesthetic Education"
+    }
+}

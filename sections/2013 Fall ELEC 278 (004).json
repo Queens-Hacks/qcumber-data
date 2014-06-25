@@ -1,0 +1,81 @@
+{
+    "basic": {
+        "class_num": "7804", 
+        "subject": "ELEC", 
+        "status": "Open", 
+        "course": "278", 
+        "year": "2013", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "004-LAB (7804)", 
+    "classes": [
+        {
+            "term_end": "2013-09-22T00:00:00", 
+            "term_start": "2013-09-16T00:00:00", 
+            "instructors": [
+                "Ahmed, Mirza Tahir"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM213"
+        }, 
+        {
+            "term_end": "2013-10-06T00:00:00", 
+            "term_start": "2013-09-30T00:00:00", 
+            "instructors": [
+                "Ahmed, Mirza Tahir"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM213"
+        }, 
+        {
+            "term_end": "2013-10-20T00:00:00", 
+            "term_start": "2013-10-14T00:00:00", 
+            "instructors": [
+                "Ahmed, Mirza Tahir"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM213"
+        }, 
+        {
+            "term_end": "2013-11-03T00:00:00", 
+            "term_start": "2013-10-28T00:00:00", 
+            "instructors": [
+                "Ahmed, Mirza Tahir"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM213"
+        }, 
+        {
+            "term_end": "2013-11-17T00:00:00", 
+            "term_start": "2013-11-11T00:00:00", 
+            "instructors": [
+                "Ahmed, Mirza Tahir"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM213"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-11-25T00:00:00", 
+            "instructors": [
+                "Ahmed, Mirza Tahir"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM213"
+        }
+    ]
+}

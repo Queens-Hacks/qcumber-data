@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON212", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topics vary from year to year, reflecting the interests of students and the instructor. One-third of the course is devoted to spatial theory and two-thirds to the application of economic theory to such problems as optimal city size, urban public finance, pollution and aesthetics, and housing, transportation and poverty problems in the urban setting.", 
+        "subject": "ECON", 
+        "number": "370", 
+        "title": "Urban and Regional Economics"
+    }
+}

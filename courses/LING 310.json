@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 LING100 or permission of the Department of Languages, Literatures and Cultures.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides a foundation in the study of speech sounds. The focus is on articulatory phonetics, how to classify and transcribe different sounds of speech according to their articulatory features. The course also offers an introduction to acoustic phonetics and feature geometry theory.", 
+        "subject": "LING", 
+        "number": "310", 
+        "title": "Phonetics"
+    }
+}

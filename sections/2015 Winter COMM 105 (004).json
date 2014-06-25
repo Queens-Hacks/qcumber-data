@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "1501", 
+        "subject": "COMM", 
+        "status": "Open", 
+        "course": "105", 
+        "year": "2015", 
+        "solus_id": "004", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "004-LEC (1501)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Goodspeed, Shannon C"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 2, 
+            "location": "GOODES RM108"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Goodspeed, Shannon C"
+            ], 
+            "end_time": "1900-01-01T10:00:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "GOODES RM108"
+        }
+    ]
+}

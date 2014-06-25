@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "7777", 
+        "subject": "EDUC", 
+        "status": "Closed", 
+        "course": "895", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LEC (7777)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Deluca, Christopher"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T17:30:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Deluca, Christopher"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T17:30:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }
+    ]
+}

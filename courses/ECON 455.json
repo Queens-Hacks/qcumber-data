@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "(ECON310 AND ECON255)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Applications of mathematics in economic analysis. Topics covered will generally include a review of optimization techniques as applied to consumer and producer theory, comparative statics, the envelope theorem, duality theory, welfare economics and general equilibrium theory. Optimization techniques to be covered will include nonlinear and dynamic programming. Offered concurrently with ECON 855/3.0.", 
+        "subject": "ECON", 
+        "number": "455", 
+        "title": "Mathematical Economics"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A research-informed internship in a context that enables learning through experience, under the guidance of an approved mentor, about issues germane to Aboriginal and World Indigenous Educational Studies. The Internship will be evaluated by a member of the Graduate Faculty approved by the Associate Dean of Graduate Studies.", 
+        "subject": "EDUC", 
+        "number": "878", 
+        "title": "Master's Internship"
+    }
+}

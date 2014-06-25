@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "In-depth analysis of experimental approaches for the study of insect viruses in cell culture and practical hands-on laboratory experience through a research project. (Offered concurrently with MICR-455 with additional work.) Enrollment may be limited.\u00a0 Spring term. E. Carstens.\u00a0 PREREQUISITES: MICR-221, BIOL-205, MBIO-318/BCHM-218 or equivalent. EXCLUSION: MICR-855*", 
+        "subject": "BMED", 
+        "number": "856", 
+        "title": "Practicum in Virology"
+    }
+}

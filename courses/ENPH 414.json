@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 24, 
+            "Math": 12, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "ENPH 321 (or PHYS 321) & ENPH 312 (or PHYS 312) or MTHE 338 (or MATH 338)", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Einstein's theory of gravity is developed from fundamental principles to a level which enables the student to read some of the current literature. Includes an introduction to computer algebra, an essential element of a modern introduction to Einstein's theory.", 
+        "subject": "ENPH", 
+        "number": "414", 
+        "title": "Introducation to General Relativity"
+    }
+}

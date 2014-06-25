@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is a comprehensive examination of the evolution and current state of the field of International Relations (IR). It covers international theory, the structure of the international system, key concepts, readings from the canon, and themes in the study of IR such as war, security, foreign policy, the state, gender, global systems, and concepts of power. This course also locates IR in relation to Global Political Economy (GPE) and other related fields of study.", 
+        "subject": "POLS", 
+        "number": "860", 
+        "title": "International Relations"
+    }
+}

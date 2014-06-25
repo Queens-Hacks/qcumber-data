@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Students attend diverse seminars to develop skills in listening, synthesizing and critical thinking while expanding the breadth of their background in psychology and cognate disciplines.\u00a0 Attendance may be extended over six terms (2 years) with students registering only in the term during which they complete the course.\u00a0 Enrollment is limited to graduate students in Psychology.", 
+        "subject": "PSYC", 
+        "number": "825A", 
+        "title": "Pro-Seminar In Psychology"
+    }
+}

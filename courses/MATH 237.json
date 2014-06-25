@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Topics include Newton's Law, conservative and central force fields; linear systems with constant coefficients; matrix exponentials and the variation of constants formula; Euler's method; separable and exact differential equations; Laplace Transforms, transfer functions and convolution; introduction to Fourier Series and boundary value problems: the heat equation, the wave equation. Computer methods (symbolic and numerical) are introduced in the laboratory component of the course. (20/7/0/15/0)", 
+        "subject": "MATH", 
+        "number": "237", 
+        "title": "Diff Equations & Computer Meth"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2955", 
+        "subject": "DEVS", 
+        "status": "Closed", 
+        "course": "492", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-SEM (2955)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Kumar, Paritosh"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM D326"
+        }
+    ]
+}

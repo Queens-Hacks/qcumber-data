@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Study of federalism and the distribution of legislative powers under the Canadian constitution and of Anglo-Canadian legal norms governing state powers: `rule of law\u00bf, nation to nation relations, relationship between states and citizens, role and independence of the judiciary and constraints upon on executive and administrative power including principles of Canadian administrative law.", 
+        "subject": "LAW", 
+        "number": "142", 
+        "title": "Public Law"
+    }
+}

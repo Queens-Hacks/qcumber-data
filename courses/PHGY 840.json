@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A laboratory-based course providing an advanced survey of state-of-the-art methodologies.\u00a0 This course is designed to give the student experience in cellular, molecular and whole tissue techniques with applications to digestive and related sciences. Fall term; 2 hours seminar / 4 hours laboratory on alternate weeks.\u00a0R.J. MacLeod.\u00a0\u00a0Not offered 2010-2011.\u00a0", 
+        "subject": "PHGY", 
+        "number": "840", 
+        "title": "Digestive Sciences I"
+    }
+}

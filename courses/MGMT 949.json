@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Since the formal inception of the discipline in the early 1900s, marketing has changed and evolved. A number of questions have marked this evolution: What is the nature and scope of marketing? Is marketing an art or a science? What criteria should be used to judge the contributions of marketing as a discipline? This course will provide an overview of challenges posed by these questions. It will also trace the growth of the discipline and its responses to changes in the business environment.", 
+        "subject": "MGMT", 
+        "number": "949", 
+        "title": "Marketing Philosophy, Theory and History"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of MINE455 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 48, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Projects may involve design of new processes, re-design of existing processes, process simulation and process innovation. Oral presentations and a formal report are required at the end of the term.", 
+        "subject": "MINE", 
+        "number": "458", 
+        "title": "Process Investigations"
+    }
+}

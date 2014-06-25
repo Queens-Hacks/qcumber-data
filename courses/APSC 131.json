@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
+        "CEAB": {
+            "Basic Sci": 31, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 11, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course provides an introduction to the chemistry of materials: thermochemistry, heat, work, internal energy, enthalpy and the first law of thermodynamics; gas laws in ideal and non-ideal systems; phase equilibria in one component systems; concepts of bonding in the classification of materials; the physical, electrical and mechanical properties of metals, polymers, semiconductors and ceramics; techniques of characterizing materials.", 
+        "subject": "APSC", 
+        "number": "131", 
+        "title": "Chemistry And Materials"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHEE 210, (CHEE 221 and CHEE 222) or MINE 201, or permission of the department.\u00a0 Must be registered in a BSCE academic program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 13, 
+            "Eng Sci": 29, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An introduction to the principles of chemical kinetics, and reactor analysis and design. The topics in chemical kinetics include: rate constants, reaction order, rate equations for elementary and complex reactions, kinetic data analysis, and product distribution. In reactor analysis and design, discussion is focused on ideal reactor systems and arrangements, including batch reactors, plug flow reactors, continuous stirred tank reactors, and recycle reactors. The last part of the course considers homogeneous and heterogeneous catalytic reactions. The design component consists of how to make an appropriate choice of reactor type and operating conditions to optimize a desired product; sizing such reactors and determining conversion levels under various conditions of temperature and pressure; determination of reaction kinetics from experimental data.", 
+        "subject": "CHEE", 
+        "number": "321", 
+        "title": "Chemical Reaction Engineering"
+    }
+}

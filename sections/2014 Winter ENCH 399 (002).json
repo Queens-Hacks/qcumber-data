@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "3134", 
+        "subject": "ENCH", 
+        "status": "Open", 
+        "course": "399", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LAB (3134)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Kozin, Igor"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "CHERNOFF RM122"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Kozin, Igor"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 3, 
+            "location": "CHERNOFF RM122"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Instructor Consent Required", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "drop_consent": "Instructor Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 42, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course provides academic credit for 3rd year students who take a lead role in design and implementation of an engineering device of substantial complexity that is part of a student project. The student has to demonstrate significant involvement with the project during the Fall term and be recommended by an academic advisor in order to qualify and be approved by the course coordinator. Students who are permitted to take this course will be required to \"conceive, design, implement and operate\" a sub-system or complete competition entry using the knowledge and skills acquired in earlier courses. Successful course completion will consist of specification of function, analysis, selection of materials and/or components, preparation of working drawings, manufactured prototype, completed with a major report and poster presentation. The evaluation will be based on joint assessment by the project academic advisor and the course coordinator", 
+        "subject": "MECH", 
+        "number": "361", 
+        "title": "Project Based Engineering: Conceive, Design, Implement & Operate"
+    }
+}

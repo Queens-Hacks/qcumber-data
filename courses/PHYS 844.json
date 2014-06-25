@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "An introduction to neutrino physics and astrophysics. Topics include neutrino mass and mixing; solar neutrinos; supernova neutrinos; ultra high energy neutrino astronomy.", 
+        "subject": "PHYS", 
+        "number": "844", 
+        "title": "Neutrino Physics & Astrophys."
+    }
+}

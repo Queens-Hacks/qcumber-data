@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "6786", 
+        "subject": "BIOL", 
+        "status": "Open", 
+        "course": "421", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-TUT (6786)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Friesen, Victoria L"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "BIOSCI RM2109"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Friesen, Victoria L"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "JOHN WATSON RM122"
+        }
+    ]
+}

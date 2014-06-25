@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2270", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "821", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "002-LEC (2270)", 
+    "classes": [
+        {
+            "term_end": "2014-06-27T00:00:00", 
+            "term_start": "2014-06-09T00:00:00", 
+            "instructors": [
+                "Wang, Xiaoqiao"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

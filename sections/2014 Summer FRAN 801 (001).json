@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2086", 
+        "subject": "FRAN", 
+        "status": "Open", 
+        "course": "801", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-SEM (2086)", 
+    "classes": [
+        {
+            "term_end": "2014-06-16T00:00:00", 
+            "term_start": "2014-05-05T00:00:00", 
+            "instructors": [
+                "Sackey, Donald"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

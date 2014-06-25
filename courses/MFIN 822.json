@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is designed to cover a wide range of empirical topics related to investments and corporate finance. The objective is to prepare students to critically evaluate and conduct research in finance, with an emphasis on research of relevance to practitioners.", 
+        "subject": "MFIN", 
+        "number": "822", 
+        "title": "Empirical Finance"
+    }
+}

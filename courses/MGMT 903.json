@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is designed to provide a common foundation in statistics for doctoral students as a basis for more specialized statistical development. After reviewing some aspects of probability and the theory of statistical estimation, the general linear model is examined in detail. Some important extensions, and certain variants (e.g., discriminant and factor analysis) are also discussed. The emphasis is on the assumptions, limitations and power of the model(s) in the context of applied data analysis.", 
+        "subject": "MGMT", 
+        "number": "903", 
+        "title": "Foundations Of Multivariate Statistics and the General Linear Model"
+    }
+}

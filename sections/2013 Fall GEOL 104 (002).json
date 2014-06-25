@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3761", 
+        "subject": "GEOL", 
+        "status": "Open", 
+        "course": "104", 
+        "year": "2013", 
+        "solus_id": "002", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-LAB (3761)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "McBride, Sandra"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM225"
+        }
+    ]
+}

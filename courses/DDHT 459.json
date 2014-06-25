@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHAR 340 or PHAR341 and Level 4 and registration in a LISC Major or Specialization Plan) and (a GPA of 2.5).\r\nCOREQUISITE\u00a0\u00a0\u00a0 PHAR 416/3.0 or permission of the instructor.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Advanced study of the early stage components involved in the complex process of drug development including target identification, design and synthesis, structure activity relationships, in vitro and in vivo efficacy determination, biochemical and biological optimization. \r\nNOTE\u00a0\u00a0\u00a0 Priority given to students in the LISC Specialization Plan, DDHT Sub-Plan.", 
+        "subject": "DDHT", 
+        "number": "459", 
+        "title": "Principles of Drug Discovery"
+    }
+}

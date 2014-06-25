@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "(STAT251 AND STAT261) OR (STAT251 AND STAT264) OR (STAT251 AND STAT265) OR STAT269", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "", 
+        "subject": "STAT", 
+        "number": "363", 
+        "title": "Fundamental Statistical Infere"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Configuration space, generalized coordinates, Euler-Lagrange equations. Forces: dissipative, potential. Simple mechanical control systems: modeling, linearization about equilibrium points, linear controllability tests; equivalence with kinematic systems and trajectory generation. (Offered jointly with MATH 439). Three term hours, fall or winter; lectures.", 
+        "subject": "MATH", 
+        "number": "836", 
+        "title": "Lagrangian Mechanics. Dynamics & Control"
+    }
+}

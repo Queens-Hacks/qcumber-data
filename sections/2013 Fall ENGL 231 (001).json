@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8461", 
+        "subject": "ENGL", 
+        "status": "Open", 
+        "course": "231", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (8461)", 
+    "classes": [
+        {
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Smith, Shannon Rose"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

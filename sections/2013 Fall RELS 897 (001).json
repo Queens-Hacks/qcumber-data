@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6920", 
+        "subject": "RELS", 
+        "status": "Open", 
+        "course": "897", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (6920)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Basser, Herbert"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "STIRLING RM412A"
+        }
+    ]
+}

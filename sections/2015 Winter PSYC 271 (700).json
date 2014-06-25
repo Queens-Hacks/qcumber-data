@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8206", 
+        "subject": "PSYC", 
+        "status": "Open", 
+        "course": "271", 
+        "year": "2015", 
+        "solus_id": "700", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "700-LEC (8206)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Valsangkar-Smyth, Monica"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

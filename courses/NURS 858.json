@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "Critically appraise and interpret concepts and frameworks integral to pharmacotherapy, advanced counselling, and complementary therapies for common conditions across the lifespan. Develop, initiate, manage, and evaluate therapeutic plans of care that incorporate client values and acceptability, goals of therapy, analysis of different approaches, pharmacotherapeutic principles. Co/Pre-requisite: Advanced Health Assessment and Diagnosis I, 3 hours per week, Clinical 6 hours per week. Winter term.", 
+        "subject": "NURS", 
+        "number": "858", 
+        "title": "Therapeutics-Prim Hlth Care I"
+    }
+}

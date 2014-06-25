@@ -1,0 +1,51 @@
+{
+    "basic": {
+        "class_num": "4265", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "200", 
+        "year": "2014", 
+        "solus_id": "202", 
+        "type": "STD", 
+        "season": "Fall"
+    }, 
+    "_unique": "202-STD (4265)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 2, 
+            "location": "BEAMISH-MUNRO RM313A"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T12:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM313A"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 2, 
+            "location": "BEAMISH-MUNRO RM313B"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T12:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM313B"
+        }
+    ]
+}

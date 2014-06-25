@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "enrollment_requirement": "(ECON452 AND ECON351)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Estimation methods, including least squares and maximum likelihood; specification testing, including t, F, likelihood ratio and Lagrange multiplier tests; serial correlation and heteroskedasticity; dynamic models and simultaneous equation models. Extensive use of calculus and linear algebra. Offered concurrently with ECON 852/3.0.", 
+        "subject": "ECON", 
+        "number": "450", 
+        "title": "Advanced Econometrics"
+    }
+}

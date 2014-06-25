@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON212", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Costs and benefits of legal rules. Among the topics covered are: the justification, acquisition, scope and taking by the state of property rights, the enforcement of and remedies for breach of contract, the assignment of liability in traffic accidents and harm from dangerous products, the costs of litigation and the optimal severity of punishment for crime with special reference to the death penalty.", 
+        "subject": "ECON", 
+        "number": "348", 
+        "title": "Law and Economics"
+    }
+}

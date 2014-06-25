@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is designed to provide second year students with increasingly more complex problems in the conservation of paintings. Aesthetic, historical and ethical aspects are considered along with practical approaches to the conservation of a variety of unusual painting materials and paintings on solid supports. Half course; sixteen term-hours; fall.\u00a0 B. Klempan.", 
+        "subject": "ARTC", 
+        "number": "863", 
+        "title": "Paintings Consv. Practice III"
+    }
+}

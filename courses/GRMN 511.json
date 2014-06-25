@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Specialized study, as circumstances permit, of a particular author, genre, theme, movement, literary form, or some combination of these elements.", 
+        "subject": "GRMN", 
+        "number": "511", 
+        "title": "Special Topics I"
+    }
+}

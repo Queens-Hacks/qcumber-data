@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "4504", 
+        "subject": "THEO", 
+        "status": "Open", 
+        "course": "737", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (4504)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

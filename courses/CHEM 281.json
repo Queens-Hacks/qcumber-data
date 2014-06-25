@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CHEM 112 or CHEM 114 or (APSC131 and APSC132).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM211; CHEM281.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM212; CHEM281.", 
+        "career": "Distance Studies", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the basic principles of organic chemistry with emphasis on bonding, stereochemistry, reaction intermediates and reaction mechanisms, and structure-reactivity correlations. Intended for students in biological and life sciences. Students in chemistry or biochemistry programs should not enrol in this course.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
+        "subject": "CHEM", 
+        "number": "281", 
+        "title": "General Organic Chemistry I"
+    }
+}

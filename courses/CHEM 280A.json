@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Spring", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "(APSC131 AND APSC132) OR CHEM112 OR CHEM116 OR (CHEM120 AND CHEM121)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "", 
+        "subject": "CHEM", 
+        "number": "280A", 
+        "title": "General Organic Chemistry"
+    }
+}

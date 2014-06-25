@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "Analyze and critique concepts and frameworks essential to advanced health assessment and diagnosis using clinical reasoning skills. Apply clinical, theoretical and research knowledge in comprehensive and focused health assessment for the individual client\u00bfs diagnostic plan of care. Pre/co-requisite \u00bf Pathophysiology for Nurse Practitioners. 3 hours per week, Clinical \u00bf 6 hours per week. Fall term.", 
+        "subject": "NURS", 
+        "number": "856", 
+        "title": "Adv Health Assess And Diag 1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "NURS303", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An overview of organizations and an examination of key management and leadership skills that are applied in health care.\u00a03 hours lecture per week; 9 units (3 credits) course weight.", 
+        "subject": "NURS", 
+        "number": "414", 
+        "title": "Mgmt & Leadership In Hlth Care"
+    }
+}

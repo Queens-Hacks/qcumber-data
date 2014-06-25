@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POLS 110", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course introduces students to a range of contemporary ideologies, such as liberalism, socialism, conservatism, fascism, feminism, anarchism, ecologism, fundamentalism, and nationalism. It includes primary and secondary readings, and will focus on the critical interpretation of these competing belief systems.", 
+        "subject": "POLS", 
+        "number": "251", 
+        "title": "Political Ideologies"
+    }
+}

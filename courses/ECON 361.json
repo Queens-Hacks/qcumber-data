@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON212", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A review of theories of the principal determinants of the distribution of income and wealth including labour supply, life-cycle savings, ability and investment in human capital, discrimination, intergenerational transfer mechanisms. Also examined are the distributional aspects of government tax transfer and social security programs.", 
+        "subject": "ECON", 
+        "number": "361", 
+        "title": "Income Distribution and Problems of Inequality"
+    }
+}

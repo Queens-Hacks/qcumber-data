@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1294", 
+        "subject": "ANAT", 
+        "status": "Open", 
+        "course": "216", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "004-LAB (1294)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "MacKenzie, Leslie W"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "MEDS RM302 - Anatomy"
+        }
+    ]
+}

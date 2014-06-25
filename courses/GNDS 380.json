@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 Level 3 or above", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Offered when faculty resources permit, these courses are analyses of particular areas of gender studies interdisciplinary research. Details regarding specific topics will be available from the Head of the Department on an annual basis.", 
+        "subject": "GNDS", 
+        "number": "380", 
+        "title": "Special Topics in Gender Studies"
+    }
+}

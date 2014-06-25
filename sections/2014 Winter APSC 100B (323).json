@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "7043", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "100B", 
+        "year": "2014", 
+        "solus_id": "323", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "323-LAB (7043)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

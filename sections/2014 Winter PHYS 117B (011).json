@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "class_num": "5038", 
+        "subject": "PHYS", 
+        "status": "Closed", 
+        "course": "117B", 
+        "year": "2014", 
+        "solus_id": "011", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "011-LAB (5038)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "STIRLING RM412B"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "STIRLING RM409"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "STIRLING RM410"
+        }
+    ]
+}

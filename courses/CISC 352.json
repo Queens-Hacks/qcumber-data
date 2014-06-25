@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerquisites\u00a0\u00a0\u00a0\u00a0\u00a0 CISC235 and CISC260", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the basic principles and tools of artificial intelligence. Problem solving methods and knowledge representation techniques.", 
+        "subject": "CISC", 
+        "number": "352", 
+        "title": "Artificial Intelligence"
+    }
+}

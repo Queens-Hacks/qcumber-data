@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2167", 
+        "subject": "MACC", 
+        "status": "Closed", 
+        "course": "816", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2167)", 
+    "classes": [
+        {
+            "term_end": "2014-07-22T00:00:00", 
+            "term_start": "2014-06-16T00:00:00", 
+            "instructors": [
+                "Salterio, Steven E"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

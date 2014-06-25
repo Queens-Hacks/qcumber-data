@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "7262", 
+        "subject": "BIOL", 
+        "status": "Open", 
+        "course": "243", 
+        "year": "2013", 
+        "solus_id": "016", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "016-TUT (7262)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 1, 
+            "location": "BIOSCI RM2306"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "MUSC221 OR MUSC220", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Continuation of MUSC 221/6.0 at an advanced level.", 
+        "subject": "MUSC", 
+        "number": "321A", 
+        "title": "Applied Study III"
+    }
+}

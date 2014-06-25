@@ -1,0 +1,81 @@
+{
+    "basic": {
+        "class_num": "5050", 
+        "subject": "PHYS", 
+        "status": "Open", 
+        "course": "372", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (5050)", 
+    "classes": [
+        {
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Irwin, Judith"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 2, 
+            "location": "STIRLING RM414"
+        }, 
+        {
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Irwin, Judith"
+            ], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING RM414"
+        }, 
+        {
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Irwin, Judith"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 5, 
+            "location": "STIRLING RM414"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-24T00:00:00", 
+            "instructors": [
+                "Irwin, Judith"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 2, 
+            "location": "STIRLING RM414"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-24T00:00:00", 
+            "instructors": [
+                "Irwin, Judith"
+            ], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING RM414"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-24T00:00:00", 
+            "instructors": [
+                "Irwin, Judith"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 5, 
+            "location": "STIRLING RM414"
+        }
+    ]
+}

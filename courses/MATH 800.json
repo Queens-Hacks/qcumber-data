@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Students are expected to participate in a weekly seminar in which they are required to present material on a topic that relates to their research.", 
+        "subject": "MATH", 
+        "number": "800", 
+        "title": "Seminar"
+    }
+}

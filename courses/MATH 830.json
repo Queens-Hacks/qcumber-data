@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course covers core topics in discrete and continuous time modern control theory: controllability, observability and minimal realizations; Lyapunov stability; the linear quadradic regulator and design of robust controllers; state estimation via Luenberger and deterministic Kalman-Bucy filters. Laboratory experiments illustrate design considerations in implementing the lecture material. Students are required to identify a high order under-actuated torsion disc system; perform model verification experiments; design and implement robust linear feedback controllers; design and implement nonlinear sliding mode controllers; study implementation issues for observers and Kalman-Bucy filters; depending on instructor, some nonlinear control strategies may be implemented.\u00a0\u00a0(Offered jointly with MATH-430*.) Three term hours, fall; lectures.", 
+        "subject": "MATH", 
+        "number": "830", 
+        "title": "Modern Control Theory"
+    }
+}

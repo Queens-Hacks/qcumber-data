@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "enrollment_requirement": "PREREQUISITE\u00a0 Level 4 and (registration in a BCHM Major Plan) and (a GPA of 2.7 in BCHM313/3.0, BCHM315/3.0; BCHM316./3.0; BCHM317/6.0; (BCHM218 or MBIO218/3.0).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Tutorials, assignments and demonstrations in important subjects in biochemistry emphasizing topics of broad interest. Particular emphasis will be paid to the applications of biochemical knowledge and new technologies. \r\nNOTE\u00a0\u00a0\u00a0 Students in the BCHM Specialization Plan registered in BCHM 421/6.0 and BCHM 422/6.0 will not be allowed to register in BCHM 441/3.0; Students in the LISC Specialization Plan registered in one of ANAT 499/9.0, CANC 499/9.0, EPID 499/9.0, LISC 499/9.0, MICR 455/6.0, MICR 499/9.0, NSCI 499/9.0, PATH 499/9.0, PHAR 499/9.0 or PHGY 499/9.0 will not be allowed to register in BCHM 441/3.0.", 
+        "subject": "BCHM", 
+        "number": "441", 
+        "title": "Current Topics in Biochemistry"
+    }
+}

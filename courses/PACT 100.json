@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Practicum": "Required", 
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Registration in a PHED Specialization Plan", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will expose students to a wide variety of physical activities with the intent of learning fundamental pedagogical concepts relevant to structured (e.g. Physical Education) and unstructured (e.g. recreational) physical activity environments. Students will develop an activity lesson plan and effectively teach its content.", 
+        "subject": "PACT", 
+        "number": "100", 
+        "title": "Fundamental Practicum in Physical Activity"
+    }
+}

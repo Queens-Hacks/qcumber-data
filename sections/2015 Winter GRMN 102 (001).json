@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "6569", 
+        "subject": "GRMN", 
+        "status": "Open", 
+        "course": "102", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (6569)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Pugh, David V"
+            ], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "KINGSTON RM108"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Pugh, David V"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:30:00", 
+            "day_of_week": 2, 
+            "location": "KINGSTON RM108"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Pugh, David V"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T15:30:00", 
+            "day_of_week": 4, 
+            "location": "KINGSTON RM108"
+        }
+    ]
+}

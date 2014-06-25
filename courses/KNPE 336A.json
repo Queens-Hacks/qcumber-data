@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Practicum": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Students gain experience assisting adults with a disability or age-related impairment to engage in exercise. Students develop an understanding of the nature of disability across the lifespan. The benefits of exercise, factors that promote exercise participation, and appropriate exercise prescription are addressed.\r\nNOTE\u00a0\u00a0\u00a0 Students must hold valid First Aid/CPR certification.", 
+        "subject": "KNPE", 
+        "number": "336A", 
+        "title": "Community Field Placement in Exercise, Disability and Aging"
+    }
+}

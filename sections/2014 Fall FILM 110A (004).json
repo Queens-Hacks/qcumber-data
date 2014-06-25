@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2473", 
+        "subject": "FILM", 
+        "status": "Open", 
+        "course": "110A", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "004-TUT (2473)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T13:00:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 4, 
+            "location": "ELLIS RM218"
+        }
+    ]
+}

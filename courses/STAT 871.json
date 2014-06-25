@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Analysis of variance for fixed, random and mixed models; analysis of covariance; distribution of mean squares; classical designs including fractional factorial experiments, Latin squares and split plot designs. Modern topics including Taguchi methods and designs for nonlinear models. (Offered jointly with STAT-471*.)\u00a0 Three term hours, fall or winter; lectures.\u00a0", 
+        "subject": "STAT", 
+        "number": "871", 
+        "title": "Design & Analysis Of Experim."
+    }
+}

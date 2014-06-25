@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 CISC124", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Basic concepts of Unix-like systems. Shells and scripting. System-level programming in the C language. Software development tools and techniques.", 
+        "subject": "CISC", 
+        "number": "220", 
+        "title": "System Level Programming"
+    }
+}

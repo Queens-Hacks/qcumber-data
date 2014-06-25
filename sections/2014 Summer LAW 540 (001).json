@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2244", 
+        "subject": "LAW", 
+        "status": "Open", 
+        "course": "540", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2244)", 
+    "classes": [
+        {
+            "term_end": "2014-06-27T00:00:00", 
+            "term_start": "2014-05-12T00:00:00", 
+            "instructors": [
+                "Corbett, Stanley M"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 Level 4 in the Collaborative Program in X-Ray Technology.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Required Queen's component for fourth-year students registered at the Eastern Ontario School of X-Ray Technology.", 
+        "subject": "XRAY", 
+        "number": "410A", 
+        "title": "Clinical Training at EOSXT"
+    }
+}

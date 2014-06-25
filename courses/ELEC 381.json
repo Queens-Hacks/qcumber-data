@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC280 or PHYS231 or PHYS235 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 24, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Review of phasors, vector analysis; transmission lines; Partial differential equation solutions to Maxwell's Equations; Introduction to the Smith chart; uniform plane waves; reflection of plane waves; normal and oblique incidence; analysis and applications of rectangular waveguides; resonant cavities; optical fibres; introduction to antennas; aperture antennas.", 
+        "subject": "ELEC", 
+        "number": "381", 
+        "title": "Apps Of Electromagnetics"
+    }
+}

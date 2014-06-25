@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "career": "Undergraduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 18, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "An introduction to 3d visualization of natural sciences data with a focus on methods relevant to geological engineering, mineral exploration, and geoscience research. Perception, representation, and analytical methods. Design tools and data integration methods. Temporal analysis of natural sciences data. LiDAR data analysis. Global and local models. Virtual worlds.", 
+        "subject": "GEOE", 
+        "number": "464", 
+        "title": "Visualization in Geosciences"
+    }
+}

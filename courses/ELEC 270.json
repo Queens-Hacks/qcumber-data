@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "typically_offered": "Winter", 
+        "enrollment_requirement": "Prerequisite of APSC142 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 31, 
+            "Eng Des": 0, 
+            "Eng Sci": 11, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Introduction to the mathematics of representing and manipulating discrete objects. Topics include numbers, modular arithmetic, counting, relations and graph theory. Methods of proof and reasoning - such as induction and mathematical logic - will also be covered. Some applications to cryptosystems, hashing functions, job scheduling, and coding will be included.", 
+        "subject": "ELEC", 
+        "number": "270", 
+        "title": "Discrete Mathematics with Computer Engineering App"
+    }
+}

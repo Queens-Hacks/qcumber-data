@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "(MATH227 AND MATH338) OR (MATH227 AND GEOL319) OR (MATH227 AND MATH334) OR (MATH227 AND GEOL319)", 
+        "CEAB": {
+            "Basic Sci": 15, 
+            "Math": 7, 
+            "Eng Des": 10, 
+            "Eng Sci": 10, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Advanced theory and practical considerations for static potential and time-varying electromagnetic fields as applied to near-surface prospecting and site-investigation. Implications of wide-ranging physical responses for technique selection and design, implementation, modelling and interpretation of an extended Earth system. Potential theory, rock physical properties, diffusive electromagnetic signals in the Earth, boundary-value problems, frequency and time-domain field systems, design limitations and advantages. (7/15/0/10/10)~ COURSE DELETED IN 2009/10 ~", 
+        "subject": "GEOE", 
+        "number": "479", 
+        "title": "Appl Geoph: Field&Elecmag Meth"
+    }
+}

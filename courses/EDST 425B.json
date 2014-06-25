@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Artist in Community Education", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "(Artist in Community Education candidates only) Intended to provide students in the Artist in Community Education track with experiences relevant to the professional practices of artists. Special attention is paid to the practical role that professional artists play in society including the management of their own professional affairs. Stresses broadening student experiences in the arts through exposure to a variety of visiting professionals.", 
+        "subject": "EDST", 
+        "number": "425B", 
+        "title": "The Artist in Society"
+    }
+}

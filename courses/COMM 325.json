@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 COMM121 or COMM221, and ECON212; or COMM322 or equivalent. Admission restricted to third- and fourth-year students.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course presents important models in finance that can be solved either numerically or with simulations. In either case the models are built with the aid of Excel spreadsheets, and calculations are supplemented when necessary with Visual Basic programs. The classes of models covered include Portfolio Models (example: Estimating betas, finding efficient portfolios), Option Pricing Models (examples: Black-Scholes, binomial pricing model, portfolio insurance) Bonds and Duration (example: immunization strategies; modeling the term structure). The course emphasizes the intuition underlying the models and shows how intuition can be cultivated with appropriate use of spreadsheets and computer graphics. It also argues that the tools of Visual Basic can be used to organize the repetitive tasks of spreadsheet analysis and make presentations more forceful.", 
+        "subject": "COMM", 
+        "number": "325", 
+        "title": "Adv. Topics In Financ. Theory"
+    }
+}

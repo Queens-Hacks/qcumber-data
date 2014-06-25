@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Summer", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "System Simulation as a methodology for developing computer models of a production system, in order to provide a 3-D graphic representation of the system and a test bed for improvements to reduce cost and increase throughput.\u00a0 Concepts required for the development of these models are covered, including techniques for modeling system random factors and analyzing the results.\u00a0(Lead Instructor:\u00a0 D. Frances, Toronto)", 
+        "subject": "DM", 
+        "number": "815", 
+        "title": "System Simulation"
+    }
+}

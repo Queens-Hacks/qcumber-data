@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced theoretical and practical course covering the application, instrumentation and techniques of kinetics, kinematics, kinesiological electromyography, and anthropomectric analysis in the study of normal and abnormal human movement. (Offered jointly with RHBS-837*.)", 
+        "subject": "KHS", 
+        "number": "851", 
+        "title": "Physical Tests & Measurement"
+    }
+}

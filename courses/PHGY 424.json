@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (A minimum grade of C in: PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0) and Level 4 in a LISC Major or Specialization Plan) and (a GPA of 2.5), or permission fo the course coordinator.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The electrophysiology and biophysics of neuronal and cardiac membranes; molecular biology, structure, and function of ion channels. Students will learn to critically evaluate scientific literature.\u00a0Instructional format is primarily student-led seminars.", 
+        "subject": "PHGY", 
+        "number": "424", 
+        "title": "Ion Channels of Excitable Cells"
+    }
+}

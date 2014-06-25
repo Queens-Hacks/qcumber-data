@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 21, 
+            "Eng Des": 0, 
+            "Eng Sci": 21, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Anti Requisites for ELEC 273", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "A balance of theory and practice in numerical methods and optimization. Topics include numerical representations, error analysis, iteration, linear algebraic tools such a singular value and QR decompositions, interpolation, curve\u00bffitting, approximation, least squares, single and multivariable optimization, constraint optimization, integration, differentiation, and solving ordinary differential equations. Extensive computer programming using MATLAB. (21/0/0/21/0)", 
+        "subject": "ELEC", 
+        "number": "ELEC", 
+        "title": "Numerical Methods and Optimization"
+    }
+}

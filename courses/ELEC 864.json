@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course presents the fundamentals of fiber optic communications, with focus on dense wavelength division multiplexed (DWDM) systems. Topics: components (lasers, modulators, receivers, and optical fibers) and detailed study of system issues in DWDM transmission (interplay between fiber dispersion and non-linearities, transmitter chirp, optical amplification, and polarization mode dispersion). Three term hours, lectures. S. Yam", 
+        "subject": "ELEC", 
+        "number": "864", 
+        "title": "Wdm Fiber Optic Comm. Systems"
+    }
+}

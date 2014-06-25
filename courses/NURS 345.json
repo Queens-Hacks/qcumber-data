@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Clinical": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "This practice course focuses on the care of adults with complex health challenges and unpredictable outcomes. The course involves two six week rotations that include laboratory and clinical experiences, care of clients with acute physiological problems and/or exacerbations of chronic illnesses and care of clients with acute or long term mental health problems. Provides an opportunity to enhance assessment, intervention and organizational skills, in laboratory and Clinical Education Centre settings and in direct client care in hospital, community and ambulatory settings.16 hours a week, 2 six week clinical rotations; 16 units (6 credits) course weight.", 
+        "subject": "NURS", 
+        "number": "345", 
+        "title": "Adlt Chron & Acute Phys & Ment"
+    }
+}

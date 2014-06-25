@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "DRAM419", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Practical work in selected areas of performance. \r\nNOTE\u00a0\u00a0\u00a0 Not offered every year. Prerequisites vary depending on specific course content; consult Department.", 
+        "subject": "DRAM", 
+        "number": "439", 
+        "title": "Special Topics Performance III"
+    }
+}

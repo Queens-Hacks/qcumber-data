@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "1324", 
+        "subject": "NURS", 
+        "status": "Open", 
+        "course": "207", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "CLN", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-CLN (1324)", 
+    "classes": [
+        {
+            "term_end": "2014-05-23T00:00:00", 
+            "term_start": "2014-04-28T00:00:00", 
+            "instructors": [
+                "Machan, Hilary"
+            ], 
+            "end_time": "1900-01-01T19:00:00", 
+            "start_time": "1900-01-01T07:00:00", 
+            "day_of_week": 4, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-05-23T00:00:00", 
+            "term_start": "2014-04-28T00:00:00", 
+            "instructors": [
+                "Machan, Hilary"
+            ], 
+            "end_time": "1900-01-01T19:00:00", 
+            "start_time": "1900-01-01T07:00:00", 
+            "day_of_week": 3, 
+            "location": "TBA"
+        }
+    ]
+}

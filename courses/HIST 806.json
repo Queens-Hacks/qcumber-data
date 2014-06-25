@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will introduce students to major works in 19<sup>th-</sup> and 20<sup>th</sup> -century U.S. history.\u00a0 Possible topics will include the rise of market culture, slavery, the Civil War, reform, the corporate revolution, westward expansion, imperialism, the rise of the welfare state, the civil rights movement, and postwar politics.", 
+        "subject": "HIST", 
+        "number": "806", 
+        "title": "U.S. History since 1900"
+    }
+}

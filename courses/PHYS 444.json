@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHYS345.\r\nEquivalency\u00a0\u00a0\u00a0 PHYS426.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course covers perturbation theory, scattering theory and the addition of angular momentum.\u00a0Special topics may include: many-electron systems, path integral formulation of quantum mechanics, entanglement and quantum computing, quantum optics.", 
+        "subject": "PHYS", 
+        "number": "444", 
+        "title": "Advanced Quantum Physics"
+    }
+}

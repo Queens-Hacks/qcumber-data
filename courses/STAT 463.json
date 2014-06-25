@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 STAT353.\r\nPrerequisites\u00a0\u00a0\u00a0 STAT269 \r\nEquivalency\u00a0\u00a0\u00a0 STAT363.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Decision theory and Bayesian inference; principles of optimal statistical procedures; maximum likelihood principle; large sample theory for maximum likelihood estimates; principles of hypotheses testing and the Neyman-Pearson theory; generalized likelihood ratio tests; the chi-square, t, F and other distributions.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 STAT 353/3.0.", 
+        "subject": "STAT", 
+        "number": "463", 
+        "title": "Fundamentals of Statistical Inference"
+    }
+}

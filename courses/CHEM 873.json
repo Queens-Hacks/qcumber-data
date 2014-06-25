@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "An examination of advanced methods of analysis using optical spectroscopic methods, with an emphasis on instrument components, such as laser light sources, charge-coupled and other solid state detectors, fibre-optics and optical waveguide technologies.\u00a0 Examples will be selected from\u00a0 ultraviolet-visible and infrared absorbance and luminescence measurements, spectroscopic imaging, cavity and loop ringdown spectroscopy, graphite furnace atomic absorption and ICP optical emission spectroscopy. Winter. S. Brown.", 
+        "subject": "CHEM", 
+        "number": "873", 
+        "title": "Optical Spectros Chem Analysis"
+    }
+}

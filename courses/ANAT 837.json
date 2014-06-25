@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This half-credit course will be offered to students who have completed ANAT-312* in their undergraduate studies in the Queen's Life Sciences Program.\u00a0 Through a series of tutorials and seminars, the course will focus on the most up-to-date discoveries in three areas of neuroanatomy.\u00a0 The areas reflect the expertise in the department.\u00a0 Fall Term.\u00a0 R.D. Andrew", 
+        "subject": "ANAT", 
+        "number": "837", 
+        "title": "Advanced Topics - Neuroanatomy"
+    }
+}

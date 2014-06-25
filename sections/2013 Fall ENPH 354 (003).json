@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "3437", 
+        "subject": "ENPH", 
+        "status": "Open", 
+        "course": "354", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (3437)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Robbie, Kevin J"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "STIRLING RM404"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Robbie, Kevin J"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "STIRLING RM405"
+        }
+    ]
+}

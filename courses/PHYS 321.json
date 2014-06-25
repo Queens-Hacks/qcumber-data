@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PHYS212 & (MATH221 or MATH227 or MATH280) and (MATH231 or MATH232).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the equations of mechanics using the Lagrange formalism and to the calculus of variations leading to Hamilton's principle. The concepts developed in this course are applied to problems ranging from purely theoretical constructs to practical applications. Links to quantum mechanics and extensions to continuous systems are developed.", 
+        "subject": "PHYS", 
+        "number": "321", 
+        "title": "Advanced Mechanics"
+    }
+}

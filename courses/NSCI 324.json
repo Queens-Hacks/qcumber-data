@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0 or BIOL 338/3.0 or or BIOL339 or PSYC 271/3.0, or permission of the course coordinator. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from NSCI 322/3.0; NSCI 323/3.0; LISC 322/3.0", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Fundamental properties of the nervous system. Emphasis placed on the properties of neurons and neural circuits that underlie behaviour and cognitive functions within selected neural systems, such as sensory, motor, reward, and autonomic systems. Tutorials introduce techniques and neurological problems that illustrate principles of neural function.", 
+        "subject": "NSCI", 
+        "number": "324", 
+        "title": "Systems Neuroscience"
+    }
+}

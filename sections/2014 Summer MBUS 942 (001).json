@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2205", 
+        "subject": "MBUS", 
+        "status": "Open", 
+        "course": "942", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2205)", 
+    "classes": [
+        {
+            "term_end": "2014-07-29T00:00:00", 
+            "term_start": "2014-07-25T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course enables a student or a group of students to explore a body of literature on a selected topic in development. The focus may be by theme, by region or by academic approach and can span the humanities, social sciences and environmental sciences. \r\nNOTE\u00a0\u00a0\u00a0 The students are responsible for approaching a professor with whom they wish to work and who is willing to undertake this project.", 
+        "subject": "DEVS", 
+        "number": "502", 
+        "title": "Directed Readings in Development Studies"
+    }
+}

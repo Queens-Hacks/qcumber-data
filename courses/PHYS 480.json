@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 PHYS345 or CHEM313.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A fundamental treatment of the properties of solids. Topics include: crystal structure, X-ray and neutron scattering, the reciprocal lattice, phonons, electronic energy bands, and the thermal, magnetic, optical and transport properties of solids.", 
+        "subject": "PHYS", 
+        "number": "480", 
+        "title": "Solid State Physics"
+    }
+}

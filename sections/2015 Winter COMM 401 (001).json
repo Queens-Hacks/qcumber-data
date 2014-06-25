@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1387", 
+        "subject": "COMM", 
+        "status": "Open", 
+        "course": "401", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (1387)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Andrevski, Goce"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 1, 
+            "location": "GOODES RM304"
+        }
+    ]
+}

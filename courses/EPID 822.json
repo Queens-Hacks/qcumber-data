@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "EPID821", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course deals with the commonly used statistical methods proven useful in health services research and the epidemiologic analysis of the relationship between traits, exposures or treatments, and diseases or other medical outcomes. The course emphasizes the statistical modelling approach with topics including multiple regression, analysis of variance and covariance, reliability of measurements, analysis of categorical data, and logistic regression. Three term-hours; fall; every year.\u00a0P. Peng, D. Tu, A. Day, J. Zhang-Salomons.This course includes a compulsory SAS Programming component.", 
+        "subject": "EPID", 
+        "number": "822", 
+        "title": "Intermediate Biostatistics"
+    }
+}

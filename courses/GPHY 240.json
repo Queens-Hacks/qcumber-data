@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Practicum": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of GPHY101 or GPHY102 or permission of department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from GPHY240/3.0; SOCY210/3.0.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to basic issues in research with human participants, and the qualitative methods commonly employed in such research in geography. Where relevant, students may be introduced to computer software used in qualitative research.", 
+        "subject": "GPHY", 
+        "number": "240", 
+        "title": "Introduction to Qualitative Methods in Geography"
+    }
+}

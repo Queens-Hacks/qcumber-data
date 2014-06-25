@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "The equivalent of three full weeks in a grade 9 and/or 10, non-academic stream setting. The format is very flexible. For example, candidates may choose to do a series of half days, or three full-time weeks, or a combination. Full-time weeks may be done during the fall or winter reading weeks, or at the end of the term in May, or a reasonable combination of any of these options.", 
+        "subject": "PRAC", 
+        "number": "211", 
+        "title": "Experience In Schools\u00a0 Yr 2 Is"
+    }
+}

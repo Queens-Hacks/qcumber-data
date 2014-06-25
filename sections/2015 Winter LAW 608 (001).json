@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1219", 
+        "subject": "LAW", 
+        "status": "Closed", 
+        "course": "608", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-SEM (1219)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T18:00:00", 
+            "start_time": "1900-01-01T15:00:00", 
+            "day_of_week": 1, 
+            "location": "MACDONALD RM100"
+        }
+    ]
+}

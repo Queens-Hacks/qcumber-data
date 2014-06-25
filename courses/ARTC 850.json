@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Studio and workshop practice in the conservation of artifacts, particularly those made of ceramics and glass. Methods of preventing further deterioration are applied to artifacts and experience is gained in the use of materials for conservation. Half Course; sixteen term-hours; fall. K. Spirydowicz.", 
+        "subject": "ARTC", 
+        "number": "850", 
+        "title": "Intro. To Artifact Cons. Prac."
+    }
+}

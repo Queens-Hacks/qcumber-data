@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "7761", 
+        "subject": "CURR", 
+        "status": "Open", 
+        "course": "383", 
+        "year": "2014", 
+        "solus_id": "700", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "700-LEC (7761)", 
+    "classes": [
+        {
+            "term_end": "2014-01-12T00:00:00", 
+            "term_start": "2014-01-10T00:00:00", 
+            "instructors": [
+                "Anderson, David"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-03-23T00:00:00", 
+            "term_start": "2014-03-21T00:00:00", 
+            "instructors": [
+                "Anderson, David"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

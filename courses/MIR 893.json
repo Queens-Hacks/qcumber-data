@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Excl: MIR 893 / MPA 801", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This course introduces basic quantitative concepts and methods used in a wide range of professional careers. Students will work with software to conduct statistical analysis and gain experience working with large datasets. Offered jointly with MPA-801; 1.5 credit hours", 
+        "subject": "MIR", 
+        "number": "893", 
+        "title": "Applied Analytical Methods I"
+    }
+}

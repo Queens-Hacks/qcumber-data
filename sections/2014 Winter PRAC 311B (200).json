@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7009", 
+        "subject": "PRAC", 
+        "status": "Open", 
+        "course": "311B", 
+        "year": "2014", 
+        "solus_id": "200", 
+        "type": "PRA", 
+        "season": "Winter"
+    }, 
+    "_unique": "200-PRA (7009)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "White, Anne F"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

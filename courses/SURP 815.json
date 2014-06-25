@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines the relationships among planning processes and their legal, governmental and administrative contexts. Matters considered include the meaning and sources of law, the Canadian constitution, division of powers, the organization of government into legislative, executive and judicial branches, judicial review and governmental action, and the role of municipal government. From this context arise issues of power, the roles of the planner, the relationships between and among planners, citizens, elected officials and bureaucracy, and the processes and institutions of policy-making.", 
+        "subject": "SURP", 
+        "number": "815", 
+        "title": "Legal and Governmental Processes"
+    }
+}

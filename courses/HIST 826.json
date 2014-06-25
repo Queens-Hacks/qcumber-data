@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will examine selected themes in post-World War II Canadian social and cultural history. Themes include the intersection of foreign relations and nation-building, the ever-increasing influence of a largely U.S. based mass culture, Canadian elite and popular responses to perceived \u00bfAmericanization,\u00bf baby-boom culture, the development of the \u00bfaffluent society\u00bf Canada style, suburbanization, gender constructions in \u00bfcold war Canada,\u00bf narratives of English-Canadian national identity, and social movements in the \u00bflong 1960s. One term seminar; fall.", 
+        "subject": "HIST", 
+        "number": "826", 
+        "title": "The Culture Decades: Canada After 1945"
+    }
+}

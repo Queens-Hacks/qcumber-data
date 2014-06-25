@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course covers the skills needed to plan and present Biomedical Engineering research. Topics include hypothesis and research question generation, literature reviews, statistical methods to design experiments, proposal writing, data presentation and interpretation, information design, scientific speaking and article writing. Instructors: Biomedical Engineering faculty.", 
+        "subject": "CBME", 
+        "number": "801", 
+        "title": "Topics In Biomedical Eng"
+    }
+}

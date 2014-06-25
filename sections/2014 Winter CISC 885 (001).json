@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8119", 
+        "subject": "CISC", 
+        "status": "Open", 
+        "course": "885", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-SEM (8119)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Stockley, Denise B"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

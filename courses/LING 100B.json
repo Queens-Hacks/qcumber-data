@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "This course provides an introduction to the linguistic study of language. Topics covered include phonetics, phonology, morphology, and syntax. The course focuses on universal characteristics of language and draws on examples from a variety of languages.", 
+        "subject": "LING", 
+        "number": "100B", 
+        "title": "Introduction to Linguistics"
+    }
+}

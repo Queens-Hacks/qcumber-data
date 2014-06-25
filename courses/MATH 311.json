@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 MATH210 or MATH211", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Congruences; Euler's theorem; continued fractions; prime numbers and their distribution; quadratic forms; Pell's equation; quadratic reciprocity; introduction to elliptic curves.", 
+        "subject": "MATH", 
+        "number": "311", 
+        "title": "Elementary Number Theory"
+    }
+}

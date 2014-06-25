@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON110 OR ECON111", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An analysis of the Canadian labour relations system in an economic setting. The socio-economic institutional framework of the industrial and collective bargaining system in Canada provides the background for an analysis of some major emerging issues, such as white collar unionism, unions in the public sector, the public interest in emergency disputes, and the impact of technological change.", 
+        "subject": "ECON", 
+        "number": "261", 
+        "title": "Canadian Labour Relations"
+    }
+}

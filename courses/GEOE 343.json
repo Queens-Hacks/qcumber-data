@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: Completion of 2nd year Geological Engineering or permission of the department.", 
+        "CEAB": {
+            "Basic Sci": 12, 
+            "Math": 0, 
+            "Eng Des": 15, 
+            "Eng Sci": 18, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.75"
+    }, 
+    "basic": {
+        "description": "Development of the equations governing flow and transport; sensitivity to sub-surface complexities. Field instrumentation, installation and sampling protocols, elements of groundwater investigation. Assessment of measurement techniques and interpretation of fundamental hydrogeological properties. Groundwater occurrence, flow system analysis, with a focus on designing extraction schemes. During the required field activities, students investigate a groundwater problem by taking measurements to be reduced and interpreted in report form. Given jointly with GEOL 833.", 
+        "subject": "GEOE", 
+        "number": "343", 
+        "title": "Applied Hydrogeology"
+    }
+}

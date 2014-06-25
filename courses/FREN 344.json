@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 FREN220 or FREN221 or (FREN201 and FREN202).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Advanced study of French language with emphasis on written French. Activities include translation.", 
+        "subject": "FREN", 
+        "number": "344", 
+        "title": "Travaux pratiques de langue"
+    }
+}

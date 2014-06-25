@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of Level 3 or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The study of historical and current climate change, projected future climates emphasizing the effects of global warming, impacts of climate change, and the role of humans as agents of climatic system change.", 
+        "subject": "GPHY", 
+        "number": "314", 
+        "title": "Climate Change"
+    }
+}

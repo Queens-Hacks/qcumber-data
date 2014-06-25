@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 CISC121 and (CISC102 or MATH110).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction to mathematical discourse and proof methods. Sets, functions, sequences, and relations. Properties of the integers. Introduction to graph theory. Introduction to combinatorics.", 
+        "subject": "CISC", 
+        "number": "203", 
+        "title": "Discrete Mathematics for Computing Science"
+    }
+}

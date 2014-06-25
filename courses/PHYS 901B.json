@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "A series of research seminar presented by students in the PhD programme summarizing the important issues in their research areas. Presentation of a seminar is required of every PhD student in each of their second and third years. To be offered every fall/winter; graded Pass/Fail.", 
+        "subject": "PHYS", 
+        "number": "901B", 
+        "title": "Graduate Seminar Series"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course focuses on statistical tools and models used in the financial sector with particular attention to analysis of large, evolving, datasets. The use of big data and analytical approaches to risk assessment, market segmentation, financial product development and pricing and other important activities will be discussed in the context of increasingly complex and integrated global financial systems. Applications may include retail banking analytics, inter-day book value assessments and tests, stress-testing, and monte carlo techniques for pricing complex financial instruments.", 
+        "subject": "MMA", 
+        "number": "823", 
+        "title": "Analytics for Financial Mrkts"
+    }
+}

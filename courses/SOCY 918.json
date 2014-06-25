@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will focus upon a variety of macro, middle and micro level theories in the socio-legal area. The emphasis will be on historical and comparative critical analysis and evaluation using appropriate empirical evidence and studies.", 
+        "subject": "SOCY", 
+        "number": "918", 
+        "title": "Socio-Legal Theory"
+    }
+}

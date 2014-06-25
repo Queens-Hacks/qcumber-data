@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is designed to familiarize students with a representative selection of Goethe's poetry, drama, and prose works.\u00a0 Three term-hours; winter.\u00a0 A. Bohm.", 
+        "subject": "GRMN", 
+        "number": "865", 
+        "title": "Goethe"
+    }
+}

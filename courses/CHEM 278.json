@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequiste of (CHEM120 and CHEM121) or (APSC131 and APSC132) and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "", 
+        "subject": "CHEM", 
+        "number": "278", 
+        "title": "Analytical Chem. For Engineers"
+    }
+}

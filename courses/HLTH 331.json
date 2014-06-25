@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "HLTH131 OR NURS100 OR HLTH230", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Current issues relating to nutrition and health promotion/disease prevention. Such topics as cardiovascular disease, weight control, eating disorders, nutrient needs during the life cycle, fads and quackery, sociocultural, economic and media influences. Topics may vary.", 
+        "subject": "HLTH", 
+        "number": "331", 
+        "title": "Advanced Human Nutrition"
+    }
+}

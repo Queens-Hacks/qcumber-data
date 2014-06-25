@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Spring", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course addresses both the best practices and theoretical basis for modern Computer Aided Design solid modeler software and mechanism solvers. Significant hands-on experience will be obtained using Autodesk Inventor and MSC DynamicDesigner. Demonstrations will illustrate similarities to other widely used commercial software. Project work is based on design of steering and suspension for a model (toy) car including dynamic response over terrain. Interior seating will be designed using sculptured surfaces.\u00a0 Module One will cover part design including 2D sketching, constraints, and parametric design, drawing generation, and an introduction to assembly modeling, exploded view presentations, and kinematic mechanism modeling. Module Two advances into dynamic mechanism modeling, sculptured surface design, and relevant mathematical theory. It is anticipated that participants will be able to complete the hands-on portion of the course during the module times. The theory will require some homework, and will be examined through in-class quizzes. (Lead Instructor: Allan Spence, McMaster)", 
+        "subject": "DM", 
+        "number": "825", 
+        "title": "Computer Aided Design Dm-0825"
+    }
+}

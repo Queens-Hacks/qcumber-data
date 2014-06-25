@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "In-depth analysis of the genetics, biochemistry, assembly and function of the major structures of the procaryotic cell. Emphasis on the experimental approaches in the current literature. (Offered in alternate years to BMED-836* and concurrently with MICR-435* with additional work required.) Winter term, two hours lecture, one hour tutorial. K. Jarrell.\u00a0\u00a0 EXCLUSION: MICR-835*", 
+        "subject": "BMED", 
+        "number": "835", 
+        "title": "Advanced Procaryotic Structure and Function"
+    }
+}

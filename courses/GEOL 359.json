@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 GEOL249 and MATH232.\nCorequisite\u00a0\u00a0\u00a0\u00a0 STAT263\nExclusion\u00a0\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from GEOL349; GEOL359.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The theory and use of numerical computational procedures to solve geo-engineering and geoscience problems. The utility, significance and widespread applicability of analytical and numerical techniques will be illustrated in the evaluation and solution of practical problems.", 
+        "subject": "GEOL", 
+        "number": "359", 
+        "title": "Applications of Quantitative Analysis in Geological Sciences"
+    }
+}

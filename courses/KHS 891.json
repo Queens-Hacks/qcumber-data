@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A seminar course which will acquaint the students with the concepts and principles of quantitative statistical analysis including parametric and non-parametric methods. Students will present various topics throughout the course and critically evaluate research in their area of study.", 
+        "subject": "KHS", 
+        "number": "891", 
+        "title": "Statistics"
+    }
+}

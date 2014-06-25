@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "The purpose of this course is to introduce students to the context and traditions of knowledge generation in the social sciences in general, and academic business research in a business school context in particular. This course will encourage students to transcend the technical details of their respective research paradigms so as to position themselves as business school researchers capable of contributing meaningful knowledge to broader academic, business, and societal audiences. Guided by what it means to have a mindset of intellectual curiosity in the social sciences and business school context, this course will tackle questions such as, what it means to be driven by a scientific curiosity; how do we define or construct knowledge in academic business research and how does one's individual research contribute; what are the norms and traditions of being a valuable contributor of knowledge in academic business research? The goal of this course is to enable students to situate their current and forthcoming acquisition of in-depth skills in their research discipline into the mindset of researchers driven by intellectual curiosity seeking to contribute meaningful knowledge in the context and traditions of academic business research.", 
+        "subject": "MGMT", 
+        "number": "801", 
+        "title": "Introduction to Research Methodology"
+    }
+}

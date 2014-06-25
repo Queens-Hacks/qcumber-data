@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced course in which various aspects of the drug discovery and development process, from molecules to community, will be studied. The course comprises lectures, discussion and student seminars, based on recent literature. Topics encompass medicinal chemistry approaches to drug discovery, receptor theory, mechanisms of drug action, drug metabolism, pharmacokinetics, pharmacogenetics, drug resistance, clinical trials, and regulatory affairs. Fall, 3 hour seminar. Given in years ending with an even number. T.E. Massey PREREQUISITE:\u00a0 Permission of the Graduate Program required.\u00a0 EXCLUSION: PHAR-811*", 
+        "subject": "BMED", 
+        "number": "809", 
+        "title": "Principles of Drug Discovery and Development"
+    }
+}

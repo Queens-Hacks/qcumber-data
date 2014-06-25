@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 151 and registered in BSCE\r\nCOREQ: GEOE 221", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 16, 
+            "Eng Sci": 26, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Introduction to all of the integrated fields of Geological Engineering and the essence of engineering design in an earth-systems context. Focus is on geological engineering properties and processes. Projects involve engineering design problems with a particular focus on dealing with scale dependency, sampling confidence, natural variability and risk-assessment related to the quantification of engineering properties for geomaterials. Introductory geotechnical engineering, applied geophysics, resource engineering and geo-environmental engineering is highlighted with emphasis on site investigation and design related to mining, tunnelling, infrastructure development, natural-hazard mitigation and environmental remediation and resource exploration and management.\u00a0A one day field trip is required.", 
+        "subject": "GEOE", 
+        "number": "281", 
+        "title": "Earth Systems Engineering"
+    }
+}

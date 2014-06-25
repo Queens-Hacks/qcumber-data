@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A survey of Latin American history from the pre-conquest era to the mid 19th century. Examines the complexities of Spanish and Portuguese colonialism, the Independence movements, and the ensuing struggle to build a viable post-colonial order.", 
+        "subject": "HIST", 
+        "number": "285", 
+        "title": "Latin America to1850: The Colonial Experience"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4766", 
+        "subject": "MFIN", 
+        "status": "Closed", 
+        "course": "829", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-LEC (4766)", 
+    "classes": [
+        {
+            "term_end": "2014-10-30T00:00:00", 
+            "term_start": "2014-09-11T00:00:00", 
+            "instructors": [
+                "Rogister, Sean"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

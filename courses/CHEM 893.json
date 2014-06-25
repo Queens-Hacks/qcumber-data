@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "The statistical design of experiments and the analysis of data in chemical synthesis and chemical process investigations are considered. Empirical modelling of process behaviour is studied. Applications of factorial and fractional factorial experimental designs in screening studies and methods of response surface exploration are examined.", 
+        "subject": "CHEM", 
+        "number": "893", 
+        "title": "Experimental Design"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 14, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 40, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "This course deals with the principles of commercial explosives technology and the application of blasting in mining and construction. The planning, design, economic considerations and trends of drilling and blasting practices in the different segments of the mining and construction industries are considered. Topics covered are detonation theory, performance and sensitivity of explosives, fragmentation prediction measurement and control, vibrations from blasting, air blast, damage and special blasting techniques used in perimeter blasting and blast design methods.", 
+        "subject": "MINE", 
+        "number": "321", 
+        "title": "Drilling & Blasting"
+    }
+}

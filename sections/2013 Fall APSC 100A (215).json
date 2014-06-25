@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1515", 
+        "subject": "APSC", 
+        "status": "Closed", 
+        "course": "100A", 
+        "year": "2013", 
+        "solus_id": "215", 
+        "type": "STD", 
+        "season": "Fall"
+    }, 
+    "_unique": "215-STD (1515)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM213"
+        }
+    ]
+}

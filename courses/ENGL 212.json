@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ENGL110 OR ENGL112 OR ENGL160 OR ENGL1U##", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A study of Chaucer\u00bfs major work intended to provide a comprehensive coverage of the tales and to consider the innovative nature of the text in its cultural, political, and literary contexts.\u00a0 Students receive instruction in Middle English.", 
+        "subject": "ENGL", 
+        "number": "212", 
+        "title": "Canterbury Tales"
+    }
+}

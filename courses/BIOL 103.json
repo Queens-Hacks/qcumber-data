@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 45, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL102", 
+        "career": "Distance Studies", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the basic themes and concepts of modern biology spanning organizational levels from organisms to ecosystems in an evolutionary context. NOTE\u00a0\u00a0\u00a0 Lab Manual: estimated cost $13.", 
+        "subject": "BIOL", 
+        "number": "103", 
+        "title": "Introductory Biology of Organisms"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "(EDST436 AND PRAC166) OR (LERN236 AND PRAC166) OR (SPEC236 AND PRAC166)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "", 
+        "subject": "PRAC", 
+        "number": "167", 
+        "title": "Yr 2 Conc Practicum/Prof Dev"
+    }
+}

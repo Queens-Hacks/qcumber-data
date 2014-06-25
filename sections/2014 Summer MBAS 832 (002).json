@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2221", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "832", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "002-LEC (2221)", 
+    "classes": [
+        {
+            "term_end": "2014-07-28T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Andrevski, Goce"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

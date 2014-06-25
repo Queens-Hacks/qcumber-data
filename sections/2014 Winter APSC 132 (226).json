@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "7067", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "132", 
+        "year": "2014", 
+        "solus_id": "226", 
+        "type": "TUT", 
+        "season": "Winter"
+    }, 
+    "_unique": "226-TUT (7067)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T12:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "CHERNOFF RM211"
+        }
+    ]
+}

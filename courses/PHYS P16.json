@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHYS P15 or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course, intended for non-specialist students, will provide an overview of astronomy beyond the Solar System. Topics will include: the formation, nature, and evolution of the stars; stellar deaths, including novae, supernovae, white dwarfs, neutron stars, pulsars, and black holes; the interstellar medium; the Milky Way Galaxy; normal and active galaxies and large scale structure in the universe; and modern ideas in cosmology and the early universe.", 
+        "subject": "PHYS", 
+        "number": "P16", 
+        "title": "Astronomy II: Active Universe"
+    }
+}

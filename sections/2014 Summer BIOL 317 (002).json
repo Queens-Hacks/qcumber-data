@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2352", 
+        "subject": "BIOL", 
+        "status": "Closed", 
+        "course": "317", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "FLD", 
+        "season": "Summer"
+    }, 
+    "_unique": "002-FLD (2352)", 
+    "classes": [
+        {
+            "term_end": "2014-08-12T00:00:00", 
+            "term_start": "2014-07-02T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

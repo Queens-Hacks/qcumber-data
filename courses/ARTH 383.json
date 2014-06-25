@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of third year standing or above", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines the phenomenon of the city, a settlement of high density that has, throughout history, offered many distinctive social and cultural experiences. The focus of this course will be urban art, architecture, planning, and material culture, and their relationship to those experiences. Specific urban case studies, Western and non-Western, will provide the foundation for our study.", 
+        "subject": "ARTH", 
+        "number": "383", 
+        "title": "The City"
+    }
+}

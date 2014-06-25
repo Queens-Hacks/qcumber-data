@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A grade of B- in DRAM350 or DRAM351, or permission of the department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced study of playwriting and dramaturgy, including exercises in dramatic techniques and composition of original works with emphasis on the full-length play.\r\nNOTE\u00a0\u00a0 \u00a0The normal classroom time of 36 hours may be spread over two terms.", 
+        "subject": "DRAM", 
+        "number": "451", 
+        "title": "Playwriting and Dramaturgy IV"
+    }
+}

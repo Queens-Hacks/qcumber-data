@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2366", 
+        "subject": "GDPI", 
+        "status": "Closed", 
+        "course": "800", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "SEM", 
+        "season": "Summer"
+    }, 
+    "_unique": "002-SEM (2366)", 
+    "classes": [
+        {
+            "term_end": "2014-07-25T00:00:00", 
+            "term_start": "2014-07-02T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

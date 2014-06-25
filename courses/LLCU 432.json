@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 Approval in advance from instructor and Placement Coordinator, Dept. of LLCU.\nExclusion\u00a0\u00a0 No more than 1 course from DEVS410;420;432; LLCU432\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from DEVS411;432;LLCU432", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Provides students with an opportunity to conduct field research under the guidance of a Fudan instructor. Queen's students are paired with Fudan counterparts and undertake research on an important development/cultural theme, submit a written paper and do a class presentation. The research project will involve at least 10 hours of field work per week for 12 weeks. Fall Term.\r\nNOTE\u00a0\u00a0\u00a0 This course is part of a Study Abroad program in Shanghai, which will require students to pay a program fee to cover costs over and above tuition, as well as travel, accommodation and subsistence. Further details of the estimated costs can be obtained from the Department of Languages, Literatures and Cultures.", 
+        "subject": "LLCU", 
+        "number": "432", 
+        "title": "Field Research Practicum at Fudan University"
+    }
+}

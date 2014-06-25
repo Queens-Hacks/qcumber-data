@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 90, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Principles of protein biochemistry, enzymology, and protein engineering. Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling. CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.", 
+        "subject": "BCHM", 
+        "number": "310B", 
+        "title": "General Biochemistry"
+    }
+}

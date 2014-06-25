@@ -1,0 +1,147 @@
+{
+    "basic": {
+        "class_num": "7770", 
+        "subject": "KNPE", 
+        "status": "Open", 
+        "course": "261", 
+        "year": "2013", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "004-LAB (7770)", 
+    "classes": [
+        {
+            "term_end": "2013-09-15T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM202"
+        }, 
+        {
+            "term_end": "2013-09-29T00:00:00", 
+            "term_start": "2013-09-23T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM202"
+        }, 
+        {
+            "term_end": "2013-10-13T00:00:00", 
+            "term_start": "2013-10-07T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM202"
+        }, 
+        {
+            "term_end": "2013-10-27T00:00:00", 
+            "term_start": "2013-10-21T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM202"
+        }, 
+        {
+            "term_end": "2013-11-10T00:00:00", 
+            "term_start": "2013-11-04T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM202"
+        }, 
+        {
+            "term_end": "2013-11-24T00:00:00", 
+            "term_start": "2013-11-18T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM202"
+        }, 
+        {
+            "term_end": "2013-09-15T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM203"
+        }, 
+        {
+            "term_end": "2013-09-29T00:00:00", 
+            "term_start": "2013-09-23T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM203"
+        }, 
+        {
+            "term_end": "2013-10-13T00:00:00", 
+            "term_start": "2013-10-07T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM203"
+        }, 
+        {
+            "term_end": "2013-10-27T00:00:00", 
+            "term_start": "2013-10-21T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM203"
+        }, 
+        {
+            "term_end": "2013-11-10T00:00:00", 
+            "term_start": "2013-11-04T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM203"
+        }, 
+        {
+            "term_end": "2013-11-24T00:00:00", 
+            "term_start": "2013-11-18T00:00:00", 
+            "instructors": [
+                "Fischer, Steve"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "KINES & HLTH RM203"
+        }
+    ]
+}

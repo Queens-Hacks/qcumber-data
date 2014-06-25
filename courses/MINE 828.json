@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Rock mass stability and failure around mining excavations is examined in detail. Characteristics of rock masses are reviewed together with conditions leading to violent or stable failure. Methods of predicting rock mass failure are studied, with particular emphasis on numerical stress analysis tools. Seismicity in mines resulting from failure is examined in detail, including monitoring systems, source mechanisms, waveform analysis, and integration of seismicity analyses to mine design. Three term-hours, winter term; lectures. S.D. McKinnon.", 
+        "subject": "MINE", 
+        "number": "828", 
+        "title": "Rock Mass Stability and Seismicity in Mines"
+    }
+}

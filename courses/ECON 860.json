@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The principal purpose of the course is to introduce students to contemporary empirical research in micro-economics.\u00a0 The course focuses primarily on the economics of household behavior, including labour supply, intra-household decision-making, marriage, fertility and search and matching models of labour and marriage markets.\u00a0 Equal attention is focused on the theoretical underpinnings of each subject, the empirical methods for testing the implications of micro-economic models and assessing the evidence that the application of these methods has produced.", 
+        "subject": "ECON", 
+        "number": "860", 
+        "title": "Empirical Micro-Economics I"
+    }
+}

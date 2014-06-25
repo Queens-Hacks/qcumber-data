@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON212", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Examines regulated industries such as electrical utilities, communication, transportation and agriculture. Addresses traditional questions relating to pricing rules and some recent work in political economy that attempts to explain why society has adopted the particular form of intervention that has occurred.", 
+        "subject": "ECON", 
+        "number": "371", 
+        "title": "Economics of Regulation"
+    }
+}

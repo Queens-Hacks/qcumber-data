@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of CHEM112 or CHEM116 or APSC131 and APSC132", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction to analytical chemical methods and science. Topics include statistical analysis of data, titrations and equilibrium theory, spectrophotometry and instrumental elemental analysis. \r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $20.", 
+        "subject": "CHEM", 
+        "number": "213", 
+        "title": "Introduction to Chemical Analysis"
+    }
+}

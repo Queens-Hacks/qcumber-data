@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOE 232 (or GEOL 232)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Macroscopic and microscopic characterization of igneous, sedimentary and metamorphic rocks. Processes by which rocks are formed and transformed, and influence of genesis on shape, distribution, and rock-mass character of rock bodies. Implications and consequences of rock-forming processes for mineral exploration and production, fossil-fuel exploration and production, and engineering site investigation.", 
+        "subject": "GEOL", 
+        "number": "235", 
+        "title": "Genesis and Characterization of Solid Earth Materials"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6152", 
+        "subject": "PT", 
+        "status": "Open", 
+        "course": "855", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LAB (6152)", 
+    "classes": [
+        {
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-02-24T00:00:00", 
+            "instructors": [
+                "Hopkins-Rosseel, Diana"
+            ], 
+            "end_time": "1900-01-01T12:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "ACTON RM21"
+        }
+    ]
+}

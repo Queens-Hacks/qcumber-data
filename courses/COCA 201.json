@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of 100-level course in ARTH or DRAM or FILM or MUSC and a corequisite of CISC 101 or CISC 110 or CISC 121", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A multidisciplinary studio-oriented overview of computer-based applications in Art, Music, Drama and Film. History of human-computer interaction. Critical and philosophical issues. Animation. Virtual reality. Computer-aided design. Computer games. Enrollment is limited.", 
+        "subject": "COCA", 
+        "number": "201", 
+        "title": "Intro Comp & Creative Arts"
+    }
+}

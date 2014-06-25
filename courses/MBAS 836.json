@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course emphasizes the linkage between business and marketing strategy. It identifies the mission critical marketing tasks required by alternative business strategies and provides a methodology for determining whether those tasks are being appropriately performed. In addition, it considers how business strategies change over time and the implications of those changes on how the marketing function is organized and its key tasks executed.", 
+        "subject": "MBAS", 
+        "number": "836", 
+        "title": "Creating & Executing Market-Based Strategy"
+    }
+}

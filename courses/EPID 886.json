@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture / Demonstration": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "EPID-886 is the first of two required practica.\u00a0 The aim of this course is to provide students with the technical skills necessary to perform a variety of professional functions in a community agency.\u00a0 Through a combination of workshops, seminars, and guest lectures, students will acquire some of the essential public health skills in preparation for their placement in a public health agency (Practicum II). This course is graded on a PASS/FAIL basis. Three term hours, fall, every year. Coordinator: A. Young.", 
+        "subject": "EPID", 
+        "number": "886", 
+        "title": "Practicum I \u00bf Community Health Systems"
+    }
+}

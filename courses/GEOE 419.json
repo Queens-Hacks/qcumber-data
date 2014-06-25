@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Undergraduate", 
+        "CEAB": {
+            "Basic Sci": 12, 
+            "Math": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 12, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Field Studies": "Required"
+        }, 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "This eight day, intensive field course focuses on field and laboratory techniques using a wide array of geophysical site investigation and exploration methods. Lectures are used to review basic instrument theory, and to teach the principles of exploration program design. The course culminates in an exercise to design and implement an integrated geophysical site investigation. Students should consult with course instructors regarding estimated field trip costs.", 
+        "subject": "GEOE", 
+        "number": "419", 
+        "title": "Geophysics Field School"
+    }
+}

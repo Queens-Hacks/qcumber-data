@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Autocorrelation and autocovariance, stationarity; ARIMA models; model identification and forecasting; spectral analysis. Applications to biological, physical and economic data. (Offered jointly with STAT-464.) Three term-hours, fall; lectures.", 
+        "subject": "STAT", 
+        "number": "864", 
+        "title": "Discrete Time Series Analysis"
+    }
+}

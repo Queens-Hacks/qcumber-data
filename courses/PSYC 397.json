@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PSYC100.", 
+        "career": "Distance Studies", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A survey of the history of modern psychology, from the early 19th century to the close of the 20th. The more important empirical findings of psychology and related disciplines will be examined together with their theoretical explanations. The course will lead to an examination of the causes of differential scientific progress in the various subfields of psychology.", 
+        "subject": "PSYC", 
+        "number": "397", 
+        "title": "History of Modern Psychology"
+    }
+}

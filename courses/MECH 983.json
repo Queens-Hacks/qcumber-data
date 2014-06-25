@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Metal components in nuclear power reactors change shape under the influence of the fast neutron flux, temperature and stress to which they are subjected. The phenomena that cause these shape changes are irradiation creep, irradiation growth, and irradiation-induced swelling. They are accompanied by changes in microstructure, and the evolution of the observed microstructural features is intimately related to the dimensional changes. This course describes the phenomena observed in two important classes of nuclear materials (zirconium alloys used in thermal power reactors and austenitic stainless steels used in fast breeder reactors), the physical processes believed to cause these phenomena, and some of the outstanding issues to be resolved. Mathematical models are presented that provide a qualitative understanding of the behaviour. Three term-hours, lectures. R. Holt.\u00a0", 
+        "subject": "MECH", 
+        "number": "983", 
+        "title": "Nuclear Power Reactors"
+    }
+}

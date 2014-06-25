@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides an introduction to public health leadership and administration. The intent is to familiarize with the main components of the organization, financing, and delivery of public health services in Canada. Students will also learn principles of strategic planning, public health marketing, the legal and ethical basis for public health interventions, and systems thinking for resolving community health and organizational problems.Finally, the course will build competencies in critical thinking and communication skills necessary for public health practice. Three term hours; Winter.\u00a0 Duncan Hunter.", 
+        "subject": "EPID", 
+        "number": "827", 
+        "title": "Pub. Hlth Leadership & Admin."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6771", 
+        "subject": "PHGY", 
+        "status": "Open", 
+        "course": "210", 
+        "year": "2014", 
+        "solus_id": "700", 
+        "type": "ONL", 
+        "season": "Winter"
+    }, 
+    "_unique": "700-ONL (6771)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Ward, Christopher Andrew"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0 or IDIS150.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An intermediate course focusing on biomedical applications of lung biology. Topics include lung mechanics, gas exchange, acid-base balance and control of breathing.", 
+        "subject": "PHGY", 
+        "number": "355", 
+        "title": "Biomedical Respiratory Physiology"
+    }
+}

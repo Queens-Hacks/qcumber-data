@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Summer", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Some of the topics discussed are: nature of the solid/liquid interface, nucleation of solid in a liquid, equilibrium and non-equilibrium shapes, attachment kinetics, solute partition at a solid-liquid interface, solute transport in the liquid and solid, macroscopic segregation, ultra-rapid solidification and metastability, generation of defects in crystals, other techniques to produce crystals. Three term-hours. R. W. Smith.", 
+        "subject": "MECH", 
+        "number": "877", 
+        "title": "Fundamentals Of Crystal Growth"
+    }
+}

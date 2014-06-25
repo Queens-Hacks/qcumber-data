@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course prepares students to advance safety science knowledge through independent research using quantitative and qualitative methods, including topics in safety/quality/risk research and evaluation design, data management, measurement and analysis techniques. Students are expected to generate a research proposal suitable for their culminating project.", 
+        "subject": "HQRS", 
+        "number": "842", 
+        "title": "Research and Evaluation Methods to Assess Quality, Risk and Safety"
+    }
+}

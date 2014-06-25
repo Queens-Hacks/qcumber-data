@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6906", 
+        "subject": "THEO", 
+        "status": "Open", 
+        "course": "653", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "REA", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-REA (6906)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Holmes, Pamela"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 1, 
+            "location": "THEOLOGICAL RM209"
+        }
+    ]
+}

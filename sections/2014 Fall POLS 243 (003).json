@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "5041", 
+        "subject": "POLS", 
+        "status": "Open", 
+        "course": "243", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-TUT (5041)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "MACINTOSH-CORRY RM A311"
+        }
+    ]
+}

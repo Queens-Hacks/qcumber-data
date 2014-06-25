@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Open to students completing an honours concentration in Film and Media, or Stage and Screen Studies. May be an essay or a film or video project. Apply for FILM 500/6.0 or FILM 501/3.0, but not both, to the Undergraduate Coordinator by end of Level 3.", 
+        "subject": "FILM", 
+        "number": "501", 
+        "title": "Honours Thesis"
+    }
+}

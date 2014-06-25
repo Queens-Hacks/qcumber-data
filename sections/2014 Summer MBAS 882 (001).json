@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2367", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "882", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2367)", 
+    "classes": [
+        {
+            "term_end": "2014-07-31T00:00:00", 
+            "term_start": "2014-07-04T00:00:00", 
+            "instructors": [
+                "Dacin, Tina"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

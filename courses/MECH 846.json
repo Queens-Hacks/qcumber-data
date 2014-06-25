@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides an introduction to analysis of fluid flows at the masters level. Derivation of the transport equations is completed for arbitrary control volumes in both vector and tensor forms. Inviscid flows are explored to illustrate the separate effects of inertial and viscous forces, including development of Joukowski airfoil models. Exact and approximate solutions are developed for steady and unsteady laminar flows. Boundary Layer solutions are developed by differential and integral analysis. The similarity of transport equations for thermal energy and concentration are illustrated. On completion of the course, students will be well prepared for specialized courses in convective heat transfer, turbulence, and computational fluid mechanics.", 
+        "subject": "MECH", 
+        "number": "846", 
+        "title": "Fluid Systems Analysis"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A GPA of 2.6 in FILM and (a grade of B- in FILM110 or FILM104&106) and 6.0 units in FILM.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Intermediate examination of\u00a0the historical and critical relation between film and politics or political ideologies. Examples will be drawn from both narrative and non-narrative traditions.", 
+        "subject": "FILM", 
+        "number": "336", 
+        "title": "Film and Politics"
+    }
+}

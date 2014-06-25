@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Restricted to BED/DED Program", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Designed to introduce teacher candidates to the Catholic education tradition in Ontario. Topics include the history of Catholic education in Ontario, the philosophical underpinnings of a Catholic school system, the critical assessment of values embedded in the curriculum including development of a curricular philosophy which reflects the particular requirements of the Catholic education system, and the support systems presently available for Catholic teachers in the schools of Ontario.\u00a0 While this course is recommended for those IS subject specialists who are not likely to be teaching religion in a Catholic secondary school, it will provide candidates with the tools to integrate a Catholic vision of education into all subject areas.", 
+        "subject": "FOUN", 
+        "number": "416", 
+        "title": "Catholic Education"
+    }
+}

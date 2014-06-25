@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course presents the theory and design implementation of several types of sensors and actuators. Sensors discussed include solid-state optical sensors, temperature sensors, velocity sensors, piezoelectric sensors and accelerometers, strain and force sensors, analogue and digital position sensors, pressure and flow sensors, and magnetometers and Hall sensors. Theory and modelling of several common actuators including different electric motors, hydraulic and pneumatic motors and cylinders, as well as piezoelectric and magnetostrictive actuators are presented.\u00a0\u00a0 Component integration, design considerations, and interfacing are studied through examples selected from applications of machine tools, mechatronics, robotics, aerospace systems, and ground vehicles.\u00a0 Four laboratory projects in robotics, vision, pneumatics, and hydraulic systems reinforce understanding of the topics.(Lead Instructor: Amir Khajepour, Waterloo)", 
+        "subject": "DM", 
+        "number": "823", 
+        "title": "Sensors\u00a0 Actuators & Interf"
+    }
+}

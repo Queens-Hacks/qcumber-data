@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "6425", 
+        "subject": "ENGL", 
+        "status": "Open", 
+        "course": "481", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-SEM (6425)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Fachinger, Petra"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 1, 
+            "location": "NICOL RM321"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Fachinger, Petra"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 3, 
+            "location": "NICOL RM321"
+        }
+    ]
+}

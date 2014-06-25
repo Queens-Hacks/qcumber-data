@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Detailed study of certain aspects of Greek and Roman literature, history or philosophy through directed readings and essay assignments. A short thesis may be required.", 
+        "subject": "CLST", 
+        "number": "430A", 
+        "title": "Special Research Course"
+    }
+}

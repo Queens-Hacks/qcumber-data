@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH221 or MATH231 or MATH232 or MATH280) and (MATH210 or MATH211).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from IDIS303; MATH382.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Elementary mathematical material will be used to explore different ways of discovering results and mastering concepts.\u00a0Topics will come from number theory, geometry, analysis, probability theory, and linear algebra. Much class time will be used for problem solving and presentations by students.", 
+        "subject": "MATH", 
+        "number": "382", 
+        "title": "Mathematical Explorations"
+    }
+}

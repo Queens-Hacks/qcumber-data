@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "3189", 
+        "subject": "ELEC", 
+        "status": "Open", 
+        "course": "421", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (3189)", 
+    "classes": [
+        {
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-30T00:00:00", 
+            "instructors": [
+                "Chan, Wai Yip Geoffrey"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM212"
+        }, 
+        {
+            "term_end": "2013-11-08T00:00:00", 
+            "term_start": "2013-10-21T00:00:00", 
+            "instructors": [
+                "Chan, Wai Yip Geoffrey"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "BEAMISH-MUNRO RM212"
+        }
+    ]
+}

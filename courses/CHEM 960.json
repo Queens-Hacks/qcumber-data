@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This course introduces the current topics in luminescent materials chemistry including photophysical and photochemical properties of transition metal and main group compounds, and characterization methods.The design and synthetic aspects of luminescent materials and their applications in sensing and optoelectronic devices, and photocatalysis will also be discussed. Winter. S. Wang", 
+        "subject": "CHEM", 
+        "number": "960", 
+        "title": "Luminescent Materials Chem."
+    }
+}

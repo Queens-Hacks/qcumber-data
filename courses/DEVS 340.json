@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite DEVS100 & DEVS230 & DEVS240\r\nExclusion\u00a0 No more than 3.0 units from DEVS340/3.0/POLS346/3.0", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Provides students with an overview of theories that underpin the development enterprise, and critiques of development, through the use of primary texts and critical appraisals.", 
+        "subject": "DEVS", 
+        "number": "340", 
+        "title": "Theories of Development"
+    }
+}

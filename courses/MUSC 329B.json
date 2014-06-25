@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The practical study of teaching techniques of standard musical repertoire (solo, chamber, orchestral, operatic, etc.) of a particular instrument. The course requires student performances of representative musical works. The focus of study will rotate from year to year as resources permit.", 
+        "subject": "MUSC", 
+        "number": "329B", 
+        "title": "Applied Pedagogy II"
+    }
+}

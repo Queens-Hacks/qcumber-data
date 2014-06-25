@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON110 OR ECON111", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The incentive effects of taxes on the allocation of resources in the economy and their impact on the distribution of wealth in Canada. Reviews Canadian tax policy and evaluates the effects of various federal and provincial taxes on the behaviour of households and firms.", 
+        "subject": "ECON", 
+        "number": "240", 
+        "title": "Canadian Tax Policy"
+    }
+}

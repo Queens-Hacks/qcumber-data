@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "COREQ: ENPH 242 or ENPH 342\r\nMust be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "The objective of this course is the understanding of the fundamental physics associated with a nuclear reactor. Topics include a brief review of basic nuclear physics, neutron interactions and cross-sections, neutron diffusion, neutron moderation, theory of reactors, changes in reactivity, control of reactors. Offered in alternate years.", 
+        "subject": "ENPH", 
+        "number": "491", 
+        "title": "Physics Of Nuclear Reactors"
+    }
+}

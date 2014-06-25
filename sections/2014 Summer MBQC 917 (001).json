@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2074", 
+        "subject": "MBQC", 
+        "status": "Open", 
+        "course": "917", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2074)", 
+    "classes": [
+        {
+            "term_end": "2014-05-31T00:00:00", 
+            "term_start": "2014-04-05T00:00:00", 
+            "instructors": [
+                "Denford, Jim"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

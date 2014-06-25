@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C in 6.0 units from ENGL100 or ENGL110\r\nEXCLUSION\u00a0 No more than 6.0 units from ENGL110;6.0; ENGL200/6.0", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "An historical survey of literature from the British Isles and beyond. Through the study of representative works, the course aims to familiarize students with the characteristics of literary periods from the Middle Ages to the present.\r\nNOTE\u00a0\u00a0\u00a0 Enrollment preference is given to students registered in ENGL Plans.", 
+        "subject": "ENGL", 
+        "number": "200A", 
+        "title": "History of Literature in English"
+    }
+}

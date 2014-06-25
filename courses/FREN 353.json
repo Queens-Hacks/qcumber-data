@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 FREN220 or FREN221.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from FREN215; FREN353; FREN393.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction to basic notions in phonetics and phonology.\u00a0Physiology of speech and phonation, description and classification of French sounds, distinction between phonetics and phonology, description of the French phonological system (phonemes and feature system, phonological rules and syllable structure).", 
+        "subject": "FREN", 
+        "number": "353", 
+        "title": "Phon\u00e9tique et phonologie du fran\u00e7ais"
+    }
+}

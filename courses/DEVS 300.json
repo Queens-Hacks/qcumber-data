@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite DEVS100 and DEVS230 & DEVS240", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A study of practical issues related to development research and program evaluation in development settings, using a case-study approach. Topics include information retrieval, cross-cultural research methods, basic data analysis, and results-based project evaluation.", 
+        "subject": "DEVS", 
+        "number": "300", 
+        "title": "Cross-Cultural Research Method"
+    }
+}

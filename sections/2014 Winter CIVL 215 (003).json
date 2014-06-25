@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2396", 
+        "subject": "CIVL", 
+        "status": "Open", 
+        "course": "215", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "TUT", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-TUT (2396)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Cree, Duncan"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING RM414"
+        }
+    ]
+}

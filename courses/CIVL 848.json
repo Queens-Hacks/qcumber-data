@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Geoenvironmental aspects of waste management are examined with particular emphasis on the design of systems to provide long term protection against groundwater contamination. A major focus is the integration of engineering design and hydrogeologic considerations and contaminant transport through barrier systems and natural soils. Three term-hours.", 
+        "subject": "CIVL", 
+        "number": "848", 
+        "title": "Landfill Design"
+    }
+}

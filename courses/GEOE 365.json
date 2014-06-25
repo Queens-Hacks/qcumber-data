@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 131 and GEOE 232 or GEOL 232 and GEOE 235 or GEOL 235 or permission of the department. Must also be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 27, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 21, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "The application of thermodynamics and kinetics to the understanding of natural processes in the Earth Sciences. Distribution of the elements, and practical uses of isotopes and elemental tracers. Geochemical actions and transactions within, and among, the lithosphere, hydrosphere, atmosphere and biosphere, including the impact of human evolution and environmental geochemistry. Practical application of geochemistry to solving problems in natural systems will be emphasized. A practical involving problems, laboratory experience and field experience will be part of the course.", 
+        "subject": "GEOE", 
+        "number": "365", 
+        "title": "Geochemical Characterization Of The Earth"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3920", 
+        "subject": "HIST", 
+        "status": "Open", 
+        "course": "121B", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "SEM", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-SEM (3920)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Quirk, Andrew James"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 4, 
+            "location": "MCLAUGHLIN RM302"
+        }
+    ]
+}

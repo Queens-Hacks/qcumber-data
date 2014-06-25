@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 Level 2 or above in a PHED or KINE Plan and PSYC100.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Evaluation of human performance from perception to movement execution. Mechanisms underlying skill acquisition and the roles of practice and feedback on performance will be evaluated.", 
+        "subject": "KNPE", 
+        "number": "261", 
+        "title": "Motor Learning"
+    }
+}

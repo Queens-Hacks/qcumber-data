@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The principles of classical and quantum statistical mechanics with application to the theories of the gaseous, liquid, and solid states of matter. Review of thermodynamics, fundamentals. Fermi-Dirac and Bose-Einstein statistics, solids and phase transitions.", 
+        "subject": "PHYS", 
+        "number": "870", 
+        "title": "Statistical Mechanics"
+    }
+}

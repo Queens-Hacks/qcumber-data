@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 172, APSC 174, MTHE 280 (or MATH 280) and registered in BSCE", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 42, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Taylor's theorem, optimization, implicit and inverse function theorems. Elementary topology of Euclidean spaces. Sequences and series of numbers and functions. Pointwise and uniform convergence. Power series.", 
+        "subject": "MTHE", 
+        "number": "281", 
+        "title": "Introduction To Real Analysis"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The intersection of areas of law, risk, and healthcare that create specific and unique complexities for a variety of professionals is explored in this course. Topics include accident law, civil litigation, insurance and risk management; the course concentrates on the intersections of these areas to synthesize both a coherent system of redress and a risk and safety conscious system for organizing social behaviour.", 
+        "subject": "HQRS", 
+        "number": "844", 
+        "title": "Law, Risk and Healthcare"
+    }
+}

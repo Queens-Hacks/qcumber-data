@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1137", 
+        "subject": "LAW", 
+        "status": "Open", 
+        "course": "343", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-SEM (1137)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T18:00:00", 
+            "start_time": "1900-01-01T15:00:00", 
+            "day_of_week": 4, 
+            "location": "MACDONALD RM100"
+        }
+    ]
+}

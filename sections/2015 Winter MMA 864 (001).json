@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8238", 
+        "subject": "MMA", 
+        "status": "Open", 
+        "course": "864", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (8238)", 
+    "classes": [
+        {
+            "term_end": "2015-03-04T00:00:00", 
+            "term_start": "2015-03-02T00:00:00", 
+            "instructors": [
+                "Cross, Barry"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

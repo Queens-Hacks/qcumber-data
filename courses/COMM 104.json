@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This required second year course provides an introduction to the related fields of business ethics and corporate social responsibility.\u00a0 It is also the first academic step towards achieving a Certificate in Corporate Social Responsibility. The course is designed to increase student awareness of the increasing importance of the ethical dimension of business.\u00a0 It will enhance student understanding of the issues, standards and stakeholders involved.\u00a0 It will also introduce ethical analysis and decision making processes, as well as the role of ethics in corporate governance and the need for an ethical corporate culture.", 
+        "subject": "COMM", 
+        "number": "104", 
+        "title": "Business Ethics And C S R"
+    }
+}

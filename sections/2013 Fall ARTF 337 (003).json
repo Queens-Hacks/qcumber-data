@@ -1,0 +1,103 @@
+{
+    "basic": {
+        "class_num": "1723", 
+        "subject": "ARTF", 
+        "status": "Open", 
+        "course": "337", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LLB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LLB (1723)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Rettig, Ted"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "ONTARO RM208"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Rettig, Ted"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 2, 
+            "location": "ONTARO RM208"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Rettig, Ted"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "ONTARO RM208"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Rettig, Ted"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "ONTARO RM208"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Rettig, Ted"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "ONTARIO RM108"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Rettig, Ted"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 2, 
+            "location": "ONTARIO RM108"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Rettig, Ted"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "ONTARIO RM108"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Rettig, Ted"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "ONTARIO RM108"
+        }
+    ]
+}

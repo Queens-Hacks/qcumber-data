@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "CISC352", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Investigation of selected areas of artificial intelligence research. Possible topics include natural language understanding, computational perception, planning, learning, and neurocomputing.", 
+        "subject": "CISC", 
+        "number": "453", 
+        "title": "Topics in Artificial Intelligence"
+    }
+}

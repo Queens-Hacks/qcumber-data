@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH328 or (PHYS211 and PHYS225) and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 13, 
+            "Eng Sci": 29, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Considers mechanical vibration, the problems it presents and the means of dealing with it. Completes the treatment of systems with two degrees-of-freedom (introduced in \u00a0MECH 328) and proceeds to systems with higher number of degrees-of-freedom. Co-ordinate systems, types of coupling, matrix formulation, vibration absorbers and dampers, specific and hysteretic damping, Rayleigh's method, torsional vibration, Holzer method, introduction to the finite element method, beam vibration.", 
+        "subject": "MECH", 
+        "number": "420", 
+        "title": "Vibrations"
+    }
+}

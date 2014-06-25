@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course describes the material content, energetics and evolution of the Universe beyond our Galaxy. Topics include global properties of galaxies and clusters, the extragalactic distance scale, extragalactic radio sources, large scale structure, dark matter, and cosmology.", 
+        "subject": "PHYS", 
+        "number": "814", 
+        "title": "Extragalactic Astronomy"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Pass/Fail", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "This course is the student\u00bfs mini thesis (project) which is reviewed by two members of the department.", 
+        "subject": "SPAN", 
+        "number": "898", 
+        "title": "Project Course"
+    }
+}

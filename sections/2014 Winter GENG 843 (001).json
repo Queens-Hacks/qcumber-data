@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8409", 
+        "subject": "GENG", 
+        "status": "Open", 
+        "course": "843", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-SEM (8409)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Novakowski, Kent S"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

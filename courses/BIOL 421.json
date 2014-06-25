@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BIOL243 or PSYC202 or STAT263 or STAT269\r\nCorequisite\u00a0\u00a0\u00a0\u00a0\u00a0 BIOL302 or BIOL303", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will explore genetic aspects of conservation, addressing questions such as: How is genetic variation lost? Can loss of genetic variation result in extinction? How much genetic variation is 'enough' for population viability? Can loss of genetic variation be prevented? How do we define management units for conservation? And is hybridization a problem or a benefit for conservation?", 
+        "subject": "BIOL", 
+        "number": "421", 
+        "title": "Conservation Genetics"
+    }
+}

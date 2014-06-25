@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "class_num": "1785", 
+        "subject": "BIOL", 
+        "status": "Open", 
+        "course": "205", 
+        "year": "2013", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-LEC (1785)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T12:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 2, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:30:00", 
+            "day_of_week": 3, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T13:30:00", 
+            "start_time": "1900-01-01T12:30:00", 
+            "day_of_week": 5, 
+            "location": "BIOSCI AUD"
+        }
+    ]
+}

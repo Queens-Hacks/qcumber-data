@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "5324", 
+        "subject": "ENPH", 
+        "status": "Open", 
+        "course": "345", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (5324)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Gooding, Robert James"
+            ], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "STIRLING RM B"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Gooding, Robert James"
+            ], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "STIRLING RM C"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Gooding, Robert James"
+            ], 
+            "end_time": "1900-01-01T13:30:00", 
+            "start_time": "1900-01-01T12:30:00", 
+            "day_of_week": 5, 
+            "location": "STIRLING RM A"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Exclusion:\u00a0 MIR 820 A & B", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course addresses the fundamentals of the law governing the individual employment relationship and the collective bargaining relationship; rights of the employee and employer at common law, and their modification by minimum standards statutes and human rights legislation; the development of contemporary collective bargaining legislation; the certification process; unfair labour practices and the duty to bargain.", 
+        "subject": "MIR", 
+        "number": "823", 
+        "title": "IR And Labour Law I"
+    }
+}

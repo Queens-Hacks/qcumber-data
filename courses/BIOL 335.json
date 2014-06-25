@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CHEM112 or\u00a0 (APSC 131 & APSC 132)", 
+        "CEAB": {
+            "Basic Sci": 54, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Physics, chemistry and biology of freshwater lakes. Emphasis on: morphometry; light and temperature; water chemistry in relation to nutrients; physiological requirements; composition and interaction of algal and invertebrate populations; eutrophication; pollution; environmental change. \r\nNOTE: Field trip estimated cost $25 \r\nNOTE: BIOL 200 (or BIOL 201 and BIOL 202) highly recommended.", 
+        "subject": "BIOL", 
+        "number": "335", 
+        "title": "Limnology and Aquatic Ecology"
+    }
+}

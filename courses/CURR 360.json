@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "(All Technological Education candidates; offered in Fall for Fall-Winter program,\u00a0and Summer 1 for Internship program). Provides an introduction to teaching and learning in contemporary technological education. Teacher candidates examine and practice strategies for teaching and learning that enable students to develop capability in the twin contexts of design education and technology education. Lesson planning, teaching strategies, workshop and classroom organization, questioning techniques, and responses to student behaviour will be discussed in the context of the practicum.", 
+        "subject": "CURR", 
+        "number": "360", 
+        "title": "Teaching Tech Ed, Pt 1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The following topics are covered: Introduction to Health and Safety and Environment, Risk Perception and Assessment, Occupational Hygiene, Indoor Air Quality, Principles of Safety Theory and Management, Risk Homeostasis, Principles of Occupational Toxicology, OEL , Toxic Effects of Airborne Contaminants, Dermal Exposure, Evaluation of Airborne Contaminant Levels, Noise, Vibration and Other Physical Agents, Radiation - Ionizing an Nonionizing, Ergonomics, Control Measures for Airborne Contaminants and Heat Stress, Diverse perspectives, Health, Safety and Environment Issues and Engineering Responsibilities, Government, Industry and Labour Unions. Three term-hours, winter term; lectures. Staff", 
+        "subject": "MINE", 
+        "number": "862", 
+        "title": "Health\u00a0 Safety & Environment"
+    }
+}

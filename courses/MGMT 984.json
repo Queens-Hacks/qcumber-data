@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides an understanding of the economics of technological change and thus the foundations for technology strategy. Throughout the course we study both theoretical models and empirical analysis that clarify the interactions between market forces, technological innovation and firm capabilities. Topics include diffusion of technologies and patent races, licensing technology and joint ventures, technology standards, small entrepreneurial firms and innovation, financing R&D and technology policy.", 
+        "subject": "MGMT", 
+        "number": "984", 
+        "title": "Economics of Technological Innovation"
+    }
+}

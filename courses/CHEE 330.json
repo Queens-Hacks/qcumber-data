@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHEE 210 and CHEE 223, or permission of the department.\u00a0 Must be registered in a BSCE academic program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course follows a unified approach to introduce the physical origins and rate equations of heat and mass transfer. The principal topics covered include identification of the driving forces for heat and mass diffusion, development of transport models from first principles, steady state and transient solutions, and convective transfer. The boundary layer analogies are introduced. Closed form analytical solutions and correlations derived from dimensional analysis are used to estimate the heat and mass transfer convection coefficients.", 
+        "subject": "CHEE", 
+        "number": "330", 
+        "title": "Heat And Mass Transfer"
+    }
+}

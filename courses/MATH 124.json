@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "typically_offered": "Summer", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH123 or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from MATH120; MATH121; MATH122; MATH123; MATH124; MATH126", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topics include techniques of integration; differential equations, and multivariable differential calculus. \r\nNOTE\u00a0\u00a0\u00a0 For students who have credit for a one-term course in calculus.Topics covered are the same as those in the Winter term of MATH 121/6.0.", 
+        "subject": "MATH", 
+        "number": "124", 
+        "title": "Differential and Integral Calculus II"
+    }
+}

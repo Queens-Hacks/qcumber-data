@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC111 and APSC112 and APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 48, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "An introductory course for engineering students in disciplines other than electrical or computer engineering. The course begins with a review of the concepts of resistance, capacitance, and inductance. Circuit analysis techniques are then applied to characterize the behaviour of commonly used electrical energy conversion devices such as transformers, dc machines, and induction and synchronous machines.", 
+        "subject": "ELEC", 
+        "number": "210", 
+        "title": "Intro Elec Circuits & Machines"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "5103", 
+        "subject": "MECH", 
+        "status": "Open", 
+        "course": "213", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (5103)", 
+    "classes": [
+        {
+            "term_end": "2013-10-15T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Jeswiet, Jacob"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 1, 
+            "location": "MCLAUGHLIN SHOP"
+        }, 
+        {
+            "term_end": "2013-10-16T00:00:00", 
+            "term_start": "2013-10-16T00:00:00", 
+            "instructors": [
+                "Jeswiet, Jacob"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T15:30:00", 
+            "day_of_week": 3, 
+            "location": "MCLAUGHLIN SHOP"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-10-17T00:00:00", 
+            "instructors": [
+                "Jeswiet, Jacob"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 1, 
+            "location": "MCLAUGHLIN SHOP"
+        }
+    ]
+}

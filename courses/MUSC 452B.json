@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A continuation of MUSC 352*, MUSC 355. Enrolment is limited. Students must submit in writing to the School of Music Office their request to apply for this course by the last day of classes in the Winter Term.", 
+        "subject": "MUSC", 
+        "number": "452B", 
+        "title": "Electroacoustic Composition"
+    }
+}

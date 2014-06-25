@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PHYS343 OR CHEM331 OR CHEM313", 
+        "CEAB": {
+            "Basic Sci": 20, 
+            "Math": 4, 
+            "Eng Des": 0, 
+            "Eng Sci": 12, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The mathematical and physical foundations of quantum theory are formulated. The basic principles are illustrated by applications in atomic, molecular, nuclear and solid state physics. (4/20/0/12/0)~ COURSE DELETED 2009/10) ~", 
+        "subject": "ENPH", 
+        "number": "424", 
+        "title": "Quantum Mechanics I"
+    }
+}

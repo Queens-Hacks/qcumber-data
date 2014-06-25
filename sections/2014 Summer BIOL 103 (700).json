@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2032", 
+        "subject": "BIOL", 
+        "status": "Open", 
+        "course": "103", 
+        "year": "2014", 
+        "solus_id": "700", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "700-LEC (2032)", 
+    "classes": [
+        {
+            "term_end": "2014-08-12T00:00:00", 
+            "term_start": "2014-07-02T00:00:00", 
+            "instructors": [
+                "Chippindale, Adam"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

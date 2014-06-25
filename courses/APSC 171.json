@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 42, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Functions, limits, derivatives; optimization, rate problems, exponentials, logarithms, inverse trigonometric functions; exponential growth as an example of a differential equation. Fundamental Theorem of Calculus, Riemann integral; applications to problems involving areas, volumes, mass, charge, work, etc. Some integration techniques.", 
+        "subject": "APSC", 
+        "number": "171", 
+        "title": "Calculus I"
+    }
+}

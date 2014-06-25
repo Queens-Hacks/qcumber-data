@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course reviews the formulation, solution, and application of a range of probabilistic modelling techniques. Topics may include inventory models, queueing, simulation, decision analysis, Markov models, forecasting, and stochastic dynamic programming. NOTE:\u00a0 Students cannot repeat the same 800/900 level course if it is cross listed. (Crossed with MGMT-861*)", 
+        "subject": "MGMT", 
+        "number": "961", 
+        "title": "Probabilistic Operations Research Models"
+    }
+}

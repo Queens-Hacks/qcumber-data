@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7651", 
+        "subject": "PRAC", 
+        "status": "Closed", 
+        "course": "311A", 
+        "year": "2013", 
+        "solus_id": "200", 
+        "type": "PRA", 
+        "season": "Fall"
+    }, 
+    "_unique": "200-PRA (7651)", 
+    "classes": [
+        {
+            "term_end": "2013-12-04T00:00:00", 
+            "term_start": "2013-09-05T00:00:00", 
+            "instructors": [
+                "White, Anne F"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

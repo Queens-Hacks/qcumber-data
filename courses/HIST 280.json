@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Online": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 Level 2 or above.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 1 course from HIST 280/6.0; HIST 281/3.0", 
+        "career": "Distance Studies", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "A survey of the history of gender in North America. Examines topics such as patriarchy and the unequal status of women, masculinity, racial and ethnic relations, and sexuality. Also considers the impact of gender on historical events and phenomena such as industrialization, class conflict, World War II and the Cold War.", 
+        "subject": "HIST", 
+        "number": "280", 
+        "title": "Gender in North American History"
+    }
+}

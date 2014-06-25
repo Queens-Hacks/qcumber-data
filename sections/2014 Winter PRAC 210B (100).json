@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6755", 
+        "subject": "PRAC", 
+        "status": "Closed", 
+        "course": "210B", 
+        "year": "2014", 
+        "solus_id": "100", 
+        "type": "PRA", 
+        "season": "Winter"
+    }, 
+    "_unique": "100-PRA (6755)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Equilibrium theory of tides, tide recording, tidal analysis and prediction, one and two-dimensional tidal computation in estuaries and seas, salinity, sedimentation, pollution in estuaries, storm surges and tsunamis, and tidal inlets are the major topics treated. Emphasis will be on both theoretical analysis and practical design. Three term-hours.", 
+        "subject": "CIVL", 
+        "number": "855", 
+        "title": "Hydrodynamics Of Coasts"
+    }
+}

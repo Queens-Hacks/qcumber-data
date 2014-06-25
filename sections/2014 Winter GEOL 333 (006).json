@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "8357", 
+        "subject": "GEOL", 
+        "status": "Open", 
+        "course": "333", 
+        "year": "2014", 
+        "solus_id": "006", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "006-LAB (8357)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Harrap, Robin M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 1, 
+            "location": "BRUCE RM234A"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Harrap, Robin M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 1, 
+            "location": "BRUCE RM352"
+        }
+    ]
+}

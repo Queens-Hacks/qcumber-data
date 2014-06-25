@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3641", 
+        "subject": "FREN", 
+        "status": "Open", 
+        "course": "202", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (3641)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Tremblay, Gaston"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T17:30:00", 
+            "day_of_week": 2, 
+            "location": "STIRLING RM412C"
+        }
+    ]
+}

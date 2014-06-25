@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction. Power semiconductor devices. Line- and force-commutated converters. High power ac/dc and dc/ac converter structures and switching techniques. Principles of HVDC and HVAC systems. Large and small scale stabilities, sub-synchronous resonances, inter-area oscillations, voltage sags, and harmonic instability. Voltage, power angle, and impedance control, phase balancing, and power factor correction by means of solid-state power converters. Flexible AC Transmission Systems (FACTS). Three term hours; lectures, Winter.\u00a0 A. Bakhshai", 
+        "subject": "ELEC", 
+        "number": "837", 
+        "title": "High Power Electronics"
+    }
+}

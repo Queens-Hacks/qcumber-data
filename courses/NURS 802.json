@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Anti Requisites for NURS 802", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An overview of qualitative methodology and methods frequently used in nursing and health care research is provided. Topics include, but are not limited to, action research, ethnography, grounded theory, hermeneutics, and phenomenology. Methods include focus groups, interviews, and participatory observation. Opportunities may exist for interviewing, participatory observation, and data analysis.", 
+        "subject": "NURS", 
+        "number": "802", 
+        "title": "Qualitive Methodology and Methods"
+    }
+}

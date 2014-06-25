@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 (A grade of C in ECON 250 or STAT263) and (MATH120 or MATH121 or MATH122 or [MATH123 and MATH124] or MATH126)\r\nCOREQUISITE\u00a0 ECON255\r\nEXCLUSION\u00a0 No more than 3.0 units from ECON351; STAT361", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Estimation and inference in multivariate econometric models. Emphasizes understanding of methods and their properties as distinct from formal theoretical development. Practical tools for preparing and analyzing data with appropriate models are taught using econometric software.", 
+        "subject": "ECON", 
+        "number": "351", 
+        "title": "Introductory Econometrics"
+    }
+}

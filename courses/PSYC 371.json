@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 PSYC271 and PSYC370", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A critical analysis of important topics in behavioural neuroscience, with emphasis on current, controversial areas including: brain plasticity, learning and memory, neurobiology of sleep and consciousness. Laboratories emphasize behavioural neurosicence methods with hands-on experience in projects related to the lecture material.", 
+        "subject": "PSYC", 
+        "number": "371", 
+        "title": "Research Problems in Behavioural Neuroscience"
+    }
+}

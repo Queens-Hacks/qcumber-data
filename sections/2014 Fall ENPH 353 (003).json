@@ -1,0 +1,59 @@
+{
+    "basic": {
+        "class_num": "5401", 
+        "subject": "ENPH", 
+        "status": "Open", 
+        "course": "353", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (5401)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Gao, Jun"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "STIRLING RM505"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Gao, Jun"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "STIRLING RM506"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Gao, Jun"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "STIRLING RM507"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Gao, Jun"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "STIRLING RM508"
+        }
+    ]
+}

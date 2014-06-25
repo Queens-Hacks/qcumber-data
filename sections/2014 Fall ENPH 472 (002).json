@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "5404", 
+        "subject": "ENPH", 
+        "status": "Open", 
+        "course": "472", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-TUT (5404)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Gooding, Robert James"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:30:00", 
+            "day_of_week": 1, 
+            "location": "STIRLING RM414"
+        }
+    ]
+}

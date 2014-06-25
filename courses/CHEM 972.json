@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "An overview of chemical sensor and biosensor technology as applied to environmental monitoring. Electrochemical and optical sensors will be discussed, including the fundamental principles behind sensor operation. Performance parameters, such as sensitivity, selectivity, reusability, stability and response will be covered.\u00a0 Detection applications include solvents in air and groundwater, organic contaminants and heavy metals in water and wastewater, and biological contaminants in drinking water. Fall. I. Kozin.", 
+        "subject": "CHEM", 
+        "number": "972", 
+        "title": "Environmental Chemical Sensors"
+    }
+}

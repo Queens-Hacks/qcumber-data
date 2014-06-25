@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "APSC293: (APSC 100 Prereq & passed English proficiency test or permission of inst), (APSC 200 Coreq or permission of inst) & Excls of APSC292, CHEE260,ELEC291, ELEC391 A & b, GEOL291, GEOL292 & MECH290", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 12
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }, 
+    "basic": {
+        "description": "Prerequisites: APSC 100, Corequisites: APSC 200 or permission of the instructor, Exclusions: APSC 292, CHEE 260, ELEC 291, ELEC 391, GEOE 291 (or GEOL 291), GEOE 292 (or GEOL 292), MECH 290.\r\nThis course provides an introduction to effective engineering writing and speaking skills with the emphasis on professional correspondence, engineering reports, oral briefings, and formal oral presentations. These skills are developed in lectures and small group tutorials. This course is integrated with APSC-200, and coordinated by the same instructor.", 
+        "subject": "APSC", 
+        "number": "293", 
+        "title": "Engineering Communications"
+    }
+}

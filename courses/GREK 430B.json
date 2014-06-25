@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Detailed study of certain aspects of Greek Literature and history through directed readings and essay assignments.", 
+        "subject": "GREK", 
+        "number": "430B", 
+        "title": "Greek Research Course"
+    }
+}

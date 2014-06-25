@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }, 
+    "basic": {
+        "description": "The objective of this course is to familiarize graduate students with the principles and practice of cutting edge technologies used in cell culture models for biomedical and molecular sciences research. (Weight= 1.0 credit unit)", 
+        "subject": "BMED", 
+        "number": "862", 
+        "title": "Cellular techniques"
+    }
+}

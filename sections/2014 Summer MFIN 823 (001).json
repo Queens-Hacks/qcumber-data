@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2256", 
+        "subject": "MFIN", 
+        "status": "Closed", 
+        "course": "823", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2256)", 
+    "classes": [
+        {
+            "term_end": "2014-08-24T00:00:00", 
+            "term_start": "2014-07-12T00:00:00", 
+            "instructors": [
+                "Klar, George"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

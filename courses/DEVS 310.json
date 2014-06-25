@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 DEVS100 and Level 3 or above in any DEVS plan or permission of the department", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An examination of the complex relationship between development and democracy, in the context of the rapid integration of developing countries into the world economy. The impacts of these changes on ideas about democracy, and on democratic institutions in practice, will be critically examined.", 
+        "subject": "DEVS", 
+        "number": "310", 
+        "title": "Development and Democracy"
+    }
+}

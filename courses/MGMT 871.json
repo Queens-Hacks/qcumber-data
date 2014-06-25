@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course continues with the survey of major research areas begun in MGMT-870. Again, for each area, we will examine the predominant theoretical perspectives, research methodologies, and analytical techniques. An emphasis will be placed on students developing their own research expertise and plans: students will learn how to design, conduct, evaluate, and present good research in the MIS area. (Crossed with MGMT-971*).", 
+        "subject": "MGMT", 
+        "number": "871", 
+        "title": "Foundations of MIS II"
+    }
+}

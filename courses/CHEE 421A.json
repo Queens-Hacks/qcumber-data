@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "This course provides an opportunity for students to work on an individual basis with faculty members of the department. Students will submit interim oral and written progress reports and a final oral presentation and technical report. They will be expected to present and defend their results in a conference/seminar setting. The projects may be concerned with engineering design and development work or may be of a more fundamental research nature. Students enrolling for this course are advised to consult with the faculty member concerned late in the winter term of their 3rd year of study.", 
+        "subject": "CHEE", 
+        "number": "421A", 
+        "title": "Research Project"
+    }
+}

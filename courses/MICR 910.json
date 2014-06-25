@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter, Summer", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A required course for all graduate students entering a MSc or PhD from a BSc.\u00a0 Credit will be based upon attendance and participation in the weekly departmental seminar program and on attendance at all Visiting Speaker/Departmental seminars. In addition, each student will be required to present two seminars based upon his/her research work. Departmental faculty will provide evaluation of each student presentation consisting of a mark and written comments.\u00a0 A final mark will be compiled by the Graduate Program Coordinator (40%, first seminar; 60% second seminar).\u00a0 Fall and winter terms, seminar.\u00a0 N. Martin.", 
+        "subject": "MICR", 
+        "number": "910", 
+        "title": "Microbiol/Immun Seminar Course"
+    }
+}

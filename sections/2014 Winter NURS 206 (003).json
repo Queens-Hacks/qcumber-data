@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4808", 
+        "subject": "NURS", 
+        "status": "Closed", 
+        "course": "206", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-LAB (4808)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Machan, Hilary"
+            ], 
+            "end_time": "1900-01-01T14:00:00", 
+            "start_time": "1900-01-01T12:00:00", 
+            "day_of_week": 5, 
+            "location": "CATARAQUI\u00a0 RM221 SIM LAB"
+        }
+    ]
+}

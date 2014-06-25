@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is an introduction to the statistical tools needed to test economic relationships. It is designed so that students can understand empirical research and execute independent research projects of their own. The course starts with a review of statistical inference; next it discusses the general linear regression model, and finishes with some advanced topics. Statistical software packages will be introduced and used throughout the course.", 
+        "subject": "MGMT", 
+        "number": "988", 
+        "title": "Applied Statistics And Econometrics"
+    }
+}

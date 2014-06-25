@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An in-depth study of the biophysical properties of neurons and diseases that affect the function of neurons and glia. Topics will include cable properties of dendrites, voltage- and ligand-dependent channels, and molecular mechanisms responsible for neuronal death and regeneration. The course will be based on lectures and student seminars of selected readings. Given concurrently with LISC-422*, with additional assignments for graduate students. Enrolment is limited. PREREQUISITE: LISC-322 with a minimum of B- (70%) or an equivalent course or permission of the instructor. EXCLUSION: ANAT-822*", 
+        "subject": "BMED", 
+        "number": "822", 
+        "title": "Cellular and Molecular Neuroscience"
+    }
+}

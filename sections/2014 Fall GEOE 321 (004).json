@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3433", 
+        "subject": "GEOE", 
+        "status": "Open", 
+        "course": "321", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "004-LAB (3433)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Godin, Laurent"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 5, 
+            "location": "BRUCE RM352"
+        }
+    ]
+}

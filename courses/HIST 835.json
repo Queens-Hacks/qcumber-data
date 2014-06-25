@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will examine public policy in Western Europe, the United States and Canada from the French Revolution to the 1980s. Topics include the rise (and decline?) of the welfare state (healthcare, employment, education policy); urban planning and Keynesian economic planning; the growth of the state's fiscal, military, and political powers; the rise of liberal-democratic and fascist regimes; the growth of personal liberty and the evolution of the state's coercive powers; the regulation of sexuality and reproduction; the origins of cultural and immigration policy; and the evolution of the idea of citizenship.", 
+        "subject": "HIST", 
+        "number": "835", 
+        "title": "Comparative Public Policy"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 48, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "This course provides an opportunity for students to work individually on an engineering research project with staff members of the Department. The topic is selected by the student in consultation with a Department supervising faculty member by the end of the Fall term. The projects are laboratory-based to be completed by the end of the Winter term with a major report and presentation of the work.\u00a0", 
+        "subject": "MECH", 
+        "number": "461", 
+        "title": "Thesis Project"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "A review of topics in chirality research to be given by a changing group of experts in the field. Topics may include: Chirality transfer; Chiral catalysis; Chiral materials; Chiral photonics; and Chiral separations.", 
+        "subject": "CHEM", 
+        "number": "891", 
+        "title": "Topics In Chirality"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 6.0 units at the 200 level in CHEM OR ENCH.\r\nCOREQUISITE\u00a0\u00a0\u00a0 3.0 units at the 300 level in CHEM OR ENCH, or permission of the Department.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from CHEM397; CHEM398; CHEM399.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Laboratory course. In consultation with the course coordinator, and subject to availability, students may select experiments as are relevant to their degree program including synthesis, analytical instrumentation and computational methods. The integration of several methods will be emphasized in the design and characterization of molecules.\r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $40.", 
+        "subject": "CHEM", 
+        "number": "398", 
+        "title": "Experimental Chemistry I"
+    }
+}

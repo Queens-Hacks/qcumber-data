@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Reading": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC204 and CISC223 and CISC260", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Syntax and semantics. Classification of programming languages. The language of while programs. The typed lambda calculus. Recursive definitions and domain theory.", 
+        "subject": "CISC", 
+        "number": "465", 
+        "title": "Foundations of Programming Languages"
+    }
+}

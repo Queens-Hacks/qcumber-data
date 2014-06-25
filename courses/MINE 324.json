@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 12, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "The fluid mechanics basic to fluid hydraulic systems used in the mineral industry are introduced. Topics covered include properties offluids, fluid statics and its application to mining. Hydrodynamicstudies include the energy balance and Bernoulli's equation, energy losses in incompressible flow, the momentum equation and its application, and flow and pressure measuring devices. Flow in closed conduits, including series and parallel pipeline systems and pipe networks, is studied in detail and open channel flow is introduced. Applications include industrial pumps, sump design, hydraulic structures, underground mine dewatering systems, open pit mine drainage systems, and mine backfill and mine tailings transportation.", 
+        "subject": "MINE", 
+        "number": "324", 
+        "title": "Hydraulics/Mining Applications"
+    }
+}

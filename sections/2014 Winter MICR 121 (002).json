@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6221", 
+        "subject": "MICR", 
+        "status": "Open", 
+        "course": "121", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "TUT", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-TUT (6221)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Tomalty, Lewis Linton"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T15:30:00", 
+            "day_of_week": 5, 
+            "location": "STIRLING RM B"
+        }
+    ]
+}

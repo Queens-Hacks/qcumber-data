@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "1344", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "174", 
+        "year": "2014", 
+        "solus_id": "100", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "100-LEC (1344)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Roth, Michael A"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 1, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Roth, Michael A"
+            ], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Roth, Michael A"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 4, 
+            "location": "BIOSCI AUD"
+        }
+    ]
+}

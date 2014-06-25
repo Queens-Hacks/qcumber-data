@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Spring", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 6.0 units from DRAM200; DRAM201; DRAM202; DRAM210", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A survey of structure, forms and ideas of dramatic literature originating in works up to the 18th century. Plays will be read in English.", 
+        "subject": "DRAM", 
+        "number": "201", 
+        "title": "Drama I"
+    }
+}

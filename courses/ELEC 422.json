@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC 323 & ELEC 324 OR MTHE (MATH) 334 and MTHE (MATH) 335 AND (ELEC326 or STAT (MTHE) 351) and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 12, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Recent DSP topics including: bandpass sampling, oversampling A/D conversion, quantization noise modelling, multi-rate signal processing, filterbanks, quadrature mirror filters, applications to communications systems, speech and image compression; processing of discrete-time random signals.", 
+        "subject": "ELEC", 
+        "number": "422", 
+        "title": "Digital Signal Processing: Random Models and Applications"
+    }
+}

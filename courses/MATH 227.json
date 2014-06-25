@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "(MATH128 AND MATH118) OR (MATH128 AND MATH129) OR (MATH12## AND MATH11##) OR (APSC171 AND APSC172) OR (APSC171 AND APSC174)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Review of multiple integrals. Differentiation and integration of vectors; line, surface and volume integrals; gradient, divergence and curl; conservative fields and potential. Spherical and cylindrical coordinates, solid angle. Green's and Stokes' theorems, the divergence theorem. (36/0/0/0/0)", 
+        "subject": "MATH", 
+        "number": "227", 
+        "title": "Vector Analysis"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 3.0 units from APSC142;CISC101; CISC110.\r\nOne-way exclusion\u00a0\u00a0\u00a0 May not be taken with or after: CISC121; CISC; CMPE at the 200-level or above.", 
+        "career": "Distance Studies", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction to algorithms: their definition, design, coding, and execution on computers. Intended for students who have no programming experience. All or most assignment work will be completed during lab time.", 
+        "subject": "CISC", 
+        "number": "101", 
+        "title": "Elements of Computing Science"
+    }
+}

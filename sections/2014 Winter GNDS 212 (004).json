@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "6405", 
+        "subject": "GNDS", 
+        "status": "Open", 
+        "course": "212", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "TUT", 
+        "season": "Winter"
+    }, 
+    "_unique": "004-TUT (6405)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "JEFFERY RM102"
+        }
+    ]
+}

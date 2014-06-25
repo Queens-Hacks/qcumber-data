@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "2568", 
+        "subject": "COMM", 
+        "status": "Closed", 
+        "course": "162", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-LEC (2568)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Levina, Tatsiana"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "GOODES RM153"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Levina, Tatsiana"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 4, 
+            "location": "GOODES RM153"
+        }
+    ]
+}

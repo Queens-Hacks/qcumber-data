@@ -1,0 +1,33 @@
+{
+    "basic": {
+        "class_num": "7082", 
+        "subject": "APSC", 
+        "status": "Closed", 
+        "course": "142", 
+        "year": "2014", 
+        "solus_id": "323", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "323-LAB (7082)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM212"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM214"
+        }
+    ]
+}

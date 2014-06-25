@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 GEOL 104\u00a0 and (MATH 120 or MATH 121 or MATH 122 or [MATH 123 and MATH 124]) and (PHYS 104 or PHYS 106 or PHYS 107 or PHYS117), or permission of the Department. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from GEOL 249/3.0; GEOL 269/3.0.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The application of physical principles to examine and characterize the Earth at all scales. The Earth's physical properties and dynamic processes will be assessed and evaluated by integrating such topics as gravity, seismology, magnetism, geochronology, and heat flow, as related to scientific and engineering problems.", 
+        "subject": "GEOL", 
+        "number": "249", 
+        "title": "Geophysical Characterization of the Earth"
+    }
+}

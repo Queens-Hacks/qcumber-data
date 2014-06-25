@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Practicum": "Required"
+        }, 
+        "enrollment_requirement": "(GPHY242 AND GPHY247)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course represents an extension of GPHY 242/3.0, with an in-depth examination of image processing techniques for information extraction. Topics include remote sensor technology, image enhancement, classification, change detection, radiometric and geometric correction and sources and applications of remote sensing data. \r\nNOTE\u00a0\u00a0\u00a0 Enrollment limited to 40 students.", 
+        "subject": "GPHY", 
+        "number": "342", 
+        "title": "Remote Sensing II: Digital Image Processing"
+    }
+}

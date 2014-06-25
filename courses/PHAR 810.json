@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PHAR450 OR LISC322", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Recent advances in understanding neurotransmission and pharmacology in the central nervous system will be discussed. The current literature describing progress in understanding molecular, cellular and behavioural aspects of brain function, and the impact of drugs and disease, will be examined. Winter; seminars and tutorials. Given in years ending with an uneven number. J.N. Reynolds", 
+        "subject": "PHAR", 
+        "number": "810", 
+        "title": "Advances In Neuropharmacology"
+    }
+}

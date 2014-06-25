@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "LAW 440", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines the governance of public corporations, focusing on issues such as corporate ownership and control, the structure and function of the board of directors, agency theory and associated justifications of shareholder primacy, labour participation in corporate governance and corporate social responsibility. Although the focus will be on Canadian law, relevant comparisons will be drawn with developments in other jurisdictions such as the UK, the USA and Europe which offer deeper insight into the Canadian debates.", 
+        "subject": "LAW", 
+        "number": "602", 
+        "title": "Fundamental Issues in Corporate Governance"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The objective of this course will be to examine the exploitation and conservation of natural resources and the implications of resource use for public policy, using the tools of economic analysis. The problems and issues that are specific to particular natural resources will be identified. Economic theory and quantitative methods will then be applied to an analysis of these problems, with special attention paid to policy implications generally and those of Canada in particular.", 
+        "subject": "ECON", 
+        "number": "890", 
+        "title": "Natural Resource Economics"
+    }
+}

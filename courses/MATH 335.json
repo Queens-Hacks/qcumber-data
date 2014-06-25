@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 MATH334 and (MATH326 or MATH228).\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH236; MATH335; PHYS312.\r\nEquivalency\u00a0\u00a0\u00a0 MATH236.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Linear input/output systems and their stability. Frequency-domain and time-domain analysis. Continuous and discrete time-modeling. Fourier, Laplace, and Z-transforms. Sampling and the discrete-time Fourier transform. Application to modulation of communications signals, filter design, and digital sampling.", 
+        "subject": "MATH", 
+        "number": "335", 
+        "title": "Mathematics of Engineering Systems"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite DEVS410 and Level 3 or above and registration in the DEVS major plan\r\nExclusion\u00a0 No more than 1 course from DEVS411; 432; 420; 421", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Required for students who have successfully completed the course requirements for DEVS 410/6.0. The course will provide a forum for students to debrief and to critically examine their placement experience. Evaluation based on presentation, participation, journal synthesis and a final report.", 
+        "subject": "DEVS", 
+        "number": "411", 
+        "title": "Post-Placement Seminar in Development Studies"
+    }
+}

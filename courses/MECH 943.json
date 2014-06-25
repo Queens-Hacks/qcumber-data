@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is intended for PhD students who already have a good background in the fundamental and advanced topics related to their research and are interested in other areas not offered in existing graduate courses. Topics will be selected from the general areas of biomechanical engineering. The course will include lectures, open discussions and directed study. The course content for a student or group will be specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and presentations by each student.", 
+        "subject": "MECH", 
+        "number": "943", 
+        "title": "Topics In Biomechanical Eng."
+    }
+}

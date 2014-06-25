@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "7988", 
+        "subject": "CONT", 
+        "status": "Open", 
+        "course": "504", 
+        "year": "2013", 
+        "solus_id": "011", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "011-LEC (7988)", 
+    "classes": [
+        {
+            "term_end": "2013-12-06T00:00:00", 
+            "term_start": "2013-09-30T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

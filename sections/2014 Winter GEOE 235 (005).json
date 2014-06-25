@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8262", 
+        "subject": "GEOE", 
+        "status": "Open", 
+        "course": "235", 
+        "year": "2014", 
+        "solus_id": "005", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "005-LAB (8262)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Layton-Matthews, Daniel"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 5, 
+            "location": "MILLER RM319"
+        }
+    ]
+}

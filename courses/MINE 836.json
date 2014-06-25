@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The objective of this course is to provide an introduction to mineral processing unit operations with regards to final product production. Process selection criteria will be highlighted including economics, efficiency, and geographic location. Environ mental issues associated with producing metals from a variety of ore types will be examined including tailings treatment/impoundment methods and pyrometallurgical and hydrometallurgical refining techniques. Three term-hours, fall and/or spring term,\u00a0 lectures. S. Kelebek", 
+        "subject": "MINE", 
+        "number": "836", 
+        "title": "Mineral Process & Environment"
+    }
+}

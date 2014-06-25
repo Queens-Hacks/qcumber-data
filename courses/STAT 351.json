@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 MATH280 or MATH221.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from STAT351; STAT268.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Basic probability theory; conditioning; densities, expectation; jointly distributed random variables, transformations, generating functions, limit laws. Distributions: binomial, Poisson, hypergeometric, uniform, exponential,\u00a0 gamma, normal, bivariate normal. Elementary random processes.", 
+        "subject": "STAT", 
+        "number": "351", 
+        "title": "Probability I"
+    }
+}

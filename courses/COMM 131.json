@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "excl 1 from COMM131 and 231", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides students with a knowledge of the concepts of marketing as well as an understanding of how these concepts are applied in the management of the firm. Specifically, the objectives are: to provide a working knowledge of the basic theories and concepts in marketing; to develop decision making skills and abilities and to gain experience in developing marketing strategies and plans. The course is taught using a combination of lectures, discussions, case analyses, and exams.", 
+        "subject": "COMM", 
+        "number": "131", 
+        "title": "Introduction To Marketing"
+    }
+}

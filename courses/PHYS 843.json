@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "A survey of astrophysical sources and mechanisms that produce high energy particles (gamma rays, neutrinos, and cosmic rays). Propagation of the particles and techniques for detecting high energy particles will be discussed.", 
+        "subject": "PHYS", 
+        "number": "843", 
+        "title": "High Energy Astroparticle Phys"
+    }
+}

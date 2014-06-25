@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "5233", 
+        "subject": "MTHE", 
+        "status": "Open", 
+        "course": "225", 
+        "year": "2013", 
+        "solus_id": "004", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "004-TUT (5233)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T15:30:00", 
+            "day_of_week": 5, 
+            "location": "STIRLING RM A"
+        }
+    ]
+}

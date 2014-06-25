@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Selected specialized topics in earth system science. Normally, this course will take the form of a reading course in the area of the instructor's expertise. Three term-hours.", 
+        "subject": "GPHY", 
+        "number": "890", 
+        "title": "Earth Systems Science I"
+    }
+}

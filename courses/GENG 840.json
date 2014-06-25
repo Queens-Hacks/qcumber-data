@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Illustrate all areas of GeoEngineering research and practice; emphasis on breadth and interdisciplinary aspects; preparation, delivery and audience participation in oral presentations; the course links students from departments participating in the Collaborative Graduate Program in GeoEngineering; opportunities are provided to develop and refine presentation skills, to give and receive constructive criticism, and to pose and respond to questions. Instructors: GeoEngineering faculty, Invited lecturers.", 
+        "subject": "GENG", 
+        "number": "840", 
+        "title": "Geoengineering Seminar"
+    }
+}

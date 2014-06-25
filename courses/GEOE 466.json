@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 365 or GEOL 365 and registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 48, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "This course is designed to expose advanced students in the fields of biology, chemistry, geography or geology to the principles of stable isotope and radiogenic isotope systematics in natural processes. Emphasis will be placed on the use of isotopes in tracing elemental cycles, biological cycles and hydrologic cycles and how some isotopes can be used to place constraints on the timing of specific events in these cycles.", 
+        "subject": "GEOE", 
+        "number": "466", 
+        "title": "Isotopes & The Environment"
+    }
+}

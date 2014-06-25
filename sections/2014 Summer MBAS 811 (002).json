@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2266", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "811", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "002-LEC (2266)", 
+    "classes": [
+        {
+            "term_end": "2014-05-23T00:00:00", 
+            "term_start": "2014-05-08T00:00:00", 
+            "instructors": [
+                "Scholey, Cam"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (A minimum grade of C in: PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0) and Level 4 in a LISC Major or Specialization Plan) and (a GPA of 2.5), or permission fo the course coordinator.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "The mechanisms and regulation of motor, secretory, digestive, and absorptive functions of the gastrointestinal tract are considered in lectures and seminars. Students are required to prepare and present reviews of original literature. NOTE\u00a0\u00a0\u00a0 The normal classroom time of 36 hours is spread over two terms. Enrolment is limited.", 
+        "subject": "PHGY", 
+        "number": "444A", 
+        "title": "Gastrointestinal Physiology"
+    }
+}

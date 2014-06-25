@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "7576", 
+        "subject": "MEDS", 
+        "status": "Closed", 
+        "course": "446", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-LEC (7576)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

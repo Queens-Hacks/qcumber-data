@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture / Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0 Level 4 in a LISC or BCHM Major or Spcialization Plan and (a GPA of 2.5 and permission of the course coordinator).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A consideration of current knowledge and theories about the biology and treatment of cancer.\u00a0The course will be presented in a small group format, with active student participation required.\r\nNOTE\u00a0\u00a0\u00a0 Priority to students in the LISC Specialization Plan, CANC Sub-Plan.", 
+        "subject": "CANC", 
+        "number": "440", 
+        "title": "Cancer Biology and Therapeutics"
+    }
+}

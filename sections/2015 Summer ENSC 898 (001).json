@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1042", 
+        "subject": "ENSC", 
+        "status": "Closed", 
+        "course": "898", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "PRJ", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-PRJ (1042)", 
+    "classes": [
+        {
+            "term_end": "2015-08-12T00:00:00", 
+            "term_start": "2015-05-01T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "basic": {
+        "class_num": "3738", 
+        "subject": "PROF", 
+        "status": "Open", 
+        "course": "170A", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-SEM (3738)", 
+    "classes": [
+        {
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T10:50:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM B101"
+        }, 
+        {
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T10:50:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM B101"
+        }
+    ]
+}

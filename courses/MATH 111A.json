@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 At least one 4U mathematics course.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH110; MATH111; MATH112", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "An introduction to matrices and linear algebra. Emphasis on applications to biological and economic systems and to computer applications. Topics covered will include systems of equations, eigenvalues, recursions, orthogonality, regression analysis, and geometric transformations.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.", 
+        "subject": "MATH", 
+        "number": "111A", 
+        "title": "Linear Algebra"
+    }
+}

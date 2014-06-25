@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course emphasizes the theoretical background in the development of a research proposal for rehabilitation-related research. Topics include development of the research question and problem statement, rationale, appropriate literature review and research design.Three term hours, fall. Limited enrollment.", 
+        "subject": "RHBS", 
+        "number": "833", 
+        "title": "Research Methods I"
+    }
+}

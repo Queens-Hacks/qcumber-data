@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 Second year standing or above", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course introduces students to key institutions of art by studying their histories, current practices, and future challenges. Using a case study approach to institutions including museums, artist-run centres, auction houses, and private galleries, the course develops students\u00bf understanding of art worlds both in Canada and globally.", 
+        "subject": "ARTH", 
+        "number": "288", 
+        "title": "Art Worlds"
+    }
+}

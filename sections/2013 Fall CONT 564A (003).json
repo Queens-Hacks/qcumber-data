@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "9000", 
+        "subject": "CONT", 
+        "status": "Open", 
+        "course": "564A", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LEC (9000)", 
+    "classes": [
+        {
+            "term_end": "2013-12-31T00:00:00", 
+            "term_start": "2013-11-11T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

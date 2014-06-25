@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PROF110B", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction to planning for learning in the Intermediate-Senior division.\u00a0 Exploration of universal design for learning, literacy and diversity, with an emphasis on the use of assessment and evaluation as supports for learning.\u00a0 The portfolio will be highlighted as an individual documentation of learning.", 
+        "subject": "PROF", 
+        "number": "211B", 
+        "title": "Self as Learner (IS)"
+    }
+}

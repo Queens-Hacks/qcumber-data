@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "7134", 
+        "subject": "CURR", 
+        "status": "Open", 
+        "course": "389", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-LEC (7134)", 
+    "classes": [
+        {
+            "term_end": "2014-02-07T00:00:00", 
+            "term_start": "2014-01-02T00:00:00", 
+            "instructors": [
+                "Solar, Angela"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A330"
+        }, 
+        {
+            "term_end": "2014-04-25T00:00:00", 
+            "term_start": "2014-04-07T00:00:00", 
+            "instructors": [
+                "Solar, Angela"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A330"
+        }, 
+        {
+            "term_end": "2014-04-28T00:00:00", 
+            "term_start": "2014-04-28T00:00:00", 
+            "instructors": [
+                "Solar, Angela"
+            ], 
+            "end_time": "1900-01-01T12:50:00", 
+            "start_time": "1900-01-01T10:50:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM A330"
+        }
+    ]
+}

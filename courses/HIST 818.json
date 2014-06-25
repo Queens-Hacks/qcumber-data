@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A course on globalizing agrarian problems.\u00a0 Pressures on agrarian societies are considered in relation to environmental history and the history of environmentalism.\u00a0 An overview of relevant literature illuminates challenges and transformations since 1900, including Green Revolutions and the weakening of collectivist modes of production.\u00a0 Discussion of current scholarly trends examines research on past practices as patterns of ecological sustainability.", 
+        "subject": "HIST", 
+        "number": "818", 
+        "title": "Topics in Global Agrarian & Environmental History"
+    }
+}

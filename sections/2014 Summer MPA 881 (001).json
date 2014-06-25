@@ -1,0 +1,147 @@
+{
+    "basic": {
+        "class_num": "2179", 
+        "subject": "MPA", 
+        "status": "Open", 
+        "course": "881", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2179)", 
+    "classes": [
+        {
+            "term_end": "2014-04-26T00:00:00", 
+            "term_start": "2014-04-24T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 6, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-04-26T00:00:00", 
+            "term_start": "2014-04-24T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-12T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 5, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-12T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-12T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-12T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-12T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-06-06T00:00:00", 
+            "term_start": "2014-06-02T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-06-06T00:00:00", 
+            "term_start": "2014-06-02T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-06-06T00:00:00", 
+            "term_start": "2014-06-02T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-06-06T00:00:00", 
+            "term_start": "2014-06-02T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-06-06T00:00:00", 
+            "term_start": "2014-06-02T00:00:00", 
+            "instructors": [
+                "Alboim, Elly"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 1, 
+            "location": "TBA"
+        }
+    ]
+}

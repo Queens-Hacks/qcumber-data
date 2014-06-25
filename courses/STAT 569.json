@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Project": "Required"
+        }, 
+        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Investigation of a statistical problem having a genuine practical or theoretical interest, supervised by a faculty member. In some cases a group of students may work jointly. A written report is required.", 
+        "subject": "STAT", 
+        "number": "569", 
+        "title": "Project in Statistical Applications"
+    }
+}

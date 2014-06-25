@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Restricted to BED/DED Program", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course explores the use of technology in educational settings. Emphasis is on the creative repurposing of technology to address substantive field-based teaching and learning problems. Issues associated with using educational technology are addressed through face-to-face seminars, workshops and group design projects. Prototyped designs are piloted during alternative practicum placements.", 
+        "subject": "FOCI", 
+        "number": "218B", 
+        "title": "Learning Educational Technology by Design"
+    }
+}

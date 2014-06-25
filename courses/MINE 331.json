@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 14, 
+            "Math": 0, 
+            "Eng Des": 15, 
+            "Eng Sci": 25, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "Mineral separation processes of a physical and physicochemical nature are studied with laboratory sessions. Topics include size reduction, classification, flotation, flocculation, gravity concentration, magnetic, electrostatic separations and dewatering. Surface phenomena involving fine particle processing, reagent classifications, flotation machines and circuits, plant practice in ore flotation are discussed. The laboratory practice includes a design project on flotation circuit analysis and sizing.\u00a0 Assignments will be completed based on field trip\u00a0observations.\u00a0", 
+        "subject": "MINE", 
+        "number": "331", 
+        "title": "Methods Of Mineral Separation"
+    }
+}

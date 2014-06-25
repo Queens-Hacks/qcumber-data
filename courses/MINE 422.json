@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 12, 
+            "Comp St": 24
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "This course describes the evolution of policies, operational procedures and management systems related to sustainability and the social, economic, environmental, ethical, and technical design challenges facing the mining industry. Themes examined will include: international and national performance expectations, standards and regulations; operational and management responses \u00bf social and environmental impact risk assessment; stakeholder engagement; impact mitigation planning and risk management systems; performance monitoring, evaluation and reporting; agreement making and benefit sharing. Students will be introduced to a range of complex situations with significant sustainability implications that need to be addressed responsibly during the life cycle of a mine, such as land acquisition, population and livelihood displacement, cultural heritage and habitat preservation, water use, waste disposal, mining-community relationships, mine closure and its community and environmental implications.", 
+        "subject": "MINE", 
+        "number": "422", 
+        "title": "Mining And Sustainability"
+    }
+}

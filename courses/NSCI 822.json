@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An in-depth study of the biophysical properties of neurons and diseases that affect the function of neurons and glia. (same as ANAT 822\u00a0 and PHGY 822) Topics will include cable properties of dendrites, voltage- and ligand-dependent channels, and molecular mechanisms responsible for neuronal death and regeneration. The course will be based on lectures and student seminars of selected readings. Given concurrently with LISC-422*, with additional assignments for graduate students.One hour lecture/week, 2 hour seminar/week: winter. K. Rose. (Offered in years ending in an even number)", 
+        "subject": "NSCI", 
+        "number": "822", 
+        "title": "Cell. & Molecular Neuroscience"
+    }
+}

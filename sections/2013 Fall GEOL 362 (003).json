@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3839", 
+        "subject": "GEOL", 
+        "status": "Open", 
+        "course": "362", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (3839)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Olivo, Gema Ribeiro"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 5, 
+            "location": "MILLER RM329"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "4673", 
+        "subject": "APSC", 
+        "status": "Closed", 
+        "course": "293", 
+        "year": "2015", 
+        "solus_id": "800", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "800-LEC (4673)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

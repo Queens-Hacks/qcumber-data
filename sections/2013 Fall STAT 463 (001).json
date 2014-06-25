@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "6227", 
+        "subject": "STAT", 
+        "status": "Open", 
+        "course": "463", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (6227)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Lin, Chunfang Devon"
+            ], 
+            "end_time": "1900-01-01T10:00:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 1, 
+            "location": "JEFFERY RM115"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Lin, Chunfang Devon"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 4, 
+            "location": "JEFFERY RM115"
+        }
+    ]
+}

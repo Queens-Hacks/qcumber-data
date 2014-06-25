@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2168", 
+        "subject": "MACC", 
+        "status": "Closed", 
+        "course": "816", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "002-LEC (2168)", 
+    "classes": [
+        {
+            "term_end": "2014-07-22T00:00:00", 
+            "term_start": "2014-06-16T00:00:00", 
+            "instructors": [
+                "McConomy, David"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

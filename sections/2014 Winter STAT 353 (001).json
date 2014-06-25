@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "5586", 
+        "subject": "STAT", 
+        "status": "Open", 
+        "course": "353", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (5586)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Takahara, Glen"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T15:30:00", 
+            "day_of_week": 1, 
+            "location": "JEFFERY RM234"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Takahara, Glen"
+            ], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 3, 
+            "location": "JEFFERY RM234"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Takahara, Glen"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:30:00", 
+            "day_of_week": 4, 
+            "location": "JEFFERY RM234"
+        }
+    ]
+}

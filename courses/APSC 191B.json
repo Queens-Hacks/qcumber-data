@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 42
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course is identical in content to APSC 190.\u00a0 The material normally delivered in APSC 190 in the first week of the winter term will be covered in evening sessions in the fall term in APSC 191.\u00a0", 
+        "subject": "APSC", 
+        "number": "191B", 
+        "title": "Professional Engineering Skill"
+    }
+}

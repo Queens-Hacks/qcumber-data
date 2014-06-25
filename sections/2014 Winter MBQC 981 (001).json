@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6775", 
+        "subject": "MBQC", 
+        "status": "Open", 
+        "course": "981", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (6775)", 
+    "classes": [
+        {
+            "term_end": "2014-02-06T00:00:00", 
+            "term_start": "2014-01-26T00:00:00", 
+            "instructors": [
+                "Murray, Elspeth J"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

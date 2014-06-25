@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC353 and (ELEC323 or MATH332) and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 19, 
+            "Eng Sci": 20, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.25"
+    }, 
+    "basic": {
+        "description": "Topics include; an introduction to noise and distortion in electronic circuits, analysis and design of biasing circuits, references, ADCs and DACs, power amps, mixers, modulators and PLLs along with a short introduction to analog filter design.", 
+        "subject": "ELEC", 
+        "number": "454", 
+        "title": "Analog Electronics"
+    }
+}

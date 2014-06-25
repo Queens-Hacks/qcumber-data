@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "class_num": "2219", 
+        "subject": "LATN", 
+        "status": "Open", 
+        "course": "110B", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (2219)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "JEFFERY RM127"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:30:00", 
+            "day_of_week": 3, 
+            "location": "JEFFERY RM127"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "JEFFERY RM127"
+        }
+    ]
+}

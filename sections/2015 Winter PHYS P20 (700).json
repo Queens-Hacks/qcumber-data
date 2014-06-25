@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8204", 
+        "subject": "PHYS", 
+        "status": "Open", 
+        "course": "P20", 
+        "year": "2015", 
+        "solus_id": "700", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "700-LEC (8204)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Castel, Boris"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

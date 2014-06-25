@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 6.0 units in PHIL", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A survey of the contribution of philosophy to the cognitive sciences.\u00a0 The focus will be on providing a synthesis of the different perspectives brought by each of the disciplines, in particular, cognitive psychology, computer science, neurophysics, and linguistics, through an investigation of how the various approaches ultimately frame and answer our questions about the mind.\nNOTE\u00a0\u00a0\u00a0 Each week, students will be assigned a number of articles or chapters for reading and will be expected to be able to discuss the readings in class.", 
+        "subject": "PHIL", 
+        "number": "270", 
+        "title": "Minds and Machines"
+    }
+}

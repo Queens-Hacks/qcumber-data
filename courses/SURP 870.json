@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is a foundation course in health and social planning,\u00a0 Within the context of community planning, topics are drawn from international scholarly research, planning theory, and practice-based interventions in public health, human service delivery, program management, policy studies, housing, and community development.\u00a0 PREREQUISITE: Permission of Instructor.", 
+        "subject": "SURP", 
+        "number": "870", 
+        "title": "Health and Social Planning"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A study under the guidance of a graduate faculty member on a nursing topic not offered in existing courses. Normally it takes the form of a closely supervised reading course in the area of the instructor's expertise with appropriate means of evaluation. Must not directly overlap thesis work.", 
+        "subject": "NURS", 
+        "number": "907", 
+        "title": "Independent Study"
+    }
+}

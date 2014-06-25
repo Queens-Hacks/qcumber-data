@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8334", 
+        "subject": "MBUS", 
+        "status": "Closed", 
+        "course": "853", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (8334)", 
+    "classes": [
+        {
+            "term_end": "2014-04-28T00:00:00", 
+            "term_start": "2014-01-13T00:00:00", 
+            "instructors": [
+                "Jenkin, Tracy"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

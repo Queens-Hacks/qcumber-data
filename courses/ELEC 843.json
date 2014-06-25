@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Study of discrete-event processes that require control to induce desirable behaviour. Topics include: basic automata and language theory; modeling of processes using automata (finite-state machines, directed graphs);\u00a0centralized and decentralized problems; nonblocking supervisors; partial observation; and computational complexity. Connections with manufacturing systems and communication protocols are emphasized. Three term-hours; lectures, Fall. K. Rudie", 
+        "subject": "ELEC", 
+        "number": "843", 
+        "title": "Control Of Discrete-Event Sys."
+    }
+}

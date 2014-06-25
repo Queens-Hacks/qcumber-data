@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3697", 
+        "subject": "GEOE", 
+        "status": "Open", 
+        "course": "321", 
+        "year": "2013", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "004-LAB (3697)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Cooley, Michael"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "BRUCE RM352"
+        }
+    ]
+}

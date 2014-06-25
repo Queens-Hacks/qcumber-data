@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 BIOL201 and BIOL205.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course explores biological contributions to society in the fields of environmental assessment and management, materials and food production, and biotechnology. Emphasis is placed on understanding of applied processes in relevant service and production industries.", 
+        "subject": "BIOL", 
+        "number": "333", 
+        "title": "Applied Biology"
+    }
+}

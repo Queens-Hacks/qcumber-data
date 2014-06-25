@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Each student investigates a problem in geological engineering that is not covered in any of the available courses, and submits a written report on the topic. This course is open to students only if a suitable faculty member is available. (0/36/0/0/0)", 
+        "subject": "GEOL", 
+        "number": "340", 
+        "title": "Problems In Engr. Geology"
+    }
+}

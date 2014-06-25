@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Practical aspects of the physics of musical instruments, architectural acoustics, physiology of the ear and of the voice, tuning and temperament, psychoacoustics, and audio electronics including analog and digital technologies for recording, synthesis and broadcasting. Attention will also be given to the history and literature of electroacoustic music.", 
+        "subject": "MUSC", 
+        "number": "258", 
+        "title": "Science and Technology of Music"
+    }
+}

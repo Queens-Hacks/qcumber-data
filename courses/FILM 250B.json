@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Introduction to basic film and video production techniques, including camera, lighting, sound recording, and editing. Assignments, on videotape, include exercises in groups and projects organized by individual students.\r\nNOTE\u00a0\u00a0\u00a0Production supplies $100. Priority will be given to students with the highest overall GPA on FILM courses, including those at the 100-level.", 
+        "subject": "FILM", 
+        "number": "250B", 
+        "title": "Fundamentals of Production"
+    }
+}

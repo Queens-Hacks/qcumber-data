@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 15, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "1.25"
+    }, 
+    "basic": {
+        "description": "This is the second of two laboratory courses in the third year of the General Option of the Mechanical Engineering program.\u00a0 Lecture topics and course assignments are selected to provide the background required to undertake the laboratory work.\u00a0 Lab modules from \u00a0MECH 396/397/398 completed but not counted for credit may be included for credit in this course.", 
+        "subject": "MECH", 
+        "number": "399", 
+        "title": "Mech Eng Lab II"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "1201", 
+        "subject": "LAW", 
+        "status": "Open", 
+        "course": "191A", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-SEM (1201)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00", 
+            "instructors": [
+                "Hanson, Lynne P"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "MACDONALD RM202"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00", 
+            "instructors": [
+                "Hanson, Lynne P"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "MACDONALD RM201"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00", 
+            "instructors": [
+                "Hanson, Lynne P"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 5, 
+            "location": "MACDONALD RM2"
+        }
+    ]
+}

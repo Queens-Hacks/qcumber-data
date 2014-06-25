@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "5354", 
+        "subject": "RELS", 
+        "status": "Open", 
+        "course": "131B", 
+        "year": "2014", 
+        "solus_id": "700", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "700-LEC (5354)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "LaGrone, Danielle"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

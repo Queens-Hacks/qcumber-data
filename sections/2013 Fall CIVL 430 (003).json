@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2555", 
+        "subject": "CIVL", 
+        "status": "Open", 
+        "course": "430", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (2555)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "ELLIS RM24"
+        }
+    ]
+}

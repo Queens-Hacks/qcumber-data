@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course explores the interaction between the state and civil society in British North America and Canada from the eighteenth century to c.1918 through such concepts as liberal order, hegemony, the public sphere, governmentality, and moral regulation.", 
+        "subject": "HIST", 
+        "number": "839", 
+        "title": "The State and Civil Society in British North America and Canada to the First World War"
+    }
+}

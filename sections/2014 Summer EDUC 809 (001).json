@@ -1,0 +1,279 @@
+{
+    "basic": {
+        "class_num": "1172", 
+        "subject": "EDUC", 
+        "status": "Open", 
+        "course": "809", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (1172)", 
+    "classes": [
+        {
+            "term_end": "2014-07-04T00:00:00", 
+            "term_start": "2014-07-03T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 5, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-04T00:00:00", 
+            "term_start": "2014-07-03T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-10T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-10T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-10T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-10T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-15T00:00:00", 
+            "term_start": "2014-07-14T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-15T00:00:00", 
+            "term_start": "2014-07-14T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-24T00:00:00", 
+            "term_start": "2014-07-21T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-24T00:00:00", 
+            "term_start": "2014-07-21T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-24T00:00:00", 
+            "term_start": "2014-07-21T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-24T00:00:00", 
+            "term_start": "2014-07-21T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM A207N"
+        }, 
+        {
+            "term_end": "2014-07-04T00:00:00", 
+            "term_start": "2014-07-03T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 5, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-04T00:00:00", 
+            "term_start": "2014-07-03T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-10T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-10T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-10T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-10T00:00:00", 
+            "term_start": "2014-07-07T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-15T00:00:00", 
+            "term_start": "2014-07-14T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-15T00:00:00", 
+            "term_start": "2014-07-14T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-24T00:00:00", 
+            "term_start": "2014-07-21T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-24T00:00:00", 
+            "term_start": "2014-07-21T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-24T00:00:00", 
+            "term_start": "2014-07-21T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }, 
+        {
+            "term_end": "2014-07-24T00:00:00", 
+            "term_start": "2014-07-21T00:00:00", 
+            "instructors": [
+                "Cheng, Liying"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM A207S"
+        }
+    ]
+}

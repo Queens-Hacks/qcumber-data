@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Selected topics in optical communications will be studied. Possible topics include semiconductor lasers, optical modulators, modulation formats, multiplexing and demultiplexing techniques, optical fibers, dispersion compensation, optical amplifiers, optical receivers, system performance, optical time division multiplexing, optical signal processing (e.g., wavelength conversion, optical regeneration, clock recovery), passive components, optical networks, and applications (e.g., access, metro, long-haul, ultra-long haul).\u00a0 Three term-hours,lectures, Fall.\u00a0 \u00a0J.C. Cartledge", 
+        "subject": "ELEC", 
+        "number": "863", 
+        "title": "Topics - Optical Communication"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON110 OR ECON111", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An application of economic analysis to a selection of public policy issues. The topics covered will vary from year to year but examples include regulation of agricultural and industrial markets, health economics, trade policy, natural resource policy, property rights and the 'external' effects of private activities. This course should be of special interest to students of law, political studies and sociology as well as economics.", 
+        "subject": "ECON", 
+        "number": "241", 
+        "title": "Economic Aspects of Selected Social Issues"
+    }
+}

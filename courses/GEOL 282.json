@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GEOL221 or GEOL232, or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An earth-system engineering perspective on the nature, acquisition and utilization of energy, mineral and water resources, with particular emphasis on the environmental considerations in their extraction, processing, and use. Criteria for designing resource exploration programs are examined. Practical exercises, projects and seminars (team and individual) deal with these issues, and include the design of risk-management plans, environmental life-cycle assessments, sustainable systems and ore-reserve estimations.", 
+        "subject": "GEOL", 
+        "number": "282", 
+        "title": "Managing Earth Systems: Resources and Environment"
+    }
+}

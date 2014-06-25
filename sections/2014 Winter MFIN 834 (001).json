@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6739", 
+        "subject": "MFIN", 
+        "status": "Closed", 
+        "course": "834", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (6739)", 
+    "classes": [
+        {
+            "term_end": "2014-04-26T00:00:00", 
+            "term_start": "2014-03-15T00:00:00", 
+            "instructors": [
+                "Aikman, Jon"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 281 or GEOL 281 and GEOL 310 and GEOE 321 or GEOL 321 or permission of the department. Must also be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 30, 
+            "Eng Sci": 12, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Rigorous application of geomechanics and rock engineering principles to open-ended design problems related to surface and underground excavation, construction and geo-hazard mitigation. Presentation and discussion of design methodologies and case histories are followed up by related analysis and design problems incorporating industry standard software. Emphasis on the inherent variability of geomaterials and implications for integrated site-investigation planning, quantitative risk assessment, design decision-making and performance-monitoring. A field excursion will be included.", 
+        "subject": "GEOE", 
+        "number": "413", 
+        "title": "Engineering Geomechanics & Rock Engineering Design"
+    }
+}

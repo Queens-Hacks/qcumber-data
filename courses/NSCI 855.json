@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is based on the annual Summer School in Computational Sensory-Motor-Neuroscience (CoSMo), which is a 2-week (12 days) intensive course. Through lectures, tutorials and a problem-based project, students will gain advanced knowledge and experience in the application of computational methodologies to modelling in neuroscience.", 
+        "subject": "NSCI", 
+        "number": "855", 
+        "title": "Modelling in Neuroscience"
+    }
+}

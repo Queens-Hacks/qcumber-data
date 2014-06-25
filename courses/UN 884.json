@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "UNENE course number = UN 0804Fundamentals of single-phase and two-phase flow, and heat and mass transfer. Nuclear power plant primary heat transport system design and calculations, including design description and characteristics of main components and systems. Simulation methodology and tools, including development and qualification of selected thermal-hydraulics computer codes. Course also covers experimental techniques, facilities and results that describe important thermal-hydraulics phenomena. Course topics include: development of conservation equations and relevant constitutive correlations, flow patterns and boiling heat transport regimes, critical heat flux and pressure drop calculations, description of most important computer codes, description of relevant experimental facilities and results, safety margins and operational safety issues and methodologies. McMaster University/N. Popov", 
+        "subject": "UN", 
+        "number": "884", 
+        "title": "Reactor Thermalhydraulics"
+    }
+}

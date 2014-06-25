@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }, 
+    "basic": {
+        "description": "This lecture/seminar module provides an introduction to disability. The module examines the concepts of disability in a contemporary Canadian and international context.\u00a0 Topics include: definitions, models, history; classification and types of disability, disability prevalence and statistics; disability across the lifespan, including community and social participation; disability around the world. (NOTE 1.0 credit unit course). EXCLUSIONS: RHBS-802*, RHBS-902*", 
+        "subject": "RHBS", 
+        "number": "810", 
+        "title": "Fundamentals of Disability"
+    }
+}

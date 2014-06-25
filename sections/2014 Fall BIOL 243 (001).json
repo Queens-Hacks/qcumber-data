@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6754", 
+        "subject": "BIOL", 
+        "status": "Open", 
+        "course": "243", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (6754)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Molson, Charles Arthur"
+            ], 
+            "end_time": "1900-01-01T12:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 5, 
+            "location": "ELLIS AUD"
+        }
+    ]
+}

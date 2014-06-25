@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "4043", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "161", 
+        "year": "2014", 
+        "solus_id": "301", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "301-LAB (4043)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Zak, Gennady"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "BEAMISH-MUNRO RM212"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Zak, Gennady"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "BEAMISH-MUNRO RM214"
+        }
+    ]
+}

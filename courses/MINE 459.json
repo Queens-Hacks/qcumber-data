@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 36, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "This course aims to impart the analytical foundations and engineering insights necessary for the reliability analysis, maintenance, and risk assessment of industrial plants and equipment. Case studies are used throughout the course. Topics addressed include: reliability and failure analysis (FMECA, HAZOP); maintenance planning policies and life cycle behaviour; organization of maintenance operations; maintenance management and information systems; condition-based maintenance (CBM); reliability centred maintenance (RCM) and RCMII; reliability growth management in design and test.", 
+        "subject": "MINE", 
+        "number": "459", 
+        "title": "Reliability Maintenance Risk"
+    }
+}

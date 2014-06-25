@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
+        "CEAB": {
+            "Basic Sci": 42, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An introduction to Newtonian mechanics in the context of engineering applications. Lecture topics are: vectors, motion of a particle, particle dynamics, work and energy, statics and dynamics of rigid bodies, oscillators, waves, conservation of energy, momentum, and collisions.", 
+        "subject": "APSC", 
+        "number": "111", 
+        "title": "Mechanics"
+    }
+}

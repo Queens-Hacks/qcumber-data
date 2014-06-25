@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 321 or GEOL 321 or permission of the department. Must be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 20, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 22, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Applications of the principles of rock deformation to the fabric analysis of rocks in the optimization of strategies for open-ended resource exploration, resource engineering and geotechnical engineering problems. Emphasis is on fracture, fault, and vein analysis; structures in fold and thrust belts; and studies of superposed deformation and their impact on effective and economical mineral resource development. Offered next in 2014/15, and every second year thereafter.", 
+        "subject": "GEOE", 
+        "number": "481", 
+        "title": "Advanced Structural Analysis"
+    }
+}

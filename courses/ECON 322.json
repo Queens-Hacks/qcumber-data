@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0 ECON212 and (ECON250 or STAT263) and MATH120 or MATH121 or MATH122 or [MATH123 and MATH124] or MATH126.\r\nEXCLUSION\u00a0 No more than 3.0 units from ECON322/3.0; COMM324/3.0", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An in-depth coverage of portfolio selection theory, performance evaluation and derivative pricing theory. Portfolio risk management and hedging are introduced. Discussions on widely used derivative products including futures and options. Students will be exposed to the most recent developments in financial markets.", 
+        "subject": "ECON", 
+        "number": "322", 
+        "title": "Financial Markets and Risk Management"
+    }
+}

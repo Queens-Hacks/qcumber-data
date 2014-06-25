@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 48, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Students working in teams will be required to \"conceive and design\" a product, system or process using the knowledge and skills acquired in earlier courses. Elements of the design will include: specification of function, analysis, selection of materials and/or components, preparation of working drawings, cost analysis and tenders, and preparation of preliminary design report. A research project may be accepted as an engineering design project provided it can be clearly shown that the elements of \"conceive and design\" are fulfilled in the completion of the project. Lectures and Guest Speakers will focus on related professional skills and topics including engineering ethics, professional organizations and legislation, intellectual property and information systems in support of the project.", 
+        "subject": "MECH", 
+        "number": "460", 
+        "title": "Team Project-Conceive & Design"
+    }
+}

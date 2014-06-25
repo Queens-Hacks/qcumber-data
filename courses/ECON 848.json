@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course introduces students to the central tools and concepts of law and economics. It focuses on the application of law and economics analysis across a number of substantive legal domains, that may include property rights, contract law, tort law, crime, corporate law, competition law, litigation and discrimination law. The course incorporates theoretical, empirical and behavioural approaches to the economic analysis of law.", 
+        "subject": "ECON", 
+        "number": "848", 
+        "title": "Economic Analysis Of The Law"
+    }
+}

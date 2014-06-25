@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }, 
+    "basic": {
+        "description": "This module introduces the philosophy of research, including the nature and role of world views, systems of logic, and theory in the research process. The implications of this content with respect to the generation of research questions and the selection of research designs, methods, analytic approaches and knowledge translation strategies will be explored. (NOTE 1.0 credit unit course.)", 
+        "subject": "RHBS", 
+        "number": "820", 
+        "title": "Philosophy of Research"
+    }
+}

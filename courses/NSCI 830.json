@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Alzheimer\u00bfs disease and related dementias will have an increasing importance in the field of neuroscience given the aging of the Canadian population. The purpose of this course is to provide an overview of the major topic areas in dementia research and provide a foundation for understanding the complexity of dementia research across disciplines and research methodologies.", 
+        "subject": "NSCI", 
+        "number": "830", 
+        "title": "Biological, Clinical, and Social Aspects of Dementia"
+    }
+}

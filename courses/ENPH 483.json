@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: ENPH 344 or PHYS 344 and ENPH 336 or PHYS 336 or ENPH 380 or PHYS 380 or ENPH 480 or PHYS 480. Must be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 12, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An examination of the key ideas, techniques and technologies in the fields of nanoscience and nanotechnology. Emphasis will be placed on the physics involved, measurement techniques, and technological applications. Topics covered are selected from the following: electrical and optical properties of quantum dots, quantum wires and nanotubes; quantum information technology; mesoscopic electronics; nanostructures on surfaces; and scanning-probe and optical microscopy.", 
+        "subject": "ENPH", 
+        "number": "483", 
+        "title": "Nanoscience & Nanotechnology"
+    }
+}

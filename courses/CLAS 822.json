@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course focuses on architecture and the development of town planning in ancient Greece. Various building types, both sacred and secular, will be studied. D. K. Hagel", 
+        "subject": "CLAS", 
+        "number": "822", 
+        "title": "Greek Archaeology I"
+    }
+}

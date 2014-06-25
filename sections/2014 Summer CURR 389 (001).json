@@ -1,0 +1,70 @@
+{
+    "basic": {
+        "class_num": "2283", 
+        "subject": "CURR", 
+        "status": "Open", 
+        "course": "389", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2283)", 
+    "classes": [
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-11T00:00:00", 
+            "instructors": [
+                "MacEachren, Elizabeth"
+            ], 
+            "end_time": "1900-01-01T17:00:00", 
+            "start_time": "1900-01-01T08:00:00", 
+            "day_of_week": 5, 
+            "location": "DUNCAN MCARTHUR RM A330"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-11T00:00:00", 
+            "instructors": [
+                "MacEachren, Elizabeth"
+            ], 
+            "end_time": "1900-01-01T17:00:00", 
+            "start_time": "1900-01-01T08:00:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A330"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-11T00:00:00", 
+            "instructors": [
+                "MacEachren, Elizabeth"
+            ], 
+            "end_time": "1900-01-01T17:00:00", 
+            "start_time": "1900-01-01T08:00:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A330"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-11T00:00:00", 
+            "instructors": [
+                "MacEachren, Elizabeth"
+            ], 
+            "end_time": "1900-01-01T17:00:00", 
+            "start_time": "1900-01-01T08:00:00", 
+            "day_of_week": 2, 
+            "location": "DUNCAN MCARTHUR RM A330"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-11T00:00:00", 
+            "instructors": [
+                "MacEachren, Elizabeth"
+            ], 
+            "end_time": "1900-01-01T17:00:00", 
+            "start_time": "1900-01-01T08:00:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM A330"
+        }
+    ]
+}

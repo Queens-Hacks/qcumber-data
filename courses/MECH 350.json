@@ -1,0 +1,29 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite of (MATH224 or MATH225 or MATH226) and MECH328 or (PHYS211 and PHYS225) and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 19, 
+            "Eng Sci": 23, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An introduction to the basic principles of modelling, analysis and control of dynamic systems. Topics include: modes of control, principles of feedback, Laplace and transfer functions, transient response of first and second order systems, stability criteria, root locus, Bode and frequency response. After completion of this course a student will be able to design a control system by classical techniques and will have an awareness of modern techniques.", 
+        "subject": "MECH", 
+        "number": "350", 
+        "title": "Automatic Control"
+    }
+}

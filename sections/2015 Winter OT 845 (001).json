@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "4248", 
+        "subject": "OT", 
+        "status": "Open", 
+        "course": "845", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (4248)", 
+    "classes": [
+        {
+            "term_end": "2015-06-12T00:00:00", 
+            "term_start": "2015-04-13T00:00:00", 
+            "instructors": [
+                "Krupa, Terry"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 3, 
+            "location": "DUPUIS RM217"
+        }, 
+        {
+            "term_end": "2015-06-12T00:00:00", 
+            "term_start": "2015-04-13T00:00:00", 
+            "instructors": [
+                "Krupa, Terry"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 1, 
+            "location": "DUPUIS RM217"
+        }
+    ]
+}

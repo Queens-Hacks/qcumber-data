@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7468", 
+        "subject": "MBQC", 
+        "status": "Open", 
+        "course": "902", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (7468)", 
+    "classes": [
+        {
+            "term_end": "2014-10-25T00:00:00", 
+            "term_start": "2014-10-04T00:00:00", 
+            "instructors": [
+                "Fitz-Gerald, Ann"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

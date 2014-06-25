@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites of CHEE 221or MINE 201 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course is an introduction to the thermodynamics of fluids for chemical engineering applications. Concepts to be learned include heat, work, internal energy, enthalpy, entropy. and state functions. Students will understand how to calculate heat and work effects arising from physical processes such as expansion and contraction of fluids and how to calculate the thermodynamic properties of fluids using equations of state, residual properties and correlations. Course concepts will be reinforced in a project.", 
+        "subject": "CHEE", 
+        "number": "210", 
+        "title": "Thermodynamic Property Of Fluids"
+    }
+}

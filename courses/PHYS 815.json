@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides a detailed account of the formation, structure, evolution and end-points of stars. Topics include the HR diagram, nuclear energy generation, radiative transport and stellar model building, supernovae, white dwarfs, neutron stars, pulsars and black holes.\u00a0", 
+        "subject": "PHYS", 
+        "number": "815", 
+        "title": "Stellar Structure & Evolution"
+    }
+}

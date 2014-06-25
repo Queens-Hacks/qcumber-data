@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "career": "Distance Studies", 
+        "CEAB": {
+            "Basic Sci": 36, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the basic themes and concepts of modern biology spanning organizational levels from molecules to cells in an evolutionary context. RECOMMENDATION 4U Biology and Chemistry, or equivalent high school background, are highly recommended.", 
+        "subject": "BIOL", 
+        "number": "102", 
+        "title": "Introductory Biology of Cells"
+    }
+}

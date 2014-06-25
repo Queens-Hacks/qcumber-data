@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0 ECON310 and ECON320", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topics in monetary theory and policy, depending upon the interests of the instructor and students. Examples include the foundations of monetary theory; money supply and demand; portfolio choice; monetary aspects of the balance of payments; money and economic growth; financial markets; the term structure of interest rates.", 
+        "subject": "ECON", 
+        "number": "422", 
+        "title": "Monetary Economics"
+    }
+}

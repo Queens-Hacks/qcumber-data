@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Winter", 
+        "enrollment_requirement": "Prerequisite of ELEC221 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 15, 
+            "Eng Sci": 36, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.30"
+    }, 
+    "basic": {
+        "description": "This course is an introduction to semiconductor electronics for students in the Electrical Engineering program and related programs. Topics studied include: operational amplifiers; dc and small signal models for diodes, basic principles of bipolar transistors and field effect transistors, dc analysis of electronic circuits and practical applications of the devices to the design of power supplies, amplifiers and digital logic circuits.", 
+        "subject": "ELEC", 
+        "number": "252", 
+        "title": "Electronics I"
+    }
+}

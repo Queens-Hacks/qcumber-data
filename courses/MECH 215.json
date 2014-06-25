@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite of APSC112 and a corequisite of (MATH272 or CIVL293) and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course presents techniques and devices for measurements in mechanical systems of solids and fluids. On completion of the course, students will be able to: Identify and Quantify measurement objectives in practical engineering applications; Apply statistical analysis, including uncertainty, for interpreting test results; Specify and Select transducers, acquisition systems, and procedures to measure temperature, pressure, stress, strain and force; Position, velocity and acceleration; Apply physical principles to predict static and dynamic system performance for pressure, strain, temperature and position measurements.", 
+        "subject": "MECH", 
+        "number": "215", 
+        "title": "Instrumentation & Measurement"
+    }
+}

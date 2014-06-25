@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter, Summer", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The student will work under the guidance of a project supervisor to complete a project.\u00a0 The completed project will be evaluated by the project supervisor and two other faculty members.", 
+        "subject": "KHS", 
+        "number": "898", 
+        "title": "Individual Project"
+    }
+}

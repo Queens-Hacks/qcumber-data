@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Students in this course will accumulate experience in data analysis and model building. Students will work with various data sets and gain insight into the use of the structural equation model with specific applications in regression, factor analysis, canonical correlation, discriminant analysis, simultaneous equation systems, analysis of covariance, and multivariate analysis of variance. Other multivariate procedures will be reviewed as time permits.", 
+        "subject": "MGMT", 
+        "number": "904", 
+        "title": "Statistical Research Methodology"
+    }
+}

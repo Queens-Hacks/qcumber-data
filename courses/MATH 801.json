@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to graph theory, one of the central disciplines of discrete mathematics. Topics include: graphs and subgraphs, trees, bond and cycle spaces, connectivity, Euler tours and Hamiltonian cycles, matchings, independent sets, cliques and networks (if time permits).\u00a0 (Offered jointly with MATH-401*.)\u00a0 Three term-hours, fall; lectures.", 
+        "subject": "MATH", 
+        "number": "801", 
+        "title": "Graph Theory"
+    }
+}

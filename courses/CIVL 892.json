@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Review of one degree of freedom systems, multi-degree of freedom systems, and continuous systems, including analyses in both time and frequency domains; finite element formulation for dynamics of structures; structural response to wind, earthquake and moving vehicles; introduction to random vibration; use of computer programs. A seminar project is usually undertaken in this course. Three term-hours.", 
+        "subject": "CIVL", 
+        "number": "892", 
+        "title": "Structural Dynamics"
+    }
+}

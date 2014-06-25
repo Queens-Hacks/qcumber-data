@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 MATH281.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from MATH228; MATH326.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Complex numbers, analytic functions, harmonic functions, Cauchy's Theorem, Taylor and Laurent series, calculus of residues, Rouche's Theorem.", 
+        "subject": "MATH", 
+        "number": "326", 
+        "title": "Functions of a Complex Variable"
+    }
+}

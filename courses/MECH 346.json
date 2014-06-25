@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of (MECH230 or PHYS274) and (MECH241 or MECH341) and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An introductory course which covers conduction, convection and radiation modes of heat transfer. Both analytical and numerical analysis will be discussed, and concepts will be reinforced through tutorial and laboratory sessions. Latter topics will include combined modes of heat transfer and the design of heat exchangers.", 
+        "subject": "MECH", 
+        "number": "346", 
+        "title": "Heat Transfer"
+    }
+}

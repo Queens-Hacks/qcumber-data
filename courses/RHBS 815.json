@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }, 
+    "basic": {
+        "description": "This module course prepares students to design, implement and evaluate community based rehabilitation (CBR) initiatives for and with persons with disabilities globally. The historical development of CBR and its philosophical and theoretical underpinnings will be discussed, as will the current international development landscape.\u00a0 (NOTE 1.0 credit unit course.) PREREQUISITE: RHBS-810 or permission of the instructor \nEXCLUSIONS: RHBS-877*, RHBS-977*", 
+        "subject": "RHBS", 
+        "number": "815", 
+        "title": "Community Based Rehabilitation"
+    }
+}

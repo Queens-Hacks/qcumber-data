@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Designing and constructing large software system: requirements analysis, architectural design, detailed design and specification, implementation, test planning, delivery, evolution. Project and configuration management issues. This course includes a team project. Three term-hours; lectures and seminars.", 
+        "subject": "CISC", 
+        "number": "838", 
+        "title": "Software Engineering"
+    }
+}

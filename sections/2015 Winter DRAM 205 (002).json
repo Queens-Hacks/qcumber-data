@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8076", 
+        "subject": "DRAM", 
+        "status": "Open", 
+        "course": "205", 
+        "year": "2015", 
+        "solus_id": "002", 
+        "type": "BLN", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-BLN (8076)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Renyk, Grahame Phillip"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "THEOLOGICAL AUD"
+        }
+    ]
+}

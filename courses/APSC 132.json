@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "APSC131 OR CHEM120", 
+        "CEAB": {
+            "Basic Sci": 31, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 11, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course examines several environmental topics, and the relevant background chemistry. The chemistry includes black body radiation, the second law of thermodynamics, Gibbs energy and equilibrium, fuels, acid-base chemistry, and gas phase kinetics. Environmental topics include ozone depletion, acid rain, air quality, global warming and the environmental impact of various energy conversion processes.", 
+        "subject": "APSC", 
+        "number": "132", 
+        "title": "Chemistry And The Environment"
+    }
+}

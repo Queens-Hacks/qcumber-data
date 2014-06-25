@@ -1,0 +1,29 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Studio": "Required", 
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "This course introduces fundamental professional engineering skills and provides an opportunity to apply engineering science and mathematics content in situations emulating professional practice. It consists of three modules: Module 1. Problem analysis and modeling; Module 2. Experimentation and measurement; Module 3: Engineering design. The course provides an introduction to personal learning styles, team dynamics, oral and written presentation skills, laboratory data collection, analysis and presentation, project management, information management, problem analysis and modeling, numeric computation, economics, design methodologies, and workplace safety.", 
+        "subject": "APSC", 
+        "number": "100A", 
+        "title": "Engineering Practice"
+    }
+}

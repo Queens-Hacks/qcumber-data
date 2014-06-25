@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction of the computational properties of neural networks. Topics may include: Learning Processes, Single Layer Perceptrons, Multilayer Perceptrons, Principal Components Analysis, and Self-Organizing Maps. Three term hours; lectures and seminars. Roger Browse.", 
+        "subject": "CISC", 
+        "number": "874", 
+        "title": "Neural and Genetic Computing (A)"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The objective of this course is to acquaint students with commonalities and differences in modes of sociological reasoning. Students will be expected to grasp and deploy theories that have contrasting ontologies, epistemologies and conceptual structures. The relationship between the discourses of sociology and those of the natural sciences will be a major feature of the course.", 
+        "subject": "SOCY", 
+        "number": "910", 
+        "title": "Modes Of Sociological Reasons"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1636", 
+        "subject": "APSC", 
+        "status": "Closed", 
+        "course": "142", 
+        "year": "2014", 
+        "solus_id": "216", 
+        "type": "STD", 
+        "season": "Winter"
+    }, 
+    "_unique": "216-STD (1636)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Behinaein Hamgini, Behnam"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM213"
+        }
+    ]
+}

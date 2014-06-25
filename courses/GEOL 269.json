@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0 GEOL104 and (MATH120 or MATH121 or MATH122 or [MATH123 and MATH124]), or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An examination of the physical principles and properties exhibited by the Earth which can be used to understand its origin, structure, dynamic processes, and evolution through time.\u00a0Topics such as gravity, seismology, magnetism, geochronology, and heat flow are discussed in conjunction with the unifying theory of plate tectonics.\u00a0\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Physics is required.", 
+        "subject": "GEOL", 
+        "number": "269", 
+        "title": "Physics of the Earth"
+    }
+}

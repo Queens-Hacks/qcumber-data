@@ -1,0 +1,114 @@
+{
+    "basic": {
+        "class_num": "3209", 
+        "subject": "GEOL", 
+        "status": "Open", 
+        "course": "107", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "004-LAB (3209)", 
+    "classes": [
+        {
+            "term_end": "2014-09-25T00:00:00", 
+            "term_start": "2014-09-22T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM210"
+        }, 
+        {
+            "term_end": "2014-10-23T00:00:00", 
+            "term_start": "2014-10-20T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM210"
+        }, 
+        {
+            "term_end": "2014-11-13T00:00:00", 
+            "term_start": "2014-11-10T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM210"
+        }, 
+        {
+            "term_end": "2014-09-25T00:00:00", 
+            "term_start": "2014-09-22T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM102"
+        }, 
+        {
+            "term_end": "2014-10-23T00:00:00", 
+            "term_start": "2014-10-20T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM102"
+        }, 
+        {
+            "term_end": "2014-11-13T00:00:00", 
+            "term_start": "2014-11-10T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM102"
+        }, 
+        {
+            "term_end": "2014-09-25T00:00:00", 
+            "term_start": "2014-09-22T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM106"
+        }, 
+        {
+            "term_end": "2014-10-23T00:00:00", 
+            "term_start": "2014-10-20T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM106"
+        }, 
+        {
+            "term_end": "2014-11-13T00:00:00", 
+            "term_start": "2014-11-10T00:00:00", 
+            "instructors": [
+                "Narbonne, Guy M"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM106"
+        }
+    ]
+}

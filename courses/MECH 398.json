@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 15, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "1.25"
+    }, 
+    "basic": {
+        "description": "This is the first of two laboratory courses in\u00a0the third year of the General Option of the Mechanical Engineering program.\u00a0 Lecture topics and course assignments are selected to provide the background required to undertake the laboratory work. Lab modules from MECH 396/397/399 completed but not counted for credit may be included for credit in this course.", 
+        "subject": "MECH", 
+        "number": "398", 
+        "title": "Mech Eng Lab I"
+    }
+}

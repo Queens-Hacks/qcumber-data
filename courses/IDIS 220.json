@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or above.\r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from IDIS220; IDIS221.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from IDIS220; IDIS222.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course will work towards crafting a definition of the term `digital humanities\u00bf through examining the way in which we create, use, and think about digital resources in humanities disciplines. Students will: learn the basic skills needed to create digital objects, use digital artifacts and tools specific to their own research interests, and engage in theoretical discussions.", 
+        "subject": "IDIS", 
+        "number": "220", 
+        "title": "Hacking the Humanities: An Introduction to the Digital Humanities"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "The equivalent of three full weeks in a grade 7-12 setting (minimum 90 hours) preferably, with at least one class in a non-academic stream.\u00a0 Candidates observe three students and prepare an Individual Education Plan on one of the observed students, as well as plan and teach three lessons in a traditional classroom setting, or complete the equivalent planning and implementation in an alternative setting such as a school library or resource room.\u00a0 The format is to be very flexible but pre-planned. For example, candidates may choose to do a series of half days, or three full-time weeks, or a combination. Full-time weeks may be done during the fall or winter reading weeks, or at the end of the term in May, or a reasonable combination of any of these options.\u00a0 The placement must be completed in the same academic year.", 
+        "subject": "PRAC", 
+        "number": "211A", 
+        "title": "Experiences in Schools II (IS)"
+    }
+}

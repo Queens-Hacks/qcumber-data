@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "Students will gain knowledge regarding a range of conditions that compromise neuromotor performance in adults. Students will gain skills in identifying movement problems, setting goals and planning physiotherapeutic intervention for adults with compromised neuromotor performance. Lab component.", 
+        "subject": "PT", 
+        "number": "858", 
+        "title": "Neuromotor Function II"
+    }
+}

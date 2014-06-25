@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course first discusses the basic principles of field instrumentation as an integral part of the design and construction process of ground structures, and the planning and interpretation of instrumentation programmes. Details of current sensor technology with particular emphasis to the principles of operation and with particular attention to limitations, sources of error and difficulties of calibration, is given. A detailed review of the extensive range of instruments available in the market along with their applications, limitations and installation procedures is given. Data communication and data management techniques are also introduced. Throughout the course, extensive reference to field histories is made to demonstrate examples of good practice, augmented with case studies presented by visiting lectures from industry.\u00a0 Three term-hours, winter term; lectures. E.M. de Souza", 
+        "subject": "MINE", 
+        "number": "826", 
+        "title": "Field Instrum.\u00a0 Ground Engr."
+    }
+}

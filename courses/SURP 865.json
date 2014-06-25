@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides an understanding of the association between urban transportation, environment, and public health. Emphasis will be placed on the role of built environment in shaping travel behavior and its subsequent impact on environment and health outcomes. The course also examines planning and policy interventions to address the key issues.", 
+        "subject": "SURP", 
+        "number": "865", 
+        "title": "Urban Transportation & Health"
+    }
+}

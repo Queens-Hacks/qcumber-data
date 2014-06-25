@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "8524", 
+        "subject": "CONT", 
+        "status": "Open", 
+        "course": "789A", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (8524)", 
+    "classes": [
+        {
+            "term_end": "2013-12-31T00:00:00", 
+            "term_start": "2013-11-11T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

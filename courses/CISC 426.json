@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC324 and CISC327\r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC425; CMPE425.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Design and implementation of real-time embedded applications. Specifying timing properties: formal and semi-formal methods; soft real-time versus hard real-time. Design notations; language constructs. Real-time operating systems. Abstract device interfaces.", 
+        "subject": "CISC", 
+        "number": "426", 
+        "title": "Real-Time Systems"
+    }
+}

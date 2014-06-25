@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter, Summer", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Research will be carried out in consultation with and under the guidance of the instructor.\u00a0Each\u00a0student will conduct a research project and produce a written report. \u00a0Students will need to obtain the instructor's permission\u00a0to pursue\u00a0 research in an area relevant to the field of art conservation.\u00a0The course \u00a0will include oral presentations and formal reports. Full-year course; fall, winter, spring and summer.\u00a0TBA.", 
+        "subject": "ARTC", 
+        "number": "898", 
+        "title": "Research Project"
+    }
+}

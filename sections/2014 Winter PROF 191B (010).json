@@ -1,0 +1,59 @@
+{
+    "basic": {
+        "class_num": "6987", 
+        "subject": "PROF", 
+        "status": "Open", 
+        "course": "191B", 
+        "year": "2014", 
+        "solus_id": "010", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "010-LEC (6987)", 
+    "classes": [
+        {
+            "term_end": "2014-01-10T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Lewis, Magda"
+            ], 
+            "end_time": "1900-01-01T15:00:00", 
+            "start_time": "1900-01-01T13:30:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A211S"
+        }, 
+        {
+            "term_end": "2014-04-11T00:00:00", 
+            "term_start": "2014-04-07T00:00:00", 
+            "instructors": [
+                "Lewis, Magda"
+            ], 
+            "end_time": "1900-01-01T15:00:00", 
+            "start_time": "1900-01-01T13:30:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A211S"
+        }, 
+        {
+            "term_end": "2014-04-30T00:00:00", 
+            "term_start": "2014-04-30T00:00:00", 
+            "instructors": [
+                "Lewis, Magda"
+            ], 
+            "end_time": "1900-01-01T14:45:00", 
+            "start_time": "1900-01-01T12:45:00", 
+            "day_of_week": 3, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-02-06T00:00:00", 
+            "term_start": "2014-01-30T00:00:00", 
+            "instructors": [
+                "Lewis, Magda"
+            ], 
+            "end_time": "1900-01-01T15:00:00", 
+            "start_time": "1900-01-01T13:30:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A211S"
+        }
+    ]
+}

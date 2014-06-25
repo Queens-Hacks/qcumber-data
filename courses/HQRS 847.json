@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course examines concepts in the policy process, including policy development, analysis and implementation, as they relate to quality in health care both on a national and international level.\u00a0 Discussion will focus on contemporary issues of quality in health care with an examination of the political process, research-policy linkages, the role of the organized professions, the bureaucracy, politicians, the media and health care organizations", 
+        "subject": "HQRS", 
+        "number": "847", 
+        "title": "Public Policy, Politics, and Quality Healthcare"
+    }
+}

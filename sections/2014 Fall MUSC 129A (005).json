@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2183", 
+        "subject": "MUSC", 
+        "status": "Open", 
+        "course": "129A", 
+        "year": "2014", 
+        "solus_id": "005", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "005-LAB (2183)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Tormann, Cynthia"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 1, 
+            "location": "HARRISON-LECAINE RM229"
+        }
+    ]
+}

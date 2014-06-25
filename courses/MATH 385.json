@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH120 or MATH121 or MATH122 or MATH124 or MATH126) and MATH384 and (STAT268 or STAT351), or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Measurement of mortality, life annuities, life insurance, premiums, reserves, cash values, population theory, multi-life functions, multiple-decrement functions. The classroom meetings will be primarily problem-solving sessions, based on assigned readings and problems.", 
+        "subject": "MATH", 
+        "number": "385", 
+        "title": "Life Contingencies"
+    }
+}

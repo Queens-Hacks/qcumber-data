@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "career": "Undergraduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 10, 
+            "Eng Sci": 20, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "units": "2.50"
+    }, 
+    "basic": {
+        "description": "This course is composed of active lab modules that provide hands-on practical experience to complement the theory presented in MECH 215. Each module will begin with a lecture and tutorial to prepare the students for the lab activities. On completion of the course, students will be able to: Install and test a micro controller system for data acquisition and control; Acquire and process digital and analog data; Apply transducers for temperature, pressure, stress, strain and force; position, velocity and acceleration; Formulate conclusions supported by data and comparison of results to appropriate models; Discuss the limitations of data employed, key findings, trends evident, uncertainty and error; Create graphs, tables and charts to clearly present data and support conclusions; Compose technical writing to concisely report measurement results and draw valid conclusions.", 
+        "subject": "MECH", 
+        "number": "216", 
+        "title": "Instrumentation and Measurement Labs"
+    }
+}

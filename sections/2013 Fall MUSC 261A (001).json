@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "5337", 
+        "subject": "MUSC", 
+        "status": "Open", 
+        "course": "261A", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LAB (5337)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Szczesniak, Michel"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 4, 
+            "location": "HARRISON-LECAINE RM213"
+        }
+    ]
+}

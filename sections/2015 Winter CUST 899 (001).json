@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "7688", 
+        "subject": "CUST", 
+        "status": "Closed", 
+        "course": "899", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "RSC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-RSC (7688)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

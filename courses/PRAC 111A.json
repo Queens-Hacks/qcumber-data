@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a Concurrent Education Academic Plan and have a level equal to 1.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "The equivalent of two full weeks in schools, with half the time spent in a primary-junior setting (JK-6), and half in an intermediate (7 and/or 8) setting. The format is to be very flexible, but pre-planned. For example, candidates may chose to do a series of half-days, or two full-time weeks, or a combination of half-days, full-days and/or full weeks. Full-time weeks may be done during the fall or winter reading weeks, or (if necessary) at the end of the term in May, or a reasonable combination of these options.", 
+        "subject": "PRAC", 
+        "number": "111A", 
+        "title": "Experiences in Schools I"
+    }
+}

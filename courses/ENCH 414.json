@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ:\u00a0 ENCH 312 or CHEM 312 or ENCH 245 or CHEM 245 and registered in BSCE", 
+        "CEAB": {
+            "Basic Sci": 36, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced treatment of the concepts and applications of catalysis, including the kinetics of catalysis and topics selected from the areas of homogeneous, heterogeneous, and biocatalysis.", 
+        "subject": "ENCH", 
+        "number": "414", 
+        "title": "Catalysis"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC220 and 235 \r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC322 and CISC326", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to software architectural design through the application domain of game development. Topics will include notations for expressing static and dynamic aspects of software architecture, design patterns, interface design, and application of these techniques to 3D games, mobile games and web-based games. \r\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 226/3.0", 
+        "subject": "CISC", 
+        "number": "326", 
+        "title": "Game Architecture"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course looks at politics, society and community in the Atlantic region from the early 17th century to the present, with primary focus on the period since Confederation. Topics will include a consideration of the colonial legacy, struggles over Confederation, the implications of modernity, industrialization, war and reconstruction, and questions of Atlantic identity.\u00a0", 
+        "subject": "HIST", 
+        "number": "821B", 
+        "title": "Atlantic Canada"
+    }
+}

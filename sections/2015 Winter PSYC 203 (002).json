@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "6389", 
+        "subject": "PSYC", 
+        "status": "Open", 
+        "course": "203", 
+        "year": "2015", 
+        "solus_id": "002", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LAB (6389)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "HUMPHREY RM219"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: CMPE 365 (CISC 365), ELEC 278 , and permission of the instructor. Must be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 18, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 18, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Current topics in the application of information technology to medicine, including computed tomography and x-ray imaging; 2D and 3D ultrasound; computer-assisted planning of interventional procedures; image registration; computer-assisted surgery; bioelectric signals; picture archiving and communication systems (PACS).", 
+        "subject": "CMPE", 
+        "number": "472", 
+        "title": "Medical Informatics"
+    }
+}

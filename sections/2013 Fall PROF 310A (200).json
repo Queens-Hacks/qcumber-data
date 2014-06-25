@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7385", 
+        "subject": "PROF", 
+        "status": "Open", 
+        "course": "310A", 
+        "year": "2013", 
+        "solus_id": "200", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "200-LEC (7385)", 
+    "classes": [
+        {
+            "term_end": "2013-12-04T00:00:00", 
+            "term_start": "2013-09-05T00:00:00", 
+            "instructors": [
+                "Brook, Julia Elaine"
+            ], 
+            "end_time": "1900-01-01T21:00:00", 
+            "start_time": "1900-01-01T19:00:00", 
+            "day_of_week": 1, 
+            "location": "TBA"
+        }
+    ]
+}

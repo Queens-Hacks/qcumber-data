@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1452", 
+        "subject": "APSC", 
+        "status": "Closed", 
+        "course": "142", 
+        "year": "2014", 
+        "solus_id": "102", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "102-LEC (1452)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Behinaein Hamgini, Behnam"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:30:00", 
+            "day_of_week": 1, 
+            "location": "ELLIS AUD"
+        }
+    ]
+}

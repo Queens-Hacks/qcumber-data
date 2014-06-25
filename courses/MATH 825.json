@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "General properties of operators on Banach spaces: adjoints, closed graph theorem, spectrum and spectral radius, and the holomorphic functional calculus. The main part of the course will deal with operators on Hilbert spaces and will include: classification and examples of spectra, examples of operators, and the spectral theorem and its applications. Three term-hours, fall; lectures.", 
+        "subject": "MATH", 
+        "number": "825", 
+        "title": "Theory Of Linear Operators"
+    }
+}

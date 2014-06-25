@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Project": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "In this course a formal report is required, based on industrial and/or laboratory research. Emphasis is placed on critical treatment of the data obtained to produce useful conclusions. Standing is based on the work done and on the ability of individuals to complete various phases of the project according to schedule. Normally the report is prepared during a summer work period and completed during the fall term. Participation in the departmental seminar series once per month is mandatory.", 
+        "subject": "MINE", 
+        "number": "434A", 
+        "title": "Project Report"
+    }
+}

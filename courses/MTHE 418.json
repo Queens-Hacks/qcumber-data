@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: MATH 210 or MATH 212 or MTHE 217 or MATH 217 or MATH 211 with permission of the instructor. Must also be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 18, 
+            "Eng Des": 9, 
+            "Eng Sci": 9, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Time estimates for arithmetic and elementary number theory algorithms (division algorithm, Euclidean algorithm, congruences), modular arithmetic, finite fields, quadratic residues. Simple cryptographic systems; public key, RSA. Primality and factoring: pseudoprimes, Pollard's rho-method, index calculus. Elliptic curve cryptography.", 
+        "subject": "MTHE", 
+        "number": "418", 
+        "title": "Number Theory & Cryptography"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "4485", 
+        "subject": "GNDS", 
+        "status": "Open", 
+        "course": "315", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (4485)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "ELLIS RM324"
+        }
+    ]
+}

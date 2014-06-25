@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 SPAN201 or SPAN205.\r\nExclusions\u00a0\u00a0\u00a0 No more than 6.0 units from SPAN261; SPAN380; SPAN381.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A survey of the major authors and works of literature of Spain from its beginnings to the Spanish Golden Age. Readings will include texts from all genres and will illustrate the main cultural and historical trends and movements.", 
+        "subject": "SPAN", 
+        "number": "380", 
+        "title": "Panorama literario de Espa\u00f1a I"
+    }
+}

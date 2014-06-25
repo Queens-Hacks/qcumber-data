@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "8123", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "871", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (8123)", 
+    "classes": [
+        {
+            "term_end": "2014-02-07T00:00:00", 
+            "term_start": "2014-01-07T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A nuclear reactor presents a unique environment in which materials must perform. In addition to the high temperatures and stresses to which materials are subjected in conventional applications, nuclear materials are subjected to various kinds of radiation that affect their performance, and often this dictates a requirement for a unique property that is not relevant in conventional applications. The effects of the radiation may be direct or indirect. This course considers materials typically used in nuclear environments, the unique conditions to which they are subjected, the basic physical phenomena that affect their performance and the resulting design criteria for reactor components made from these materials. This course is offered in conjunction with MECH-483*, but has additional assignments and reading. Three term-hours, lectures. R. Holt.", 
+        "subject": "MECH", 
+        "number": "883", 
+        "title": "Nuclear Materials"
+    }
+}

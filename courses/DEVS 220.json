@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Distance Studies", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to Aboriginal world view and culture organized on an historical basis, from Creation to 1969, emphasizing Aboriginal culture and experience in Canada. Aboriginal perspectives will be introduced through traditional teaching methods and contributions from elders and other community members.", 
+        "subject": "DEVS", 
+        "number": "220", 
+        "title": "Introduction to Aboriginal Studies"
+    }
+}

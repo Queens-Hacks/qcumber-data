@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "8963", 
+        "subject": "PHIL", 
+        "status": "Closed", 
+        "course": "594", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "REA", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-REA (8963)", 
+    "classes": [
+        {
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

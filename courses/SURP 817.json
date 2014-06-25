@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will provide a thematic history of major ideas informing on the planning of built, social and ecological environments of communities and cities. The ideas and concepts promoted by theorists and practitioners from around the world will be introduced.\u00a0 The emergence and application of these ideas in Canadian planning practice will be emphasized.", 
+        "subject": "SURP", 
+        "number": "817", 
+        "title": "An Intellectual History of Urban and Regional Planning"
+    }
+}

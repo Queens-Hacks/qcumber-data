@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "1962", 
+        "subject": "MUSC", 
+        "status": "Open", 
+        "course": "392", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LAB (1962)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Lind, Stephanie"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 1, 
+            "location": "HARRISON-LECAINE RM124"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Lind, Stephanie"
+            ], 
+            "end_time": "1900-01-01T10:00:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "HARRISON-LECAINE RM124"
+        }
+    ]
+}

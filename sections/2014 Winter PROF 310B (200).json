@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6763", 
+        "subject": "PROF", 
+        "status": "Open", 
+        "course": "310B", 
+        "year": "2014", 
+        "solus_id": "200", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "200-LEC (6763)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Brook, Julia Elaine"
+            ], 
+            "end_time": "1900-01-01T21:00:00", 
+            "start_time": "1900-01-01T19:00:00", 
+            "day_of_week": 1, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A lecture-seminar course designed to provide comprehensive coverage of sport psychology. The course examines the development of the field, general theories and concepts, forms of measurement, and issues in the current literature.\u00a0\u00a0\u00a0", 
+        "subject": "KHS", 
+        "number": "864", 
+        "title": "Adv. Top. In Sports Psychology"
+    }
+}

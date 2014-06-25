@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4767", 
+        "subject": "MFIN", 
+        "status": "Closed", 
+        "course": "833", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (4767)", 
+    "classes": [
+        {
+            "term_end": "2014-12-14T00:00:00", 
+            "term_start": "2014-10-25T00:00:00", 
+            "instructors": [
+                "Purda-Heeler, Lynnette D"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 A grade of B- in DRAM330 or a GPA of 1.7 in 6.0 units from: DRAM331; DRAM339; DRAM373 or permission of the dept.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Research, rehearsal and presentation of a role for performance.", 
+        "subject": "DRAM", 
+        "number": "431", 
+        "title": "Advanced Acting:Performance I"
+    }
+}

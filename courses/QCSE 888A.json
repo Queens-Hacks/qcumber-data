@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "This non-credit course is offered in Fall, Winter, and Spring semester.\u00a0 Students in the Queen\u00bfs CSE specialization must register and participate.\u00a0 Non-Queen\u00bfs CSE students cannot register, but participation is open to all graduate students, advanced undergraduate students, and faculty interested in computational science.This colloquium will include occasional invited speakers and selected seminars in participating departments.\u00a0 Queen\u00bfs CSE students are required to lead one or more sessions, including a presentation related to the research component of the CSE specialization.\u00a0", 
+        "subject": "QCSE", 
+        "number": "888A", 
+        "title": "Computational Science Seminar"
+    }
+}

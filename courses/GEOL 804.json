@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This course consists of a short and focused exploration of a pre-approved topic in engineering geology removed from the thesis research.\u00a0 The course may be hosted at Queen\u00bfs or offsite under the co-supervision of the designated departmental instructor.\u00a0 Course delivery may vary from special lecture series to supervised field/lab course.\u00a0 Deliverables would include a self-directed report and presentation.\u00a0 Field trip fee may apply. (1.5 credit units). PREREQUISITE: Permission of the instructor.", 
+        "subject": "GEOL", 
+        "number": "804", 
+        "title": "Focused Topics in Geological Engineering"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course consists of two components, both of which are designed to introduce the student to the requirements of academic research in the field of finance. The first component, lasting the entire year, requires students to attend and actively participate in a seminar series with visiting speakers. Students will provide feedback and constructive criticism to the speaker on his or her work. The second component, to take place primarily in the winter semester, requires the student to work individually with a faculty member to produce a comprehensive review of the literature in their field of interest along with suggestions for future research opportunities. Topics are at the discretion of the faculty member.", 
+        "subject": "MGMT", 
+        "number": "927", 
+        "title": "Directed Readings and Workshop"
+    }
+}

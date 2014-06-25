@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced but non-relativistic discussion of classical electromagnetic theory intended for students in applied/engineering physics and condensed matter physics and with an emphasis on the generation and propagation of electromagnetic waves. Topics include polarization, multipoles and electromagnetic fields in macroscopic media, diffraction theory, simple radiating systems, and the propagation of waves in dispersive media and plasmas. Additional topics may include guided waves, nonlinear optics, and the optics ofanisotropic media.", 
+        "subject": "PHYS", 
+        "number": "831", 
+        "title": "Electromagnetic Theory"
+    }
+}

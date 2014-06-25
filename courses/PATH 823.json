@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "ANAT311 OR BCHM411 OR MICR360", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The aim of this course is to introduce and discuss essential questions in the basic science of oncology.\u00a0 Trainees with an interest in cancer research are encouraged to take this course.\u00a0 Topics include pathology of cancer, cancer genetics, growth factors, signal transduction, oncogenes, suppressor genes, early stage tumorigenesis, tumor immunology and metastasis. A general theme for the course will be mechanisms regulating neoplastic transformation and tumor progression.\u00a0 In order to provide a balance and high profile in all areas, various staff members in the Cancer Research Institute and associated departments have been selected as session leaders in this course. Half course, lectures and seminars; fall term. B. Elliott.", 
+        "subject": "PATH", 
+        "number": "823", 
+        "title": "Cancer Biology"
+    }
+}

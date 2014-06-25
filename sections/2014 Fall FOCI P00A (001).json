@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7487", 
+        "subject": "FOCI", 
+        "status": "Open", 
+        "course": "P00A", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (7487)", 
+    "classes": [
+        {
+            "term_end": "2014-09-10T00:00:00", 
+            "term_start": "2014-09-10T00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "end_time": "1900-01-01T16:50:00", 
+            "start_time": "1900-01-01T15:50:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A237"
+        }
+    ]
+}

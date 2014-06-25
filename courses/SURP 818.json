@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to physical planning approaches, methods and techniques. The course examines how physical design relates to urban and regional planning. Students will be introduced to topics which include site and building survey and analysis, built and natural environment survey and analysis, design interpretation of planning and other regulations, visual analysis, costing, choice of design alternatives, urban and regional plans, etc. Development of graphic skills in analysis and presentation will be emphasized. Learning materials approx.\u00a0$30", 
+        "subject": "SURP", 
+        "number": "818", 
+        "title": "Physical Planning"
+    }
+}

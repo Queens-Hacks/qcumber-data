@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PSYC220 OR COGS200 OR PSYC221", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Addresses topics in attentional control including limits in attentional control, cortical mechanisms of attention, spatial and temporal attention, interaction of attention and memory, and influence of videogame playing on attentional control.", 
+        "subject": "PSYC", 
+        "number": "422", 
+        "title": "Advanced Topics in Attention"
+    }
+}

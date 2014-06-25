@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "RECOMMENDATION\u00a0\u00a0\u00a0 BIOL 302/3.0 and BIOL 303/3.0.", 
+        "subject": "BIOL", 
+        "number": "510", 
+        "title": "Biogeochemistry and Global Change"
+    }
+}

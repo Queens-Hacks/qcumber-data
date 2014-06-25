@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of CIVL330 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 36, 
+            "Eng Sci": 12, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Introduction to Limit States Design, load paths. Dead and live loads for design as specified in the National Building Code of Canada. Design assumptions regarding material properties of structural steel. Design of tension members; bolted connections; design of simple columns; design of beams (laterally supported and laterally unsupported) for flexure and shear; design of bearing stiffeners; design of steel-concrete composite beams; stability analysis; design of beam-columns. Sustainability for building materials; introduction to LEED.", 
+        "subject": "CIVL", 
+        "number": "331", 
+        "title": "Structural Steel Design"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "3309", 
+        "subject": "PT", 
+        "status": "Open", 
+        "course": "864", 
+        "year": "2015", 
+        "solus_id": "002", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LAB (3309)", 
+    "classes": [
+        {
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:00:00", 
+            "start_time": "1900-01-01T09:00:00", 
+            "day_of_week": 5, 
+            "location": "ACTON RM21"
+        }
+    ]
+}

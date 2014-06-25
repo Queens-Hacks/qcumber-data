@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will introduce students to a critical study of policy in general and of policies in education in particular. The intention of this course is to develop in students a critical awareness of the social construction of policy, of intended and contingent impacts of policy, and of the components constituting the policy cycle. The process of policy-making will be explored using various perspectives and understandings of the phases of policy development, implementation, and evaluation. Fall; B. Kutsyuruba.", 
+        "subject": "EDUC", 
+        "number": "861", 
+        "title": "Policy Studies In Education"
+    }
+}

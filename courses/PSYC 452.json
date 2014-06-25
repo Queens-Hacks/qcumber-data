@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (PSYC203 and 12.0 units in PSYC at the 200-level or above) or (level 3 and [registration in a LING or COGS Plan] and a grade of B- in PYSC100).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This seminar focuses on the human ability to produce and comprehend language and its development. Using original empirical articles the participants in the seminar will examine topics like syntactic and lexical disambiguation, structural priming, the development of reading, and cultural variability in language ability.", 
+        "subject": "PSYC", 
+        "number": "452", 
+        "title": "Developmental Psycholinguistic"
+    }
+}

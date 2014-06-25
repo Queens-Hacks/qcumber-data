@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "1374", 
+        "subject": "APSC", 
+        "status": "Closed", 
+        "course": "381", 
+        "year": "2014", 
+        "solus_id": "800", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "800-LEC (1374)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Strong, David S"
+            ], 
+            "end_time": "1900-01-01T22:30:00", 
+            "start_time": "1900-01-01T19:30:00", 
+            "day_of_week": 3, 
+            "location": "DUPUIS RM217"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Strong, David S"
+            ], 
+            "end_time": "1900-01-01T22:30:00", 
+            "start_time": "1900-01-01T19:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM109"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Strong, David S"
+            ], 
+            "end_time": "1900-01-01T22:30:00", 
+            "start_time": "1900-01-01T19:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM314"
+        }
+    ]
+}

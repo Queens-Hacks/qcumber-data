@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH230 or PHYS274 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "A continuation of MECH 230 with selected topics such as gas and vapour power cycles, refrigeration, mixtures of gases and vapours, combustion and available energy.", 
+        "subject": "MECH", 
+        "number": "330", 
+        "title": "Applied Thermo II"
+    }
+}

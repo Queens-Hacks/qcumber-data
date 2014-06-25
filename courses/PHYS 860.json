@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A multi-disciplinary graduate course on advanced topics in microfabrication with research perspectives. It aims to help students from a broad range of Applied Sciences with special interests in micro/nano-technology to relate the physics of selected advanced topics to current opportunities and problems in their research. Instructions integrate contributions from several faculty members. An ongoing articulation of the interface between micro- and nano-scale methodologies will be maintained.", 
+        "subject": "PHYS", 
+        "number": "860", 
+        "title": "App Science In Micro/Nano Tech"
+    }
+}

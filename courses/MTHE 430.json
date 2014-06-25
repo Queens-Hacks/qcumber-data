@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 237 or MATH 237 and MTHE 312 or MATH 312 and MTHE 326 or MATH 326 and MTHE 332 or MATH 332, or permission of the instructor. Must be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 28, 
+            "Eng Des": 0, 
+            "Eng Sci": 20, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "This course covers core topics in modern control theory: Linearization, existence and uniqueness of trajectories for nonlinear and linear systems, the transition matrix, controllability, observability, minimal realizations, feedback stabilization, linear state observers, optimal control theory, the linear quadratic regulator, dynamic programming.", 
+        "subject": "MTHE", 
+        "number": "430", 
+        "title": "Modern Control Theory"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C- in SOCY122/6.0.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from GPHY240/3.0; SOCY210/3.0.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Examination of relationship between sociological theory and methods of social research; topics include logic of research, hypothesis formulation, and variables and their operationalization.", 
+        "subject": "SOCY", 
+        "number": "210", 
+        "title": "Social Research Methods"
+    }
+}

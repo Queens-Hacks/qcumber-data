@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Project": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC371, 374, 377, STAT356, CISC223, 322, 204, 332 and CISC365 and the completion of 3rd Year in a CMP2-0-1 Academic Sub Plan.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "", 
+        "subject": "ELEC", 
+        "number": "499A", 
+        "title": "Software Engineering Project"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Seminar courses on topics in Spanish American literature. Course details to be announced on website.", 
+        "subject": "SPAN", 
+        "number": "503", 
+        "title": "Literatura de Hispanoam\u00e9rica: Temas espec\u00edficos"
+    }
+}

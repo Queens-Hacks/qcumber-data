@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 300 or permission of the department. Must also be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 24, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 24, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Material mechanics related to rock deformation and fracture of rocks, applied to site-investigation and resource exploitation. Topics include geometric, kinematic and dynamic analysis; mechanical analysis (stress and strain theory); geologic mapping and map interpretation; engineering rockmass classification and rock engineering in structurally controlled ground, introduction to geotectonics with examination of selected tectonic associations. Application of structural geology and geomechanics to design issues related to construction, mining, natural hazards, and resource exploitation. Required full-day field trip.", 
+        "subject": "GEOE", 
+        "number": "321", 
+        "title": "Analysis Of Rock Structures"
+    }
+}

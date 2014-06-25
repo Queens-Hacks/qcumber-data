@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4016", 
+        "subject": "GEOE", 
+        "status": "Open", 
+        "course": "365", 
+        "year": "2015", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-LAB (4016)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Kyser, Kurtis T"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "MILLER RM409"
+        }
+    ]
+}

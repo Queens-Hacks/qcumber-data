@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON212", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The study of the exploitation and conservation of natural resources such as fisheries, forestry, minerals and energy, and the implications for public policy using tools of economic analysis. Issues relating to the quality of the environment and role of natural resources in the growth and development of the economy are also emphasized.", 
+        "subject": "ECON", 
+        "number": "390", 
+        "title": "Natural Resource Economics"
+    }
+}

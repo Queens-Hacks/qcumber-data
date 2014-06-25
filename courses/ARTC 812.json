@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course has the same format as ARTC-811* but with particular emphasis on artifacts made from materials of organic origin, especially wood, leather, bone and ivory. Half course; two and a half term hours; fall.\u00a0K. Spirydowicz.", 
+        "subject": "ARTC", 
+        "number": "812", 
+        "title": "Hist Tech & Conserv Of Arti II"
+    }
+}

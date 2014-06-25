@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Summer", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Mechatronics is the integration of mechanical, electrical, computer and control engineering. This course deals with the analytical tools required to design, model, analyze and control mechatronic systems. Properties of linear and nonlinear systems, system identification methods, process modelling, sensor and actuators, computer interfacing, computer control of machines and processes (PLC and PC based). Laboratories will include PLC based automation applications and PC based advanced robotics.(Lead Instructor: Brian Surgenor, Queen's)\u00a0", 
+        "subject": "DM", 
+        "number": "822", 
+        "title": "Mechatronics Engineering"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "basic": {
+        "class_num": "4079", 
+        "subject": "ELEC", 
+        "status": "Open", 
+        "course": "280", 
+        "year": "2015", 
+        "solus_id": "005", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "005-LAB (4079)", 
+    "classes": [
+        {
+            "term_end": "2015-01-18T00:00:00", 
+            "term_start": "2015-01-12T00:00:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2015-02-01T00:00:00", 
+            "term_start": "2015-01-26T00:00:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2015-02-15T00:00:00", 
+            "term_start": "2015-02-09T00:00:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2015-03-01T00:00:00", 
+            "term_start": "2015-02-23T00:00:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2015-03-15T00:00:00", 
+            "term_start": "2015-03-09T00:00:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2015-03-29T00:00:00", 
+            "term_start": "2015-03-23T00:00:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "BEAMISH-MUNRO RM314"
+        }
+    ]
+}

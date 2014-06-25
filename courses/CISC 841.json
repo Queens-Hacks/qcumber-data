@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Large uniprocessor design, including pipelining, cache management, lookahead and prefetch; array processors and algorithms; multi-processors, conventional multiprocessors, systolic arrays, data driven and demand driven architectures. Three term-hours; lectures and seminars.", 
+        "subject": "CISC", 
+        "number": "841", 
+        "title": "Advanced Computer Architecture"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "6551", 
+        "subject": "ARAB", 
+        "status": "Open", 
+        "course": "200B", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (6551)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Halabi, Amira"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "KINGSTON RM304"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Halabi, Amira"
+            ], 
+            "end_time": "1900-01-01T13:00:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "KINGSTON RM304"
+        }
+    ]
+}

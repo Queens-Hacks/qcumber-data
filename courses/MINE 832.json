@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Roles and applications of flotation in the mining industry, tailings management, recycling and environmental clean-up are discussed. The topics include both interfacial aspects such as wettability, electrical double layer theories, dispersioncoagulation/flocculation, reagent interactions, as well as the engineering aspects such as sampling/mass balancing, kinetics and circuit design. Primary examples of technologies related to processing of sulphide ores, non-sulphides, salts, coals and tar sands are covered. The course includes laboratory sessions on selected topics.", 
+        "subject": "MINE", 
+        "number": "832", 
+        "title": "Flotation Science & Technology"
+    }
+}

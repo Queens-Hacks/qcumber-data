@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC111 and APSC112 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 30, 
+            "Math": 5, 
+            "Eng Des": 0, 
+            "Eng Sci": 4, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.25"
+    }, 
+    "basic": {
+        "description": "Evidence for relativistic effects. Kinematics and dynamics in special relativity, Minkowski diagram, applications. Evidence for quanta, spectra, Bohr atom, quantum statistics. Descriptive nuclear physics, radioactivity, elementary particles. (5/30/0/4/0) ~ COURSE DELETED IN 2008/09 ~", 
+        "subject": "ENPH", 
+        "number": "342", 
+        "title": "Relativity And Quanta"
+    }
+}

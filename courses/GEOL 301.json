@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Field Studies": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 GEOL321 or GEOL337 or GEOL368.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "A multi-day field trip that uses stratigraphic, sedimentological, and paleontological data to interpret rock successions in a paleoenvironmental and tectonic context.\u00a0 Enrolment is limited.\r\nNOTE\u00a0\u00a0\u00a0 The course runs during the week that includes Canadian Thanksgiving. Students are responsible for the cost of accommodation during the trip ($200 in 2012).", 
+        "subject": "GEOL", 
+        "number": "301", 
+        "title": "Field Studies in Geology I"
+    }
+}

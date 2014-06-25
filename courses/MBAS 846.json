@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "\u00bf Describe the trend toward integrated ecosystems enabled by IT and the impact this shift is having on organizations, individual and society. This new ecosystem is driven by user demand for lower cost and simplicity of technology to enable a broader range and more complex set of processes and capabilities. \r\n\u00bf Define current strategies and approaches for IT-enabled business intelligence and analytics to enable organizational decision making and real-time operational intelligence.\u00a0 \r\n\u00bf Describe how organizations can make data more consumable and accessible to non-traditional analytics users (e.g., partners, consumers) and the impact this will have by enabling real-time business activities, competitiveness, innovation and productivity. \r\n\u00bf Differentiate between leading-edge strategies related to managing technology architecture and software provision including topics such as cloud computing, mobile device battles, and mobile applications.", 
+        "subject": "MBAS", 
+        "number": "846", 
+        "title": "Strategic Technology & Innovation"
+    }
+}

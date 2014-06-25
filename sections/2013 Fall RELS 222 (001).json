@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6969", 
+        "subject": "RELS", 
+        "status": "Open", 
+        "course": "222", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LSM", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LSM (6969)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Goldberg, Ellen"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "KINES & HLTH RM101"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course builds upon the material covered in foundational organizational behaviour Ph.D. courses, and provides students with an opportunity for in-depth coverage of selected advanced topics in organizational behaviour. The topics will vary yearly, but there will be an emphasis on the integration of research and theory, as well as enhancing students' research competencies throughout the course.", 
+        "subject": "MGMT", 
+        "number": "954", 
+        "title": "Advanced Topics in Organizational Behaviour I"
+    }
+}

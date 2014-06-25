@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "CHEE 210, or permission of the department.\u00a0 Must be registered in a BSCE program.\u00a0 Exclusion: ENCH 346 (or CHEM 347).", 
+        "CEAB": {
+            "Basic Sci": 12, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "The course covers four major topics. 1. The thermodynamic properties of interfaces (surface energy, wetting, surface area and porosity, capillary effects, work of adhesion/cohesion). 2. Models of adsorption/desorption phenomena. 3. The amphiphilic behaviour of surfactants. 4. The stability and characterization of colloidal systems. Student appreciation for the importance of these phenomena is cultivated using examples drawn from industrial processes/products including inks, paints, foods, polymer blends, and nanocomposites.", 
+        "subject": "CHEE", 
+        "number": "460", 
+        "title": "Appl Surface & Colloid Science"
+    }
+}

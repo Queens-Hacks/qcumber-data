@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Core Course:\u00a0 All M.A. and Ph.D. students will normally be required to take this course.\u00a0 Ph.D. students who have already taken the course shall choose an appropriate replacement in consultation with the Graduate Coordinator. This course deals with the main contemporary methodological approaches to the explanation of social phenomena.\u00a0 It will critically examine the strengths and weaknesses of the major strategies of social research (qualitative, quantitative and historical). The selection of specific problems areas may vary from year to year.", 
+        "subject": "SOCY", 
+        "number": "902", 
+        "title": "Sociological Methodology"
+    }
+}

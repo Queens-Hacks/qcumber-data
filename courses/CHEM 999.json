@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter, Summer", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "NOTE: All courses offered in the Civil Engineering Department are of one term in length. Examinations are held at the end of each term. All listed courses may not be offered each year.", 
+        "subject": "CHEM", 
+        "number": "999", 
+        "title": "Ph. D. Thesis Research"
+    }
+}

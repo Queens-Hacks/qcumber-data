@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Surveillance is sociologically significant as a central means of governance.\u00a0 Surveillance is both a cultural and technical invention, especially dependent today on digital infrastructures and neo-liberal policy.\u00a0 Personal data are gathered by many means and processed to create categories by which risks and opportunities are assessed, and through which people\u00bfs life-chances and choices are influenced and managed.", 
+        "subject": "SOCY", 
+        "number": "903", 
+        "title": "Surveillance Studies"
+    }
+}

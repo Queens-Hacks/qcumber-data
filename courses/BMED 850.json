@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Tutorial": "Required", 
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Further study of contemporary virology using the textbook as a guide to particles, genomes, replication, expression, infection, and pathogenesis. Emphasizing reading and writing to develop skills in observation and critical thinking, important attributes in understanding the scientific method. (Offered in alternate years to BMED-851* and concurrently with MICR-450* with additional work required.) Fall term, three lecture hours, three seminar hours.\u00a0 E. Carstens. EXCLUSIONS: MICR-450*, MICR-850*", 
+        "subject": "BMED", 
+        "number": "850", 
+        "title": "Principles of Molecular Virology"
+    }
+}

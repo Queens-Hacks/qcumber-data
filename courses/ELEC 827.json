@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Study of multimedia information processing with particular focus on multimedia signal compression for communications and storage. Applications of multimedia compression functionalities abound, including point-to-point and multipoint communications over heterogenous networks (e.g. wireless and Internet networks), and multimedia content generation, distribution, and playback in consumer and commercial products and services. Course topics include: major lossless and lossy compression techniques for coding speech, audio, image, video, and scanned documents; the latest multimedia standards, their compression, system, and transport layers; current research problems in multimedia communications such as scalable coding, transcoding, multiuser media streaming, error robustness and signal recovery. Three-term-hours; lectures. Permission of instructor. G. Chan.\u00a0\u00a0", 
+        "subject": "ELEC", 
+        "number": "827", 
+        "title": "Multi Media Signal Compression"
+    }
+}

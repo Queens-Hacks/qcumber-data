@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course introduces M.A. students to the scholarly study and teaching of English literature. The emphasis will be on training Teaching Assistants. There will be practical training in research skills, essay-marking, the academic counselling of students, and first-time teaching. There will also be some consideration of academic and non-academic careers for M.A.'s.", 
+        "subject": "ENGL", 
+        "number": "800", 
+        "title": "Prof. & Pedagogical Skills I"
+    }
+}

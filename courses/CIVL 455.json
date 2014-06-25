@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of CIVL350 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 24, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "A course in the basics of river engineering including the study of alluvial processes, the prediction and consequences of sediment transport, the design of measures to control erosion and accretion, and the design of dams, spillways and diversions. Critical aspects in the design of river engineering structures and assessment of environmental impact of river engineering projects are discussed. The use of physical and numerical models in the practice of river engineering is illustrated. The principles of natural channel design, stream restoration, and bioengineering in river environments are also addressed. PPE will be required for this course at student\u00bfs cost (see course materials for details).", 
+        "subject": "CIVL", 
+        "number": "455", 
+        "title": "River Engineering"
+    }
+}

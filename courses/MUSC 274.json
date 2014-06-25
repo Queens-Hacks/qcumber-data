@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0 MUSC273", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A laboratory course emphasizing weekly field-based observations and supervised practice teaching experiences in music within schools and/or community organizations in conjunction with music education theory.", 
+        "subject": "MUSC", 
+        "number": "274", 
+        "title": "Music Education:Partnership Placement"
+    }
+}

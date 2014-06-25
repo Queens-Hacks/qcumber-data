@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "6166", 
+        "subject": "PT", 
+        "status": "Open", 
+        "course": "841B", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (6166)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-24T00:00:00", 
+            "instructors": [
+                "Hopkins-Rosseel, Diana"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 1, 
+            "location": "BOTTER RM B139"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-24T00:00:00", 
+            "instructors": [
+                "Hopkins-Rosseel, Diana"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 3, 
+            "location": "BOTTER RM B147"
+        }
+    ]
+}

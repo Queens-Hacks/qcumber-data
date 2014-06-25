@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Advanced computer graphics with emphasis on physical modelling and rendering of realistic 3-d scenes. Topics include constructive solid geometry, parametric shape representations, kinematics and dynamics, photometry and surface reflectance, and ray tracing. Three term-hours; lectures and seminars. James Stewart.", 
+        "subject": "CISC", 
+        "number": "854", 
+        "title": "Graphics (A)"
+    }
+}

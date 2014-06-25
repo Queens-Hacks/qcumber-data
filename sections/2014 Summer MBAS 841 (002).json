@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2220", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "841", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "002-LEC (2220)", 
+    "classes": [
+        {
+            "term_end": "2014-08-21T00:00:00", 
+            "term_start": "2014-08-05T00:00:00", 
+            "instructors": [
+                "Roman, Paul Anthony"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

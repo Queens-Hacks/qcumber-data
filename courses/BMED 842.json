@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A laboratory-based course providing an advanced survey of state-of-the-art methodologies.\u00a0 This course is designed to give the student experience in cellular, molecular and whole tissue techniques with applications to digestive and related sciences. Fall term; 2 hours seminar / 4 hours laboratory on alternate weeks. R.J. MacLeod.\u00a0 PREREQUISITE:\u00a0 Undergraduate degree in biological, biochemical, or life sciences; permission of the course supervisor.\u00a0 Enrollment is limited. EXCLUSION: PHGY-840*", 
+        "subject": "BMED", 
+        "number": "842", 
+        "title": "Advanced Techniques in Digestive Sciences I"
+    }
+}

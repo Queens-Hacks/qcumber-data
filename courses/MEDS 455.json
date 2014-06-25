@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Will provide students with opportunities to consider multi-system presentations and those difficult presentations that may not have been encountered in a rotation; to practice more advanced communication and management skills that require practice to appreciate, and to reflect on their evolution as professionals through experience of clerkship. Students at risk will be identified in time for intensive remediation.", 
+        "subject": "MEDS", 
+        "number": "455", 
+        "title": "Complex Clinical Presentations and Competencies"
+    }
+}

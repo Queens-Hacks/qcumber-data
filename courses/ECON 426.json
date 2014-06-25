@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0 ECON310 and ECON320", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The study of international capital flows, sovereign debt, and international risk-sharing; real exchange rates and international goods pricing; topics in international finance such as exchange-rate modeling and speculative attacks; and policy topics such as fiscal and monetary policy effects and exchange-rate regime choice.", 
+        "subject": "ECON", 
+        "number": "426", 
+        "title": "International Macroeconomics"
+    }
+}

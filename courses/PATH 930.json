@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter, Summer", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Pathology and Molecular Medicine Research Seminar Series\r\nThis seminar series consists of weekly presentations by visiting external speakers, Queen's faculty, and Departmental MSc and PhD students. MSc students will give 1/2 hour seminars in their first year, and one hour seminars in their second year;\u00a0 PhD students will give 1 hour seminars in their first and third years, and an exit seminar in their final year.\u00a0 Attendance by all Departmental graduate students is compulsory and will be monitored by the Graduate Program Coordinator.\u00a0 Departmental faculty will provide evaluations of student resentations. Only one mark will be assigned, based on the average of the student's first two seminars. If a grade is submitted for Path 830, a second grading for Path 930 is unnecessary.", 
+        "subject": "PATH", 
+        "number": "930", 
+        "title": "Pathology and Molecular Medicine Research Seminar Series"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "CHEE 909: Exclusion of ENCH 46", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "Various established theories on Colloids (e.g., DLVO, XDLVO) will be analyzed and subsequently used as tools towards the understanding and prediction of phenomena relevant to contact angles, surface wetting, emulsion or particle dispersion stability, and surfactant self -assembly. Exclusion: ENCH 460.", 
+        "subject": "CHEE", 
+        "number": "909", 
+        "title": "Colloid and Surface Science Fundamentals"
+    }
+}

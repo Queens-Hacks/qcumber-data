@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2780", 
+        "subject": "DEVS", 
+        "status": "Open", 
+        "course": "240", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "TUT", 
+        "season": "Winter"
+    }, 
+    "_unique": "004-TUT (2780)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 3, 
+            "location": "MACINTOSH-CORRY RM E202"
+        }
+    ]
+}

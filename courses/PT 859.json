@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "Students will gain knowledge in anatomy, physiology, biomechanics, physical assessment and clinical reasoning in order to assist with intervention related to disorders of the axial skeleton including musculoskeletal, neurological, and cardiorespiratory sequelae. The emphasis will be on conditions that occur in adulthood. Lab component.", 
+        "subject": "PT", 
+        "number": "859", 
+        "title": "Spinal Disorders"
+    }
+}

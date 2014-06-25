@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Summer", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course will cover tools and methodologies necessary to achieve a program of maintenance excellence such that assets within an organization are cared for through sound and timely decision-making. The methodology of Reliability Centered Maintenance will be used to describe a process that can be used to establish maintenance plans. The main thrust of the course will be to focus on techniques, such as Weibull analysis and life cycle costing, that can be use to optimize a range of decisions associated with systems maintenance.\u00a0 Exercises will be undertaken using the RelCode, PERDEC, AGE/CON and EXAKT software for the optimization of physical asset maintenance decisions. The lectures will be supplemented by case studies.(Lead Instructor: Andrew Jardine, Toronto)", 
+        "subject": "DM", 
+        "number": "813", 
+        "title": "System Maintenance Dm-1013"
+    }
+}

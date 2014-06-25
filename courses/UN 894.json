@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "UNENE course number = UN 1001 Corrosion and its costs, corrosion measurement, general materials and environment affects. Types of corrosion: uniform, galvanic, crevice, pitting, intergranular, selective leaching, erosion-corrosion, stress-corrosion, hydrogen effects. Corrosion testing: materials selection. Electrochemical principles: thermodynamics, electrode kinetics, mixed potentials, practical applications. High temperature corrosion. Nuclear plant corrosion, fossil plant corrosion, other industrial environments. University of Toronto/D. Lister", 
+        "subject": "UN", 
+        "number": "894", 
+        "title": "Reactor Chemistry & Corrosion"
+    }
+}

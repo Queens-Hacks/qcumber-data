@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "An introduction to political science that provides both a framework for thinking about politics and the institutions of governance, and some of the vocabulary necessary for political analysis.", 
+        "subject": "POLS", 
+        "number": "110B", 
+        "title": "Introduction to Politics and Government"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "5372", 
+        "subject": "GPHY", 
+        "status": "Open", 
+        "course": "346", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "PRA", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-PRA (5372)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Chen, Dongmei"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T12:30:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM E223"
+        }
+    ]
+}

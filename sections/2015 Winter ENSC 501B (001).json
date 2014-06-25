@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4130", 
+        "subject": "ENSC", 
+        "status": "Open", 
+        "course": "501B", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "IND", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-IND (4130)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Cumming, Brian Fraser"
+            ], 
+            "end_time": "1900-01-01T00:00:00", 
+            "start_time": "1900-01-01T00:00:00", 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

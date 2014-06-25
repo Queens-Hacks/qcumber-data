@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Spring", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "Rheology provides a valuable tool for the assessment of the processability of polymers in various operations, as well as the identification of their structure. This 6 week (3 hours/week) module will discuss the fundamental relations between the rheology and structure of polymers and the principles of rheometry. M. Kontopoulou (0.25 weight)", 
+        "subject": "CHEE", 
+        "number": "901", 
+        "title": "Polymer Rheology"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2001", 
+        "subject": "MBUS", 
+        "status": "Closed", 
+        "course": "873", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2001)", 
+    "classes": [
+        {
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-17T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

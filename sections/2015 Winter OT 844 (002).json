@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "4244", 
+        "subject": "OT", 
+        "status": "Open", 
+        "course": "844", 
+        "year": "2015", 
+        "solus_id": "002", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LAB (4244)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

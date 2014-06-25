@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Software system engineering. Essential elements of requirements. Natural and formal language specification. Software process models. Mathematical foundations. Model-oriented specification styles: informal (data flow, control flow, process-based, data models, object-oriented); operational (process-based, state machine, data models); set theory and logic. Property-oriented specification style: trace-based; event-based; abstract data type. Refinement of requirements to components. Tool support. Case studies. Three term-hours; lectures.", 
+        "subject": "CISC", 
+        "number": "845", 
+        "title": "Requirements Specs & Design"
+    }
+}

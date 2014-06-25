@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7593", 
+        "subject": "PRAC", 
+        "status": "Open", 
+        "course": "190A", 
+        "year": "2013", 
+        "solus_id": "500", 
+        "type": "PRA", 
+        "season": "Fall"
+    }, 
+    "_unique": "500-PRA (7593)", 
+    "classes": [
+        {
+            "term_end": "2013-12-20T00:00:00", 
+            "term_start": "2013-09-04T00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

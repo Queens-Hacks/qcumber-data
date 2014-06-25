@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 31, 
+            "Eng Sci": 11, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Concept of computational design including the choice of the objective function, equality and inequality constraints, and analysis methods; one-dimensional search methods, sensitivity analysis, and the steepest descent method. The principles of the finite element method and its application to stress analysis of mechanical components. NOTE: Enrollment is limited.", 
+        "subject": "MECH", 
+        "number": "465", 
+        "title": "Computer Aided Design"
+    }
+}

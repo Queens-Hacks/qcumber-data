@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Tutorial": "Required", 
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The nature of selected animal virus groups and their interactions with the host in disease production with special emphasis on the pathogenesis of tumor and human immunodeficiency viruses will be considered. (Offered in alternate years to BMED-850* and concurrently with MICR-451* with additional work required). Fall term, two lecture hours, two seminars hours, one tutorial hour. L. Raptis.\u00a0\u00a0 EXCLUSIONs: MICR-451* , MICR-851*", 
+        "subject": "BMED", 
+        "number": "851", 
+        "title": "Selected Topics in Viral Pathogenesis"
+    }
+}

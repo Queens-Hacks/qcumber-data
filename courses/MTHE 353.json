@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: STAT 251 or MTHE 351 or STAT 351 and APSC 174 and MTHE 281 or MATH 281", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 36, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Intermediate probability theory as a basis for further study in mathematical statistics and stochastic processes; probability measures, expectations; modes of convergence of sequences of random variables; conditional expectations; independent systems of random variables; Gaussian systems; characteristic functions; Law of large numbers, Central limit theory; some notions of dependence.", 
+        "subject": "MTHE", 
+        "number": "353", 
+        "title": "Probability II"
+    }
+}

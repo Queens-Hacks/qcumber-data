@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2091", 
+        "subject": "BIOL", 
+        "status": "Closed", 
+        "course": "404", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2091)", 
+    "classes": [
+        {
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-02T00:00:00", 
+            "instructors": [
+                "Seroude, Laurent"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

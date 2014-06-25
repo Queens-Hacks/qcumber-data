@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: (ENCH 211 OR CHEM 211) AND (ENCH 212 OR CHEM 212) AND (ENCH 245 OR CHEM 245) and registered in BSCE", 
+        "CEAB": {
+            "Basic Sci": 24, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 12, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The first part examines chemical contaminants in the atmosphere, water, soils and sediments, including sources, behaviour, transport, and distribution among these environments. The second part introduces Green Chemistry, examining industrial sources of contaminants and the modification of industrial processes in order to minimize environmental impact.", 
+        "subject": "ENCH", 
+        "number": "326", 
+        "title": "Environmental&Green Chemistry"
+    }
+}

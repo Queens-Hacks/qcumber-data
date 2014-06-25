@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2106", 
+        "subject": "DRAM", 
+        "status": "Open", 
+        "course": "273", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-SEM (2106)", 
+    "classes": [
+        {
+            "term_end": "2014-08-26T00:00:00", 
+            "term_start": "2014-08-12T00:00:00", 
+            "instructors": [
+                "Stephenson, Jenn"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

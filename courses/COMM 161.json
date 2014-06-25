@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is designed to enhance your ability to apply advanced mathematical techniques including: linear algebra, differential and integral calculus, optimization, probability theory and computer modelling to tackle a wide range of managerial problems. It is assumed that students have taken Ontario Grade 12 calculus or its equivalent.", 
+        "subject": "COMM", 
+        "number": "161", 
+        "title": "Intro To Mathematical Analysis"
+    }
+}

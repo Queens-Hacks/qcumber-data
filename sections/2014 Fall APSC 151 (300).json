@@ -1,0 +1,33 @@
+{
+    "basic": {
+        "class_num": "4099", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "151", 
+        "year": "2014", 
+        "solus_id": "300", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "300-LAB (4099)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM102"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 3, 
+            "location": "MILLER RM106"
+        }
+    ]
+}

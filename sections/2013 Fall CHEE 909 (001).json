@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "7172", 
+        "subject": "CHEE", 
+        "status": "Open", 
+        "course": "909", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-SEM (7172)", 
+    "classes": [
+        {
+            "term_end": "2013-10-18T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Docoslis, Aristides"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 1, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2013-10-18T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Docoslis, Aristides"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 3, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2013-10-18T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Docoslis, Aristides"
+            ], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "TBA"
+        }
+    ]
+}

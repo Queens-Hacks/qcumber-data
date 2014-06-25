@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The fundamentals of polymerization kinetics are reviewed. The equations for batch and continuous flow reactors are developed and used in the calculation of polymerization rate and polymer quality measures. Process parameters which affect reaction rate, chain composition and molecular weight distribution are examined, and the design of polymer reactor systems is discussed. Consideration is also given to the problems of reactor design in heterophase polymerization.\u00a0M.F. Cunningham or R.A. Hutchinson", 
+        "subject": "CHEE", 
+        "number": "828", 
+        "title": "Polymer Reaction Engineering"
+    }
+}

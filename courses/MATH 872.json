@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Optimal control of stochastic systems with applications to engineering systems and applied mathematics. Topics include development of control laws by dynamic programming, complete and partial information, estimation, state-space models, linear Gaussian systems, Kalman Filtering, controlled Markov chain models, stability of Markovian processes, optimality equations for average infinite-horizon cost, discounted cost and finite-horizon optimization problems, non-linear filtering, machine learning and inference, Martingales, convergence of optimal policies, dual effect of control, convex analytic approach, numerical methods, value and policy iteration with some programming in Matlab to synthesize control policies. (Offered jointly with MATH 472.)\u00a0 Three term hours, fall or winter; lectures.", 
+        "subject": "MATH", 
+        "number": "872", 
+        "title": "Control Of Stochastic Systems"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Spring", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course introduces students to a range of quantitative and qualitative methods and helps them understand their use and limitation in policy research. Students will apply selected techniques, interpret data, assess results and report findings relating to specific policy issues. Open to PMPA students only.", 
+        "subject": "MPA", 
+        "number": "806", 
+        "title": "Analytical Tools for Policy Research"
+    }
+}

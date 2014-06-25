@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "typically_offered": "Fall, Winter", 
+        "enrollment_requirement": "MUSC255", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Guidance in the development of the student as a composer of electroacoustic music. \r\nNOTE\u00a0\u00a0\u00a0 Students must submit in writing to the School of Music Office their request to apply for this course by the last day of classes in the Winter Term.", 
+        "subject": "MUSC", 
+        "number": "355A", 
+        "title": "Electroacoustic Composition"
+    }
+}

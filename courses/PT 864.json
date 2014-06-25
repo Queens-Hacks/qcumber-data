@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "Students will gain knowledge about and demonstrate entry-level proficiency in the rehabilitation of patients with conditions resulting in movement dysfunction from multiple causes. This course is comprised of four modules on physical therapy assessment and intervention for clients with i) rheumatic diseases: ii) lower extremity amputations; iii) burn injury and iv) HIV infection and/or AIDS. Lab component.", 
+        "subject": "PT", 
+        "number": "864", 
+        "title": "Multifactor Dysfunction"
+    }
+}

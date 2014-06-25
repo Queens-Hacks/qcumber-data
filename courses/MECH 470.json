@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH371 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course focuses on the elastic-plastic deformation of metals as it relates to the fabrication of stock materials, the manufacture of components and in-service material performance. Methods for describing and analyzing elastic-plastic behaviour, at both macroscopic and microscopic length-scales, are presented. Additional topics include the measurement and prediction of forming limits, the effects of deformation rate and temperature on plastic flow, and mechanisms of ductile failure. In the final portion of the course, the concept of microstructural design is introduced and then reinforced through a series of case studies.", 
+        "subject": "MECH", 
+        "number": "470", 
+        "title": "Deformation Processing"
+    }
+}

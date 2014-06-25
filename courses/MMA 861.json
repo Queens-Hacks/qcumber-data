@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "In this course, we explore the use of analytical methods in management problem-solving and highlight organizational and contextual issues.\u00a0 We study how to construct an analytical model of a problem that can be manipulated or solved to identify a decision that yields the best outcome, according to one or more carefully defined criteria.\u00a0 The challenges of selling and implementing model results in an organizational context will be explored through mini-cases and illustrations.\u00a0 We study both deterministic models \u00bf those that assume that the variables and outcomes in a decision problem are known with certainty \u00bf and stochastic models, which introduce elements of uncertainty or risk.\u00a0 We will examine examples of models of each type that are used in current practice.", 
+        "subject": "MMA", 
+        "number": "861", 
+        "title": "Analytical Decision Making"
+    }
+}

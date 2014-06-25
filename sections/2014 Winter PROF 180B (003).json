@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "7022", 
+        "subject": "PROF", 
+        "status": "Open", 
+        "course": "180B", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-LEC (7022)", 
+    "classes": [
+        {
+            "term_end": "2014-01-07T00:00:00", 
+            "term_start": "2014-01-07T00:00:00", 
+            "instructors": [
+                "Kutsyuruba, Benjamin"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 2, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-04-22T00:00:00", 
+            "term_start": "2014-04-22T00:00:00", 
+            "instructors": [
+                "Kutsyuruba, Benjamin"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 2, 
+            "location": "TBA"
+        }
+    ]
+}

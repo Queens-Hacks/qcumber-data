@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "1285", 
+        "subject": "LAW", 
+        "status": "Open", 
+        "course": "689", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-SEM (1285)", 
+    "classes": [
+        {
+            "term_end": "2014-01-28T00:00:00", 
+            "term_start": "2014-01-07T00:00:00", 
+            "instructors": [
+                "Green, Leslie John Mackie"
+            ], 
+            "end_time": "1900-01-01T20:30:00", 
+            "start_time": "1900-01-01T17:30:00", 
+            "day_of_week": 2, 
+            "location": "MACDONALD RM515"
+        }, 
+        {
+            "term_end": "2014-01-30T00:00:00", 
+            "term_start": "2014-01-09T00:00:00", 
+            "instructors": [
+                "Green, Leslie John Mackie"
+            ], 
+            "end_time": "1900-01-01T21:00:00", 
+            "start_time": "1900-01-01T18:00:00", 
+            "day_of_week": 4, 
+            "location": "MACDONALD RM202"
+        }
+    ]
+}

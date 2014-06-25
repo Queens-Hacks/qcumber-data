@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "(NURS101 AND PSYC100) OR (NURS101 AND PHIL1###) OR (NURS101 AND NURS102) OR (NURS101 AND NURS100) OR (NURS101 AND MICR121) OR (NURS101 AND IDIS150) OR (NURS101 AND BCHM102)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduces common health challenges and implications for care using the life span as a principal variable. Begin to establish basic nursing knowledge needed to care for clients whose health and independence have been disrupted. Learn to think critically in identifying probable physical and psychosocial responses of individuals and families coping with illness and hospitalization. Emphasizes evidence-based nursing management of clients. Knowledge from related disciplines provides the basis for nursing care. Introduces the concept of critical pathways. Health challenges may include pain, fluid and electrolyte imbalance, the peri-operative experience, infection, common cardiovascular and respiratory problems and sensory alterations.\u00a03 hours lecture/week; 9 units (3 credits) course weight.", 
+        "subject": "NURS", 
+        "number": "205", 
+        "title": "Commn Chalng & Implicat Care I"
+    }
+}

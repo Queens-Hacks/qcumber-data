@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "enrollment_requirement": "PSYC220 OR COGS200 OR PSYC221", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A discussion of some areas in natural scene perception. Topics that will be discussed include: speeded processing of scene gist, the neural basis of scene perception, attention and eye movements, visual search and memory in real-world contexts, as well as some discussion of other more applied research related to the processing of real-world scenes.", 
+        "subject": "PSYC", 
+        "number": "423", 
+        "title": "Selected Topics in Real-World Scene Perception"
+    }
+}

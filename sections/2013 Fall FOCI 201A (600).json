@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8447", 
+        "subject": "FOCI", 
+        "status": "Open", 
+        "course": "201A", 
+        "year": "2013", 
+        "solus_id": "600", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "600-LEC (8447)", 
+    "classes": [
+        {
+            "term_end": "2013-10-27T00:00:00", 
+            "term_start": "2013-10-25T00:00:00", 
+            "instructors": [
+                "Bell, Nicole"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

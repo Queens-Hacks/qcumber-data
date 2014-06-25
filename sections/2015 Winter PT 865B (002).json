@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "3339", 
+        "subject": "PT", 
+        "status": "Open", 
+        "course": "865B", 
+        "year": "2015", 
+        "solus_id": "002", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LAB (3339)", 
+    "classes": [
+        {
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Booth, Randal Allen"
+            ], 
+            "end_time": "1900-01-01T18:00:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 3, 
+            "location": "ACTON RM21"
+        }, 
+        {
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Booth, Randal Allen"
+            ], 
+            "end_time": "1900-01-01T18:00:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 4, 
+            "location": "ACTON RM21"
+        }
+    ]
+}

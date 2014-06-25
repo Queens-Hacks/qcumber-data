@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 54, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "Elastic prototypes are developed to investigate stress conditions around mine openings. Failure theories are discussed and used to explain fracture patterns. Stereographic methods of three dimensional analysis are introduced. The presence of fault and joint development in large rock masses dictates the use of broader engineering methods than those based entirely on idealized conditions. Techniques based on empirical knowledge and supported by available theory are presented, including slope stability, open pit design, tunnels, underground structural design, rock foundations, ground water, rock bursts and bumps, and design hazards. Various instrumentation of interest is discussed.", 
+        "subject": "MINE", 
+        "number": "325", 
+        "title": "Applied Rock Mechanics"
+    }
+}

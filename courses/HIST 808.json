@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This seminar approaches the economic, sociology and culture of capitalism from a global and historical perspective. Departing from an examination and critique of the European canon (Smith, Marx, and Weber)\u00a0 students will explore themes, question assumptions and develop a new understanding of the global dimensions of economic change and the resulting relations of power and inequality between peoples and within societies. E. Hill and A. Salzmann.", 
+        "subject": "HIST", 
+        "number": "808", 
+        "title": "Capitalism: A Historical View"
+    }
+}

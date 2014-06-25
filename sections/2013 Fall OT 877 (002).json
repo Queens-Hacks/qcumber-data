@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8993", 
+        "subject": "OT", 
+        "status": "Closed", 
+        "course": "877", 
+        "year": "2013", 
+        "solus_id": "002", 
+        "type": "FLD", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-FLD (8993)", 
+    "classes": [
+        {
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Murphy, Susanne L"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

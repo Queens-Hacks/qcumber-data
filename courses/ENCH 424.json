@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: CHEM 223 or ENCH 245 or CHEM 245 and registered in BSCE", 
+        "CEAB": {
+            "Basic Sci": 36, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Specific properties of polymers (glass transition, crystallinity, polydispersity, etc) and their dependence on macromolecular structure and isomerism. Polymer synthesis overview: step and chain polymerization (free-radical, ionic and insertion mechanisms) and reactions on polymers. Examples of polymers and their uses. Offered alternating years with ENCH 425 (CHEM 425).", 
+        "subject": "ENCH", 
+        "number": "424", 
+        "title": "Polymer Chemistry"
+    }
+}

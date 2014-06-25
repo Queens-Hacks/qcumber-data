@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "(A grade of C in ECON 222/3.0) and ECON 255/3.0 and (MATH 120/6.0 or MATH 121/6.0 or MATH 122/6.0 or [MATH 123/3.0 and MATH 124/3.0] or MATH 126/6.0).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An advanced study of the determinants of aggregate demand and the structure of Keynesian and new classical models. Policy issues covered include crowding out, choice of monetary policy instruments, and monetary policy and the exchange rate.", 
+        "subject": "ECON", 
+        "number": "320", 
+        "title": "Macroeconomic Theory II"
+    }
+}

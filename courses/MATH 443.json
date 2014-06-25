@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (MATH310 or MATH313) and (MATH328 or [MATH326 with permission of the Department]).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topological equivalence and topological invariants; homotopy and the fundamental group; covering spaces; homotopy type; Brower's fixed point theorem; triangularization; homology and cohomology groups.", 
+        "subject": "MATH", 
+        "number": "443", 
+        "title": "Algebraic Topology"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 40, 
+            "Eng Sci": 0, 
+            "Comp St": 14
+        }, 
+        "course_components": {
+            "Project": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENPH 344 or PHYS 344 & ENPH 351 OR ENPH 354\r\nExclusions: ENPH OR PHYS 450", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "This course provides engineering physics students with a complete experience in advanced design and implementation. Working in groups, students undertake a large design project of their choice that reflects and further develops their knowledge of physics and engineering design. The students then build a prototype of their design to demonstrate the feasibility of project within the design constraints.", 
+        "subject": "ENPH", 
+        "number": "454", 
+        "title": "Advanced Engineering Physics Design Project"
+    }
+}

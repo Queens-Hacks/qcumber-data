@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0\u00a0 No more than 1 course from PHIL111; PHIL127; PHIL151.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An examination of some major milestones in the development of philosophical thought. The course will involve both the exposition of texts and discussion of the philosophical issues which they raise.", 
+        "subject": "PHIL", 
+        "number": "151", 
+        "title": "Great Works of Philosophy"
+    }
+}

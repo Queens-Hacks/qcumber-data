@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 BIOL201 and BIOL202. Prior to registering in the course students must complete the application process, be placed in a module and complete the field work.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "One week of field work plus written assignments in one or two areas of study to be done when specialized modules are available in May, July, August or February.\u00a0Studies may include ecology of birds, fish, insects, small mammals, plants, tundra and taiga, lakes and caves.\u00a0The schedule of offerings for each year is available in January.\r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost of each module and the schedule of offerings for each year is available in January.", 
+        "subject": "BIOL", 
+        "number": "308", 
+        "title": "Field Studies in Biology I"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The development of basic airflow models and complex ventilation networks are discussed in depth, and practical design studies using computerized techniques are developed. Topics related to ventilation calculation and design include: mine regulations and engineering design criteria, basic and complex circuit evaluation and design, natural ventilation, fan selection, auxiliary ventilation design, ventilation surveys and ventilation economics. The total environment of mines and air quality control are studied in detail, and include mine gases, mine dust, heat control and radiation hazard and control in mines.\u00a0 Three term-hours, fall term; lectures. E.M. de Souza", 
+        "subject": "MINE", 
+        "number": "814", 
+        "title": "Advanced Ventilation and Environmental Mine Engineering"
+    }
+}

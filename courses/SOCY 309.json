@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C- in SOCY122.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from SOCY304; SOCY309", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Provides a critical introduction to surveillance and the emerging interdisciplinary field of Surveillance Studies.\u00a0 Offers an historically-grounded, theoretically-informed, and empirically-illustrated survey of the practices, technologies and social relations of surveillance from different perspectives, with an emphasis on the socio-political dimensions.", 
+        "subject": "SOCY", 
+        "number": "309", 
+        "title": "Surveillance and Society"
+    }
+}

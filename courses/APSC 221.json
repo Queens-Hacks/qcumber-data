@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "APSC221 excludes APSC321 and COMM244.\u00a0 Registration in a BSCE Academic Program or an SODE-P-BCH Academic Plan is required.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 36
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will provide the student in the Engineering program with the ability to appropriately incorporate selected economic and business practices into the practice of engineering. The practices covered include: business planning for the enterprise, enterprise economic analysis, project management process, project economic analysis, risk analysis and management, quality management and change management. Assignments and examples are based on situations from engineering based industries.", 
+        "subject": "APSC", 
+        "number": "221", 
+        "title": "Economic And Business Practice"
+    }
+}

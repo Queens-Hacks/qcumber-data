@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7357", 
+        "subject": "MBUS", 
+        "status": "Closed", 
+        "course": "952", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (7357)", 
+    "classes": [
+        {
+            "term_end": "2013-10-11T00:00:00", 
+            "term_start": "2013-08-11T00:00:00", 
+            "instructors": [
+                "Jackson, Richard"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

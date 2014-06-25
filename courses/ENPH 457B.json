@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 32, 
+            "Eng Sci": 48, 
+            "Comp St": 28
+        }, 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "enrollment_requirement": "ENPH 457: Prequisite of ENPH 456 and Exclusion of ENPH 455 A&B", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "9.00"
+    }, 
+    "basic": {
+        "description": "Continuation of ENPH 456. Upon completion of their thesis, students must give oral and written presentations to an examining committee. Grades will be based on the quality of the analysis of the problem, the proposed solution, and written and oral presentations. Demonstration of effective written and oral communications skills is\r\nrequired.", 
+        "subject": "ENPH", 
+        "number": "457B", 
+        "title": "Advanced Engineering Physics Thesis II"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Exclusions:\u00a0 MIR 894 / MPA 803.\r\nPrerequisite: A- in MIR 893 or MPA 801", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This course provides a foundation in applied statistics for students studying management, policy analysis, and related areas. The aim is to provide students with the knowledge of analytical methods required to effectively and responsibly interpret, assess and use statistical\r\nanalysis conducted by others. Prerequisite: MPA-801. Restriction: open to students who do not attain a minimum grade of \u00bfA-\u00bf in MPA-801 or MIR-893; 1.5 credit hours, Offered jointly with MIR-894.", 
+        "subject": "MPA", 
+        "number": "803", 
+        "title": "Applied Analytical Methods II"
+    }
+}

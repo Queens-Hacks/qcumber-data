@@ -1,0 +1,33 @@
+{
+    "basic": {
+        "class_num": "3592", 
+        "subject": "GEOE", 
+        "status": "Open", 
+        "course": "333", 
+        "year": "2014", 
+        "solus_id": "005", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "005-LAB (3592)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "BRUCE RM234A"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "BRUCE RM352"
+        }
+    ]
+}

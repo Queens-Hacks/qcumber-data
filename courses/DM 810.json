@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The objectives of this course are to develop a basic understanding of machine intelligence and explore modern tools in designing intelligent manufacturing systems. Through the lectures, on-site visit, reading assignments, and course project(s) the participants will examine how knowledge-based systems (KBSs) and learning systems can effectively improve the performance of machine tools, work cells, and overall manufacturing enterprises.\u00a0 At the end of the course each student should be able to: - Identify the basic components of manufacturing automation - View modern manufacturing automation as an intelligent system - Summarize the benefits of flexible manufacturing and open-architecture controllers - Describe how laser material removal processes can improve product quality - Understand how knowledge-based system (KBS) technology can improve manufacturing enterprises- Appreciate the role of knowledge acquisition in designing intelligent automation - Describe the basic operation of artificial neural networks (ANNs) - Design simple neural networks for signal processing, control, and pattern classification applications - Understand the essentials of fuzzy sets and systems - Apply fuzzy logic to intelligent control, production planning and scheduling - Evaluate object oriented and relational data bases - Describe fuzzy data mining and clustering (Lead Instructor: George Knopf, Western Ontario)\u00a0", 
+        "subject": "DM", 
+        "number": "810", 
+        "title": "Intelligent Manufacturing"
+    }
+}

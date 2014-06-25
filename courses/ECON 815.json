@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The first half of this course discusses the computation of aggregate variables and introduces students to dynamic models of long-run growth: the Solow model, the neoclassical growth model, overlapping generations models, and endogenous growth models.\u00a0 These are used to study long-run policy issues and the determinants of cross-country differences in per capita income and growth.\u00a0 The second half of the course introduces the student to real business cycle models and to the micro-foundations of models of nominal rigidities and non-market clearing.\u00a0 These are used to study the nature of short-run fluctuations and to evaluate macroeconomic policies related to stabilization, inflation, unemployment and the public debt.", 
+        "subject": "ECON", 
+        "number": "815", 
+        "title": "Macroeconomic Theory"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "enrollment_requirement": "Prerequiste of APSC111, APSC171, APSC172 and APSC174 and a corequisite of (MATH235 or MATH237 or MATH226) and registered in a BSCE Acdemic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 51, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.30"
+    }, 
+    "basic": {
+        "description": "This course introduces the circuit analysis techniques which are used in subsequent courses in electronics, power, and signals and systems. Circuits containing resistance, capacitance, inductance, and independent and dependent voltage and current sources will be studied. Emphasis is placed on DC, AC, and transient analysis techniques.", 
+        "subject": "ELEC", 
+        "number": "221", 
+        "title": "Electric Circuits"
+    }
+}

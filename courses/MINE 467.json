@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "MINE 467 Prerequisite:\u00a0 Mine 326 or permission of the instructor", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 16, 
+            "Eng Des": 24, 
+            "Eng Sci": 14, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "This course introduces those principals of geostatistics used in evaluating grade distribution in orebodies from drillhole data. Basic concepts of spatial distributions, sampling, distance weighted averages, and variograms are covered. Cases from practice will be employed to illustrate concepts. Use of commercially available software to carry out geostatistical calculations and graphical representation will be made. Utilizing these techniques, students will develop a block model of ore grade distribution for an orebody and then apply this model to a mine pre-feasibility study in a subsequent course.", 
+        "subject": "MINE", 
+        "number": "467", 
+        "title": "Geostatistics and Orebody Modelling"
+    }
+}

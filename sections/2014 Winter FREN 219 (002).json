@@ -1,0 +1,42 @@
+{
+    "basic": {
+        "class_num": "3476", 
+        "subject": "FREN", 
+        "status": "Open", 
+        "course": "219", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "SEM", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-SEM (3476)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 5, 
+            "location": "KINGSTON RM205"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 2, 
+            "location": "KINGSTON RM304"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T10:00:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "KINGSTON RM304"
+        }
+    ]
+}

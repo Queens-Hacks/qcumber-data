@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8289", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "854", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (8289)", 
+    "classes": [
+        {
+            "term_end": "2014-04-14T00:00:00", 
+            "term_start": "2014-03-31T00:00:00", 
+            "instructors": [
+                "Detomasi, David"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

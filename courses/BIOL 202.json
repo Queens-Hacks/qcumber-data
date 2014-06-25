@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A survey of animals, their internal organization and their relationships to their environment. Organismal biology is discussed in a phylogenetic context and the evolution of organizational complexity and the relations between structure and function are stressed. \r\nNOTE\u00a0\u00a0\u00a0 Lab Manual: estimated cost $30.", 
+        "subject": "BIOL", 
+        "number": "202", 
+        "title": "Diversity of Life II"
+    }
+}

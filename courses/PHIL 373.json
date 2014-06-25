@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Completed 60.0 or more units.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This lecture course provides an analysis of key figures and texts in continental European philosophy between 1900 and 1960.\u00a0 Possible figures include Edmund Husserl, Martin Heidegger, Karl Jaspers, Gabriel Marcel, Hannah Arendt, and Hans-Georg Gadamer.\u00a0 Possible topics include phenomenology, existentialism, and hermeneutics.", 
+        "subject": "PHIL", 
+        "number": "373", 
+        "title": "Continental Philosophy, 1900-1960"
+    }
+}

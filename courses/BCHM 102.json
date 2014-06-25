@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "typically_offered": "Winter", 
+        "enrollment_requirement": "Exclusion\u00a0 No more 3.0 units from BCHM102; BCHM315\nExclusion\u00a0 No more 3.0 units from BCHM102; BCHM316\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from BCHM102; BCHM310\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from BCHM102; BCHM270.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Chemical principles as applied to biochemistry, human and clinical biochemistry. \r\nNOTE\u00a0\u00a0\u00a0 Primarily intended for students in Nursing. Arts and Science students require permission of the Department.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Chemistry.", 
+        "subject": "BCHM", 
+        "number": "102", 
+        "title": "Introduction to Biochemistry"
+    }
+}

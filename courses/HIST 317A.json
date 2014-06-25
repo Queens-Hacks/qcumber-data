@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "typically_offered": "Fall, Winter", 
+        "enrollment_requirement": "PREREQUISTE\u00a0\u00a0\u00a0 Registration in a HIST Major or Medial Plan.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "A survey of the history of Africa south of the Sahara from the late stone age to the break-up of formal European colonization of the continent.", 
+        "subject": "HIST", 
+        "number": "317A", 
+        "title": "History of Africa South of the Sahara"
+    }
+}

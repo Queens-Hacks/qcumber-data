@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "5467", 
+        "subject": "NURS", 
+        "status": "Open", 
+        "course": "206", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (5467)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Machan, Hilary"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 1, 
+            "location": "CATARAQUI\u00a0 RM221 SIM LAB"
+        }
+    ]
+}

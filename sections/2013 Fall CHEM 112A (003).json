@@ -1,0 +1,59 @@
+{
+    "basic": {
+        "class_num": "2243", 
+        "subject": "CHEM", 
+        "status": "Open", 
+        "course": "112A", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LEC (2243)", 
+    "classes": [
+        {
+            "term_end": "2013-10-18T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Mosey, Nicholas J"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 1, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2013-10-18T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Mosey, Nicholas J"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 3, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-10-21T00:00:00", 
+            "instructors": [
+                "Carran, John"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 1, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-10-21T00:00:00", 
+            "instructors": [
+                "Carran, John"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 3, 
+            "location": "BIOSCI AUD"
+        }
+    ]
+}

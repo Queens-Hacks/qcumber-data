@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL232 or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The theory and practical aspects of the techniques of X-ray powder diffraction and scanning electron microscopy are studied. Other techniques including Mossbauer,\u00a0 infra-red spectroscopy, and nuclear magnetic resonance spectroscopy will also be covered. An extensive term project is required where the student employs these techniques to study a material of their choice. \r\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.", 
+        "subject": "GEOL", 
+        "number": "452", 
+        "title": "Instrumental Techniques Applied to the Study of Solids"
+    }
+}

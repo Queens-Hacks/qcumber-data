@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "6091", 
+        "subject": "SOCY", 
+        "status": "Open", 
+        "course": "325", 
+        "year": "2013", 
+        "solus_id": "005", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "005-TUT (6091)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "MACINTOSH-CORRY RM A309"
+        }
+    ]
+}

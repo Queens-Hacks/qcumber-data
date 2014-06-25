@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "The course provides an overview of current geological engineering problems and innovative solutions, and relies on guest speakers, most of whom are practicing professional engineers. Topics such as professional practice and liability, engineering ethics, provincial and national environmental legislation, and the Occupational Health and Safety Act are presented and discussed. Guest lecture topics may include: buying and selling professional services, water supply management, contaminant abatement and/or remediation, management of engineering construction. Starting in Fall 2009, a one-day field exercise in engineering surveying methods will be held early in the term. (0/0/7/5/30)", 
+        "subject": "GEOL", 
+        "number": "445", 
+        "title": "Site Invest. & Case Histories"
+    }
+}

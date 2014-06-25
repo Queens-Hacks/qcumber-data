@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4389", 
+        "subject": "GPHY", 
+        "status": "Open", 
+        "course": "101", 
+        "year": "2013", 
+        "solus_id": "010", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "010-TUT (4389)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Davidson, Joyce"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM E229"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Completed 60.0 or more units.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This lecture course provides an analysis of key figures and texts in continental European philosophy from 1960 to the present.\u00a0 Possible figures include Michel Foucault, Jacques Derrida, Jurgen Habermas, Emmanuel Levinas, Jean-Francois Lyotard, and Julia Kristeva. Possible topics include hermeneutics, postmodernism, critical theory and feminism.", 
+        "subject": "PHIL", 
+        "number": "374", 
+        "title": "Continental Philosophy 1960-present"
+    }
+}

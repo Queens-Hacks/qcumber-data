@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topics covered include broadband and ultra wide band circuit design techniques with applications to wireless and lightwave systems.\u00a0 Broadband amplifiers, mixers and active filters are discussed through radio frequency, microwave and millimetre-wave techniques.\u00a0 Lightwave broadband adaptive filtering, transmitters and receivers are also discussed.\u00a0 Three term-hours; lectures\u00a0 A.P. Freundorfer.", 
+        "subject": "ELEC", 
+        "number": "852", 
+        "title": "Broadband Integrated Circuits"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Practicum": "Required"
+        }, 
+        "enrollment_requirement": "GPHY10## OR (BIOL102 AND BIOL103) OR (GEOL104 AND GEOL107) OR GEOL111 OR BIOL101 OR GPHY1UNS", 
+        "CEAB": {
+            "Basic Sci": 16, 
+            "Math": 4, 
+            "Eng Des": 6, 
+            "Eng Sci": 4, 
+            "Comp St": 6
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the basic principles, techniques, and practical issues in assessing, accessing, and maintaining data sources and database systems and related tools for the manipulation and analysis of data. Students will learn concepts of database management and computer programming and will apply these concepts to the preparation, manipulation, analysis, and presentation of spatial and tabular data.", 
+        "subject": "GISC", 
+        "number": "201", 
+        "title": "Foundations Of Gis"
+    }
+}

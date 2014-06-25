@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides an introduction to commonly used numerical assessment techniques (e.g. plastic collapse and FEA) and discusses the pros and cons of these techniques. Monitoring technologies (e.g. fibre optic sensors, conventional transducers etc.) are then investigated and discussed with a focus on supporting experimental work and assessment.", 
+        "subject": "CIVL", 
+        "number": "831", 
+        "title": "Assessment and Monitoring of Infrastructure"
+    }
+}

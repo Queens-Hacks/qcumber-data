@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "4589", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "174", 
+        "year": "2015", 
+        "solus_id": "100", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "100-LEC (4589)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Roth, Michael A"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 1, 
+            "location": "ELLIS AUD"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Roth, Michael A"
+            ], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "ELLIS AUD"
+        }, 
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Roth, Michael A"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 4, 
+            "location": "ELLIS AUD"
+        }
+    ]
+}

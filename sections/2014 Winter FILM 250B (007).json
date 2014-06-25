@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3408", 
+        "subject": "FILM", 
+        "status": "Open", 
+        "course": "250B", 
+        "year": "2014", 
+        "solus_id": "007", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "007-LAB (3408)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Redmond, Derek L"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 5, 
+            "location": "FILM RM109"
+        }
+    ]
+}

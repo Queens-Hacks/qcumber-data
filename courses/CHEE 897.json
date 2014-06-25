@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter, Summer", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Graduate students working on theses must give a seminar on their research. The seminar carries no course credit but all graduate students are required to attend.", 
+        "subject": "CHEE", 
+        "number": "897", 
+        "title": "Chemical Eng. Seminar"
+    }
+}

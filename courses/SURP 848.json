@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines analytic techniques and design approaches used in physical planning (topography, activity, circulation, etc.). The application of these techniques and methods will be demonstrated through specific community design projects such as subdivision design, re-zoning and visual images.\u00a0\u00a0", 
+        "subject": "SURP", 
+        "number": "848", 
+        "title": "Community Design"
+    }
+}

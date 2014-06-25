@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of GPHY101 or permission of department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines how geographers understand the global economic system. Topics include globalization, regional economic integration, transnational production and marketing strategies of firms, new patterns of consumption, the rise of the service economy, and work and employment in the new economy.", 
+        "subject": "GPHY", 
+        "number": "228", 
+        "title": "Geography of the Global Political Economy"
+    }
+}

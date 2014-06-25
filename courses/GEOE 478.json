@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 238 or GEOL 238 or permission of the department. Must be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 26, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 16, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Detailed examination of depositional processes and external controls on the facies organization and sequence stratigraphy of fluvial, coastal, shelf, and deep-marine environments. Introduction to sedimentary basin types.", 
+        "subject": "GEOE", 
+        "number": "478", 
+        "title": "Terrigenous Sedimentology"
+    }
+}

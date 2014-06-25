@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHGY 210/6.0 or PHYG212 or PHGY 214/6.0.\r\nCOREQUISITE\u00a0\u00a0\u00a0 BCHM 310/6.0 or BCHM 315/3.0. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from PHAR 340/3.0; PHAR 341/3.0.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topics include: fundamental principles of drug action, autonomic nervous system pharmacology, and toxicology.", 
+        "subject": "PHAR", 
+        "number": "340", 
+        "title": "Principles of General Pharmacology I"
+    }
+}

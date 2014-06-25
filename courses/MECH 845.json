@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduction to the finite-element method; utilization of the direct approach for simple problems; brief discussion of the variational approach; the method of weighted residuals; Galerkin's Method; applications to heat conduction; elements and shape functions; inviscid fluid flow; creeping flow; solutions to the Navier-Stokes equation; discussion of a sample computer code. Three term-hours, lectures. P.H. Oosthuizen.\u00a0", 
+        "subject": "MECH", 
+        "number": "845", 
+        "title": "Thermo Fluid Engineering"
+    }
+}

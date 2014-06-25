@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Tutorial": "Required", 
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Lectures, tutorial sessions, laboratory project, and self-directed critical analysis of a current research area in Pharmacology. Topics include: principles of drug action, autonomic and autacoid pharmacology, and toxicology. Fall; 3 lecture hours and 3 laboratory hours.\u00a0 K. Nakatsu\nEXCLUSION: PHAR-340*, PHAR-840*.\u00a0 Permission of the Graduate Program required.", 
+        "subject": "BMED", 
+        "number": "840", 
+        "title": "Principles of General Pharmacology I"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or above.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from HIST213; HIST253; HIST240.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Examines the rise of the welfare state since 1945 in North America and Western Europe. Topics include broad trends like deindustrialization, globalization, the rise of inequality, and social mobility. Specific policies discussed concern health care, pensions, unemployment, families, taxation, immigration, higher education, and public housing.", 
+        "subject": "HIST", 
+        "number": "213A", 
+        "title": "Comparative Public Policy"
+    }
+}

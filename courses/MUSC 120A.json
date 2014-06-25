@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0 Permission of the School\r\nCorequisite\u00a0\u00a0\u00a0 MUSC125\r\nEXCLUSION\u00a0 No more than 6.0 units from MUSC 120/6.0; MUSC 121/6.0", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "A first year study of the student's applied subject (instrument or voice) in the performance concentration. \nNOTE\u00a0 Open only to students who have demonstrated a considerably higher level of performance ability than the minimum required for B.Mus. admission.", 
+        "subject": "MUSC", 
+        "number": "120A", 
+        "title": "Applied Study I (Performance)"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "3188", 
+        "subject": "ENGL", 
+        "status": "Open", 
+        "course": "100B", 
+        "year": "2014", 
+        "solus_id": "022", 
+        "type": "TUT", 
+        "season": "Winter"
+    }, 
+    "_unique": "022-TUT (3188)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:30:00", 
+            "day_of_week": 4, 
+            "location": "MACINTOSH-CORRY RM D216"
+        }
+    ]
+}

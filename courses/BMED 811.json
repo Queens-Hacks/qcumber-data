@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course concentrates on the molecular biology of mammalian models particularly mechanisms involved in human diseases. The human genome project, forensic analysis, DNA diagnostics of human diseases, models of transcriptional and growth regulation and cancer, DNA repair, RNA processing and translation are all discussed. Emphasis on recent findings and course materials will be drawn from current reviews. Three lecture hours per week.\u00a0 Winter. C. Mueller.\u00a0 Offered jointly with BCHM-411* with additional work required.\u00a0 PREREQUISITE: BCHM-310 or 315*/316*/317* or permission of the instructor EXCLUSION: BCHM-411, BCHM-811*.", 
+        "subject": "BMED", 
+        "number": "811", 
+        "title": "Advanced Molecular Biology"
+    }
+}

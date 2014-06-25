@@ -1,0 +1,48 @@
+{
+    "basic": {
+        "class_num": "1434", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "171", 
+        "year": "2014", 
+        "solus_id": "900", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "900-LEC (1434)", 
+    "classes": [
+        {
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-13T00:00:00", 
+            "instructors": [
+                "Fiori, Andrew"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 1, 
+            "location": "JEFFERY RM128"
+        }, 
+        {
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-13T00:00:00", 
+            "instructors": [
+                "Fiori, Andrew"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 3, 
+            "location": "JEFFERY RM128"
+        }, 
+        {
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-13T00:00:00", 
+            "instructors": [
+                "Fiori, Andrew"
+            ], 
+            "end_time": "1900-01-01T09:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "JEFFERY RM128"
+        }
+    ]
+}

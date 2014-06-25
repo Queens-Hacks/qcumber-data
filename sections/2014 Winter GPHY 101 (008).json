@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3806", 
+        "subject": "GPHY", 
+        "status": "Closed", 
+        "course": "101", 
+        "year": "2014", 
+        "solus_id": "008", 
+        "type": "TUT", 
+        "season": "Winter"
+    }, 
+    "_unique": "008-TUT (3806)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Davidson, Joyce"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM A311"
+        }
+    ]
+}

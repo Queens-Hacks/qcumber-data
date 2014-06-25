@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON212", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An analytical course covering topics in labour supply analysis, the economics of human capital, labour demand, the operation of labour markets, the economic behaviour and effect of unions, and selected aspects of wage structure.", 
+        "subject": "ECON", 
+        "number": "360", 
+        "title": "Labour Economics"
+    }
+}

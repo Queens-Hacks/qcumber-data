@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 MATH280 and MATH281 and MATH231.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The classical calculus of variations: the Gateaux variation, necessary conditions, transversality, corner conditions, Euler-Lagrange multiplier theorem; applications to Hamiltonian mechanics and the Maximum Principle. Given jointly with MATH 832/3.0.", 
+        "subject": "MATH", 
+        "number": "432", 
+        "title": "Variational Methods"
+    }
+}

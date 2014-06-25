@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: PHYS 350 or ENPH 351 or PHYS 351 and ENPH 344 or PHYS 344 and ENPH 345 or PHYS 345 and registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 11, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 20, 
+            "Comp St": 11
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course provides students in Engineering Physics with experience in a range of advanced experimental techniques and analysis. A balanced selection of experiments are performed from fields including nuclear physics, applied physics, solid state physics, low temperature physics, and optics.", 
+        "subject": "ENPH", 
+        "number": "453", 
+        "title": "Advanced Physics Laboratory"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 BIOL330 or BCHM218 or MBIO218 or MBIO318.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The use of genetic analysis to understand developmental processes such as cell fate determination, pattern formation and morphogenesis. Emphasis will be on the molecular pathways used during embryonic development, highlighting applications and techniques using model organisms.", 
+        "subject": "BIOL", 
+        "number": "430", 
+        "title": "Molecular Genetics of Development"
+    }
+}

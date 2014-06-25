@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2434", 
+        "subject": "COMM", 
+        "status": "Open", 
+        "course": "357", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-LEC (2434)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Rowbotham, Kate"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 4, 
+            "location": "GOODES RM 103"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 36, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prereq CHEE 210", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course covers concepts of equilibrium electrochemistry and examines the structure of the electrode\u00bfsolution interface. It discusses the basics of electron transfer and derives electrochemical kinetics equations. It shows examples of several electrochemical reactions and overviews experimental methods used to study electrochemical phenomena.", 
+        "subject": "ENCH", 
+        "number": "415", 
+        "title": "Electrochemistry and Electrocatalysis"
+    }
+}

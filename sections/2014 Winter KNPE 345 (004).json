@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4108", 
+        "subject": "KNPE", 
+        "status": "Open", 
+        "course": "345", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "004-LAB (4108)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Torcolacci, Melody"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 4, 
+            "location": "TBA"
+        }
+    ]
+}

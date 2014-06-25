@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the fabled world of Byzantium. The course surveys key aspects of Byzantine political history, society and culture. It traces the transformation of the empire from its origins in third century Rome into the 'other' middle ages of the Eastern Mediterranean and the Balkans ending with the fall of Constantinople in 1453.", 
+        "subject": "HIST", 
+        "number": "218", 
+        "title": "Byzantium"
+    }
+}

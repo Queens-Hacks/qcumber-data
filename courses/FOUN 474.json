@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Restricted to BED/DED Program", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides an overview of learning and development from childhood through adolescence. Topics such as learning theories, cognitive processes, individual differences, motivation, multiple intelligences, and memory are considered in relation to schooling. As well, aspects that may impact learning such as sociocultural contexts, classroom management, mental health issues and support systems are discussed.", 
+        "subject": "FOUN", 
+        "number": "474", 
+        "title": "Learning and Development"
+    }
+}

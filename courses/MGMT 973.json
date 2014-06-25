@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines research on management support systems. Management support systems is a major stream in information systems research covering such topics as decision support systems, group support systems, recommender systems for management, systems to support virtual teams, and knowledge management systems. The course explores the nature, role, and impacts of these systems on individuals and groups in the organization. Research in this area is diverse, covering a variety of theoretical bases, research methods, and reference discipline perspectives.", 
+        "subject": "MGMT", 
+        "number": "973", 
+        "title": "Advanced Topics in Management Support Systems"
+    }
+}

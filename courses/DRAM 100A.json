@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Exclusion\u00a0 No more than 6.0 units from DRAM100; DRAM181", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "An exploration of stage production, acting, directing, playwriting, theatre history, dramatic analysis and criticism through use of plays chosen from various periods and representing different styles and genres. Opportunities given for practical projects.", 
+        "subject": "DRAM", 
+        "number": "100A", 
+        "title": "Introduction to the Theatre"
+    }
+}

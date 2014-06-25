@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1327", 
+        "subject": "NURS", 
+        "status": "Open", 
+        "course": "492", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "PRA", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-PRA (1327)", 
+    "classes": [
+        {
+            "term_end": "2014-08-29T00:00:00", 
+            "term_start": "2014-06-23T00:00:00", 
+            "instructors": [
+                "Pulling, Cheryl Anne"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

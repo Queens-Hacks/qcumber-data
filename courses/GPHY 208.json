@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "GPHY100 OR GPHY102 OR GPHY1U##", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Physical and chemical processes at the earth's surface that result in the development of landscapes and their soils. Topics include soil formation and weathering, erosion, and deposition by water, wind, and ice.\r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $25.", 
+        "subject": "GPHY", 
+        "number": "208", 
+        "title": "Principles of Geomorphology and Pedology"
+    }
+}

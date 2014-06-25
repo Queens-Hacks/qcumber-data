@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 27, 
+            "Eng Sci": 27, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "This course introduces the analysis and design of microwave components and systems. Topics include: modelling of high frequency circuits; transmission lines; scattering parameters; impedance matching; passive microwave components; amplifiers, mixers and oscillators; noise in receivers; elemental antennas and simple and phased arrays;\u00a0 communication links - microwave land, cellular and satellite systems; performance and link budget analysis.", 
+        "subject": "ELEC", 
+        "number": "483", 
+        "title": "Microwave & Rf Circuits & Syst"
+    }
+}

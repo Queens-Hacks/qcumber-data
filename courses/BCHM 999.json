@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter, Summer", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "All courses are half-courses which are offered either in the fall or winter term if there is sufficient student interest. Detailed outlines of course content are available during the summer of each year. Most courses are offered in alternate years.", 
+        "subject": "BCHM", 
+        "number": "999", 
+        "title": "Ph.D. Thesis Research"
+    }
+}

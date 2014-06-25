@@ -1,0 +1,35 @@
+{
+    "basic": {
+        "class_num": "1437", 
+        "subject": "APSC", 
+        "status": "Open", 
+        "course": "151", 
+        "year": "2013", 
+        "solus_id": "304", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "304-LAB (1437)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Hanes, John A"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "MILLER RM102"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "MILLER RM106"
+        }
+    ]
+}

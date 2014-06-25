@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2155", 
+        "subject": "THEO", 
+        "status": "Open", 
+        "course": "703", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2155)", 
+    "classes": [
+        {
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00", 
+            "instructors": [
+                "Holmes, Pamela"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "8440", 
+        "subject": "GEOL", 
+        "status": "Open", 
+        "course": "238", 
+        "year": "2013", 
+        "solus_id": "006", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "006-LAB (8440)", 
+    "classes": [
+        {
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

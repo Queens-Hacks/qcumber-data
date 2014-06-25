@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8800", 
+        "subject": "CUST", 
+        "status": "Open", 
+        "course": "890", 
+        "year": "2013", 
+        "solus_id": "005", 
+        "type": "IND", 
+        "season": "Fall"
+    }, 
+    "_unique": "005-IND (8800)", 
+    "classes": [
+        {
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Krull, Catherine"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

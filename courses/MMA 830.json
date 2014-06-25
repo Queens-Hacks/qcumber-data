@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Pricing and Revenue Optimization (PRO) focuses on how a firm should set and update pricing and product availability decisions across its various selling channels in order to maximize its profitability. Through a combination of case studies, lectures and guest speakers, this course reviews the main methodologies of analytical pricing and surveys current practices in different industries. The ultimate goal is for students to learn to identify and exploit opportunities for PRO in different business contexts.\u00a0 Within the broader area of pricing theory, the course places particular emphasis on tactical optimization of pricing and capacity allocation decisions, tackled using quantitative models of consumer behavior (for example, captured via appropriate price-response relations), demand forecasts and market uncertainty, and the tools of constrained optimization -- the two main building blocks of PRO systems.", 
+        "subject": "MMA", 
+        "number": "830", 
+        "title": "Pricing Analytics"
+    }
+}

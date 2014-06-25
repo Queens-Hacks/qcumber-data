@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Level 3 or above & registration in a DEVS plan or registration in any Applied Science Program) or permission of the department", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to the socio-economic, cultural and political factors surrounding technology and its relationship to the development process in both advanced industrial societies and developing nations. Student project groups will focus on particular realms of technology in development and the interaction of politics and policy with technological choice and design, including appropriate, intermediate and sustainable technologies.", 
+        "subject": "DEVS", 
+        "number": "330", 
+        "title": "Technology and Development"
+    }
+}

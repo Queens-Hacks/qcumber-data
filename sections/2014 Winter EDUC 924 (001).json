@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "7781", 
+        "subject": "EDUC", 
+        "status": "Open", 
+        "course": "924", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (7781)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Wade-Woolley, Lesly"
+            ], 
+            "end_time": "1900-01-01T15:00:00", 
+            "start_time": "1900-01-01T12:00:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A301N"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Wade-Woolley, Lesly"
+            ], 
+            "end_time": "1900-01-01T15:00:00", 
+            "start_time": "1900-01-01T12:00:00", 
+            "day_of_week": 3, 
+            "location": "DUNCAN MCARTHUR RM A301S"
+        }
+    ]
+}

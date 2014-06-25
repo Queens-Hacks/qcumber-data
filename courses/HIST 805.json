@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This field seminar will survey the social, political, economic, cultural, and intellectual history of the British colonies that became Canada from roughly the founding of Halifax in 1749 to the Confederation era. Topics may include British imperialism, Native-newcomer relations, the development of neo-British settler societies, and the new social relations and institutional structures of an emerging capitalist and liberal order.", 
+        "subject": "HIST", 
+        "number": "805", 
+        "title": "British North America, c. 1749-1880"
+    }
+}

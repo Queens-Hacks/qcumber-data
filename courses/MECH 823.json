@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is an overview of the research in MEMS and BioMEMS, particularly including microactuators, microsensors and their applications. Fundamentals of photolithography, wet and dry etching, and surface micromachining will be covered. Design methodologies together with fabrication processes will be emphasised through case studies. A design project will be used to enhance the understanding of the relevant theories that are covered in class. By the end of the course, students will be expected to demonstrate mastery of several different modelling techniques for microsystems and understand the mechanisms of microsystems. Three term-hours, lectures. Y. Lai", 
+        "subject": "MECH", 
+        "number": "823", 
+        "title": "Micro-Electro-Mech. Sys.(Mems)"
+    }
+}

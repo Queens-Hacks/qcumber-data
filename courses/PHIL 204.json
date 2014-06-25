@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 6.0 units in PHIL", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An examination of whether life has 'meaning', and a consideration of different philosophical interpretations of the meaning of life, the significance of death for the meaning of life, and whether it even makes sense to speak of life as having meaning.", 
+        "subject": "PHIL", 
+        "number": "204", 
+        "title": "Life, Death, and Meaning"
+    }
+}

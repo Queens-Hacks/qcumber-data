@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "CHEM221", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course covers four major topics. 1. The thermodynamic properties of interfaces (surface energy, wetting, surface area and porosity, capillary effects, work of adhesion/cohesion). 2. Models of adsorption/desorption phenomena.\u00a03. The dynamics of phase transitions (meta-stability, nucleation, spinoidal decomposition). 4. The stability and characterization of colloidal systems. Student appreciation for the importance of these phenomena is cultivated using examples drawn from industrial processes/products including inks, paints, foods, polymer blends, and nanocomposites.", 
+        "subject": "CHEM", 
+        "number": "347", 
+        "title": "Applied Surface and Colloid Science"
+    }
+}

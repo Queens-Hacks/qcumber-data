@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "4726", 
+        "subject": "NURS", 
+        "status": "Open", 
+        "course": "405", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-SEM (4726)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "STIRLING RM412B"
+        }
+    ]
+}

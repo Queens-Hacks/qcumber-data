@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "These courses constitute an introduction to the practical aspects of clinical assessment. In PSYC-805* students are given skills training and practice in the use of tests of adult intelligence, memory and vocational counseling. In PSYC-806* the emphasis is on tests of children's intelligence, learning and affect. Fall and winter (2 hrs)", 
+        "subject": "PSYC", 
+        "number": "805", 
+        "title": "Introductory Assessment"
+    }
+}

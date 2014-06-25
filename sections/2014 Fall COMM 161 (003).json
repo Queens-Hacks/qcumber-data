@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "1322", 
+        "subject": "COMM", 
+        "status": "Open", 
+        "course": "161", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LEC (1322)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Rogers, Keith W"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "GOODES RM153"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Rogers, Keith W"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 5, 
+            "location": "GOODES RM153"
+        }
+    ]
+}

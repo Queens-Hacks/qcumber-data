@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "A critical review of the current research literature with strong emphasis on student discussions and presentations. Topics are selected from recent examples in the literature and may include light-matter interactions, nanostructures, surface probe studies, computational methods and other examples in physical chemistry and molecular physics. Fall. P. Loock.", 
+        "subject": "CHEM", 
+        "number": "819", 
+        "title": "Topics In Phys & Theo Chem"
+    }
+}

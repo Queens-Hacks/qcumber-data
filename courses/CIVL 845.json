@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "Overview of equilibrium and classical plasticity; failure criteria; flow rule and elastic plastic constitutive response; inelastic finite element analysis; modelling and solution of geotechnical engineering problems. (1.5 credit units)", 
+        "subject": "CIVL", 
+        "number": "845", 
+        "title": "Geotechnical analysis 2:\u00a0 Inelastic analysis"
+    }
+}

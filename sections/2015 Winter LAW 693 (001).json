@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1207", 
+        "subject": "LAW", 
+        "status": "Open", 
+        "course": "693", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-SEM (1207)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

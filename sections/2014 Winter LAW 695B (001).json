@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1247", 
+        "subject": "LAW", 
+        "status": "Closed", 
+        "course": "695B", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-SEM (1247)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Stewart, Georgiana Mary Frances"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 3, 
+            "location": "MACDONALD RM515"
+        }
+    ]
+}

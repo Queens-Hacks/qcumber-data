@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "6053", 
+        "subject": "SOCY", 
+        "status": "Open", 
+        "course": "122A", 
+        "year": "2013", 
+        "solus_id": "028", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "028-TUT (6053)", 
+    "classes": [
+        {
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 3, 
+            "location": "WALTER LIGHT RM212"
+        }
+    ]
+}

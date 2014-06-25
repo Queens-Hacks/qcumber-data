@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "(Technological Education candidates only)The Ontario College of Teachers requires that teachers gaining certification in technological education demonstrate \"proof of... competence in the area... of technological studies selected as an option in the program of professional education.\" Technological competence is demonstrated by completing an individualized program, typically in the form of projects, which permits each candidate to broaden and deepen their range of skills. A Technical Skills profile is used to track the range and level of skills.", 
+        "subject": "FOCI", 
+        "number": "213", 
+        "title": "Broad-Based Technological Ed"
+    }
+}

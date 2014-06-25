@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 249 or GEOL 249 and MTHE 232 or MATH 232 or permission of department. Must also be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 12, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 24, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Techniques of geophysics (including gravity, magnetic, electrical, and seismic) applied to engineering problems, including resource exploration and site investigation. Physical principles, instrumentation, field procedures, data interpretation, and design of field programs are covered for each of the major methods.", 
+        "subject": "GEOE", 
+        "number": "319", 
+        "title": "Applied Geophysics"
+    }
+}

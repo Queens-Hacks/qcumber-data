@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Undergraduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Project": "Required"
+        }, 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "The student registered in this course works on a research project under the supervision of an ECE faculty member. The project is designed for completion in one session, with a project proposal describing the research submitted at the beginning, and a major report and presentation of the work at the end of the session.", 
+        "subject": "ELEC", 
+        "number": "497", 
+        "title": "Research Project"
+    }
+}

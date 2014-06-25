@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A laboratory-based course designed to explore in greater depth a sub-group of the techniques studied in PHGY-840* and involving at least two full weeks of intensive laboratory work.\u00a0 The techniques will be chosen to complement the student's graduate research. Winter or Spring/summer term.\u00a0\u00a0R.J. MacLeod.\u00a0 Not offered 2010-2011.", 
+        "subject": "PHGY", 
+        "number": "841", 
+        "title": "Digestive Sciences II"
+    }
+}

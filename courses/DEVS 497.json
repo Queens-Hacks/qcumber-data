@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite Level 4 and registration in DEVS MAJ or MED plan", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Seminars offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each year.\r\nNOTE\u00a0\u00a0\u00a0 Taught concurrently with DEVS 807/3.0.", 
+        "subject": "DEVS", 
+        "number": "497", 
+        "title": "Topics in Development Studies IV"
+    }
+}

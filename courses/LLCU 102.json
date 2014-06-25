@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 LLCU101 in same language.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Continuation of LLCU 102/3.0: offering a basic level of understanding, speaking, reading and writing in the language. The specific language will be announced on the Department of Languages, Literatures and Cultures web page.", 
+        "subject": "LLCU", 
+        "number": "102", 
+        "title": "Beg Language & Culture II"
+    }
+}

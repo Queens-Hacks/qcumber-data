@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "EXCLUSION\u00a0 No more than 3.0 units from ANAT100/3.0; ANAT101/32.0; IDIS150/6.0\r\nOne-WAY EXCLUSION\u00a0 May not be taken with or after:\u00a0 ANAT215/3.0; ANAT216/3.0; ANAT312/3.0; ANAT315/3.0; ANAT316/3.0", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A basic anatomy course with an emphasis on clinical relevance of structure and function of human body systems.\u00a0\r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $40.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Biology.", 
+        "subject": "ANAT", 
+        "number": "101", 
+        "title": "Introductory Human Anatomy"
+    }
+}

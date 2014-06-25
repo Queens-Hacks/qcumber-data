@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "OT862:(Corequisite OT861 or permission of course coordinator) and (Prerequisite OT847 of permission of course coordinator)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "This fieldwork course will allow students to explore opportunities for the development of occupational therapy services in potential settings within the community. Co-requisite: OT-861* or permission of the course coordinator; Prerequisites: OT-847 or permission of the course coordinator.", 
+        "subject": "OT", 
+        "number": "862", 
+        "title": "Community Development (CR6)"
+    }
+}

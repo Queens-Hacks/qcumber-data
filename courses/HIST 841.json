@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A study of important issues in American history from the Revolution to the Civil War. The first half of the course will be devoted to historiography-important articles, books, and schools of thought. The second half of the course will focus on the preparation and presentation of a major research paper.", 
+        "subject": "HIST", 
+        "number": "841", 
+        "title": "U.S. History to 1900"
+    }
+}

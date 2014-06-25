@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Thesis Research": "Required"
+        }, 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "Research leading to a dissertation of 70-100 pages will usually involve the collection and analysis of primary data and be of publishable quality. Such data could include oral interviews, archival and other documentary sources, in some cases collected through field work.", 
+        "subject": "DEVS", 
+        "number": "899", 
+        "title": "Master's Thesis"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A thematic examination of some of the social, cultural, religious and intellectual aspects of colonial societies in North America in the 17th, 18th and early 19th centuries. Special emphasis is placed on issues surrounding race, gender and status and how differing peoples and cultures interacted over time and in specific places and cultural contexts. Three term hours; fall and winter. J. Errington.", 
+        "subject": "HIST", 
+        "number": "843", 
+        "title": "Colonial North Amer. Societies"
+    }
+}

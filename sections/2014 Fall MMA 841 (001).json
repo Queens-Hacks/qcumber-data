@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7718", 
+        "subject": "MMA", 
+        "status": "Open", 
+        "course": "841", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (7718)", 
+    "classes": [
+        {
+            "term_end": "2014-12-17T00:00:00", 
+            "term_start": "2014-11-05T00:00:00", 
+            "instructors": [
+                "Chen, Chialin"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

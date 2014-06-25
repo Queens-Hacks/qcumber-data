@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "The theory and practice of scanning probe techniques, including scanning tunneling microscopy (STM) and atomic force microscopy (AFM) and related techniques. Applications to modern research in surface and interfacial chemistry. Not offered 2010-2011.", 
+        "subject": "CHEM", 
+        "number": "918", 
+        "title": "Scanning Probe Methods"
+    }
+}

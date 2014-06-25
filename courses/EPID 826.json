@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This half term course (involving 39 hours of instruction) is required for students enrolled in the Masters of Public Health Program in the Department of Community Health and Epidemiology in the second year of their program. This course examines the determinants of health from a population health perspective including social, cultural, and economic factors; physical environmental factors; personal health practices; individual coping skills; and health services. Three term hours, fall; every year.\u00a0B. Alvarado-Llano.", 
+        "subject": "EPID", 
+        "number": "826", 
+        "title": "Determinants Of Health"
+    }
+}

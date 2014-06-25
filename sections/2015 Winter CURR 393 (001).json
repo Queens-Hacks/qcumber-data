@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "7840", 
+        "subject": "CURR", 
+        "status": "Open", 
+        "course": "393", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (7840)", 
+    "classes": [
+        {
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM B219"
+        }, 
+        {
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 1, 
+            "location": "DUNCAN MCARTHUR RM B219"
+        }
+    ]
+}

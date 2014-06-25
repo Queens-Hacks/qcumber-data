@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "X-ray diffraction theory, crystal symmetry and International Tables in space groups. Not offered 2010-2011.", 
+        "subject": "CHEM", 
+        "number": "860", 
+        "title": "X-Ray Crystallography I"
+    }
+}

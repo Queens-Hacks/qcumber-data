@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of Level 3 and (GPHY240 or GPHY247 or KNPE251 or PHED251), or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Current issues in disease ecology and health care delivery systems. Emphasis on patterns of incidence, cultural and environmental associations, spread and control of infectious diseases, comparisons of health care delivery systems, and accessibility to health services.", 
+        "subject": "GPHY", 
+        "number": "339", 
+        "title": "Medical Geography"
+    }
+}

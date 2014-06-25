@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course presents an introduction to the design of RF and microwave circuits using silicon technologies. Topics include: an overview of silicon technologies; the design of passive structures including transmission lines, inductors, and couplers; considerations in the layout of active devices; examples of the design of circuit components on silicon; system design including integrated system-on-chip designs; and a look at the future of silicon high-speed circuits.\u00a0 Three term-hours, lectures; Winter.\u00a0 B. Frank", 
+        "subject": "ELEC", 
+        "number": "853", 
+        "title": "Silicon Rf & Microwave Circuit"
+    }
+}

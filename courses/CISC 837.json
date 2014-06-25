@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course describes fundamental techniques, principles and technologies associated with network traffic and Quality of Service (QoS) management. The Broadband Integrated Services architecture and Asynchronous Transfer Mode are described. TCP/IP flow and congestion control and the Integrated and Differentiated Services architectures and their accompanying protocols and techniques for QoS management are detailed. The course includes studies of end-to-end resource management across heterogeneous domains and platforms.\u00a0 H. Hassanein \u00a0\u00a0", 
+        "subject": "CISC", 
+        "number": "837", 
+        "title": "Computer Networks"
+    }
+}

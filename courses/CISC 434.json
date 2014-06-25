@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 CISC324 or ELEC377", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Distributed systems goals, characteristics, and architectures. Processes: models, inter-process communication and coordination. Name services. Consistency and replication. Fault tolerance: design for reliable communication and recovery. Security. Development paradigms based on data types: object, file, and web-based systems.", 
+        "subject": "CISC", 
+        "number": "434", 
+        "title": "Distributed Systems"
+    }
+}

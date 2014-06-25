@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7165", 
+        "subject": "IDIS", 
+        "status": "Open", 
+        "course": "150B", 
+        "year": "2014", 
+        "solus_id": "005", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "005-LAB (7165)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Easteal, Ronald Albert"
+            ], 
+            "end_time": "1900-01-01T12:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 1, 
+            "location": "MEDS RM302 - Anatomy"
+        }
+    ]
+}

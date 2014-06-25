@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8059", 
+        "subject": "BCHM", 
+        "status": "Closed", 
+        "course": "822", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (8059)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Cote, Graham P"
+            ], 
+            "end_time": "1900-01-01T12:00:00", 
+            "start_time": "1900-01-01T09:00:00", 
+            "day_of_week": 3, 
+            "location": "BOTTER RM660"
+        }
+    ]
+}

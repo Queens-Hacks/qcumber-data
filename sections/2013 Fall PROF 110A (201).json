@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7371", 
+        "subject": "PROF", 
+        "status": "Open", 
+        "course": "110A", 
+        "year": "2013", 
+        "solus_id": "201", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "201-LEC (7371)", 
+    "classes": [
+        {
+            "term_end": "2013-12-04T00:00:00", 
+            "term_start": "2013-09-05T00:00:00", 
+            "instructors": [
+                "White, Anne F"
+            ], 
+            "end_time": "1900-01-01T11:00:00", 
+            "start_time": "1900-01-01T09:00:00", 
+            "day_of_week": 5, 
+            "location": "TBA"
+        }
+    ]
+}

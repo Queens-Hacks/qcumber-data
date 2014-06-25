@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2277", 
+        "subject": "PRAC", 
+        "status": "Closed", 
+        "course": "311", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "PRA", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-PRA (2277)", 
+    "classes": [
+        {
+            "term_end": "2014-06-27T00:00:00", 
+            "term_start": "2014-05-05T00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

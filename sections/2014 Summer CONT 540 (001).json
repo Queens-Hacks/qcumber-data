@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1855", 
+        "subject": "CONT", 
+        "status": "Open", 
+        "course": "540", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "ONL", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-ONL (1855)", 
+    "classes": [
+        {
+            "term_end": "2014-08-15T00:00:00", 
+            "term_start": "2014-06-30T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Methods for formulating mathematical models for engineering problems; examples drawn from dynamics, elasticity, fluid mechanics, heat transfer, and electro-mechanics; lumped-parameter and continuum models; variational techniques; boundary conditions and their effects on the character of the model; techniques for obtaining approximate solutions; methods for casting models into forms appropriate for solution on digital computers. Three term-hours, lectures. R.J. Anderson.\u00a0", 
+        "subject": "MECH", 
+        "number": "864", 
+        "title": "Engineering Analysis"
+    }
+}

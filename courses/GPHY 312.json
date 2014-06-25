@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Practicum": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of GPHY208 or 6.0 units in CHEM, or permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course examines the processes that govern the\u00a0flow and dissolved load in\u00a0surface waters.\u00a0Assignments focus on hydrological and hydrochemical data analysis and problem solving. Field projects emphasize hydrological monitoring techniques and methods used to collect and analyze the chemical composition of\u00a0 water samples.\r\nNOTE\u00a0\u00a0\u00a0 Field trips: estimated cost $50.", 
+        "subject": "GPHY", 
+        "number": "312", 
+        "title": "Watershed Hydrology"
+    }
+}

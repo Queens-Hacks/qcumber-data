@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "3333", 
+        "subject": "PT", 
+        "status": "Open", 
+        "course": "865B", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (3333)", 
+    "classes": [
+        {
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Booth, Randal Allen"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "BOTTER RM B147"
+        }
+    ]
+}

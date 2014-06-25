@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: APSC 131 and APSC 132", 
+        "CEAB": {
+            "Basic Sci": 54, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "An introduction to chemistry of main group inorganic and organic compounds with the use of fundamental quantum mechanics, molecular orbital diagrams and Lewis structures to describe the structure and bonding. The stereochemistry and chirality of organic compounds, solid-state inorganic chemistry, and descriptive chemistry of compounds of the main group elements will be covered. The laboratory will introduce skills in inorganic and organic synthesis. \r\nNOTE: Laboratory consumables: estimated cost $20.", 
+        "subject": "ENCH", 
+        "number": "211", 
+        "title": "Main Group Chemistry"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CISC325 or permission of the School\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CISC425; CMPE425", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Advanced user-interface styles such as eye-tracking input, digital desks, wearable computing, ubiquitous and context-aware computing, and tangible interfaces.", 
+        "subject": "CISC", 
+        "number": "425", 
+        "title": "Advanced User Interface Design"
+    }
+}

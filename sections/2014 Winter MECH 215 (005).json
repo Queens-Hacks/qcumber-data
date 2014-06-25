@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4364", 
+        "subject": "MECH", 
+        "status": "Open", 
+        "course": "215", 
+        "year": "2014", 
+        "solus_id": "005", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "005-LAB (4364)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Shirkhanzadeh, Morteza"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 2, 
+            "location": "BEAMISH-MUNRO RM214"
+        }
+    ]
+}

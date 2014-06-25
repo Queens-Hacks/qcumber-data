@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Undergraduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Graded", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "Seminar on a selected historical topic. Topics change from year to year; course is either being offered for the first time or is being taught by visiting faculty. Consult department office or website for details.", 
+        "subject": "HIST", 
+        "number": "400", 
+        "title": "Topics in History"
+    }
+}

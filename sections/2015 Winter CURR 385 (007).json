@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "7957", 
+        "subject": "CURR", 
+        "status": "Open", 
+        "course": "385", 
+        "year": "2015", 
+        "solus_id": "007", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "007-LEC (7957)", 
+    "classes": [
+        {
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Deir, Elspeth"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A232"
+        }, 
+        {
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00", 
+            "instructors": [
+                "Deir, Elspeth"
+            ], 
+            "end_time": "1900-01-01T10:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "DUNCAN MCARTHUR RM A232"
+        }
+    ]
+}

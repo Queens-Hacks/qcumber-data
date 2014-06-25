@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This seminar will focus on topics of current interest in the field. Subjects may include\u00a0combinatorial optimization methods, computational complexity,\u00a0decision theory, operations management, revenue management, or others. The intention of the seminar is to bring students to the leading edge of research in the field, and extensive use of current journals will be made.", 
+        "subject": "MGMT", 
+        "number": "964", 
+        "title": "Advanced Topics in Operations Research"
+    }
+}

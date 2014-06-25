@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Practicum": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GPHY247.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course offers an introduction to the theory and application of multivariate statistics to geographical data. Topics include regression and correlation analysis, ANOVA, spatial autocorrelation and other spatial statistics as well as geostatistical operations in GIS software.", 
+        "subject": "GPHY", 
+        "number": "347", 
+        "title": "Multivariate and Spatial Stats"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "An examination of the development of central debates in epistemology and metaphysics from the early modern period to the present. Focusing on the work of thinkers like Descartes, Kant, Wittgenstein and Quine, such questions as the nature and justification of knowledge, mind and body, personhood and community, truth and meaning will be discussed.", 
+        "subject": "PHIL", 
+        "number": "250B", 
+        "title": "Epistemology and Metaphysics"
+    }
+}

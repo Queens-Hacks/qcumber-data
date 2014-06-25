@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required", 
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "enrollment_requirement": "Corequisite of CIVL220 and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 36, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "The objective of this course is to achieve a knowledge and understanding of a wide variety of manufacturing processes involving plastics and metals. This course forms the basis for improved product and machine design, and will assist the mechanical engineer to function in the areas of design, manufacturing and general engineering. Training in the use of machine and welding tools found in a modern job shop is a required activity practiced in the machine tool laboratory. Note: It is highly advised that MME students take MECH 270 concurrently with this course.", 
+        "subject": "MECH", 
+        "number": "213", 
+        "title": "Manufacturing Methods"
+    }
+}

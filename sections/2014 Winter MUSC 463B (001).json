@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "4792", 
+        "subject": "MUSC", 
+        "status": "Open", 
+        "course": "463B", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LAB (4792)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Tomm, Karma"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

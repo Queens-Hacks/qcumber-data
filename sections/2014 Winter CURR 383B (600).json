@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7758", 
+        "subject": "CURR", 
+        "status": "Open", 
+        "course": "383B", 
+        "year": "2014", 
+        "solus_id": "600", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "600-LEC (7758)", 
+    "classes": [
+        {
+            "term_end": "2014-01-19T00:00:00", 
+            "term_start": "2014-01-17T00:00:00", 
+            "instructors": [
+                "Stargratt, Daniel"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

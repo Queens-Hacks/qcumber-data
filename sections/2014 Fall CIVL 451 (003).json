@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2890", 
+        "subject": "CIVL", 
+        "status": "Open", 
+        "course": "451", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LAB (2890)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Mulligan, Ryan"
+            ], 
+            "end_time": "1900-01-01T12:00:00", 
+            "start_time": "1900-01-01T09:30:00", 
+            "day_of_week": 4, 
+            "location": "TBA"
+        }
+    ]
+}

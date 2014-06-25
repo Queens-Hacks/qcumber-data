@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2035", 
+        "subject": "MUSC", 
+        "status": "Open", 
+        "course": "188", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LAB (2035)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Hanlon, Jeff"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "HARRISON-LECAINE RM229"
+        }
+    ]
+}

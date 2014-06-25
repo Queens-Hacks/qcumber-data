@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 or above and [(BIOL102 and BIOL103) or BIOL110 or (BIOL201 and BIOL202)].", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Why sex? The evolutionary origins and consequences of sex and sexual reproduction. Topics include costs and benefits of sexual reproduction, the evolution and coevolution of sexes, gametes and genitalia, mating systems, gender differences and sex determination throughout the biotic world.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 BIOL 205/3.0.", 
+        "subject": "BIOL", 
+        "number": "369", 
+        "title": "Biology of Sex"
+    }
+}

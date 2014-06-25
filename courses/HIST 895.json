@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Individual directed reading/tutorials under the guidance of a faculty member in an area of the instructor's expertise. The course is one semester in length and is normally to be held in the fall. NOTE: HIST-895* may not be counted for credit as fulfilling part of the minimum two-course requirements for History graduate students.", 
+        "subject": "HIST", 
+        "number": "895", 
+        "title": "Directed Reading"
+    }
+}

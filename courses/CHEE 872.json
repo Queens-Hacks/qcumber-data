@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is designed to appeal to students in all fields of this interdisciplinary field, from biomechanics to polymer chemistry. It will provide a thorough background in the underlying fundamental biological and polymer science principles involved in the use of polymers as medical materials. Topics include surface and bulk polymer properties, applications of polymeric biomaterials, the biological principles that dictate host response to a material, and biopolymer degradation. B.G. Amsden", 
+        "subject": "CHEE", 
+        "number": "872", 
+        "title": "Polymeric Biomaterials"
+    }
+}

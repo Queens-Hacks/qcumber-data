@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of B- in DRAM240 or permission of the Department.\r\nCorequisite\u00a0\u00a0\u00a0 DRAM200.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from DRAM240; DRAM242; DRAM245", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An examination of design elements in theatrical production, exploring the work of design practitioners and theorists, and studying the design process.", 
+        "subject": "DRAM", 
+        "number": "241", 
+        "title": "Design and Theatre"
+    }
+}

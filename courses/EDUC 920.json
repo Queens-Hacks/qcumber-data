@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A seminar course reviewing current research and theories of cognition and learning as applied to education. Topics will include cognitive processes, language, and development. Not offered 2010-2011.", 
+        "subject": "EDUC", 
+        "number": "920", 
+        "title": "Cognition And Learning"
+    }
+}

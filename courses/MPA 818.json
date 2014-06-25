@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "MPA only", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course addresses approaches to program evaluation and cost-benefit analysis commonly found in the clinical, health services and health policy contexts.", 
+        "subject": "MPA", 
+        "number": "818", 
+        "title": "Program Evaluation"
+    }
+}

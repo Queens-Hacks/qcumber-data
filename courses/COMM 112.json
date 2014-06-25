@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Fall", 
+        "enrollment_requirement": "(Prerequisite of COMM111 and registration in a BCOM Academic Program) or a COMM-X Academic Plan.\r\nexclusion\u00a0\u00a0 no more than 1 fr COMM112 and 212", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An examination of the internal accounting model and related information systems designed to keep the manager informed for the purposes of planning and controlling the organization's operations.", 
+        "subject": "COMM", 
+        "number": "112", 
+        "title": "Intro To Management Accounting"
+    }
+}

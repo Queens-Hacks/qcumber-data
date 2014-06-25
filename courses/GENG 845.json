@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "The course will be a one or two day short course on various topics in GeoEngineering and Applied Geoscience, as approved by the GeoEngineering Graduate Coordinator.\u00a0 Specific short courses will be available during each academic year as announced in September or as opportunities arise. (1.5 credit units)", 
+        "subject": "GENG", 
+        "number": "845", 
+        "title": "GeoEngineering Short Course- II"
+    }
+}

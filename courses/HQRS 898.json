@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The focus of this course is on the scholarship of integration, implementation, and application.\u00a0 Students will develop research skills to rigorously search for evidence on a clearly defined question, conduct a project, and present findings orally and in a major paper.\u00a0 The course will be guided by a faculty member at Queen\u00bfs University and or a mentor based in practice.\u00a0 Students will identify their project by the end of the first year so that if ethical and administrative approvals are required there will be plenty of time to complete the project by the end of the program.", 
+        "subject": "HQRS", 
+        "number": "898", 
+        "title": "Project in Healthcare Quality"
+    }
+}

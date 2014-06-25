@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1735", 
+        "subject": "BCHM", 
+        "status": "Open", 
+        "course": "317A", 
+        "year": "2013", 
+        "solus_id": "001", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LAB (1735)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T18:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "MEDS 400B - Microbiol & Bioche"
+        }
+    ]
+}

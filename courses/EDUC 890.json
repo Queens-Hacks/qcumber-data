@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to educational inquiry and its principal approaches. The course involves students in activities associated with educational inquiry, and is an initial preparation for thesis and project work. Because the course is introductory, it exposes students to the tools and conventions of educational inquiry: for example, library searches, use of primary and secondary sources, writing graduate assignments. Fall; L. Cheng & M. Welch.\u00a0 Summer; G. Roulet.", 
+        "subject": "EDUC", 
+        "number": "890", 
+        "title": "Introduction To Educational Research"
+    }
+}

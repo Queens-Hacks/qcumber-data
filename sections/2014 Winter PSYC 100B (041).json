@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "7251", 
+        "subject": "PSYC", 
+        "status": "Open", 
+        "course": "100B", 
+        "year": "2014", 
+        "solus_id": "041", 
+        "type": "TUT", 
+        "season": "Winter"
+    }, 
+    "_unique": "041-TUT (7251)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T19:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 1, 
+            "location": "HUMPHREY RM131"
+        }
+    ]
+}

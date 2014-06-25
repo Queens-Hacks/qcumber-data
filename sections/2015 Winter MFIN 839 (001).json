@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "5311", 
+        "subject": "MFIN", 
+        "status": "Closed", 
+        "course": "839", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (5311)", 
+    "classes": [
+        {
+            "term_end": "2015-02-15T00:00:00", 
+            "term_start": "2015-01-03T00:00:00", 
+            "instructors": [
+                "Gagnon, Louis"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

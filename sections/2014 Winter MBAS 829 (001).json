@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8346", 
+        "subject": "MBAS", 
+        "status": "Closed", 
+        "course": "829", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (8346)", 
+    "classes": [
+        {
+            "term_end": "2014-05-03T00:00:00", 
+            "term_start": "2014-03-22T00:00:00", 
+            "instructors": [
+                "Robertson, Blair"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

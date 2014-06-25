@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "CHEE 223 or MECH 241, or permission of the department.\u00a0 Must be registered in a BSCE academic program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "The design and manufacture of polymer products is reviewed, with particular emphasis on material selection and processing technology. The engineering properties of elastomers, thermoplastics, adhesives, fibres and coatings are discussed in terms of processing characteristics and end-use performance. Industrial processing operations such as extrusion, molding, mixing and film manufacture are presented in detail. The design component of the course requires students to select appropriate materials and processing methods for an engineering application. Examples include medical catheters, engine gaskets, drug capsules and biodegradable packaging. \u00a0", 
+        "subject": "CHEE", 
+        "number": "490", 
+        "title": "Polymer Forms & Proc Tech"
+    }
+}

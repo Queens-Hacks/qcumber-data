@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 CHIN200/6.0 or permission of the Department of Languages, Literatures and Cultures.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Continuing study of the functional usage of Mandarin Chinese with intensive training in listening, speaking, reading and writing using the simplified forms of Chinese characters.\u00a0 \r\nNOTE\u00a0\u00a0\u00a0 Students will have their level of competence assessed by the instructor during orientation week in September.", 
+        "subject": "CHIN", 
+        "number": "300A", 
+        "title": "Intermediate Mandarin Chinese"
+    }
+}

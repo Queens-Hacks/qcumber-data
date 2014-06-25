@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "2937", 
+        "subject": "CIVL", 
+        "status": "Open", 
+        "course": "460A", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "002-TUT (2937)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

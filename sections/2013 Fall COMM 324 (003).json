@@ -1,0 +1,37 @@
+{
+    "basic": {
+        "class_num": "2735", 
+        "subject": "COMM", 
+        "status": "Open", 
+        "course": "324", 
+        "year": "2013", 
+        "solus_id": "003", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "003-LEC (2735)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Suo, Wulin"
+            ], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "GOODES RM304"
+        }, 
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Suo, Wulin"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T16:00:00", 
+            "day_of_week": 4, 
+            "location": "GOODES RM304"
+        }
+    ]
+}

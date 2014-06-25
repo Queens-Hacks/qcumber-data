@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Studio": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "APSC 101& APSC 102 & APSC 103 Exclusions: APSC 100A & B, Permissions of the instructor or Assoc Dean", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 6, 
+            "Eng Des": 12, 
+            "Eng Sci": 18, 
+            "Comp St": 12
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "This course provides an opportunity for students to develop complex problem solving and critical thinking skills and to apply engineering science knowledge in modeling physical systems through computational software. Examples and\r\nproject topics are chosen to complement instruction in engineering science and mathematics courses. Ethical, economic, and social factors are considered in engineering problem solving.", 
+        "subject": "APSC", 
+        "number": "101", 
+        "title": "Problem solving and modeling"
+    }
+}

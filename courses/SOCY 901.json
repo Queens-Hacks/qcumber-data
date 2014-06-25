@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Core Course:\u00a0 All M.A. and Ph.D. students will normally be required to take this course.\u00a0 Ph.D. students who have already taken the course shall choose an appropriate replacement in consultation with the Graduate Coordinator. This course critically examines the main tenets of contemporary sociological theory. Key sociological concepts are studied in a variety of contexts spanning from the micro to macro levels of social action.\u00a0 Although heavily reliant on the main historical developments in sociology (Marx, Weber and Durkheim), emphasis is place on post Second World War II developments in sociological theory.", 
+        "subject": "SOCY", 
+        "number": "901", 
+        "title": "Sociological Theory"
+    }
+}

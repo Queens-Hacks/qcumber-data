@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "CHEE221 and BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Principles of momentum and energy transport are applied to the analysis of fluid systems commonly encountered in chemical engineering practice. This approach is via the macroscopic and differential balances of mass, momentum and energy. Topics include fluid statics; incompressible flow in closed conduits; flow and pressure measurement; transportation of fluids; laminar, turbulent and creeping\r\nflows; boundary layer effects; sizing of commercial components (piping, tubing, valves, pressure and flow meters and other fittings, as well as pumps) for fluid\r\ntransport systems in industrial settings.", 
+        "subject": "CHEE", 
+        "number": "223", 
+        "title": "Fluid Mechanics"
+    }
+}

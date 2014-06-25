@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An examination of the current developments in paleoclimatology. This seminar will focus on the role of external forcing mechanisms on climate, methods to calibrate proxy records to climate parameters, and the current state of knowledge in the field will be critically assessed. Climate variability at various time scales will be discussed, with an emphasis on records that provide information comparable with recent instrumental data. Three term-hours.", 
+        "subject": "GPHY", 
+        "number": "825", 
+        "title": "Paleoclimatology"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "basic": {
+        "class_num": "2162", 
+        "subject": "CHEM", 
+        "status": "Open", 
+        "course": "112B", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LEC (2162)", 
+    "classes": [
+        {
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Carran, John"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T15:30:00", 
+            "day_of_week": 4, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-17T00:00:00", 
+            "instructors": [
+                "Brown, Stephen"
+            ], 
+            "end_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "BIOSCI AUD"
+        }, 
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-17T00:00:00", 
+            "instructors": [
+                "Brown, Stephen"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T15:30:00", 
+            "day_of_week": 4, 
+            "location": "BIOSCI AUD"
+        }
+    ]
+}

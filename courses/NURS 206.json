@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Clinical": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "(NURS101 AND IDIS150) OR (NURS101 AND NURS100) OR (NURS101 AND NURS102) OR (NURS101 AND PHIL1###) OR (NURS101 AND BCHM102) OR (NURS101 AND MICR121) OR (NURS101 AND PSYC100)", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduces nursing practice caring for adults/elderly adults in stable health. This practicum course provides opportunities to apply learning from related nursing science and arts and science courses. Uses a nursing theory framework in practice. Develop relevant skills. Settings include a variety of agencies and nursing laboratories.\u00a08 hours clinical/laboratory per week; 8 units (3 credits) course weight.", 
+        "subject": "NURS", 
+        "number": "206", 
+        "title": "Intro To Nsg Care Adlts"
+    }
+}

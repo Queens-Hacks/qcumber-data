@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7270", 
+        "subject": "IDIS", 
+        "status": "Closed", 
+        "course": "302", 
+        "year": "2013", 
+        "solus_id": "007", 
+        "type": "TUT", 
+        "season": "Fall"
+    }, 
+    "_unique": "007-TUT (7270)", 
+    "classes": [
+        {
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00", 
+            "instructors": [
+                "Jack-Davies, Anita"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM D326"
+        }
+    ]
+}

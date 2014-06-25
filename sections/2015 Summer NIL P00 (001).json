@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1156", 
+        "subject": "NIL", 
+        "status": "Closed", 
+        "course": "P00", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (1156)", 
+    "classes": [
+        {
+            "term_end": "2015-06-14T00:00:00", 
+            "term_start": "2015-05-03T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

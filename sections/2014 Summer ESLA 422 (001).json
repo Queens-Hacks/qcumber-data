@@ -1,0 +1,96 @@
+{
+    "basic": {
+        "class_num": "2332", 
+        "subject": "ESLA", 
+        "status": "Open", 
+        "course": "422", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2332)", 
+    "classes": [
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 4, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 3, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 4, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 3, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 2, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }, 
+        {
+            "term_end": "2014-08-22T00:00:00", 
+            "term_start": "2014-08-01T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T16:00:00", 
+            "start_time": "1900-01-01T13:00:00", 
+            "day_of_week": 1, 
+            "location": "MACINTOSH-CORRY RM D211"
+        }
+    ]
+}

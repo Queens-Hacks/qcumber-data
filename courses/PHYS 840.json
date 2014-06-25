@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "A survey of instrumentation and techniques for astronomical ground and space-based observations. Topics include theory of measurement; imaging; interferometry and spectroscopy of electromagnetic radiation at radio, infrared, optical, and X-ray wavelengths; data analysis.", 
+        "subject": "PHYS", 
+        "number": "840", 
+        "title": "Astronomical Instrumentation"
+    }
+}

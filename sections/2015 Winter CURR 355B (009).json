@@ -1,0 +1,59 @@
+{
+    "basic": {
+        "class_num": "7883", 
+        "subject": "CURR", 
+        "status": "Open", 
+        "course": "355B", 
+        "year": "2015", 
+        "solus_id": "009", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "009-LEC (7883)", 
+    "classes": [
+        {
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "end_time": "1900-01-01T12:50:00", 
+            "start_time": "1900-01-01T10:50:00", 
+            "day_of_week": 5, 
+            "location": "DUNCAN MCARTHUR RM A227W"
+        }, 
+        {
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "end_time": "1900-01-01T12:50:00", 
+            "start_time": "1900-01-01T10:50:00", 
+            "day_of_week": 5, 
+            "location": "DUNCAN MCARTHUR RM A227E"
+        }, 
+        {
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "end_time": "1900-01-01T12:50:00", 
+            "start_time": "1900-01-01T10:50:00", 
+            "day_of_week": 5, 
+            "location": "DUNCAN MCARTHUR RM A227W"
+        }, 
+        {
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "end_time": "1900-01-01T12:50:00", 
+            "start_time": "1900-01-01T10:50:00", 
+            "day_of_week": 5, 
+            "location": "DUNCAN MCARTHUR RM A227E"
+        }
+    ]
+}

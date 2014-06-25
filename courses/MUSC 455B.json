@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }, 
+    "basic": {
+        "description": "A continuation of MUSC 352/3.0, MUSC 355/6.0.\r\nNOTE\u00a0\u00a0\u00a0 Students must submit in writing to the School of Music Office their request to apply for this course by the last day of classes in the Winter Term.", 
+        "subject": "MUSC", 
+        "number": "455B", 
+        "title": "Electroacoustic Composition"
+    }
+}

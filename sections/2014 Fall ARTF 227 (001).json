@@ -1,0 +1,145 @@
+{
+    "basic": {
+        "class_num": "4672", 
+        "subject": "ARTF", 
+        "status": "Open", 
+        "course": "227", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-LEC (4672)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-10-20T00:00:00", 
+            "instructors": [
+                "Sellars, Kathleen E"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "ONTARIO RM114"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-10-20T00:00:00", 
+            "instructors": [
+                "Sellars, Kathleen E"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 2, 
+            "location": "ONTARIO RM114"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-10-20T00:00:00", 
+            "instructors": [
+                "Sellars, Kathleen E"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "ONTARIO RM114"
+        }, 
+        {
+            "term_end": "2014-10-17T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "ONTARIO RM115"
+        }, 
+        {
+            "term_end": "2014-10-17T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 2, 
+            "location": "ONTARIO RM115"
+        }, 
+        {
+            "term_end": "2014-10-17T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "ONTARIO RM115"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-10-20T00:00:00", 
+            "instructors": [
+                "Sellars, Kathleen E"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "ONTARIO RM114"
+        }, 
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 2, 
+            "location": "TBA"
+        }, 
+        {
+            "term_end": "2014-10-17T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 3, 
+            "location": "ONTARIO RM106"
+        }, 
+        {
+            "term_end": "2014-10-17T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 2, 
+            "location": "ONTARIO RM106"
+        }, 
+        {
+            "term_end": "2014-10-17T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "end_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T11:30:00", 
+            "day_of_week": 1, 
+            "location": "ONTARIO RM106"
+        }, 
+        {
+            "term_end": "2014-10-17T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "end_time": "1900-01-01T17:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 4, 
+            "location": "ONTARIO RM106"
+        }
+    ]
+}

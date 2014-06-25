@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Spring", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides a practical understanding of how to plan, conduct and manage a sample survey. Topics covered will include: developing survey objectives, stratification, sampling frames, drawing the sample, questionnaire design, pilot testing, sampling and non-sampling errors, interviewing skills. Each student will prepare a survey proposal. Six hours per week for six weeks.\u00a0 Not offered in 2010-11\u00a0Spring term.", 
+        "subject": "EPID", 
+        "number": "813", 
+        "title": "Survey Methods"
+    }
+}

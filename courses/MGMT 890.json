@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course covers selected topics in the empirical methods of cross-section and panel data analysis. Various econometric techniques are discussed in workshop format to help students interpret and critically evaluate empirical evidence. Emphasis is placed on practical aspects and application. (Crossed with MGMT-990*)", 
+        "subject": "MGMT", 
+        "number": "890", 
+        "title": "Econometric Methods"
+    }
+}

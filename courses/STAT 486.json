@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (STAT361 or ECON351) and (STAT363 or STAT463), permission of the Department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduces the theory and application of survival analysis: survival distributions and their applications, parametric and nonparametric methods, proportional hazards models, counting process and proportional hazards regression, planning and designing clinical trials. Given jointly with STAT 886/3.0.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 STAT 462/3.0.", 
+        "subject": "STAT", 
+        "number": "486", 
+        "title": "Survival Analysis"
+    }
+}

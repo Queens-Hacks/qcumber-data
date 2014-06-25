@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0\u00a0 PSYC100", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will introduce both theoretical and applied/professional aspects of human and social behaviour in sport and exercise settings.", 
+        "subject": "PHED", 
+        "number": "165", 
+        "title": "Psychology Of Sport & Exercise"
+    }
+}

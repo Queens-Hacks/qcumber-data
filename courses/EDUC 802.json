@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Explores the theories and philosophies that have shaped the field of curriculum since the late 19th Century. Focuses on understanding the complex contexts of education, schooling, learning and teaching. Deepens awareness of the connections between the theories of curriculum and its manifestation through various teaching and learning practices. Winter; A. Hill.", 
+        "subject": "EDUC", 
+        "number": "802", 
+        "title": "Curriculum Theory"
+    }
+}

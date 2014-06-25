@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2100", 
+        "subject": "FILM", 
+        "status": "Open", 
+        "course": "337", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (2100)", 
+    "classes": [
+        {
+            "term_end": "2014-06-19T00:00:00", 
+            "term_start": "2014-05-12T00:00:00", 
+            "instructors": [
+                "Hyland, Robert Donald"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

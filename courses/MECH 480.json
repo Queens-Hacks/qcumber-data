@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "A technical course on the principles of flight. Techniques for the quantitative prediction of the aerodynamic characteristics of the wing will be described. Extensions to account for real-world effects will be discussed. These results will be used to predict the airplane performance (range, climb rate, maximum speed, etc.). The concept aerodynamic stability will be introduced and discussed. Students are expected to know MATLAB proficiently and have fluids knowledge typically acquired in MECH 241 and MECH 341. Those who have not taken these or similar fluids courses will need to prepare through self study.", 
+        "subject": "MECH", 
+        "number": "480", 
+        "title": "Airplane Aerodynamics and Performance"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The purpose of the course is to introduce you to the process of theory building in the field of organizational behaviour.\u00a0 The course examines several prominent theories in the field and explores recent evidence that assesses central claims made by the theory.\u00a0 The course also provides opportunities to develop skills in theory building. (Crossed with MGMT-950*)", 
+        "subject": "MGMT", 
+        "number": "850", 
+        "title": "Foundations of Research in Organizational Behaviour"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ENCH 211 OR CHEM 211 AND ENCH 212 OR CHEM 211 and registered in BSCE", 
+        "CEAB": {
+            "Basic Sci": 38, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 16, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.50"
+    }, 
+    "basic": {
+        "description": "A survey of organic functional group reactivity from a mechanistic perspective, including substitution, addition, elimination, rearrangement and redox reactions; extensive use of examples from industrial process chemistry. The laboratory provides experience in organic synthesis, including the preparation, purification and characterization of organic compounds. NOTE: Laboratory consumables: estimated cost $20.", 
+        "subject": "ENCH", 
+        "number": "245", 
+        "title": "Applied Organic Chemistry I"
+    }
+}

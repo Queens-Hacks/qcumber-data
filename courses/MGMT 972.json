@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course examines the development of information systems from the organizational, team and individual perspectives. Proprietary, inter-organizational and open domains of the development of business applications and IT architecture are covered. Topics include IS development practices, IS project management, IS maintenance, and IS sourcing with a focus on how individual characteristics, team dynamics, and organizational factors influence information systems design, development and implementation.", 
+        "subject": "MGMT", 
+        "number": "972", 
+        "title": "Advanced Topics in the Design, Development and Implementation of Information Systems"
+    }
+}

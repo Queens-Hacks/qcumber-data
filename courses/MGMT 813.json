@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This course will provide an intensive introduction to principal themes in capital markets research in accounting. (1.5 credit units).\u00a0 (Crossed with MGMT-913)", 
+        "subject": "MGMT", 
+        "number": "813", 
+        "title": "Introduction to Accounting Research - Markets"
+    }
+}

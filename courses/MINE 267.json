@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "CEAB": {
+            "Basic Sci": 12, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course provides an overview of the chemistry of inorganic and organic compounds used in the practice of mining and mineral processing including hydro-and pyro-extractive methods. Chemistry and chemical interactions for selected reagent formulations used in blasting, flotation/flocculation, leaching/precipitation, solvent extraction/electrowinning and pollution control technologies are outlined with relevant stoichiometry. Mineral stability and its relevance to metal extraction is discussed. Unary, binary and ternary phase diagrams are explored.\u00a0 The properties of solutions of interest are reviewed.", 
+        "subject": "MINE", 
+        "number": "267", 
+        "title": "Applied Chemistry for Mining"
+    }
+}

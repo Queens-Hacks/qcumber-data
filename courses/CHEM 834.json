@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "An overview of modern computational techniques and software for the determination of molecular orbitals and structures. Intended as a general introduction for graduate students of all disciplines. Winter; N. Cann", 
+        "subject": "CHEM", 
+        "number": "834", 
+        "title": "Molec Orbitals & Structures"
+    }
+}

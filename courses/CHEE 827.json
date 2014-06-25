@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A survey of optimization problems is made and mathematical procedures for their solutions are discussed. Comparisons of optimization techniques for various classes of problems are made using industrial examples and computer studies. Both linear and nonlinear programming methods are studied. Topics include the role of optimization, definitions of objective functions and constraints, conditions for existence of an optimum; one-dimensional strategies; analytical procedures for unconstrained and constrained multi-dimensional problems, numerical procedures for unconstrained and constrained multidimensional problems, introduction to multistage optimization. M. Guay", 
+        "subject": "CHEE", 
+        "number": "827", 
+        "title": "System Optimization"
+    }
+}

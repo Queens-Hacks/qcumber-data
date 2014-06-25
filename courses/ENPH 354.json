@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: APSC 200 and APSC 293 and (ENPH 253 or ENPH/PHYS 251). Corequisites: APSC 221 and ENPH/PHYS 213 or CISC 271 and ENPH/PHYS 334 or ELEC 252", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 31, 
+            "Eng Sci": 11, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Students will apply technical knowledge, models, and computer-aided design tools to solve an open-ended design problem. The students will work in teams to design, built, and test a prototype device. The lectures provide background on the physics and engineering of the device and introduce the design tools and techniques that will be required to complete the project.", 
+        "subject": "ENPH", 
+        "number": "354", 
+        "title": "Engineering Physics Design Project"
+    }
+}

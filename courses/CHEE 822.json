@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "The course focuses on the use of explicit process models for multi-variable controller design. Linear and nonlinear control approaches are discussed in both discrete and continuous time formulations. Stability, performance and robustness issues are addressed. The role of observers for state estimation is considered. M. Guay", 
+        "subject": "CHEE", 
+        "number": "822", 
+        "title": "Model-Based Control"
+    }
+}

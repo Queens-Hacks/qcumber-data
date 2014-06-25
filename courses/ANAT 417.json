@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (ANAT 215/3.0 and ANAT 216/3.0) or ANAT 309/3.0, and Level 4 and (a GPA of 2.5 and registration in a LISC Major or Specialization Plan, or permission of the Department of Biomedical and Molecular Sciences.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Comprehensive overview of cellular and molecular mechanisms that direct embryogenesis including gastrulation, neurulation, establishment of body axes, differentiation, sex determination, limb development, organogenesis and teratology. Participation in seminar presentations and group discussions is required. To be offered in alternate years.", 
+        "subject": "ANAT", 
+        "number": "417", 
+        "title": "Mammalian Embryonic Development"
+    }
+}

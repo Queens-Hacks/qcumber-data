@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Material science principles will be used to examine the correlations between chemical, physical and mechanical properties to the molecular morphologies and microstructural assemblages in engineering polymers. The theory and application of the thermodynamics of rate processes will be developed for polymers in engineering applications to determine the constitutive parameters needed to make life-time predictions of polymer performance. Three term-hours. B.J. Diak.", 
+        "subject": "MECH", 
+        "number": "871", 
+        "title": "Polymer Engineering"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 3.0 units from LLCU201; IDIS201", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course aims at familiarizing students from diverse programs with some of the fundamental concepts of Romance Philology. The analysis of the first literary and non-literary documents of the Romance languages will be a fundamental part of the course together with the understanding of the evolution of Latin into Vulgar Latin and its differentiation into Romance languages. Particular attention will be paid to Spanish, Italian, and French.", 
+        "subject": "LLCU", 
+        "number": "201", 
+        "title": "Introduction to Romance Philology"
+    }
+}

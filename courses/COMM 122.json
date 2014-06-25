@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "(Prerequisite of COMM121 and registration in a BCOM Academic Program) or a COMM-X Academic Plan.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course expands the students\u00bf knowledge of finance by building on the concepts of valuation and corporate financial management introduced in Finance I.\u00a0 The course provides an introduction to basic derivatives securities, and looks in greater depth at corporate valuation, and corporate financial policy. The course aims to integrate financial theory into applications by gaining an understanding of topics such as convertible securities, real options, and corporate risk management.\u00a0 This course restricted to students enrolled in the 2nd year or higher of the Commerce Program.", 
+        "subject": "COMM", 
+        "number": "122", 
+        "title": "Finance II"
+    }
+}

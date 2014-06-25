@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "2119", 
+        "subject": "NURS", 
+        "status": "Open", 
+        "course": "207", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "LAB", 
+        "season": "Summer"
+    }, 
+    "_unique": "004-LAB (2119)", 
+    "classes": [
+        {
+            "term_end": "2014-05-23T00:00:00", 
+            "term_start": "2014-04-28T00:00:00", 
+            "instructors": [
+                "Machan, Hilary"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 2, 
+            "location": "TBA"
+        }
+    ]
+}

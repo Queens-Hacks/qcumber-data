@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of (MECH370 and MECH371) and registered in a BSCE Academic Program.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 24, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This course introduces the microstructure-property-processing relationships needed to understand the applicability of polymers and composites to engineering design. The courses start with an introduction to the structure and properties of different polymers. The mechanics of polymers are covered including elasticity, rubber elasticity, pressure dependent yield and viscoelasticity. The mechanics of composites depend not only on the matrix, but also on the reinforcing phase. While focussing on polymer composites, metal and ceramic-based composites will also be introduced. Topics covered will include the influence of the interface, mechanical and transport properties and design of composites. The final goal is to correlate constitutive relations describing the time-temperature dependence of mechanical properties of polymers and composites to microstructure and linking these relations to practical design.", 
+        "subject": "MECH", 
+        "number": "476", 
+        "title": "Eng Of Polymers And Composite"
+    }
+}

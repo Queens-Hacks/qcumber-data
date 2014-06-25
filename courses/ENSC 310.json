@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "3rd year standing or above", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course introduces political science and public policy within the context of environmental politics, policy, and administration. The purposes of policy, the makers of policy, and the tools at their disposal will be analyzed within the institutional context of environmental policy-making.", 
+        "subject": "ENSC", 
+        "number": "310", 
+        "title": "Environmental Policy"
+    }
+}

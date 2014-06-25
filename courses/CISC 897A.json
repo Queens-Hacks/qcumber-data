@@ -1,0 +1,23 @@
+{
+    "extra": {
+        "career": "Graduate", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "grading_basis": "Pass/Fail", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "This course provides an introduction to the primary and secondary sources of information in the computing science literature. The course includes work aimed at improving research skills. Students are required to submit and present a paper on a topic that relates to their research. Janice Glasgow.", 
+        "subject": "CISC", 
+        "number": "897A", 
+        "title": "Research Methods in Computer Science"
+    }
+}

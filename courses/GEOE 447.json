@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 345 and GEOE 446 (GEOL 446) Must be registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 60, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "5.00"
+    }, 
+    "basic": {
+        "description": "Student teams carry out design work, including detailed analysis, synthesis, and presentation for the open-ended engineering projects proposed and initiated in GEOE 446 . Projects adhere to current national and/or provincial regulations as appropriate, and include further development of engineering solutions while controlling project schedule, budget and critical path design objectives. Data are obtained from industrial sources, government documents, engineering reports, the appropriate literature, and field studies and testing. Design projects, including methodologies, budgeting and technical components will be defended in class to a committee. Evaluation is based on two presentations and the team-written design report. Students must register in both GEOE 446 and 447.", 
+        "subject": "GEOE", 
+        "number": "447", 
+        "title": "Engineering Design Project II"
+    }
+}

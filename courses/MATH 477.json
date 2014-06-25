@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "MATH474", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Theory and practice of quantization and signal compression systems.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 STAT 353/3.0.", 
+        "subject": "MATH", 
+        "number": "477", 
+        "title": "Source Coding and Quantization"
+    }
+}

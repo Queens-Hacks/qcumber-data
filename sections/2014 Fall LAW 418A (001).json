@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1041", 
+        "subject": "LAW", 
+        "status": "Open", 
+        "course": "418A", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "SEM", 
+        "season": "Fall"
+    }, 
+    "_unique": "001-SEM (1041)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00", 
+            "instructors": [
+                "Thomas, Elizabeth"
+            ], 
+            "end_time": "1900-01-01T16:30:00", 
+            "start_time": "1900-01-01T14:30:00", 
+            "day_of_week": 1, 
+            "location": "MACDONALD RM515"
+        }
+    ]
+}

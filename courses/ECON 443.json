@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECON310", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Selected topics in microeconomic policy. Topics may include: climate change, health economics, national security (defense economics), globalization and/or regional development, and demographic change. Students are directed to the undergraduate website for a detailed description.", 
+        "subject": "ECON", 
+        "number": "443", 
+        "title": "Issues in Microeconomic Policy"
+    }
+}

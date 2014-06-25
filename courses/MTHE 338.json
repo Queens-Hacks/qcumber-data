@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 227 or MATH 227 or MTHE 280 or MATH 280 and MATH 226 or MTHE 237 or MATH 237 or MTHE 232 or MATH 232 or permission of the department. Must also be registered in BSCE", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 28, 
+            "Eng Des": 0, 
+            "Eng Sci": 14, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "Methods and theory for ordinary and partial differential equations. Review of eigenvectors and eigenmodes in solutions to systems of ordinary differential equations. The principle of linear superposition and eigenfunction expansion, orthogonality, and inner product on a vector space of functions. The method of separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bessel orthogonal functions. The wave, diffusion, and Laplace's (potential) equation. Sturm-Liouville theory: eigenvalue problems and orthogonal functions. Fourier transform and, time permitting, Laplace transform techniques.", 
+        "subject": "MTHE", 
+        "number": "338", 
+        "title": "Fourier Methods for Boundary Value Problems"
+    }
+}

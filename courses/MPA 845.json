@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides a comprehensive overview of policy issues relating to science and technology policy, such as research funding, science-based public policy, science and the public, support of high-tech industries, regional cluster concepts, R&D tax incentives, competitiveness, etc. The focus is on Canada in the larger context of the OECD countries.", 
+        "subject": "MPA", 
+        "number": "845", 
+        "title": "Science & Technology Policy"
+    }
+}

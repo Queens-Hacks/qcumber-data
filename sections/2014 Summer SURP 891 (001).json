@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1192", 
+        "subject": "SURP", 
+        "status": "Closed", 
+        "course": "891", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "IND", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-IND (1192)", 
+    "classes": [
+        {
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00", 
+            "instructors": [
+                "Gordon, David L A"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

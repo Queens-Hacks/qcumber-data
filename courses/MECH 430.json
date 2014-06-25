@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH330 or permission of the instructor and registered in a BSCE Academic Program. Enrolment is limited.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 24, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "This course is concerned with the technical, economic and environmental aspects of conventional and novel methods of energy supply and use. Emphasis will be placed on the analysis and design of thermal systems. Topics include: electric utility demand and supply; the analysis of thermal power generation systems including combined cycle and cogeneration plants; emission control; alternative energy systems. A group project related to the design of a thermal system will form a significant portion of this course. NOTE: Limited enrollment.", 
+        "subject": "MECH", 
+        "number": "430", 
+        "title": "Thermal Systems Design"
+    }
+}

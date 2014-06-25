@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "typically_offered": "Winter", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 Level 3 or above and registered in a GNDS Major or Medial or SXGD Plan or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from GNDS510, GNDS520 or GNDS530", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "In consultation with the Head of the Department, students arrange their reading with individual Gender Studies faculty, and are expected to write reports on their readings and to discuss them throughout the term with that faculty supervisor.", 
+        "subject": "GNDS", 
+        "number": "530", 
+        "title": "Directed Special Studies"
+    }
+}

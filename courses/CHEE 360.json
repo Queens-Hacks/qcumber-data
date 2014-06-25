@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CHEE331 or CHEE 332 or CHEE 333 or permission of the department.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 18
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This course provides advanced instruction and practice in effective technical writing and oral presentation. Most exercises will be linked to required oral and written communications tasks in other courses. Open to Chemical Engineering and Engineering Chemistry students only.", 
+        "subject": "CHEE", 
+        "number": "360", 
+        "title": "Technical Communications"
+    }
+}

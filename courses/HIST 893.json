@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course will continue to explore the themes considered in HIST-843* with particular reference to the nineteenth century. The course will also offer students the opportunity to engage in original research in the field. One term seminar; winter. PREREQUISITE:\u00a0 HIST-843* or permission of the instructor.", 
+        "subject": "HIST", 
+        "number": "893", 
+        "title": "19th Century Colonial North America"
+    }
+}

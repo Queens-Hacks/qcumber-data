@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Compare and contrast advanced practice nursing and related frameworks to develop, integrate, sustain, and evaluate the role of the nurse practitioner within primary health care. Critically analyze and develop strategies to implement advanced practice nursing competencies with a focus on the community. Term length delivered over two terms. 3 hours per week. Winter term.", 
+        "subject": "NURS", 
+        "number": "853B", 
+        "title": "Roles & Responsibilities"
+    }
+}

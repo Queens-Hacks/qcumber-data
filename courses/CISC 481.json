@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Chomsky grammars, including context-free languages; algorithms for natural language processing. Content will vary from year to year, but may include lexical-functional grammars, ambiguity resolution, parsing algorithms, grammatical inference, Lindenmeyer grammars and grammars for multi-dimensional objects. Students will present seminars.", 
+        "subject": "CISC", 
+        "number": "481", 
+        "title": "Syntax Systems for Natural Language"
+    }
+}

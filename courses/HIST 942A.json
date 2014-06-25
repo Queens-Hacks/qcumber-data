@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Course will cover the history of race and immigration in Canadian history from the era of Native non-Native contact until the emergence of\u00a0 state multiculturalism in a North American context. Readings will vary depending upon the particular research interests of the student. Topics covered will typically include: Native non-Native relations, slavery, \"race\" and spatial governance, \"race\" and the law, pre and post WWII immigration and ethnic radicalism, immigration policy, multiculturalism, refugee policy.", 
+        "subject": "HIST", 
+        "number": "942A", 
+        "title": "Cdn. Hist. Of Race/Immigration"
+    }
+}

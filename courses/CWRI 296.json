@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CWRI293 or CWRI294 or CWRI295", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is structured entirely around the creative writing workshop. The concentration is on short fiction and poetry, though memoir and creative non-fiction are options. There is intensive focus on publication and editing in a class-produced anthology, launched at the end of term with a public reading.", 
+        "subject": "CWRI", 
+        "number": "296", 
+        "title": "Creative Writing II"
+    }
+}

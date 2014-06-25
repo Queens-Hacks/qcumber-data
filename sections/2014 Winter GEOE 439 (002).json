@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "8343", 
+        "subject": "GEOE", 
+        "status": "Open", 
+        "course": "439", 
+        "year": "2014", 
+        "solus_id": "002", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "002-LAB (8343)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

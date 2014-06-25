@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course offers the student a solid foundation in the current methods of process improvement in healthcare settings by incorporating best practices for process definition, value stream mapping and performance measurement in the course.\u00a0 Root cause analysis, hypothesis testing methods, and design of experiments (DOE) and other related analytical methods will be taught using relevant examples from different healthcare settings.", 
+        "subject": "HQRS", 
+        "number": "841", 
+        "title": "Precoess Improvement in Health Care"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 174 and registered in BSCE.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 30, 
+            "Eng Des": 0, 
+            "Eng Sci": 12, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "The purpose of the course is to provide an introduction to abstract algebraic systems, and to illustrate the concepts with applications to communication engineering. Topics covered are: symbolic logic, switching and logic circuits; set theory and mappings; equivalence relations; the integers; introduction to Boolean algebras; group theory, groups, subgroups, cyclic groups, cosets and Lagrange's theorem, quotient groups, homomorphisms and isomorphisms; applications to error-control codes, binary block codes for noisy communication channels, nearest neighbor decoding, code error detection/correction capabilities, group (linear) codes, coset decoding, generator and parity check matrices, syndrome decoding; basic properties of rings and fields.", 
+        "subject": "MTHE", 
+        "number": "217", 
+        "title": "Algebraic Structures"
+    }
+}

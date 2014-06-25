@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Exclusion No more than 6.0 units from CHEM497; CHEM498; CHEM499", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A Fall Term research project on a topic in chemistry, supervised by a member of staff. Normally limited to students in the final year of a major or subject of specialization concentration in Chemistry; where appropriate, students in a\u00a0 Chemistry Medial program may take the\u00a0course with permission of the Department.\u00a0Additional restrictions may apply.", 
+        "subject": "CHEM", 
+        "number": "498", 
+        "title": "Research Project I"
+    }
+}

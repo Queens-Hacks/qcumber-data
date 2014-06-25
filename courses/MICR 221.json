@@ -1,0 +1,28 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (A GPA of 1.90 in BIOL 102/3.0 and BIOL 103/3.0) and CHEM 112/6.0.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A fundamental study of the structure and growth of microorganisms and viruses. The roles of microbes in aquatic, terrestrial and human environments will be considered. NOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $45.", 
+        "subject": "MICR", 
+        "number": "221", 
+        "title": "Basic Microbiology"
+    }
+}

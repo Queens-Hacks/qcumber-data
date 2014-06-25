@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This is a seminar course designed to expose students to aspects of finance not covered in detail in other courses in the program. Its aim is to integrate these topics into a broader understanding of the overall field of finance. Topics will vary from year to year depending on the interests and backgrounds of the students and the instructor(s); possible topics may include financial institutions, fixed income securities, corporate governance, and behavioural finance. Students are advised to contact the instructor each year for details of the course coverage.", 
+        "subject": "MGMT", 
+        "number": "924", 
+        "title": "Topics in Finance"
+    }
+}

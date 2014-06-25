@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites CHEE210 AND CHEE311 or the permission of the department. Must be registered in a BSCE academic program", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "This engineering science course covers aspects of technological applications of electrochemistry. It can be considered as overlap between electrical engineering, electrochemistry and chemical engineering. The course addresses the following 6 major topics of electrochemical engineering: 1) Introduction to Electrochemical Engineering: Electrostatics, Electrodynamics, Electrical Circuit Theory, Faradays Law; 2) Elements of Electrochemical Systems I Electrolyte: Transport processes, electrolyte conductivity, pH and buffer solutions; 3) Elements of Electrochemical Systems II Electrodes: Electrochemical Thermodynamics, Nernst Equation, Reference Electrodes, Cell Potential (Electromotive Force), Electrode Kinetics 4) Electrical Double Layers: Theory & Models, Electrokinetic Phenomena; 5) Electrochemical Energy Engineering: Batteries, Fuel Cells, Electrical & Electrochemical Capacitors; 6) Industrial Electrochemical Processes: Fundamentals, Reactor Design & Parameter, Chlor-Alkali Process, Electrochemical Extraction of Metals, Hall Heroult Process.", 
+        "subject": "CHEE", 
+        "number": "461", 
+        "title": "Electrochemical Engineering"
+    }
+}

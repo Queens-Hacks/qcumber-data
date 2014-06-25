@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Practicum": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PACT237 and KNPE333.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "This activity-based course will afford students the opportunity to work with community physical activity programs for persons with disabilities and relate class theory from KNPE 333/3.0 Physical Activity for Persons with Disabilities to practical implementation. Students will also have a weekly laboratory component.\r\nNOTE\u00a0\u00a0\u00a0 Transportation and other costs (e.g. required Criminal Checks) are the responsibility of the student.", 
+        "subject": "PACT", 
+        "number": "333A", 
+        "title": "Practicum in Physical Activity for Persons with Disabilities"
+    }
+}

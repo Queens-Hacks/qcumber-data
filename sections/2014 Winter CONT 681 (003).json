@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "7477", 
+        "subject": "CONT", 
+        "status": "Open", 
+        "course": "681", 
+        "year": "2014", 
+        "solus_id": "003", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-LEC (7477)", 
+    "classes": [
+        {
+            "term_end": "2014-04-11T00:00:00", 
+            "term_start": "2014-01-27T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

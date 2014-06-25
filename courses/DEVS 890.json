@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Students whose proposed research lies outside the realm (thematic or regional) of regular and cognate course offerings may choose this option. In consultation with a willing supervisor, students must develop a unifying title, course description, and reading list of 2-4 key texts for each of 5-6 set topics leading toward an agreed upon set of assignments.", 
+        "subject": "DEVS", 
+        "number": "890", 
+        "title": "Directed Readings"
+    }
+}

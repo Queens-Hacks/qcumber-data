@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (CISC 121 and CISC 203) and (3.0 units from STAT) and (3.0 units from MATH111; MATH110; MATH112).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Supervised and unsupervised learning, neural networks, support-vector machines, decision trees, metric-based clustering, distribution-based clustering, rule-based techniques, genetic algorithms. Applications to information retrieval, web mining, customer-relationship management, recommender systems, science and engineering.", 
+        "subject": "CISC", 
+        "number": "333", 
+        "title": "Introduction to Data Mining"
+    }
+}

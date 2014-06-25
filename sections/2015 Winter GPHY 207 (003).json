@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "6120", 
+        "subject": "GPHY", 
+        "status": "Open", 
+        "course": "207", 
+        "year": "2015", 
+        "solus_id": "003", 
+        "type": "PRA", 
+        "season": "Winter"
+    }, 
+    "_unique": "003-PRA (6120)", 
+    "classes": [
+        {
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T10:00:00", 
+            "day_of_week": 3, 
+            "location": "MACINTOSH-CORRY RM E202"
+        }
+    ]
+}

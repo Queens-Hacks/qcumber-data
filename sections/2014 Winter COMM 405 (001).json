@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "6744", 
+        "subject": "COMM", 
+        "status": "Open", 
+        "course": "405", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "001-LEC (6744)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Gallant, Peter"
+            ], 
+            "end_time": "1900-01-01T21:30:00", 
+            "start_time": "1900-01-01T18:30:00", 
+            "day_of_week": 3, 
+            "location": "GOODES RM 101"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Geometric modelling including the derivation of equations for non-uniform rational B-spline curves and surfaces. Geometic transformations; displacement, velocity, acceleration and force derivation through computer formulation of the equations of kinematics and dynamics. The principle of the finite element method and its application to stress analysis of mechanical components. This course is offered in conjunction with MECH-465, but has an additional report.\u00a0\u00a0Three term-hours, lectures.\u00a0", 
+        "subject": "MECH", 
+        "number": "865", 
+        "title": "Computer Aided Design"
+    }
+}

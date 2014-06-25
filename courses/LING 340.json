@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 LING100 or permission of the Department of Languages, Literatures and Cultures.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course provides a foundation in syntactic analysis and explanation. The course focuses on the relation between structure and meaning, and assumes the framework of Universal Grammar Theory. Topics covered include thematic roles, case, anaphora, NP movement and WH movement.", 
+        "subject": "LING", 
+        "number": "340", 
+        "title": "Syntax"
+    }
+}

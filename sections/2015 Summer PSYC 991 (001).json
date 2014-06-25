@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "class_num": "1010", 
+        "subject": "PSYC", 
+        "status": "Closed", 
+        "course": "991", 
+        "year": "2015", 
+        "solus_id": "001", 
+        "type": "CLN", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-CLN (1010)", 
+    "classes": [
+        {
+            "term_end": "2015-08-12T00:00:00", 
+            "term_start": "2015-05-01T00:00:00", 
+            "instructors": [], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH110 or MATH111) and (Math120 or MATH121 or MATH122 or MATH124).\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH225; MATH226; MATH231; MATH232; MATH235; MATH237.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to ordinary differential equations and their applications. Intended for students concentrating in Mathematics\u00a0or Statistics.", 
+        "subject": "MATH", 
+        "number": "231", 
+        "title": "Differential Equations"
+    }
+}

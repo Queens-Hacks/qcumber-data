@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "8226", 
+        "subject": "KHS", 
+        "status": "Closed", 
+        "course": "897", 
+        "year": "2014", 
+        "solus_id": "010", 
+        "type": "LEC", 
+        "season": "Winter"
+    }, 
+    "_unique": "010-LEC (8226)", 
+    "classes": [
+        {
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00", 
+            "instructors": [
+                "Levesque, Lucie Y"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

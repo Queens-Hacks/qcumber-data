@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course is intended to introduce students to a number of substantive and, in some cases, specialized topics in the broadly defined area of empirical research in finance. Topics may include characteristics of financial asset returns, tests of market efficiency and empirical tests of asset pricing models.", 
+        "subject": "MGMT", 
+        "number": "925", 
+        "title": "Empirical Studies"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A course on China\u00bfs nationalist and communist revolutions. Readings explore rival revolutionaries\u00bf goals and programs. Seminars examine the internal and international struggles affecting the outcome of the civil war of 1946-1949.{This course could be matched by a directed reading to be offered in the Fall term with the Goode Fellow Professor Selcuk Esenbel Bogazici in Japanese History.] One term seminar; Winter. E. Hill.", 
+        "subject": "HIST", 
+        "number": "889", 
+        "title": "China's Revolutions: 1911-1949"
+    }
+}

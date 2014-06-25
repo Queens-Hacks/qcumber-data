@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "4.00"
+    }, 
+    "basic": {
+        "description": "For MPA/J.D. combined degree students only - Individual Supervised Project to be undertaken and completed in the winter term of the graduating year involving a topic related to their cooperative work placement; minimum credit weight of 4 credits.", 
+        "subject": "LAW", 
+        "number": "496", 
+        "title": "Public Service: Indiv Study"
+    }
+}

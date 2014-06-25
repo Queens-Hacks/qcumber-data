@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Restricted to PJ", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "Designed to present a view of elementary schools where arts-based activities and environments form the focus for learning not only in the arts, but in other academic subjects as well. Topics include arts and cognition; how math, science, technology, personal and social studies, and language can be authentically incorporated in arts-based learning; how arts programs can induce change in schools; and the role of social learning and community knowledge.", 
+        "subject": "FOCI", 
+        "number": "215A", 
+        "title": "Arts-Based Ed In Elem School"
+    }
+}

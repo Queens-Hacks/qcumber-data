@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 40, 
+            "Eng Sci": 27, 
+            "Comp St": 23
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "7.50"
+    }, 
+    "basic": {
+        "description": "This is the capstone design course for Mathematics and Engineering. Students\r\nmust work in groups, with a typical group size being between two and four\r\nmembers. Projects are selected early in the year from a list put forward by\r\nMathematics and Engineering faculty members who will also supervise the\r\nprojects. There is a heavy emphasis on engineering design and professional\r\npractice. All projects must be open\u00bfended and design oriented, and students\r\nare expected to undertake and demonstrate, in presentations and written\r\nwork, a process by which the design facets of the project are approached.\r\nProjects must involve social, environmental, and economic factors, and\r\nstudents are expected to address these factors comprehensively in\r\npresentations and written work. Students are assessed individually and as a\r\ngroup on their professional conduct during the course of the project.", 
+        "subject": "MTHE", 
+        "number": "493B", 
+        "title": "Engineering Math Project"
+    }
+}

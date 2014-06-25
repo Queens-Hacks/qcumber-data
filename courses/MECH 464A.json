@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall, Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "0.00"
+    }, 
+    "basic": {
+        "description": "This course provides advanced instruction and practice in technical communication and project management for multidisciplinary engineering projects. Content includes request for proposals, project planning and proposal writing, quality function deployment, oral presentation skills, client communications and concise report writing. Course deliverables are closely tied to deliverables in Capstone design courses. Open to Mechanical and Materials Engineering students only.", 
+        "subject": "MECH", 
+        "number": "464A", 
+        "title": "Communications & Project Manag"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Governing equations; laws of flux and sources; modelling of physical processes such as turbulence, species transport etc. Finite difference methods, including discretisation and higher-order differencing schemes; influence patterns; solution methods; flow classification; examples. Three term hours; lectures. A. Pollard", 
+        "subject": "MECH", 
+        "number": "933", 
+        "title": "Computational Fluid Dynamics"
+    }
+}

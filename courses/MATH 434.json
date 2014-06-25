@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (MATH221 or MATH280) and (MATH110 or MATH111 or MATH112).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Optimization of functions of several variables, restricted by equality and inequality constraints, with applications. Linear programming, including convexity, simplex algorithm, duality, sensitivity analysis. Techniques of unconstrained optimization. Constrained optimization, including Lagrangian, Kuhn-Tucker conditions, convexity, duality, numerical techniques. Given jointly with MATH 834/3.0.", 
+        "subject": "MATH", 
+        "number": "434", 
+        "title": "Linear and Nonlinear Optimization"
+    }
+}

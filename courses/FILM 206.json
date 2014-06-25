@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 (A grade of B- in FILM 110) or (a GPA of 2.60 in FILM 104 and FILM 106) or (a GPA of 2.60 in BISC100 and FILM104) and (reg. in a FILM Plan, STSC or the Computer-Film (COFI) Specialization Plan).", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A series of interactive presentations and lectures instructing students in research methods, argumentative writing, and the design of effective audio-visual presentations.", 
+        "subject": "FILM", 
+        "number": "206", 
+        "title": "Research, Writing, and Presentation Methods"
+    }
+}

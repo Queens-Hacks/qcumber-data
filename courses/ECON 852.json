@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A first course in econometrics at the graduate level. Students are expected to have had at least one econometrics course at the undergraduate level, and to be familiar with matrix algebra and elementary statistics. A broad range of econometric models will be covered. (Offered jointly with ECON-450.)", 
+        "subject": "ECON", 
+        "number": "852", 
+        "title": "Quantitative Methods"
+    }
+}

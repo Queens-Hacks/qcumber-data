@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1209", 
+        "subject": "CHEE", 
+        "status": "Open", 
+        "course": "907", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-LEC (1209)", 
+    "classes": [
+        {
+            "term_end": "2014-06-13T00:00:00", 
+            "term_start": "2014-05-05T00:00:00", 
+            "instructors": [
+                "Barz, Dominik"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

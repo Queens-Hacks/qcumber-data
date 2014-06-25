@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required", 
+            "Practicum": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (GPHY243 or GISC201) or (GPHY244 or GISC202) or GPHY247 or permission of the Department.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "An introduction to customization of GIS and database software with an emphasis on spatial analysis tool development for desktop and Web-based GIS. Students will learn concepts of user requirements analysis, software requirements preparation, interface and software design, and computer programming while they develop customized GIS applications.", 
+        "subject": "GPHY", 
+        "number": "348", 
+        "title": "Application Designs and Customization in GIS"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in ENGL100.", 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduces cultural studies from a primarily literary perspective, surveying critical approaches associated with this interdisciplinary field of study, and paying special attention to the study of popular culture and questions of aesthetic value through readings drawn from a range of pop cultural genres (such as horror, romance, crime fiction).", 
+        "subject": "ENGL", 
+        "number": "293", 
+        "title": "Introductory Approaches to Cultural Studies"
+    }
+}

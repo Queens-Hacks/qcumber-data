@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 and registered in a COMP Major or BMCO or COMA or CSCI Specialization Plan) and (an overall GPA of 1.90) and (a GPA of 2.6 from 30.0 units in CISC) and CISC365.\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from CISC498; CISC499", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Topic selected under the supervision of a faculty member. Emphasis may be on the development of a large program, or on more theoretical issues. Independent research, an oral presentation, and a written report are required.", 
+        "subject": "CISC", 
+        "number": "499", 
+        "title": "Advanced Undergraduate Project"
+    }
+}

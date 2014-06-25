@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "A comprehensive overview of the cellular and molecular biology of mammalian reproduction. The first part of the course consists of lectures covering gametogenesis, fertilization, early embryo development and placentation. The second part involves student presentation of seminars and group discussion of current topics in reproductive biology. Clinical aspects of reproduction will also be covered. Offered jointly with ANAT-416*. Graduate students submit one major essay and give a seminar from a list of selected topics. Three hours lecture/seminar, Fall term. F.W.K. Kan PREREQUISITE: ANAT-215*/216* or ANAT-311, or ANAT-309* or permission of the Department. EXCLUSION: ANAT-816*", 
+        "subject": "BMED", 
+        "number": "816", 
+        "title": "Biology of Reproduction"
+    }
+}

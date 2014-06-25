@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "typically_offered": "Fall", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "MECH 370 and MECH 371", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }, 
+    "basic": {
+        "description": "An introduction to the processing, structure and properties of advanced ceramics used for the design of components in electronic, automotive, aerospace, energy, mining and chemical and petrochemical industries. The emphasis is placed onunderstanding the relationship between microstructure and mechanical, electrical and thermal properties of ceramics.Ceramic systems and related devices which are discussed include electronic and ionic conductors, capacitors, transducers,varistors, and dielectric substartes. The effect of porosity, grain size and residual stresses on strength, elastic and fractureproperties of isotropic and anisotropic ceramics is also discussed. Material transport mechanism and sintering of powder ceramics materials is covered with recent examples of forming and sintering of oxides, carbides and nitrides.", 
+        "subject": "MECH", 
+        "number": "484", 
+        "title": "Introduction To Ceramics"
+    }
+}

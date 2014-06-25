@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Pass/Fail", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This course focuses on providing practical policy experience to the students in the field. The content may vary. It will be graded on a pass/fail grade. Only one of either MPA-841* or MPA-842* may be used to meet MPA degree requirements.", 
+        "subject": "MPA", 
+        "number": "842", 
+        "title": "Field Work"
+    }
+}

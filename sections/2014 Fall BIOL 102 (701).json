@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "7597", 
+        "subject": "BIOL", 
+        "status": "Open", 
+        "course": "102", 
+        "year": "2014", 
+        "solus_id": "701", 
+        "type": "LAB", 
+        "season": "Fall"
+    }, 
+    "_unique": "701-LAB (7597)", 
+    "classes": [
+        {
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00", 
+            "instructors": [
+                "Ko, Kenton"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

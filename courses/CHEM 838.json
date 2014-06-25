@@ -1,0 +1,26 @@
+{
+    "extra": {
+        "add_consent": "Department Consent Required", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Instructor Consent Required", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "Topics include numerical integration, numerical treatment of differential equations, interpolation, Fourier transforms, regression. Concepts in Fortran programming are also introduced. Winter; N. Mosey.", 
+        "subject": "CHEM", 
+        "number": "838", 
+        "title": "Numerical Methods In Chemistry"
+    }
+}

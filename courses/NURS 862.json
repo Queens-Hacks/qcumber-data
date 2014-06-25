@@ -1,0 +1,25 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Seminar": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "This purpose of this course is to critically examine some of the theoretical and methodological issues affecting research on health management innovations. Emphasis will be placed on understanding the implications of research for health care outcomes. Three term hours; winter.", 
+        "subject": "NURS", 
+        "number": "862", 
+        "title": "Health Care Management Systems"
+    }
+}

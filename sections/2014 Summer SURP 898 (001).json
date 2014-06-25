@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1115", 
+        "subject": "SURP", 
+        "status": "Closed", 
+        "course": "898", 
+        "year": "2014", 
+        "solus_id": "001", 
+        "type": "RSC", 
+        "season": "Summer"
+    }, 
+    "_unique": "001-RSC (1115)", 
+    "classes": [
+        {
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00", 
+            "instructors": [
+                "Gordon, David L A"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}

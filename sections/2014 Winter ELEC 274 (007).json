@@ -1,0 +1,71 @@
+{
+    "basic": {
+        "class_num": "6436", 
+        "subject": "ELEC", 
+        "status": "Closed", 
+        "course": "274", 
+        "year": "2014", 
+        "solus_id": "007", 
+        "type": "LAB", 
+        "season": "Winter"
+    }, 
+    "_unique": "007-LAB (6436)", 
+    "classes": [
+        {
+            "term_end": "2014-01-19T00:00:00", 
+            "term_start": "2014-01-13T00:00:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2014-02-02T00:00:00", 
+            "term_start": "2014-01-27T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2014-02-16T00:00:00", 
+            "term_start": "2014-02-10T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2014-03-02T00:00:00", 
+            "term_start": "2014-02-24T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2014-03-16T00:00:00", 
+            "term_start": "2014-03-10T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "BEAMISH-MUNRO RM314"
+        }, 
+        {
+            "term_end": "2014-03-30T00:00:00", 
+            "term_start": "2014-03-24T00:00:00", 
+            "instructors": [], 
+            "end_time": "1900-01-01T11:30:00", 
+            "start_time": "1900-01-01T08:30:00", 
+            "day_of_week": 5, 
+            "location": "BEAMISH-MUNRO RM314"
+        }
+    ]
+}

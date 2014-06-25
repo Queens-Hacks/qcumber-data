@@ -1,0 +1,24 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Graduate", 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }, 
+    "basic": {
+        "description": "This module focuses after a brief review of ionisation techniques and current mass spectrometric equipment on novel hybrid-tandem-MS instruments and current applications of mass spectrometry in different areas of the life sciences. Topics include, but are not limited to, atomic composition determination, identification methods for proteins and determination of post-translational modifications such as phosphorylation or glycosylation now widely used in the evolving field of proteomics, studies of non-covalent biomolecule interactions and new high-throughput screening techniques as employed in drug or catalyst development.\u00a0\u00a0Winter; J. Wang.\u00a0", 
+        "subject": "CHEM", 
+        "number": "842", 
+        "title": "Appls Modern Mass Spectrometry"
+    }
+}

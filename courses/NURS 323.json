@@ -1,0 +1,27 @@
+{
+    "extra": {
+        "typically_offered": "Winter", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Exclusions: PSYC202, ECON250, STAT261, 263, 264, BIOL243, COMM162, SOCY211, KNPE251 and PHED251.\u00a0 Must be registered in a Health Medial Academic Plan or HLTH-M-BAH or KINE-P-BSC or BPHE or BPHEH Program and have a level greater than or equal to 2.", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Math": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Comp St": 0
+        }, 
+        "career": "Undergraduate", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }, 
+    "basic": {
+        "description": "Introduces descriptive and inferential statistics and data analysis strategies.\u00a0\u00a0 Topics include probability, correlation/regression, experimental design and analysis of variance.\u00a0\u00a0 Online learning and weekly laboratories provide practice in computation, interpretation and communication of statistical findings, and large class review sessions and individual drop in assistance ensure mastery.\u00a0\u00a0 Applications appropriate to different fields of study will be explored.", 
+        "subject": "NURS", 
+        "number": "323", 
+        "title": "Introduction to Statistics"
+    }
+}

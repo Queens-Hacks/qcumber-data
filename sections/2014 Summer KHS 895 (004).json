@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "class_num": "1296", 
+        "subject": "KHS", 
+        "status": "Closed", 
+        "course": "895", 
+        "year": "2014", 
+        "solus_id": "004", 
+        "type": "LEC", 
+        "season": "Summer"
+    }, 
+    "_unique": "004-LEC (1296)", 
+    "classes": [
+        {
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00", 
+            "instructors": [
+                "Fergus, Stevenson"
+            ], 
+            "end_time": null, 
+            "start_time": null, 
+            "day_of_week": null, 
+            "location": "TBA"
+        }
+    ]
+}
