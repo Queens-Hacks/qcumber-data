@@ -1,0 +1,37 @@
+{
+    "_unique": "012-LEC (2319)", 
+    "basic": {
+        "class_num": "2319", 
+        "course": "190A", 
+        "season": "Fall", 
+        "solus_id": "012", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [
+                "Gough, George"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [
+                "Gough, George"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
+        }
+    ]
+}

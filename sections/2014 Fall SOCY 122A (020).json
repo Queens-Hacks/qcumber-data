@@ -1,0 +1,24 @@
+{
+    "_unique": "020-TUT (6008)", 
+    "basic": {
+        "class_num": "6008", 
+        "course": "122A", 
+        "season": "Fall", 
+        "solus_id": "020", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [], 
+            "location": "BOTTER RM B148", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

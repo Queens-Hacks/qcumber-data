@@ -1,0 +1,24 @@
+{
+    "_unique": "013-LAB (7286)", 
+    "basic": {
+        "class_num": "7286", 
+        "course": "206", 
+        "season": "Winter", 
+        "solus_id": "013", 
+        "status": "Open", 
+        "subject": "BIOL", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM3319", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

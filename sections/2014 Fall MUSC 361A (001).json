@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LAB (7741)", 
+    "basic": {
+        "class_num": "7741", 
+        "course": "361A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MUSC", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Szczesniak, Michel"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

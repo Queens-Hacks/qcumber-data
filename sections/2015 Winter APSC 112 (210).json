@@ -1,0 +1,33 @@
+{
+    "_unique": "210-TUT (4755)", 
+    "basic": {
+        "class_num": "4755", 
+        "course": "112", 
+        "season": "Winter", 
+        "solus_id": "210", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM401", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM116", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

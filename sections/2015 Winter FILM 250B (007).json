@@ -1,0 +1,37 @@
+{
+    "_unique": "007-LAB (2686)", 
+    "basic": {
+        "class_num": "2686", 
+        "course": "250B", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "FILM", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [
+                "Redmond, Derek L"
+            ], 
+            "location": "IBCPA RM118", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [
+                "Redmond, Derek L"
+            ], 
+            "location": "IBCPA RM336", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

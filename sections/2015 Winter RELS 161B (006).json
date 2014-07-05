@@ -1,0 +1,24 @@
+{
+    "_unique": "006-TUT (4529)", 
+    "basic": {
+        "class_num": "4529", 
+        "course": "161B", 
+        "season": "Winter", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "RELS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM107", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

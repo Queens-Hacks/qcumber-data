@@ -1,0 +1,24 @@
+{
+    "_unique": "012-LAB (2369)", 
+    "basic": {
+        "class_num": "2369", 
+        "course": "112B", 
+        "season": "Winter", 
+        "solus_id": "012", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM206B", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "208-TUT (4135)", 
+    "basic": {
+        "class_num": "4135", 
+        "course": "131", 
+        "season": "Fall", 
+        "solus_id": "208", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM211", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

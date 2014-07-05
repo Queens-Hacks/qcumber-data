@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (1160)", 
+    "basic": {
+        "class_num": "1160", 
+        "course": "840", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MFIN", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Welker, Michael A"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-07-26T00:00:00", 
+            "term_start": "2015-07-05T00:00:00"
+        }
+    ]
+}

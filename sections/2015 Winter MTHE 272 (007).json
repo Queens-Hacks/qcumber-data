@@ -1,0 +1,24 @@
+{
+    "_unique": "007-LAB (3177)", 
+    "basic": {
+        "class_num": "3177", 
+        "course": "272", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "MTHE", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM155", 
+            "start_time": "1900-01-01T15:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

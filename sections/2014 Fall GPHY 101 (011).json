@@ -1,0 +1,26 @@
+{
+    "_unique": "011-TUT (5342)", 
+    "basic": {
+        "class_num": "5342", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "011", 
+        "status": "Open", 
+        "subject": "GPHY", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Field, Sean"
+            ], 
+            "location": "MACINTOSH-CORRY RM A311", 
+            "start_time": "1900-01-01T13:00:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-22T00:00:00"
+        }
+    ]
+}

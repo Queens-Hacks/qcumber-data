@@ -1,0 +1,37 @@
+{
+    "_unique": "015-LEC (2338)", 
+    "basic": {
+        "class_num": "2338", 
+        "course": "191A", 
+        "season": "Fall", 
+        "solus_id": "015", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Twiddy, Paul"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Twiddy, Paul"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "007-TUT (5641)", 
+    "basic": {
+        "class_num": "5641", 
+        "course": "212", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [], 
+            "location": "JOHN WATSON RM207", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

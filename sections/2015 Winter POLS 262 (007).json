@@ -1,0 +1,24 @@
+{
+    "_unique": "007-TUT (5767)", 
+    "basic": {
+        "class_num": "5767", 
+        "course": "262", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T12:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D211", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

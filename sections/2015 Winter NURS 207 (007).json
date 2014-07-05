@@ -1,0 +1,24 @@
+{
+    "_unique": "007-LAB (5314)", 
+    "basic": {
+        "class_num": "5314", 
+        "course": "207", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Closed", 
+        "subject": "NURS", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T12:30:00", 
+            "instructors": [], 
+            "location": "CATARAQUI\u00a0 RM221 SIM LAB", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

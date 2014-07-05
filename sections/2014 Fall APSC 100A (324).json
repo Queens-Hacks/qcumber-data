@@ -1,0 +1,59 @@
+{
+    "_unique": "324-LAB (7356)", 
+    "basic": {
+        "class_num": "7356", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "324", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "CHERNOFF RM206A", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-29T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "DUPUIS RM236", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-29T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "STIRLING RM406", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "STIRLING RM407", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

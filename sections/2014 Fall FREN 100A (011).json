@@ -1,0 +1,26 @@
+{
+    "_unique": "011-TUT (6205)", 
+    "basic": {
+        "class_num": "6205", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "011", 
+        "status": "Open", 
+        "subject": "FREN", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [
+                "Conacher, Agnes M"
+            ], 
+            "location": "KINGSTON RM306", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

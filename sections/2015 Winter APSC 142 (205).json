@@ -1,0 +1,24 @@
+{
+    "_unique": "205-STD (4703)", 
+    "basic": {
+        "class_num": "4703", 
+        "course": "142", 
+        "season": "Winter", 
+        "solus_id": "205", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "STD", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "1900-01-01T16:00:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

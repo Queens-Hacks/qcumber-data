@@ -1,0 +1,24 @@
+{
+    "_unique": "015-TUT (2696)", 
+    "basic": {
+        "class_num": "2696", 
+        "course": "110B", 
+        "season": "Winter", 
+        "solus_id": "015", 
+        "status": "Open", 
+        "subject": "FILM", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T16:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM308", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "006-ONL (2384)", 
+    "basic": {
+        "class_num": "2384", 
+        "course": "564", 
+        "season": "Summer", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "CONT", 
+        "type": "ONL", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-08-15T00:00:00", 
+            "term_start": "2014-06-30T00:00:00"
+        }
+    ]
+}

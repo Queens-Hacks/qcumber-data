@@ -1,0 +1,24 @@
+{
+    "_unique": "006-TUT (4993)", 
+    "basic": {
+        "class_num": "4993", 
+        "course": "250A", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM A311", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

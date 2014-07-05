@@ -1,0 +1,24 @@
+{
+    "_unique": "010-TUT (5605)", 
+    "basic": {
+        "class_num": "5605", 
+        "course": "250B", 
+        "season": "Winter", 
+        "solus_id": "010", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

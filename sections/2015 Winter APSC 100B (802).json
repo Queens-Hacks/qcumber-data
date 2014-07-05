@@ -1,0 +1,24 @@
+{
+    "_unique": "802-LAB (4923)", 
+    "basic": {
+        "class_num": "4923", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "802", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

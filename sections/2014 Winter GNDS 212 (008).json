@@ -1,0 +1,24 @@
+{
+    "_unique": "008-TUT (7255)", 
+    "basic": {
+        "class_num": "7255", 
+        "course": "212", 
+        "season": "Winter", 
+        "solus_id": "008", 
+        "status": "Open", 
+        "subject": "GNDS", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2109", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }
+    ]
+}

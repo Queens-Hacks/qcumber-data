@@ -1,0 +1,24 @@
+{
+    "_unique": "006-TUT (6407)", 
+    "basic": {
+        "class_num": "6407", 
+        "course": "212", 
+        "season": "Winter", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "GNDS", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM116", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "006-TUT (5466)", 
+    "basic": {
+        "class_num": "5466", 
+        "course": "333", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "HLTH", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T12:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM106", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-15T00:00:00"
+        }
+    ]
+}

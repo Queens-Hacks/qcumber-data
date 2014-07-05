@@ -1,0 +1,37 @@
+{
+    "_unique": "303-LAB (4047)", 
+    "basic": {
+        "class_num": "4047", 
+        "course": "161", 
+        "season": "Fall", 
+        "solus_id": "303", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Dumas, Genevieve A"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Dumas, Genevieve A"
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

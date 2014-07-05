@@ -1,0 +1,26 @@
+{
+    "_unique": "013-SEM (7602)", 
+    "basic": {
+        "class_num": "7602", 
+        "course": "122B", 
+        "season": "Winter", 
+        "solus_id": "013", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Quirk, Andrew James"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "006-LAB (3852)", 
+    "basic": {
+        "class_num": "3852", 
+        "course": "104", 
+        "season": "Winter", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "GEOL", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [
+                "Layton-Matthews, Daniel"
+            ], 
+            "location": "MILLER RM225", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

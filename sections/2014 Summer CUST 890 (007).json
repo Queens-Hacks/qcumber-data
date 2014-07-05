@@ -1,0 +1,24 @@
+{
+    "_unique": "007-IND (1249)", 
+    "basic": {
+        "class_num": "1249", 
+        "course": "890", 
+        "season": "Summer", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "CUST", 
+        "type": "IND", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
+        }
+    ]
+}

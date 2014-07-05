@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LEC (2387)", 
+    "basic": {
+        "class_num": "2387", 
+        "course": "872", 
+        "season": "Summer", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "EDUC", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Lavell-Harvard, Dawn"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-07-25T00:00:00", 
+            "term_start": "2014-07-02T00:00:00"
+        }
+    ]
+}

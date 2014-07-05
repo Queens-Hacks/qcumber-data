@@ -1,0 +1,24 @@
+{
+    "_unique": "009-TUT (6695)", 
+    "basic": {
+        "class_num": "6695", 
+        "course": "122B", 
+        "season": "Winter", 
+        "solus_id": "009", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D405", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "014-TUT (5557)", 
+    "basic": {
+        "class_num": "5557", 
+        "course": "110B", 
+        "season": "Winter", 
+        "solus_id": "014", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM115", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

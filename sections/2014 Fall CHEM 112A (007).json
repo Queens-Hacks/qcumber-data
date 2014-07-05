@@ -1,0 +1,24 @@
+{
+    "_unique": "007-LAB (2051)", 
+    "basic": {
+        "class_num": "2051", 
+        "course": "112A", 
+        "season": "Fall", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM206B", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

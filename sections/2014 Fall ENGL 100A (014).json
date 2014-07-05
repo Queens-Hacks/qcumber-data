@@ -1,0 +1,24 @@
+{
+    "_unique": "014-TUT (6283)", 
+    "basic": {
+        "class_num": "6283", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "014", 
+        "status": "Open", 
+        "subject": "ENGL", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM A309", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "016-TUT (7583)", 
+    "basic": {
+        "class_num": "7583", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "016", 
+        "status": "Open", 
+        "subject": "FREN", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM306", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

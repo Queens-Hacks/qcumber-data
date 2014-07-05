@@ -1,0 +1,24 @@
+{
+    "_unique": "003-TUT (4509)", 
+    "basic": {
+        "class_num": "4509", 
+        "course": "131B", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "RELS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM110", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

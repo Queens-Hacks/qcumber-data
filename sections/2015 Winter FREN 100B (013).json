@@ -1,0 +1,26 @@
+{
+    "_unique": "013-TUT (6906)", 
+    "basic": {
+        "class_num": "6906", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "013", 
+        "status": "Open", 
+        "subject": "FREN", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Conacher, Agnes M"
+            ], 
+            "location": "KINGSTON RM310", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

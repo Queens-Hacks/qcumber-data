@@ -1,0 +1,33 @@
+{
+    "_unique": "318-LAB (4897)", 
+    "basic": {
+        "class_num": "4897", 
+        "course": "142", 
+        "season": "Winter", 
+        "solus_id": "318", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

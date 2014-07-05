@@ -1,0 +1,26 @@
+{
+    "_unique": "006-LEC (5980)", 
+    "basic": {
+        "class_num": "5980", 
+        "course": "122A", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Beamish, Robin B"
+            ], 
+            "location": "STIRLING RM C", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

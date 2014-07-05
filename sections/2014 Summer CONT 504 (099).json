@@ -1,0 +1,510 @@
+{
+    "_unique": "099-LEC (1653)", 
+    "basic": {
+        "class_num": "1653", 
+        "course": "504", 
+        "season": "Summer", 
+        "solus_id": "099", 
+        "status": "Open", 
+        "subject": "CONT", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-07T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-14T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-21T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2014-05-28T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }
+    ]
+}

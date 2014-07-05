@@ -1,0 +1,26 @@
+{
+    "_unique": "006-SEM (6834)", 
+    "basic": {
+        "class_num": "6834", 
+        "course": "122A", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [
+                "Pehlivan, Zozan"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "1900-01-01T16:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

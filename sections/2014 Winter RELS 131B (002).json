@@ -1,0 +1,24 @@
+{
+    "_unique": "002-TUT (5304)", 
+    "basic": {
+        "class_num": "5304", 
+        "course": "131B", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "RELS", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E230", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }
+    ]
+}

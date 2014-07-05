@@ -1,0 +1,37 @@
+{
+    "_unique": "013-LEC (4107)", 
+    "basic": {
+        "class_num": "4107", 
+        "course": "191B", 
+        "season": "Winter", 
+        "solus_id": "013", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Hill, Ann Marie"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Hill, Ann Marie"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
+        }
+    ]
+}
