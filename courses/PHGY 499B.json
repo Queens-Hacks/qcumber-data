@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An investigation in a selected area of physiology. The project involves experimental design, data collection and analysis, submission of\u00a0written reports, and oral presentations. Students attend seminars/tutorials on related topics. \r\nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also register in LISC 488/0.0.", 
+        "number": "499B", 
+        "subject": "PHGY", 
+        "title": "Research Project in Physiology"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Project": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall, Winter", 
         "units": "9.00"
-    }, 
-    "basic": {
-        "description": "An investigation in a selected area of physiology. The project involves experimental design, data collection and analysis, submission of\u00a0written reports, and oral presentations. Students attend seminars/tutorials on related topics. \r\nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also register in LISC 488/0.0.", 
-        "subject": "PHGY", 
-        "number": "499B", 
-        "title": "Research Project in Physiology"
     }
 }

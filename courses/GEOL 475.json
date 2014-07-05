@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Rock-water interaction and element migration in near surface environments applied to environmental and exploration problems. Students learn field and analytical techniques, evaluate and interpret geochemical data, and design solutions related to geochemical hazards to human health, environmental impact of mining, and detection of mineral deposits.", 
+        "number": "475", 
+        "subject": "GEOL", 
+        "title": "Exploration and Environmental Geochemistry"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL365 or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from GEOL465, GEOL475, GEOL485.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Rock-water interaction and element migration in near surface environments applied to environmental and exploration problems. Students learn field and analytical techniques, evaluate and interpret geochemical data, and design solutions related to geochemical hazards to human health, environmental impact of mining, and detection of mineral deposits.", 
-        "subject": "GEOL", 
-        "number": "475", 
-        "title": "Exploration and Environmental Geochemistry"
     }
 }

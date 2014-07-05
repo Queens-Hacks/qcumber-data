@@ -1,26 +1,26 @@
 {
+    "_unique": "700-LEC (2987)", 
     "basic": {
         "class_num": "2987", 
-        "subject": "MATH", 
-        "status": "Open", 
         "course": "121B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "700", 
+        "status": "Open", 
+        "subject": "MATH", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "700-LEC (2987)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Ableson, Alan"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

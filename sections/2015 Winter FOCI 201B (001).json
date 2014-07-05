@@ -1,59 +1,59 @@
 {
+    "_unique": "001-LEC (7893)", 
     "basic": {
         "class_num": "7893", 
-        "subject": "FOCI", 
-        "status": "Closed", 
         "course": "201B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "FOCI", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (7893)", 
     "classes": [
         {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
+            "instructors": [
+                "Morcom, Lindsay"
+            ], 
+            "location": "DUNCAN MCARTHUR\u00a0 RM A313N", 
+            "start_time": "1900-01-01T15:50:00", 
             "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Morcom, Lindsay"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR RM A313S", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR\u00a0 RM A313N"
-        }, 
-        {
             "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Morcom, Lindsay"
-            ], 
-            "end_time": "1900-01-01T17:50:00", 
-            "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A313S"
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Morcom, Lindsay"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR\u00a0 RM A313N", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR\u00a0 RM A313N"
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
         }, 
         {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Morcom, Lindsay"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR RM A313S", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A313S"
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
         }
     ]
 }

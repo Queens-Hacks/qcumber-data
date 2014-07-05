@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course focuses on contemporary sociological perspectives of culture. It includes a survey of various theoretical positions vis \u00e0 vis culture and society such as the high and low culture distinction, the rise of mass culture; cultural hegemony;\u00a0populism and social resistance. Canadian culture is the predominant object of analysis.", 
+        "number": "362", 
+        "subject": "SOCY", 
+        "title": "Cultural Studies"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C- in SOCY122/6.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course focuses on contemporary sociological perspectives of culture. It includes a survey of various theoretical positions vis \u00e0 vis culture and society such as the high and low culture distinction, the rise of mass culture; cultural hegemony;\u00a0populism and social resistance. Canadian culture is the predominant object of analysis.", 
-        "subject": "SOCY", 
-        "number": "362", 
-        "title": "Cultural Studies"
     }
 }

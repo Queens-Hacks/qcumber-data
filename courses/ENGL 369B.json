@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of prose fiction from the twentieth and twenty-first centuries.", 
+        "number": "369B", 
+        "subject": "ENGL", 
+        "title": "Modern and Contemporary Prose Fiction"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A study of prose fiction from the twentieth and twenty-first centuries.", 
-        "subject": "ENGL", 
-        "number": "369B", 
-        "title": "Modern and Contemporary Prose Fiction"
     }
 }

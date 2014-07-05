@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "(Internship Technological Education candidates only). Teacher candidates further investigate concepts, practices, and processes of the curriculum field to link the community to school technological education programs. Teacher candidates use this knowledge and their school experiences to articulate community-based projects that will guide their practice as curriculum planners. Candidates develop a Grade 11 or 12 community-based project and project report.", 
+        "number": "394", 
+        "subject": "CURR", 
+        "title": "Curriculum Dev in Tech Ed,Pt 3"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "(Internship Technological Education candidates only). Teacher candidates further investigate concepts, practices, and processes of the curriculum field to link the community to school technological education programs. Teacher candidates use this knowledge and their school experiences to articulate community-based projects that will guide their practice as curriculum planners. Candidates develop a Grade 11 or 12 community-based project and project report.", 
-        "subject": "CURR", 
-        "number": "394", 
-        "title": "Curriculum Dev in Tech Ed,Pt 3"
     }
 }

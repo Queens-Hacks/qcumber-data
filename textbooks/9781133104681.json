@@ -1,1 +1,15 @@
-{"isbn_13": "9781133104681", "isbn_10": "1133104681", "classified_info": "0 classified listings", "new_price": "$118.40", "used_price": "$88.80", "authors": "Ph.D. Vern J. Ostdiek", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13379-PHE134-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["PHE 134"], "required": true, "new_available": 2, "title": "Inquiry into Physics"}
+{
+    "authors": "Ph.D. Vern J. Ostdiek", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "PHE 134"
+    ], 
+    "isbn_10": "1133104681", 
+    "isbn_13": "9781133104681", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13379-PHE134-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 2, 
+    "new_price": "$118.40", 
+    "required": true, 
+    "title": "Inquiry into Physics", 
+    "used_price": "$88.80"
+}

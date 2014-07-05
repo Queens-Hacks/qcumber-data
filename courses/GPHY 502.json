@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Research project in Geography supervised by a member of the faculty. Research involving the amount of work associated with other senior 3.0 unit courses will be done as GPHY 502/3.0.\r\nNOTE\u00a0\u00a0\u00a0 Admission is subject to the availability of supervisors.", 
+        "number": "502", 
+        "subject": "GPHY", 
+        "title": "Research and Thesis in Geography I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "typically_offered": "Fall", 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 Level 4 and (a GPA of 3.50 in 24.0 units in GPHY) and (registration in a GPHY or EGPY Plan), or by petition to the Departmental UG Committee.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Research project in Geography supervised by a member of the faculty. Research involving the amount of work associated with other senior 3.0 unit courses will be done as GPHY 502/3.0.\r\nNOTE\u00a0\u00a0\u00a0 Admission is subject to the availability of supervisors.", 
-        "subject": "GPHY", 
-        "number": "502", 
-        "title": "Research and Thesis in Geography I"
     }
 }

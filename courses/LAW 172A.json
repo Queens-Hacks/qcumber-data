@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Study of principles upon which criminal guilt is determined, including defences such as intoxication, mental disorder and self-defence. The course also critically assesses the impact of the Charter of Rights and Freedoms, the adversary system, the presumption of innocence, ethical issues in roles of prosecutors and defence counsel, issues of diversity and sentencing. Special consideration is given to the offences of murder, manslaughter and sexual assault.6 credits, two terms.", 
+        "number": "172A", 
+        "subject": "LAW", 
+        "title": "Criminal Law"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Study of principles upon which criminal guilt is determined, including defences such as intoxication, mental disorder and self-defence. The course also critically assesses the impact of the Charter of Rights and Freedoms, the adversary system, the presumption of innocence, ethical issues in roles of prosecutors and defence counsel, issues of diversity and sentencing. Special consideration is given to the offences of murder, manslaughter and sexual assault.6 credits, two terms.", 
-        "subject": "LAW", 
-        "number": "172A", 
-        "title": "Criminal Law"
     }
 }

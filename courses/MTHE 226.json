@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "First order differential equations, linear differential equations with constant coefficients, and applications, Laplace transforms, systems of linear equations. (36/0/0/0/0) ~ COURSE DELETED IN 2008/09 ~", 
+        "number": "226", 
+        "subject": "MTHE", 
+        "title": "Differential Equations"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 36
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 36, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "First order differential equations, linear differential equations with constant coefficients, and applications, Laplace transforms, systems of linear equations. (36/0/0/0/0) ~ COURSE DELETED IN 2008/09 ~", 
-        "subject": "MTHE", 
-        "number": "226", 
-        "title": "Differential Equations"
     }
 }

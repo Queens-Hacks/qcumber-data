@@ -1,1 +1,16 @@
-{"isbn_13": "9780073382203", "used_available": 5, "required": true, "isbn_10": "0073382205", "new_price": "$186.63", "authors": "Edwin Wilson", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13636-DRAM200-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["DRAM 200", "DRAM 300"], "used_price": "$139.97", "title": "Living Theatre", "classified_info": "1 classified listing: $70.00"}
+{
+    "authors": "Edwin Wilson", 
+    "classified_info": "1 classified listing: $70.00", 
+    "courses": [
+        "DRAM 200", 
+        "DRAM 300"
+    ], 
+    "isbn_10": "0073382205", 
+    "isbn_13": "9780073382203", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13636-DRAM200-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$186.63", 
+    "required": true, 
+    "title": "Living Theatre", 
+    "used_available": 5, 
+    "used_price": "$139.97"
+}

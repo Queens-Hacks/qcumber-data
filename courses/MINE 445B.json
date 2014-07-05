@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The material of MINE 441 is applied to the design of an open pit mine. Special attention is given to the selection of equipment and the use of computers in mine planning and scheduling. The course uses source code software and AutoCAD in the computing laboratory to enable small groups of students (2-4) to complete mine designs starting with topography maps, drill information, and mineral inventory block models. Several real deposit databases including gold, copper, copper/molybdenum, copper/zinc and oil sand are evaluated, profitability assessed, and production decisions discussed.", 
+        "number": "445B", 
+        "subject": "MINE", 
+        "title": "Open Pit Mine Design"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 20, 
             "Eng Des": 46, 
             "Eng Sci": 0, 
-            "Comp St": 20
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
+            "Lecture": "Required", 
+            "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite: Completion of all 2nd year course and MINE341 and\u00a0 ( MINE 326 or MINE467) and registered in a BSCE Academic Program", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "5.50"
-    }, 
-    "basic": {
-        "description": "The material of MINE 441 is applied to the design of an open pit mine. Special attention is given to the selection of equipment and the use of computers in mine planning and scheduling. The course uses source code software and AutoCAD in the computing laboratory to enable small groups of students (2-4) to complete mine designs starting with topography maps, drill information, and mineral inventory block models. Several real deposit databases including gold, copper, copper/molybdenum, copper/zinc and oil sand are evaluated, profitability assessed, and production decisions discussed.", 
-        "subject": "MINE", 
-        "number": "445B", 
-        "title": "Open Pit Mine Design"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Introduces religion in India, China and Japan; also the movements of Judaism, Christianity, Islam and Humanism.\r\nNOTE\u00a0\u00a0\u00a0 Also offered\u00a0as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "131B", 
+        "subject": "RELS", 
+        "title": "World Religions/Religious Worlds"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Introduces religion in India, China and Japan; also the movements of Judaism, Christianity, Islam and Humanism.\r\nNOTE\u00a0\u00a0\u00a0 Also offered\u00a0as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "RELS", 
-        "number": "131B", 
-        "title": "World Religions/Religious Worlds"
     }
 }

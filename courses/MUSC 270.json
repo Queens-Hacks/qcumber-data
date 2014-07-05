@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to basic principles of conducting,\u00a0baton and rehearsal techniques.", 
+        "number": "270", 
+        "subject": "MUSC", 
+        "title": "Beginning Conducting Techniques"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 MUSC 191/6.0 and (MUSC 121/6.0 or MUSC 124/6.0) and (6.0 units from MUSC 180/3.0; MUSC 181/3.0; MUSC 183/3.0; MUSC 185/3.0; MUSC 187/3.0; MUSC 188/3.0).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to basic principles of conducting,\u00a0baton and rehearsal techniques.", 
-        "subject": "MUSC", 
-        "number": "270", 
-        "title": "Beginning Conducting Techniques"
     }
 }

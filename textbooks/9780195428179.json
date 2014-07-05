@@ -1,1 +1,15 @@
-{"isbn_13": "9780195428179", "required": true, "isbn_10": "019542817X", "new_price": "$71.97", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13787-ENGL237#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull", "courses": ["ENGL 237", "ENGL 856"], "classified_info": "10 classified listings: $6.00 to $45.00", "title": "From Instruction to Delight", "new_available": 4, "used_price": "$53.98"}
+{
+    "classified_info": "10 classified listings: $6.00 to $45.00", 
+    "courses": [
+        "ENGL 237", 
+        "ENGL 856"
+    ], 
+    "isbn_10": "019542817X", 
+    "isbn_13": "9780195428179", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13787-ENGL237#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull", 
+    "new_available": 4, 
+    "new_price": "$71.97", 
+    "required": true, 
+    "title": "From Instruction to Delight", 
+    "used_price": "$53.98"
+}

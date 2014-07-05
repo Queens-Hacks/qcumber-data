@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Detailed histological assessment of selected organs and tissues. Winter Term, alternating years. Lectures and seminars. M.D. Kawaja. \u00a0Not offered 2010-2011.", 
+        "number": "833", 
+        "subject": "ANAT", 
+        "title": "Topics In Mammalian Histology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Detailed histological assessment of selected organs and tissues. Winter Term, alternating years. Lectures and seminars. M.D. Kawaja. \u00a0Not offered 2010-2011.", 
-        "subject": "ANAT", 
-        "number": "833", 
-        "title": "Topics In Mammalian Histology"
     }
 }

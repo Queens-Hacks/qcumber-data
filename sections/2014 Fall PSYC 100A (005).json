@@ -1,24 +1,24 @@
 {
+    "_unique": "005-LAB (5713)", 
     "basic": {
         "class_num": "5713", 
-        "subject": "PSYC", 
-        "status": "Open", 
         "course": "100A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "005", 
+        "status": "Open", 
+        "subject": "PSYC", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "005-LAB (5713)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 1, 
-            "location": "HUMPHREY RM131"
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM131", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

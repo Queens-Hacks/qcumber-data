@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An opportunity will be given to students to study a range of issues in family law in greater depth than is possible in the introductory course. (To be offered jointly with LAW-525.) Three term-hours; Winter. M. Bailey.", 
+        "number": "875", 
+        "subject": "LAW", 
+        "title": "Advanced Seminar In Family Law"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An opportunity will be given to students to study a range of issues in family law in greater depth than is possible in the introductory course. (To be offered jointly with LAW-525.) Three term-hours; Winter. M. Bailey.", 
-        "subject": "LAW", 
-        "number": "875", 
-        "title": "Advanced Seminar In Family Law"
     }
 }

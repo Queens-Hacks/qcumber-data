@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course involves an overview of the various ways environmental education can be integrated into all subject areas. PJ teacher candidates will concentrate on project and place-based curricula that combines many subject areas in practical, holistic experiences. For IS teacher candidates, the emphasis will be on learning to design, propose, fund, implement and assess an integrated credit package of courses that go by different names throughout Ontario (Integrated, Focus and High Skills majors). Both the theory and practical ideas offered in the course will emphasize creating authentic learning experiences that focus on local, environmental and nature-based issues. Course is not open to students enrolled in the OEE program track.", 
+        "number": "432", 
+        "subject": "EDST", 
+        "title": "Integr Enviro Educ In Teaching"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course involves an overview of the various ways environmental education can be integrated into all subject areas. PJ teacher candidates will concentrate on project and place-based curricula that combines many subject areas in practical, holistic experiences. For IS teacher candidates, the emphasis will be on learning to design, propose, fund, implement and assess an integrated credit package of courses that go by different names throughout Ontario (Integrated, Focus and High Skills majors). Both the theory and practical ideas offered in the course will emphasize creating authentic learning experiences that focus on local, environmental and nature-based issues. Course is not open to students enrolled in the OEE program track.", 
-        "subject": "EDST", 
-        "number": "432", 
-        "title": "Integr Enviro Educ In Teaching"
     }
 }

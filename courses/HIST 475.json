@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The seminar considers capitalism as the result of economic, social, political, and cultural change within interconnected regions of the world during the past millennium. Readings introduce scholarly critiques of Eurocentrism along with Marxist and post-structuralist critiques of capitalism and analyze increasing inequality between peoples and within societies over time.", 
+        "number": "475", 
+        "subject": "HIST", 
+        "title": "Capitalism: A History"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A Grade of C+ in 6.0 units from HIST 300-329 and registration in a HIST Major or Medial Plan.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "The seminar considers capitalism as the result of economic, social, political, and cultural change within interconnected regions of the world during the past millennium. Readings introduce scholarly critiques of Eurocentrism along with Marxist and post-structuralist critiques of capitalism and analyze increasing inequality between peoples and within societies over time.", 
-        "subject": "HIST", 
-        "number": "475", 
-        "title": "Capitalism: A History"
     }
 }

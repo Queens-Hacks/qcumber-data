@@ -1,1 +1,15 @@
-{"isbn_13": "9780803614994", "isbn_10": "0803614993", "classified_info": "0 classified listings", "new_price": "$63.02", "used_price": "$47.26", "authors": "Schwartzberg", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13589-OT852-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["OT 852"], "required": true, "new_available": 31, "title": "Groups"}
+{
+    "authors": "Schwartzberg", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "OT 852"
+    ], 
+    "isbn_10": "0803614993", 
+    "isbn_13": "9780803614994", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13589-OT852-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 31, 
+    "new_price": "$63.02", 
+    "required": true, 
+    "title": "Groups", 
+    "used_price": "$47.26"
+}

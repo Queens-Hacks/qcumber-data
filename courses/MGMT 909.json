@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course sequence is designed to ensure that students have the requisite knowledge and skill to conduct independent research. This includes a survey of research methods including Ethnographic Field Methods, Archival techniques, Econometrics, and Advanced Multivariate Analysis. Prior to enrolling in this course, students may be expected to demonstrate basic competency with commonly used statistical concepts and procedures such as probability theory, ANOVA, MANOVA, factor analysis, multiple regression, and similar procedures. Students should be able to describe when the use of such concepts and procedures are appropriate, cite the kinds of data/sampling requirements that must be met in their use, and interpret how results of such analyses can be used to answer a variety of research questions.", 
+        "number": "909", 
+        "subject": "MGMT", 
+        "title": "Research Methods For Strategy"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course sequence is designed to ensure that students have the requisite knowledge and skill to conduct independent research. This includes a survey of research methods including Ethnographic Field Methods, Archival techniques, Econometrics, and Advanced Multivariate Analysis. Prior to enrolling in this course, students may be expected to demonstrate basic competency with commonly used statistical concepts and procedures such as probability theory, ANOVA, MANOVA, factor analysis, multiple regression, and similar procedures. Students should be able to describe when the use of such concepts and procedures are appropriate, cite the kinds of data/sampling requirements that must be met in their use, and interpret how results of such analyses can be used to answer a variety of research questions.", 
-        "subject": "MGMT", 
-        "number": "909", 
-        "title": "Research Methods For Strategy"
     }
 }

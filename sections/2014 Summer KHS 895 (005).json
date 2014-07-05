@@ -1,26 +1,26 @@
 {
+    "_unique": "005-LEC (1297)", 
     "basic": {
         "class_num": "1297", 
-        "subject": "KHS", 
-        "status": "Closed", 
         "course": "895", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "005", 
+        "status": "Closed", 
+        "subject": "KHS", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "005-LEC (1297)", 
     "classes": [
         {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Fischer, Steve"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
         }
     ]
 }

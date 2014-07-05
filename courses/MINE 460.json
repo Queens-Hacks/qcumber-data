@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course will change from year to year as subjects of special interest to mining engineers arise, or as special staff are available.", 
+        "number": "460", 
+        "subject": "MINE", 
+        "title": "Special Topics In Mining Engr"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 27, 
+            "Eng Sci": 27, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BSCE program", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 27, 
-            "Eng Sci": 27, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "This course will change from year to year as subjects of special interest to mining engineers arise, or as special staff are available.", 
-        "subject": "MINE", 
-        "number": "460", 
-        "title": "Special Topics In Mining Engr"
     }
 }

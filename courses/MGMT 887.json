@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course examines the making of international economic policy from both normative and positive perspectives. Special attention will be given to the strategic implications of international borders for policy makers and managers. Topics include: optimal trade policy, political economy of protection, dispute resolution under NAFTA and the WTO, design of the international financial architecture, exchange rate regimes, skill-focused migration policy, and the international absorption and protection of technological knowledge.", 
+        "number": "887", 
+        "subject": "MGMT", 
+        "title": "International Economic Policy & Global Management"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines the making of international economic policy from both normative and positive perspectives. Special attention will be given to the strategic implications of international borders for policy makers and managers. Topics include: optimal trade policy, political economy of protection, dispute resolution under NAFTA and the WTO, design of the international financial architecture, exchange rate regimes, skill-focused migration policy, and the international absorption and protection of technological knowledge.", 
-        "subject": "MGMT", 
-        "number": "887", 
-        "title": "International Economic Policy & Global Management"
     }
 }

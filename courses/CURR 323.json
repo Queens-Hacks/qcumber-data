@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Using a Geography context, the program provides instruction in basic lesson planning,\u00a0 short term & long term planning, assessment and evaluation as well as essential classroom management.\u00a0 Participants become familiar with the various Ministry of Education curriculum documents and resources related to teaching IS Geography.\u00a0 In addition, there is a strong focus on exploring supplementary resources related to teaching contemporary Geography.", 
+        "number": "323", 
+        "subject": "CURR", 
+        "title": "Geography (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Using a Geography context, the program provides instruction in basic lesson planning,\u00a0 short term & long term planning, assessment and evaluation as well as essential classroom management.\u00a0 Participants become familiar with the various Ministry of Education curriculum documents and resources related to teaching IS Geography.\u00a0 In addition, there is a strong focus on exploring supplementary resources related to teaching contemporary Geography.", 
-        "subject": "CURR", 
-        "number": "323", 
-        "title": "Geography (IS)"
     }
 }

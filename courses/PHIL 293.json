@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to environmental philosophy through a study of readings that have exercised a formative influence on Western thinking about the relationship between humans and the rest of nature, and hence also about human nature itself. The course will offer an environmental perspective on the history of philosophy from ancient to recent times.", 
+        "number": "293", 
+        "subject": "PHIL", 
+        "title": "Humans and the Natural World"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Completed\u00a0 30.0 or more units", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to environmental philosophy through a study of readings that have exercised a formative influence on Western thinking about the relationship between humans and the rest of nature, and hence also about human nature itself. The course will offer an environmental perspective on the history of philosophy from ancient to recent times.", 
-        "subject": "PHIL", 
-        "number": "293", 
-        "title": "Humans and the Natural World"
     }
 }

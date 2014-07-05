@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course explores the North American Jewish engagement with modern ideologies such as secularism, antisemitism, liberalism, nationalism, socialism, feminism, and neo-conservativism. Other specific topics include the secularization of universities; the recent retrenchment of Orthodox Judaism; and the resurgence of 'popular atheism.'", 
+        "number": "339B", 
+        "subject": "HIST", 
+        "title": "Jews Without Judaism"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "This course explores the North American Jewish engagement with modern ideologies such as secularism, antisemitism, liberalism, nationalism, socialism, feminism, and neo-conservativism. Other specific topics include the secularization of universities; the recent retrenchment of Orthodox Judaism; and the resurgence of 'popular atheism.'", 
-        "subject": "HIST", 
-        "number": "339B", 
-        "title": "Jews Without Judaism"
     }
 }

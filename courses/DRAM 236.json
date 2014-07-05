@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to the principles and skills of preparing and delivering effective oral presentations. Using acting techniques and the principles of theatre, students will explore confidence building, vocal and physical dynamics as well as creative expression.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36G;36Pc;36P)", 
+        "number": "236", 
+        "subject": "DRAM", 
+        "title": "Public Presentation"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of B- in 6.0 units from (DRAM100; DRAM181; BISC100; BISC101) or permission of the Dept.\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from DRAM236; DRAM237; DRAM238; DRAM239", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the principles and skills of preparing and delivering effective oral presentations. Using acting techniques and the principles of theatre, students will explore confidence building, vocal and physical dynamics as well as creative expression.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36G;36Pc;36P)", 
-        "subject": "DRAM", 
-        "number": "236", 
-        "title": "Public Presentation"
     }
 }

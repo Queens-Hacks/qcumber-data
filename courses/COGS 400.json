@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Neural and genetic computational techniques, along with models of human cognition, perception, and memory built on these methods. Problem-solving techniques that have arisen from neural and genetic computation are also studied, including optimization, classification, and data reduction.", 
+        "number": "400", 
+        "subject": "COGS", 
+        "title": "Neural and Genetic Cognitive Models"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 COGS300.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from COGS400; CISC452.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Neural and genetic computational techniques, along with models of human cognition, perception, and memory built on these methods. Problem-solving techniques that have arisen from neural and genetic computation are also studied, including optimization, classification, and data reduction.", 
-        "subject": "COGS", 
-        "number": "400", 
-        "title": "Neural and Genetic Cognitive Models"
     }
 }

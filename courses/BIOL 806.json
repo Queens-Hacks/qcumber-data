@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Plant Molecular Biology", 
+        "number": "806", 
+        "subject": "BIOL", 
+        "title": "Plant Molecular Biology"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Plant Molecular Biology", 
-        "subject": "BIOL", 
-        "number": "806", 
-        "title": "Plant Molecular Biology"
     }
 }

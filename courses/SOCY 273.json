@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The social matrix of personality, socialization as a social process, the influence of social structure and culture upon socialization practices, and the patterning of personality through the life cycle.", 
+        "number": "273", 
+        "subject": "SOCY", 
+        "title": "Social Psychology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C- in SOCY122/6.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The social matrix of personality, socialization as a social process, the influence of social structure and culture upon socialization practices, and the patterning of personality through the life cycle.", 
-        "subject": "SOCY", 
-        "number": "273", 
-        "title": "Social Psychology"
     }
 }

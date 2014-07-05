@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides a solid understanding of the economic causes and consequences of environmental problems and suggests practical solutions. Microeconomic analysis is used to help address a range of issues related to the environment. Likely topics include global environmental problems, sustainable development, environmental law, strategic models of regulation, environmental ethics, and bioeconomic models.", 
+        "number": "391", 
+        "subject": "ECON", 
+        "title": "Topics in Environmental Economics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ECON212", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides a solid understanding of the economic causes and consequences of environmental problems and suggests practical solutions. Microeconomic analysis is used to help address a range of issues related to the environment. Likely topics include global environmental problems, sustainable development, environmental law, strategic models of regulation, environmental ethics, and bioeconomic models.", 
-        "subject": "ECON", 
-        "number": "391", 
-        "title": "Topics in Environmental Economics"
     }
 }

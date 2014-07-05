@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An advanced course that will focus on current research topics in selected areas of Neuroscience. Topics will include research in all fields of specialization within the Neuroscience graduate program (Cellular/Molecular Neuroscience, Systems Neuroscience, Cognitive/Behavioural Neuroscience, Neurological and; Psychiatric Disorders) to introduce students to the breadth of research in Neuroscience.\u00a0 This course is required for all M.Sc. students in the Neuroscience graduate program.Three hour seminar/week: fall. TBA", 
+        "number": "800", 
+        "subject": "NSCI", 
+        "title": "Neuroscience Current Concepts"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An advanced course that will focus on current research topics in selected areas of Neuroscience. Topics will include research in all fields of specialization within the Neuroscience graduate program (Cellular/Molecular Neuroscience, Systems Neuroscience, Cognitive/Behavioural Neuroscience, Neurological and; Psychiatric Disorders) to introduce students to the breadth of research in Neuroscience.\u00a0 This course is required for all M.Sc. students in the Neuroscience graduate program.Three hour seminar/week: fall. TBA", 
-        "subject": "NSCI", 
-        "number": "800", 
-        "title": "Neuroscience Current Concepts"
     }
 }

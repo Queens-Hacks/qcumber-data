@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Students will view and analyze a selection of Almod\u00f3var\u00bfs films within the context of Spain and other countries. The study of gender, sexual, cultural and societal identity and other fundamentals of contemporary theory will be central to this course.", 
+        "number": "309", 
+        "subject": "LLCU", 
+        "title": "The Films of Pedro Almod\u00f3var"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 3 or permission of the Dept. of Languages, Literatures and Cultures.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from LLCU309; SPAN308; SPAN408.\r\nEquivalency\u00a0\u00a0\u00a0 SPAN308.", 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Students will view and analyze a selection of Almod\u00f3var\u00bfs films within the context of Spain and other countries. The study of gender, sexual, cultural and societal identity and other fundamentals of contemporary theory will be central to this course.", 
-        "subject": "LLCU", 
-        "number": "309", 
-        "title": "The Films of Pedro Almod\u00f3var"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "_unique": "001-IND (6423)", 
     "basic": {
         "class_num": "6423", 
-        "subject": "PSYC", 
-        "status": "Open", 
         "course": "570", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PSYC", 
         "type": "IND", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-IND (6423)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

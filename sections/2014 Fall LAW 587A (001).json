@@ -1,26 +1,26 @@
 {
+    "_unique": "001-IND (1117)", 
     "basic": {
         "class_num": "1117", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "587A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "IND", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-IND (1117)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-02T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Adell, Bernard"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00"
         }
     ]
 }

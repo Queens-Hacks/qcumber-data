@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course covers basic wave theory, wave measurement, wave statistics, wave record analysis, wave transformation, tides, water levels and storm surges. It introduces design of breakwaters and ocean structures, and uses hydraulic and numerical coastal models. Utilization of bioengineering in the coastal zone is addressed. Design and construction issues associated with harbours and marinas are discussed. Shoreline stability in relation to sediment transport and external environmental parameters are introduced. Environmental considerations, coastal zone management, coastal sediment transport and design in the coastal zone are also treated.\u00a0 Three term-hours.", 
+        "number": "859", 
+        "subject": "CIVL", 
+        "title": "Fundamentals Of Coastal Engr."
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course covers basic wave theory, wave measurement, wave statistics, wave record analysis, wave transformation, tides, water levels and storm surges. It introduces design of breakwaters and ocean structures, and uses hydraulic and numerical coastal models. Utilization of bioengineering in the coastal zone is addressed. Design and construction issues associated with harbours and marinas are discussed. Shoreline stability in relation to sediment transport and external environmental parameters are introduced. Environmental considerations, coastal zone management, coastal sediment transport and design in the coastal zone are also treated.\u00a0 Three term-hours.", 
-        "subject": "CIVL", 
-        "number": "859", 
-        "title": "Fundamentals Of Coastal Engr."
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "003-TUT (2082)", 
     "basic": {
         "class_num": "2082", 
-        "subject": "CHEE", 
-        "status": "Open", 
         "course": "223", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "CHEE", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "003-TUT (2082)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Escobedo, Carlos"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "ELLIS RM324", 
             "start_time": "1900-01-01T16:30:00", 
-            "day_of_week": 4, 
-            "location": "ELLIS RM324"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

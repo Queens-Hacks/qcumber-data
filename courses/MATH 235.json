@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "First order differential equations, linear differential equations with constant coefficients. Laplace transforms. Systems of linear differential equations. Examples involving the use of differential equations in solving circuits will be presented. (30/0/0/6/0)", 
+        "number": "235", 
+        "subject": "MATH", 
+        "title": "Diff Equations For Elec & Comp"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Exclusions: MATH231 and MATH232.\u00a0 Prerequisite of APSC171 and APSC172 and APSC174", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "First order differential equations, linear differential equations with constant coefficients. Laplace transforms. Systems of linear differential equations. Examples involving the use of differential equations in solving circuits will be presented. (30/0/0/6/0)", 
-        "subject": "MATH", 
-        "number": "235", 
-        "title": "Diff Equations For Elec & Comp"
     }
 }

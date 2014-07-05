@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Intensive study of a special topic, period, or author(s) in the world of Rome. For information contact the Department.", 
+        "number": "420", 
+        "subject": "CLST", 
+        "title": "Topics in Latin/Roman Scholarship I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "typically_offered": "Fall", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intensive study of a special topic, period, or author(s) in the world of Rome. For information contact the Department.", 
-        "subject": "CLST", 
-        "number": "420", 
-        "title": "Topics in Latin/Roman Scholarship I"
     }
 }

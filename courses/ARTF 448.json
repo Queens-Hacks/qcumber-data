@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A continuation of individual programs.\r\nNOTE\u00a0\u00a0\u00a0 See description of ARTF 447/9.0.", 
+        "number": "448", 
+        "subject": "ARTF", 
+        "title": "Individual Programs II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A minimum grade of C- in ARTF447.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "9.00"
-    }, 
-    "basic": {
-        "description": "A continuation of individual programs.\r\nNOTE\u00a0\u00a0\u00a0 See description of ARTF 447/9.0.", 
-        "subject": "ARTF", 
-        "number": "448", 
-        "title": "Individual Programs II"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (2905)", 
     "basic": {
         "class_num": "2905", 
-        "subject": "DEVS", 
-        "status": "Open", 
         "course": "230", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DEVS", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (2905)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Soederberg, Susanne M"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "DUPUIS AUD", 
             "start_time": "1900-01-01T15:30:00", 
-            "day_of_week": 3, 
-            "location": "DUPUIS AUD"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

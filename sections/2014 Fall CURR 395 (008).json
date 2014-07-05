@@ -1,33 +1,33 @@
 {
+    "_unique": "008-LEC (7439)", 
     "basic": {
         "class_num": "7439", 
-        "subject": "CURR", 
-        "status": "Open", 
         "course": "395", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "008", 
+        "status": "Open", 
+        "subject": "CURR", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "008-LEC (7439)", 
     "classes": [
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR GYM"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR GYM", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR GYM"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR GYM", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

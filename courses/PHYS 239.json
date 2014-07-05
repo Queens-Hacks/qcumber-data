@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The experimental basis and mathematical description of electrostatics, magnetostatics and electromagnetic induction, together with a discussion of the properties of dielectrics and ferromagnetics, are presented.\u00a0 Both the integral and vector forms of Maxwell's equations are deduced.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 A minimum grade of C in PHYS 104/6.0 or PHYS 106/6.0.", 
+        "number": "239", 
+        "subject": "PHYS", 
+        "title": "Electromagnetism"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (PHYS104 or PHYS106) and (MATH221 or MATH227 or MATH280).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The experimental basis and mathematical description of electrostatics, magnetostatics and electromagnetic induction, together with a discussion of the properties of dielectrics and ferromagnetics, are presented.\u00a0 Both the integral and vector forms of Maxwell's equations are deduced.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 A minimum grade of C in PHYS 104/6.0 or PHYS 106/6.0.", 
-        "subject": "PHYS", 
-        "number": "239", 
-        "title": "Electromagnetism"
     }
 }

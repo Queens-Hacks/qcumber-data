@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (2847)", 
     "basic": {
         "class_num": "2847", 
-        "subject": "FILM", 
-        "status": "Open", 
         "course": "305", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "FILM", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-LAB (2847)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T21:30:00", 
             "instructors": [
                 "Burke, Francis Martin"
             ], 
-            "end_time": "1900-01-01T21:30:00", 
+            "location": "IBCPA RM222", 
             "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 4, 
-            "location": "IBCPA RM222"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course examines planning and management issues and tools in environmental services, such as inventory management, needs assessment, demand management, and investment decisions. The emphasis is on planning, management and financing options and their relationship to land use and urban form.\u00a0\u00a0", 
+        "number": "855", 
+        "subject": "SURP", 
+        "title": "Environ. Planning & Management"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 36, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "typically_offered": "Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 36
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines planning and management issues and tools in environmental services, such as inventory management, needs assessment, demand management, and investment decisions. The emphasis is on planning, management and financing options and their relationship to land use and urban form.\u00a0\u00a0", 
-        "subject": "SURP", 
-        "number": "855", 
-        "title": "Environ. Planning & Management"
     }
 }

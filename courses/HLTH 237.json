@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "An overview of theoretical and practical issues. Topics include drug action, theories of drug abuse, treatment strategies, and community resources. Students prepare group presentations on trends, needs of selected populations, and issues of controversy.", 
+        "number": "237", 
+        "subject": "HLTH", 
+        "title": "Introduction to the Study of Alcohol and Drug Problems"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An overview of theoretical and practical issues. Topics include drug action, theories of drug abuse, treatment strategies, and community resources. Students prepare group presentations on trends, needs of selected populations, and issues of controversy.", 
-        "subject": "HLTH", 
-        "number": "237", 
-        "title": "Introduction to the Study of Alcohol and Drug Problems"
     }
 }

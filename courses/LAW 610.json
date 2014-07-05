@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "610", 
+        "subject": "LAW", 
+        "title": "Private Int'l Business Law"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "LAW 440", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "LAW", 
-        "number": "610", 
-        "title": "Private Int'l Business Law"
     }
 }

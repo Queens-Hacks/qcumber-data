@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course prepares students for the completion of OT- 898 by examining world views, research designs, criteria for study quality, and evidence-based practice. Students develop skills to pose clinical questions, systematically search the literature, appraise scientific articles, and use research to inform rehabilitation practice.\u00a0 PREREQUISITE: Registration in the occupational therapy program.", 
+        "number": "897", 
+        "subject": "OT", 
+        "title": "Critical Enquiry Foundations"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course prepares students for the completion of OT- 898 by examining world views, research designs, criteria for study quality, and evidence-based practice. Students develop skills to pose clinical questions, systematically search the literature, appraise scientific articles, and use research to inform rehabilitation practice.\u00a0 PREREQUISITE: Registration in the occupational therapy program.", 
-        "subject": "OT", 
-        "number": "897", 
-        "title": "Critical Enquiry Foundations"
     }
 }

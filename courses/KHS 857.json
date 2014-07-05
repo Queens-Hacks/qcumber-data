@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This is a lecture-seminar-laboratory based course covering the application, instrumentation, acquisition, signal processing and management of electrical signal data as they are used in the study of biomechanics and neuromuscular physiology. Although the principles learned can be applied to many types of motor performance data, there will be an emphasis on electromyography. Laboratory exercises will be used to illustrate key issues related to signal acquisition and processing. Seminar presentations will allow students to investigate and present the application of data acquisition and processing specific to their particular area of interest.", 
+        "number": "857", 
+        "subject": "KHS", 
+        "title": "data Acquisition & Instrumentatation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This is a lecture-seminar-laboratory based course covering the application, instrumentation, acquisition, signal processing and management of electrical signal data as they are used in the study of biomechanics and neuromuscular physiology. Although the principles learned can be applied to many types of motor performance data, there will be an emphasis on electromyography. Laboratory exercises will be used to illustrate key issues related to signal acquisition and processing. Seminar presentations will allow students to investigate and present the application of data acquisition and processing specific to their particular area of interest.", 
-        "subject": "KHS", 
-        "number": "857", 
-        "title": "data Acquisition & Instrumentatation"
     }
 }

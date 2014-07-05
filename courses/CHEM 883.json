@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Enzyme mechanisms and inhibition, catalytic antibodies, stereochemical and other biological probes. Phosphoryl group transfer reactions. Winter. A. Petitjean.", 
+        "number": "883", 
+        "subject": "CHEM", 
+        "title": "Bio-Organic Chemistry"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "Enzyme mechanisms and inhibition, catalytic antibodies, stereochemical and other biological probes. Phosphoryl group transfer reactions. Winter. A. Petitjean.", 
-        "subject": "CHEM", 
-        "number": "883", 
-        "title": "Bio-Organic Chemistry"
     }
 }

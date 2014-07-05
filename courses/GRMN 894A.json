@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "After satisfactory completion of eight term-length courses, the MA candidate will have to pass a 50-minute oral examination on aspects of German literature and culture. Typically, the student will prepare 5 primary texts of substantial length and, if applicable, a limited number of secondary texts.", 
+        "number": "894A", 
+        "subject": "GRMN", 
+        "title": "Master's Pattern III Oral Exam"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter, Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter, Summer", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "After satisfactory completion of eight term-length courses, the MA candidate will have to pass a 50-minute oral examination on aspects of German literature and culture. Typically, the student will prepare 5 primary texts of substantial length and, if applicable, a limited number of secondary texts.", 
-        "subject": "GRMN", 
-        "number": "894A", 
-        "title": "Master's Pattern III Oral Exam"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Explores a range of contemporary issues in feminist sociology. Topics may vary from year to year. See the departmental website for further details.", 
+        "number": "303", 
+        "subject": "SOCY", 
+        "title": "Selected Topics in Feminist Sociology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C- in SOCY122/6.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Explores a range of contemporary issues in feminist sociology. Topics may vary from year to year. See the departmental website for further details.", 
-        "subject": "SOCY", 
-        "number": "303", 
-        "title": "Selected Topics in Feminist Sociology"
     }
 }

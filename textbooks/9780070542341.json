@@ -1,1 +1,15 @@
-{"isbn_13": "9780070542341", "isbn_10": "0070542341", "classified_info": "1 classified listing: $0.00", "new_price": "$131.67", "used_price": "$98.75", "authors": "Walter Rudin", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13898-MATH891-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["MATH 891"], "required": true, "new_available": 1, "title": "Real and Complex Analysis"}
+{
+    "authors": "Walter Rudin", 
+    "classified_info": "1 classified listing: $0.00", 
+    "courses": [
+        "MATH 891"
+    ], 
+    "isbn_10": "0070542341", 
+    "isbn_13": "9780070542341", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13898-MATH891-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 1, 
+    "new_price": "$131.67", 
+    "required": true, 
+    "title": "Real and Complex Analysis", 
+    "used_price": "$98.75"
+}

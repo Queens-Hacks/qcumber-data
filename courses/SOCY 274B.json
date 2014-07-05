@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Theoretical issues arising from the process by which activities are defined as deviant: such activities as 'sexual deviance', 'mental illness', and 'political deviance' examined.\r\nNOTE\u00a0\u00a0\u00a0 Only offered as distance course. Consult Continuing and Distance Studies.", 
+        "number": "274B", 
+        "subject": "SOCY", 
+        "title": "Sociology of Deviance"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Theoretical issues arising from the process by which activities are defined as deviant: such activities as 'sexual deviance', 'mental illness', and 'political deviance' examined.\r\nNOTE\u00a0\u00a0\u00a0 Only offered as distance course. Consult Continuing and Distance Studies.", 
-        "subject": "SOCY", 
-        "number": "274B", 
-        "title": "Sociology of Deviance"
     }
 }

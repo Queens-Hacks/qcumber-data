@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course assesses housing policy options and the contributions planners can make to the supply of affordable, adequate and appropriate housing. It presents the many factors influencing the housing market and analyzes public and private initiatives affecting the provision of housing. It shows the interdependence between housing and social service planning and analyzes issues regarding the choices among housing and other social policies. Current policies targeted at specific groups in need of assistance will be reviewed.", 
+        "number": "874", 
+        "subject": "SURP", 
+        "title": "Housing Policy"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 36, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "typically_offered": "Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 36
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course assesses housing policy options and the contributions planners can make to the supply of affordable, adequate and appropriate housing. It presents the many factors influencing the housing market and analyzes public and private initiatives affecting the provision of housing. It shows the interdependence between housing and social service planning and analyzes issues regarding the choices among housing and other social policies. Current policies targeted at specific groups in need of assistance will be reviewed.", 
-        "subject": "SURP", 
-        "number": "874", 
-        "title": "Housing Policy"
     }
 }

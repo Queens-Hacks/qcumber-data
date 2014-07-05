@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The growth of Athens from the final Neolithic period to Late Antiquity based on archaeological, literary, epigraphical evidence.\u00a0 D.K. Hagel (May be offered jointly with CLST-404*.\u00a0 There are additional requirements for students at the graduate level but these are determined and discussed at the onset of the course.)", 
+        "number": "804", 
+        "subject": "CLAS", 
+        "title": "Topography Of Athens"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The growth of Athens from the final Neolithic period to Late Antiquity based on archaeological, literary, epigraphical evidence.\u00a0 D.K. Hagel (May be offered jointly with CLST-404*.\u00a0 There are additional requirements for students at the graduate level but these are determined and discussed at the onset of the course.)", 
-        "subject": "CLAS", 
-        "number": "804", 
-        "title": "Topography Of Athens"
     }
 }

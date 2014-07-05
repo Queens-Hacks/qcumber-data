@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (7185)", 
     "basic": {
         "class_num": "7185", 
-        "subject": "FREN", 
-        "status": "Open", 
         "course": "496", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FREN", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (7185)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T21:30:00", 
             "instructors": [
                 "Inkel, Stephane"
             ], 
-            "end_time": "1900-01-01T21:30:00", 
+            "location": "KINGSTON RM304", 
             "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 2, 
-            "location": "KINGSTON RM304"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

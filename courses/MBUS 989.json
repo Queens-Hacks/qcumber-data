@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "989", 
+        "subject": "MBUS", 
+        "title": "Business & Government Relation"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "MBUS", 
-        "number": "989", 
-        "title": "Business & Government Relation"
     }
 }

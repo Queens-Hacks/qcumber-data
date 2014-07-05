@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Intermediate study in the literature of film and digital media theory and criticism. Examines a selection of writing significant in the evolving understanding of both cinema and digital media within the context of a changing technological environment (of both production and viewing).", 
+        "number": "315", 
+        "subject": "FILM", 
+        "title": "Film and Digital Media Theory"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A GPA of 2.6 in FILM and [a grade of B- in FILM110 (or 104&106) and 6.0 units in FILM.\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FILM260; FILM315 (2010-11).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intermediate study in the literature of film and digital media theory and criticism. Examines a selection of writing significant in the evolving understanding of both cinema and digital media within the context of a changing technological environment (of both production and viewing).", 
-        "subject": "FILM", 
-        "number": "315", 
-        "title": "Film and Digital Media Theory"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The projects provide a practical introduction to processes that occur in chemical engineering operations. Bench-scale and pilot plant equipment are used. Students work in groups to plan and carry out the experiments. Then they work as individuals to analyze the data and prepare written reports.", 
+        "number": "218", 
+        "subject": "CHEE", 
+        "title": "Laboratory Projects I"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 30, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisites of APSC100 and CHEE209 and CHEE221 or permission of the Department and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 30, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "2.50"
-    }, 
-    "basic": {
-        "description": "The projects provide a practical introduction to processes that occur in chemical engineering operations. Bench-scale and pilot plant equipment are used. Students work in groups to plan and carry out the experiments. Then they work as individuals to analyze the data and prepare written reports.", 
-        "subject": "CHEE", 
-        "number": "218", 
-        "title": "Laboratory Projects I"
     }
 }

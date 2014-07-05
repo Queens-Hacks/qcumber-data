@@ -1,26 +1,26 @@
 {
+    "_unique": "500-PRA (2493)", 
     "basic": {
         "class_num": "2493", 
-        "subject": "PRAC", 
-        "status": "Closed", 
         "course": "190B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "500", 
+        "status": "Closed", 
+        "subject": "PRAC", 
         "type": "PRA", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "500-PRA (2493)", 
     "classes": [
         {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "O'Neil, Tammy"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

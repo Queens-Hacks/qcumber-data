@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A large-scale object will be designed to satisfy commercial specifications.\u00a0 Perspectives on elements of initial sizing, integration of engineering science, safety, social context, valences, windows of opportunity, tacit assumptions, manufacturability, and cost analysis, will be developed. Because of its rich window of opportunity and straight-forward context, an advanced aircraft will be the large-scale design object. Accordingly, technical aspects of geometry selection, avionics, aerodynamics, propulsion integration, stability and control, loads, structures, and its manufacturing will be integrated \"just-in-time\" into the design experience. (Lead Instructor: Brian Thompson, Western Ontario)", 
+        "number": "809", 
+        "subject": "DM", 
+        "title": "Conceptual Design Studio"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A large-scale object will be designed to satisfy commercial specifications.\u00a0 Perspectives on elements of initial sizing, integration of engineering science, safety, social context, valences, windows of opportunity, tacit assumptions, manufacturability, and cost analysis, will be developed. Because of its rich window of opportunity and straight-forward context, an advanced aircraft will be the large-scale design object. Accordingly, technical aspects of geometry selection, avionics, aerodynamics, propulsion integration, stability and control, loads, structures, and its manufacturing will be integrated \"just-in-time\" into the design experience. (Lead Instructor: Brian Thompson, Western Ontario)", 
-        "subject": "DM", 
-        "number": "809", 
-        "title": "Conceptual Design Studio"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Offers a basic level of Italian understanding, speaking, reading and writing for students with no knowledge of Italian whatsoever.", 
+        "number": "P10", 
+        "subject": "ITLN", 
+        "title": "Beginning Italian I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "One way exclusion\u00a0\u00a0\u00a0 May not be taken with or after ITLN112; ITLN204; ITLN205.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Offers a basic level of Italian understanding, speaking, reading and writing for students with no knowledge of Italian whatsoever.", 
-        "subject": "ITLN", 
-        "number": "P10", 
-        "title": "Beginning Italian I"
     }
 }

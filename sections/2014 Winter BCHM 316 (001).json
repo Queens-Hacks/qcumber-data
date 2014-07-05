@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (1800)", 
     "basic": {
         "class_num": "1800", 
-        "subject": "BCHM", 
-        "status": "Open", 
         "course": "316", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "BCHM", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (1800)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [
-                "Jones, Glenville"
-            ], 
-            "end_time": "1900-01-01T12:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 1, 
-            "location": "DUNNING AUD"
-        }, 
-        {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "end_time": "1900-01-01T12:30:00", 
             "instructors": [
                 "Jones, Glenville"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T13:30:00", 
+            "location": "DUNNING AUD", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "DUNNING AUD"
-        }, 
-        {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Jones, Glenville"
             ], 
-            "end_time": "1900-01-01T13:30:00", 
-            "start_time": "1900-01-01T12:30:00", 
+            "location": "DUNNING AUD", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "DUNNING AUD"
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [
+                "Jones, Glenville"
+            ], 
+            "location": "DUNNING AUD", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

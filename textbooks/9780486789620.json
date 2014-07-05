@@ -1,1 +1,15 @@
-{"isbn_13": "9780486789620", "isbn_10": "0486789624", "classified_info": "0 classified listings", "new_price": "$6.74", "used_price": "$5.05", "authors": "Solomon Northup", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13730-ENGL876-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl16_test_ModeFull", "courses": ["ENGL 876"], "required": true, "new_available": 15, "title": "Twelve Years a Slave"}
+{
+    "authors": "Solomon Northup", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 876"
+    ], 
+    "isbn_10": "0486789624", 
+    "isbn_13": "9780486789620", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13730-ENGL876-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl16_test_ModeFull", 
+    "new_available": 15, 
+    "new_price": "$6.74", 
+    "required": true, 
+    "title": "Twelve Years a Slave", 
+    "used_price": "$5.05"
+}

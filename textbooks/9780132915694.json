@@ -1,1 +1,15 @@
-{"isbn_13": "9780132915694", "isbn_10": "0132915693", "new_price": "$44.49", "authors": "Alice Oshima", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13407-ESLA132-SPSU14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["ESLA 132", "ESLA 160"], "required": true, "title": "Longman Academic Writing Series 4", "new_available": 21, "classified_info": "0 classified listings"}
+{
+    "authors": "Alice Oshima", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ESLA 132", 
+        "ESLA 160"
+    ], 
+    "isbn_10": "0132915693", 
+    "isbn_13": "9780132915694", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13407-ESLA132-SPSU14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 21, 
+    "new_price": "$44.49", 
+    "required": true, 
+    "title": "Longman Academic Writing Series 4"
+}

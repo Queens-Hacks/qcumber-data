@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of Canadian art from its beginnings through the nineteenth century. The nature and development of Canadian art within the context of the social, political and economic history of the country will be examined.\r\nNOTE\u00a0\u00a0 \u00a0Field trips: estimated cost $35.", 
+        "number": "231", 
+        "subject": "ARTH", 
+        "title": "Canadian Art I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Second year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of Canadian art from its beginnings through the nineteenth century. The nature and development of Canadian art within the context of the social, political and economic history of the country will be examined.\r\nNOTE\u00a0\u00a0 \u00a0Field trips: estimated cost $35.", 
-        "subject": "ARTH", 
-        "number": "231", 
-        "title": "Canadian Art I"
     }
 }

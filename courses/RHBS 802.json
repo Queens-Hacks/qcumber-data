@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This lecture/seminar course\u00a0examines the concepts\u00a0of disablement, community\u00a0and the social participation of persons with disabilities. Topics include\u00a0definition, models and evaluation of disablement;\u00a0the relationships between people with disabilities and their environments; and current controversial issues in the area of disability and rehabilitation. Three term hours, fall.", 
+        "number": "802", 
+        "subject": "RHBS", 
+        "title": "Disability and Wellness In The Community"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This lecture/seminar course\u00a0examines the concepts\u00a0of disablement, community\u00a0and the social participation of persons with disabilities. Topics include\u00a0definition, models and evaluation of disablement;\u00a0the relationships between people with disabilities and their environments; and current controversial issues in the area of disability and rehabilitation. Three term hours, fall.", 
-        "subject": "RHBS", 
-        "number": "802", 
-        "title": "Disability and Wellness In The Community"
     }
 }

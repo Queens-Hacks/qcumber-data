@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Introduction to the basic concepts and design techniques in radio, mobile radio and personal communication systems; frequency allocations: cellular radio; frequency reuse, handoff and interference; mobile radio propagation; reflection, refraction, and diffraction of radio waves; indoor and outdoor propagation models; multipath fading channels; Raleigh and Rican models, coherence bandwidth and doppler fading rate of time varying fading; modulation and multiple access; FDMA, TDMA, CDMA, FDMA/TDMA and multi-carrier access; QPSK and MSK modulation, coded modulation and antenna diversity; selected wireless standards; IS-136, IS-95 and PCS 1800.", 
+        "number": "464", 
+        "subject": "ELEC", 
+        "title": "Wireless Communication Systems"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 18, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of ELEC461 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 18, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to the basic concepts and design techniques in radio, mobile radio and personal communication systems; frequency allocations: cellular radio; frequency reuse, handoff and interference; mobile radio propagation; reflection, refraction, and diffraction of radio waves; indoor and outdoor propagation models; multipath fading channels; Raleigh and Rican models, coherence bandwidth and doppler fading rate of time varying fading; modulation and multiple access; FDMA, TDMA, CDMA, FDMA/TDMA and multi-carrier access; QPSK and MSK modulation, coded modulation and antenna diversity; selected wireless standards; IS-136, IS-95 and PCS 1800.", 
-        "subject": "ELEC", 
-        "number": "464", 
-        "title": "Wireless Communication Systems"
     }
 }

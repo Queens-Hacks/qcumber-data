@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A study of Shakespeare's plays in relation to the social, intellectual, and political climate of the Elizabethan and Jacobean periods and with reference to theatrical production.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "256B", 
+        "subject": "ENGL", 
+        "title": "Shakespeare"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A study of Shakespeare's plays in relation to the social, intellectual, and political climate of the Elizabethan and Jacobean periods and with reference to theatrical production.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "ENGL", 
-        "number": "256B", 
-        "title": "Shakespeare"
     }
 }

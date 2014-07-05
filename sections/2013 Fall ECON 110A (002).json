@@ -1,48 +1,48 @@
 {
+    "_unique": "002-LEC (3053)", 
     "basic": {
         "class_num": "3053", 
-        "subject": "ECON", 
-        "status": "Open", 
         "course": "110A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ECON", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "002-LEC (3053)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [
-                "Cromb, Ian James"
-            ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 1, 
-            "location": "DUNNING AUD"
-        }, 
-        {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Cromb, Ian James"
             ], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
+            "location": "DUNNING AUD", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "DUNNING AUD"
-        }, 
-        {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "end_time": "1900-01-01T09:30:00", 
             "instructors": [
                 "Cromb, Ian James"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:30:00", 
+            "location": "DUNNING AUD", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "DUNNING AUD"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Cromb, Ian James"
+            ], 
+            "location": "DUNNING AUD", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Directed Hebrew reading of material not covered in other courses, appropriate to the student's level.", 
+        "number": "502", 
+        "subject": "HEBR", 
+        "title": "Directed Reading Hebrew"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Reading": "Required"
         }, 
         "enrollment_requirement": "Must be registered in JWST-G-BA plan to take this course.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Directed Hebrew reading of material not covered in other courses, appropriate to the student's level.", 
-        "subject": "HEBR", 
-        "number": "502", 
-        "title": "Directed Reading Hebrew"
     }
 }

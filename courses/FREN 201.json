@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "For students wishing to refine their grammatical skills and develop strategies for effective writing through discussion and written travaux pratiques.", 
+        "number": "201", 
+        "subject": "FREN", 
+        "title": "Strat\u00e9gies d'\u00e9criture en fran\u00e7ais"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 FREN100 or FREN110 or (FREN101 and FREN102)\r\nOne-way Exclusion\u00a0\u00a0\u00a0 May not be taken with or after FREN 344.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "For students wishing to refine their grammatical skills and develop strategies for effective writing through discussion and written travaux pratiques.", 
-        "subject": "FREN", 
-        "number": "201", 
-        "title": "Strat\u00e9gies d'\u00e9criture en fran\u00e7ais"
     }
 }

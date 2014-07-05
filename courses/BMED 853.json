@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An advanced inter-disciplinary course studying the anatomy, pharmacology and physiology of the cardiovascular system at the molecular and cellular level. The course is comprised of lectures, discussion and student seminars based on recent literature. Winter term, 3 hour seminar. S.C. Pang. Equivalent of\u00a0 CRSS-456. PREREQUISITE: Undergraduate degree in Life Science or equivalent or permission from department. EXCLUSIONS: ANAT-853*, PHAR-853*, PHGY-853*, CRSS-456.", 
+        "number": "853", 
+        "subject": "BMED", 
+        "title": "Cellular and Molecular Cardiovascular Sciences"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An advanced inter-disciplinary course studying the anatomy, pharmacology and physiology of the cardiovascular system at the molecular and cellular level. The course is comprised of lectures, discussion and student seminars based on recent literature. Winter term, 3 hour seminar. S.C. Pang. Equivalent of\u00a0 CRSS-456. PREREQUISITE: Undergraduate degree in Life Science or equivalent or permission from department. EXCLUSIONS: ANAT-853*, PHAR-853*, PHGY-853*, CRSS-456.", 
-        "subject": "BMED", 
-        "number": "853", 
-        "title": "Cellular and Molecular Cardiovascular Sciences"
     }
 }

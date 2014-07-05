@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Examines representations of and political conflicts about children in a broadly comparative context (primarily the Americas and Europe). Topics include: children and national identity, race, sexuality, war and revolution, adoption.", 
+        "number": "292", 
+        "subject": "HIST", 
+        "title": "The Global Politics of Childhood"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Examines representations of and political conflicts about children in a broadly comparative context (primarily the Americas and Europe). Topics include: children and national identity, race, sexuality, war and revolution, adoption.", 
-        "subject": "HIST", 
-        "number": "292", 
-        "title": "The Global Politics of Childhood"
     }
 }

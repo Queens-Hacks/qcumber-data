@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Study, through rule-based writing, of 16th century modal counterpoint, from two-part species exercises to free counterpoint in Renaissance style. \r\nNOTE\u00a0\u00a0\u00a0 Priority will be given to students who have not yet completed one of the counterpoint courses.", 
+        "number": "398", 
+        "subject": "MUSC", 
+        "title": "Modal Counterpoint"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 MUSC293 (or MUSC 291/6.0) or permission of the School.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Study, through rule-based writing, of 16th century modal counterpoint, from two-part species exercises to free counterpoint in Renaissance style. \r\nNOTE\u00a0\u00a0\u00a0 Priority will be given to students who have not yet completed one of the counterpoint courses.", 
-        "subject": "MUSC", 
-        "number": "398", 
-        "title": "Modal Counterpoint"
     }
 }

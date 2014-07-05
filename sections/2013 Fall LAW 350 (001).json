@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (1043)", 
     "basic": {
         "class_num": "1043", 
-        "subject": "LAW", 
-        "status": "Closed", 
         "course": "350", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-SEM (1043)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-03T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T21:00:00", 
             "instructors": [
                 "Osanic, Philip"
             ], 
-            "end_time": "1900-01-01T21:00:00", 
+            "location": "MACDONALD RM201", 
             "start_time": "1900-01-01T18:00:00", 
-            "day_of_week": 1, 
-            "location": "MACDONALD RM201"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-03T00:00:00"
         }
     ]
 }

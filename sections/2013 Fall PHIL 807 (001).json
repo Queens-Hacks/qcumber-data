@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (6962)", 
     "basic": {
         "class_num": "6962", 
-        "subject": "PHIL", 
-        "status": "Closed", 
         "course": "807", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "PHIL", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (6962)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Kymlicka, Will"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "JEFFERY RM116", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "JEFFERY RM116"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

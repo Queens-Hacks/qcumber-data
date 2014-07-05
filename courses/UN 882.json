@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "UNENE course number = UN 0802 An introduction to nuclear energy and fission energy systems is presented. The energetics of nuclear reactions, interactions of radiation with matter, radioactivity, design and operating principles of fission are presented. Nuclear reactor physics including chain reactions, reactor statics and kinetics, multigroup analysis, core thermalhydraulics and the impact of these topics on reactor design are covered. Special topics such as xenon dynamics, burnup and reactor flux effects on safety are included. McMaster University/E. Nichita</h3></td></tr></tbody></table>", 
+        "number": "882", 
+        "subject": "UN", 
+        "title": "Reactor Physics"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "UNENE course number = UN 0802 An introduction to nuclear energy and fission energy systems is presented. The energetics of nuclear reactions, interactions of radiation with matter, radioactivity, design and operating principles of fission are presented. Nuclear reactor physics including chain reactions, reactor statics and kinetics, multigroup analysis, core thermalhydraulics and the impact of these topics on reactor design are covered. Special topics such as xenon dynamics, burnup and reactor flux effects on safety are included. McMaster University/E. Nichita</h3></td></tr></tbody></table>", 
-        "subject": "UN", 
-        "number": "882", 
-        "title": "Reactor Physics"
     }
 }

@@ -1,26 +1,26 @@
 {
-    "extra": {
-        "typically_offered": "Fall, Winter", 
-        "course_components": {
-            "Studio": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "APSC100 or permission of Instructor, APSC293 Corequisite, MECH212 Exclusion", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 36, 
-            "Eng Sci": 0, 
-            "Comp St": 12
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "4.00"
-    }, 
     "basic": {
         "description": "In this course students will participate constructively on teams to create solutions to open-ended complex problems, using standard design methods and tools. This project-based course provides instruction primarily in the first 6 weeks of the semester focusing on problem scoping, creativity and idea generation, decision making incorporating technical, economic, societal, and environmental factors, safety, engineering codes and regulations, and engineering ethics. The final 6 weeks of the course centre around a design project delivered by each discipline. This course is integrated with APSC-293, and coordinated by the same instructor.\u00a0 APSC 293 Note: For students taking the CHEE/ENCH sections of APSC 200, CHEE 210 and CHEE 223 are corequisite courses.", 
-        "subject": "APSC", 
         "number": "200", 
+        "subject": "APSC", 
         "title": "Engineering Design & Practice II"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 12, 
+            "Eng Des": 36, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Studio": "Required"
+        }, 
+        "enrollment_requirement": "APSC100 or permission of Instructor, APSC293 Corequisite, MECH212 Exclusion", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
+        "units": "4.00"
     }
 }

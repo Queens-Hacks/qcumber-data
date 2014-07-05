@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A detailed study of simple and multiple linear regression, residuals and model adequacy. The least squares solution for the general linear regression model. Analysis of variance for regression and simple designed experiments; analysis of categorical data. Sample surveys: basic principles and methodology; random sampling, stratified sampling, ratio and regression estimates.", 
+        "number": "361", 
+        "subject": "STAT", 
+        "title": "Applied Methods in Statistics I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH110 or MATH111 or MATH112) and (STAT268 or or STAT351) and (STAT263 or STAT267 or STAT269 or STAT367), or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from ECON351; STAT361.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A detailed study of simple and multiple linear regression, residuals and model adequacy. The least squares solution for the general linear regression model. Analysis of variance for regression and simple designed experiments; analysis of categorical data. Sample surveys: basic principles and methodology; random sampling, stratified sampling, ratio and regression estimates.", 
-        "subject": "STAT", 
-        "number": "361", 
-        "title": "Applied Methods in Statistics I"
     }
 }

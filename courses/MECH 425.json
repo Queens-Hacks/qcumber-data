@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course introduces students to the fundamental concepts of engineering for sustainability and sustainable development. It covers aspects of appropriate technology, green engineering and materials, resource conservation, renewable resources, and design for extreme affordability. Another emphasis of the course is to introduce students to a range of engineering problem solving methods: methods to identify and select sustainable solutions to design problems; methods of improving existing engineering solutions; and methods of systems thinking. Technical, economic, and social consequences of engineering practices and processes will be examined to better delineate the complex engineering decisions related to social and environmental issues. The goal of this course is to assist students in the application of science and innovation to meet human needs while indefinitely preserving the life support systems of the planet.", 
+        "number": "425", 
+        "subject": "MECH", 
+        "title": "Eng Sustainable Development"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 21, 
+            "Eng Sci": 21, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BSCE program", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 21, 
-            "Eng Sci": 21, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course introduces students to the fundamental concepts of engineering for sustainability and sustainable development. It covers aspects of appropriate technology, green engineering and materials, resource conservation, renewable resources, and design for extreme affordability. Another emphasis of the course is to introduce students to a range of engineering problem solving methods: methods to identify and select sustainable solutions to design problems; methods of improving existing engineering solutions; and methods of systems thinking. Technical, economic, and social consequences of engineering practices and processes will be examined to better delineate the complex engineering decisions related to social and environmental issues. The goal of this course is to assist students in the application of science and innovation to meet human needs while indefinitely preserving the life support systems of the planet.", 
-        "subject": "MECH", 
-        "number": "425", 
-        "title": "Eng Sustainable Development"
     }
 }

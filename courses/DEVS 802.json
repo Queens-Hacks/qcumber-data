@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Provides a comprehensive introduction to the cultural politics of development in historical and contemporary perspective.\u00a0 It focuses on narratives of development and their relationship to social and political movements in the South and North.\u00a0 Themes include the ideas of tradition, modernity and progress; colonialism, nationalism and liberation; and the gendered and racialised politics of development.", 
+        "number": "802", 
+        "subject": "DEVS", 
+        "title": "Cultural Politics of Development"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Provides a comprehensive introduction to the cultural politics of development in historical and contemporary perspective.\u00a0 It focuses on narratives of development and their relationship to social and political movements in the South and North.\u00a0 Themes include the ideas of tradition, modernity and progress; colonialism, nationalism and liberation; and the gendered and racialised politics of development.", 
-        "subject": "DEVS", 
-        "number": "802", 
-        "title": "Cultural Politics of Development"
     }
 }

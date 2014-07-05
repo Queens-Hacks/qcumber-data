@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The course will introduce students to health promotion and health protection strategies at various levels, including the individual, community, region and nation. Examples will be drawn from chronic disease and injury prevention, reproductive and child health, infectious disease prevention and control, and environmental health.Students will also be introduced to the role of surveillance in determining public health priorities.Three term hours; fall every year. K. O\u00bfConnor", 
+        "number": "825", 
+        "subject": "EPID", 
+        "title": "Fdtns. Of Pub. Hlth Practice"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course will introduce students to health promotion and health protection strategies at various levels, including the individual, community, region and nation. Examples will be drawn from chronic disease and injury prevention, reproductive and child health, infectious disease prevention and control, and environmental health.Students will also be introduced to the role of surveillance in determining public health priorities.Three term hours; fall every year. K. O\u00bfConnor", 
-        "subject": "EPID", 
-        "number": "825", 
-        "title": "Fdtns. Of Pub. Hlth Practice"
     }
 }

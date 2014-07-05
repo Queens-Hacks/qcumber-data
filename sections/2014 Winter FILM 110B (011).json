@@ -1,24 +1,24 @@
 {
+    "_unique": "011-TUT (3372)", 
     "basic": {
         "class_num": "3372", 
-        "subject": "FILM", 
-        "status": "Open", 
         "course": "110B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "011", 
+        "status": "Open", 
+        "subject": "FILM", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "011-TUT (3372)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:00:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 4, 
-            "location": "JEFFERY RM115"
+            "end_time": "1900-01-01T16:00:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM115", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

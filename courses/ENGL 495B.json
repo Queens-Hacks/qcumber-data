@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Studies in representative critical theories from antiquity onwards, with special emphasis on modern criticism both in its theoretical and practical aspects.", 
+        "number": "495B", 
+        "subject": "ENGL", 
+        "title": "Studies Literary Criticism and Theory"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Studies in representative critical theories from antiquity onwards, with special emphasis on modern criticism both in its theoretical and practical aspects.", 
-        "subject": "ENGL", 
-        "number": "495B", 
-        "title": "Studies Literary Criticism and Theory"
     }
 }

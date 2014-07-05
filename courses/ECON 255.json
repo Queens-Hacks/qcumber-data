@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to the use of mathematics in economic analysis. The first part of the course will concentrate on techniques for constrained and unconstrained optimization, as applied to problems of firm and consumer behaviour. This will lead to the interpretation of Lagrange multipliers as shadow prices. The second part of the course will show how matrix algebra may be used to study problems of production and allocation in interdependent economies.", 
+        "number": "255", 
+        "subject": "ECON", 
+        "title": "Introduction to Mathematical Economics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of ECON110 or [ECON111 and ECON112] and (MATH120 or MATH121 or MATH122 or [MATH123 AND MATH124] or MATH126.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the use of mathematics in economic analysis. The first part of the course will concentrate on techniques for constrained and unconstrained optimization, as applied to problems of firm and consumer behaviour. This will lead to the interpretation of Lagrange multipliers as shadow prices. The second part of the course will show how matrix algebra may be used to study problems of production and allocation in interdependent economies.", 
-        "subject": "ECON", 
-        "number": "255", 
-        "title": "Introduction to Mathematical Economics"
     }
 }

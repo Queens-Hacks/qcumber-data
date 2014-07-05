@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The problem of reliable data transmission; communication and coding; error-detecting and error-correcting codes; classification of codes; introduction to algebra; linear block codes; cyclic codes; algebraic decoding,shift register encoding and decoding of cyclic codes; convolutional codes; Viterbi decoder; trellis codes; trellis decoding, trellis structure of codes; graphical representation ofcodes, block- and trellis-coded modulation, codes defined on graphs, turbo codes, iterative decoding, low-density parity-check codes.\u00a0 Three term-hours,lectures.S. Yousefi", 
+        "number": "865", 
+        "subject": "ELEC", 
+        "title": "Coding Theory"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The problem of reliable data transmission; communication and coding; error-detecting and error-correcting codes; classification of codes; introduction to algebra; linear block codes; cyclic codes; algebraic decoding,shift register encoding and decoding of cyclic codes; convolutional codes; Viterbi decoder; trellis codes; trellis decoding, trellis structure of codes; graphical representation ofcodes, block- and trellis-coded modulation, codes defined on graphs, turbo codes, iterative decoding, low-density parity-check codes.\u00a0 Three term-hours,lectures.S. Yousefi", 
-        "subject": "ELEC", 
-        "number": "865", 
-        "title": "Coding Theory"
     }
 }

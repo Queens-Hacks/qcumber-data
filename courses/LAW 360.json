@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Learning and developing skills and techniques relating to advocacy in a trial setting, including opening and closing statements, examination-in-chief, cross-examination, introduction of documentary, real and demonstrative evidence, as well as oral and written submissions.\u00a0 Students will participate in the preparation of materials and hands-on exercises each week. Where possible and desirable, videotape will be used to aid in the evaluation and critique of students' performances.", 
+        "number": "360", 
+        "subject": "LAW", 
+        "title": "Trial Advocacy"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Exclusion:\u00a0 Maximum of 3.00 units from LAW360, LAW361, LAW362, LAW364 and LAW 645.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Learning and developing skills and techniques relating to advocacy in a trial setting, including opening and closing statements, examination-in-chief, cross-examination, introduction of documentary, real and demonstrative evidence, as well as oral and written submissions.\u00a0 Students will participate in the preparation of materials and hands-on exercises each week. Where possible and desirable, videotape will be used to aid in the evaluation and critique of students' performances.", 
-        "subject": "LAW", 
-        "number": "360", 
-        "title": "Trial Advocacy"
     }
 }

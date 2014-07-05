@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Modern spectroscopic methods for the structural and electronic characterization of molecules will be discussed, including: NMR, X-ray and synchrontron-based spectroscopies, laser spectroscopy, surface spectroscopic methods and\u00a0scanning probe methods.", 
+        "number": "421", 
+        "subject": "CHEM", 
+        "title": "Advanced Methods Physical Chemistry"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ARTSCI Prerequisite\u00a0 CHEM313 or PHYS345 and a corequisite of CHEM 322 \r\nAPSCI Prereq ENCH346 or CHEM346", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Modern spectroscopic methods for the structural and electronic characterization of molecules will be discussed, including: NMR, X-ray and synchrontron-based spectroscopies, laser spectroscopy, surface spectroscopic methods and\u00a0scanning probe methods.", 
-        "subject": "CHEM", 
-        "number": "421", 
-        "title": "Advanced Methods Physical Chemistry"
     }
 }

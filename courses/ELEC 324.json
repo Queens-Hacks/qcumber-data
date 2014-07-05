@@ -1,27 +1,27 @@
 {
-    "extra": {
-        "typically_offered": "Winter", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ELEC323 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 12, 
-            "Eng Des": 0, 
-            "Eng Sci": 36, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "4.00"
-    }, 
     "basic": {
         "description": "This is a second course on the basic concepts and applications of signals and systems analysis. Discrete time signals and systems are emphasized. Topics include: sampling and reconstruction; discrete-time signals and systems; difference equations; Z-transform and solutions to difference equations; discrete Fourier series and discrete time Fourier transform; filtering concepts; applications to pulse amplitude modulation, delta modulation, and speech coding.", 
-        "subject": "ELEC", 
         "number": "324", 
+        "subject": "ELEC", 
         "title": "Discrete-Time Signals and Systems"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 36, 
+            "Math": 12
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC323 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "4.00"
     }
 }

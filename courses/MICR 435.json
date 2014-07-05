@@ -1,28 +1,28 @@
 {
+    "basic": {
+        "description": "An in-depth analysis of the genetics, biochemistry, assembly and function of the major structures of the procaryotic cell. Emphasis on the experimental approaches in the current literature. \r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $50.", 
+        "number": "435", 
+        "subject": "MICR", 
+        "title": "Advanced Procaryotic Structure and Function"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 BIOL 205/3.0 and (MICR 221/3.0 or MICR 229/3.0 with a minimum grade of B-) and (Level 3 or above and reg in the LISC Major or Spec. Plan) and (a GPA of 2.5).\r\nCOREQUISITE\u00a0\u00a0\u00a0 BCHM 310/6.0 or BCHM 315/3.0 or BIOL 334/3.0.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An in-depth analysis of the genetics, biochemistry, assembly and function of the major structures of the procaryotic cell. Emphasis on the experimental approaches in the current literature. \r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $50.", 
-        "subject": "MICR", 
-        "number": "435", 
-        "title": "Advanced Procaryotic Structure and Function"
     }
 }

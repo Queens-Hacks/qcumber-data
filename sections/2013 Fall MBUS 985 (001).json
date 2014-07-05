@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (8837)", 
     "basic": {
         "class_num": "8837", 
-        "subject": "MBUS", 
-        "status": "Closed", 
         "course": "985", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBUS", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (8837)", 
     "classes": [
         {
-            "term_end": "2013-11-15T00:00:00", 
-            "term_start": "2013-01-24T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2013-11-15T00:00:00", 
+            "term_start": "2013-01-24T00:00:00"
         }
     ]
 }

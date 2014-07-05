@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course covers performance models for data networking, delay models and loss models; analysis of multiple access systems, routing, and flow control; multiplexing; priority systems; satellite\u00a0multiple access, wireless networking, wireless sensor networks. Knowledge of networking protocols is not required.\u00a0", 
+        "number": "484", 
+        "subject": "MATH", 
+        "title": "Data Networks"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 STAT455 or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course covers performance models for data networking, delay models and loss models; analysis of multiple access systems, routing, and flow control; multiplexing; priority systems; satellite\u00a0multiple access, wireless networking, wireless sensor networks. Knowledge of networking protocols is not required.\u00a0", 
-        "subject": "MATH", 
-        "number": "484", 
-        "title": "Data Networks"
     }
 }

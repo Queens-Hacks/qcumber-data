@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "The first year of study of the student's chief practical subject (instrument or voice).", 
+        "number": "121A", 
+        "subject": "MUSC", 
+        "title": "Applied Study I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "EXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from MUSC 120/6.0; MUSC 121/6.0.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from MUSC 121/6.0; MUSC 125/6.0.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "The first year of study of the student's chief practical subject (instrument or voice).", 
-        "subject": "MUSC", 
-        "number": "121A", 
-        "title": "Applied Study I"
     }
 }

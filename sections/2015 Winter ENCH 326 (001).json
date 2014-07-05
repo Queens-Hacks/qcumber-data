@@ -1,81 +1,81 @@
 {
+    "_unique": "001-LEC (2297)", 
     "basic": {
         "class_num": "2297", 
-        "subject": "ENCH", 
-        "status": "Open", 
         "course": "326", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ENCH", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (2297)", 
     "classes": [
         {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Brown, Stephen"
-            ], 
-            "end_time": "1900-01-01T12:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 2, 
-            "location": "MCLAUGHLIN RM315"
-        }, 
-        {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Brown, Stephen"
-            ], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 3, 
-            "location": "MCLAUGHLIN RM315"
-        }, 
-        {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Brown, Stephen"
-            ], 
-            "end_time": "1900-01-01T13:30:00", 
-            "start_time": "1900-01-01T12:30:00", 
-            "day_of_week": 5, 
-            "location": "MCLAUGHLIN RM315"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-16T00:00:00", 
-            "instructors": [
-                "Jessop, Philip"
-            ], 
             "end_time": "1900-01-01T12:30:00", 
+            "instructors": [
+                "Brown, Stephen"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 2, 
-            "location": "MCLAUGHLIN RM315"
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-16T00:00:00", 
-            "instructors": [
-                "Jessop, Philip"
-            ], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T13:30:00", 
             "day_of_week": 3, 
-            "location": "MCLAUGHLIN RM315"
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Brown, Stephen"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-16T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [
+                "Brown, Stephen"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T12:30:00", 
             "instructors": [
                 "Jessop, Philip"
             ], 
-            "end_time": "1900-01-01T13:30:00", 
-            "start_time": "1900-01-01T12:30:00", 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-16T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Jessop, Philip"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-16T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "MCLAUGHLIN RM315"
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [
+                "Jessop, Philip"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-16T00:00:00"
         }
     ]
 }

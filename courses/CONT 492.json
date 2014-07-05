@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "492", 
+        "subject": "CONT", 
+        "title": "Green Industries Grades 9 & 10"
+    }, 
     "extra": {
-        "career": "Non-Credit", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Non-Credit", 
         "course_components": {
             "Online": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CONT", 
-        "number": "492", 
-        "title": "Green Industries Grades 9 & 10"
     }
 }

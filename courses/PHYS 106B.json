@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Mechanics, including systems of particles and rigid body motion; fluids; electricity and magnetism; oscillatory motion and waves; heat, light and sound; topics in modern physics. Aspects of physics useful for further work in other sciences will be emphasized.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Physics is required.", 
+        "number": "106B", 
+        "subject": "PHYS", 
+        "title": "General Physics"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Mechanics, including systems of particles and rigid body motion; fluids; electricity and magnetism; oscillatory motion and waves; heat, light and sound; topics in modern physics. Aspects of physics useful for further work in other sciences will be emphasized.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Physics is required.", 
-        "subject": "PHYS", 
-        "number": "106B", 
-        "title": "General Physics"
     }
 }

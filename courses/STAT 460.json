@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A course in applied statistics with topics to include: planning a survey, questionnaire design, concepts in sampling from a finite population, simple random sampling, stratified sampling, cluster and systematic sampling, introduction to multi-phase and multi-stage surveys, sampling with unequal probabilities, sampling with replacement, and design based estimation.", 
+        "number": "460", 
+        "subject": "STAT", 
+        "title": "Survey Sampling"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 STAT263 or STAT463.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A course in applied statistics with topics to include: planning a survey, questionnaire design, concepts in sampling from a finite population, simple random sampling, stratified sampling, cluster and systematic sampling, introduction to multi-phase and multi-stage surveys, sampling with unequal probabilities, sampling with replacement, and design based estimation.", 
-        "subject": "STAT", 
-        "number": "460", 
-        "title": "Survey Sampling"
     }
 }

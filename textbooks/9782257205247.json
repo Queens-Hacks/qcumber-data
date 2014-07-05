@@ -1,1 +1,12 @@
-{"isbn_13": "9782257205247", "isbn_10": "2257205243", "classified_info": "0 classified listings", "authors": "Myers  David", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13921-PSF123-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["PSF 123"], "required": true, "title": "psychologie"}
+{
+    "authors": "Myers  David", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "PSF 123"
+    ], 
+    "isbn_10": "2257205243", 
+    "isbn_13": "9782257205247", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13921-PSF123-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "required": true, 
+    "title": "psychologie"
+}

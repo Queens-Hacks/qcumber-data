@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course is an introduction to recent approaches to the study of the British Empire and draws extensively on scholarship that treats `metropole\u00bf and `colony\u00bf as a unified field of analysis. Themes include slavery and abolition, ideological justifications for empire, empires and intimacies, knowledge and power, `race\u00bf and diaspora.", 
+        "number": "890", 
+        "subject": "HIST", 
+        "title": "Britain and the Empire"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course is an introduction to recent approaches to the study of the British Empire and draws extensively on scholarship that treats `metropole\u00bf and `colony\u00bf as a unified field of analysis. Themes include slavery and abolition, ideological justifications for empire, empires and intimacies, knowledge and power, `race\u00bf and diaspora.", 
-        "subject": "HIST", 
-        "number": "890", 
-        "title": "Britain and the Empire"
     }
 }

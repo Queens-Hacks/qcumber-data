@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Developing new renewable energy options using biomass requires an understanding of feedstocks and technologies, as well as the social and economic factors that drive the industry. Value-added options for biorefining, including the combination of material, chemical, and energy products with environmental services such as phytoremediation and carbon sequestration, are explored in the Canadian context.\r\nNOTE\u00a0\u00a0\u00a0 The course is organized as a biweekly seminar.", 
+        "number": "319", 
+        "subject": "GPHY", 
+        "title": "Bioenergy and Biorefining in Canada"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of Level 3 or permission of the Department.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Developing new renewable energy options using biomass requires an understanding of feedstocks and technologies, as well as the social and economic factors that drive the industry. Value-added options for biorefining, including the combination of material, chemical, and energy products with environmental services such as phytoremediation and carbon sequestration, are explored in the Canadian context.\r\nNOTE\u00a0\u00a0\u00a0 The course is organized as a biweekly seminar.", 
-        "subject": "GPHY", 
-        "number": "319", 
-        "title": "Bioenergy and Biorefining in Canada"
     }
 }

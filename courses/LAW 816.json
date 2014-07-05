@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "As globalization gathers momentum, international laws governing how nations trade and invest across borders are increasingly important. Such laws increasingly limit government actions and affect peoples\u00bf daily lives. This course introduces international trade and investment laws. The course focuses on the World Trade Organization (WTO) laws on international trade, the application of those laws in Canadian law and the North American Free Trade Agreement (NAFTA) laws on foreign investment. We will also examine the common principles underlying international trade and investment laws and criticism of those laws. Three term-hours; \u00a0Winter. W. Flanagan. (To be offered jointed with LAW-465.)", 
+        "number": "816", 
+        "subject": "LAW", 
+        "title": "International Economic Law"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "As globalization gathers momentum, international laws governing how nations trade and invest across borders are increasingly important. Such laws increasingly limit government actions and affect peoples\u00bf daily lives. This course introduces international trade and investment laws. The course focuses on the World Trade Organization (WTO) laws on international trade, the application of those laws in Canadian law and the North American Free Trade Agreement (NAFTA) laws on foreign investment. We will also examine the common principles underlying international trade and investment laws and criticism of those laws. Three term-hours; \u00a0Winter. W. Flanagan. (To be offered jointed with LAW-465.)", 
-        "subject": "LAW", 
-        "number": "816", 
-        "title": "International Economic Law"
     }
 }

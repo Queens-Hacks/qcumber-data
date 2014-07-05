@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "511A", 
+        "subject": "CONT", 
+        "title": "P.H.E. - P/J - Pt. 2"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CONT", 
-        "number": "511A", 
-        "title": "P.H.E. - P/J - Pt. 2"
     }
 }

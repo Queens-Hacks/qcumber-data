@@ -1,26 +1,26 @@
 {
+    "_unique": "003-LAB (7996)", 
     "basic": {
         "class_num": "7996", 
-        "subject": "GPHY", 
-        "status": "Open", 
         "course": "247", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "GPHY", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "003-LAB (7996)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Harrington, Dan"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "MACINTOSH-CORRY RM E223", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 2, 
-            "location": "MACINTOSH-CORRY RM E223"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

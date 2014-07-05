@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (6538)", 
     "basic": {
         "class_num": "6538", 
-        "subject": "CMPE", 
-        "status": "Closed", 
         "course": "271", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "CMPE", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (6538)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [
-                "Ellis, Randy Evan"
-            ], 
-            "end_time": "1900-01-01T12:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 1, 
-            "location": "NICOL RM232"
-        }, 
-        {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "end_time": "1900-01-01T12:30:00", 
             "instructors": [
                 "Ellis, Randy Evan"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T13:30:00", 
+            "location": "NICOL RM232", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "NICOL RM232"
-        }, 
-        {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Ellis, Randy Evan"
             ], 
-            "end_time": "1900-01-01T13:30:00", 
-            "start_time": "1900-01-01T12:30:00", 
+            "location": "NICOL RM232", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "NICOL RM232"
+            "end_time": "1900-01-01T13:30:00", 
+            "instructors": [
+                "Ellis, Randy Evan"
+            ], 
+            "location": "NICOL RM232", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

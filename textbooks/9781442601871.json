@@ -1,1 +1,17 @@
-{"isbn_10": "1442601876", "courses": ["SOCY 122", "SOCY 122"], "required": true, "used_price": "$28.40", "isbn_13": "9781442601871", "used_available": 73, "new_available": 357, "new_price": "$37.86", "authors": "Rob Beamish", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13366-SOCY122#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "classified_info": "126 classified listings: $0.00 to $50.00", "title": "The Promise of Sociology"}
+{
+    "authors": "Rob Beamish", 
+    "classified_info": "126 classified listings: $0.00 to $50.00", 
+    "courses": [
+        "SOCY 122", 
+        "SOCY 122"
+    ], 
+    "isbn_10": "1442601876", 
+    "isbn_13": "9781442601871", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13366-SOCY122#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 357, 
+    "new_price": "$37.86", 
+    "required": true, 
+    "title": "The Promise of Sociology", 
+    "used_available": 73, 
+    "used_price": "$28.40"
+}

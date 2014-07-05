@@ -1,24 +1,24 @@
 {
+    "_unique": "002-TUT (4985)", 
     "basic": {
         "class_num": "4985", 
-        "subject": "POLS", 
-        "status": "Open", 
         "course": "250A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "POLS", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-TUT (4985)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T15:30:00", 
             "day_of_week": 2, 
-            "location": "BOTTER RM B148"
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "BOTTER RM B148", 
+            "start_time": "1900-01-01T15:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

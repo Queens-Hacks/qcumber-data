@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An intensive study for students of Hispanic literature of the contemporary theoretical standpoints from which literary texts' production, structures and reception are understood and explained. Three term-hours; Fall.\u00a0 D.F. Chamberlain.\u00a0\u00a0", 
+        "number": "806", 
+        "subject": "SPAN", 
+        "title": "Teoria Literaria Contemporanea"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An intensive study for students of Hispanic literature of the contemporary theoretical standpoints from which literary texts' production, structures and reception are understood and explained. Three term-hours; Fall.\u00a0 D.F. Chamberlain.\u00a0\u00a0", 
-        "subject": "SPAN", 
-        "number": "806", 
-        "title": "Teoria Literaria Contemporanea"
     }
 }

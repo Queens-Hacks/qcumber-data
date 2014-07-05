@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An introduction to Indigenous and Canadian Law (treaties, legislation, cases and practice) and how it affects the lives of Indigenous Peoples and communities in Canada.", 
+        "number": "859B", 
+        "subject": "MPA", 
+        "title": "Indigenous Law And Policy"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "PMPA only", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to Indigenous and Canadian Law (treaties, legislation, cases and practice) and how it affects the lives of Indigenous Peoples and communities in Canada.", 
-        "subject": "MPA", 
-        "number": "859B", 
-        "title": "Indigenous Law And Policy"
     }
 }

@@ -1,1 +1,15 @@
-{"isbn_13": "9780321886514", "isbn_10": "0321886518", "classified_info": "0 classified listings", "new_price": "$125.15", "used_price": "$88.94", "authors": "David Bevington", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13606-DRAM331-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl08_test_ModeFull", "courses": ["DRAM 331"], "required": true, "new_available": 9, "title": "The Complete Works of Shakespeare (7th Edition)"}
+{
+    "authors": "David Bevington", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "DRAM 331"
+    ], 
+    "isbn_10": "0321886518", 
+    "isbn_13": "9780321886514", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13606-DRAM331-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl08_test_ModeFull", 
+    "new_available": 9, 
+    "new_price": "$125.15", 
+    "required": true, 
+    "title": "The Complete Works of Shakespeare (7th Edition)", 
+    "used_price": "$88.94"
+}

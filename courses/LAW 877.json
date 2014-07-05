@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A limited number of students will be able to do clinical family law placements under the supervision of a faculty member. These placements may include some of the following: Family Court Clinic, Children's Aid Society, clerking with a unified Family Court Justice, and working with a family law practitioner. (To be offered jointly with LAW-521.) Three term-hours; Fall and Winter. N. Bala.", 
+        "number": "877", 
+        "subject": "LAW", 
+        "title": "Clinical Family Law"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "LAW 520", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A limited number of students will be able to do clinical family law placements under the supervision of a faculty member. These placements may include some of the following: Family Court Clinic, Children's Aid Society, clerking with a unified Family Court Justice, and working with a family law practitioner. (To be offered jointly with LAW-521.) Three term-hours; Fall and Winter. N. Bala.", 
-        "subject": "LAW", 
-        "number": "877", 
-        "title": "Clinical Family Law"
     }
 }

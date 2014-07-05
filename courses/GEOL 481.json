@@ -1,27 +1,27 @@
 {
-    "extra": {
-        "typically_offered": "Winter", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL321 or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "3.00"
-    }, 
     "basic": {
         "description": "Applications of the principles of brittle and ductile deformation to the fabric analysis of rocks in the optimization of strategies for open-ended resource exploration, resource engineering, continental tectonics studies, and geotechnical engineering problems. Emphasis is on fracture, fault, and vein analysis; structures in fold and thrust belts and continental collision zones; and studies of superposed deformation and their impact on effective and economical mineral resource development.\r\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.", 
-        "subject": "GEOL", 
         "number": "481", 
+        "subject": "GEOL", 
         "title": "Advanced Structural Analysis"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL321 or permission of the Department.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
     }
 }

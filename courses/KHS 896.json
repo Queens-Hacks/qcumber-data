@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This seminar course may cover topic areas including health behaviour change; sport psychology; exercise psychology; food studies; gender, sexuality and sport; neighbourhoods and health; globalization and health; social movements in health; HIV prevention; community-based participatory research; health, risk and the body.\u00a0 Offered by various graduate faculty or visiting scholars.\u00a0 One term only. Lectures 1 x 3 hours.", 
+        "number": "896", 
+        "subject": "KHS", 
+        "title": "Special Topics III"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This seminar course may cover topic areas including health behaviour change; sport psychology; exercise psychology; food studies; gender, sexuality and sport; neighbourhoods and health; globalization and health; social movements in health; HIV prevention; community-based participatory research; health, risk and the body.\u00a0 Offered by various graduate faculty or visiting scholars.\u00a0 One term only. Lectures 1 x 3 hours.", 
-        "subject": "KHS", 
-        "number": "896", 
-        "title": "Special Topics III"
     }
 }

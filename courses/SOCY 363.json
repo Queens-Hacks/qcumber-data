@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Critical examination of science in modern society; particular reference to historical development, transmission of scientific knowledge, conduct of enquiry, and interdependence with other institutions.", 
+        "number": "363", 
+        "subject": "SOCY", 
+        "title": "Science, Technology and Society"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C- in SOCY122/6.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Critical examination of science in modern society; particular reference to historical development, transmission of scientific knowledge, conduct of enquiry, and interdependence with other institutions.", 
-        "subject": "SOCY", 
-        "number": "363", 
-        "title": "Science, Technology and Society"
     }
 }

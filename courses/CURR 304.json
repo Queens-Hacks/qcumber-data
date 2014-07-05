@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Teacher candidates will connect their practical knowledge and skills to education research to allow them to progress from a concern about teaching to a concern about supporting and judging the quality of student learning.\u00a0 This course provides opportunities for self-directed learning about the nature of science and the preparation of teaching and learning resources.", 
+        "number": "304", 
+        "subject": "CURR", 
+        "title": "Biology Teach Theory&Prac (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Teacher candidates will connect their practical knowledge and skills to education research to allow them to progress from a concern about teaching to a concern about supporting and judging the quality of student learning.\u00a0 This course provides opportunities for self-directed learning about the nature of science and the preparation of teaching and learning resources.", 
-        "subject": "CURR", 
-        "number": "304", 
-        "title": "Biology Teach Theory&Prac (IS)"
     }
 }

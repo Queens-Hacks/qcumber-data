@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Fundamental mechanistic concepts of organic reactions, structure-activity relationships, solvent effects and catalysis. Mechanistic aspects of substitution, addition, elimination and pericyclic reactions. Fall Term.", 
+        "number": "311", 
+        "subject": "ENCH", 
+        "title": "Mechanistic Organic Chem"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 42, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQ: CHEM 223 or ENCH 245 or CHEM 245 and registered in BSCE", 
-        "CEAB": {
-            "Basic Sci": 42, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Fundamental mechanistic concepts of organic reactions, structure-activity relationships, solvent effects and catalysis. Mechanistic aspects of substitution, addition, elimination and pericyclic reactions. Fall Term.", 
-        "subject": "ENCH", 
-        "number": "311", 
-        "title": "Mechanistic Organic Chem"
     }
 }

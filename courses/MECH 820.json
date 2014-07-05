@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course provides a graduate level introduction to solar photovoltaics: the materials science behind the technology, device physics and practical systems engineering applications. One third of this course will be dedicated to semiconductor materials for photovoltaics, including effects of microstructure, band theory, opto-electronics, and charge transport. One third will be dedicated to solar photovoltaic cell device physics:semiconductor junctions, principles of operation, structures, fabrication, and manufacturing of conventional, thin film, and \u00bf3rd generation\u00bf solar cells. The last third will be dedicated to photovoltaic systems engineering: the solar resource, power conditioning equipment and system integration techniques, mechanical elements (frames, supports, orientation mechanisms, and tracking), energy storage, residential grid-connected photovoltaic systems including engineering economics and government incentives. The course is meant for graduate students in Mechanical and Materials Engineering and Engineering Physics, while graduate students in other areas of engineering, physics and other physical sciences with a strong interest in this topic are also welcomed. J. Pearce.", 
+        "number": "820", 
+        "subject": "MECH", 
+        "title": "Solar Photo Mat. Cells/Sys Eng"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides a graduate level introduction to solar photovoltaics: the materials science behind the technology, device physics and practical systems engineering applications. One third of this course will be dedicated to semiconductor materials for photovoltaics, including effects of microstructure, band theory, opto-electronics, and charge transport. One third will be dedicated to solar photovoltaic cell device physics:semiconductor junctions, principles of operation, structures, fabrication, and manufacturing of conventional, thin film, and \u00bf3rd generation\u00bf solar cells. The last third will be dedicated to photovoltaic systems engineering: the solar resource, power conditioning equipment and system integration techniques, mechanical elements (frames, supports, orientation mechanisms, and tracking), energy storage, residential grid-connected photovoltaic systems including engineering economics and government incentives. The course is meant for graduate students in Mechanical and Materials Engineering and Engineering Physics, while graduate students in other areas of engineering, physics and other physical sciences with a strong interest in this topic are also welcomed. J. Pearce.", 
-        "subject": "MECH", 
-        "number": "820", 
-        "title": "Solar Photo Mat. Cells/Sys Eng"
     }
 }

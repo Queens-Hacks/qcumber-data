@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A survey of important mathematical techniques used to model processes in a variety of fields. Topics include multivariable calculus and optimization, game theory, discrete-time dynamical systems, and dynamic optimization. Examples will be drawn from several areas including biology, economics, and medicine.\u00a0 (18/9/5/4/0) ~ COURSE DELETED IN 2008/09 ~", 
+        "number": "239", 
+        "subject": "MATH", 
+        "title": "Applied Math Modeling"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "APSC172 OR MATH120 OR MATH121 OR MATH120 OR MATH126 OR MATH121 OR APSC172 OR MATH126", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A survey of important mathematical techniques used to model processes in a variety of fields. Topics include multivariable calculus and optimization, game theory, discrete-time dynamical systems, and dynamic optimization. Examples will be drawn from several areas including biology, economics, and medicine.\u00a0 (18/9/5/4/0) ~ COURSE DELETED IN 2008/09 ~", 
-        "subject": "MATH", 
-        "number": "239", 
-        "title": "Applied Math Modeling"
     }
 }

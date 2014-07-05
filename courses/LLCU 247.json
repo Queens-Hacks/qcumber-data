@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This survey course covers the historical, social, political and cultural aspects of Spain from its prehistoric period to the present day. The first half of the semester will cover the beginnings of Iberian civilization up to the end of the 19th century. The second half will concentrate on the 20th and 21st centuries.", 
+        "number": "247", 
+        "subject": "LLCU", 
+        "title": "Spanish Cultural Contexts"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or perm of the Dept. of Languages, Literatures and Cultures.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from LLCU247; SPAN247.\r\nEquivalency\u00a0\u00a0\u00a0 SPAN247.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This survey course covers the historical, social, political and cultural aspects of Spain from its prehistoric period to the present day. The first half of the semester will cover the beginnings of Iberian civilization up to the end of the 19th century. The second half will concentrate on the 20th and 21st centuries.", 
-        "subject": "LLCU", 
-        "number": "247", 
-        "title": "Spanish Cultural Contexts"
     }
 }

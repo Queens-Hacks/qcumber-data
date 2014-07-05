@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "881", 
+        "subject": "MGBL", 
+        "title": "Intn'l Legal Environ. Business"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "pre MIB or MBGL-X only", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "MGBL", 
-        "number": "881", 
-        "title": "Intn'l Legal Environ. Business"
     }
 }

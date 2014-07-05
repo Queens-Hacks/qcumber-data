@@ -1,1 +1,15 @@
-{"isbn_13": "9780077221430", "used_available": 5, "isbn_10": "0077221435", "classified_info": "38 classified listings: $50.00 to $130.00", "new_price": "$230.22", "used_price": "$172.66", "authors": "Stephen Brown, Zvonko Vranesic", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13539-ELEC271-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["ELEC 271"], "required": true, "title": "Fudamentals of Digital Logic with VHDL Design with CD-ROM"}
+{
+    "authors": "Stephen Brown, Zvonko Vranesic", 
+    "classified_info": "38 classified listings: $50.00 to $130.00", 
+    "courses": [
+        "ELEC 271"
+    ], 
+    "isbn_10": "0077221435", 
+    "isbn_13": "9780077221430", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13539-ELEC271-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$230.22", 
+    "required": true, 
+    "title": "Fudamentals of Digital Logic with VHDL Design with CD-ROM", 
+    "used_available": 5, 
+    "used_price": "$172.66"
+}

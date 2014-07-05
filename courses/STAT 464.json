@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Autocorrelation and autocovariance, stationarity; ARIMA models; model identification and forecasting; spectral analysis. Applications to biological, physical and economic data.", 
+        "number": "464", 
+        "subject": "STAT", 
+        "title": "Discrete Time Series Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 STAT361 or ECON351 or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Autocorrelation and autocovariance, stationarity; ARIMA models; model identification and forecasting; spectral analysis. Applications to biological, physical and economic data.", 
-        "subject": "STAT", 
-        "number": "464", 
-        "title": "Discrete Time Series Analysis"
     }
 }

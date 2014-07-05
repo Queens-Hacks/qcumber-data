@@ -1,1 +1,14 @@
-{"isbn_13": "9781455731183", "isbn_10": "1455731188", "classified_info": "0 classified listings", "new_price": "$92.69", "used_price": "$69.52", "authors": "Gary W Cordner", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13847-MPA525-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", "courses": ["MPA 525"], "required": true, "title": "Police Administration"}
+{
+    "authors": "Gary W Cordner", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "MPA 525"
+    ], 
+    "isbn_10": "1455731188", 
+    "isbn_13": "9781455731183", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13847-MPA525-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", 
+    "new_price": "$92.69", 
+    "required": true, 
+    "title": "Police Administration", 
+    "used_price": "$69.52"
+}

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Principles of rock-water interaction and element migration in the near surface environment applied to environmental and exploration geochemistry. Students learn field and analytical techniques, evaluate and interpret geochemical data, and design solutions related to geochemical hazards to human health, environmental impacts of mining, and formulation of strategies for detecting mineral deposits.", 
+        "number": "475", 
+        "subject": "GEOE", 
+        "title": "Exploration and Environmental Geochemistry"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 27, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 26, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prereuisite:\u00a0 GEOE 365 or permission of Dept.\r\nExclusions: GEOE 465 & GEOE 485", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "4.40"
-    }, 
-    "basic": {
-        "description": "Principles of rock-water interaction and element migration in the near surface environment applied to environmental and exploration geochemistry. Students learn field and analytical techniques, evaluate and interpret geochemical data, and design solutions related to geochemical hazards to human health, environmental impacts of mining, and formulation of strategies for detecting mineral deposits.", 
-        "subject": "GEOE", 
-        "number": "475", 
-        "title": "Exploration and Environmental Geochemistry"
     }
 }

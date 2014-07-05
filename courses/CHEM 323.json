@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Introduction to the chemical basis of biological systems and biomolecules, protein structure and synthesis, enzyme catalysis, nucleic acids (DNA, RNA), carbohydrates, membranes, cell signalling, biosynthetic and metabolic pathways.", 
+        "number": "323", 
+        "subject": "CHEM", 
+        "title": "Biological Chemistry"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "CHEM311", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to the chemical basis of biological systems and biomolecules, protein structure and synthesis, enzyme catalysis, nucleic acids (DNA, RNA), carbohydrates, membranes, cell signalling, biosynthetic and metabolic pathways.", 
-        "subject": "CHEM", 
-        "number": "323", 
-        "title": "Biological Chemistry"
     }
 }

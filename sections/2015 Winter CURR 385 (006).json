@@ -1,37 +1,37 @@
 {
+    "_unique": "006-LEC (7956)", 
     "basic": {
         "class_num": "7956", 
-        "subject": "CURR", 
-        "status": "Open", 
         "course": "385", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "006", 
+        "status": "Open", 
+        "subject": "CURR", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "006-LEC (7956)", 
     "classes": [
         {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T12:50:00", 
             "instructors": [
                 "Deir, Elspeth"
             ], 
-            "end_time": "1900-01-01T12:50:00", 
+            "location": "DUNCAN MCARTHUR RM A232", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM A232"
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T12:50:00", 
             "instructors": [
                 "Deir, Elspeth"
             ], 
-            "end_time": "1900-01-01T12:50:00", 
+            "location": "DUNCAN MCARTHUR RM A232", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM A232"
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course is concerned with the application of thermodynamics to practical problems of the chemical industry. Emphasis is placed on the study of phase equilibrium, including vapour-liquid equilibrium and liquid-liquid equilibrium. Contemporary methods of calculating the thermodynamic properties of non-ideal vapours and liquids will be presented and applied. The principles of chemical reaction equilibrium will also be studied. The design component of the course will require students to perform theoretical vapour-liquid equilibrium calculations and\r\nrecommend proper operating conditions for a single-stage unit (flash drum) that separates a non-ideal binary mixture.", 
+        "number": "311", 
+        "subject": "CHEE", 
+        "title": "Fluid Phase And Reaction Equilibrium"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of CHEE210 and CHEE222 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 30, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course is concerned with the application of thermodynamics to practical problems of the chemical industry. Emphasis is placed on the study of phase equilibrium, including vapour-liquid equilibrium and liquid-liquid equilibrium. Contemporary methods of calculating the thermodynamic properties of non-ideal vapours and liquids will be presented and applied. The principles of chemical reaction equilibrium will also be studied. The design component of the course will require students to perform theoretical vapour-liquid equilibrium calculations and\r\nrecommend proper operating conditions for a single-stage unit (flash drum) that separates a non-ideal binary mixture.", 
-        "subject": "CHEE", 
-        "number": "311", 
-        "title": "Fluid Phase And Reaction Equilibrium"
     }
 }

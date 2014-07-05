@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (8740)", 
     "basic": {
         "class_num": "8740", 
-        "subject": "MATH", 
-        "status": "Open", 
         "course": "893", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MATH", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (8740)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:00:00", 
             "instructors": [
                 "Roth, Michael A"
             ], 
-            "end_time": "1900-01-01T11:00:00", 
+            "location": "JEFFERY RM319", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 3, 
-            "location": "JEFFERY RM319"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Roth, Michael A"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "JEFFERY RM319", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 4, 
-            "location": "JEFFERY RM319"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

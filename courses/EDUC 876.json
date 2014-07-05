@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Prepares students to undertake quantitative research in education. Drawing on examples of research in the fields of governance and leadership in Aboriginal contexts, the course explores topics in research methodology including basic methodological problems, statistical design and reasoning. Not offered 2010-2011.", 
+        "number": "876", 
+        "subject": "EDUC", 
+        "title": "Quantitative Inquiry: Governance and Leadership in Aboriginal and Indigenous Contexts"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Prepares students to undertake quantitative research in education. Drawing on examples of research in the fields of governance and leadership in Aboriginal contexts, the course explores topics in research methodology including basic methodological problems, statistical design and reasoning. Not offered 2010-2011.", 
-        "subject": "EDUC", 
-        "number": "876", 
-        "title": "Quantitative Inquiry: Governance and Leadership in Aboriginal and Indigenous Contexts"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (2539)", 
     "basic": {
         "class_num": "2539", 
-        "subject": "FILM", 
-        "status": "Open", 
         "course": "216", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "FILM", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (2539)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Baxter, Peter"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "IBCPA RM329", 
             "start_time": "1900-01-01T12:30:00", 
-            "day_of_week": 4, 
-            "location": "IBCPA RM329"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

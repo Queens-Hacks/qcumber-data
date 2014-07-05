@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "An in-depth investigation of the linguistic, cognitive and social development of children with various neurodevelopmental disorders, including autism spectrum disorders, specific language impairment, Down syndrome, and Williams syndrome, among others.", 
+        "number": "857", 
+        "subject": "PSYC", 
+        "title": "Atypical Development"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An in-depth investigation of the linguistic, cognitive and social development of children with various neurodevelopmental disorders, including autism spectrum disorders, specific language impairment, Down syndrome, and Williams syndrome, among others.", 
-        "subject": "PSYC", 
-        "number": "857", 
-        "title": "Atypical Development"
     }
 }

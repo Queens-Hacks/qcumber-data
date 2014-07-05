@@ -1,37 +1,37 @@
 {
+    "_unique": "002-LEC (1481)", 
     "basic": {
         "class_num": "1481", 
-        "subject": "COMM", 
-        "status": "Open", 
         "course": "351", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "COMM", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-LEC (1481)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Phelan, John"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "GOODES RM 305", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 1, 
-            "location": "GOODES RM 305"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T13:00:00", 
             "instructors": [
                 "Phelan, John"
             ], 
-            "end_time": "1900-01-01T13:00:00", 
+            "location": "GOODES RM 305", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 3, 
-            "location": "GOODES RM 305"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

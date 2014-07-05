@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Students will complete two full-time (6-8 week) fieldwork experiences (OT-846 and OT-847) for practical professional experience. These courses will provide the opportunity within a practice setting to demonstrate the integration of OT skills with current OT theory and relevant supporting scientific knowledge.", 
+        "number": "847", 
+        "subject": "OT", 
+        "title": "Determinants Of Occupation II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Winter", 
         "units": "8.00"
-    }, 
-    "basic": {
-        "description": "Students will complete two full-time (6-8 week) fieldwork experiences (OT-846 and OT-847) for practical professional experience. These courses will provide the opportunity within a practice setting to demonstrate the integration of OT skills with current OT theory and relevant supporting scientific knowledge.", 
-        "subject": "OT", 
-        "number": "847", 
-        "title": "Determinants Of Occupation II"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The impact of ore estimation uncertainty on the mine planning process is examined. Deposits, including precious and base metals are discussed. Strategic mine planning will be studied including: the impacts of regulatory, financial and other constraints on mine optimization; methodologies for determining planning inputs; the role of traditional and emerging algorithms for pit limit analysis and mine scheduling; and, techniques for planning under uncertainty. Students will develop a strategic mine plan for a mineral deposit. The focus will be on surface mining activities, however, the principles are applicable to underground mining.\r\nThree term-hours, winter term; lectures and laboratory. U. Thorley", 
+        "number": "822", 
+        "subject": "MINE", 
+        "title": "Ore Estimation, Grade Control and Mine Planning"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The impact of ore estimation uncertainty on the mine planning process is examined. Deposits, including precious and base metals are discussed. Strategic mine planning will be studied including: the impacts of regulatory, financial and other constraints on mine optimization; methodologies for determining planning inputs; the role of traditional and emerging algorithms for pit limit analysis and mine scheduling; and, techniques for planning under uncertainty. Students will develop a strategic mine plan for a mineral deposit. The focus will be on surface mining activities, however, the principles are applicable to underground mining.\r\nThree term-hours, winter term; lectures and laboratory. U. Thorley", 
-        "subject": "MINE", 
-        "number": "822", 
-        "title": "Ore Estimation, Grade Control and Mine Planning"
     }
 }

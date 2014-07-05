@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A detailed study of plays by Corneille, Racine, Moli\u00e8re. Travaux pratiques include essays and tests.Given jointly with FREN 418/3.0.", 
+        "number": "306", 
+        "subject": "FREN", 
+        "title": "Le th\u00e9\u00e2tre classique"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN Plan.)\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN306; FREN418.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A detailed study of plays by Corneille, Racine, Moli\u00e8re. Travaux pratiques include essays and tests.Given jointly with FREN 418/3.0.", 
-        "subject": "FREN", 
-        "number": "306", 
-        "title": "Le th\u00e9\u00e2tre classique"
     }
 }

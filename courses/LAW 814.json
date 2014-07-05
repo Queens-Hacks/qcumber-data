@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to the theories of modern legal philosophers. The primary areas of focus are legal positivism, the liberal theory of Ronald Dworkin, critical legal theory, and the economic analysis of law. A major part of the course will be devoted to legal reasoning in general, but an attempt will be made to outline the relevance of those theories to substantive areas of law, with particular reference to constitutional rights and to various contract and tort doctrines. (To be offered jointly with LAW-310.)\u00a0 Three term-hours; Winter. C. Essert.", 
+        "number": "814", 
+        "subject": "LAW", 
+        "title": "Jurisprudence"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the theories of modern legal philosophers. The primary areas of focus are legal positivism, the liberal theory of Ronald Dworkin, critical legal theory, and the economic analysis of law. A major part of the course will be devoted to legal reasoning in general, but an attempt will be made to outline the relevance of those theories to substantive areas of law, with particular reference to constitutional rights and to various contract and tort doctrines. (To be offered jointly with LAW-310.)\u00a0 Three term-hours; Winter. C. Essert.", 
-        "subject": "LAW", 
-        "number": "814", 
-        "title": "Jurisprudence"
     }
 }

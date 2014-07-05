@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Evidence for relativistic effects. Kinematics and dynamics in special relativity, space-time diagrams, applications. Evidence for quanta, spectra, Bohr atom. Introduction to the Schroedinger equation.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 A minimum grade of C in PHYS 104/6.0 or PHYS 106/6.0.", 
+        "number": "242", 
+        "subject": "PHYS", 
+        "title": "Relativity and Quanta"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "(APSC111 AND APSC112) OR PHYS104 OR PHYS104 OR PHYS106 OR PHYS106", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Evidence for relativistic effects. Kinematics and dynamics in special relativity, space-time diagrams, applications. Evidence for quanta, spectra, Bohr atom. Introduction to the Schroedinger equation.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 A minimum grade of C in PHYS 104/6.0 or PHYS 106/6.0.", 
-        "subject": "PHYS", 
-        "number": "242", 
-        "title": "Relativity and Quanta"
     }
 }

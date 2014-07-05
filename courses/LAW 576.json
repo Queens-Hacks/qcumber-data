@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course provides a survey of the modern law of equity, including its various distinctive relationships, principles, maxims, obligations, defenses, and remedies.\u00a0 We will consider topics ranging from fiduciary duties, duties of confidence, forms of equitable property, equitable intervention in contracts, and unjust enrichment.\u00a0 We will also consider general historical and philosophical questions concerning the nature of equity and its relationship to the common law.", 
+        "number": "576", 
+        "subject": "LAW", 
+        "title": "Law of Equity"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides a survey of the modern law of equity, including its various distinctive relationships, principles, maxims, obligations, defenses, and remedies.\u00a0 We will consider topics ranging from fiduciary duties, duties of confidence, forms of equitable property, equitable intervention in contracts, and unjust enrichment.\u00a0 We will also consider general historical and philosophical questions concerning the nature of equity and its relationship to the common law.", 
-        "subject": "LAW", 
-        "number": "576", 
-        "title": "Law of Equity"
     }
 }

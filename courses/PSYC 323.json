@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The laboratory in attention course provides students with both demonstrations and hands-on experience with the methodological design and data analysis techniques used in conducting classic studies of attention. Experimental techniques include attentional cueing, visual search, change blindness, inattentional blindness, eye-tracking, multi-object tracking, and functional imaging.", 
+        "number": "323", 
+        "subject": "PSYC", 
+        "title": "Laboratory in Attention"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PSYC203 and (PSYC221 or PSYC220 or COGS200).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The laboratory in attention course provides students with both demonstrations and hands-on experience with the methodological design and data analysis techniques used in conducting classic studies of attention. Experimental techniques include attentional cueing, visual search, change blindness, inattentional blindness, eye-tracking, multi-object tracking, and functional imaging.", 
-        "subject": "PSYC", 
-        "number": "323", 
-        "title": "Laboratory in Attention"
     }
 }

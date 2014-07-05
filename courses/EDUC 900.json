@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This is a required course for all doctoral students usually taken in their second year of study. Faculty and students will present seminars of an interdisciplinary nature. Students registered in the course will be required to present one of the seminars. Grading will be pass/fail. This course is designed to explore the various research paradigms, methods of research, and the problems related to research design. Fall; S. Johnston.", 
+        "number": "900", 
+        "subject": "EDUC", 
+        "title": "Doctoral Seminar"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This is a required course for all doctoral students usually taken in their second year of study. Faculty and students will present seminars of an interdisciplinary nature. Students registered in the course will be required to present one of the seminars. Grading will be pass/fail. This course is designed to explore the various research paradigms, methods of research, and the problems related to research design. Fall; S. Johnston.", 
-        "subject": "EDUC", 
-        "number": "900", 
-        "title": "Doctoral Seminar"
     }
 }

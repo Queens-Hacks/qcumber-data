@@ -1,87 +1,87 @@
 {
+    "_unique": "001-LEC (2240)", 
     "basic": {
         "class_num": "2240", 
-        "subject": "DM", 
-        "status": "Closed", 
         "course": "881", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "DM", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2240)", 
     "classes": [
         {
-            "term_end": "2014-04-27T00:00:00", 
-            "term_start": "2014-04-24T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T00:00:00", 
-            "start_time": "1900-01-01T00:00:00", 
             "day_of_week": 7, 
-            "location": "TBA"
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-04-27T00:00:00", 
+            "term_start": "2014-04-24T00:00:00"
         }, 
         {
-            "term_end": "2014-04-27T00:00:00", 
-            "term_start": "2014-04-24T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T00:00:00", 
-            "start_time": "1900-01-01T00:00:00", 
             "day_of_week": 6, 
-            "location": "TBA"
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-04-27T00:00:00", 
+            "term_start": "2014-04-24T00:00:00"
         }, 
         {
-            "term_end": "2014-04-27T00:00:00", 
-            "term_start": "2014-04-24T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T00:00:00", 
-            "start_time": "1900-01-01T00:00:00", 
             "day_of_week": 5, 
-            "location": "TBA"
-        }, 
-        {
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
             "term_end": "2014-04-27T00:00:00", 
-            "term_start": "2014-04-24T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T00:00:00", 
-            "start_time": "1900-01-01T00:00:00", 
-            "day_of_week": 4, 
-            "location": "TBA"
+            "term_start": "2014-04-24T00:00:00"
         }, 
         {
-            "term_end": "2014-05-25T00:00:00", 
-            "term_start": "2014-05-22T00:00:00", 
-            "instructors": [], 
+            "day_of_week": 4, 
             "end_time": "1900-01-01T00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
             "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-04-27T00:00:00", 
+            "term_start": "2014-04-24T00:00:00"
+        }, 
+        {
             "day_of_week": 7, 
-            "location": "TBA"
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-05-25T00:00:00", 
+            "term_start": "2014-05-22T00:00:00"
         }, 
         {
-            "term_end": "2014-05-25T00:00:00", 
-            "term_start": "2014-05-22T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T00:00:00", 
-            "start_time": "1900-01-01T00:00:00", 
             "day_of_week": 6, 
-            "location": "TBA"
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-05-25T00:00:00", 
+            "term_start": "2014-05-22T00:00:00"
         }, 
         {
-            "term_end": "2014-05-25T00:00:00", 
-            "term_start": "2014-05-22T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T00:00:00", 
-            "start_time": "1900-01-01T00:00:00", 
             "day_of_week": 5, 
-            "location": "TBA"
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-05-25T00:00:00", 
+            "term_start": "2014-05-22T00:00:00"
         }, 
         {
-            "term_end": "2014-05-25T00:00:00", 
-            "term_start": "2014-05-22T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T00:00:00", 
-            "start_time": "1900-01-01T00:00:00", 
             "day_of_week": 4, 
-            "location": "TBA"
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-05-25T00:00:00", 
+            "term_start": "2014-05-22T00:00:00"
         }
     ]
 }

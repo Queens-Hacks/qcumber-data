@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The purpose of this seminar course is to examine the role and effect of racism in Canadian legal culture, by discussing racism in Canadian legal history and the use of law in particular moments of Canadian social history characterized by racism; by examining racism in legal education (and education generally) and in the legal profession; and by discussing manifestations of racism in Canadian legal doctrine and the Canadian system of justice.", 
+        "number": "575", 
+        "subject": "LAW", 
+        "title": "Racism & Canadian Legal Cult."
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The purpose of this seminar course is to examine the role and effect of racism in Canadian legal culture, by discussing racism in Canadian legal history and the use of law in particular moments of Canadian social history characterized by racism; by examining racism in legal education (and education generally) and in the legal profession; and by discussing manifestations of racism in Canadian legal doctrine and the Canadian system of justice.", 
-        "subject": "LAW", 
-        "number": "575", 
-        "title": "Racism & Canadian Legal Cult."
     }
 }

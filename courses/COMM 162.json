@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "This course develops students' capabilities for analyzing and drawing conclusions from data. Course coverage will include probability, probability models, statistical inference, and a thorough grounding in simple and multiple regression. Topics will be illustrated with appropriate examples, many supported by spreadsheet methods.", 
+        "number": "162", 
+        "subject": "COMM", 
+        "title": "Managerial Statistics"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Exclusion:\u00a0 ECON250, STAT261, STAT263 and PSYC202.\u00a0 Registration in a BCOM Academic Program or a COMM-X Academic Plan is required.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course develops students' capabilities for analyzing and drawing conclusions from data. Course coverage will include probability, probability models, statistical inference, and a thorough grounding in simple and multiple regression. Topics will be illustrated with appropriate examples, many supported by spreadsheet methods.", 
-        "subject": "COMM", 
-        "number": "162", 
-        "title": "Managerial Statistics"
     }
 }

@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A course primarily for students in theoretical physics. Various topics of current interest will be discussed, such as the interacting boson model, and investigations of the nuclear response to leptonic, pionic, and hadronic probes.", 
+        "number": "995", 
+        "subject": "PHYS", 
+        "title": "Adv Topics/Sub-Atomic Theory"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A course primarily for students in theoretical physics. Various topics of current interest will be discussed, such as the interacting boson model, and investigations of the nuclear response to leptonic, pionic, and hadronic probes.", 
-        "subject": "PHYS", 
-        "number": "995", 
-        "title": "Adv Topics/Sub-Atomic Theory"
     }
 }

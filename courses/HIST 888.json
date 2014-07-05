@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Key debates in the political history of Latin America from Independence (1820s) to the recent past. Themes include the tension between liberal and authoritarian traditions; struggles for civil, political, and human rights; populism and charismatic leaders; revolutionary and reactionary ideologies. One-term seminar; fall. D. Parker.\u00a0", 
+        "number": "888", 
+        "subject": "HIST", 
+        "title": "Citizenship Latin America"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Key debates in the political history of Latin America from Independence (1820s) to the recent past. Themes include the tension between liberal and authoritarian traditions; struggles for civil, political, and human rights; populism and charismatic leaders; revolutionary and reactionary ideologies. One-term seminar; fall. D. Parker.\u00a0", 
-        "subject": "HIST", 
-        "number": "888", 
-        "title": "Citizenship Latin America"
     }
 }

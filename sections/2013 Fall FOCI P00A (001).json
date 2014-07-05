@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (7591)", 
     "basic": {
         "class_num": "7591", 
-        "subject": "FOCI", 
-        "status": "Open", 
         "course": "P00A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FOCI", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (7591)", 
     "classes": [
         {
-            "term_end": "2013-09-10T00:00:00", 
-            "term_start": "2013-09-10T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:50:00", 
             "instructors": [
                 "O'Neil, Tammy"
             ], 
-            "end_time": "1900-01-01T16:50:00", 
+            "location": "DUNCAN MCARTHUR RM A237", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A237"
+            "term_end": "2013-09-10T00:00:00", 
+            "term_start": "2013-09-10T00:00:00"
         }
     ]
 }

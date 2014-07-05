@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (1080)", 
     "basic": {
         "class_num": "1080", 
-        "subject": "MECH", 
-        "status": "Closed", 
         "course": "899", 
-        "year": "2015", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MECH", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (1080)", 
     "classes": [
         {
-            "term_end": "2015-08-12T00:00:00", 
-            "term_start": "2015-05-01T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-08-12T00:00:00", 
+            "term_start": "2015-05-01T00:00:00"
         }
     ]
 }

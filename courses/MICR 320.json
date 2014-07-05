@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Knowledge of interactions between bacterial or viral pathogens and their human hosts is crucial for understanding the nature of infectious diseases, as well as their control and treatment.\u00a0This course examines key microbial pathogens, with the goal of introducing students to the biology, diversity and complexity of host-pathogen relationships.", 
+        "number": "320", 
+        "subject": "MICR", 
+        "title": "Microbial Pathogenesis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0 (MICR 221/3.0 or MICR 229/3.0) and MICR 360/3.0.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Knowledge of interactions between bacterial or viral pathogens and their human hosts is crucial for understanding the nature of infectious diseases, as well as their control and treatment.\u00a0This course examines key microbial pathogens, with the goal of introducing students to the biology, diversity and complexity of host-pathogen relationships.", 
-        "subject": "MICR", 
-        "number": "320", 
-        "title": "Microbial Pathogenesis"
     }
 }

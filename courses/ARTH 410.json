@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Studies in the textiles and dress of selected periods with a focus upon visual culture and/or material culture.", 
+        "number": "410", 
+        "subject": "ARTH", 
+        "title": "Studies in the History of Textiles and Dress"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 A GPA of 2.6 in a minium of 24.0 units in ARTH and Level 4 and registration in an ARTH Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Studies in the textiles and dress of selected periods with a focus upon visual culture and/or material culture.", 
-        "subject": "ARTH", 
-        "number": "410", 
-        "title": "Studies in the History of Textiles and Dress"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "_unique": "004-LEC (7974)", 
     "basic": {
         "class_num": "7974", 
-        "subject": "CONT", 
-        "status": "Open", 
         "course": "504", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "004", 
+        "status": "Open", 
+        "subject": "CONT", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "004-LEC (7974)", 
     "classes": [
         {
-            "term_end": "2013-12-06T00:00:00", 
-            "term_start": "2013-09-30T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2013-12-06T00:00:00", 
+            "term_start": "2013-09-30T00:00:00"
         }
     ]
 }

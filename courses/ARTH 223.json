@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A comparative study of English and Continental European art in the first half of the 19th century. Topics will include landscape as an expression of class and power, art and politics in French Romanticism, gender roles in Pre-Raphaelite painting and the rhetoric of Realism. \u00a0 \r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader\u00a0International Study Centre, Herstmonceux. Students must participate in field trips.", 
+        "number": "223", 
+        "subject": "ARTH", 
+        "title": "Art in Europe c.1800-1850"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 2nd year standing or above\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from ARTH 223/3.0; ARTH 250/3.0.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A comparative study of English and Continental European art in the first half of the 19th century. Topics will include landscape as an expression of class and power, art and politics in French Romanticism, gender roles in Pre-Raphaelite painting and the rhetoric of Realism. \u00a0 \r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader\u00a0International Study Centre, Herstmonceux. Students must participate in field trips.", 
-        "subject": "ARTH", 
-        "number": "223", 
-        "title": "Art in Europe c.1800-1850"
     }
 }

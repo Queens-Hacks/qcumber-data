@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "618", 
+        "subject": "CONT", 
+        "title": "Music\u00a0 Vocal I/S - Pt. 1"
+    }, 
     "extra": {
-        "career": "Non-Credit", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CONT", 
-        "number": "618", 
-        "title": "Music\u00a0 Vocal I/S - Pt. 1"
     }
 }

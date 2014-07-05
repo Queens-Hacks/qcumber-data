@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course examines current research on the impact of information technology on individual, group and organizational performance.\u00a0 It focuses on developing an understanding of how information technology (IT) changes both the processes and outcomes of work within an organization.\u00a0 At the individual level, topics include the impact of IT on employee work and productivity, the determinants of IT usage, and the influence of IT on decision-making.\u00a0 At the group level, topics include the influence of IT on group communication, social processes, and productivity in face-to-face and distributed settings.\u00a0 At the organizational level, topics involving the evaluation of IT investments and their impact on firm performance are examined.\u00a0 A variety of research perspectives drawing on methods from psychology, organization theory, strategy, economics, sociology and other disciplines are examined.", 
+        "number": "974", 
+        "subject": "MGMT", 
+        "title": "Advanced Topics in the Evaluation of Information Systems"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines current research on the impact of information technology on individual, group and organizational performance.\u00a0 It focuses on developing an understanding of how information technology (IT) changes both the processes and outcomes of work within an organization.\u00a0 At the individual level, topics include the impact of IT on employee work and productivity, the determinants of IT usage, and the influence of IT on decision-making.\u00a0 At the group level, topics include the influence of IT on group communication, social processes, and productivity in face-to-face and distributed settings.\u00a0 At the organizational level, topics involving the evaluation of IT investments and their impact on firm performance are examined.\u00a0 A variety of research perspectives drawing on methods from psychology, organization theory, strategy, economics, sociology and other disciplines are examined.", 
-        "subject": "MGMT", 
-        "number": "974", 
-        "title": "Advanced Topics in the Evaluation of Information Systems"
     }
 }

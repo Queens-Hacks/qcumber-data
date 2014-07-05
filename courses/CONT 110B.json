@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Introduction to schools, teaching, and curriculum in their historical, political, social and philosophical context.\u00a0 Exploration of policy, practice and professional portfolios, with an emphasis on reflective and critical thinking.", 
+        "number": "110B", 
+        "subject": "CONT", 
+        "title": "Self as Teacher"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to schools, teaching, and curriculum in their historical, political, social and philosophical context.\u00a0 Exploration of policy, practice and professional portfolios, with an emphasis on reflective and critical thinking.", 
-        "subject": "CONT", 
-        "number": "110B", 
-        "title": "Self as Teacher"
     }
 }

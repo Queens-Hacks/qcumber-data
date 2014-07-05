@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of the ways in which common law and constitutional law shape the exercise of statutory authority, with special reference to how judicial review influences policy making.", 
+        "number": "812A", 
+        "subject": "MPA", 
+        "title": "Law And Public Policy"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "An examination of the ways in which common law and constitutional law shape the exercise of statutory authority, with special reference to how judicial review influences policy making.", 
-        "subject": "MPA", 
-        "number": "812A", 
-        "title": "Law And Public Policy"
     }
 }

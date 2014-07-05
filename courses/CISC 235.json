@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Design and implementation of advanced data structures and related algorithms, including correctness and complexity analysis.\u00a0", 
+        "number": "235", 
+        "subject": "CISC", 
+        "title": "Data Structures"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC124 and CISC203", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Design and implementation of advanced data structures and related algorithms, including correctness and complexity analysis.\u00a0", 
-        "subject": "CISC", 
-        "number": "235", 
-        "title": "Data Structures"
     }
 }

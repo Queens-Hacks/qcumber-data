@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Specific properties of polymers (glass transition, crystallinity, polydispersity, etc.) and their dependence on macromolecular structure and isomerism. Polymer synthesis overview: step and chain polymerization (free-radical, ionic and insertion mechanisms) and reactions on polymers. Examples of polymers and their uses.", 
+        "number": "424", 
+        "subject": "CHEM", 
+        "title": "Polymer Chemistry"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0 CHEM223/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Specific properties of polymers (glass transition, crystallinity, polydispersity, etc.) and their dependence on macromolecular structure and isomerism. Polymer synthesis overview: step and chain polymerization (free-radical, ionic and insertion mechanisms) and reactions on polymers. Examples of polymers and their uses.", 
-        "subject": "CHEM", 
-        "number": "424", 
-        "title": "Polymer Chemistry"
     }
 }

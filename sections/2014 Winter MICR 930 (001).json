@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (8065)", 
     "basic": {
         "class_num": "8065", 
-        "subject": "MICR", 
-        "status": "Closed", 
         "course": "930", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MICR", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (8065)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Jarrell, Kenneth F J"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

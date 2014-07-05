@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "General groups of plants used for food, fibre, shelter and pleasure. The plant parts that are used and the conversion of these to consumer products will be surveyed.", 
+        "number": "315", 
+        "subject": "BIOL", 
+        "title": "Plants for People"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 BIOL102 and BIOL103 and BIOL201.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "General groups of plants used for food, fibre, shelter and pleasure. The plant parts that are used and the conversion of these to consumer products will be surveyed.", 
-        "subject": "BIOL", 
-        "number": "315", 
-        "title": "Plants for People"
     }
 }

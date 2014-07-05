@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Prepares candidates to obtain a Computer Studies qualification and to teach the corresponding courses. Topics: Ministry expectations; College of Teachers standards of practice; developing an approach to teaching; assessment of learning; finding, adapting, and developing teaching and learning resources; teaching problem-solving and programming.", 
+        "number": "309", 
+        "subject": "CURR", 
+        "title": "Computer Studies (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Prepares candidates to obtain a Computer Studies qualification and to teach the corresponding courses. Topics: Ministry expectations; College of Teachers standards of practice; developing an approach to teaching; assessment of learning; finding, adapting, and developing teaching and learning resources; teaching problem-solving and programming.", 
-        "subject": "CURR", 
-        "number": "309", 
-        "title": "Computer Studies (IS)"
     }
 }

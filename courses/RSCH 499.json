@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "499", 
+        "subject": "RSCH", 
+        "title": "Undergrad Research Activity"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "RSCH", 
-        "number": "499", 
-        "title": "Undergrad Research Activity"
     }
 }

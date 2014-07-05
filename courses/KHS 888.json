@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will explore the function and regulation of the cardiovascular system in exercise and extreme environment (e.g. altitude, microgravity). Some cardiovascular diseases (e.g. hypertension, heart failure) will be examined to understand the implications of dysfunction in cardiovascular control.", 
+        "number": "888", 
+        "subject": "KHS", 
+        "title": "Cardiovascular Regulation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will explore the function and regulation of the cardiovascular system in exercise and extreme environment (e.g. altitude, microgravity). Some cardiovascular diseases (e.g. hypertension, heart failure) will be examined to understand the implications of dysfunction in cardiovascular control.", 
-        "subject": "KHS", 
-        "number": "888", 
-        "title": "Cardiovascular Regulation"
     }
 }

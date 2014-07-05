@@ -1,1 +1,14 @@
-{"isbn_13": "YRA28B", "isbn_10": "YRA28B", "classified_info": "0 classified listings", "new_price": "$18.69", "authors": "Yamaha", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13601-MUSC332-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl16_test_ModeFull", "courses": ["MUSC 332"], "required": true, "new_available": 23, "title": "Alto Recorder"}
+{
+    "authors": "Yamaha", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "MUSC 332"
+    ], 
+    "isbn_10": "YRA28B", 
+    "isbn_13": "YRA28B", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13601-MUSC332-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl16_test_ModeFull", 
+    "new_available": 23, 
+    "new_price": "$18.69", 
+    "required": true, 
+    "title": "Alto Recorder"
+}

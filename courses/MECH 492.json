@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course presents some of the applications of fluid mechanics in human biomechanical systems. The course centres on the hum circulatory and respiratory systems. Topics covered will include: blood flow in the heart, arteries, veins and microcirculation; air flow in lungs and airways; mass transfer across the walls of these systems. Experimental tools for use in biomedical applications will be emphas Students are expected to have experimental and fluids knowledge typically acquired in MECH 215/241/341. Those who have not taken t or similar courses will need to prepare through self study.", 
+        "number": "492", 
+        "subject": "MECH", 
+        "title": "Biofluids"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 42, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course presents some of the applications of fluid mechanics in human biomechanical systems. The course centres on the hum circulatory and respiratory systems. Topics covered will include: blood flow in the heart, arteries, veins and microcirculation; air flow in lungs and airways; mass transfer across the walls of these systems. Experimental tools for use in biomedical applications will be emphas Students are expected to have experimental and fluids knowledge typically acquired in MECH 215/241/341. Those who have not taken t or similar courses will need to prepare through self study.", 
-        "subject": "MECH", 
-        "number": "492", 
-        "title": "Biofluids"
     }
 }

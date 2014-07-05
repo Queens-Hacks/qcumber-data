@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides a broad introduction to the obscure but increasingly significant field of international commercial arbitration. Students will gain an understanding of the intersection of international law, national law, and private contract that comprises the governing regime for this important means for the resolution of cross-border business disputes. While the course will be fairly international in its scope, we will cover the Canadian law on matters such as compelling arbitration, seeking interim relief from courts, and recognizing, annulling, and enforcing international arbitral awards. The focus will be on both law and practice, and classes will include both traditional lectures and several in-class simulations and other exercises. International Commercial Arbitration is not open to students who have taken the International Business Law Program at the BISC. It overlaps only slightly with (and would be a good complement to) Law 454 International Economic Law. Students interested in participating in the Willem C Vis International Commercial Arbitration Moot are encouraged to enroll.", 
+        "number": "612", 
+        "subject": "LAW", 
+        "title": "Int'l Commercial Arbitration"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Exclusion:\u00a0 Maximum of 2.00 units from LAW612 or LAW613 and completion of all level one courses.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides a broad introduction to the obscure but increasingly significant field of international commercial arbitration. Students will gain an understanding of the intersection of international law, national law, and private contract that comprises the governing regime for this important means for the resolution of cross-border business disputes. While the course will be fairly international in its scope, we will cover the Canadian law on matters such as compelling arbitration, seeking interim relief from courts, and recognizing, annulling, and enforcing international arbitral awards. The focus will be on both law and practice, and classes will include both traditional lectures and several in-class simulations and other exercises. International Commercial Arbitration is not open to students who have taken the International Business Law Program at the BISC. It overlaps only slightly with (and would be a good complement to) Law 454 International Economic Law. Students interested in participating in the Willem C Vis International Commercial Arbitration Moot are encouraged to enroll.", 
-        "subject": "LAW", 
-        "number": "612", 
-        "title": "Int'l Commercial Arbitration"
     }
 }

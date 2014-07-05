@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "An overview of the principles and processes of nursing research. By the end of the course the student will have developed the ability to identify researchable problems. The student will be able to critique and make decisions about the applicability of published nursing research. The student will acquire the knowledge necessary for beginning participation as a junior member of a nursing research project.\u00a03 hours per week; 9 units (3 credits) course weight.", 
+        "number": "324", 
+        "subject": "NURS", 
+        "title": "Nur Prin & Applic Of Nur Rsch"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Exclusions: HLTH252 and PSYC203.\u00a0 Registration in a NURS-N-BCH Academic Program is required.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An overview of the principles and processes of nursing research. By the end of the course the student will have developed the ability to identify researchable problems. The student will be able to critique and make decisions about the applicability of published nursing research. The student will acquire the knowledge necessary for beginning participation as a junior member of a nursing research project.\u00a03 hours per week; 9 units (3 credits) course weight.", 
-        "subject": "NURS", 
-        "number": "324", 
-        "title": "Nur Prin & Applic Of Nur Rsch"
     }
 }

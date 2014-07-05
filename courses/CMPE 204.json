@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Elements of mathematical logic with computing applications. Formal proof systems for propositional and predicate logic. Interpretations, validity, and satisfiability. Introduction to soundness, completeness and decidability.", 
+        "number": "204", 
+        "subject": "CMPE", 
+        "title": "Logic For Computing Science"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 36
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites: ELEC 270 or CISC 203 and registered in BSCE", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 36, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Elements of mathematical logic with computing applications. Formal proof systems for propositional and predicate logic. Interpretations, validity, and satisfiability. Introduction to soundness, completeness and decidability.", 
-        "subject": "CMPE", 
-        "number": "204", 
-        "title": "Logic For Computing Science"
     }
 }

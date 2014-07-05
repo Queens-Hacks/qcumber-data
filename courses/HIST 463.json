@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Key debates in the political history of Latin America from Independence (1820s) to the recent past. Themes include the tension between liberalism and authoritarianism; struggles for civil, political, and human rights; populism and charismatic leaders; revolutionary and reactionary ideologies.", 
+        "number": "463", 
+        "subject": "HIST", 
+        "title": "Liberalism, Authoritarianism and Citizenship in Latin America"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A Grade of C+ in 6.0 units from HIST 300-329 and registration in a HIST Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "Key debates in the political history of Latin America from Independence (1820s) to the recent past. Themes include the tension between liberalism and authoritarianism; struggles for civil, political, and human rights; populism and charismatic leaders; revolutionary and reactionary ideologies.", 
-        "subject": "HIST", 
-        "number": "463", 
-        "title": "Liberalism, Authoritarianism and Citizenship in Latin America"
     }
 }

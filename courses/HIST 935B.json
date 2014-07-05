@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "935B", 
+        "subject": "HIST", 
+        "title": "Development Studies\u00a0 1850-1970"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "HIST", 
-        "number": "935B", 
-        "title": "Development Studies\u00a0 1850-1970"
     }
 }

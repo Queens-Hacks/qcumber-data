@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The evolution and function of cognition across species, ranging from invertebrates to humans. Topics include perception, attention, associate mechanisms, categorization, decision making and memory. Each will be examined from a comparative and biological perspective. Laboratory exercises complement topics to be covered in the lectures.", 
+        "number": "205", 
+        "subject": "PSYC", 
+        "title": "Introduction to Comparative Cognition"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 A grade of B- in PSYC100", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The evolution and function of cognition across species, ranging from invertebrates to humans. Topics include perception, attention, associate mechanisms, categorization, decision making and memory. Each will be examined from a comparative and biological perspective. Laboratory exercises complement topics to be covered in the lectures.", 
-        "subject": "PSYC", 
-        "number": "205", 
-        "title": "Introduction to Comparative Cognition"
     }
 }

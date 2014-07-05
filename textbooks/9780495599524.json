@@ -1,1 +1,15 @@
-{"isbn_13": "9780495599524", "used_available": 5, "isbn_10": "0495599522", "classified_info": "3 classified listings: $0.00 to $60.00", "new_price": "$142.09", "used_price": "$106.57", "authors": "Donelson R. Forsyth", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13372-PSE328-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["PSE 328"], "required": true, "title": "Group Dynamics"}
+{
+    "authors": "Donelson R. Forsyth", 
+    "classified_info": "3 classified listings: $0.00 to $60.00", 
+    "courses": [
+        "PSE 328"
+    ], 
+    "isbn_10": "0495599522", 
+    "isbn_13": "9780495599524", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13372-PSE328-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$142.09", 
+    "required": true, 
+    "title": "Group Dynamics", 
+    "used_available": 5, 
+    "used_price": "$106.57"
+}

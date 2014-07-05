@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Students work in groups of three on the design and implementation of electrical engineering projects, with the advice of faculty members. This course is intended to give students an opportunity to practice independent design and analysis. Each group is required to prepare an initial engineering proposal, regular progress reports, and a final report together with a formal seminar on the project and its results.", 
+        "number": "490A", 
+        "subject": "ELEC", 
+        "title": "Electrical Engineering Project"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of ELEC 323, ELEC 324, ELEC 326, ELEC 353, ELEC 371, ELEC 381,ELEC 390, or permission of the Department and registered in a BSCE Academic Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Students work in groups of three on the design and implementation of electrical engineering projects, with the advice of faculty members. This course is intended to give students an opportunity to practice independent design and analysis. Each group is required to prepare an initial engineering proposal, regular progress reports, and a final report together with a formal seminar on the project and its results.", 
-        "subject": "ELEC", 
-        "number": "490A", 
-        "title": "Electrical Engineering Project"
     }
 }

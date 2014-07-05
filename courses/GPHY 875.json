@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A lecture and seminar course in which developments in the field of historical geography are examined, assessed and placed in a disciplinary and interdisciplinary context.\u00a0\u00a0 Three term-hours.", 
+        "number": "875", 
+        "subject": "GPHY", 
+        "title": "Seminar In Historical Geog."
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A lecture and seminar course in which developments in the field of historical geography are examined, assessed and placed in a disciplinary and interdisciplinary context.\u00a0\u00a0 Three term-hours.", 
-        "subject": "GPHY", 
-        "number": "875", 
-        "title": "Seminar In Historical Geog."
     }
 }

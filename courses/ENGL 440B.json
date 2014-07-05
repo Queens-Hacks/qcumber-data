@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "For detailed information, consult the Department.", 
+        "number": "440B", 
+        "subject": "ENGL", 
+        "title": "Studies in Romanticism"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "For detailed information, consult the Department.", 
-        "subject": "ENGL", 
-        "number": "440B", 
-        "title": "Studies in Romanticism"
     }
 }

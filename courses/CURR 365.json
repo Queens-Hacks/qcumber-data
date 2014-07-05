@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "(Music-Instrumental candidates only). See course description for CURR 345.\u00a0 CURR 345 and CURR 365 are\u00a0combined in one class.", 
+        "number": "365", 
+        "subject": "CURR", 
+        "title": "Intro Teach Instrum Music (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "(Music-Instrumental candidates only). See course description for CURR 345.\u00a0 CURR 345 and CURR 365 are\u00a0combined in one class.", 
-        "subject": "CURR", 
-        "number": "365", 
-        "title": "Intro Teach Instrum Music (IS)"
     }
 }

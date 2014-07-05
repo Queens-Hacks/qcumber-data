@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides an introductory comparative analysis of financial institutions and financial markets in major countries. The course will examine examples of international finance as practiced in the Euromarkets and examples of domestic practice in such countries as Great Britain, the United States, and Japan.", 
+        "number": "226", 
+        "subject": "COMM", 
+        "title": "Comparative Financial Inst."
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "not open to COMM program\r\nPrerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides an introductory comparative analysis of financial institutions and financial markets in major countries. The course will examine examples of international finance as practiced in the Euromarkets and examples of domestic practice in such countries as Great Britain, the United States, and Japan.", 
-        "subject": "COMM", 
-        "number": "226", 
-        "title": "Comparative Financial Inst."
     }
 }

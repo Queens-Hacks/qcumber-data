@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Seventeenth-century texts in prose are studied in detail from the works of Cyrano de Bergerac, d'Urf\u00e9, Scarron, Fureti\u00e8re, Guilleragues and Mme de la Fayette. Travaux pratiques include oral expos\u00e9s and dissertations. Given jointly with FREN 487/3.0.", 
+        "number": "387", 
+        "subject": "FREN", 
+        "title": "La prose au 17e si\u00e8cle"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Seventeenth-century texts in prose are studied in detail from the works of Cyrano de Bergerac, d'Urf\u00e9, Scarron, Fureti\u00e8re, Guilleragues and Mme de la Fayette. Travaux pratiques include oral expos\u00e9s and dissertations. Given jointly with FREN 487/3.0.", 
-        "subject": "FREN", 
-        "number": "387", 
-        "title": "La prose au 17e si\u00e8cle"
     }
 }

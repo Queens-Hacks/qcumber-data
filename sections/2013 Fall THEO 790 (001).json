@@ -1,26 +1,26 @@
 {
+    "_unique": "001-REA (6841)", 
     "basic": {
         "class_num": "6841", 
-        "subject": "THEO", 
-        "status": "Open", 
         "course": "790", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "THEO", 
         "type": "REA", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-REA (6841)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Holmes, Pamela"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

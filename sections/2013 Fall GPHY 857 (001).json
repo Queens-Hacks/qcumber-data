@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (8954)", 
     "basic": {
         "class_num": "8954", 
-        "subject": "GPHY", 
-        "status": "Open", 
         "course": "857", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GPHY", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-SEM (8954)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Treitz, Paul"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "MACINTOSH-CORRY RM E204", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 2, 
-            "location": "MACINTOSH-CORRY RM E204"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

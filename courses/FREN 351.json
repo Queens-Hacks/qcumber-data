@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of representative works by African and the Caribbean writers. Travaux pratiques include essays and tests. Given jointly with FREN 451/3.0.", 
+        "number": "351", 
+        "subject": "FREN", 
+        "title": "Ecrits de la Francophonie"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 FREN221 or (FREN212 and FREN220).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN351; FREN451.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of representative works by African and the Caribbean writers. Travaux pratiques include essays and tests. Given jointly with FREN 451/3.0.", 
-        "subject": "FREN", 
-        "number": "351", 
-        "title": "Ecrits de la Francophonie"
     }
 }

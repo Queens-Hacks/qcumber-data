@@ -1,26 +1,26 @@
 {
-    "extra": {
-        "typically_offered": "Fall", 
-        "course_components": {
-            "Lecture": "Required", 
-            "Individual Study": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
-        "grading_basis": "Graded", 
-        "units": "1.00"
-    }, 
     "basic": {
         "description": "", 
-        "subject": "LAW", 
         "number": "P23", 
+        "subject": "LAW", 
         "title": "Labour Law: Enrichment Project"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Individual Study": "Required", 
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
     }
 }

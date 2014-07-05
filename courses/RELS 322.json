@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Surveys the history and philosophy of yoga in India and the West.\r\nNOTE\u00a0\u00a0\u00a0 Yoga practicum: estimated cost $85.", 
+        "number": "322", 
+        "subject": "RELS", 
+        "title": "Yoga in India and the West"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 3 or above or 6.0 units at the 100 level in RELS", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Surveys the history and philosophy of yoga in India and the West.\r\nNOTE\u00a0\u00a0\u00a0 Yoga practicum: estimated cost $85.", 
-        "subject": "RELS", 
-        "number": "322", 
-        "title": "Yoga in India and the West"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (8148)", 
     "basic": {
         "class_num": "8148", 
-        "subject": "NURS", 
-        "status": "Closed", 
         "course": "800B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "NURS", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (8148)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T12:00:00", 
             "instructors": [
                 "Tranmer, Joan E"
             ], 
-            "end_time": "1900-01-01T12:00:00", 
+            "location": "CATARAQUI ROOM 207", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 1, 
-            "location": "CATARAQUI ROOM 207"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

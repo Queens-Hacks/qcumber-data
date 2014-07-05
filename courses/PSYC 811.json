@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Designed to facilitate professional development, increase scientific dialogue, and enhance collaboration and scientific group problem-solving in the broad field of brain, behaviour and cognitive science.\u00a0 Faculty and students will lead discussions of critical topics in the field.\u00a0 Marked on a Pass/Fail basis.\u00a0 Fall; seminar (2 hrs)", 
+        "number": "811", 
+        "subject": "PSYC", 
+        "title": "(Bbcs) Research Seminar"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Designed to facilitate professional development, increase scientific dialogue, and enhance collaboration and scientific group problem-solving in the broad field of brain, behaviour and cognitive science.\u00a0 Faculty and students will lead discussions of critical topics in the field.\u00a0 Marked on a Pass/Fail basis.\u00a0 Fall; seminar (2 hrs)", 
-        "subject": "PSYC", 
-        "number": "811", 
-        "title": "(Bbcs) Research Seminar"
     }
 }

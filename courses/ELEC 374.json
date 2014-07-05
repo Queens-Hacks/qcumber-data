@@ -1,27 +1,27 @@
 {
-    "extra": {
-        "typically_offered": "Winter", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ELEC252 and ELEC271 and ELEC274 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 23, 
-            "Eng Sci": 28, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "4.25"
-    }, 
     "basic": {
         "description": "High-performance logic design for arithmetic circuits; memory system designs based on static and dynamic RAMs; computer bus protocols and standard I/O interfaces; mass storage devices; hardware description languages (VHDL, Verilog); fault testing, design for testability, built-in self-test, memory testing, and boundary\u00bfscan architectures; asynchronous sequential circuit design; introduction to GPU architectures and GPU computing. The course is supplemented by a CPU design project that allows students to become proficient with Field Programmable Gate Array (FPGA) devices and associated CAD tools, as well as with GPU computing through nVidia CUDA or OpenCL languages.", 
-        "subject": "ELEC", 
         "number": "374", 
+        "subject": "ELEC", 
         "title": "Digital Systems Engineering"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 23, 
+            "Eng Sci": 28, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC252 and ELEC271 and ELEC274 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "4.25"
     }
 }

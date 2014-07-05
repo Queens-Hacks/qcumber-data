@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling.", 
+        "number": "316", 
+        "subject": "BCHM", 
+        "title": "Metabolism"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 BCHM 315/3.0. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from BCHM 310/6.0; BCHM 315/3.0; BCHM 316/3.0.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from BCHM 102/3.0; BCHM 316/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling.", 
-        "subject": "BCHM", 
-        "number": "316", 
-        "title": "Metabolism"
     }
 }

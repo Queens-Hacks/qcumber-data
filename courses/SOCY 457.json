@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Sociological perspectives of the relationship of law to social structure, the role of\u00a0law in social action,\u00a0law's role in social change, and discrimination and social inequality through law; emphasis is on contemporary systems in\u00a0comparative and historical perspective.", 
+        "number": "457", 
+        "subject": "SOCY", 
+        "title": "Law and Social Structure"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prereq: Level 4 & reg in SOCY MAJ or MED & (a min grade of C in SOCY210, SOCY211, SOCY226 & SOCY227) & (a min GPA of 2.60 in SOCY210, SOCY211, SOCY226, SOCY227 & (a min GPA of 2.60 in all units in SOCY).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Sociological perspectives of the relationship of law to social structure, the role of\u00a0law in social action,\u00a0law's role in social change, and discrimination and social inequality through law; emphasis is on contemporary systems in\u00a0comparative and historical perspective.", 
-        "subject": "SOCY", 
-        "number": "457", 
-        "title": "Law and Social Structure"
     }
 }

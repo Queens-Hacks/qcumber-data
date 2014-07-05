@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of eight of Shakespeare's plays in relation to the social, intellectual, and political climate of the Elizabethan period and with reference to theatrical production.", 
+        "number": "257", 
+        "subject": "ENGL", 
+        "title": "Elizabethan Shakespeare"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C in 6.0 units from ENGL100 (or ENGL110)\r\nEXCLUSION\u00a0 no more than 6.0 units from ENGL256/6.0; 257/3.0; 258/3.0\r\nEquivalency\u00a0\u00a0\u00a0 ENGL 226.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of eight of Shakespeare's plays in relation to the social, intellectual, and political climate of the Elizabethan period and with reference to theatrical production.", 
-        "subject": "ENGL", 
-        "number": "257", 
-        "title": "Elizabethan Shakespeare"
     }
 }

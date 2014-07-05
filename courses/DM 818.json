@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "The course is intended to provide graduate engineering students with a broad sense of the issues and methodologies involved in Product Design. Emphasis is placed on creativity in the design and development of readily useable products and systems intended for manufacture in quantity for consumer and commercial markets. The course covers a broad range of product development issues aside from those that are strictly technical, including appeal, appropriate functional aspects, viability and durability. The course addresses the following issues:- Development of a design vocabulary and Design Value System- Conceptual thinking and preparation of concept- Influence of product planning and marketing on design process- Importance of teamwork and interdependence on other disciplines- New ideas, inventions, & technologies influencing design approach- Human factors, ergonomics and user issues affecting design directions- Design Economics - the \u00bfbig picture\u00bf- Appropriate (for purpose) material selections - Selection of appropriate manufacturing / fabrication methods- Proactive presentation of design concepts and related information- Dealing with market response, re-evaluation and modification(Lead Instructor - Claude Gidman, Toronto)", 
+        "number": "818", 
+        "subject": "DM", 
+        "title": "Product Design & Development"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course is intended to provide graduate engineering students with a broad sense of the issues and methodologies involved in Product Design. Emphasis is placed on creativity in the design and development of readily useable products and systems intended for manufacture in quantity for consumer and commercial markets. The course covers a broad range of product development issues aside from those that are strictly technical, including appeal, appropriate functional aspects, viability and durability. The course addresses the following issues:- Development of a design vocabulary and Design Value System- Conceptual thinking and preparation of concept- Influence of product planning and marketing on design process- Importance of teamwork and interdependence on other disciplines- New ideas, inventions, & technologies influencing design approach- Human factors, ergonomics and user issues affecting design directions- Design Economics - the \u00bfbig picture\u00bf- Appropriate (for purpose) material selections - Selection of appropriate manufacturing / fabrication methods- Proactive presentation of design concepts and related information- Dealing with market response, re-evaluation and modification(Lead Instructor - Claude Gidman, Toronto)", 
-        "subject": "DM", 
-        "number": "818", 
-        "title": "Product Design & Development"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course introduces the basic statistical concepts, principles and techniques essential for community health and epidemiologic research. Topics include descriptive statistics, probability distribution, estimation, hypothesis testing, simple linear regression, correlation and measures of association, and some nonparametric methods. Three term-hours; fall; every year.\u00a0B. Chen, K. Ding; A. Day, J. Zhang-Salomons, D. Tu. Required Learning\u00a0Materials : SAS or SPSS Licence: $50 This course includes a compulsory SAS Programming component (M.Sc. program) or SPSS programming component (MPH).", 
+        "number": "821", 
+        "subject": "EPID", 
+        "title": "Introductory Biostatistics"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course introduces the basic statistical concepts, principles and techniques essential for community health and epidemiologic research. Topics include descriptive statistics, probability distribution, estimation, hypothesis testing, simple linear regression, correlation and measures of association, and some nonparametric methods. Three term-hours; fall; every year.\u00a0B. Chen, K. Ding; A. Day, J. Zhang-Salomons, D. Tu. Required Learning\u00a0Materials : SAS or SPSS Licence: $50 This course includes a compulsory SAS Programming component (M.Sc. program) or SPSS programming component (MPH).", 
-        "subject": "EPID", 
-        "number": "821", 
-        "title": "Introductory Biostatistics"
     }
 }

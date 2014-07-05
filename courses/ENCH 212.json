@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An introduction to the kinetics and mechanisms of reactions in gaseous and condensed phases, including acid-base and nucleophilic substitution reactions at carbon and other main group centers. Other topics will include molecular dynamics and reactions in solution. The laboratory illustrates measurement techniques and develops laboratory skills. NOTE: Laboratory consumables: estimated cost $20.", 
+        "number": "212", 
+        "subject": "ENCH", 
+        "title": "Princip Of Chem Reactivity"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 45, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prereq: APSC 111, 112, 131, 132,", 
-        "CEAB": {
-            "Basic Sci": 45, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.75"
-    }, 
-    "basic": {
-        "description": "An introduction to the kinetics and mechanisms of reactions in gaseous and condensed phases, including acid-base and nucleophilic substitution reactions at carbon and other main group centers. Other topics will include molecular dynamics and reactions in solution. The laboratory illustrates measurement techniques and develops laboratory skills. NOTE: Laboratory consumables: estimated cost $20.", 
-        "subject": "ENCH", 
-        "number": "212", 
-        "title": "Princip Of Chem Reactivity"
     }
 }

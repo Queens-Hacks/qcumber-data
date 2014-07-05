@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Under faculty supervision, a student may be permitted to undertake an independent study. The nature of the work is to be agreed upon between the faculty supervisor and the student, but it will usually involve a significant written project (25-35 pages) or several shorter pieces of writing; The topic of this study may be a topic related to a graduate student's thesis or Graduate Research Project, but it may not duplicate that project.\u00a0 Graduate students may do more than one GISP.", 
+        "number": "884A", 
+        "subject": "LAW", 
+        "title": "Individual Supervised Project"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Under faculty supervision, a student may be permitted to undertake an independent study. The nature of the work is to be agreed upon between the faculty supervisor and the student, but it will usually involve a significant written project (25-35 pages) or several shorter pieces of writing; The topic of this study may be a topic related to a graduate student's thesis or Graduate Research Project, but it may not duplicate that project.\u00a0 Graduate students may do more than one GISP.", 
-        "subject": "LAW", 
-        "number": "884A", 
-        "title": "Individual Supervised Project"
     }
 }

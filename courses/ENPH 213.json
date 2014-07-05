@@ -1,27 +1,27 @@
 {
-    "extra": {
-        "typically_offered": "Winter", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: APSC 142 and MTHE 227 or MATH 227 and MTHE 237 or MATH 237 and ENPH 242 or PHYS 242. Must also be registered in BSCE.\r\nCOREQ: ENPH 211 and ENPH 225 and ENPH 231", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 12, 
-            "Eng Des": 15, 
-            "Eng Sci": 21, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "4.00"
-    }, 
     "basic": {
         "description": "Introduction to the use of numerical methods in solving physics and engineering problems. A high-level language appropriate for engineering, such as MATLAB, will be introduced and used throughout the course. Possible topics to be covered include numerical differentiation and integration, root finding and optimization problems, solution of linear systems of equations, finite-element modelling, fast Fourier transforms and Monte Carlo simulations. \u00a0", 
-        "subject": "ENPH", 
         "number": "213", 
+        "subject": "ENPH", 
         "title": "Computational Eng. Physics"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 15, 
+            "Eng Sci": 21, 
+            "Math": 12
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 142 and MTHE 227 or MATH 227 and MTHE 237 or MATH 237 and ENPH 242 or PHYS 242. Must also be registered in BSCE.\r\nCOREQ: ENPH 211 and ENPH 225 and ENPH 231", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "4.00"
     }
 }

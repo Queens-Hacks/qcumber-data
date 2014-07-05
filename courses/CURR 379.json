@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Concerned with the theory and practice of art in education. Candidates explore the discipline and philosophy related to visual education as well as teaching strategies, curriculum planning, classroom management, studio processes and leadership in the visual arts. Candidates have the opportunity to acquire professional skills needed to teach art in traditional schools as well as alternate educational settings. Practical work sessions, in a variety of media, allow the candidates to further experiment with skills methods and materials involved in studio practice.", 
+        "number": "379", 
+        "subject": "CURR", 
+        "title": "Visual Arts (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Concerned with the theory and practice of art in education. Candidates explore the discipline and philosophy related to visual education as well as teaching strategies, curriculum planning, classroom management, studio processes and leadership in the visual arts. Candidates have the opportunity to acquire professional skills needed to teach art in traditional schools as well as alternate educational settings. Practical work sessions, in a variety of media, allow the candidates to further experiment with skills methods and materials involved in studio practice.", 
-        "subject": "CURR", 
-        "number": "379", 
-        "title": "Visual Arts (IS)"
     }
 }

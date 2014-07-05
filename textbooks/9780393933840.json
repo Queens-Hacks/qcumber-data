@@ -1,1 +1,15 @@
-{"isbn_13": "9780393933840", "isbn_10": "0393933849", "classified_info": "5 classified listings: $35.00 to $45.00", "new_price": "$82.50", "used_price": "$61.87", "authors": "John M. Merriman", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13736-HIST201-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["HIST 201"], "required": true, "new_available": 127, "title": "A History of Modern Europe"}
+{
+    "authors": "John M. Merriman", 
+    "classified_info": "5 classified listings: $35.00 to $45.00", 
+    "courses": [
+        "HIST 201"
+    ], 
+    "isbn_10": "0393933849", 
+    "isbn_13": "9780393933840", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13736-HIST201-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 127, 
+    "new_price": "$82.50", 
+    "required": true, 
+    "title": "A History of Modern Europe", 
+    "used_price": "$61.87"
+}

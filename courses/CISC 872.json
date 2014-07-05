@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The design and analysis of parallel algorithms. Computational models. Complexity classes. Parallel algorithms for various problems including: basic arithmetic, sorting, searching, selection, graph theory, matrix computations, combinatorial enumeration, optimization, computational geometry, and numerical analysis. Three term hours; lectures and seminars.", 
+        "number": "872", 
+        "subject": "CISC", 
+        "title": "Parallel Algorithms"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The design and analysis of parallel algorithms. Computational models. Complexity classes. Parallel algorithms for various problems including: basic arithmetic, sorting, searching, selection, graph theory, matrix computations, combinatorial enumeration, optimization, computational geometry, and numerical analysis. Three term hours; lectures and seminars.", 
-        "subject": "CISC", 
-        "number": "872", 
-        "title": "Parallel Algorithms"
     }
 }

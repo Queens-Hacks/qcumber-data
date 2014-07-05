@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "343A", 
+        "subject": "HIST", 
+        "title": "Islamic Crusades 1095-1291"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "HIST21## OR HIST22## OR HIST23## OR HIST30## OR HIST31## OR HIST32##", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "HIST", 
-        "number": "343A", 
-        "title": "Islamic Crusades 1095-1291"
     }
 }

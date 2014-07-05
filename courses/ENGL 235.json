@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Life writing includes autobiography, biography, diaries, letters, and memoirs. The aim of this course will be to explore its generic conventions and innovations, to consider the interplay between lived experience and its textual representation, and to examine the social and cultural dimensions of life stories.", 
+        "number": "235", 
+        "subject": "ENGL", 
+        "title": "Life Writing"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C in 6.0 units in ENGL100 or ENGL110", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Life writing includes autobiography, biography, diaries, letters, and memoirs. The aim of this course will be to explore its generic conventions and innovations, to consider the interplay between lived experience and its textual representation, and to examine the social and cultural dimensions of life stories.", 
-        "subject": "ENGL", 
-        "number": "235", 
-        "title": "Life Writing"
     }
 }

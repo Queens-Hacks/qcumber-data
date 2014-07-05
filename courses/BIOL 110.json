@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Introductory genetics and evolutionary processes as they relate to the human condition - genetic diseases, medical techniques, inheritance and ethical issues such as cloning and genetically modified foods.", 
+        "number": "110", 
+        "subject": "BIOL", 
+        "title": "Human Genetics and Evolution"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "One-way exclusion\u00a0\u00a0\u00a0 May not be taken with or after BIOL102; BIOL103.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introductory genetics and evolutionary processes as they relate to the human condition - genetic diseases, medical techniques, inheritance and ethical issues such as cloning and genetically modified foods.", 
-        "subject": "BIOL", 
-        "number": "110", 
-        "title": "Human Genetics and Evolution"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Negotiation is part of everyday life in organizations, whether negotiating with customers, clients, suppliers, co-workers or even the boss.\u00a0 The purpose of this course is to introduce students to theory and research on negotiations with an emphasis on the social, behavioural, and decision-making processes.\u00a0 Negotiations will be studied in a variety of settings ranging from simple buyer-seller negotiations to multi-party, multi-issue, cross-cultural negotiations.\u00a0 In addition to the fundamentals of integrative and distributive bargaining, special topics may include ethics, gender, power, emotions, technology, and the use of agents.\u00a0 The course also includes a practical component in that students participate in simulations, exercises, and case analysis designed to develop their negotiating skills as well as their understanding of negotiation processes.", 
+        "number": "385", 
+        "subject": "COMM", 
+        "title": "Negotiation Theory & Behaviour"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 This course is restricted to students enrolled in the third and fourth year of their program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Negotiation is part of everyday life in organizations, whether negotiating with customers, clients, suppliers, co-workers or even the boss.\u00a0 The purpose of this course is to introduce students to theory and research on negotiations with an emphasis on the social, behavioural, and decision-making processes.\u00a0 Negotiations will be studied in a variety of settings ranging from simple buyer-seller negotiations to multi-party, multi-issue, cross-cultural negotiations.\u00a0 In addition to the fundamentals of integrative and distributive bargaining, special topics may include ethics, gender, power, emotions, technology, and the use of agents.\u00a0 The course also includes a practical component in that students participate in simulations, exercises, and case analysis designed to develop their negotiating skills as well as their understanding of negotiation processes.", 
-        "subject": "COMM", 
-        "number": "385", 
-        "title": "Negotiation Theory & Behaviour"
     }
 }

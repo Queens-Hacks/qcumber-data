@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of the art of graphic narrative from newspaper strips of the Golden Age to current graphic novels, comprising history, aesthetics, and close reading of graphic narrative as a form of literature.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "238", 
+        "subject": "ENGL", 
+        "title": "Comics and Graphic Novels"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in ENGL100. (or ENGL110)", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of the art of graphic narrative from newspaper strips of the Golden Age to current graphic novels, comprising history, aesthetics, and close reading of graphic narrative as a form of literature.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "subject": "ENGL", 
-        "number": "238", 
-        "title": "Comics and Graphic Novels"
     }
 }

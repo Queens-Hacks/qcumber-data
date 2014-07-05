@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Social Networks/Relations & Health", 
+        "number": "831", 
+        "subject": "KHS", 
+        "title": "Social Networks/Relations & Health"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Social Networks/Relations & Health", 
-        "subject": "KHS", 
-        "number": "831", 
-        "title": "Social Networks/Relations & Health"
     }
 }

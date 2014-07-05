@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This is the first of two courses that constitute intermediate financial accounting. In these courses, generally accepted accounting principles and the basic assumptions underlying financial accounting decisions are examined in detail. Specific topics in this course include the Statement of Cash Flows, receivables, short- and long-term investments, and tangible and intangible capital assets.", 
+        "number": "311", 
+        "subject": "COMM", 
+        "title": "Fin Acctng Pract Prin & Concep"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 COMM111 or COMM211 and level 3 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This is the first of two courses that constitute intermediate financial accounting. In these courses, generally accepted accounting principles and the basic assumptions underlying financial accounting decisions are examined in detail. Specific topics in this course include the Statement of Cash Flows, receivables, short- and long-term investments, and tangible and intangible capital assets.", 
-        "subject": "COMM", 
-        "number": "311", 
-        "title": "Fin Acctng Pract Prin & Concep"
     }
 }

@@ -1,1 +1,15 @@
-{"isbn_13": "9780205956401", "isbn_10": "0205956408", "classified_info": "2 classified listings: $0.00 to $0.00", "new_price": "$153.70", "used_price": "$109.23", "authors": "Mary Pat Fisher", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13393-RELS131#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["RELS 131"], "required": true, "new_available": 22, "title": "Living Religions (9th Edition)"}
+{
+    "authors": "Mary Pat Fisher", 
+    "classified_info": "2 classified listings: $0.00 to $0.00", 
+    "courses": [
+        "RELS 131"
+    ], 
+    "isbn_10": "0205956408", 
+    "isbn_13": "9780205956401", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13393-RELS131#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 22, 
+    "new_price": "$153.70", 
+    "required": true, 
+    "title": "Living Religions (9th Edition)", 
+    "used_price": "$109.23"
+}

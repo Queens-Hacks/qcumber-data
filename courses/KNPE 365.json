@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Study of strategies to enhance intrinsic motivation and self-regulation for physical activity and health behaviour change in clinical settings. Students will learn and practice motivational interviewing skills for behaviour change in intensive weekly tutorial sessions.", 
+        "number": "365", 
+        "subject": "KNPE", 
+        "title": "Physical Activity and Health Behaviour Counseling"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 Level 3 or above in a PHED,KINE or HLTH Plan and PSYC100 and (KNPE265 or HLTH315]).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Study of strategies to enhance intrinsic motivation and self-regulation for physical activity and health behaviour change in clinical settings. Students will learn and practice motivational interviewing skills for behaviour change in intensive weekly tutorial sessions.", 
-        "subject": "KNPE", 
-        "number": "365", 
-        "title": "Physical Activity and Health Behaviour Counseling"
     }
 }

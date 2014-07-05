@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An introduction to the structure, properties and performance of biomaterials used for the construction of medical devices. Examples of biomaterials are bioactive ceramics, biodegradable polymers and advanced titanium-based alloys used for the construction of orthopedic implants. Topics covered will include surface and bulk properties of biomaterials and their impact on the clinical performance of implants. Discussion will focus on tissue-biomaterials interactions, biocompatibility and biodegradation. The course will also cover the current in-vitro and in-vivo testing methods for evaluating the long-term performance of biomaterials.", 
+        "number": "478", 
+        "subject": "MECH", 
+        "title": "Biomaterials"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 31, 
+            "Eng Sci": 11, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BSCE program", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 31, 
-            "Eng Sci": 11, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "An introduction to the structure, properties and performance of biomaterials used for the construction of medical devices. Examples of biomaterials are bioactive ceramics, biodegradable polymers and advanced titanium-based alloys used for the construction of orthopedic implants. Topics covered will include surface and bulk properties of biomaterials and their impact on the clinical performance of implants. Discussion will focus on tissue-biomaterials interactions, biocompatibility and biodegradation. The course will also cover the current in-vitro and in-vivo testing methods for evaluating the long-term performance of biomaterials.", 
-        "subject": "MECH", 
-        "number": "478", 
-        "title": "Biomaterials"
     }
 }

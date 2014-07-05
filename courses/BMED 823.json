@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course consists of weekly presentations and discussions of recent advances towards the understanding of protein structure and function. Topics of discussion include novel approaches, techniques and concepts in the discovery of protein functions. Students will develop skills in literature research, critical evaluation of published work, effective presentation and discussion of papers. A specific theme, such as cell motility, may be used to illustrate research approaches employed to study biological systems in general. Three lecture hours per week; Winter; Alternate years; A. Mak.\u00a0 PREREQUISITE: BCHM-410 or equivalent.\u00a0 EXCLUSION: BCHM-823*", 
+        "number": "823", 
+        "subject": "BMED", 
+        "title": "Advances in Protein Structure and Function"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course consists of weekly presentations and discussions of recent advances towards the understanding of protein structure and function. Topics of discussion include novel approaches, techniques and concepts in the discovery of protein functions. Students will develop skills in literature research, critical evaluation of published work, effective presentation and discussion of papers. A specific theme, such as cell motility, may be used to illustrate research approaches employed to study biological systems in general. Three lecture hours per week; Winter; Alternate years; A. Mak.\u00a0 PREREQUISITE: BCHM-410 or equivalent.\u00a0 EXCLUSION: BCHM-823*", 
-        "subject": "BMED", 
-        "number": "823", 
-        "title": "Advances in Protein Structure and Function"
     }
 }

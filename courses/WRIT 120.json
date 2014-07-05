@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A focus on the principles and practical applications of effective writing. Students apply effective writing strategies to address a variety of professional and academic audiences. Students plan, outline, write, and revise reader-centred documents that relate to forms and contexts they will encounter in the workplace and in educational environments.\nNOTE\u00a0\u00a0\u00a0 Only offered online. Consult Continuing and Distance Studies.", 
+        "number": "120", 
+        "subject": "WRIT", 
+        "title": "Fundamentals of Effective Writing"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A focus on the principles and practical applications of effective writing. Students apply effective writing strategies to address a variety of professional and academic audiences. Students plan, outline, write, and revise reader-centred documents that relate to forms and contexts they will encounter in the workplace and in educational environments.\nNOTE\u00a0\u00a0\u00a0 Only offered online. Consult Continuing and Distance Studies.", 
-        "subject": "WRIT", 
-        "number": "120", 
-        "title": "Fundamentals of Effective Writing"
     }
 }

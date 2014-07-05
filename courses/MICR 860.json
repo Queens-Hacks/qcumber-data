@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "The general principles and mechanisms of immune reaction. Immunochemical and immunobiological aspects of antibody formation and cell-mediated immunity in health and disease will be considered. (Offered concurrently with MICR-360* with additional work required.) Fall term, three lecture hours. M. Szewczuk", 
+        "number": "860", 
+        "subject": "MICR", 
+        "title": "Immunology"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Exclusion:\u00a0 MICR360", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The general principles and mechanisms of immune reaction. Immunochemical and immunobiological aspects of antibody formation and cell-mediated immunity in health and disease will be considered. (Offered concurrently with MICR-360* with additional work required.) Fall term, three lecture hours. M. Szewczuk", 
-        "subject": "MICR", 
-        "number": "860", 
-        "title": "Immunology"
     }
 }

@@ -1,1 +1,15 @@
-{"isbn_13": "9780199535576", "isbn_10": "0199535574", "classified_info": "0 classified listings", "new_price": "$6.59", "used_price": "$4.94", "authors": "Jane Austen, Margaret Anne Doody, Claire Lamont", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13667-ENGL851-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["ENGL 851"], "required": true, "new_available": 15, "title": "Sense and Sensibility"}
+{
+    "authors": "Jane Austen, Margaret Anne Doody, Claire Lamont", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 851"
+    ], 
+    "isbn_10": "0199535574", 
+    "isbn_13": "9780199535576", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13667-ENGL851-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 15, 
+    "new_price": "$6.59", 
+    "required": true, 
+    "title": "Sense and Sensibility", 
+    "used_price": "$4.94"
+}

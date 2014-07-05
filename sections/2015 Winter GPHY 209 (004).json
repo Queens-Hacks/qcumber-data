@@ -1,24 +1,24 @@
 {
+    "_unique": "004-PRA (6096)", 
     "basic": {
         "class_num": "6096", 
-        "subject": "GPHY", 
-        "status": "Open", 
         "course": "209", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "004", 
+        "status": "Open", 
+        "subject": "GPHY", 
         "type": "PRA", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "004-PRA (6096)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:00:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 1, 
-            "location": "MACINTOSH-CORRY RM E208"
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E208", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

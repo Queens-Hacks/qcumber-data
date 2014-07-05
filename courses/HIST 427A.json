@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An intensive examination of the major themes and controversies in European social, cultural, and political history since the late 18th century. Emphasis on France, England, Germany and Russia. Topics include the social impact of the Industrial Revolution and urbanization; the rise of the middle class; Marxism; separate sphere ideology and feminism; nationalism; fascism; communism; and consumerism.", 
+        "number": "427A", 
+        "subject": "HIST", 
+        "title": "Modern European Society"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A Grade of C+ in 6.0 units from HIST 300-329 and registration in a HIST Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "An intensive examination of the major themes and controversies in European social, cultural, and political history since the late 18th century. Emphasis on France, England, Germany and Russia. Topics include the social impact of the Industrial Revolution and urbanization; the rise of the middle class; Marxism; separate sphere ideology and feminism; nationalism; fascism; communism; and consumerism.", 
-        "subject": "HIST", 
-        "number": "427A", 
-        "title": "Modern European Society"
     }
 }

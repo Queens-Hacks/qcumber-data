@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Critical study of Canada's socio-economic structures and processes: topics include dynamics of capitalist development, global restructuring, labour force transformations.", 
+        "number": "344", 
+        "subject": "SOCY", 
+        "title": "Power and Change in Canada"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C- in SOCY122/6.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Critical study of Canada's socio-economic structures and processes: topics include dynamics of capitalist development, global restructuring, labour force transformations.", 
-        "subject": "SOCY", 
-        "number": "344", 
-        "title": "Power and Change in Canada"
     }
 }

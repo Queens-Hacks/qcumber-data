@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Provides students with first-hand experience working with an agency involved in international development, either in Canada or abroad. The placement will normally be for 10-20 weeks, to be negotiated with the sponsoring agency. Students are required to attend preparatory meetings, prepare a work-study proposal, a research paper on the placement and maintain a journal on a continuing basis while on their placement. In addition to academic requirements, students are required to enroll in the Queen's Emergency Support Program, attend pre-departure orientation and complete Queen's Off-Campus Activity Safety Policy (OCASP) requirements.\r\nNOTE\u00a0\u00a0\u00a0 Students are normally responsible for all costs associated with participation in this course.", 
+        "number": "410B", 
+        "subject": "DEVS", 
+        "title": "Work-Study Placement in Development Studies"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Summer", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Provides students with first-hand experience working with an agency involved in international development, either in Canada or abroad. The placement will normally be for 10-20 weeks, to be negotiated with the sponsoring agency. Students are required to attend preparatory meetings, prepare a work-study proposal, a research paper on the placement and maintain a journal on a continuing basis while on their placement. In addition to academic requirements, students are required to enroll in the Queen's Emergency Support Program, attend pre-departure orientation and complete Queen's Off-Campus Activity Safety Policy (OCASP) requirements.\r\nNOTE\u00a0\u00a0\u00a0 Students are normally responsible for all costs associated with participation in this course.", 
-        "subject": "DEVS", 
-        "number": "410B", 
-        "title": "Work-Study Placement in Development Studies"
     }
 }

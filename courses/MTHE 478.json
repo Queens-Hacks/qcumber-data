@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Subject matter will vary from year to year. Possible subjects include: constrained coding and applications to magnetic and optical recording; data compression; theory and practice of error-control coding; design and performance analysis of communication networks; and other related topics.", 
+        "number": "478", 
+        "subject": "MTHE", 
+        "title": "Topics In Communication Theory"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 18, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 18, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Subject matter will vary from year to year. Possible subjects include: constrained coding and applications to magnetic and optical recording; data compression; theory and practice of error-control coding; design and performance analysis of communication networks; and other related topics.", 
-        "subject": "MTHE", 
-        "number": "478", 
-        "title": "Topics In Communication Theory"
     }
 }

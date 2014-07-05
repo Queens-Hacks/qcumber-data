@@ -1,1 +1,15 @@
-{"isbn_13": "9781118469941", "isbn_10": "1118469941", "classified_info": "0 classified listings", "new_price": "$184.73", "used_price": "$138.55", "authors": "Edwin J. Elton", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13869-ECON322-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["ECON 322"], "required": true, "new_available": 80, "title": "Modern Portfolio Theory and Investment Analysis"}
+{
+    "authors": "Edwin J. Elton", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ECON 322"
+    ], 
+    "isbn_10": "1118469941", 
+    "isbn_13": "9781118469941", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13869-ECON322-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 80, 
+    "new_price": "$184.73", 
+    "required": true, 
+    "title": "Modern Portfolio Theory and Investment Analysis", 
+    "used_price": "$138.55"
+}

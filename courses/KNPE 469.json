@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides students with a socio-cultural analysis of the Olympic Games through a critical examination of key aspects of the Games' history, their organizational structure, women's relationship to the Games, performance enhancing substances, and the work world of high performance athletes.", 
+        "number": "469", 
+        "subject": "KNPE", 
+        "title": "The Olympic Games"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 in a PHED or KINE Specialization Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides students with a socio-cultural analysis of the Olympic Games through a critical examination of key aspects of the Games' history, their organizational structure, women's relationship to the Games, performance enhancing substances, and the work world of high performance athletes.", 
-        "subject": "KNPE", 
-        "number": "469", 
-        "title": "The Olympic Games"
     }
 }

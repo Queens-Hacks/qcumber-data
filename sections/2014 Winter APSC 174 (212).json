@@ -1,24 +1,24 @@
 {
+    "_unique": "212-TUT (1384)", 
     "basic": {
         "class_num": "1384", 
-        "subject": "APSC", 
-        "status": "Open", 
         "course": "174", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "212", 
+        "status": "Open", 
+        "subject": "APSC", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "212-TUT (1384)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 5, 
-            "location": "JEFFERY RM234"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

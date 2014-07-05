@@ -1,1 +1,15 @@
-{"isbn_13": "9782757803998", "isbn_10": "2757803999", "classified_info": "4 classified listings: $10.00 to $10.00", "new_price": "$12.27", "used_price": "$9.20", "authors": "Anne H\u00e9bert", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13793-FREN220-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["FREN 220"], "required": true, "new_available": 31, "title": "Kamouraska [nouvelle \u00e9dition]"}
+{
+    "authors": "Anne H\u00e9bert", 
+    "classified_info": "4 classified listings: $10.00 to $10.00", 
+    "courses": [
+        "FREN 220"
+    ], 
+    "isbn_10": "2757803999", 
+    "isbn_13": "9782757803998", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13793-FREN220-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 31, 
+    "new_price": "$12.27", 
+    "required": true, 
+    "title": "Kamouraska [nouvelle \u00e9dition]", 
+    "used_price": "$9.20"
+}

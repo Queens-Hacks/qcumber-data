@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of English literature emphasizing or relating to its sense of place. Works will be drawn from the literatures of England, Scotland, Wales, Ireland, or a combination thereof. Course content will vary from year to year.Offered only at the Bader International Study Centre, Herstmonceux.", 
+        "number": "278", 
+        "subject": "ENGL", 
+        "title": "Literature And Place"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C in 6.0 units in ENGL100 or ENGL110", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of English literature emphasizing or relating to its sense of place. Works will be drawn from the literatures of England, Scotland, Wales, Ireland, or a combination thereof. Course content will vary from year to year.Offered only at the Bader International Study Centre, Herstmonceux.", 
-        "subject": "ENGL", 
-        "number": "278", 
-        "title": "Literature And Place"
     }
 }

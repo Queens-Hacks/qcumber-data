@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Topics will range from population genetics to transcriptional regulation in both plants and animals. Application of the tools of molecular genetics to biological problems will be emphasized. No previous specialization in molecular biology is required, although some background in this area is highly recommended. Three term hours; winter. W. Bendena.", 
+        "number": "819", 
+        "subject": "BIOL", 
+        "title": "Selected Topics In Molecular Genetics"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topics will range from population genetics to transcriptional regulation in both plants and animals. Application of the tools of molecular genetics to biological problems will be emphasized. No previous specialization in molecular biology is required, although some background in this area is highly recommended. Three term hours; winter. W. Bendena.", 
-        "subject": "BIOL", 
-        "number": "819", 
-        "title": "Selected Topics In Molecular Genetics"
     }
 }

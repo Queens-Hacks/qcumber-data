@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Einstein's theory of gravity is developed from fundamental principles to a level which enables the student to read some of the current literature. Includes an introduction to computer algebra, an essential element of a modern introduction to Einstein's theory.", 
+        "number": "414", 
+        "subject": "PHYS", 
+        "title": "Introduction to General Relativity"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PHYS321 and (PHYS312 or MATH334).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Einstein's theory of gravity is developed from fundamental principles to a level which enables the student to read some of the current literature. Includes an introduction to computer algebra, an essential element of a modern introduction to Einstein's theory.", 
-        "subject": "PHYS", 
-        "number": "414", 
-        "title": "Introduction to General Relativity"
     }
 }

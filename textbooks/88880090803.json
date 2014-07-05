@@ -1,1 +1,14 @@
-{"isbn_13": null, "isbn_10": "88880090803", "classified_info": "1 classified listing: $0.00", "new_price": "$47.25", "authors": "Murphy", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/B01953-OT842-SPRING14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["OT 842"], "required": true, "new_available": 1, "title": "OT842 Course Reader"}
+{
+    "authors": "Murphy", 
+    "classified_info": "1 classified listing: $0.00", 
+    "courses": [
+        "OT 842"
+    ], 
+    "isbn_10": "88880090803", 
+    "isbn_13": null, 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/B01953-OT842-SPRING14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 1, 
+    "new_price": "$47.25", 
+    "required": true, 
+    "title": "OT842 Course Reader"
+}

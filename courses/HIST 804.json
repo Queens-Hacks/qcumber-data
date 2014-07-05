@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This seminar examines the creation and subsequent decentring of an Atlantic World from the fifteenth through the nineteenth centuries.\u00a0 Topics may include encounters between different peoples, methods of conversion and cultural colonialism, ethnographies, economic and social exchange, diasporas, slavery, emancipation, and revolution.", 
+        "number": "804", 
+        "subject": "HIST", 
+        "title": "The Atlantic World"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This seminar examines the creation and subsequent decentring of an Atlantic World from the fifteenth through the nineteenth centuries.\u00a0 Topics may include encounters between different peoples, methods of conversion and cultural colonialism, ethnographies, economic and social exchange, diasporas, slavery, emancipation, and revolution.", 
-        "subject": "HIST", 
-        "number": "804", 
-        "title": "The Atlantic World"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Seminars offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each year.", 
+        "number": "392", 
+        "subject": "DEVS", 
+        "title": "Topics in Development Studies I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Level 3 or above and registration in any DEVS plan\r\nExclusion\u00a0 No more than 3.0 units from DEVS321/3.0; DEVS392/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Seminars offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each year.", 
-        "subject": "DEVS", 
-        "number": "392", 
-        "title": "Topics in Development Studies I"
     }
 }

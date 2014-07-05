@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course will help students develop a foundational understanding of innovation in the workplace grounded in exploration of historical, sociological, and philosophical contexts and frameworks. Students will explore case studies and develop a plan of action rooted in the particular needs of their workplace.", 
+        "number": "811", 
+        "subject": "GDPI", 
+        "title": "Innovation in Teaching and Learning"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will help students develop a foundational understanding of innovation in the workplace grounded in exploration of historical, sociological, and philosophical contexts and frameworks. Students will explore case studies and develop a plan of action rooted in the particular needs of their workplace.", 
-        "subject": "GDPI", 
-        "number": "811", 
-        "title": "Innovation in Teaching and Learning"
     }
 }

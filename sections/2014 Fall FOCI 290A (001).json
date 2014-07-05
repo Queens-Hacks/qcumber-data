@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (7305)", 
     "basic": {
         "class_num": "7305", 
-        "subject": "FOCI", 
-        "status": "Open", 
         "course": "290A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FOCI", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (7305)", 
     "classes": [
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Berg, Derek"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A241"
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Berg, Derek"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A241"
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

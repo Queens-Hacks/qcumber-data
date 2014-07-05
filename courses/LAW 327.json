@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course deals with the developing law of unjust enrichment and restitutionary claims, defences and remedies.\u00a0 Through the materials studied, students will consider methods for redress for unjust enrichment within traditional areas (contract, tort, equity, etc.) as well as unjust enrichment as an independent and autonomous claim.", 
+        "number": "327", 
+        "subject": "LAW", 
+        "title": "Restitution and Unjust Enrichment"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course deals with the developing law of unjust enrichment and restitutionary claims, defences and remedies.\u00a0 Through the materials studied, students will consider methods for redress for unjust enrichment within traditional areas (contract, tort, equity, etc.) as well as unjust enrichment as an independent and autonomous claim.", 
-        "subject": "LAW", 
-        "number": "327", 
-        "title": "Restitution and Unjust Enrichment"
     }
 }

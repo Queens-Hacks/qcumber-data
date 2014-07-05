@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (1752)", 
     "basic": {
         "class_num": "1752", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "525", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-SEM (1752)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Bailey, Martha Jane"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "MACDONALD RM515", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 3, 
-            "location": "MACDONALD RM515"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

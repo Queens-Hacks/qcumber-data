@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A review of theories of motivation and their practical applications within educational and other applied settings. The course will focus on current principles of motivation and include topics such as psychodynamics, attribution theory, goal theory, goal orientations, competences, interest, intrinsic/extrinsic motivation and biocultural factors.", 
+        "number": "826", 
+        "subject": "EDUC", 
+        "title": "Motivation In Education"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A review of theories of motivation and their practical applications within educational and other applied settings. The course will focus on current principles of motivation and include topics such as psychodynamics, attribution theory, goal theory, goal orientations, competences, interest, intrinsic/extrinsic motivation and biocultural factors.", 
-        "subject": "EDUC", 
-        "number": "826", 
-        "title": "Motivation In Education"
     }
 }

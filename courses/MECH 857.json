@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will cover kinematics of serial and parallel architecture robots; as well as the geometric, kinematic, static and dynamic criteria required for designing robot manipulators.\u00a0 The course will also include projects on advanced robotics topics and will conclude with the presentation of these projects, at least two presentations per student. Three term-hours, lectures and seminars.\u00a0 L. Notash.", 
+        "number": "857", 
+        "subject": "MECH", 
+        "title": "Robotics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will cover kinematics of serial and parallel architecture robots; as well as the geometric, kinematic, static and dynamic criteria required for designing robot manipulators.\u00a0 The course will also include projects on advanced robotics topics and will conclude with the presentation of these projects, at least two presentations per student. Three term-hours, lectures and seminars.\u00a0 L. Notash.", 
-        "subject": "MECH", 
-        "number": "857", 
-        "title": "Robotics"
     }
 }

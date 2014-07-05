@@ -1,37 +1,37 @@
 {
+    "_unique": "312-LAB (1575)", 
     "basic": {
         "class_num": "1575", 
-        "subject": "APSC", 
-        "status": "Closed", 
         "course": "161", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "312", 
+        "status": "Closed", 
+        "subject": "APSC", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "312-LAB (1575)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Zak, Gennady"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM212", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM212"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Zak, Gennady"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM214", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM214"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

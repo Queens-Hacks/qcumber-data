@@ -1,26 +1,26 @@
 {
+    "_unique": "005-LAB (1923)", 
     "basic": {
         "class_num": "1923", 
-        "subject": "BIOL", 
-        "status": "Closed", 
         "course": "321", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "005", 
+        "status": "Closed", 
+        "subject": "BIOL", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "005-LAB (1923)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Nagel, Laura Maria"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "BIOSCI RM1341", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 3, 
-            "location": "BIOSCI RM1341"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

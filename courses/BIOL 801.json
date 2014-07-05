@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A survey of the ways in which concepts from evolutionary biology can be used to better address and understand issues related to human health. Topics might include the evolutionary biology of infectious diseases, the utility of phylogenetics in infectious diseases, the evolution of drug (e.g., vaccines) and antibiotic resistance, the evolutionary biology of human genetic disorders, aging and senescence.\u00a0\u00a0 Three term hours; fall.\u00a0 Not offered 2010-2011.", 
+        "number": "801", 
+        "subject": "BIOL", 
+        "title": "Evolutionary Medicine"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A survey of the ways in which concepts from evolutionary biology can be used to better address and understand issues related to human health. Topics might include the evolutionary biology of infectious diseases, the utility of phylogenetics in infectious diseases, the evolution of drug (e.g., vaccines) and antibiotic resistance, the evolutionary biology of human genetic disorders, aging and senescence.\u00a0\u00a0 Three term hours; fall.\u00a0 Not offered 2010-2011.", 
-        "subject": "BIOL", 
-        "number": "801", 
-        "title": "Evolutionary Medicine"
     }
 }

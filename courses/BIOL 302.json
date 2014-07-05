@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Introductory ecology dealing with population growth and regulation, species interactions and reproductive and life history strategies. Laboratory work includes field studies as well as individual and group projects.\r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $75.", 
+        "number": "302", 
+        "subject": "BIOL", 
+        "title": "Population and Evolutionary Ecology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BIOL201 and BIOL202 and (a minimum grade of C- in BIOL206).\r\nCorequisite\u00a0\u00a0 BIOL243 or PSYC202 or STAT269.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introductory ecology dealing with population growth and regulation, species interactions and reproductive and life history strategies. Laboratory work includes field studies as well as individual and group projects.\r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $75.", 
-        "subject": "BIOL", 
-        "number": "302", 
-        "title": "Population and Evolutionary Ecology"
     }
 }

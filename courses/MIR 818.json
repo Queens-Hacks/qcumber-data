@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "818", 
+        "subject": "MIR", 
+        "title": "Seminar"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "1.02"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "MIR", 
-        "number": "818", 
-        "title": "Seminar"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "_unique": "007-LAB (1767)", 
     "basic": {
         "class_num": "1767", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "201", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "007", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "007-LAB (1767)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 3, 
-            "location": "BIOSCI RM2311"
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2311", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

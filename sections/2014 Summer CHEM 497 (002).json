@@ -1,24 +1,24 @@
 {
+    "_unique": "002-IND (2260)", 
     "basic": {
         "class_num": "2260", 
-        "subject": "CHEM", 
-        "status": "Open", 
         "course": "497", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CHEM", 
         "type": "IND", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "002-IND (2260)", 
     "classes": [
         {
-            "term_end": "2014-08-12T00:00:00", 
-            "term_start": "2014-07-02T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-08-12T00:00:00", 
+            "term_start": "2014-07-02T00:00:00"
         }
     ]
 }

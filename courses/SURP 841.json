@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course is an introduction to the concepts, planning principles and analytical methods involved in making key decisions regarding commercial real estate. Designed to complement SURP-844*, the emphasis is on evaluating the investment merits of large, existing income-generating properties spanning key asset classes. Teaching methods include case studies, group exercises, guest speakers from industry and student analysis of real properties.\u00a0 Learning materials approx. $28", 
+        "number": "841", 
+        "subject": "SURP", 
+        "title": "Real Estate Decision Making"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course is an introduction to the concepts, planning principles and analytical methods involved in making key decisions regarding commercial real estate. Designed to complement SURP-844*, the emphasis is on evaluating the investment merits of large, existing income-generating properties spanning key asset classes. Teaching methods include case studies, group exercises, guest speakers from industry and student analysis of real properties.\u00a0 Learning materials approx. $28", 
-        "subject": "SURP", 
-        "number": "841", 
-        "title": "Real Estate Decision Making"
     }
 }

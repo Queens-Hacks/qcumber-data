@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A survey of British history in the 19th and 20th centuries.", 
+        "number": "289", 
+        "subject": "HIST", 
+        "title": "Britain since 1851"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A survey of British history in the 19th and 20th centuries.", 
-        "subject": "HIST", 
-        "number": "289", 
-        "title": "Britain since 1851"
     }
 }

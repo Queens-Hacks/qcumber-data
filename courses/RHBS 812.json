@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Students will learn to evaluate new and existing programs in both the private and public health care sectors. Topics covered will include needs assessment, analysis of resources, implementation and the ongoing measurement of a program\u00bfs success.", 
+        "number": "812", 
+        "subject": "RHBS", 
+        "title": "Program Development and Evalulation"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Students will learn to evaluate new and existing programs in both the private and public health care sectors. Topics covered will include needs assessment, analysis of resources, implementation and the ongoing measurement of a program\u00bfs success.", 
-        "subject": "RHBS", 
-        "number": "812", 
-        "title": "Program Development and Evalulation"
     }
 }

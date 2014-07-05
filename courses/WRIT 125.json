@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A study of the basic principles of academic writing, including a series of assignments that emphasize logical organization, stylistic clarity, and grammatical precision.\r\nNOTE\u00a0\u00a0\u00a0 Offered only as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "125", 
+        "subject": "WRIT", 
+        "title": "Fundamentals of Academic Essay writing"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Online": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of the basic principles of academic writing, including a series of assignments that emphasize logical organization, stylistic clarity, and grammatical precision.\r\nNOTE\u00a0\u00a0\u00a0 Offered only as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "WRIT", 
-        "number": "125", 
-        "title": "Fundamentals of Academic Essay writing"
     }
 }

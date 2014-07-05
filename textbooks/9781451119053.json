@@ -1,1 +1,15 @@
-{"isbn_13": "9781451119053", "isbn_10": "1451119054", "classified_info": "0 classified listings", "new_price": "$76.28", "used_price": "$57.21", "authors": "Malcolm S. Thaler", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13763-MEDS230-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["MEDS 230"], "required": true, "new_available": 47, "title": "The Only EKG Book You'll Ever Need"}
+{
+    "authors": "Malcolm S. Thaler", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "MEDS 230"
+    ], 
+    "isbn_10": "1451119054", 
+    "isbn_13": "9781451119053", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13763-MEDS230-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 47, 
+    "new_price": "$76.28", 
+    "required": true, 
+    "title": "The Only EKG Book You'll Ever Need", 
+    "used_price": "$57.21"
+}

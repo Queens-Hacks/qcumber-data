@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Evidence for relativistic effects. Kinematics and dynamics in special relativity, space-time diagrams, applications. Evidence for quanta, spectra, Bohr atom. Introduction to the Schroedinger equation.", 
+        "number": "242", 
+        "subject": "ENPH", 
+        "title": "Relativity And Quanta"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 42, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQ: APSC 111 and APSC 112 and registered in BSCE.\r\nEXCLUSIONS: PHYS 242 and ENPH 342 and PHYS 342", 
-        "CEAB": {
-            "Basic Sci": 42, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Evidence for relativistic effects. Kinematics and dynamics in special relativity, space-time diagrams, applications. Evidence for quanta, spectra, Bohr atom. Introduction to the Schroedinger equation.", 
-        "subject": "ENPH", 
-        "number": "242", 
-        "title": "Relativity And Quanta"
     }
 }

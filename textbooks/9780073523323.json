@@ -1,1 +1,15 @@
-{"isbn_13": "9780073523323", "required": true, "isbn_10": "0073523321", "new_price": "$188.53", "authors": "Abraham Silberschatz, Henry F. Korth, S. Sudarshan", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13474-CISC432-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["CISC 432", "CISC 832"], "classified_info": "0 classified listings", "title": "Database System Concepts", "used_price": "$141.40"}
+{
+    "authors": "Abraham Silberschatz, Henry F. Korth, S. Sudarshan", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "CISC 432", 
+        "CISC 832"
+    ], 
+    "isbn_10": "0073523321", 
+    "isbn_13": "9780073523323", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13474-CISC432-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$188.53", 
+    "required": true, 
+    "title": "Database System Concepts", 
+    "used_price": "$141.40"
+}

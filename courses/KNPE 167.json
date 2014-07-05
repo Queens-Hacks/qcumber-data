@@ -1,28 +1,28 @@
 {
+    "basic": {
+        "description": "An introduction to sociological thinking about sport and physical activity.\u00a0Among the topics to be discussed are: an exploration of what constitutes sport and under what conditions; how social relations of class, race, gender, and sexuality shape sport experiences; the business of sport; and the relationship between the media and sport.", 
+        "number": "167", 
+        "subject": "KNPE", 
+        "title": "Socio-Cult Dimensions of Sport and Physical Activity"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 1 or above in a PHED or KINE plan", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to sociological thinking about sport and physical activity.\u00a0Among the topics to be discussed are: an exploration of what constitutes sport and under what conditions; how social relations of class, race, gender, and sexuality shape sport experiences; the business of sport; and the relationship between the media and sport.", 
-        "subject": "KNPE", 
-        "number": "167", 
-        "title": "Socio-Cult Dimensions of Sport and Physical Activity"
     }
 }

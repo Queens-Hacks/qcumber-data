@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Methods of mathematics important for physicists. Function of a complex variable, contour integration, partial differential equations, orthogonal functions, Green functions, Fourier series, Fourier and Laplace transforms, finite difference methods, numerical solution of ordinary and partial differential equations.", 
+        "number": "312A", 
+        "subject": "PHYS", 
+        "title": "Mathematical Methods in Physics"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PHYS212 and (MATH221 or MATH227 or MATH280) and (MATH231 or MATH232).\r\nExclusions\u00a0\u00a0\u00a0 No more than 6.0 units from MATH334; MATH335 (formerly MATH236); MATH338; PHYS312.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Methods of mathematics important for physicists. Function of a complex variable, contour integration, partial differential equations, orthogonal functions, Green functions, Fourier series, Fourier and Laplace transforms, finite difference methods, numerical solution of ordinary and partial differential equations.", 
-        "subject": "PHYS", 
-        "number": "312A", 
-        "title": "Mathematical Methods in Physics"
     }
 }

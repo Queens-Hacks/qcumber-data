@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "For a complete description, see LANG P10*.", 
+        "number": "P11", 
+        "subject": "LANG", 
+        "title": "Lang Acquisition-Begin Lev II"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "For a complete description, see LANG P10*.", 
-        "subject": "LANG", 
-        "number": "P11", 
-        "title": "Lang Acquisition-Begin Lev II"
     }
 }

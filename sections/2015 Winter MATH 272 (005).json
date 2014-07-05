@@ -1,24 +1,24 @@
 {
+    "_unique": "005-LAB (2913)", 
     "basic": {
         "class_num": "2913", 
-        "subject": "MATH", 
-        "status": "Open", 
         "course": "272", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "005", 
+        "status": "Open", 
+        "subject": "MATH", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "005-LAB (2913)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 5, 
-            "location": "JEFFERY RM155"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM155", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

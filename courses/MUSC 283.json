@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Continuation of MUSC 183/3.0. A more advanced study of the complete brass family of instruments. Emphasis includes playing techniques, ranges, fingerings, transpositions, instrument maintenance, method books, ensemble repertoire and teaching techniques. Rental instruments available.\r\nNOTE\u00a0\u00a0\u00a0 Enrolment is limited to students in a MUSC Plan or the B.Mus. Program.", 
+        "number": "283", 
+        "subject": "MUSC", 
+        "title": "Brass Techniques and Methods II"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 MUSC183 or permission of the instructor.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Continuation of MUSC 183/3.0. A more advanced study of the complete brass family of instruments. Emphasis includes playing techniques, ranges, fingerings, transpositions, instrument maintenance, method books, ensemble repertoire and teaching techniques. Rental instruments available.\r\nNOTE\u00a0\u00a0\u00a0 Enrolment is limited to students in a MUSC Plan or the B.Mus. Program.", 
-        "subject": "MUSC", 
-        "number": "283", 
-        "title": "Brass Techniques and Methods II"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Provides an initial orientation to teaching History through exposure to a variety of teaching approaches, questioning techniques, lesson design and curriculum documents. The course explores engaging methodologies in the art of teaching History and citizenship in national and global contexts.", 
+        "number": "335", 
+        "subject": "CURR", 
+        "title": "Intro to Teaching History (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Provides an initial orientation to teaching History through exposure to a variety of teaching approaches, questioning techniques, lesson design and curriculum documents. The course explores engaging methodologies in the art of teaching History and citizenship in national and global contexts.", 
-        "subject": "CURR", 
-        "number": "335", 
-        "title": "Intro to Teaching History (IS)"
     }
 }

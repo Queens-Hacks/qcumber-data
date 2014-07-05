@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "For a complete description, see LANG 120*.", 
+        "number": "121", 
+        "subject": "LANG", 
+        "title": "Lang Acquisition-Adv Lev II"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 LANG P10 and LANG P11 or permission of the Department.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "For a complete description, see LANG 120*.", 
-        "subject": "LANG", 
-        "number": "121", 
-        "title": "Lang Acquisition-Adv Lev II"
     }
 }

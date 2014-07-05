@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An exploration of the relationship between Victorian literature and culture. This course will examine novels, poems, and essays written between 1830 and 1900 with attention to their particular literary, historical, and social contexts.", 
+        "number": "351B", 
+        "subject": "ENGL", 
+        "title": "Victorian Literature"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "An exploration of the relationship between Victorian literature and culture. This course will examine novels, poems, and essays written between 1830 and 1900 with attention to their particular literary, historical, and social contexts.", 
-        "subject": "ENGL", 
-        "number": "351B", 
-        "title": "Victorian Literature"
     }
 }

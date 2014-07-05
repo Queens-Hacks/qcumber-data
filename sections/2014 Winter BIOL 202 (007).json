@@ -1,24 +1,24 @@
 {
+    "_unique": "007-LAB (1842)", 
     "basic": {
         "class_num": "1842", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "202", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "007", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "007-LAB (1842)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 4, 
-            "location": "BIOSCI RM2311"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2311", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

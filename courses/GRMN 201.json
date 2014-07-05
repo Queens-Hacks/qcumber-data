@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A continuation of GRMN 102/3.0 aimed at expanding basic language skills (listening, reading, writing and speaking). Students will review and deepen their knowledge of grammatical structures through exposure to a variety of German-language media and culture.", 
+        "number": "201", 
+        "subject": "GRMN", 
+        "title": "Intermediate German I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in GRMN102 or permission of the Department of Languages, Literatures and Cultures.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A continuation of GRMN 102/3.0 aimed at expanding basic language skills (listening, reading, writing and speaking). Students will review and deepen their knowledge of grammatical structures through exposure to a variety of German-language media and culture.", 
-        "subject": "GRMN", 
-        "number": "201", 
-        "title": "Intermediate German I"
     }
 }

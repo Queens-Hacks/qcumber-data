@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (5456)", 
     "basic": {
         "class_num": "5456", 
-        "subject": "HLTH", 
-        "status": "Open", 
         "course": "333", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HLTH", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (5456)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Adams, Mary Louise"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "MILLER RM201", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "MILLER RM201"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

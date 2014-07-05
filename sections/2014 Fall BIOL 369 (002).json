@@ -1,24 +1,24 @@
 {
+    "_unique": "002-TUT (6802)", 
     "basic": {
         "class_num": "6802", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "369", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-TUT (6802)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 2, 
-            "location": "BIOSCI RM2109"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2109", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

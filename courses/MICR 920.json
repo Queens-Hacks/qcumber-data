@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A comprehensive course emphasizing the major microbial and viral groups occurring in human and animal disease. The basic mechanisms involved in host-parasite interrelationships as well as current effective methodology used in their control will be studied.\u00a0 Winter term.\u00a0\u00a0N. Martin.\u00a0\u00a0", 
+        "number": "920", 
+        "subject": "MICR", 
+        "title": "Microbial Pathogenesis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A comprehensive course emphasizing the major microbial and viral groups occurring in human and animal disease. The basic mechanisms involved in host-parasite interrelationships as well as current effective methodology used in their control will be studied.\u00a0 Winter term.\u00a0\u00a0N. Martin.\u00a0\u00a0", 
-        "subject": "MICR", 
-        "number": "920", 
-        "title": "Microbial Pathogenesis"
     }
 }

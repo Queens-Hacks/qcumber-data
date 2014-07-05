@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of the path that led from the state-sanctioned racial profiling of immigrants in the late nineteenth century to current multicultural ideas and policies in Canada and the United States, with an emphasis on the role Jewish intellectuals, politicians, and community leaders played in developing and, sometimes, resisting such changes.", 
+        "number": "344", 
+        "subject": "HIST", 
+        "title": "Plural Visions: New World Jews"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A Grade of C in 3.0 units from HIST 300-329 and registration in a HIST Major or Medial Plan.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 1 course from HIST 344/3.0; HIST 347/6.0", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "An examination of the path that led from the state-sanctioned racial profiling of immigrants in the late nineteenth century to current multicultural ideas and policies in Canada and the United States, with an emphasis on the role Jewish intellectuals, politicians, and community leaders played in developing and, sometimes, resisting such changes.", 
-        "subject": "HIST", 
-        "number": "344", 
-        "title": "Plural Visions: New World Jews"
     }
 }

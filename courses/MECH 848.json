@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course focusses on practical measurement systems for Masters student's in mechanical engineering.\u00a0 On completing this course students will be able to: Select, install, test, and program a micro controller system for data acquisition and control; Select, analyze the performance of, and apply transducers for temperature; pressure; stress, strain and force; position, velocity and acceleration; Apply basic signal conditioning in analog and digital domains; Analyze data to draw conclusions from measurements and uncertainty analysis. Conceive, Design, Implement and Operate a complete measurement system as part of a course project. The course will require a small equipment expenditure (< $100 / student) for components that will be reusable in subsequent years.", 
+        "number": "848", 
+        "subject": "MECH", 
+        "title": "Measurement Systems I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course focusses on practical measurement systems for Masters student's in mechanical engineering.\u00a0 On completing this course students will be able to: Select, install, test, and program a micro controller system for data acquisition and control; Select, analyze the performance of, and apply transducers for temperature; pressure; stress, strain and force; position, velocity and acceleration; Apply basic signal conditioning in analog and digital domains; Analyze data to draw conclusions from measurements and uncertainty analysis. Conceive, Design, Implement and Operate a complete measurement system as part of a course project. The course will require a small equipment expenditure (< $100 / student) for components that will be reusable in subsequent years.", 
-        "subject": "MECH", 
-        "number": "848", 
-        "title": "Measurement Systems I"
     }
 }

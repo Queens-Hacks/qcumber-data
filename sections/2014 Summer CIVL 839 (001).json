@@ -1,70 +1,70 @@
 {
+    "_unique": "001-LEC (2274)", 
     "basic": {
         "class_num": "2274", 
-        "subject": "CIVL", 
-        "status": "Closed", 
         "course": "839", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "CIVL", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2274)", 
     "classes": [
         {
-            "term_end": "2014-05-16T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
-            "instructors": [
-                "MacDougall, Colin C"
-            ], 
-            "end_time": "1900-01-01T12:00:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 5, 
-            "location": "MACINTOSH-CORRY RM D211"
-        }, 
-        {
-            "term_end": "2014-05-16T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
+            "end_time": "1900-01-01T12:00:00", 
             "instructors": [
                 "MacDougall, Colin C"
             ], 
-            "end_time": "1900-01-01T12:00:00", 
+            "location": "MACINTOSH-CORRY RM D211", 
             "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "MACINTOSH-CORRY RM D211"
-        }, 
-        {
-            "term_end": "2014-05-16T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
+            "end_time": "1900-01-01T12:00:00", 
             "instructors": [
                 "MacDougall, Colin C"
             ], 
-            "end_time": "1900-01-01T12:00:00", 
+            "location": "MACINTOSH-CORRY RM D211", 
             "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "MACINTOSH-CORRY RM D211"
-        }, 
-        {
-            "term_end": "2014-05-16T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
+            "end_time": "1900-01-01T12:00:00", 
             "instructors": [
                 "MacDougall, Colin C"
             ], 
-            "end_time": "1900-01-01T12:00:00", 
+            "location": "MACINTOSH-CORRY RM D211", 
             "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "MACINTOSH-CORRY RM D211"
-        }, 
-        {
-            "term_end": "2014-05-16T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
+            "end_time": "1900-01-01T12:00:00", 
             "instructors": [
                 "MacDougall, Colin C"
             ], 
-            "end_time": "1900-01-01T12:00:00", 
+            "location": "MACINTOSH-CORRY RM D211", 
             "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
+        }, 
+        {
             "day_of_week": 1, 
-            "location": "MACINTOSH-CORRY RM D211"
+            "end_time": "1900-01-01T12:00:00", 
+            "instructors": [
+                "MacDougall, Colin C"
+            ], 
+            "location": "MACINTOSH-CORRY RM D211", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
         }
     ]
 }

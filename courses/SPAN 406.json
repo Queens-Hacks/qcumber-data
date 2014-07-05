@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to contemporary literary theories and the analysis of Hispanic texts from reader-, structural- and author-oriented perspectives. \r\nNOTE\u00a0\u00a0\u00a0 Taught in English together with LLCU 316/3.0. Students concentrating in Spanish submit written assignments, tests, and examination in Spanish. Normally they will read Hispanic texts in the original.", 
+        "number": "406", 
+        "subject": "SPAN", 
+        "title": "Introducci\u00f3n a la teor\u00eda y el an\u00e1lisis literario"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 SPAN251 or SPAN352 or permission of the Department of Languages, Literatures and Cultures.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from LLCU316;SPAN316; SPAN406.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to contemporary literary theories and the analysis of Hispanic texts from reader-, structural- and author-oriented perspectives. \r\nNOTE\u00a0\u00a0\u00a0 Taught in English together with LLCU 316/3.0. Students concentrating in Spanish submit written assignments, tests, and examination in Spanish. Normally they will read Hispanic texts in the original.", 
-        "subject": "SPAN", 
-        "number": "406", 
-        "title": "Introducci\u00f3n a la teor\u00eda y el an\u00e1lisis literario"
     }
 }

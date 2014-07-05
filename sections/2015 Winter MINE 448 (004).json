@@ -1,24 +1,24 @@
 {
+    "_unique": "004-LAB (7995)", 
     "basic": {
         "class_num": "7995", 
-        "subject": "MINE", 
-        "status": "Open", 
         "course": "448", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "004", 
+        "status": "Open", 
+        "subject": "MINE", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "004-LAB (7995)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

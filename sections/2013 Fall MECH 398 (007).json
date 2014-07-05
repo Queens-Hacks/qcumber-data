@@ -1,24 +1,24 @@
 {
+    "_unique": "007-LAB (5043)", 
     "basic": {
         "class_num": "5043", 
-        "subject": "MECH", 
-        "status": "Open", 
         "course": "398", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "007", 
+        "status": "Open", 
+        "subject": "MECH", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "007-LAB (5043)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T12:30:00", 
             "day_of_week": 2, 
-            "location": "JACKSN RM 301"
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "JACKSN RM 301", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

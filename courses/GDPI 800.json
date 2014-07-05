@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Provides opportunities for exploration of current theories of self-regulated learning. Self-regulated learning requires autonomous management of learning through effective goal setting, resource allocation, valid self-assessment, and goal revision.", 
+        "number": "800", 
+        "subject": "GDPI", 
+        "title": "Self-Regulated Inquiry and Learning"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Provides opportunities for exploration of current theories of self-regulated learning. Self-regulated learning requires autonomous management of learning through effective goal setting, resource allocation, valid self-assessment, and goal revision.", 
-        "subject": "GDPI", 
-        "number": "800", 
-        "title": "Self-Regulated Inquiry and Learning"
     }
 }

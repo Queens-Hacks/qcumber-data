@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course will cover the following topics in the field of dynamics.\u00a0 Kinematics of particles: planar motion (rectilinear, curvilinear), choosing a coordinate system, conversions between systems, space curvilinear motion, free and constrained paths, relative motion between particles.\u00a0 Plane kinematics of rigid bodies: absolute motion, relative motion (velocity and acceleration), instantaneous centre of zero velocity, motion relative to rotating axes.\u00a0 Kinetics of systems of particles: generalized Newton's Second Law, work and energy, impulse and momentum, conservation of energy and momentum, impact.", 
+        "number": "228", 
+        "subject": "MECH", 
+        "title": "Kinematics And Dynamics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 11, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 31, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of APSC111 and\u00a0 APSC171 and a corequisite of APSC112 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 11, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 31, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course will cover the following topics in the field of dynamics.\u00a0 Kinematics of particles: planar motion (rectilinear, curvilinear), choosing a coordinate system, conversions between systems, space curvilinear motion, free and constrained paths, relative motion between particles.\u00a0 Plane kinematics of rigid bodies: absolute motion, relative motion (velocity and acceleration), instantaneous centre of zero velocity, motion relative to rotating axes.\u00a0 Kinetics of systems of particles: generalized Newton's Second Law, work and energy, impulse and momentum, conservation of energy and momentum, impact.", 
-        "subject": "MECH", 
-        "number": "228", 
-        "title": "Kinematics And Dynamics"
     }
 }

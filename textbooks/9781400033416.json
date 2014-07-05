@@ -1,1 +1,15 @@
-{"isbn_13": "9781400033416", "used_available": 3, "isbn_10": "1400033411", "classified_info": "0 classified listings", "new_price": "$17.96", "used_price": "$13.47", "authors": "Toni Morrison", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13730-ENGL876-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", "courses": ["ENGL 876"], "required": true, "title": "Beloved"}
+{
+    "authors": "Toni Morrison", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 876"
+    ], 
+    "isbn_10": "1400033411", 
+    "isbn_13": "9781400033416", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13730-ENGL876-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", 
+    "new_price": "$17.96", 
+    "required": true, 
+    "title": "Beloved", 
+    "used_available": 3, 
+    "used_price": "$13.47"
+}

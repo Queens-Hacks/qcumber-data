@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Fundamentals of the theoretical and practical (algorithmic) aspects of lossless and lossy data compression. Topics include: adaptive Huffman coding, arithmetic coding, the fundamental performance limits of universal lossless coding, Lempel-Ziv and related dictionary based methods, the Burrows-Wheeler transform, elements of Kolmogorov complexity theory, rate-distortion theory, scalar and vector quantization, applications to speech and image coding.", 
+        "number": "477", 
+        "subject": "MTHE", 
+        "title": "Data Compression & Source Codi"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 15, 
+            "Eng Sci": 21, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQ: MTHE 474 or MATH 474 and registered in BSCE.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 15, 
-            "Eng Sci": 21, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Fundamentals of the theoretical and practical (algorithmic) aspects of lossless and lossy data compression. Topics include: adaptive Huffman coding, arithmetic coding, the fundamental performance limits of universal lossless coding, Lempel-Ziv and related dictionary based methods, the Burrows-Wheeler transform, elements of Kolmogorov complexity theory, rate-distortion theory, scalar and vector quantization, applications to speech and image coding.", 
-        "subject": "MTHE", 
-        "number": "477", 
-        "title": "Data Compression & Source Codi"
     }
 }

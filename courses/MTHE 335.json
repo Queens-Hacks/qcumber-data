@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Linear input/output systems and their stability. Frequency-domain and time-domain analysis. Continuous and discrete time-modeling. Fourier, Laplace, and Z-transforms. Sampling and the discrete-time Fourier transform. Application to modulation of communications signals, filter design, and digital sampling.", 
+        "number": "335", 
+        "subject": "MTHE", 
+        "title": "Math Of Engineering Systems"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 11, 
+            "Comp St": 0, 
+            "Eng Des": 11, 
+            "Eng Sci": 20, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQ: MTHE 334 or MATH 334 and MTHE 326 or MATH 326 or MTHE 228 or MATH 228 and registered in BSCE.", 
-        "CEAB": {
-            "Basic Sci": 11, 
-            "Math": 0, 
-            "Eng Des": 11, 
-            "Eng Sci": 20, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Linear input/output systems and their stability. Frequency-domain and time-domain analysis. Continuous and discrete time-modeling. Fourier, Laplace, and Z-transforms. Sampling and the discrete-time Fourier transform. Application to modulation of communications signals, filter design, and digital sampling.", 
-        "subject": "MTHE", 
-        "number": "335", 
-        "title": "Math Of Engineering Systems"
     }
 }

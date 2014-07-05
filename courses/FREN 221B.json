@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of language in the literary context, emphasizing a close reading of French and Qu\u00e9bec works from different genres and different centuries. The course discusses adaptations (film, theatre, music and art) of literary material.", 
+        "number": "221B", 
+        "subject": "FREN", 
+        "title": "La langue, le texte et le multim\u00e9dia"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A study of language in the literary context, emphasizing a close reading of French and Qu\u00e9bec works from different genres and different centuries. The course discusses adaptations (film, theatre, music and art) of literary material.", 
-        "subject": "FREN", 
-        "number": "221B", 
-        "title": "La langue, le texte et le multim\u00e9dia"
     }
 }

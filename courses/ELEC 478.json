@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Introduction to communication networks design principles, data encoding, media access sublayer, local area networks, protocol analysis, mobile communication networks and network security.", 
+        "number": "478", 
+        "subject": "ELEC", 
+        "title": "Computer Networks II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 26, 
+            "Eng Sci": 10, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of (ELEC326 or STAT351) and (ELEC471 or CISC435) and registered in a BSCE Academic Program or an SODE-P-BCH Academic Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 26, 
-            "Eng Sci": 10, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to communication networks design principles, data encoding, media access sublayer, local area networks, protocol analysis, mobile communication networks and network security.", 
-        "subject": "ELEC", 
-        "number": "478", 
-        "title": "Computer Networks II"
     }
 }

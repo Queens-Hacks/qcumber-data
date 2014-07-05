@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "557", 
+        "subject": "CONT", 
+        "title": "Learning Disabilities (A)"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CONT", 
-        "number": "557", 
-        "title": "Learning Disabilities (A)"
     }
 }

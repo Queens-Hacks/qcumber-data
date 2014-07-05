@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of the evolution and operation of the Canadian federal system. Topics include the concept and meaning of federalism, the implications of provincial/federal interdependence, and the politics of constitutional reform.\u00a0 (Offered jointly with POLS-415*)", 
+        "number": "818", 
+        "subject": "POLS", 
+        "title": "Canadian Federalism"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of the evolution and operation of the Canadian federal system. Topics include the concept and meaning of federalism, the implications of provincial/federal interdependence, and the politics of constitutional reform.\u00a0 (Offered jointly with POLS-415*)", 
-        "subject": "POLS", 
-        "number": "818", 
-        "title": "Canadian Federalism"
     }
 }

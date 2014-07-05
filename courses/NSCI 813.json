@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Recent advances in understanding neurotransmission and pharmacology in the central nervous system will be discussed. The current literature describing progress in understanding molecular, cellular and behavioural aspects of brain function, and the impact of drugs and disease, will be examined. Winter; seminars. Given in years ending with an uneven number. \nPREREQUISITE: Permission of Graduate Program\nEXCLUSION: PHAR-810*, BMED-813*", 
+        "number": "813", 
+        "subject": "NSCI", 
+        "title": "Advances in Neuropharmacology"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Recent advances in understanding neurotransmission and pharmacology in the central nervous system will be discussed. The current literature describing progress in understanding molecular, cellular and behavioural aspects of brain function, and the impact of drugs and disease, will be examined. Winter; seminars. Given in years ending with an uneven number. \nPREREQUISITE: Permission of Graduate Program\nEXCLUSION: PHAR-810*, BMED-813*", 
-        "subject": "NSCI", 
-        "number": "813", 
-        "title": "Advances in Neuropharmacology"
     }
 }

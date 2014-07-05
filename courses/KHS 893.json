@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A lecture-seminar course that investigates the epidemiological relationships among physical activity, fitness and health. The course also examines the historical development of the field, study designs and analytical frameworks. A particular emphasis is placed on issues in the current literature.\u00a0 Lectures:\u00a0 1 x 3 hours", 
+        "number": "893", 
+        "subject": "KHS", 
+        "title": "Physical Activity Epidemiology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A lecture-seminar course that investigates the epidemiological relationships among physical activity, fitness and health. The course also examines the historical development of the field, study designs and analytical frameworks. A particular emphasis is placed on issues in the current literature.\u00a0 Lectures:\u00a0 1 x 3 hours", 
-        "subject": "KHS", 
-        "number": "893", 
-        "title": "Physical Activity Epidemiology"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of late nineteenth- and early twentieth-century French art in its changing institutional, social and art historical contexts. Topics may include the institutions of exhibiting and artistic training, the art market, modernity, the new Paris, impressionism and sensation, the decorative, the cult of the self, primitivism and colonialism.\u00a0", 
+        "number": "324", 
+        "subject": "ARTH", 
+        "title": "French Art and Its Reception, 1855-1912"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 Third year standing or above\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from ARTH 322/3.0; ARTH 324/3.0.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of late nineteenth- and early twentieth-century French art in its changing institutional, social and art historical contexts. Topics may include the institutions of exhibiting and artistic training, the art market, modernity, the new Paris, impressionism and sensation, the decorative, the cult of the self, primitivism and colonialism.\u00a0", 
-        "subject": "ARTH", 
-        "number": "324", 
-        "title": "French Art and Its Reception, 1855-1912"
     }
 }

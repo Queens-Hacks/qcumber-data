@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction in English translation to the masterpieces of Hebrew literature from the Bible to the revival of modern Hebrew and Israeli culture; classics of Jewish religious thought as well as secular Hebrew culture, prose and poetry, writings by men and women; a study of the ways in which surrounding societies influenced Hebrew culture and the aspects of continuity in Hebrew cultural development.", 
+        "number": "135", 
+        "subject": "HEBR", 
+        "title": "Hebrew Literature and Cultural Contexts in Translation"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction in English translation to the masterpieces of Hebrew literature from the Bible to the revival of modern Hebrew and Israeli culture; classics of Jewish religious thought as well as secular Hebrew culture, prose and poetry, writings by men and women; a study of the ways in which surrounding societies influenced Hebrew culture and the aspects of continuity in Hebrew cultural development.", 
-        "subject": "HEBR", 
-        "number": "135", 
-        "title": "Hebrew Literature and Cultural Contexts in Translation"
     }
 }

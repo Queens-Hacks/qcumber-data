@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Representative critical approaches from Aristotle to the moderns will be considered with particular attention to those which have most influenced contemporary attitudes.", 
+        "number": "810A", 
+        "subject": "ENGL", 
+        "title": "Literary Criticism"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "typically_offered": "Fall, Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Representative critical approaches from Aristotle to the moderns will be considered with particular attention to those which have most influenced contemporary attitudes.", 
-        "subject": "ENGL", 
-        "number": "810A", 
-        "title": "Literary Criticism"
     }
 }

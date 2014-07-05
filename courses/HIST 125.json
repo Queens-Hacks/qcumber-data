@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A survey of Western and Central Europe and Great Britain from about 1750 to 1950. The focus is on the revolutions which produced modern Europe, notably the political revolutions (1789 and 1848), industrialization, urbanization, population growth, secularization, the rise of new classes, and changes in ideologies and popular attitudes.", 
+        "number": "125", 
+        "subject": "HIST", 
+        "title": "The Evolution Of Modern Europe"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A survey of Western and Central Europe and Great Britain from about 1750 to 1950. The focus is on the revolutions which produced modern Europe, notably the political revolutions (1789 and 1848), industrialization, urbanization, population growth, secularization, the rise of new classes, and changes in ideologies and popular attitudes.", 
-        "subject": "HIST", 
-        "number": "125", 
-        "title": "The Evolution Of Modern Europe"
     }
 }

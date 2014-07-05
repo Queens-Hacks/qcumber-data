@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will investigate theories of cognition and research on teacher practice as related to mathematics, science and technology.\u00a0 It will include an examination of assessment practices, use of Information and Communication Technology (ICT) in teaching and learning, and translation of curriculum policy into practice.\u00a0Not offered 2010-2011.", 
+        "number": "842", 
+        "subject": "EDUC", 
+        "title": "Teaching & Learning In Math, Science and Technology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will investigate theories of cognition and research on teacher practice as related to mathematics, science and technology.\u00a0 It will include an examination of assessment practices, use of Information and Communication Technology (ICT) in teaching and learning, and translation of curriculum policy into practice.\u00a0Not offered 2010-2011.", 
-        "subject": "EDUC", 
-        "number": "842", 
-        "title": "Teaching & Learning In Math, Science and Technology"
     }
 }

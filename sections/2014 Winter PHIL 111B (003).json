@@ -1,26 +1,26 @@
 {
+    "_unique": "003-LEC (7720)", 
     "basic": {
         "class_num": "7720", 
-        "subject": "PHIL", 
-        "status": "Open", 
         "course": "111B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "PHIL", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "003-LEC (7720)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Litwack, Eric Bruce"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

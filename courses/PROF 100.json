@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to issues and policies that are critical for beginning and experienced teachers in elementary schools. It invites candidates to build on their experiences in classrooms and associate schools, to begin to learn about their legal rights and responsibilities as teachers, to begin to learn about adapting instruction for exceptional learners and about equity issues they will face in schools.", 
+        "number": "100", 
+        "subject": "PROF", 
+        "title": "Critical Issues & Policies"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "An introduction to issues and policies that are critical for beginning and experienced teachers in elementary schools. It invites candidates to build on their experiences in classrooms and associate schools, to begin to learn about their legal rights and responsibilities as teachers, to begin to learn about adapting instruction for exceptional learners and about equity issues they will face in schools.", 
-        "subject": "PROF", 
-        "number": "100", 
-        "title": "Critical Issues & Policies"
     }
 }

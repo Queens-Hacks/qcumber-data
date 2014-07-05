@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course considers fundamental issues in the philosophy of property law, including the nature of ownership, questions of distributive justice and property as a basic human right.", 
+        "number": "349", 
+        "subject": "LAW", 
+        "title": "Property Law Theory"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course considers fundamental issues in the philosophy of property law, including the nature of ownership, questions of distributive justice and property as a basic human right.", 
-        "subject": "LAW", 
-        "number": "349", 
-        "title": "Property Law Theory"
     }
 }

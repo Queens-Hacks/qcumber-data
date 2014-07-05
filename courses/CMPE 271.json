@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Introduction to scientific computing: floating point arithmetic, algorithm design, error analysis, ill-conditioning. Zero-finding. Linear equations. Interpolation. Integration. Least-squares fitting. Effective use of library programs, with discussion of their limitations and some aspects of their design and implementation.", 
+        "number": "271", 
+        "subject": "CMPE", 
+        "title": "Scientific Computing"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 15, 
+            "Math": 21
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQ: APSC 142 and APSC 172 and APSC 174 and registered in BSCE.\r\nEXCLUSION: MATH 272 or MTHE 272", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 21, 
-            "Eng Des": 0, 
-            "Eng Sci": 15, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to scientific computing: floating point arithmetic, algorithm design, error analysis, ill-conditioning. Zero-finding. Linear equations. Interpolation. Integration. Least-squares fitting. Effective use of library programs, with discussion of their limitations and some aspects of their design and implementation.", 
-        "subject": "CMPE", 
-        "number": "271", 
-        "title": "Scientific Computing"
     }
 }

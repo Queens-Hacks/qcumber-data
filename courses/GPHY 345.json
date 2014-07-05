@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An in-depth exploration of the spatial analysis techniques used in vector GIS. The analysis of geographic primitives of points, lines, areas and surfaces in the context of applications drawn from geography, biology, planning and related disciplines. Emphasis is placed on the use of current GIS software in a hands-on environment.", 
+        "number": "345", 
+        "subject": "GPHY", 
+        "title": "Spatial Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Practicum": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GPHY243 (or GISC201) and GPHY247, or permission of the Department.\r\nEquivalency\u00a0\u00a0\u00a0 GISC301", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An in-depth exploration of the spatial analysis techniques used in vector GIS. The analysis of geographic primitives of points, lines, areas and surfaces in the context of applications drawn from geography, biology, planning and related disciplines. Emphasis is placed on the use of current GIS software in a hands-on environment.", 
-        "subject": "GPHY", 
-        "number": "345", 
-        "title": "Spatial Analysis"
     }
 }

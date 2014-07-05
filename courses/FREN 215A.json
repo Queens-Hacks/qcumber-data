@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to the general principles of linguistics, in the areas of phonetics, phonology, morphology, lexicology, syntax and semantics. Examples are drawn primarily from Canadian and European French.\r\nNOTE\u00a0\u00a0\u00a0 FREN 215 is a Problem-Based Learning (PBL) course. The instructor will meet with students once a week for 1.5 hours in the lecture format to present concepts and problems. The second block of 1.5 hours will be occupied by students working collaboratively in small groups on specific sets of preset problems using online and other materials.", 
+        "number": "215A", 
+        "subject": "FREN", 
+        "title": "Introduction \u00e0 la linguistique fran\u00e7aise"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in FREN110 or a grade of B in (FREN100 or [FREN101 and FREN102]).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the general principles of linguistics, in the areas of phonetics, phonology, morphology, lexicology, syntax and semantics. Examples are drawn primarily from Canadian and European French.\r\nNOTE\u00a0\u00a0\u00a0 FREN 215 is a Problem-Based Learning (PBL) course. The instructor will meet with students once a week for 1.5 hours in the lecture format to present concepts and problems. The second block of 1.5 hours will be occupied by students working collaboratively in small groups on specific sets of preset problems using online and other materials.", 
-        "subject": "FREN", 
-        "number": "215A", 
-        "title": "Introduction \u00e0 la linguistique fran\u00e7aise"
     }
 }

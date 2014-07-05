@@ -1,1 +1,15 @@
-{"isbn_13": "9780745643946", "isbn_10": "0745643949", "classified_info": "7 classified listings: $0.00 to $25.54", "new_price": "$28.42", "used_price": "$21.32", "authors": "Katie Milestone", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13352-GNDS125#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["GNDS 125"], "required": true, "new_available": 84, "title": "Gender and Popular Culture"}
+{
+    "authors": "Katie Milestone", 
+    "classified_info": "7 classified listings: $0.00 to $25.54", 
+    "courses": [
+        "GNDS 125"
+    ], 
+    "isbn_10": "0745643949", 
+    "isbn_13": "9780745643946", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13352-GNDS125#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 84, 
+    "new_price": "$28.42", 
+    "required": true, 
+    "title": "Gender and Popular Culture", 
+    "used_price": "$21.32"
+}

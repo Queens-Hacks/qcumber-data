@@ -1,1 +1,16 @@
-{"courses": ["CHEE 321"], "required": true, "new_available": 34, "classified_info": "7 classified listings: $65.00 to $100.00", "isbn_13": "9780137146123", "used_available": 4, "isbn_10": "0137146124", "new_price": "$137.00", "authors": "H. Scott Fogler", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13538-CHEE321-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "used_price": "$97.36", "title": "Essentials of Chemical Reaction Engineering"}
+{
+    "authors": "H. Scott Fogler", 
+    "classified_info": "7 classified listings: $65.00 to $100.00", 
+    "courses": [
+        "CHEE 321"
+    ], 
+    "isbn_10": "0137146124", 
+    "isbn_13": "9780137146123", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13538-CHEE321-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 34, 
+    "new_price": "$137.00", 
+    "required": true, 
+    "title": "Essentials of Chemical Reaction Engineering", 
+    "used_available": 4, 
+    "used_price": "$97.36"
+}

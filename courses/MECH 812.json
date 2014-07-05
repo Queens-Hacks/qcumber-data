@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Introduction to electrochemistry; thermodynamics and kinetics of corrosion processes; aqueous corrosion; anodic and cathodic processes and passivity; atmospheric corrosion and the role of contaminants; oxidation and the structure and properties of oxide films; conjoint phenomena, impingement, erosion, stress corrosion cracking, fretting, corrosion fatigue, corrosion control by coatings; inhibition, cathodic protection, and anodic protection; corrosion as a factor in design; corrosion and safety.\u00a0\u00a0 Three term-hours;\u00a0 M. Shirkhanzadeh", 
+        "number": "812", 
+        "subject": "MECH", 
+        "title": "Metal Corrosion & Protection"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to electrochemistry; thermodynamics and kinetics of corrosion processes; aqueous corrosion; anodic and cathodic processes and passivity; atmospheric corrosion and the role of contaminants; oxidation and the structure and properties of oxide films; conjoint phenomena, impingement, erosion, stress corrosion cracking, fretting, corrosion fatigue, corrosion control by coatings; inhibition, cathodic protection, and anodic protection; corrosion as a factor in design; corrosion and safety.\u00a0\u00a0 Three term-hours;\u00a0 M. Shirkhanzadeh", 
-        "subject": "MECH", 
-        "number": "812", 
-        "title": "Metal Corrosion & Protection"
     }
 }

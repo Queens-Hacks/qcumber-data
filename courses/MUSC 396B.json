@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The examination of individual instruments in the string, woodwind, brass and percussion sections. Course includes score analysis, transcription, arranging and orchestration. A recommended course for B.Mus. composition students.", 
+        "number": "396B", 
+        "subject": "MUSC", 
+        "title": "Intro To Orchestration"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The examination of individual instruments in the string, woodwind, brass and percussion sections. Course includes score analysis, transcription, arranging and orchestration. A recommended course for B.Mus. composition students.", 
-        "subject": "MUSC", 
-        "number": "396B", 
-        "title": "Intro To Orchestration"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Students will learn advanced skills in interviewing (e.g., diagnostic interviewing, motivational interviewing) and/or intervention (e.g., group therapy, therapy with special populations). A blend of classroom instruction, videotaped therapy sessions, observation, modeling, feedback and supervised practice is used. The specific focus of instruction in any given year will depend upon the availability of instructors.", 
+        "number": "952", 
+        "subject": "PSYC", 
+        "title": "Advanced Clinical Skills"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Students will learn advanced skills in interviewing (e.g., diagnostic interviewing, motivational interviewing) and/or intervention (e.g., group therapy, therapy with special populations). A blend of classroom instruction, videotaped therapy sessions, observation, modeling, feedback and supervised practice is used. The specific focus of instruction in any given year will depend upon the availability of instructors.", 
-        "subject": "PSYC", 
-        "number": "952", 
-        "title": "Advanced Clinical Skills"
     }
 }

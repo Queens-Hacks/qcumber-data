@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Issues in global politics, international relations, international diplomacy, or foreign policy will be examined in this course. The focus of this course will vary from year to year; consult the departmental homepage for further details.", 
+        "number": "405", 
+        "subject": "POLS", 
+        "title": "International Relations: Questions & Challenges"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Issues in global politics, international relations, international diplomacy, or foreign policy will be examined in this course. The focus of this course will vary from year to year; consult the departmental homepage for further details.", 
-        "subject": "POLS", 
-        "number": "405", 
-        "title": "International Relations: Questions & Challenges"
     }
 }

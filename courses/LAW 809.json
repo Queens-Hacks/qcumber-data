@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course is divided into two parts. The first part explores international aspects of Canadian criminal law. Attention is given to questions of sovereignty, in terms of Canada's ability to claim jurisdiction over crimes with a trans-jurisdictional nature. This part of the course also focuses on Canada's international obligations at the investigation stage, under the rubric of mutual legal assistance arrangements, as well as dealing with fugitives from justice from other jurisdictions who are apprehended on Canadian soil.\u00a0The second part of the course focuses on criminal aspects of international law. This part of the course travels the road from the Nuremberg Trials to the Rome Treaty that established the International Criminal Court in 1998. An important component of this exploration will be the antecedent work of The International Criminal Tribunal for the Former Yugoslavia and for Rwanda.\u00a0 (Jointly with LAW-409.) Three term-hours; Winter. D. Robinson.", 
+        "number": "809", 
+        "subject": "LAW", 
+        "title": "International Criminal Law"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course is divided into two parts. The first part explores international aspects of Canadian criminal law. Attention is given to questions of sovereignty, in terms of Canada's ability to claim jurisdiction over crimes with a trans-jurisdictional nature. This part of the course also focuses on Canada's international obligations at the investigation stage, under the rubric of mutual legal assistance arrangements, as well as dealing with fugitives from justice from other jurisdictions who are apprehended on Canadian soil.\u00a0The second part of the course focuses on criminal aspects of international law. This part of the course travels the road from the Nuremberg Trials to the Rome Treaty that established the International Criminal Court in 1998. An important component of this exploration will be the antecedent work of The International Criminal Tribunal for the Former Yugoslavia and for Rwanda.\u00a0 (Jointly with LAW-409.) Three term-hours; Winter. D. Robinson.", 
-        "subject": "LAW", 
-        "number": "809", 
-        "title": "International Criminal Law"
     }
 }

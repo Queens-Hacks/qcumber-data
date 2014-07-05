@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Among the topics covered are: similarity and canonical forms; non-negative matrices and Perron-Frobenius theory (with applications to probability theory and Markov chains); matrix differential equations and stability theory; estimation of eigenvalues using Gersgorin's theorem and related inequalities. (Offered jointly with MATH-405*.) Three term-hours, fall or winter; lectures.\u00a0", 
+        "number": "805", 
+        "subject": "MATH", 
+        "title": "Applications Of Matrix Algebra"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Among the topics covered are: similarity and canonical forms; non-negative matrices and Perron-Frobenius theory (with applications to probability theory and Markov chains); matrix differential equations and stability theory; estimation of eigenvalues using Gersgorin's theorem and related inequalities. (Offered jointly with MATH-405*.) Three term-hours, fall or winter; lectures.\u00a0", 
-        "subject": "MATH", 
-        "number": "805", 
-        "title": "Applications Of Matrix Algebra"
     }
 }

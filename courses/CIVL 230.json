@@ -1,27 +1,27 @@
 {
-    "extra": {
-        "typically_offered": "Fall", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of APSC111 and APSC 171 and registration in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 50, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "4.25"
-    }, 
     "basic": {
         "description": "Review of statics, forces, and equilibrium, internal forces in simple structures; axial, torsion, shear and moment diagrams; concepts of stress and strain; mechanical properties of materials; centroids and moments of areas; axial stress; flexural stress; shear stress in shafts and beams; calculation of displacement by integration; introduction to combined loading; introduction to column buckling.\u00a0\u00a0 PPE will be required for this course at student\u00bfs cost (see course materials for details).", 
-        "subject": "CIVL", 
         "number": "230", 
+        "subject": "CIVL", 
         "title": "Solid Mechanics I"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 50, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC111 and APSC 171 and registration in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.25"
     }
 }

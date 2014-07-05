@@ -1,1 +1,17 @@
-{"isbn_10": "0176407065", "courses": ["ENGL 100", "ENGL 100"], "required": true, "used_price": "$73.88", "isbn_13": "9780176407063", "used_available": 44, "new_available": 16, "new_price": "$98.50", "authors": "Laurie Kirszner, Stephen Mandell, Candace Fertile", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13504-ENGL100#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "classified_info": "3 classified listings: $0.00 to $65.00", "title": "LITERATURE"}
+{
+    "authors": "Laurie Kirszner, Stephen Mandell, Candace Fertile", 
+    "classified_info": "3 classified listings: $0.00 to $65.00", 
+    "courses": [
+        "ENGL 100", 
+        "ENGL 100"
+    ], 
+    "isbn_10": "0176407065", 
+    "isbn_13": "9780176407063", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13504-ENGL100#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 16, 
+    "new_price": "$98.50", 
+    "required": true, 
+    "title": "LITERATURE", 
+    "used_available": 44, 
+    "used_price": "$73.88"
+}

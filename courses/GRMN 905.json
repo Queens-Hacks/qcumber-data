@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of cross-cultural contact and interaction in contemporary German literature and film. 3 term-hours; Fall 2010. P. Fachinger.", 
+        "number": "905", 
+        "subject": "GRMN", 
+        "title": "Transnational German Lit.&Film"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of cross-cultural contact and interaction in contemporary German literature and film. 3 term-hours; Fall 2010. P. Fachinger.", 
-        "subject": "GRMN", 
-        "number": "905", 
-        "title": "Transnational German Lit.&Film"
     }
 }

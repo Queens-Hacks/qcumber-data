@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The technology of computer music and multimedia with an emphasis on education. Topics include music synthesis, analysis, computer-aided instruction and multimedia. Enrolment is limited due to equipment limitations.", 
+        "number": "393", 
+        "subject": "MUSC", 
+        "title": "Introduction to Computers in Multimedia"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "enrollment_requirement": "3rd year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The technology of computer music and multimedia with an emphasis on education. Topics include music synthesis, analysis, computer-aided instruction and multimedia. Enrolment is limited due to equipment limitations.", 
-        "subject": "MUSC", 
-        "number": "393", 
-        "title": "Introduction to Computers in Multimedia"
     }
 }

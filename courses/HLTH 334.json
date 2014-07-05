@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Explores cultural meanings of health and illness, the power dynamics through which these meanings are constructed, and related injustices in bodily experiences.\r\nNOTE\u00a0\u00a0\u00a0 Limited spots are available for students in a DEVS or NURS Plan.", 
+        "number": "334", 
+        "subject": "HLTH", 
+        "title": "The Politics of Health and Illness"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (HLTH 101/3.0 or KNPE 167/3.0 or PHED 167/3.0 or SOCY 122/6.0) and level 3 in a PHED, KINE or HLTH plan", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Explores cultural meanings of health and illness, the power dynamics through which these meanings are constructed, and related injustices in bodily experiences.\r\nNOTE\u00a0\u00a0\u00a0 Limited spots are available for students in a DEVS or NURS Plan.", 
-        "subject": "HLTH", 
-        "number": "334", 
-        "title": "The Politics of Health and Illness"
     }
 }

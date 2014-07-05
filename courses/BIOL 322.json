@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A comparative examination of interaction between animals and their environment including: physiological adaptations to extreme environments (e.g., arctic, desert); responses to acute and chronic environmental stress (e.g., hypoxia, temperature); environmental regulation of normal physiological processes; uses of comparative models in other fields.", 
+        "number": "322", 
+        "subject": "BIOL", 
+        "title": "Environmental Physiology of Animals"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BIOL338 or BIOL339.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A comparative examination of interaction between animals and their environment including: physiological adaptations to extreme environments (e.g., arctic, desert); responses to acute and chronic environmental stress (e.g., hypoxia, temperature); environmental regulation of normal physiological processes; uses of comparative models in other fields.", 
-        "subject": "BIOL", 
-        "number": "322", 
-        "title": "Environmental Physiology of Animals"
     }
 }

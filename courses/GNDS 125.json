@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Explores popular culture from feminist and anti-racist perspectives, with attention to sexuality, gender, race and nation in a variety of media. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "125", 
+        "subject": "GNDS", 
+        "title": "Gender, Race and Popular Culture"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Explores popular culture from feminist and anti-racist perspectives, with attention to sexuality, gender, race and nation in a variety of media. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "GNDS", 
-        "number": "125", 
-        "title": "Gender, Race and Popular Culture"
     }
 }

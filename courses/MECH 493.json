@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "493", 
+        "subject": "MECH", 
+        "title": "Viscoelastic Tissue Mechanics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of MECH225 or (MATH226 and MECH321) and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "MECH", 
-        "number": "493", 
-        "title": "Viscoelastic Tissue Mechanics"
     }
 }

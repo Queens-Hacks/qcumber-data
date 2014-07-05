@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Specialized study of a topic in the history of the Roman Empire.\u00a0 B.J. Kavanagh", 
+        "number": "843", 
+        "subject": "CLAS", 
+        "title": "Roman History II:\u00a0 Empire"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Specialized study of a topic in the history of the Roman Empire.\u00a0 B.J. Kavanagh", 
-        "subject": "CLAS", 
-        "number": "843", 
-        "title": "Roman History II:\u00a0 Empire"
     }
 }

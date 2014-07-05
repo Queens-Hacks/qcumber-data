@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Advanced computational approaches to the problems in molecular biology. Techniques and algorithms for sequence analysis and alignment; molecular databases; protein structure prediction and molecular data mining.", 
+        "number": "471", 
+        "subject": "CISC", 
+        "title": "Computational Biology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC271 and CISC352 and (BCHM218 or MBIO218) and (BIOL334 or BIOL315)", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Advanced computational approaches to the problems in molecular biology. Techniques and algorithms for sequence analysis and alignment; molecular databases; protein structure prediction and molecular data mining.", 
-        "subject": "CISC", 
-        "number": "471", 
-        "title": "Computational Biology"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Macroscopic and microscopic characterization of igneous, sedimentary and metamorphic rocks. Processes by which rocks are formed and transformed, and influence of genesis on shape, distribution, and rock-mass character of rock bodies. Implications and consequences of rock-forming processes for mineral exploration and production, fossil-fuel exploration and production, and engineering site investigation.", 
+        "number": "235", 
+        "subject": "GEOE", 
+        "title": "Gen & Char Solid Earth Mtls"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 32, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 22, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQ: GEOE 221 or GEOL 211 and GEOE 232 or GEOL 232 or permission of department. Must also be registered in BSCE.", 
-        "CEAB": {
-            "Basic Sci": 32, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 22, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "Macroscopic and microscopic characterization of igneous, sedimentary and metamorphic rocks. Processes by which rocks are formed and transformed, and influence of genesis on shape, distribution, and rock-mass character of rock bodies. Implications and consequences of rock-forming processes for mineral exploration and production, fossil-fuel exploration and production, and engineering site investigation.", 
-        "subject": "GEOE", 
-        "number": "235", 
-        "title": "Gen & Char Solid Earth Mtls"
     }
 }

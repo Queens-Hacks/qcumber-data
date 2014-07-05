@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Introduces religion in India, China and Japan; also the movements of Judaism, Christianity, Islam and Humanism.", 
+        "number": "131", 
+        "subject": "RELS", 
+        "title": "World Religions/Religious Worlds"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Introduces religion in India, China and Japan; also the movements of Judaism, Christianity, Islam and Humanism.", 
-        "subject": "RELS", 
-        "number": "131", 
-        "title": "World Religions/Religious Worlds"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This seminar style course examines the practice and impact of leadership in organizations and communicites as we enter into the 21st century.\u00a0 The evolvement of leadership from the command and control style to the more recent transformation authentic, and will be examined in a variety of settings as described in both popular and academic writings on leadership.\u00a0 The impact of leadership will be assessed by research on whether and how individuals make a difference.\u00a0 The course also examines emerging trends in leadership in the 21st century.\u00a0 Texts and readings, exercises and team projects will be utilized.", 
+        "number": "351", 
+        "subject": "COMM", 
+        "title": "Leadership"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 COMM151 or COMM251. Admission restricted to third- and fourth-year students.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This seminar style course examines the practice and impact of leadership in organizations and communicites as we enter into the 21st century.\u00a0 The evolvement of leadership from the command and control style to the more recent transformation authentic, and will be examined in a variety of settings as described in both popular and academic writings on leadership.\u00a0 The impact of leadership will be assessed by research on whether and how individuals make a difference.\u00a0 The course also examines emerging trends in leadership in the 21st century.\u00a0 Texts and readings, exercises and team projects will be utilized.", 
-        "subject": "COMM", 
-        "number": "351", 
-        "title": "Leadership"
     }
 }

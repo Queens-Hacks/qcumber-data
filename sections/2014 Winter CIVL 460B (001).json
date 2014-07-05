@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (2444)", 
     "basic": {
         "class_num": "2444", 
-        "subject": "CIVL", 
-        "status": "Open", 
         "course": "460B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CIVL", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2444)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Novakowski, Kent S"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "ELLIS RM327", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 2, 
-            "location": "ELLIS RM327"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

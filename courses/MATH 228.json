@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Complex arithmetic, complex plane. Differentiation, analytic functions. Elementary functions. Contour integration, Cauchy's Theorem, and Integral Formula. Taylor and Laurent series, residues with applications to evaluation of integrals.", 
+        "number": "228", 
+        "subject": "MATH", 
+        "title": "Complex Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH110 or MATH111 or MATH112) and (MATH120 or MATH121 or MATH122 or MATH124).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from MATH228; MATH326.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Complex arithmetic, complex plane. Differentiation, analytic functions. Elementary functions. Contour integration, Cauchy's Theorem, and Integral Formula. Taylor and Laurent series, residues with applications to evaluation of integrals.", 
-        "subject": "MATH", 
-        "number": "228", 
-        "title": "Complex Analysis"
     }
 }

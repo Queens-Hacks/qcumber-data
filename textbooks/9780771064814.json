@@ -1,1 +1,14 @@
-{"isbn_13": "9780771064814", "isbn_10": "0771064810", "classified_info": "10 classified listings: $0.00 to $20.00", "new_price": "$23.68", "used_price": "$17.76", "authors": "Desmond Morton", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13374-HIE208-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["HIE 208"], "required": true, "title": "A Military History of Canada"}
+{
+    "authors": "Desmond Morton", 
+    "classified_info": "10 classified listings: $0.00 to $20.00", 
+    "courses": [
+        "HIE 208"
+    ], 
+    "isbn_10": "0771064810", 
+    "isbn_13": "9780771064814", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13374-HIE208-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_price": "$23.68", 
+    "required": true, 
+    "title": "A Military History of Canada", 
+    "used_price": "$17.76"
+}

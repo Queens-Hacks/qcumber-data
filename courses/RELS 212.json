@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Similarities and differences in the myths of ancient Egypt and Mesopotamia will be explored on the basis of material remains (e.g., the pyramids and temple architecture) and texts.", 
+        "number": "212", 
+        "subject": "RELS", 
+        "title": "Mythology of the Ancient Near East"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 Level 2 or above or 6.0 units at the 100 level in RELS", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Similarities and differences in the myths of ancient Egypt and Mesopotamia will be explored on the basis of material remains (e.g., the pyramids and temple architecture) and texts.", 
-        "subject": "RELS", 
-        "number": "212", 
-        "title": "Mythology of the Ancient Near East"
     }
 }

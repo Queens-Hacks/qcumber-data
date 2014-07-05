@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course provides an introduction to the methods and premises used in the modern quest to understand the historical facts of Jesus life. Particular attention will be given to understanding the historical Jesus in his first-century socio-cultural context. Offered jointly with RELS-311*. Not offered 2010-2011.", 
+        "number": "811", 
+        "subject": "RELS", 
+        "title": "Jesus: Continuing Hist Quest"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides an introduction to the methods and premises used in the modern quest to understand the historical facts of Jesus life. Particular attention will be given to understanding the historical Jesus in his first-century socio-cultural context. Offered jointly with RELS-311*. Not offered 2010-2011.", 
-        "subject": "RELS", 
-        "number": "811", 
-        "title": "Jesus: Continuing Hist Quest"
     }
 }

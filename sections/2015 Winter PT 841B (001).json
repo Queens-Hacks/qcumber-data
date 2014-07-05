@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (3311)", 
     "basic": {
         "class_num": "3311", 
-        "subject": "PT", 
-        "status": "Open", 
         "course": "841B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PT", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (3311)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Norman, Kathleen E"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "BOTTER RM B147", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 1, 
-            "location": "BOTTER RM B147"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Norman, Kathleen E"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BOTTER RM B147", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 3, 
-            "location": "BOTTER RM B147"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
         }
     ]
 }

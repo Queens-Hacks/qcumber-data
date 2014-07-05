@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Examines scholarship, creative works, and activism by Indigenous women as a basis for introducing Indigenous feminist thought. Cases examine the many ways that Indigenous women and LGBTQ/Two-Spirit people participate in Indigenous nations, experience and resist settler colonialism, and work for Indigenous decolonization.", 
+        "number": "340", 
+        "subject": "GNDS", 
+        "title": "Indigenous Women, Feminism and Resistance"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "3rd year standing or above", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Examines scholarship, creative works, and activism by Indigenous women as a basis for introducing Indigenous feminist thought. Cases examine the many ways that Indigenous women and LGBTQ/Two-Spirit people participate in Indigenous nations, experience and resist settler colonialism, and work for Indigenous decolonization.", 
-        "subject": "GNDS", 
-        "number": "340", 
-        "title": "Indigenous Women, Feminism and Resistance"
     }
 }

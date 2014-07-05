@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Topics include: History of Multivariate Techniques, Matrix Algebra, Data Assumptions and Preparation, Multiple Regression, Canonical Correlation, Multivariate Analysis of Variance, and Discriminant Function Analysis. Winter; lectures (3 hrs) and tutorials (1\u00bf hrs).\u00a0", 
+        "number": "802", 
+        "subject": "PSYC", 
+        "title": "Multivariate Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture / Laboratory": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topics include: History of Multivariate Techniques, Matrix Algebra, Data Assumptions and Preparation, Multiple Regression, Canonical Correlation, Multivariate Analysis of Variance, and Discriminant Function Analysis. Winter; lectures (3 hrs) and tutorials (1\u00bf hrs).\u00a0", 
-        "subject": "PSYC", 
-        "number": "802", 
-        "title": "Multivariate Analysis"
     }
 }

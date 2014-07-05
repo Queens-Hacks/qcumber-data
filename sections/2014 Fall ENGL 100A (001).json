@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (6257)", 
     "basic": {
         "class_num": "6257", 
-        "subject": "ENGL", 
-        "status": "Open", 
         "course": "100A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ENGL", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (6257)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T09:30:00", 
             "instructors": [
                 "Pierce, John B"
             ], 
-            "end_time": "1900-01-01T09:30:00", 
+            "location": "BIOSCI AUD", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 2, 
-            "location": "BIOSCI AUD"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }, 
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Pierce, John B"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BIOSCI AUD", 
             "start_time": "1900-01-01T10:30:00", 
-            "day_of_week": 3, 
-            "location": "BIOSCI AUD"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

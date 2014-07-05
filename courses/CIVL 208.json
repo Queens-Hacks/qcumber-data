@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "208", 
+        "subject": "CIVL", 
+        "title": "Decision Making"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BSCE program", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
         "units": "1.25"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CIVL", 
-        "number": "208", 
-        "title": "Decision Making"
     }
 }

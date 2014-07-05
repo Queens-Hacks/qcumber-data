@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An interdisciplinary investigation of the causes and impacts of global changes brought about by human activities and natural processes. Includes human impacts on the atmosphere, soils, plants, animals, water and geomorphological processes; ecological relationships; natural resource management; and natural hazards.", 
+        "number": "210", 
+        "subject": "GPHY", 
+        "title": "Geographical Perspectives on Global Change"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of GPHY101 or GPHY 102 or BIOL101 or BIOL103 or BIOL110 or BIOL201 or BIOL202 or GEOL105.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An interdisciplinary investigation of the causes and impacts of global changes brought about by human activities and natural processes. Includes human impacts on the atmosphere, soils, plants, animals, water and geomorphological processes; ecological relationships; natural resource management; and natural hazards.", 
-        "subject": "GPHY", 
-        "number": "210", 
-        "title": "Geographical Perspectives on Global Change"
     }
 }

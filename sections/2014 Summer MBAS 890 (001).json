@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (1333)", 
     "basic": {
         "class_num": "1333", 
-        "subject": "MBAS", 
-        "status": "Closed", 
         "course": "890", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBAS", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (1333)", 
     "classes": [
         {
-            "term_end": "2014-06-13T00:00:00", 
-            "term_start": "2014-01-20T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Dubey, Shailesh"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-06-13T00:00:00", 
+            "term_start": "2014-01-20T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Liquid crystalline polymers, spontaneous order and induced order in polymers specifically designed to mimic supramolecular association and recognition. Dendrimers, block structures, and associated surfaces will be included. Fall. G. Liu.", 
+        "number": "954", 
+        "subject": "CHEM", 
+        "title": "Polymer Supramolecular Organ."
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "Liquid crystalline polymers, spontaneous order and induced order in polymers specifically designed to mimic supramolecular association and recognition. Dendrimers, block structures, and associated surfaces will be included. Fall. G. Liu.", 
-        "subject": "CHEM", 
-        "number": "954", 
-        "title": "Polymer Supramolecular Organ."
     }
 }

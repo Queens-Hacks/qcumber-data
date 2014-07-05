@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "The course has two components.\u00a0\u00a0 A 7 week (26 hour)\u00a0 series of discussions on assigned readings, selected readings and a 45 minute presentation by each student on medical and ethical aspects of obstetrics, gynaecology, endocrinology, population and gender health and psychology.\u00a0 The second component is a 50 hour Human Placenta Research Summer Workshop.\u00a0\u00a0 Summer Term.\u00a0\u00a0 Dr. B.A. Croy", 
+        "number": "839", 
+        "subject": "ANAT", 
+        "title": "Selected Topics In Pregnancy"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "The course has two components.\u00a0\u00a0 A 7 week (26 hour)\u00a0 series of discussions on assigned readings, selected readings and a 45 minute presentation by each student on medical and ethical aspects of obstetrics, gynaecology, endocrinology, population and gender health and psychology.\u00a0 The second component is a 50 hour Human Placenta Research Summer Workshop.\u00a0\u00a0 Summer Term.\u00a0\u00a0 Dr. B.A. Croy", 
-        "subject": "ANAT", 
-        "number": "839", 
-        "title": "Selected Topics In Pregnancy"
     }
 }

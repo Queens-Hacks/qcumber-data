@@ -1,26 +1,26 @@
 {
+    "_unique": "600-LEC (7760)", 
     "basic": {
         "class_num": "7760", 
-        "subject": "FOCI", 
-        "status": "Open", 
         "course": "201B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "600", 
+        "status": "Open", 
+        "subject": "FOCI", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "600-LEC (7760)", 
     "classes": [
         {
-            "term_end": "2014-04-13T00:00:00", 
-            "term_start": "2014-04-11T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Bell, Nicole"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-04-13T00:00:00", 
+            "term_start": "2014-04-11T00:00:00"
         }
     ]
 }

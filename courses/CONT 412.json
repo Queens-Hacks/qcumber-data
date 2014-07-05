@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "412", 
+        "subject": "CONT", 
+        "title": "Graphic Communications (A)"
+    }, 
     "extra": {
-        "career": "Non-Credit", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CONT", 
-        "number": "412", 
-        "title": "Graphic Communications (A)"
     }
 }

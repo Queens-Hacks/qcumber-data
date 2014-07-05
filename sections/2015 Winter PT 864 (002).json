@@ -1,24 +1,24 @@
 {
+    "_unique": "002-LAB (3309)", 
     "basic": {
         "class_num": "3309", 
-        "subject": "PT", 
-        "status": "Open", 
         "course": "864", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PT", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-LAB (3309)", 
     "classes": [
         {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:00:00", 
-            "start_time": "1900-01-01T09:00:00", 
             "day_of_week": 5, 
-            "location": "ACTON RM21"
+            "end_time": "1900-01-01T11:00:00", 
+            "instructors": [], 
+            "location": "ACTON RM21", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

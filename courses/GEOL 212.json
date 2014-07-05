@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An introduction to the crystallography and crystal chemistry of rock-forming minerals for students not in the Geological Sciences. The structural, chemical and genetic aspects of the crystalline state as displayed by minerals are considered.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Chemistry is required.", 
+        "number": "212", 
+        "subject": "GEOL", 
+        "title": "Introduction to Mineralogy"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 GEOL104 or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from GEOL212; GEOL232.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the crystallography and crystal chemistry of rock-forming minerals for students not in the Geological Sciences. The structural, chemical and genetic aspects of the crystalline state as displayed by minerals are considered.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Chemistry is required.", 
-        "subject": "GEOL", 
-        "number": "212", 
-        "title": "Introduction to Mineralogy"
     }
 }

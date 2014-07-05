@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Electromagnetic theory and applications.\u00a0Topics include: Maxwell's equations, gauge theory, relativistic transformations of Maxwell's equations, properties of waves in free space, dielectrics, conductors and ionized media, reflection and refraction at the surfaces of various media, propagation in metallic and dielectric waveguides, radiation of electromagnetic waves from charged particles and antennae.", 
+        "number": "432", 
+        "subject": "PHYS", 
+        "title": "Electromagnetic Theory"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 PHYS239 and (MATH221 or MATH280) and (MATH232 or MATH231).\r\nEquivalency\u00a0\u00a0\u00a0 PHYS332.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Electromagnetic theory and applications.\u00a0Topics include: Maxwell's equations, gauge theory, relativistic transformations of Maxwell's equations, properties of waves in free space, dielectrics, conductors and ionized media, reflection and refraction at the surfaces of various media, propagation in metallic and dielectric waveguides, radiation of electromagnetic waves from charged particles and antennae.", 
-        "subject": "PHYS", 
-        "number": "432", 
-        "title": "Electromagnetic Theory"
     }
 }

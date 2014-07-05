@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course will offer a political, social, and intellectual history of the Enlightenment in Britain. The chronological scope of the course will run from the Restoration to the French Revolution. The purpose of the course will be to set Enlightenment ideas within their political, social, and economic context, and introduce students to the methods of contextualism.", 
+        "number": "440", 
+        "subject": "HIST", 
+        "title": "Britain in the Enlightenment Era"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A Grade of C+ in 6.0 units from HIST 300-329 and registration in a HIST Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "This course will offer a political, social, and intellectual history of the Enlightenment in Britain. The chronological scope of the course will run from the Restoration to the French Revolution. The purpose of the course will be to set Enlightenment ideas within their political, social, and economic context, and introduce students to the methods of contextualism.", 
-        "subject": "HIST", 
-        "number": "440", 
-        "title": "Britain in the Enlightenment Era"
     }
 }

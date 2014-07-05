@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This is an interdisciplinary research project related to environmental sustainability, with supervision and training in appropriate research methods by faculty members of the School of Environmental Studies. The course includes supervised research including a research proposal, a seminar, a poster presentation and a final thesis and oral defence.", 
+        "number": "502B", 
+        "subject": "ENSC", 
+        "title": "Research Project Sustainability"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "12.00"
-    }, 
-    "basic": {
-        "description": "This is an interdisciplinary research project related to environmental sustainability, with supervision and training in appropriate research methods by faculty members of the School of Environmental Studies. The course includes supervised research including a research proposal, a seminar, a poster presentation and a final thesis and oral defence.", 
-        "subject": "ENSC", 
-        "number": "502B", 
-        "title": "Research Project Sustainability"
     }
 }

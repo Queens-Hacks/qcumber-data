@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of different topics and issues in global political economy, such as the role of international financial institutions, the politics of global trade, or the global distribution of wealth. The focus of this course will vary from year to year; consult\u00a0the departmental\u00a0website for further details.", 
+        "number": "395", 
+        "subject": "POLS", 
+        "title": "Topics in International Political Economy"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 (12.0 units in POLS at the 200-level or above) and (a GPA of 2.0 on all units in POLS) or permission of the department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of different topics and issues in global political economy, such as the role of international financial institutions, the politics of global trade, or the global distribution of wealth. The focus of this course will vary from year to year; consult\u00a0the departmental\u00a0website for further details.", 
-        "subject": "POLS", 
-        "number": "395", 
-        "title": "Topics in International Political Economy"
     }
 }

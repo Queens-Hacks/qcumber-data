@@ -1,1 +1,14 @@
-{"isbn_13": "9780195082234", "isbn_10": "0195082230", "classified_info": "3 classified listings: $8.00 to $20.00", "new_price": "$43.07", "used_price": "$32.30", "authors": "Ian K. Steele", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13836-HIE205-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["HIE 205"], "required": true, "title": "Warpaths"}
+{
+    "authors": "Ian K. Steele", 
+    "classified_info": "3 classified listings: $8.00 to $20.00", 
+    "courses": [
+        "HIE 205"
+    ], 
+    "isbn_10": "0195082230", 
+    "isbn_13": "9780195082234", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13836-HIE205-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_price": "$43.07", 
+    "required": true, 
+    "title": "Warpaths", 
+    "used_price": "$32.30"
+}

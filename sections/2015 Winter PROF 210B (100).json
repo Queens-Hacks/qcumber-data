@@ -1,37 +1,37 @@
 {
+    "_unique": "100-LEC (7973)", 
     "basic": {
         "class_num": "7973", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "210B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "100", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "100-LEC (7973)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Roblin, Nancy E"
             ], 
-            "end_time": null, 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "DUNCAN MCARTHUR RM A241"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Roblin, Nancy E"
             ], 
-            "end_time": null, 
+            "location": "DUNCAN MCARTHUR RM A242", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "DUNCAN MCARTHUR RM A242"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course covers the application, instrumentation and techniques of human motion analysis. Topics include 2D and 3D kinematics, force measurement, link segment analysis and the application of these techniques to able-bodied and disabled populations. To integrate the material, the course combines readings, lectures, laboratories and projects.\u00a0 (Offered jointly with RHBS-872*/RHBS-972*).", 
+        "number": "849", 
+        "subject": "KHS", 
+        "title": "Motion Analysis"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course covers the application, instrumentation and techniques of human motion analysis. Topics include 2D and 3D kinematics, force measurement, link segment analysis and the application of these techniques to able-bodied and disabled populations. To integrate the material, the course combines readings, lectures, laboratories and projects.\u00a0 (Offered jointly with RHBS-872*/RHBS-972*).", 
-        "subject": "KHS", 
-        "number": "849", 
-        "title": "Motion Analysis"
     }
 }

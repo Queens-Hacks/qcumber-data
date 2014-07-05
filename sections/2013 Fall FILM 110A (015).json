@@ -1,24 +1,24 @@
 {
+    "_unique": "015-TUT (3531)", 
     "basic": {
         "class_num": "3531", 
-        "subject": "FILM", 
-        "status": "Open", 
         "course": "110A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "015", 
+        "status": "Open", 
+        "subject": "FILM", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "015-TUT (3531)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T16:00:00", 
             "day_of_week": 4, 
-            "location": "JEFFERY RM115"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM115", 
+            "start_time": "1900-01-01T16:00:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

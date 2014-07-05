@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The purpose of the directed special studies/reading course is to provide additional flexibility in the MIR program to enable students to pursue in-depth study of a topic/subject relating to industrial relations and human resources management that is not covered by existing course offerings. The scope of this course will be arranged by the student in consultation with the instructor. Although the exact course format and requirements will depend on the nature of the subject area and on the discretion of the instructor, the following guidelines may be helpful: the minimum workload for the course is the same as required for a normal course; the student is normally required to undertake a review of the literature, including an annotated bibliography of the subject covered by the course; the student is normally required to write at least one major paper (minimum 20 typed pages or 5000 words in length) as a requirement for the course. The course is available only under special circumstances and with the permission of the Director. This course may be taken in any one of the three terms, but it can only be taken once during the MIR program.", 
+        "number": "891", 
+        "subject": "MIR", 
+        "title": "Directed Special Studies"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The purpose of the directed special studies/reading course is to provide additional flexibility in the MIR program to enable students to pursue in-depth study of a topic/subject relating to industrial relations and human resources management that is not covered by existing course offerings. The scope of this course will be arranged by the student in consultation with the instructor. Although the exact course format and requirements will depend on the nature of the subject area and on the discretion of the instructor, the following guidelines may be helpful: the minimum workload for the course is the same as required for a normal course; the student is normally required to undertake a review of the literature, including an annotated bibliography of the subject covered by the course; the student is normally required to write at least one major paper (minimum 20 typed pages or 5000 words in length) as a requirement for the course. The course is available only under special circumstances and with the permission of the Director. This course may be taken in any one of the three terms, but it can only be taken once during the MIR program.", 
-        "subject": "MIR", 
-        "number": "891", 
-        "title": "Directed Special Studies"
     }
 }

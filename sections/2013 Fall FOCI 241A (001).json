@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (7912)", 
     "basic": {
         "class_num": "7912", 
-        "subject": "FOCI", 
-        "status": "Closed", 
         "course": "241A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "FOCI", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (7912)", 
     "classes": [
         {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T12:50:00", 
+            "instructors": [
+                "MacEachren, Elizabeth"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "1900-01-01T10:50:00", 
             "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-04T00:00:00", 
+            "term_start": "2013-09-04T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T12:50:00", 
             "instructors": [
                 "MacEachren, Elizabeth"
             ], 
-            "end_time": "1900-01-01T12:50:00", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 1, 
-            "location": "DUNCAN MCARTHUR RM A239"
-        }, 
-        {
             "term_end": "2013-11-04T00:00:00", 
-            "term_start": "2013-10-28T00:00:00", 
-            "instructors": [
-                "MacEachren, Elizabeth"
-            ], 
-            "end_time": "1900-01-01T12:50:00", 
-            "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 1, 
-            "location": "DUNCAN MCARTHUR RM A239"
+            "term_start": "2013-10-28T00:00:00"
         }, 
         {
-            "term_end": "2013-11-28T00:00:00", 
-            "term_start": "2013-11-18T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T12:50:00", 
             "instructors": [
                 "MacEachren, Elizabeth"
             ], 
-            "end_time": "1900-01-01T12:50:00", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 1, 
-            "location": "DUNCAN MCARTHUR RM A239"
+            "term_end": "2013-11-28T00:00:00", 
+            "term_start": "2013-11-18T00:00:00"
         }
     ]
 }

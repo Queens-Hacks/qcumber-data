@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of key issues in British politics. Topics will vary from year to year; consult the department homepage.\r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader International Study Centre, Herstmonceux.", 
+        "number": "335A", 
+        "subject": "POLS", 
+        "title": "Topics in British Politics"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 (12.0 units in POLS at the 200-level or above) and (a GPA of 2.0 on all units in POLS) or permission of the department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "An examination of key issues in British politics. Topics will vary from year to year; consult the department homepage.\r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader International Study Centre, Herstmonceux.", 
-        "subject": "POLS", 
-        "number": "335A", 
-        "title": "Topics in British Politics"
     }
 }

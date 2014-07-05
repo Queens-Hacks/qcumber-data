@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will study legal issues related to the position of children in our society. The three major topics are child protection proceedings, adoption, and delinquency. Tactical and ethical concerns will be addressed, as well as substantive and procedural legal questions. The primary focus will be on representing parties to proceedings, but questions will also be considered from a broader social perspective. Problems will be approached from the point of view of a number of disciplines. (To be offered jointly with LAW-519.) Three term-hous; Winter. N. Bala.", 
+        "number": "876", 
+        "subject": "LAW", 
+        "title": "Children's Law"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will study legal issues related to the position of children in our society. The three major topics are child protection proceedings, adoption, and delinquency. Tactical and ethical concerns will be addressed, as well as substantive and procedural legal questions. The primary focus will be on representing parties to proceedings, but questions will also be considered from a broader social perspective. Problems will be approached from the point of view of a number of disciplines. (To be offered jointly with LAW-519.) Three term-hous; Winter. N. Bala.", 
-        "subject": "LAW", 
-        "number": "876", 
-        "title": "Children's Law"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Methods of characterizing biological tissues for the Mechanical Engineer with no previous biology background. Histology of ligament, tendon, cartilage and bone. Viscoelasticity and classical elasticity. Current models of ligament and tendon (Fung's quasi-linear model). Linear anisotropic elastic model for bone and cartilage. Theories for strength and failure mechanisms. Three term-hours, lectures. J.T. Bryant", 
+        "number": "829", 
+        "subject": "MECH", 
+        "title": "Tissue Mechanics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Methods of characterizing biological tissues for the Mechanical Engineer with no previous biology background. Histology of ligament, tendon, cartilage and bone. Viscoelasticity and classical elasticity. Current models of ligament and tendon (Fung's quasi-linear model). Linear anisotropic elastic model for bone and cartilage. Theories for strength and failure mechanisms. Three term-hours, lectures. J.T. Bryant", 
-        "subject": "MECH", 
-        "number": "829", 
-        "title": "Tissue Mechanics"
     }
 }

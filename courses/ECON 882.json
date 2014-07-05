@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A general course in research methodology.\u00a0 Please refer to Departmental Handbook - QEDetails.", 
+        "number": "882", 
+        "subject": "ECON", 
+        "title": "Research Problem & Methodology"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A general course in research methodology.\u00a0 Please refer to Departmental Handbook - QEDetails.", 
-        "subject": "ECON", 
-        "number": "882", 
-        "title": "Research Problem & Methodology"
     }
 }

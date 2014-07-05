@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course considers feminist approaches to environmental issues in western and non-western contexts, with attention to both theories and activism.\r\nNOTE\u00a0\u00a0\u00a0 This course is recommended for students in Environmental Studies, Gender Studies, Development Studies or Health Studies.", 
+        "number": "420", 
+        "subject": "ENSC", 
+        "title": "Gender and Environments"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "3rd year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course considers feminist approaches to environmental issues in western and non-western contexts, with attention to both theories and activism.\r\nNOTE\u00a0\u00a0\u00a0 This course is recommended for students in Environmental Studies, Gender Studies, Development Studies or Health Studies.", 
-        "subject": "ENSC", 
-        "number": "420", 
-        "title": "Gender and Environments"
     }
 }

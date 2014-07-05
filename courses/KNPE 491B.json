@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This is an independent project in an area of specialization in health enhancement, disease prevention and human performance. Students must arrange for a faculty advisor approved by the School of Kinesiology and Health Studies to oversee their project.", 
+        "number": "491B", 
+        "subject": "KNPE", 
+        "title": "Special Project in Kinesiology and Physical Education"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This is an independent project in an area of specialization in health enhancement, disease prevention and human performance. Students must arrange for a faculty advisor approved by the School of Kinesiology and Health Studies to oversee their project.", 
-        "subject": "KNPE", 
-        "number": "491B", 
-        "title": "Special Project in Kinesiology and Physical Education"
     }
 }

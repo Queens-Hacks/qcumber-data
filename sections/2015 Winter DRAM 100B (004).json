@@ -1,24 +1,24 @@
 {
+    "_unique": "004-LAB (8063)", 
     "basic": {
         "class_num": "8063", 
-        "subject": "DRAM", 
-        "status": "Open", 
         "course": "100B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "004", 
+        "status": "Open", 
+        "subject": "DRAM", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "004-LAB (8063)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T13:00:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 2, 
-            "location": "THEOLOGICAL RM106"
+            "end_time": "1900-01-01T13:00:00", 
+            "instructors": [], 
+            "location": "THEOLOGICAL RM106", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

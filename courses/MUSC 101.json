@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The history of Western art music from the Middle Ages to 1750. The course focuses on musical styles, genres, and composers, as well as historical and social contextual considerations. \r\nNOTE\u00a0\u00a0\u00a0 Students registered in a MUSC Plan (other than the MUSC Minor/General) should not register in this course.", 
+        "number": "101", 
+        "subject": "MUSC", 
+        "title": "Western Music: Early Christianity to J.S. Bach"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "EXCLUSION\u00a0 No more than 3.0 units from MUSC101/3.0; 204/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The history of Western art music from the Middle Ages to 1750. The course focuses on musical styles, genres, and composers, as well as historical and social contextual considerations. \r\nNOTE\u00a0\u00a0\u00a0 Students registered in a MUSC Plan (other than the MUSC Minor/General) should not register in this course.", 
-        "subject": "MUSC", 
-        "number": "101", 
-        "title": "Western Music: Early Christianity to J.S. Bach"
     }
 }

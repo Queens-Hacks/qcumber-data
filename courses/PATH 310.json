@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to pathology and molecular medicine.\u00a0The course will be organized around a specific set of diseases, designed to illustrate basic concepts in the molecular biology, biochemistry, and pathology of human disease.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ANAT 215/3.0 and ANAT 216/3.0 and PHGY 212/6.0.", 
+        "number": "310", 
+        "subject": "PATH", 
+        "title": "Path and Molecular Medicine"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 BCHM218 (or MBIO 218)\r\nCOREQUISITES\u00a0\u00a0\u00a0 BCHM 310/6.0 or (BCHM 315/3.0 and BCHM 316/3.0).\r\nEQUIVALENCY\u00a0\u00a0\u00a0 PATH 410/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to pathology and molecular medicine.\u00a0The course will be organized around a specific set of diseases, designed to illustrate basic concepts in the molecular biology, biochemistry, and pathology of human disease.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ANAT 215/3.0 and ANAT 216/3.0 and PHGY 212/6.0.", 
-        "subject": "PATH", 
-        "number": "310", 
-        "title": "Path and Molecular Medicine"
     }
 }

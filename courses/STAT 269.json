@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Basic techniques of statistical estimation such as best unbiased estimates, moment estimates, maximum likelihood. Bayesian methods. Hypotheses testing. Classical distributions such as the t-distribution, F-distribution, beta distribution. These methods will be illustrated by simple linear regression. Statistical computing.", 
+        "number": "269", 
+        "subject": "STAT", 
+        "title": "Statistics and Probability II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH221 or MATH280) and (STAT268 or STAT351), or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Basic techniques of statistical estimation such as best unbiased estimates, moment estimates, maximum likelihood. Bayesian methods. Hypotheses testing. Classical distributions such as the t-distribution, F-distribution, beta distribution. These methods will be illustrated by simple linear regression. Statistical computing.", 
-        "subject": "STAT", 
-        "number": "269", 
-        "title": "Statistics and Probability II"
     }
 }

@@ -1,37 +1,37 @@
 {
+    "_unique": "001-SEM (8368)", 
     "basic": {
         "class_num": "8368", 
-        "subject": "MGMT", 
-        "status": "Open", 
         "course": "800", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MGMT", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-SEM (8368)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Webster, Jane E"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 3, 
-            "location": "TBA"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Webster, Jane E"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 1, 
-            "location": "TBA"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

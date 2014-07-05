@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A key task for today\u00bfs managers is the ability to pull together the very best skills and resources to get things done in organizations. Power dynamics are a fundamental part of managerial work and both organizational and individual effectiveness rests on understanding those dynamics and using them effectively. This course provides a framework for analyzing the sources of power in organizations, and the circumstances that lead to its attainment and effective use. We draw upon case studies and students own experiences as well as research from the fields of management, political science, psychology, and sociology to further our understanding of power and political processes in organizational settings. Topics covered include the nature and sources of power, conflict management, interpersonal influence and persuasion, ethics, network structures and social capital.", 
+        "number": "359", 
+        "subject": "COMM", 
+        "title": "Power And Organizational Polit"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 COMM151 or COMM251. Admission restricted to third- and fourth-year students.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A key task for today\u00bfs managers is the ability to pull together the very best skills and resources to get things done in organizations. Power dynamics are a fundamental part of managerial work and both organizational and individual effectiveness rests on understanding those dynamics and using them effectively. This course provides a framework for analyzing the sources of power in organizations, and the circumstances that lead to its attainment and effective use. We draw upon case studies and students own experiences as well as research from the fields of management, political science, psychology, and sociology to further our understanding of power and political processes in organizational settings. Topics covered include the nature and sources of power, conflict management, interpersonal influence and persuasion, ethics, network structures and social capital.", 
-        "subject": "COMM", 
-        "number": "359", 
-        "title": "Power And Organizational Polit"
     }
 }

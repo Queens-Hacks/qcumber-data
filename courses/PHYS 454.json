@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Groups of students in physics and engineering physics undertake a large design project of their choice that reflects and further develops their knowledge of physics. The students then build a prototype of their design to demonstrate the feasibility of the project within the design constraints.", 
+        "number": "454", 
+        "subject": "PHYS", 
+        "title": "Advanced Physics Design Project"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Project": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHYS350", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Groups of students in physics and engineering physics undertake a large design project of their choice that reflects and further develops their knowledge of physics. The students then build a prototype of their design to demonstrate the feasibility of the project within the design constraints.", 
-        "subject": "PHYS", 
-        "number": "454", 
-        "title": "Advanced Physics Design Project"
     }
 }

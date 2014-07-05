@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Introduction to the central concepts which make up the Religious Education curriculum currently in use in the Catholic schools of Ontario. Candidates who plan to teach in Roman Catholic\u00a0Schools will find this course helpful as a basic orientation in regard to the theological content and pedagogical principles in contemporary Catechetics. Conducted by staff from both the local Roman Catholic Archdiocese\u00a0and the\u00a0local Catholic District\u00a0School Board. Candidates intending to teach in Ontario Roman Catholic schools should note that\u00a0a course related to education in Catholic schools is required by\u00a0most Ontario\u00a0Catholic boards, and strongly recommended by others. This course\u00a0is recommended for those who have little to no background in religious studies or theology and are hoping to teach JK-Grade 12.", 
+        "number": "456", 
+        "subject": "EDST", 
+        "title": "Relig Ed Pgm in Ont RC Schools"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Restricted to BED/DED Program", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to the central concepts which make up the Religious Education curriculum currently in use in the Catholic schools of Ontario. Candidates who plan to teach in Roman Catholic\u00a0Schools will find this course helpful as a basic orientation in regard to the theological content and pedagogical principles in contemporary Catechetics. Conducted by staff from both the local Roman Catholic Archdiocese\u00a0and the\u00a0local Catholic District\u00a0School Board. Candidates intending to teach in Ontario Roman Catholic schools should note that\u00a0a course related to education in Catholic schools is required by\u00a0most Ontario\u00a0Catholic boards, and strongly recommended by others. This course\u00a0is recommended for those who have little to no background in religious studies or theology and are hoping to teach JK-Grade 12.", 
-        "subject": "EDST", 
-        "number": "456", 
-        "title": "Relig Ed Pgm in Ont RC Schools"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Configuration space, generalized coordinates, Euler-Lagrange equations. Forces: dissipative, potential. Simple mechanical control systems: modeling, linearization about equilibrium points, linear controllability tests; equivalence with kinematic systems and trajectory generation.", 
+        "number": "439", 
+        "subject": "MATH", 
+        "title": "Lagrangian Mechanics, Dynamics, and Control"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (MATH231 or MATH237) and (MATH280 or MATH281), or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Configuration space, generalized coordinates, Euler-Lagrange equations. Forces: dissipative, potential. Simple mechanical control systems: modeling, linearization about equilibrium points, linear controllability tests; equivalence with kinematic systems and trajectory generation.", 
-        "subject": "MATH", 
-        "number": "439", 
-        "title": "Lagrangian Mechanics, Dynamics, and Control"
     }
 }

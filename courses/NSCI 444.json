@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "As insight regarding the human brain expands, so do related issues such as what constitutes personhood, what drives the criminal mind, intelligence-enhancing drugs and end-of-life issues. Lead by experts who deal daily with such concerns, we will focus weekly on a particular topic in neuroscience which impacts on society.", 
+        "number": "444", 
+        "subject": "NSCI", 
+        "title": "Controversies in Neuroscience"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 NSCI 322/3.0 or NSCI 323/3.0 or NSCI 324/3.0 or ANAT 312/3.0 or PSYC 271/3.0 and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5), or permission of the course coordinators", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "As insight regarding the human brain expands, so do related issues such as what constitutes personhood, what drives the criminal mind, intelligence-enhancing drugs and end-of-life issues. Lead by experts who deal daily with such concerns, we will focus weekly on a particular topic in neuroscience which impacts on society.", 
-        "subject": "NSCI", 
-        "number": "444", 
-        "title": "Controversies in Neuroscience"
     }
 }

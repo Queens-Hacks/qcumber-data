@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A course unit composed of two modules on topics in the geological sciences and geological engineering. Each module will consist of a workshop, short course or extended field trip, as approved by the Department. The unit will be completed within two years. Specific modules during each academic year will be announced on the department's web site in September or, in exceptional circumstances, as opportunities arise. Modules taken for GEOL-841* are not eligible.", 
+        "number": "851", 
+        "subject": "GEOL", 
+        "title": "Geology And Geoeng Modules II"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A course unit composed of two modules on topics in the geological sciences and geological engineering. Each module will consist of a workshop, short course or extended field trip, as approved by the Department. The unit will be completed within two years. Specific modules during each academic year will be announced on the department's web site in September or, in exceptional circumstances, as opportunities arise. Modules taken for GEOL-841* are not eligible.", 
-        "subject": "GEOL", 
-        "number": "851", 
-        "title": "Geology And Geoeng Modules II"
     }
 }

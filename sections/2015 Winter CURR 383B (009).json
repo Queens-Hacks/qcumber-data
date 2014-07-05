@@ -1,33 +1,33 @@
 {
+    "_unique": "009-LEC (7949)", 
     "basic": {
         "class_num": "7949", 
-        "subject": "CURR", 
-        "status": "Open", 
         "course": "383B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "009", 
+        "status": "Open", 
+        "subject": "CURR", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "009-LEC (7949)", 
     "classes": [
         {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 1, 
-            "location": "DUNCAN MCARTHUR RM A239"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 1, 
-            "location": "DUNCAN MCARTHUR RM A239"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
         }
     ]
 }

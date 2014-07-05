@@ -1,1 +1,15 @@
-{"isbn_13": "9780199987559", "isbn_10": "0199987556", "classified_info": "1 classified listing: $30.00", "new_price": "$52.07", "used_price": "$39.05", "authors": "Mary T. Boatwright", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13774-CLST201-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["CLST 201"], "required": true, "new_available": 184, "title": "A Brief History of the Romans"}
+{
+    "authors": "Mary T. Boatwright", 
+    "classified_info": "1 classified listing: $30.00", 
+    "courses": [
+        "CLST 201"
+    ], 
+    "isbn_10": "0199987556", 
+    "isbn_13": "9780199987559", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13774-CLST201-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 184, 
+    "new_price": "$52.07", 
+    "required": true, 
+    "title": "A Brief History of the Romans", 
+    "used_price": "$39.05"
+}

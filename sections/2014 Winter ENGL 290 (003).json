@@ -1,37 +1,37 @@
 {
+    "_unique": "003-SEM (3210)", 
     "basic": {
         "class_num": "3210", 
-        "subject": "ENGL", 
-        "status": "Open", 
         "course": "290", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "ENGL", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "003-SEM (3210)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Pappano, Margaret A"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "MACINTOSH-CORRY RM D326", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 2, 
-            "location": "MACINTOSH-CORRY RM D326"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T10:00:00", 
             "instructors": [
                 "Pappano, Margaret A"
             ], 
-            "end_time": "1900-01-01T10:00:00", 
+            "location": "MACINTOSH-CORRY RM D326", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 4, 
-            "location": "MACINTOSH-CORRY RM D326"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

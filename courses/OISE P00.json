@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "P00", 
+        "subject": "OISE", 
+        "title": "Registered In An Oise Course"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Non-Graded Component", 
+        "typically_offered": "Fall", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "OISE", 
-        "number": "P00", 
-        "title": "Registered In An Oise Course"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A laboratory experience designed to establish understanding of, and technical skills in, the measurement of human physiological responses and performance capacity in exercise. Students will develop familiarity with tests of physiological function during rest and exercise in preparation for work in human performance, clinical and medical settings.\r\nNOTE\u00a0\u00a0\u00a0 Priority given to students in LEVEL 3 of the KINE Specialization Plan followed by students in Level 3 of the PHED Specialization Plan.", 
+        "number": "327", 
+        "subject": "KNPE", 
+        "title": "Exercise Physiology Laboratory"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 or above in a PHED or KINE Plan and KNPE 125, KNPE 225; KNPE 227 and KNPE255.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A laboratory experience designed to establish understanding of, and technical skills in, the measurement of human physiological responses and performance capacity in exercise. Students will develop familiarity with tests of physiological function during rest and exercise in preparation for work in human performance, clinical and medical settings.\r\nNOTE\u00a0\u00a0\u00a0 Priority given to students in LEVEL 3 of the KINE Specialization Plan followed by students in Level 3 of the PHED Specialization Plan.", 
-        "subject": "KNPE", 
-        "number": "327", 
-        "title": "Exercise Physiology Laboratory"
     }
 }

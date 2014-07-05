@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Utilizing a curriculum framework to explore the nature of science, science teaching and learning,\u00a0 Emphasis is placed upon lesson planning, meta-cognition, evaluation and the interrelationships between science, technology, society and the environment.", 
+        "number": "306", 
+        "subject": "CURR", 
+        "title": "Science - Chemistry (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Utilizing a curriculum framework to explore the nature of science, science teaching and learning,\u00a0 Emphasis is placed upon lesson planning, meta-cognition, evaluation and the interrelationships between science, technology, society and the environment.", 
-        "subject": "CURR", 
-        "number": "306", 
-        "title": "Science - Chemistry (IS)"
     }
 }

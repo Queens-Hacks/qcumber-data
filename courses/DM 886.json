@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "In a knowledge-based economy, successful organizations develop technologies and intellectual capital that may give rise to competitive advantage.\u00a0 The purpose of this course is to provide students with basic tools that will allow them to identify such technologies and intellectual capital in organizations, protect that capital by applying the necessary types of legal protection such as patents and copyright registrations and to then profit by transferring it to others or otherwise creating new entrepreneurial activities within the organization. (Lead Instructor: Marcel Mongeon, McMaster)", 
+        "number": "886", 
+        "subject": "DM", 
+        "title": "Basic Tools For Techn Transfer"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "In a knowledge-based economy, successful organizations develop technologies and intellectual capital that may give rise to competitive advantage.\u00a0 The purpose of this course is to provide students with basic tools that will allow them to identify such technologies and intellectual capital in organizations, protect that capital by applying the necessary types of legal protection such as patents and copyright registrations and to then profit by transferring it to others or otherwise creating new entrepreneurial activities within the organization. (Lead Instructor: Marcel Mongeon, McMaster)", 
-        "subject": "DM", 
-        "number": "886", 
-        "title": "Basic Tools For Techn Transfer"
     }
 }

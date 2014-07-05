@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An economic analysis of modern health care institutions, organizations, and markets, both generically and in the Canadian context.\u00a0A discussion of current Canadian health policy debates and various policy options and reform proposals.", 
+        "number": "243", 
+        "subject": "ECON", 
+        "title": "The Economics of Health Care"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ECON110 OR ECON111", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An economic analysis of modern health care institutions, organizations, and markets, both generically and in the Canadian context.\u00a0A discussion of current Canadian health policy debates and various policy options and reform proposals.", 
-        "subject": "ECON", 
-        "number": "243", 
-        "title": "The Economics of Health Care"
     }
 }

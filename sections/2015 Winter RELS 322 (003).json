@@ -1,24 +1,24 @@
 {
+    "_unique": "003-TUT (7917)", 
     "basic": {
         "class_num": "7917", 
-        "subject": "RELS", 
-        "status": "Open", 
         "course": "322", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "RELS", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "003-TUT (7917)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T21:00:00", 
-            "start_time": "1900-01-01T19:30:00", 
             "day_of_week": 2, 
-            "location": "TBA"
+            "end_time": "1900-01-01T21:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T19:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

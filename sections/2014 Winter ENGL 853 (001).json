@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (7828)", 
     "basic": {
         "class_num": "7828", 
-        "subject": "ENGL", 
-        "status": "Open", 
         "course": "853", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ENGL", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (7828)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Pierce, John B"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "JOHN WATSON RM406", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 4, 
-            "location": "JOHN WATSON RM406"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

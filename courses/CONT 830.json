@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "First Nation, Metis, and Inuit Peoples: Understanding Traditional Teachings, Histories, Current Issues and Cultures", 
+        "number": "830", 
+        "subject": "CONT", 
+        "title": "First Nation, Metis, and Inuit Peoples"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Non-Credit", 
         "course_components": {
             "Online": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "First Nation, Metis, and Inuit Peoples: Understanding Traditional Teachings, Histories, Current Issues and Cultures", 
-        "subject": "CONT", 
-        "number": "830", 
-        "title": "First Nation, Metis, and Inuit Peoples"
     }
 }

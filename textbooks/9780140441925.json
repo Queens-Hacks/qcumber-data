@@ -1,1 +1,14 @@
-{"isbn_13": "9780140441925", "isbn_10": "0140441921", "classified_info": "0 classified listings", "new_price": "$15.16", "used_price": "$11.37", "authors": "Baldassare Castiglione", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13707-HIST419-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", "courses": ["HIST 419"], "required": true, "title": "Penguin Classics Book Of The Courtier"}
+{
+    "authors": "Baldassare Castiglione", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "HIST 419"
+    ], 
+    "isbn_10": "0140441921", 
+    "isbn_13": "9780140441925", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13707-HIST419-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", 
+    "new_price": "$15.16", 
+    "required": true, 
+    "title": "Penguin Classics Book Of The Courtier", 
+    "used_price": "$11.37"
+}

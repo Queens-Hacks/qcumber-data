@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Health and Physical Education, Primary and Junior Part 1 focuses on the significance of healthy lifestyle choices and physical activity as key factors for promoting well-being. The course addresses the topics of theory and practice in Health and Physical Education, child development, instructional and movement strategies, and fair assessment and evaluation methods. Throughout the course, candidates will participate in tasks that deepen their understanding of designing Health and Physical Education programs that are inclusive, equitable and integrated. Additionally, candidates will explore ways to develop curriculum that connects health and physical education to children\u00bfs daily experiences.\r\nApproximate time requirement to complete the course: 125 hours total", 
+        "number": "510B", 
+        "subject": "CONT", 
+        "title": "Health and Physical Education, Primary and Junior Part 1"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Non-Credit", 
         "course_components": {
             "Online": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Health and Physical Education, Primary and Junior Part 1 focuses on the significance of healthy lifestyle choices and physical activity as key factors for promoting well-being. The course addresses the topics of theory and practice in Health and Physical Education, child development, instructional and movement strategies, and fair assessment and evaluation methods. Throughout the course, candidates will participate in tasks that deepen their understanding of designing Health and Physical Education programs that are inclusive, equitable and integrated. Additionally, candidates will explore ways to develop curriculum that connects health and physical education to children\u00bfs daily experiences.\r\nApproximate time requirement to complete the course: 125 hours total", 
-        "subject": "CONT", 
-        "number": "510B", 
-        "title": "Health and Physical Education, Primary and Junior Part 1"
     }
 }

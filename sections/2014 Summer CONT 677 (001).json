@@ -1,24 +1,24 @@
 {
+    "_unique": "001-ONL (1605)", 
     "basic": {
         "class_num": "1605", 
-        "subject": "CONT", 
-        "status": "Open", 
         "course": "677", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CONT", 
         "type": "ONL", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-ONL (1605)", 
     "classes": [
         {
-            "term_end": "2014-06-27T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-06-27T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
         }
     ]
 }

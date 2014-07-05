@@ -1,1 +1,14 @@
-{"isbn_13": "9780415339056", "isbn_10": "0415339057", "classified_info": "3 classified listings: $20.00 to $40.00", "new_price": "$48.69", "used_price": "$36.52", "authors": "Noel Castree", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13947-GPHY368-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["GPHY 368"], "required": true, "title": "Nature"}
+{
+    "authors": "Noel Castree", 
+    "classified_info": "3 classified listings: $20.00 to $40.00", 
+    "courses": [
+        "GPHY 368"
+    ], 
+    "isbn_10": "0415339057", 
+    "isbn_13": "9780415339056", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13947-GPHY368-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$48.69", 
+    "required": true, 
+    "title": "Nature", 
+    "used_price": "$36.52"
+}

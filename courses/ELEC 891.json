@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "ECE graduate students must register in this non-credit course for the duration of their degree program. The student is given a Pass grade for this course upon attending a majority of seminars designated by ECE.", 
+        "number": "891", 
+        "subject": "ELEC", 
+        "title": "Seminar"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "ECE graduate students must register in this non-credit course for the duration of their degree program. The student is given a Pass grade for this course upon attending a majority of seminars designated by ECE.", 
-        "subject": "ELEC", 
-        "number": "891", 
-        "title": "Seminar"
     }
 }

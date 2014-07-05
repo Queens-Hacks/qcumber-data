@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will cover numerical simulation techniques used to accurately and efficiently simulate industrial forming processes and impact events, including vehicle crash worthiness and the relationship to occupant safety. A variety of finite element-based techniques will be considered including explicit dynamic and implicit methods. This course will be of interest to industrial stamping and hydroforming practitioners, as well as engineers involved in crash worthiness and occupant simulation modelling.\u00a0 (Lead Instructors: M. Worswick, D. Cronin, Waterloo).", 
+        "number": "802", 
+        "subject": "DM", 
+        "title": "Comp Model Of Forming & Impact"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will cover numerical simulation techniques used to accurately and efficiently simulate industrial forming processes and impact events, including vehicle crash worthiness and the relationship to occupant safety. A variety of finite element-based techniques will be considered including explicit dynamic and implicit methods. This course will be of interest to industrial stamping and hydroforming practitioners, as well as engineers involved in crash worthiness and occupant simulation modelling.\u00a0 (Lead Instructors: M. Worswick, D. Cronin, Waterloo).", 
-        "subject": "DM", 
-        "number": "802", 
-        "title": "Comp Model Of Forming & Impact"
     }
 }

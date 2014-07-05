@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Assessment plays a major role in the education of a student with exceptionalities. Special education teachers, classroom teachers, psychologists and psychological associates are all involved in the assessment process. This course focuses on the types of assessments and rationale for selecting specific tests, basic statistical concepts such as standard deviation, and calculating and interpreting scores for parents, teachers, and students. Candidates in this course will learn both formal and informal assessments are used to make informed decisions regarding the placement and programming of students with exceptionalities.", 
+        "number": "911", 
+        "subject": "CONT", 
+        "title": "Assessment and Evaluation in Special Education"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Non-Credit", 
         "course_components": {
             "Online": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Assessment plays a major role in the education of a student with exceptionalities. Special education teachers, classroom teachers, psychologists and psychological associates are all involved in the assessment process. This course focuses on the types of assessments and rationale for selecting specific tests, basic statistical concepts such as standard deviation, and calculating and interpreting scores for parents, teachers, and students. Candidates in this course will learn both formal and informal assessments are used to make informed decisions regarding the placement and programming of students with exceptionalities.", 
-        "subject": "CONT", 
-        "number": "911", 
-        "title": "Assessment and Evaluation in Special Education"
     }
 }

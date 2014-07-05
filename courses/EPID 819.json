@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will demonstrate the way in which epidemiological principles guide the practice of medicine and the design of clinical research. Topics will include how to select the correct design for a study that addresses a clinical question,how to evaluate the quality of clinical publications and research proposals, and how to prepare a clinical research proposal. Three term hours,Fall every year. W. Mackillop.", 
+        "number": "819", 
+        "subject": "EPID", 
+        "title": "Clinical Epidemiology"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will demonstrate the way in which epidemiological principles guide the practice of medicine and the design of clinical research. Topics will include how to select the correct design for a study that addresses a clinical question,how to evaluate the quality of clinical publications and research proposals, and how to prepare a clinical research proposal. Three term hours,Fall every year. W. Mackillop.", 
-        "subject": "EPID", 
-        "number": "819", 
-        "title": "Clinical Epidemiology"
     }
 }

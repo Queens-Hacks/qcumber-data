@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Prepares students to undertake action research in classrooms and other learning contexts. The course considers the literatures of action research and teacher research as well as research methods appropriate to a focus on improving the quality of learning. Ethical issues unique to action research are also considered. Winter; J. Kirby.", 
+        "number": "894", 
+        "subject": "EDUC", 
+        "title": "Topics In Action Research"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Prepares students to undertake action research in classrooms and other learning contexts. The course considers the literatures of action research and teacher research as well as research methods appropriate to a focus on improving the quality of learning. Ethical issues unique to action research are also considered. Winter; J. Kirby.", 
-        "subject": "EDUC", 
-        "number": "894", 
-        "title": "Topics In Action Research"
     }
 }

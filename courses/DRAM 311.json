@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The history and theory of theatre conceived for audiences of young people. Students will read a variety of plays intended for young audiences and consider the social and artistic issues associated with various dramatic and theatrical techniques.", 
+        "number": "311", 
+        "subject": "DRAM", 
+        "title": "Introduction to Theatre for Young People"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 and (registration in a DRAM Major or Medial Plan, or COCA-CODR Sub-Plan, or STSC Specialization Plan) and (a GPA of 2.6 in DRAM) or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The history and theory of theatre conceived for audiences of young people. Students will read a variety of plays intended for young audiences and consider the social and artistic issues associated with various dramatic and theatrical techniques.", 
-        "subject": "DRAM", 
-        "number": "311", 
-        "title": "Introduction to Theatre for Young People"
     }
 }

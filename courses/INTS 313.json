@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course will offer a unique opportunity to study a special topic in Modern European Studies. Topics will vary each term, and the course may not be offered every year.\r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader International Study Centre, Herstmonceux.", 
+        "number": "313", 
+        "subject": "INTS", 
+        "title": "Seminar in Modern European Studies II"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will offer a unique opportunity to study a special topic in Modern European Studies. Topics will vary each term, and the course may not be offered every year.\r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader International Study Centre, Herstmonceux.", 
-        "subject": "INTS", 
-        "number": "313", 
-        "title": "Seminar in Modern European Studies II"
     }
 }

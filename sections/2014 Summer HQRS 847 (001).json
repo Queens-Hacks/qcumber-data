@@ -1,24 +1,24 @@
 {
+    "_unique": "001-SEM (2250)", 
     "basic": {
         "class_num": "2250", 
-        "subject": "HQRS", 
-        "status": "Closed", 
         "course": "847", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "HQRS", 
         "type": "SEM", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (2250)", 
     "classes": [
         {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
         }
     ]
 }

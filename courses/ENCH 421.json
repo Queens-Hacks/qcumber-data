@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Modern spectroscopic methods for the structural and electronic characterisation of molecules will be discussed, including: NMR, X-ray and synchrontron-based spectroscopies, laser spectroscopy, surface spectroscopic methods and scanning probe methods.", 
+        "number": "421", 
+        "subject": "ENCH", 
+        "title": "Adv. Meth. Physical Chem."
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQ: CHEM 313 or ENCH 346 or CHEM 346 and registered in BSCE", 
-        "CEAB": {
-            "Basic Sci": 36, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Modern spectroscopic methods for the structural and electronic characterisation of molecules will be discussed, including: NMR, X-ray and synchrontron-based spectroscopies, laser spectroscopy, surface spectroscopic methods and scanning probe methods.", 
-        "subject": "ENCH", 
-        "number": "421", 
-        "title": "Adv. Meth. Physical Chem."
     }
 }

@@ -1,33 +1,33 @@
 {
+    "_unique": "001-LEC (6910)", 
     "basic": {
         "class_num": "6910", 
-        "subject": "FREN", 
-        "status": "Open", 
         "course": "P11", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FREN", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (6910)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T13:00:00", 
             "day_of_week": 1, 
-            "location": "KINGSTON RM108"
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM108", 
+            "start_time": "1900-01-01T13:00:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T13:00:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 3, 
-            "location": "KINGSTON RM108"
+            "end_time": "1900-01-01T13:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM108", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

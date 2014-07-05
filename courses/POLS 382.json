@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course explores feminist questions about the role of social policy in alleviating gender inequalities.\u00a0 Through an intersectional analysis of gender, race and class, this course examines how social policies address poverty, un/employment, immigration and colonialism.\u00a0 Each student will explore one Canadian social policy in detail.", 
+        "number": "382", 
+        "subject": "POLS", 
+        "title": "Gender and Social Policy"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 (12.0 units in POLS at 200-level or above) and (a GPA of 2.0 in all POLS units) or permission of the Dept.\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from GNDS421; POLS318; POLS382; WMNS421.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course explores feminist questions about the role of social policy in alleviating gender inequalities.\u00a0 Through an intersectional analysis of gender, race and class, this course examines how social policies address poverty, un/employment, immigration and colonialism.\u00a0 Each student will explore one Canadian social policy in detail.", 
-        "subject": "POLS", 
-        "number": "382", 
-        "title": "Gender and Social Policy"
     }
 }

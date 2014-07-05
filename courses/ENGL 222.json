@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A survey of women writers from before 1900. Historical focus of course may vary from year to year; for detailed information, consult the Department. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies. When offered as a distance course, it is focused on nineteenth-century women writers in English.", 
+        "number": "222", 
+        "subject": "ENGL", 
+        "title": "Selected Women Writers I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 A grade of C in ENGL100 (or ENGL110) or registration in a GNDS plan", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A survey of women writers from before 1900. Historical focus of course may vary from year to year; for detailed information, consult the Department. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies. When offered as a distance course, it is focused on nineteenth-century women writers in English.", 
-        "subject": "ENGL", 
-        "number": "222", 
-        "title": "Selected Women Writers I"
     }
 }

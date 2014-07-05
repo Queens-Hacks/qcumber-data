@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Primary-Junior Consecutive candidates who do not choose a FOCI course for their elective must register in FOCI 000. The topic of exploration for the Alternative Practicum should be consistent with the EDST course or FOUN course, or a topic addressed in PROF 190 or PROF 150. The FOCI 000 advisor needs to approve the topic of exploration and must confirm the intended location of the Alternative Practicum. Candidates in FOCI 000 will be assigned time for either in-class discussions of the Alternative Practicum or for office hours with the FOCI 000 advisor.", 
+        "number": "P00B", 
+        "subject": "FOCI", 
+        "title": "Guidance for the Alt Practicum"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Restricted to PJ Consecutive", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Primary-Junior Consecutive candidates who do not choose a FOCI course for their elective must register in FOCI 000. The topic of exploration for the Alternative Practicum should be consistent with the EDST course or FOUN course, or a topic addressed in PROF 190 or PROF 150. The FOCI 000 advisor needs to approve the topic of exploration and must confirm the intended location of the Alternative Practicum. Candidates in FOCI 000 will be assigned time for either in-class discussions of the Alternative Practicum or for office hours with the FOCI 000 advisor.", 
-        "subject": "FOCI", 
-        "number": "P00B", 
-        "title": "Guidance for the Alt Practicum"
     }
 }

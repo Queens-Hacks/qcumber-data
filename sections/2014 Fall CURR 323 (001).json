@@ -1,51 +1,51 @@
 {
+    "_unique": "001-LEC (7226)", 
     "basic": {
         "class_num": "7226", 
-        "subject": "CURR", 
-        "status": "Open", 
         "course": "323", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CURR", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (7226)", 
     "classes": [
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A240"
-        }, 
-        {
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A240", 
+            "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A240"
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
-            "instructors": [], 
+            "day_of_week": 2, 
             "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A240", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A240"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A240", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A240"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A240", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

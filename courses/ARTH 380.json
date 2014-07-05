@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Instruction in Venice based on daily study visits to the Venice Biennale and sites of display for modern and contemporary art, such as the Peggy Guggenheim and Francois Pinault collections.\r\nNOTE\u00a0\u00a0\u00a0 Costs of travel and accommodation abroad must be paid by the student. Consult the Department of Art for the actual costs involved. Estimated cost: Room and board $4500, Travel $1200.", 
+        "number": "380", 
+        "subject": "ARTH", 
+        "title": "Venice and Its Biennale:\u00a0 The Display of Contemporary Art and Culture in a Historic City"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 6.0 units in ARTH.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Instruction in Venice based on daily study visits to the Venice Biennale and sites of display for modern and contemporary art, such as the Peggy Guggenheim and Francois Pinault collections.\r\nNOTE\u00a0\u00a0\u00a0 Costs of travel and accommodation abroad must be paid by the student. Consult the Department of Art for the actual costs involved. Estimated cost: Room and board $4500, Travel $1200.", 
-        "subject": "ARTH", 
-        "number": "380", 
-        "title": "Venice and Its Biennale:\u00a0 The Display of Contemporary Art and Culture in a Historic City"
     }
 }

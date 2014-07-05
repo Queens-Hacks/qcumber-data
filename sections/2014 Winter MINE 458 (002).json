@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (6656)", 
     "basic": {
         "class_num": "6656", 
-        "subject": "MINE", 
-        "status": "Closed", 
         "course": "458", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "MINE", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (6656)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Kelebek, Sadan"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "GOODWIN RM120", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 2, 
-            "location": "GOODWIN RM120"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

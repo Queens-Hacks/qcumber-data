@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A regional examination of how economic, political, cultural, and environmental factors shape relationships between land and people in Canada. Emphasis on geographical patterns of development and on the analytical and historical roots of public policy.", 
+        "number": "250", 
+        "subject": "GPHY", 
+        "title": "The Geography of Canada"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of GPHY101 or GPHY102 or permission of the department", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A regional examination of how economic, political, cultural, and environmental factors shape relationships between land and people in Canada. Emphasis on geographical patterns of development and on the analytical and historical roots of public policy.", 
-        "subject": "GPHY", 
-        "number": "250", 
-        "title": "The Geography of Canada"
     }
 }

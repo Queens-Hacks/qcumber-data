@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course is intended for students at both the Masters and\r\nDoctoral levels who already have a good background in fundamental topics related to their research or\r\ncourse-based programs of study, and who are interested in broadening their exposure to other subject areas\r\nof mining that are not offered through existing graduate courses. Topics will focus on specific technical,\r\nenvironmental, health and safety, socio-economic, governance or sustainability issues or challenges related\r\nto mineral resource development. The course will be presented through lectures, seminar presentations,\r\nopen classroom discussion and directed study. The specific course content to be taught to students will be\r\nposted in writing at the beginning of each term in which this course will be given. Marking for the course\r\nwill be assessed on the basis of student assignments, written reports and classroom presentations.", 
+        "number": "861", 
+        "subject": "MINE", 
+        "title": "Selected Topics in Mining Engineering II"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Project": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course is intended for students at both the Masters and\r\nDoctoral levels who already have a good background in fundamental topics related to their research or\r\ncourse-based programs of study, and who are interested in broadening their exposure to other subject areas\r\nof mining that are not offered through existing graduate courses. Topics will focus on specific technical,\r\nenvironmental, health and safety, socio-economic, governance or sustainability issues or challenges related\r\nto mineral resource development. The course will be presented through lectures, seminar presentations,\r\nopen classroom discussion and directed study. The specific course content to be taught to students will be\r\nposted in writing at the beginning of each term in which this course will be given. Marking for the course\r\nwill be assessed on the basis of student assignments, written reports and classroom presentations.", 
-        "subject": "MINE", 
-        "number": "861", 
-        "title": "Selected Topics in Mining Engineering II"
     }
 }

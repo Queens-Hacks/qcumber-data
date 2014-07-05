@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course examines the theory and practice of HR management in the public sector, the course will include contemporary developments in human resource management and their applicability to the public sector.\u00a0 Topics may include; principles of public sector human resource management; defining distinctive characteristics of public sector HR; key HR policies and practices; the impact of restructuring; HR issues in the context of managing change.\u00a0 The course will cover human resource management policies and practices in the broader public sector, including the public service, education, health, and municipal services.", 
+        "number": "871", 
+        "subject": "MIR", 
+        "title": "Human Resources Management"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines the theory and practice of HR management in the public sector, the course will include contemporary developments in human resource management and their applicability to the public sector.\u00a0 Topics may include; principles of public sector human resource management; defining distinctive characteristics of public sector HR; key HR policies and practices; the impact of restructuring; HR issues in the context of managing change.\u00a0 The course will cover human resource management policies and practices in the broader public sector, including the public service, education, health, and municipal services.", 
-        "subject": "MIR", 
-        "number": "871", 
-        "title": "Human Resources Management"
     }
 }

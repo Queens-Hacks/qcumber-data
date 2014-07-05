@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of the origins of modern economic growth concentrating on the industrial revolution in Britain and the prior developments leading up to it. Some attention is directed to the early followers of the changes initiated in Britain.", 
+        "number": "231", 
+        "subject": "ECON", 
+        "title": "Emergence of the Modern Industrial Economy"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ECON110 OR ECON111", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of the origins of modern economic growth concentrating on the industrial revolution in Britain and the prior developments leading up to it. Some attention is directed to the early followers of the changes initiated in Britain.", 
-        "subject": "ECON", 
-        "number": "231", 
-        "title": "Emergence of the Modern Industrial Economy"
     }
 }

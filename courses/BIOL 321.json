@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An evolutionary approach to the study of animal behaviour. This course explores processes and patterns in behaviour, with emphasis on perception, communication, foraging, spacing, reproduction and social behaviour in a variety of animals. Methods of studying and analyzing behaviour are explored through laboratory exercises.", 
+        "number": "321", 
+        "subject": "BIOL", 
+        "title": "Animal Behaviour"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 BIOL202.\r\nCorequisite\u00a0\u00a0\u00a0\u00a0 6.0 units in BIOL at the 200 level.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An evolutionary approach to the study of animal behaviour. This course explores processes and patterns in behaviour, with emphasis on perception, communication, foraging, spacing, reproduction and social behaviour in a variety of animals. Methods of studying and analyzing behaviour are explored through laboratory exercises.", 
-        "subject": "BIOL", 
-        "number": "321", 
-        "title": "Animal Behaviour"
     }
 }

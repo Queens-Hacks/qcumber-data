@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Topics covered include central nervous system stimulants and depressants, narcotics, alcohol, cardiovascular agents, contraceptives, environmental toxicants, mechanism of drug action and disposition, antibiotics, drugs used in sports, over-the-counter drugs, food additives, and vitamins.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Biology.", 
+        "number": "100", 
+        "subject": "PHAR", 
+        "title": "Introductory Pharmacology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "EXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from PHAR 100/3.0; PHAR 230/3.0. \r\nONE-WAY EXCLUSION\u00a0\u00a0\u00a0 May not be taken with or after: PHAR 340/3.0; PHAR 450/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topics covered include central nervous system stimulants and depressants, narcotics, alcohol, cardiovascular agents, contraceptives, environmental toxicants, mechanism of drug action and disposition, antibiotics, drugs used in sports, over-the-counter drugs, food additives, and vitamins.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Biology.", 
-        "subject": "PHAR", 
-        "number": "100", 
-        "title": "Introductory Pharmacology"
     }
 }

@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "The course examines how domestic and international politics intersect to produce transition processes in contemporary \"Third Wave democracies\" and how national and global forces continue to shape political development in the post-transition period.", 
+        "number": "848", 
+        "subject": "POLS", 
+        "title": "Democracy And Globalization"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course examines how domestic and international politics intersect to produce transition processes in contemporary \"Third Wave democracies\" and how national and global forces continue to shape political development in the post-transition period.", 
-        "subject": "POLS", 
-        "number": "848", 
-        "title": "Democracy And Globalization"
     }
 }

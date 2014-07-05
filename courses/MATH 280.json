@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Limits, continuity, C1 and linear approximations of functions of several variables. Multiple integrals and Jacobians. Line and surface integrals. The theorems of Green, Stokes, and Gauss.", 
+        "number": "280", 
+        "subject": "MATH", 
+        "title": "Advanced Calculus"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH110 or MATH111 or MATH112) and (MATH120 or MATH121 or MATH122 or MATH124).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from MATH221; MATH227; MATH280.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Limits, continuity, C1 and linear approximations of functions of several variables. Multiple integrals and Jacobians. Line and surface integrals. The theorems of Green, Stokes, and Gauss.", 
-        "subject": "MATH", 
-        "number": "280", 
-        "title": "Advanced Calculus"
     }
 }

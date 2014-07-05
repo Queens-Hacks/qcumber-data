@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Topics include: types of geosynthetics and manufacturing processes; properties and test methods; methods of analysis and design for geosynthetics used for separation, filtration, soil reinforcement, erosion control and liquid/hazardous waste containment. Held at Queen's or RMC depending on enrolment. Three term-hours, lectures.\u00a0NOTE: This is a joint course with RMC Civil Engineering Department.\u00a0\u00a0", 
+        "number": "847", 
+        "subject": "CIVL", 
+        "title": "Geosynthetics In Geotech. Engr"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topics include: types of geosynthetics and manufacturing processes; properties and test methods; methods of analysis and design for geosynthetics used for separation, filtration, soil reinforcement, erosion control and liquid/hazardous waste containment. Held at Queen's or RMC depending on enrolment. Three term-hours, lectures.\u00a0NOTE: This is a joint course with RMC Civil Engineering Department.\u00a0\u00a0", 
-        "subject": "CIVL", 
-        "number": "847", 
-        "title": "Geosynthetics In Geotech. Engr"
     }
 }

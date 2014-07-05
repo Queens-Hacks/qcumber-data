@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides a general introduction to the institutions and politics of the electoral process in the United States. The course integrates literature on the electoral system (including the system of primary elections), campaign financing, political parties, voting behaviour, political sociology, and political communication.", 
+        "number": "230", 
+        "subject": "POLS", 
+        "title": "American Elections"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite: POLS 110", 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides a general introduction to the institutions and politics of the electoral process in the United States. The course integrates literature on the electoral system (including the system of primary elections), campaign financing, political parties, voting behaviour, political sociology, and political communication.", 
-        "subject": "POLS", 
-        "number": "230", 
-        "title": "American Elections"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to the multi-faceted history and cultural diversity of North Africa and Southwest Asia, a region stretching from Morocco to Afghanistan. Using a variety of sources including historical documents, films, music and literature, the course explores the social coordinates, political dynamics, culture and chronology which are necessary to understand modern events (from WWI) and contemporary conflicts.", 
+        "number": "267", 
+        "subject": "HIST", 
+        "title": "Modern Middle East"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the multi-faceted history and cultural diversity of North Africa and Southwest Asia, a region stretching from Morocco to Afghanistan. Using a variety of sources including historical documents, films, music and literature, the course explores the social coordinates, political dynamics, culture and chronology which are necessary to understand modern events (from WWI) and contemporary conflicts.", 
-        "subject": "HIST", 
-        "number": "267", 
-        "title": "Modern Middle East"
     }
 }

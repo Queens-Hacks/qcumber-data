@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (6652)", 
     "basic": {
         "class_num": "6652", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "501", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (6652)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Bendena, William George"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BIOSCI RM3112", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 5, 
-            "location": "BIOSCI RM3112"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

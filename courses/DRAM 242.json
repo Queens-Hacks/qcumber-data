@@ -1,28 +1,28 @@
 {
+    "basic": {
+        "description": "A theoretical and practical introduction to theatrical production including stage management; various elements of scenery design and construction; costume and properties; lighting and sound systems and equipment. Seventy-two additional laboratory hours required on department productions.", 
+        "number": "242", 
+        "subject": "DRAM", 
+        "title": "Introduction To Theatre Production"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Practicum": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of B- in DRAM240.\r\nCorequisite\u00a0\u00a0\u00a0 DRAM200.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from DRAM240; DRAM242; DRAM245.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall, Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A theoretical and practical introduction to theatrical production including stage management; various elements of scenery design and construction; costume and properties; lighting and sound systems and equipment. Seventy-two additional laboratory hours required on department productions.", 
-        "subject": "DRAM", 
-        "number": "242", 
-        "title": "Introduction To Theatre Production"
     }
 }

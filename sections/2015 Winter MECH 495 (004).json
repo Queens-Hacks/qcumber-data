@@ -1,37 +1,37 @@
 {
+    "_unique": "004-LAB (3766)", 
     "basic": {
         "class_num": "3766", 
-        "subject": "MECH", 
-        "status": "Open", 
         "course": "495", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "004", 
+        "status": "Open", 
+        "subject": "MECH", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "004-LAB (3766)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Bryant, Timothy J"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM313A", 
             "start_time": "1900-01-01T09:30:00", 
-            "day_of_week": 5, 
-            "location": "BEAMISH-MUNRO RM313A"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Bryant, Timothy J"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM313B", 
             "start_time": "1900-01-01T09:30:00", 
-            "day_of_week": 5, 
-            "location": "BEAMISH-MUNRO RM313B"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

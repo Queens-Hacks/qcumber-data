@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Basic principles of litho- and aqueous-geochemistry. New principles involving stable and radiogenic isotope geochemistry will follow. The hydrologic cycle will be examined from a geochemical perspective, leading to discussion of hydrothermal fluids and ore deposits associated with hydrothermal alteration. Phase equilibrium, mineral stability, oxidation-reduction reactions, isotope geochemistry, and other characteristics of hydrothermal fluids. The origin and chemical compositions of magmatic and metamorphic fluids. (Portions of course given jointly with GEOL-465*.)", 
+        "number": "839", 
+        "subject": "GEOL", 
+        "title": "Geochemistry of Fluids Associated with Economic Ore Deposits"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Basic principles of litho- and aqueous-geochemistry. New principles involving stable and radiogenic isotope geochemistry will follow. The hydrologic cycle will be examined from a geochemical perspective, leading to discussion of hydrothermal fluids and ore deposits associated with hydrothermal alteration. Phase equilibrium, mineral stability, oxidation-reduction reactions, isotope geochemistry, and other characteristics of hydrothermal fluids. The origin and chemical compositions of magmatic and metamorphic fluids. (Portions of course given jointly with GEOL-465*.)", 
-        "subject": "GEOL", 
-        "number": "839", 
-        "title": "Geochemistry of Fluids Associated with Economic Ore Deposits"
     }
 }

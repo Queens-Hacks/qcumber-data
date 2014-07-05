@@ -1,24 +1,24 @@
 {
+    "_unique": "802-LAB (1649)", 
     "basic": {
         "class_num": "1649", 
-        "subject": "APSC", 
-        "status": "Open", 
         "course": "100A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "802", 
+        "status": "Open", 
+        "subject": "APSC", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "802-LAB (1649)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

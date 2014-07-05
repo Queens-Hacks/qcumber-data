@@ -1,59 +1,59 @@
 {
+    "_unique": "008-LEC (7265)", 
     "basic": {
         "class_num": "7265", 
-        "subject": "CURR", 
-        "status": "Open", 
         "course": "355A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "008", 
+        "status": "Open", 
+        "subject": "CURR", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "008-LEC (7265)", 
     "classes": [
         {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Deir, Paul Edward"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "DUNCAN MCARTHUR RM A227W", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A227E"
-        }, 
-        {
             "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
-            "instructors": [
-                "Deir, Paul Edward"
-            ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A227W"
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Deir, Paul Edward"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "DUNCAN MCARTHUR RM A227E", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A227E"
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Deir, Paul Edward"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "DUNCAN MCARTHUR RM A227W", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A227W"
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

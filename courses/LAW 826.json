@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course examines the law, philosophy and practice of sentencing in Canada. Attention is paid to the procedural and evidentiary aspects of sentencing, sentencing options and specific sentencing issues (murder, dangerous offenders, young offenders, native offenders). (To be offered jointly with LAW-416.) Three term-hours; Fall. Instructor TBA.", 
+        "number": "826", 
+        "subject": "LAW", 
+        "title": "Sentencing And Penal Policy"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines the law, philosophy and practice of sentencing in Canada. Attention is paid to the procedural and evidentiary aspects of sentencing, sentencing options and specific sentencing issues (murder, dangerous offenders, young offenders, native offenders). (To be offered jointly with LAW-416.) Three term-hours; Fall. Instructor TBA.", 
-        "subject": "LAW", 
-        "number": "826", 
-        "title": "Sentencing And Penal Policy"
     }
 }

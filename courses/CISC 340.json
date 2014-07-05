@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Combinational circuits; sequential circuits; digital systems design; micro-programming; bus structures; data communications; interface design; microprocessor systems.", 
+        "number": "340", 
+        "subject": "CISC", 
+        "title": "Digital Systems"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ENG Requisites: Exclusions:\u00a0 Elec272 and ELEC373.\u00a0 \r\nArts & Sci Requisites:\u00a0 prereq of CISC221", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Combinational circuits; sequential circuits; digital systems design; micro-programming; bus structures; data communications; interface design; microprocessor systems.", 
-        "subject": "CISC", 
-        "number": "340", 
-        "title": "Digital Systems"
     }
 }

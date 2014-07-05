@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course will examine environmental policies in urban and regional contexts. Tools used by policy makers (e.g. risk assessment and management, quality indices, evaluation, impact assessment, mitigation and compensation) and the constraints they encounter (e.g. uncertainty, legal and administrative constraints and financial costs) will be reviewed. Substantive areas to be examined will be focused on the relationship between the built environment and the quality of air and water as well as the use of land resources. Specific cases will vary from year to year. The scope of policies and readings will range from local to global; integration will be stressed.\u00a0", 
+        "number": "851", 
+        "subject": "SURP", 
+        "title": "Environmental Policy"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 36, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 36
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will examine environmental policies in urban and regional contexts. Tools used by policy makers (e.g. risk assessment and management, quality indices, evaluation, impact assessment, mitigation and compensation) and the constraints they encounter (e.g. uncertainty, legal and administrative constraints and financial costs) will be reviewed. Substantive areas to be examined will be focused on the relationship between the built environment and the quality of air and water as well as the use of land resources. Specific cases will vary from year to year. The scope of policies and readings will range from local to global; integration will be stressed.\u00a0", 
-        "subject": "SURP", 
-        "number": "851", 
-        "title": "Environmental Policy"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "004-LAB (5469)", 
     "basic": {
         "class_num": "5469", 
-        "subject": "NURS", 
-        "status": "Closed", 
         "course": "206", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "004", 
+        "status": "Closed", 
+        "subject": "NURS", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "004-LAB (5469)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:00:00", 
             "instructors": [
                 "Machan, Hilary"
             ], 
-            "end_time": "1900-01-01T14:00:00", 
+            "location": "CATARAQUI\u00a0 RM221 SIM LAB", 
             "start_time": "1900-01-01T12:00:00", 
-            "day_of_week": 1, 
-            "location": "CATARAQUI\u00a0 RM221 SIM LAB"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Introduces basic theoretical concepts of development studies, the history of global inequality, and short histories of alternative development strategies. Case studies of Canada\u00bfs ties to the so-called third world will include missionaries, military, business, and aid. Canadian colonialism over First Nations peoples will introduce basic issues in Aboriginal Studies. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "100A", 
+        "subject": "DEVS", 
+        "title": "Canada and the \"Third World\""
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Introduces basic theoretical concepts of development studies, the history of global inequality, and short histories of alternative development strategies. Case studies of Canada\u00bfs ties to the so-called third world will include missionaries, military, business, and aid. Canadian colonialism over First Nations peoples will introduce basic issues in Aboriginal Studies. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "DEVS", 
-        "number": "100A", 
-        "title": "Canada and the \"Third World\""
     }
 }

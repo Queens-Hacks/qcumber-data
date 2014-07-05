@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (6088)", 
     "basic": {
         "class_num": "6088", 
-        "subject": "PSYC", 
-        "status": "Open", 
         "course": "829", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PSYC", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (6088)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:30:00", 
             "instructors": [
                 "Minnes, Patricia M"
             ], 
-            "end_time": "1900-01-01T16:30:00", 
+            "location": "KINGSTON RM310", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 1, 
-            "location": "KINGSTON RM310"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

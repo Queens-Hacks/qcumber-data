@@ -1,24 +1,24 @@
 {
+    "_unique": "005-TUT (7929)", 
     "basic": {
         "class_num": "7929", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "369", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "005", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "005-TUT (7929)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T12:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 1, 
-            "location": "BIOSCI RM2111"
+            "end_time": "1900-01-01T12:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2111", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

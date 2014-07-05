@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Everyday modern Hebrew communication and comprehension. Participation in conversations; student presentations.", 
+        "number": "390", 
+        "subject": "HEBR", 
+        "title": "Conversational Hebrew"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Everyday modern Hebrew communication and comprehension. Participation in conversations; student presentations.", 
-        "subject": "HEBR", 
-        "number": "390", 
-        "title": "Conversational Hebrew"
     }
 }

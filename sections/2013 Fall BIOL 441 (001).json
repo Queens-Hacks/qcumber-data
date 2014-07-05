@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (2113)", 
     "basic": {
         "class_num": "2113", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "441", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (2113)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [
-                "Walker, Virginia Katrina"
-            ], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 1, 
-            "location": "BIOSCI RM1120"
-        }, 
-        {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "end_time": "1900-01-01T09:30:00", 
             "instructors": [
                 "Walker, Virginia Katrina"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:30:00", 
+            "location": "BIOSCI RM1120", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "BIOSCI RM1120"
-        }, 
-        {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Walker, Virginia Katrina"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
+            "location": "BIOSCI RM1120", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "BIOSCI RM1120"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Walker, Virginia Katrina"
+            ], 
+            "location": "BIOSCI RM1120", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

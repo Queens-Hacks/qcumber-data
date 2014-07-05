@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An investigation into different theoretical perspectives on the issue of `identity\u00bf and the import of these perspectives for the `politics of identity\u00bf. Theories of gender, race, class, nation, and sexual orientation, from a variety of perspectives, including Marxist, feminist, postmodern, and psychoanalytic theory.", 
+        "number": "456", 
+        "subject": "POLS", 
+        "title": "Theories of Identity Politics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An investigation into different theoretical perspectives on the issue of `identity\u00bf and the import of these perspectives for the `politics of identity\u00bf. Theories of gender, race, class, nation, and sexual orientation, from a variety of perspectives, including Marxist, feminist, postmodern, and psychoanalytic theory.", 
-        "subject": "POLS", 
-        "number": "456", 
-        "title": "Theories of Identity Politics"
     }
 }

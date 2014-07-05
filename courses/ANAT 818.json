@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A contemporary and comprehensive assessment of the neurochemical features of the mammalian nervous system as they relate to development, function and disease. Winter term; 3 hour lecture/seminar. Offered alternate years. M.D. Kawaja.\u00a0 Offered 2010-2011.\u00a0", 
+        "number": "818", 
+        "subject": "ANAT", 
+        "title": "Chemical Neuroanatomy"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A contemporary and comprehensive assessment of the neurochemical features of the mammalian nervous system as they relate to development, function and disease. Winter term; 3 hour lecture/seminar. Offered alternate years. M.D. Kawaja.\u00a0 Offered 2010-2011.\u00a0", 
-        "subject": "ANAT", 
-        "number": "818", 
-        "title": "Chemical Neuroanatomy"
     }
 }

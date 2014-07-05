@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The practical study of teaching techniques of standard musical repertoire (solo, chamber, orchestral, operatic, etc.) of a particular instrument. The course requires student performances of representative musical works. The instruments studied will rotate from year to year as resources permit.", 
+        "number": "328B", 
+        "subject": "MUSC", 
+        "title": "Applied Pedagogy I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
-        "typically_offered": "Winter", 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (MUSC 120/6.0 or MUSC 121/6.0 or MUSC 124/6.0) and permission of the School.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The practical study of teaching techniques of standard musical repertoire (solo, chamber, orchestral, operatic, etc.) of a particular instrument. The course requires student performances of representative musical works. The instruments studied will rotate from year to year as resources permit.", 
-        "subject": "MUSC", 
-        "number": "328B", 
-        "title": "Applied Pedagogy I"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "In a seminar format, selected themes in the geography of health and health care are examined. Epidemiological and social theories, analytic methods, and planning and policy implications of health and health care are emphasized. Three term-hours.", 
+        "number": "887", 
+        "subject": "GPHY", 
+        "title": "Gphy. Of Health & Health Care"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "In a seminar format, selected themes in the geography of health and health care are examined. Epidemiological and social theories, analytic methods, and planning and policy implications of health and health care are emphasized. Three term-hours.", 
-        "subject": "GPHY", 
-        "number": "887", 
-        "title": "Gphy. Of Health & Health Care"
     }
 }

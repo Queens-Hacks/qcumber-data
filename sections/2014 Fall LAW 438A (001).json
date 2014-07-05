@@ -1,24 +1,24 @@
 {
+    "_unique": "001-SEM (1045)", 
     "basic": {
         "class_num": "1045", 
-        "subject": "LAW", 
-        "status": "Closed", 
         "course": "438A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (1045)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-02T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 1, 
-            "location": "MACDONALD RM201"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "MACDONALD RM201", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00"
         }
     ]
 }

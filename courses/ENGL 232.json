@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "For detailed information, consult the Department.", 
+        "number": "232", 
+        "subject": "ENGL", 
+        "title": "Special Topics In Genre II"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C in 6.0 units in ENGL100 or ENGL110", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "For detailed information, consult the Department.", 
-        "subject": "ENGL", 
-        "number": "232", 
-        "title": "Special Topics In Genre II"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Examines the use of computers and related technology in K-12 classrooms.\u00a0 A range of software applications and their uses will be addressed.\u00a0 Data management programs (e.g. spreadsheets and databases), creativity software (e.g. idea mapping, painting, drawing and multimedia authoring software), Internet-related applications (e.g. World Wide Web search engines, website development software, computer simulations, and computer conferencing systems), adaptive technology, and basic programming software.\u00a0 Students will develop a critical perspective on the use of computers and related technology in teaching and learning.", 
+        "number": "445", 
+        "subject": "EDST", 
+        "title": "Using ICT in K-12 Education"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Examines the use of computers and related technology in K-12 classrooms.\u00a0 A range of software applications and their uses will be addressed.\u00a0 Data management programs (e.g. spreadsheets and databases), creativity software (e.g. idea mapping, painting, drawing and multimedia authoring software), Internet-related applications (e.g. World Wide Web search engines, website development software, computer simulations, and computer conferencing systems), adaptive technology, and basic programming software.\u00a0 Students will develop a critical perspective on the use of computers and related technology in teaching and learning.", 
-        "subject": "EDST", 
-        "number": "445", 
-        "title": "Using ICT in K-12 Education"
     }
 }

@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "An introduction to the concepts, theories and methods of sociological enquiry, and their application to the analysis of Canadian society.", 
+        "number": "122", 
+        "subject": "SOCY", 
+        "title": "Introduction to Sociology"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the concepts, theories and methods of sociological enquiry, and their application to the analysis of Canadian society.", 
-        "subject": "SOCY", 
-        "number": "122", 
-        "title": "Introduction to Sociology"
     }
 }

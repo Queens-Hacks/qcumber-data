@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "319B", 
+        "subject": "CURR", 
+        "title": "Environmental Science In\u00a0 Sr"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CURR", 
-        "number": "319B", 
-        "title": "Environmental Science In\u00a0 Sr"
     }
 }

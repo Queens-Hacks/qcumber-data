@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An intensive study of Roman historical writings, with readings in Sallust, Livy and Tacitus. B. J. Kavanagh", 
+        "number": "814", 
+        "subject": "LATN", 
+        "title": "Roman Historians"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An intensive study of Roman historical writings, with readings in Sallust, Livy and Tacitus. B. J. Kavanagh", 
-        "subject": "LATN", 
-        "number": "814", 
-        "title": "Roman Historians"
     }
 }

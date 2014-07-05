@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (2902)", 
     "basic": {
         "class_num": "2902", 
-        "subject": "PT", 
-        "status": "Open", 
         "course": "854", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PT", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2902)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-22T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T10:00:00", 
             "instructors": [
                 "Booth, Randal Allen"
             ], 
-            "end_time": "1900-01-01T10:00:00", 
+            "location": "BOTTER RM B143", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "BOTTER RM B143"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-22T00:00:00"
         }, 
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-22T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Booth, Randal Allen"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "ELLIS RM321", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 4, 
-            "location": "ELLIS RM321"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-22T00:00:00"
         }
     ]
 }

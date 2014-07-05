@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Queen's Legal Aid provides legal assistance to low-income area residents and to students at Queen's University and St. Lawrence College.\u00a0 It also provides litigation experience before various decision-makers to law students, helping them develop skill and confidence as legal professionals.\u00a0 Operating largely as a poverty law clinic, Queen's Legal Aid typically assists with criminal and quasi-criminal offences, landlord/tenant disputes, creditor/debtor matters, employment claims and income maintenance problems.\u00a0 \r\nUnder close supervision by clinic lawyers, law students interview and counsel clients, research legal issues, draft legal memoranda, provide legal opinions, prepare pleadings, negotiate settlements and participate in trials before criminal and civil courts, as well as hearings before administrative tribunals.\u00a0 Approximately eighty students work on clients' files during the academic year.\u00a0 Eighteen can register for Clinical Litigation Practice (LAW-590) and carry significant client service responsibilities for academic credit.\u00a0 Credit students have weekly classes involving lectures, exercises and seminars.\u00a0 Topics covered include: advocacy in trials and hearings, interviewing and counselling, file management, legal ethics, legal research and writing, negotiation and settlement, office procedures, professional responsibility and solicitor/client relationships.\u00a0 Students in LAW-590 are expected to participate in weekly classes, present a short seminar and also attend weekly meetings with colleagues and weekly meetings with clinic lawyers.Students interested in this course should refer to information about the clinic in the Queen's Legal Aid chapter, and discuss any potential conflict of interest with the senior clinic lawyer. RECOMMENDED:LAW-320 Evidence, LAW-404 Criminal Procedure or LAW-225 Civil Procedure", 
+        "number": "590A", 
+        "subject": "LAW", 
+        "title": "Clinical Litigation Practice"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Exclusion:\u00a0 Maximum of 3.00 units from LAW521 or LAW590.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Queen's Legal Aid provides legal assistance to low-income area residents and to students at Queen's University and St. Lawrence College.\u00a0 It also provides litigation experience before various decision-makers to law students, helping them develop skill and confidence as legal professionals.\u00a0 Operating largely as a poverty law clinic, Queen's Legal Aid typically assists with criminal and quasi-criminal offences, landlord/tenant disputes, creditor/debtor matters, employment claims and income maintenance problems.\u00a0 \r\nUnder close supervision by clinic lawyers, law students interview and counsel clients, research legal issues, draft legal memoranda, provide legal opinions, prepare pleadings, negotiate settlements and participate in trials before criminal and civil courts, as well as hearings before administrative tribunals.\u00a0 Approximately eighty students work on clients' files during the academic year.\u00a0 Eighteen can register for Clinical Litigation Practice (LAW-590) and carry significant client service responsibilities for academic credit.\u00a0 Credit students have weekly classes involving lectures, exercises and seminars.\u00a0 Topics covered include: advocacy in trials and hearings, interviewing and counselling, file management, legal ethics, legal research and writing, negotiation and settlement, office procedures, professional responsibility and solicitor/client relationships.\u00a0 Students in LAW-590 are expected to participate in weekly classes, present a short seminar and also attend weekly meetings with colleagues and weekly meetings with clinic lawyers.Students interested in this course should refer to information about the clinic in the Queen's Legal Aid chapter, and discuss any potential conflict of interest with the senior clinic lawyer. RECOMMENDED:LAW-320 Evidence, LAW-404 Criminal Procedure or LAW-225 Civil Procedure", 
-        "subject": "LAW", 
-        "number": "590A", 
-        "title": "Clinical Litigation Practice"
     }
 }

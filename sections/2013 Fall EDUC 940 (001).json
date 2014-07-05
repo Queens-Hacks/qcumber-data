@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (8483)", 
     "basic": {
         "class_num": "8483", 
-        "subject": "EDUC", 
-        "status": "Open", 
         "course": "940", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "EDUC", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (8483)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T15:00:00", 
             "instructors": [
                 "Klinger, Don Albert"
             ], 
-            "end_time": "1900-01-01T15:00:00", 
+            "location": "DUNCAN MCARTHUR RM A207N", 
             "start_time": "1900-01-01T12:00:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A207N"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T15:00:00", 
             "instructors": [
                 "Klinger, Don Albert"
             ], 
-            "end_time": "1900-01-01T15:00:00", 
+            "location": "DUNCAN MCARTHUR RM A207S", 
             "start_time": "1900-01-01T12:00:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A207S"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

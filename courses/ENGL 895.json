@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Directed study under the guidance of a faculty member in an area of the instructor\u00bfs expertise. Permission of instructor and graduate coordinator in English is required in advance of registration and is granted only under special circumstances. Workload and evaluation for the course must be approved by the graduate coordinator in English to ensure consistency with English graduate course norms. (Available only to students enrolled in the English MA program.)", 
+        "number": "895", 
+        "subject": "ENGL", 
+        "title": "Directed Reading"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Directed study under the guidance of a faculty member in an area of the instructor\u00bfs expertise. Permission of instructor and graduate coordinator in English is required in advance of registration and is granted only under special circumstances. Workload and evaluation for the course must be approved by the graduate coordinator in English to ensure consistency with English graduate course norms. (Available only to students enrolled in the English MA program.)", 
-        "subject": "ENGL", 
-        "number": "895", 
-        "title": "Directed Reading"
     }
 }

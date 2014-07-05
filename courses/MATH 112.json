@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A brief introduction to matrix algebra, linear algebra, and applications. Topics include systems of linear equations, matrix algebra, determinants, the vector spaces R<SUP>n</SUP> and their subspaces, bases, co-ordinates, orthogonalization, linear transformations, eigenvectors, diagonalization of symmetric matrices, quadratic forms.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.", 
+        "number": "112", 
+        "subject": "MATH", 
+        "title": "Introduction to Linear Algebra"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 At least one 4U mathematics course.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH110; MATH111; MATH112", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A brief introduction to matrix algebra, linear algebra, and applications. Topics include systems of linear equations, matrix algebra, determinants, the vector spaces R<SUP>n</SUP> and their subspaces, bases, co-ordinates, orthogonalization, linear transformations, eigenvectors, diagonalization of symmetric matrices, quadratic forms.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.", 
-        "subject": "MATH", 
-        "number": "112", 
-        "title": "Introduction to Linear Algebra"
     }
 }

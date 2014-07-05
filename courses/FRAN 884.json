@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Ne sera pas donn\u00e9 en 2010-2011.", 
+        "number": "884", 
+        "subject": "FRAN", 
+        "title": "\u00c9tudes canadiennes-fran\u00e7aises: La po\u00e9sie"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Ne sera pas donn\u00e9 en 2010-2011.", 
-        "subject": "FRAN", 
-        "number": "884", 
-        "title": "\u00c9tudes canadiennes-fran\u00e7aises: La po\u00e9sie"
     }
 }

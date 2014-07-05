@@ -1,37 +1,37 @@
 {
+    "_unique": "003-LEC (7836)", 
     "basic": {
         "class_num": "7836", 
-        "subject": "CURR", 
-        "status": "Open", 
         "course": "391", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "CURR", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "003-LEC (7836)", 
     "classes": [
         {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Johnston, Aynne"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "DUNCAN MCARTHUR RM A229", 
             "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A229"
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Johnston, Aynne"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "DUNCAN MCARTHUR RM A229", 
             "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A229"
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
         }
     ]
 }

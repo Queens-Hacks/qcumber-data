@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "As documents of personal and collective identity, portraits reflect the ideals and concerns of the people they depict and the contexts in which they circulate. This course explores the impact of portraiture as an art form and a social phenomenon. Course content may focus on one or more artists, media, historical periods or cultural traditions.", 
+        "number": "393", 
+        "subject": "ARTH", 
+        "title": "The Portrait"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of third year standing or above", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "As documents of personal and collective identity, portraits reflect the ideals and concerns of the people they depict and the contexts in which they circulate. This course explores the impact of portraiture as an art form and a social phenomenon. Course content may focus on one or more artists, media, historical periods or cultural traditions.", 
-        "subject": "ARTH", 
-        "number": "393", 
-        "title": "The Portrait"
     }
 }

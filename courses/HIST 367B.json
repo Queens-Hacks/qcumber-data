@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of the recurring dream in European society of a glorious future and of attempts to describe and realize it. The course begins with images of the past and future in Antiquity but focuses extensively on Medieval and Early Modern Europe.", 
+        "number": "367B", 
+        "subject": "HIST", 
+        "title": "Utopian Visions and Movements for a New Society"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "9.00"
-    }, 
-    "basic": {
-        "description": "An examination of the recurring dream in European society of a glorious future and of attempts to describe and realize it. The course begins with images of the past and future in Antiquity but focuses extensively on Medieval and Early Modern Europe.", 
-        "subject": "HIST", 
-        "number": "367B", 
-        "title": "Utopian Visions and Movements for a New Society"
     }
 }

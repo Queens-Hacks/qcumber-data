@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Concepts and issues bearing upon health disciplines concerned with the management and treatment of psychiatric disorders. Areas covered include a review of the major psychiatric disorders and their diagnosis and treatment; the concept and applications of competency, including the uses of remands and fitness to stand trial; civil commitment of the mentally ill, and related issues such as enforced treatment, the so-called right to treatment and confidentiality; the uses and abuses of psychiatric and psychological evidence, and the cross-examination of expert witnesses in these disciplines; and legal and ethical concerns in the representation of mentally disordered clients. (To be offered jointly with LAW-403.)\u00a0 Three term-hours; Fall. L. Hanson.", 
+        "number": "830", 
+        "subject": "LAW", 
+        "title": "Mental Health Law"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Concepts and issues bearing upon health disciplines concerned with the management and treatment of psychiatric disorders. Areas covered include a review of the major psychiatric disorders and their diagnosis and treatment; the concept and applications of competency, including the uses of remands and fitness to stand trial; civil commitment of the mentally ill, and related issues such as enforced treatment, the so-called right to treatment and confidentiality; the uses and abuses of psychiatric and psychological evidence, and the cross-examination of expert witnesses in these disciplines; and legal and ethical concerns in the representation of mentally disordered clients. (To be offered jointly with LAW-403.)\u00a0 Three term-hours; Fall. L. Hanson.", 
-        "subject": "LAW", 
-        "number": "830", 
-        "title": "Mental Health Law"
     }
 }

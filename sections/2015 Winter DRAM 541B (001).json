@@ -1,26 +1,26 @@
 {
+    "_unique": "001-IND (8091)", 
     "basic": {
         "class_num": "8091", 
-        "subject": "DRAM", 
-        "status": "Closed", 
         "course": "541B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "DRAM", 
         "type": "IND", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-IND (8091)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": "1900-01-01T00:00:00", 
             "instructors": [
                 "Fort, Tim W"
             ], 
-            "end_time": "1900-01-01T00:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T00:00:00", 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

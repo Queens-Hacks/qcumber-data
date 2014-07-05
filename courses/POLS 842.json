@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of topics such as economic policy, social movements, parties and elections, women in politics, culture, immigration, Chicano politics, and guerrilla movements and political violence. (Offered jointly with POLS-442*) One 3-hour seminar.", 
+        "number": "842", 
+        "subject": "POLS", 
+        "title": "Topics In Latin Amer. Politics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of topics such as economic policy, social movements, parties and elections, women in politics, culture, immigration, Chicano politics, and guerrilla movements and political violence. (Offered jointly with POLS-442*) One 3-hour seminar.", 
-        "subject": "POLS", 
-        "number": "842", 
-        "title": "Topics In Latin Amer. Politics"
     }
 }

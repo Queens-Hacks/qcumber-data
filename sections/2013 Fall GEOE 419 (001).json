@@ -1,26 +1,26 @@
 {
+    "_unique": "001-FLD (8846)", 
     "basic": {
         "class_num": "8846", 
-        "subject": "GEOE", 
-        "status": "Open", 
         "course": "419", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GEOE", 
         "type": "FLD", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-FLD (8846)", 
     "classes": [
         {
-            "term_end": "2013-09-08T00:00:00", 
-            "term_start": "2013-08-31T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Walton, Gabriel Garwood"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2013-09-08T00:00:00", 
+            "term_start": "2013-08-31T00:00:00"
         }
     ]
 }

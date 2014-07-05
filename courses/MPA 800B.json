@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of the institutions and processes involved in addressing policy problems. While particular attention is given to Canadian governments, the course considers other influences on the decision making process emanating from the third sector and the global environment.", 
+        "number": "800B", 
+        "subject": "MPA", 
+        "title": "Governing Institutions"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of the institutions and processes involved in addressing policy problems. While particular attention is given to Canadian governments, the course considers other influences on the decision making process emanating from the third sector and the global environment.", 
-        "subject": "MPA", 
-        "number": "800B", 
-        "title": "Governing Institutions"
     }
 }

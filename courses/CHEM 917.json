@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course will cover subject areas ranging from the fundamentals of microfluidics and nanofluidics suitable for beginners to the examination of applications of microfluidics for end users. A range of devices will be shown and described with various applications ranging from organic synthesis to biochemical analysis. Class participants will learn fabrication and characterization strategies for microfluidic components as well as fluid manipulation and detection methodologies applied to minute volume fluid samples. Winter. R. Oleschuk.", 
+        "number": "917", 
+        "subject": "CHEM", 
+        "title": "Microfluidics"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "This course will cover subject areas ranging from the fundamentals of microfluidics and nanofluidics suitable for beginners to the examination of applications of microfluidics for end users. A range of devices will be shown and described with various applications ranging from organic synthesis to biochemical analysis. Class participants will learn fabrication and characterization strategies for microfluidic components as well as fluid manipulation and detection methodologies applied to minute volume fluid samples. Winter. R. Oleschuk.", 
-        "subject": "CHEM", 
-        "number": "917", 
-        "title": "Microfluidics"
     }
 }

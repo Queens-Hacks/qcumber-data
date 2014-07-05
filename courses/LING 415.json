@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The aim of this course is to provide students with an understanding of the fundamental concepts and tools of analysis in semantics. Students will learn to recognize and identify different features of word meaning and a variety of semantic relations between words and sentences. The characteristics of logical relations and truth-function semantics and the role these play in the interpretation of words and sentences will be discussed.", 
+        "number": "415", 
+        "subject": "LING", 
+        "title": "Semantics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 6.0 units at the 300 level in LING or (LING100 and level 3 in the COGS-P Plan), or permission of the Department of Languages, Literatures and Cultures.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The aim of this course is to provide students with an understanding of the fundamental concepts and tools of analysis in semantics. Students will learn to recognize and identify different features of word meaning and a variety of semantic relations between words and sentences. The characteristics of logical relations and truth-function semantics and the role these play in the interpretation of words and sentences will be discussed.", 
-        "subject": "LING", 
-        "number": "415", 
-        "title": "Semantics"
     }
 }

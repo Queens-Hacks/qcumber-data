@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of one particular issue or theme in Canadian literature. For detailed information, consult the Department.", 
+        "number": "285", 
+        "subject": "ENGL", 
+        "title": "Issues and Themes in Canadian Literature II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C in 6.0 units in ENGL100 or ENGL110", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of one particular issue or theme in Canadian literature. For detailed information, consult the Department.", 
-        "subject": "ENGL", 
-        "number": "285", 
-        "title": "Issues and Themes in Canadian Literature II"
     }
 }

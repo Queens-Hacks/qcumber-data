@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course covers 8 broad areas of rehabilitation practice including: the Canadian health care system, the rehabilitation profession\u00bfs scopes of practice, professionalism, jurisprudence (legislation and regulation) in rehabilitation, biomedical ethics and ethical issues in rehabilitation, cultural competency in practice, health and disability, and educational theory and its applications in rehabilitation. Topics also include the determinants of health and the world health environment. This framework is to be used by the student as a reference and knowledge base to be accessed throughout their university education and, subsequently, as a foundation for clinical practice.", 
+        "number": "841A", 
+        "subject": "PT", 
+        "title": "Professional Practice"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "This course covers 8 broad areas of rehabilitation practice including: the Canadian health care system, the rehabilitation profession\u00bfs scopes of practice, professionalism, jurisprudence (legislation and regulation) in rehabilitation, biomedical ethics and ethical issues in rehabilitation, cultural competency in practice, health and disability, and educational theory and its applications in rehabilitation. Topics also include the determinants of health and the world health environment. This framework is to be used by the student as a reference and knowledge base to be accessed throughout their university education and, subsequently, as a foundation for clinical practice.", 
-        "subject": "PT", 
-        "number": "841A", 
-        "title": "Professional Practice"
     }
 }

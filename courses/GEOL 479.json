@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Advanced theory and practical considerations for static potential and time-varying electromagnetic fields as applied to near-surface prospecting and site-investigation. Implications of wide-ranging physical responses for technique selection and design, implementation, modelling and interpretation of an extended Earth system. Potential theory, rock physical properties, diffusive electromagnetic signals in the Earth, boundary-value problems, frequency and time-domain field systems, design limitations and advantages. (7/15/0/10/10)~ COURSE DELETED IN 2009/10 ~", 
+        "number": "479", 
+        "subject": "GEOL", 
+        "title": "Appl Geoph: Field&Elecmag Meth"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "(MATH227 AND MATH338) OR (MATH227 AND GEOL319) OR (MATH227 AND MATH334) OR (MATH227 AND GEOL319)", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Advanced theory and practical considerations for static potential and time-varying electromagnetic fields as applied to near-surface prospecting and site-investigation. Implications of wide-ranging physical responses for technique selection and design, implementation, modelling and interpretation of an extended Earth system. Potential theory, rock physical properties, diffusive electromagnetic signals in the Earth, boundary-value problems, frequency and time-domain field systems, design limitations and advantages. (7/15/0/10/10)~ COURSE DELETED IN 2009/10 ~", 
-        "subject": "GEOL", 
-        "number": "479", 
-        "title": "Appl Geoph: Field&Elecmag Meth"
     }
 }

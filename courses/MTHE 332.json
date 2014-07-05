@@ -1,27 +1,27 @@
 {
-    "extra": {
-        "typically_offered": "Winter", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: MTHE 326 or MATH 326 and registered in BSCE.\r\nCOREQ: MTHE 335", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 6, 
-            "Eng Des": 11, 
-            "Eng Sci": 31, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "4.00"
-    }, 
     "basic": {
         "description": "Geometric modelling, including configuration space, tangent bundle, kinetic energy, inertia, and force.\u00a0\u00a0 Euler-Lagrange equations using affine connections.\u00a0\u00a0 The last part of the course develops one of the following three applications:\u00a0 mechanical systems with nonholonomic constraints; control theory for mechanical systems; equilibria and stability.", 
-        "subject": "MTHE", 
         "number": "332", 
+        "subject": "MTHE", 
         "title": "Introduction To Control"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 11, 
+            "Eng Sci": 31, 
+            "Math": 6
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 326 or MATH 326 and registered in BSCE.\r\nCOREQ: MTHE 335", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "4.00"
     }
 }

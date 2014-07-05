@@ -1,1 +1,14 @@
-{"isbn_13": "9781595585196", "isbn_10": "1595585192", "classified_info": "0 classified listings", "new_price": "$17.96", "authors": "Joseph E. Stiglitz", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13507-MPA806-SPSU14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["MPA 806"], "required": true, "new_available": 12, "title": "Mismeasuring Our Lives"}
+{
+    "authors": "Joseph E. Stiglitz", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "MPA 806"
+    ], 
+    "isbn_10": "1595585192", 
+    "isbn_13": "9781595585196", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13507-MPA806-SPSU14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 12, 
+    "new_price": "$17.96", 
+    "required": true, 
+    "title": "Mismeasuring Our Lives"
+}

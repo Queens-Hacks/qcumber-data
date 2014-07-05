@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (1251)", 
     "basic": {
         "class_num": "1251", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "233", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (1251)", 
     "classes": [
         {
-            "term_end": "2014-03-06T00:00:00", 
-            "term_start": "2014-02-06T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T21:00:00", 
             "instructors": [
                 "Kahana, Tsvi"
             ], 
-            "end_time": "1900-01-01T21:00:00", 
+            "location": "MACDONALD RM515", 
             "start_time": "1900-01-01T18:00:00", 
-            "day_of_week": 4, 
-            "location": "MACDONALD RM515"
+            "term_end": "2014-03-06T00:00:00", 
+            "term_start": "2014-02-06T00:00:00"
         }
     ]
 }

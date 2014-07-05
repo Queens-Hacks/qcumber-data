@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (7405)", 
     "basic": {
         "class_num": "7405", 
-        "subject": "MGBL", 
-        "status": "Closed", 
         "course": "901", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MGBL", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (7405)", 
     "classes": [
         {
-            "term_end": "2013-09-20T00:00:00", 
-            "term_start": "2013-09-20T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T00:00:00", 
             "instructors": [
                 "Dubey, Shailesh"
             ], 
-            "end_time": "1900-01-01T00:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T00:00:00", 
-            "day_of_week": 5, 
-            "location": "TBA"
+            "term_end": "2013-09-20T00:00:00", 
+            "term_start": "2013-09-20T00:00:00"
         }
     ]
 }

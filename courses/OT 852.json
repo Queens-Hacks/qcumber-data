@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will examine group theory, process and application to occupational therapy practice. It will focus on groups both as a means to enabling occupational therapy change and as a means for working effectively in a complex health care system. Laboratory sessions will facilitate the development of effective techniques in group leadership and participation.", 
+        "number": "852", 
+        "subject": "OT", 
+        "title": "Group Theory And Process"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will examine group theory, process and application to occupational therapy practice. It will focus on groups both as a means to enabling occupational therapy change and as a means for working effectively in a complex health care system. Laboratory sessions will facilitate the development of effective techniques in group leadership and participation.", 
-        "subject": "OT", 
-        "number": "852", 
-        "title": "Group Theory And Process"
     }
 }

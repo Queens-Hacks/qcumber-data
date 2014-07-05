@@ -1,1 +1,15 @@
-{"isbn_13": "9780745641867", "isbn_10": "0745641865", "classified_info": "1 classified listing: $15.00", "new_price": "$34.10", "used_price": "$25.58", "authors": "Alex J. Bellamy, Paul Williams, Stuart Griffin", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13381-POE210-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["POE 210"], "required": true, "new_available": 2, "title": "Understanding Peacekeeping"}
+{
+    "authors": "Alex J. Bellamy, Paul Williams, Stuart Griffin", 
+    "classified_info": "1 classified listing: $15.00", 
+    "courses": [
+        "POE 210"
+    ], 
+    "isbn_10": "0745641865", 
+    "isbn_13": "9780745641867", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13381-POE210-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 2, 
+    "new_price": "$34.10", 
+    "required": true, 
+    "title": "Understanding Peacekeeping", 
+    "used_price": "$25.58"
+}

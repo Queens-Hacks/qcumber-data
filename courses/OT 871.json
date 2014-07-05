@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course provides opportunities for students to develop advanced clinical reasoning skills applicable to all areas of occupational therapy practice. Based on the occupational therapy process, students will develop skills of critical thinking and inquiry.", 
+        "number": "871", 
+        "subject": "OT", 
+        "title": "Advanced Clinical Reasoning"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "This course provides opportunities for students to develop advanced clinical reasoning skills applicable to all areas of occupational therapy practice. Based on the occupational therapy process, students will develop skills of critical thinking and inquiry.", 
-        "subject": "OT", 
-        "number": "871", 
-        "title": "Advanced Clinical Reasoning"
     }
 }

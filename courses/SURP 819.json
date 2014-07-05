@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course introduces students to basic methods of quantitative analysis used by urban and regional planners. It introduces methods for exploring and presenting data, analyzing relationships between variables and testing hypotheses. Students will also become familiar with statistical software.", 
+        "number": "819", 
+        "subject": "SURP", 
+        "title": "Quantitative Methods"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course introduces students to basic methods of quantitative analysis used by urban and regional planners. It introduces methods for exploring and presenting data, analyzing relationships between variables and testing hypotheses. Students will also become familiar with statistical software.", 
-        "subject": "SURP", 
-        "number": "819", 
-        "title": "Quantitative Methods"
     }
 }

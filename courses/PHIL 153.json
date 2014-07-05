@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to political philosophy which explores the relationship between state and citizen. Issues include: civil disobedience, nationalism, the welfare state, anarchism and the capitalist state.", 
+        "number": "153", 
+        "subject": "PHIL", 
+        "title": "The State and the Citizen"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to political philosophy which explores the relationship between state and citizen. Issues include: civil disobedience, nationalism, the welfare state, anarchism and the capitalist state.", 
-        "subject": "PHIL", 
-        "number": "153", 
-        "title": "The State and the Citizen"
     }
 }

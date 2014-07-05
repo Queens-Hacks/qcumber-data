@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Application of approaches and practices of sustainability will be developed with an emphasis on individual or group projects. This course will involve sustainability efforts at a local, regional or national scale.\r\nNOTE\u00a0\u00a0\u00a0 Only offered in the Queen's-Blyth International Studies program or at the Bader International Studies Centre, Herstmonceux.", 
+        "number": "391", 
+        "subject": "ENSC", 
+        "title": "Practical Applications in Sustainability"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 Level 3 or above", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Application of approaches and practices of sustainability will be developed with an emphasis on individual or group projects. This course will involve sustainability efforts at a local, regional or national scale.\r\nNOTE\u00a0\u00a0\u00a0 Only offered in the Queen's-Blyth International Studies program or at the Bader International Studies Centre, Herstmonceux.", 
-        "subject": "ENSC", 
-        "number": "391", 
-        "title": "Practical Applications in Sustainability"
     }
 }

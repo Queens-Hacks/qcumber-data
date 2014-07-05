@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (6613)", 
     "basic": {
         "class_num": "6613", 
-        "subject": "LING", 
-        "status": "Open", 
         "course": "320", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LING", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (6613)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Yukseker, Hitay"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "KINGSTON RM205", 
             "start_time": "1900-01-01T16:00:00", 
-            "day_of_week": 1, 
-            "location": "KINGSTON RM205"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Yukseker, Hitay"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "KINGSTON RM205", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 3, 
-            "location": "KINGSTON RM205"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

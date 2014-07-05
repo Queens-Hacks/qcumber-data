@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (8377)", 
     "basic": {
         "class_num": "8377", 
-        "subject": "MGMT", 
-        "status": "Open", 
         "course": "962", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MGMT", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (8377)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T13:00:00", 
             "instructors": [
                 "Levina, Tatsiana"
             ], 
-            "end_time": "1900-01-01T13:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 3, 
-            "location": "TBA"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

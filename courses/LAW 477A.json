@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Designation of a moot for Law-477AB registration must be made by the Moot Court Committee. \r\nIn the 2012-2013 academic year, the designated moots are the Philip C. Jessup International Law Moot and the Willem C. Vis International Arbitration Moot. \r\nLaw-477AB Competitive Moot-Oralist\r\nUpper-year J.D. or J.D. combined degree program students selected as an oralist for a designated moot team will be enrolled in LAW-477AB in the fall and winter terms for six upper-year credit units. This course is to be graded on a letter grade basis by the faculty supervisor upon completion of the moot. The letter grade will entered in the winter term.\u00a0 LAW477AB must be added during the period for open enrolment period at the beginning of the fall term. If the selection is made after expiry of the open enrolment period for the fall term, permission for late enrollment must be sought from the Assistant Dean of Students on behalf of the Academic Standing and Policies Committee.", 
+        "number": "477A", 
+        "subject": "LAW", 
+        "title": "Competitive Moot Oralist"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Designation of a moot for Law-477AB registration must be made by the Moot Court Committee. \r\nIn the 2012-2013 academic year, the designated moots are the Philip C. Jessup International Law Moot and the Willem C. Vis International Arbitration Moot. \r\nLaw-477AB Competitive Moot-Oralist\r\nUpper-year J.D. or J.D. combined degree program students selected as an oralist for a designated moot team will be enrolled in LAW-477AB in the fall and winter terms for six upper-year credit units. This course is to be graded on a letter grade basis by the faculty supervisor upon completion of the moot. The letter grade will entered in the winter term.\u00a0 LAW477AB must be added during the period for open enrolment period at the beginning of the fall term. If the selection is made after expiry of the open enrolment period for the fall term, permission for late enrollment must be sought from the Assistant Dean of Students on behalf of the Academic Standing and Policies Committee.", 
-        "subject": "LAW", 
-        "number": "477A", 
-        "title": "Competitive Moot Oralist"
     }
 }

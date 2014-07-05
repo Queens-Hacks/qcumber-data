@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides a basic understanding of the innovation process, entrepreneurial thinking, and the financial and market contributors to successful technology-based business opportunities. Course topics include: identifying opportunities, project management skills and intellectual property issues, understanding customers to define potential markets and arrive at clear value propositions, product positioning, competitive analysis, fundamental financial principles and financial statements, performance of financial feasibility analyses and identification of appropriate business models for commercialization. Using a multi-disciplinary approach, students craft business strategy and make tactical and commercial decisions using an on-line business simulation game and evaluate the commercial feasibility of innovative research by developing a business case for an innovation in their concentration area.", 
+        "number": "310", 
+        "subject": "CHEE", 
+        "title": "Innovation & Entrepreneurship"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 42, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 42
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course provides a basic understanding of the innovation process, entrepreneurial thinking, and the financial and market contributors to successful technology-based business opportunities. Course topics include: identifying opportunities, project management skills and intellectual property issues, understanding customers to define potential markets and arrive at clear value propositions, product positioning, competitive analysis, fundamental financial principles and financial statements, performance of financial feasibility analyses and identification of appropriate business models for commercialization. Using a multi-disciplinary approach, students craft business strategy and make tactical and commercial decisions using an on-line business simulation game and evaluate the commercial feasibility of innovative research by developing a business case for an innovation in their concentration area.", 
-        "subject": "CHEE", 
-        "number": "310", 
-        "title": "Innovation & Entrepreneurship"
     }
 }

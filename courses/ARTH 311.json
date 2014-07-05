@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of gender in relation to modern visual culture from the mid-nineteenth to the mid-twentieth centuries using theoretical frameworks drawn from feminist art history and gender studies. Topics to be studied include fashion and modernity, consumer culture, gendered and transgendered artistic identities, and the gendering of Modernism.\u00a0\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ARTH 226/3.0 and ARTH 228/3.0 (or ARTH 227/6.0).", 
+        "number": "311", 
+        "subject": "ARTH", 
+        "title": "Gender and Modernism"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of third year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of gender in relation to modern visual culture from the mid-nineteenth to the mid-twentieth centuries using theoretical frameworks drawn from feminist art history and gender studies. Topics to be studied include fashion and modernity, consumer culture, gendered and transgendered artistic identities, and the gendering of Modernism.\u00a0\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ARTH 226/3.0 and ARTH 228/3.0 (or ARTH 227/6.0).", 
-        "subject": "ARTH", 
-        "number": "311", 
-        "title": "Gender and Modernism"
     }
 }

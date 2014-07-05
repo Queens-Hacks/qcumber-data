@@ -1,59 +1,59 @@
 {
+    "_unique": "006-LEC (6968)", 
     "basic": {
         "class_num": "6968", 
-        "subject": "PROF", 
-        "status": "Closed", 
         "course": "190B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "006", 
+        "status": "Closed", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "006-LEC (6968)", 
     "classes": [
         {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T15:00:00", 
+            "instructors": [
+                "Benn, James"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A343", 
+            "start_time": "1900-01-01T13:30:00", 
             "term_end": "2014-02-07T00:00:00", 
-            "term_start": "2014-01-02T00:00:00", 
+            "term_start": "2014-01-02T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T15:00:00", 
             "instructors": [
                 "Benn, James"
             ], 
-            "end_time": "1900-01-01T15:00:00", 
+            "location": "DUNCAN MCARTHUR RM A343", 
             "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM A343"
-        }, 
-        {
             "term_end": "2014-04-11T00:00:00", 
-            "term_start": "2014-04-07T00:00:00", 
-            "instructors": [
-                "Benn, James"
-            ], 
-            "end_time": "1900-01-01T15:00:00", 
-            "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM A343"
+            "term_start": "2014-04-07T00:00:00"
         }, 
         {
-            "term_end": "2014-04-15T00:00:00", 
-            "term_start": "2014-04-15T00:00:00", 
-            "instructors": [
-                "Benn, James"
-            ], 
-            "end_time": "1900-01-01T15:00:00", 
-            "start_time": "1900-01-01T13:30:00", 
             "day_of_week": 2, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-04-30T00:00:00", 
-            "term_start": "2014-04-30T00:00:00", 
+            "end_time": "1900-01-01T15:00:00", 
             "instructors": [
                 "Benn, James"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
+            "location": "TBA", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2014-04-15T00:00:00", 
+            "term_start": "2014-04-15T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A343"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Benn, James"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A343", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-04-30T00:00:00", 
+            "term_start": "2014-04-30T00:00:00"
         }
     ]
 }

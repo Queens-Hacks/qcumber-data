@@ -1,1 +1,15 @@
-{"isbn_13": "9780141183053", "isbn_10": "0141183055", "classified_info": "0 classified listings", "new_price": "$16.10", "used_price": "$12.08", "authors": "George Orwell", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13752-HIST348-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl10_test_ModeFull", "courses": ["HIST 348"], "required": true, "new_available": 15, "title": "Homage to Catalonia (Modern Classics)"}
+{
+    "authors": "George Orwell", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "HIST 348"
+    ], 
+    "isbn_10": "0141183055", 
+    "isbn_13": "9780141183053", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13752-HIST348-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl10_test_ModeFull", 
+    "new_available": 15, 
+    "new_price": "$16.10", 
+    "required": true, 
+    "title": "Homage to Catalonia (Modern Classics)", 
+    "used_price": "$12.08"
+}

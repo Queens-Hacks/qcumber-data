@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (6160)", 
     "basic": {
         "class_num": "6160", 
-        "subject": "PT", 
-        "status": "Open", 
         "course": "859", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PT", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (6160)", 
     "classes": [
         {
-            "term_end": "2014-05-16T00:00:00", 
-            "term_start": "2014-02-24T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T18:00:00", 
             "instructors": [
                 "Leverette, Graeme"
             ], 
-            "end_time": "1900-01-01T18:00:00", 
+            "location": "ACTON RM21", 
             "start_time": "1900-01-01T16:00:00", 
-            "day_of_week": 3, 
-            "location": "ACTON RM21"
+            "term_end": "2014-05-16T00:00:00", 
+            "term_start": "2014-02-24T00:00:00"
         }
     ]
 }

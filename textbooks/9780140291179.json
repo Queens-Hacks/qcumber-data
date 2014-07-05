@@ -1,1 +1,15 @@
-{"isbn_13": "9780140291179", "isbn_10": "0140291172", "classified_info": "0 classified listings", "new_price": "$20.85", "used_price": "$15.63", "authors": "David Crystal", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13606-DRAM331-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["DRAM 331"], "required": true, "new_available": 1, "title": "Shakespeares Words"}
+{
+    "authors": "David Crystal", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "DRAM 331"
+    ], 
+    "isbn_10": "0140291172", 
+    "isbn_13": "9780140291179", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13606-DRAM331-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 1, 
+    "new_price": "$20.85", 
+    "required": true, 
+    "title": "Shakespeares Words", 
+    "used_price": "$15.63"
+}

@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (7902)", 
     "basic": {
         "class_num": "7902", 
-        "subject": "FOCI", 
-        "status": "Closed", 
         "course": "275B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "FOCI", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (7902)", 
     "classes": [
         {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Cooper, Amanda"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR RM A240", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A240"
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Cooper, Amanda"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR RM A240", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A240"
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
         }
     ]
 }

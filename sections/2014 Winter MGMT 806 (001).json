@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (7687)", 
     "basic": {
         "class_num": "7687", 
-        "subject": "MGMT", 
-        "status": "Closed", 
         "course": "806", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MGMT", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (7687)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T13:00:00", 
             "instructors": [
                 "Litrico, Jean-Baptiste"
             ], 
-            "end_time": "1900-01-01T13:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 4, 
-            "location": "TBA"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

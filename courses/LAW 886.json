@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of the circumstances in which the usual solutions to legal problems are modified because of the existence of significant foreign elements, for instance, a person living, an event happening or a thing being located in another province or country. The course covers three general areas. First, the circumstances in which courts take jurisdiction in cases having foreign elements; second, the circumstances in which courts recognize foreign judgments as decisive of questions in dispute; third, the circumstances in which courts modify ordinarily applicable law because of different foreign laws. Problems covered come mainly from family law, property, contracts, torts and succession. (To be offered jointly with LAW-550.). Three term-hours; Winter. M. Bailey.", 
+        "number": "886", 
+        "subject": "LAW", 
+        "title": "Conflict Of Laws"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of the circumstances in which the usual solutions to legal problems are modified because of the existence of significant foreign elements, for instance, a person living, an event happening or a thing being located in another province or country. The course covers three general areas. First, the circumstances in which courts take jurisdiction in cases having foreign elements; second, the circumstances in which courts recognize foreign judgments as decisive of questions in dispute; third, the circumstances in which courts modify ordinarily applicable law because of different foreign laws. Problems covered come mainly from family law, property, contracts, torts and succession. (To be offered jointly with LAW-550.). Three term-hours; Winter. M. Bailey.", 
-        "subject": "LAW", 
-        "number": "886", 
-        "title": "Conflict Of Laws"
     }
 }

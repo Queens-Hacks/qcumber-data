@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of significant trends in the novel of 18th century France with special emphasis on historical and aesthetic changes in the relationship between fiction and its social context. Travaux pratiques include essays and tests. Given jointly with FREN 488/3.0.", 
+        "number": "388", 
+        "subject": "FREN", 
+        "title": "Roman des lumi\u00e8res: entre tradition et modernit\u00e9"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 FREN221 or (FREN212 and FREN220).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN388; FREN488.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of significant trends in the novel of 18th century France with special emphasis on historical and aesthetic changes in the relationship between fiction and its social context. Travaux pratiques include essays and tests. Given jointly with FREN 488/3.0.", 
-        "subject": "FREN", 
-        "number": "388", 
-        "title": "Roman des lumi\u00e8res: entre tradition et modernit\u00e9"
     }
 }

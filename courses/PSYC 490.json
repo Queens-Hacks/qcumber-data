@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Seminar courses on advanced topics in psychology offered periodically by visiting professors.", 
+        "number": "490", 
+        "subject": "PSYC", 
+        "title": "Special Topics in Psychology III"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Seminar courses on advanced topics in psychology offered periodically by visiting professors.", 
-        "subject": "PSYC", 
-        "number": "490", 
-        "title": "Special Topics in Psychology III"
     }
 }

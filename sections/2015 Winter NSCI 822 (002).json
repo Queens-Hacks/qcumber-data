@@ -1,24 +1,24 @@
 {
+    "_unique": "002-SEM (8197)", 
     "basic": {
         "class_num": "8197", 
-        "subject": "NSCI", 
-        "status": "Open", 
         "course": "822", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "NSCI", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-SEM (8197)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 2, 
-            "location": "BIOSCI RM2109"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2109", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

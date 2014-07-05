@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An examination of the genetic link between surficial geological processes and the sedimentary record produced by these processes. Students obtain an integrated overview of the nature and operation of the Earth-surface environment. Topics include origin of sedimentary rocks and their sedimentary structures, depositional environments and stratigraphic successions; stratigraphic principles and their application to sedimentary basins, with implications for hydrocarbon genesis; interaction of natural processes with human society.", 
+        "number": "238", 
+        "subject": "GEOE", 
+        "title": "Surficial Proc Sed & Strat"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 12, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQ: APSC 151 and registered in BSCE.", 
-        "CEAB": {
-            "Basic Sci": 36, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 12, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "An examination of the genetic link between surficial geological processes and the sedimentary record produced by these processes. Students obtain an integrated overview of the nature and operation of the Earth-surface environment. Topics include origin of sedimentary rocks and their sedimentary structures, depositional environments and stratigraphic successions; stratigraphic principles and their application to sedimentary basins, with implications for hydrocarbon genesis; interaction of natural processes with human society.", 
-        "subject": "GEOE", 
-        "number": "238", 
-        "title": "Surficial Proc Sed & Strat"
     }
 }

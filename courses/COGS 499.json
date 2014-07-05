@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Topic selected under the supervision of a member of one of the faculties of CISC, LING, PHIL, PSYC. Emphasis may be on experimental, theoretical, or computer implementation topics. Independent research, an oral presentation, and a written report are required.", 
+        "number": "499", 
+        "subject": "COGS", 
+        "title": "Advanced Undergraduate Project"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (Level 4 and registered in a COGS Specialization Plan) and (an overall GPA of 1.90) and (a GPA of 2.60 in 30.0 units in CISC) and (a GPA of 2.60 in COGS) and COGS300.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topic selected under the supervision of a member of one of the faculties of CISC, LING, PHIL, PSYC. Emphasis may be on experimental, theoretical, or computer implementation topics. Independent research, an oral presentation, and a written report are required.", 
-        "subject": "COGS", 
-        "number": "499", 
-        "title": "Advanced Undergraduate Project"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Topics and applications in modern physical optics, culminating with the development of the laser and its current applications. Topics include: Gaussian beam propagation, optical resonators, Fourier optics, fiber optics, holography, light-matter interaction using classical and semi-classical models, and the basic theory and types of lasers.", 
+        "number": "460", 
+        "subject": "ENPH", 
+        "title": "Laser Optics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 21, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 21, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQ: ENPH 239 and ENPH 344 or PHYS 344 or permission of department. Must be registered in BSCE.\r\nCOREQS: ENPH 332 or permission of department", 
-        "CEAB": {
-            "Basic Sci": 21, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 21, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Topics and applications in modern physical optics, culminating with the development of the laser and its current applications. Topics include: Gaussian beam propagation, optical resonators, Fourier optics, fiber optics, holography, light-matter interaction using classical and semi-classical models, and the basic theory and types of lasers.", 
-        "subject": "ENPH", 
-        "number": "460", 
-        "title": "Laser Optics"
     }
 }

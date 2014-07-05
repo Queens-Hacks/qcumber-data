@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (5526)", 
     "basic": {
         "class_num": "5526", 
-        "subject": "KNPE", 
-        "status": "Open", 
         "course": "203", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "KNPE", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (5526)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Torcolacci, Melody"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "KINES & HLTH RM100", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 1, 
-            "location": "KINES & HLTH RM100"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }, 
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Torcolacci, Melody"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "KINES & HLTH RM100", 
             "start_time": "1900-01-01T16:00:00", 
-            "day_of_week": 4, 
-            "location": "KINES & HLTH RM100"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

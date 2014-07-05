@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Lectures and discussions on mechanisms of metabolic control. Recent research on a wide range of specific metabolic systems is examined critically. Emphasis is placed on biochemical factors and principles which play a role in the integration and control of metabolism. Lectures and seminars, three\u00a0hours per week; Winter; Alternate years.\u00a0", 
+        "number": "822", 
+        "subject": "BCHM", 
+        "title": "Mechanisms Of Metabolic Cont."
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Lectures and discussions on mechanisms of metabolic control. Recent research on a wide range of specific metabolic systems is examined critically. Emphasis is placed on biochemical factors and principles which play a role in the integration and control of metabolism. Lectures and seminars, three\u00a0hours per week; Winter; Alternate years.\u00a0", 
-        "subject": "BCHM", 
-        "number": "822", 
-        "title": "Mechanisms Of Metabolic Cont."
     }
 }

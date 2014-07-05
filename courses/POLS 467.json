@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Theoretical approaches and issues within the field, while paying particular attention to hegemony and leadership, the economic dimension of post war and post cold war security, trade, money, debt, underdevelopment, regionalism, and international organization.", 
+        "number": "467", 
+        "subject": "POLS", 
+        "title": "international Political Economy"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Theoretical approaches and issues within the field, while paying particular attention to hegemony and leadership, the economic dimension of post war and post cold war security, trade, money, debt, underdevelopment, regionalism, and international organization.", 
-        "subject": "POLS", 
-        "number": "467", 
-        "title": "international Political Economy"
     }
 }

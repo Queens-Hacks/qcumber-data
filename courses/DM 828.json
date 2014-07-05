@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The course provides an introduction to Lean Manufacturing and covers the basic principles on which Lean practices are built. The main focus is on Lean from an Industrial engineering and management science perspective. The course covers an extensive set of Lean tools and outlines their application in a manufacturing environment with the goal of achieving measurable objectives related to operational effectiveness. Basic tools will be applied in a major course project that targets an area for improvement in the workplace or in a Lean project developed through discussion with the instructor. Advanced topics will also be reviewed. (Lead Instructor: Stephen Veldhuis, McMaster University.", 
+        "number": "828", 
+        "subject": "DM", 
+        "title": "Lean Man. Prin. Appl. & Imple."
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course provides an introduction to Lean Manufacturing and covers the basic principles on which Lean practices are built. The main focus is on Lean from an Industrial engineering and management science perspective. The course covers an extensive set of Lean tools and outlines their application in a manufacturing environment with the goal of achieving measurable objectives related to operational effectiveness. Basic tools will be applied in a major course project that targets an area for improvement in the workplace or in a Lean project developed through discussion with the instructor. Advanced topics will also be reviewed. (Lead Instructor: Stephen Veldhuis, McMaster University.", 
-        "subject": "DM", 
-        "number": "828", 
-        "title": "Lean Man. Prin. Appl. & Imple."
     }
 }

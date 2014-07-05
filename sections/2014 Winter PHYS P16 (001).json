@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (5046)", 
     "basic": {
         "class_num": "5046", 
-        "subject": "PHYS", 
-        "status": "Open", 
         "course": "P16", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PHYS", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (5046)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [
-                "Hanes, David Alan"
-            ], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 2, 
-            "location": "STIRLING AUD"
-        }, 
-        {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "end_time": "1900-01-01T09:30:00", 
             "instructors": [
                 "Hanes, David Alan"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:30:00", 
+            "location": "STIRLING AUD", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "STIRLING AUD"
-        }, 
-        {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Hanes, David Alan"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
+            "location": "STIRLING AUD", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "STIRLING AUD"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Hanes, David Alan"
+            ], 
+            "location": "STIRLING AUD", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

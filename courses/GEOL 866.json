@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A course for advanced students in the fields of biology, chemistry, geography or geology in the principles of stable isotope and radiogenic isotope systematics in natural processes. Emphasis will be placed on the use of isotopes in tracing elemental cycles, biological cycles and hydrologic cycles and how some isotopes can be used to place constraints on the timing of specific events within these cycles. (Offered jointly with GEOL-466*.)", 
+        "number": "866", 
+        "subject": "GEOL", 
+        "title": "Isotopes And The Environment"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A course for advanced students in the fields of biology, chemistry, geography or geology in the principles of stable isotope and radiogenic isotope systematics in natural processes. Emphasis will be placed on the use of isotopes in tracing elemental cycles, biological cycles and hydrologic cycles and how some isotopes can be used to place constraints on the timing of specific events within these cycles. (Offered jointly with GEOL-466*.)", 
-        "subject": "GEOL", 
-        "number": "866", 
-        "title": "Isotopes And The Environment"
     }
 }

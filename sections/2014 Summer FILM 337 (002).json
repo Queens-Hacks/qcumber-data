@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LEC (2353)", 
     "basic": {
         "class_num": "2353", 
-        "subject": "FILM", 
-        "status": "Open", 
         "course": "337", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "FILM", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "002-LEC (2353)", 
     "classes": [
         {
-            "term_end": "2014-06-19T00:00:00", 
-            "term_start": "2014-05-12T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Hyland, Robert Donald"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-06-19T00:00:00", 
+            "term_start": "2014-05-12T00:00:00"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Canonical forms, spectral and other matrix decompositions, quadratic forms, inner product spaces, projection theorem, applications to linear systems and optimization.", 
+        "number": "312", 
+        "subject": "MATH", 
+        "title": "Linear Algebra"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 MATH110.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH211; MATH312.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Canonical forms, spectral and other matrix decompositions, quadratic forms, inner product spaces, projection theorem, applications to linear systems and optimization.", 
-        "subject": "MATH", 
-        "number": "312", 
-        "title": "Linear Algebra"
     }
 }

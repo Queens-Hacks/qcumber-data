@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (7803)", 
     "basic": {
         "class_num": "7803", 
-        "subject": "CONT", 
-        "status": "Closed", 
         "course": "533B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "CONT", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (7803)", 
     "classes": [
         {
-            "term_end": "2014-02-14T00:00:00", 
-            "term_start": "2014-01-01T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-01T00:00:00"
         }
     ]
 }

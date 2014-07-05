@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A chronological survey of painting, sculpture and architecture in western culture from Greece and Rome through to the early modern period.\u00a0The art works will be studied at British galleries,\u00a0museums and\u00a0architectural monuments.\r\nNOTE\u00a0\u00a0 \u00a0Offered only at the Bader International Study Centre, Herstmonceux. Students must participate in field trips.", 
+        "number": "116", 
+        "subject": "ARTH", 
+        "title": "Art and Architecture in Britain from the Classical Period to c1700"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required"
         }, 
         "enrollment_requirement": "Exclusion\u00a0 No more than 9.0 units from ARTH116/3.0; ARTH117/3.0; ARTH120", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A chronological survey of painting, sculpture and architecture in western culture from Greece and Rome through to the early modern period.\u00a0The art works will be studied at British galleries,\u00a0museums and\u00a0architectural monuments.\r\nNOTE\u00a0\u00a0 \u00a0Offered only at the Bader International Study Centre, Herstmonceux. Students must participate in field trips.", 
-        "subject": "ARTH", 
-        "number": "116", 
-        "title": "Art and Architecture in Britain from the Classical Period to c1700"
     }
 }

@@ -1,1 +1,14 @@
-{"isbn_13": "9780822355595", "isbn_10": "0822355590", "classified_info": "0 classified listings", "new_price": "$25.56", "used_price": "$19.17", "authors": "Charlotte Biltekoff", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13926-HLTH430-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["HLTH 430"], "required": true, "title": "Eating Right in America"}
+{
+    "authors": "Charlotte Biltekoff", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "HLTH 430"
+    ], 
+    "isbn_10": "0822355590", 
+    "isbn_13": "9780822355595", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13926-HLTH430-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$25.56", 
+    "required": true, 
+    "title": "Eating Right in America", 
+    "used_price": "$19.17"
+}

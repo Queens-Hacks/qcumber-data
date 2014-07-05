@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course introduces the concepts of disability, citizenship and societal participation. Conceptual frameworks of disability and issues and implications of disability will be discussed along with Canadian health and social policies relating to people with disabilities.", 
+        "number": "823B", 
+        "subject": "OT", 
+        "title": "Disability Theory"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "This course introduces the concepts of disability, citizenship and societal participation. Conceptual frameworks of disability and issues and implications of disability will be discussed along with Canadian health and social policies relating to people with disabilities.", 
-        "subject": "OT", 
-        "number": "823B", 
-        "title": "Disability Theory"
     }
 }

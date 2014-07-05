@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Energy resources and electric power generation with particular emphasis on renewable energy systems such as solar, wind, and biomass; review of balanced and unbalanced 3-phase systems; review of per-unit systems; real and reactive power, sequence networks and unsymmetrical analysis; transmission line parameters; basic system models; steady state performance; network calculations; power flow solutions; symmetrical components; fault studies; short circuit analysis; economic dispatch; introduction to power system stability, operating strategies and control; modern power systems and power converters; DC/AC and AC/DC conversion; and introduction to DC transmission.", 
+        "number": "433", 
+        "subject": "ELEC", 
+        "title": "Energy And Power Systems"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 24, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of ELEC333 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 24, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Energy resources and electric power generation with particular emphasis on renewable energy systems such as solar, wind, and biomass; review of balanced and unbalanced 3-phase systems; review of per-unit systems; real and reactive power, sequence networks and unsymmetrical analysis; transmission line parameters; basic system models; steady state performance; network calculations; power flow solutions; symmetrical components; fault studies; short circuit analysis; economic dispatch; introduction to power system stability, operating strategies and control; modern power systems and power converters; DC/AC and AC/DC conversion; and introduction to DC transmission.", 
-        "subject": "ELEC", 
-        "number": "433", 
-        "title": "Energy And Power Systems"
     }
 }

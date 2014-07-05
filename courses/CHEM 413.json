@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The application of quantum mechanics to chemical structures, energetics, internal motions of molecules, and chemical reactions. An introduction to the use of modern electronic structure software in chemistry.", 
+        "number": "413", 
+        "subject": "CHEM", 
+        "title": "Computational Chemistry"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CHEM 313 or ENCH 346 or PHYS345", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The application of quantum mechanics to chemical structures, energetics, internal motions of molecules, and chemical reactions. An introduction to the use of modern electronic structure software in chemistry.", 
-        "subject": "CHEM", 
-        "number": "413", 
-        "title": "Computational Chemistry"
     }
 }

@@ -1,1 +1,16 @@
-{"courses": ["CHEE 330"], "required": true, "new_available": 20, "classified_info": "2 classified listings: $40.00 to $50.00", "isbn_13": "9781119938439", "used_available": 7, "isbn_10": "1119938430", "new_price": "$64.39", "authors": "Welty", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13473-CHEE330-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "used_price": "$48.29", "title": "Custom: Heat and Mass Transfer"}
+{
+    "authors": "Welty", 
+    "classified_info": "2 classified listings: $40.00 to $50.00", 
+    "courses": [
+        "CHEE 330"
+    ], 
+    "isbn_10": "1119938430", 
+    "isbn_13": "9781119938439", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13473-CHEE330-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 20, 
+    "new_price": "$64.39", 
+    "required": true, 
+    "title": "Custom: Heat and Mass Transfer", 
+    "used_available": 7, 
+    "used_price": "$48.29"
+}

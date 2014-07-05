@@ -1,28 +1,28 @@
 {
-    "extra": {
-        "add_consent": "Department Consent Required", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "typically_offered": "Fall", 
-        "enrollment_requirement": "Prerequisite of APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 28, 
-            "Eng Sci": 23, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "4.30"
-    }, 
     "basic": {
         "description": "The fundamentals of digital systems. Boolean algebra applied to digital systems; logic gates and combinational logic design; arithmetic circuits; flip-flops, registers and counters; synchronous sequential logic and state machine design; structure of ROM, RAM, PLA's and PLD's.", 
-        "subject": "ELEC", 
         "number": "271", 
+        "subject": "ELEC", 
         "title": "Digital Systems"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 28, 
+            "Eng Sci": 23, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.30"
     }
 }

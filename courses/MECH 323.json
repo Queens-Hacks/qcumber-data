@@ -1,29 +1,29 @@
 {
+    "basic": {
+        "description": "This course emphasises the application of theoretical and engineering background taught in other courses, but also relies heavily on empirical approaches and simplifications of theory. Core material includes static and fatigue failure theories and the design/specification of selected machine elements. The course is centered around a major design project which is undertaken in groups.", 
+        "number": "323", 
+        "subject": "MECH", 
+        "title": "Machine Design I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 27, 
+            "Eng Sci": 27, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
+            "Lecture": "Required", 
+            "Tutorial": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite of APSC 200 or MECH212 and (MECH321 and APSC 221) or MTHE334 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 27, 
-            "Eng Sci": 27, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "This course emphasises the application of theoretical and engineering background taught in other courses, but also relies heavily on empirical approaches and simplifications of theory. Core material includes static and fatigue failure theories and the design/specification of selected machine elements. The course is centered around a major design project which is undertaken in groups.", 
-        "subject": "MECH", 
-        "number": "323", 
-        "title": "Machine Design I"
     }
 }

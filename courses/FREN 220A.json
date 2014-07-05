@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The methodology of literary analysis. Assignments may include textual analysis, translation and composition.", 
+        "number": "220A", 
+        "subject": "FREN", 
+        "title": "Analyse Textuelle et \u00e9tude de la langue"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in FREN110 or a grade of B in (FREN100 or [FREN101 and FREN102]).\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from FREN220; FREN221.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "The methodology of literary analysis. Assignments may include textual analysis, translation and composition.", 
-        "subject": "FREN", 
-        "number": "220A", 
-        "title": "Analyse Textuelle et \u00e9tude de la langue"
     }
 }

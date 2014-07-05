@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An overview of the development of cognitive and language processes in children. Topics include a discussion of the biological and social foundations of cognitive and language development, perceptual development, early communication, development of concepts and scripts, and improvements in reasoning and problem-solving\u00a0ability over the course of development.", 
+        "number": "352", 
+        "subject": "PSYC", 
+        "title": "Cognitive and Language Development"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (PSYC203 and PSYC251) or (level 3 and [reg in a COGS or LING Plan] and PSYC100 with a grade of B-.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An overview of the development of cognitive and language processes in children. Topics include a discussion of the biological and social foundations of cognitive and language development, perceptual development, early communication, development of concepts and scripts, and improvements in reasoning and problem-solving\u00a0ability over the course of development.", 
-        "subject": "PSYC", 
-        "number": "352", 
-        "title": "Cognitive and Language Development"
     }
 }

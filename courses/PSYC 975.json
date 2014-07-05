@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Students may arrange for one or two terms of supervised applied training outside of the department. Internships will be individually arranged to further the development of each student's program. Student's will submit a list of objectives before the plan is approved, and a report of progress at the end of the term.", 
+        "number": "975", 
+        "subject": "PSYC", 
+        "title": "Applied Internship I"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Students may arrange for one or two terms of supervised applied training outside of the department. Internships will be individually arranged to further the development of each student's program. Student's will submit a list of objectives before the plan is approved, and a report of progress at the end of the term.", 
-        "subject": "PSYC", 
-        "number": "975", 
-        "title": "Applied Internship I"
     }
 }

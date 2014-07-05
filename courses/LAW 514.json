@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "In this seminar course, students will develop an understanding of how the national and international mining industry is structured and financed; learn about the process by which minerals and gems are extracted; learn about the effects of mining and mineral processing on the environment, culture, and society where it is located; learn about the key laws and regulations in Ontario that regulate mining, mineral processing, mine financing and corporate decision making; learn about key conflicts between communities, Aboriginal peoples and the mining industry; and learn how communities in Canada and around the world have worked with and/or resisted mining companies", 
+        "number": "514", 
+        "subject": "LAW", 
+        "title": "Mining Law, Policy and Communities"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "In this seminar course, students will develop an understanding of how the national and international mining industry is structured and financed; learn about the process by which minerals and gems are extracted; learn about the effects of mining and mineral processing on the environment, culture, and society where it is located; learn about the key laws and regulations in Ontario that regulate mining, mineral processing, mine financing and corporate decision making; learn about key conflicts between communities, Aboriginal peoples and the mining industry; and learn how communities in Canada and around the world have worked with and/or resisted mining companies", 
-        "subject": "LAW", 
-        "number": "514", 
-        "title": "Mining Law, Policy and Communities"
     }
 }

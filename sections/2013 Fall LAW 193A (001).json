@@ -1,48 +1,48 @@
 {
+    "_unique": "001-SEM (1282)", 
     "basic": {
         "class_num": "1282", 
-        "subject": "LAW", 
-        "status": "Closed", 
         "course": "193A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-SEM (1282)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-03T00:00:00", 
-            "instructors": [
-                "Peppin, Patricia Jane"
-            ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:00:00", 
             "day_of_week": 1, 
-            "location": "MACDONALD RM400"
-        }, 
-        {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-03T00:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Peppin, Patricia Jane"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "MACDONALD RM400", 
             "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-03T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "MACDONALD RM400"
-        }, 
-        {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-03T00:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Peppin, Patricia Jane"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "MACDONALD RM400", 
             "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-03T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "MACDONALD RM100"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Peppin, Patricia Jane"
+            ], 
+            "location": "MACDONALD RM100", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-03T00:00:00"
         }
     ]
 }

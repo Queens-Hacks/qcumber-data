@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Similarity and canonical forms. Non-negative matrices: Perron-Frobenius theorem, applications to probability (Markov chains). Matrix differential equations: Stability theory. Estimation of eigenvalues, Gersgorin's theorem, and related inequalities.", 
+        "number": "405", 
+        "subject": "MATH", 
+        "title": "Applications of Matrix Algebra"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 MATH210 or MATH211 or MATH212 or MATH217 or MATH312.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Similarity and canonical forms. Non-negative matrices: Perron-Frobenius theorem, applications to probability (Markov chains). Matrix differential equations: Stability theory. Estimation of eigenvalues, Gersgorin's theorem, and related inequalities.", 
-        "subject": "MATH", 
-        "number": "405", 
-        "title": "Applications of Matrix Algebra"
     }
 }

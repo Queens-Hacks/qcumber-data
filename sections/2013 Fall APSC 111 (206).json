@@ -1,24 +1,24 @@
 {
+    "_unique": "206-TUT (1347)", 
     "basic": {
         "class_num": "1347", 
-        "subject": "APSC", 
-        "status": "Open", 
         "course": "111", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "206", 
+        "status": "Open", 
+        "subject": "APSC", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "206-TUT (1347)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-16T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:30:00", 
             "day_of_week": 1, 
-            "location": "STIRLING RM412A"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM412A", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-16T00:00:00"
         }
     ]
 }

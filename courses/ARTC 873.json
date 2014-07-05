@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course continues studies begun in ARTC-871* with special emphasis on artifacts of complex structure such as photographs, digital objects and new media and focuses on their preservation in an institutional context. Half course; winter.", 
+        "number": "873", 
+        "subject": "ARTC", 
+        "title": "Paper/New Media Conservation Practice III"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course continues studies begun in ARTC-871* with special emphasis on artifacts of complex structure such as photographs, digital objects and new media and focuses on their preservation in an institutional context. Half course; winter.", 
-        "subject": "ARTC", 
-        "number": "873", 
-        "title": "Paper/New Media Conservation Practice III"
     }
 }

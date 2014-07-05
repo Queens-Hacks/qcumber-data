@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "This course deals with the design and analysis of research in Epidemiology. Topics include measures of health status; risk factors and associations between them; study design including descriptive, analytical, experimental and theoretical approaches; validity issues; critical appraisal; sources of data, and data collection and management. Three term hours, fall; every year.\u00a0\u00a0K. Aronson.", 
+        "number": "801", 
+        "subject": "EPID", 
+        "title": "Introduction To Epidemiology"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course deals with the design and analysis of research in Epidemiology. Topics include measures of health status; risk factors and associations between them; study design including descriptive, analytical, experimental and theoretical approaches; validity issues; critical appraisal; sources of data, and data collection and management. Three term hours, fall; every year.\u00a0\u00a0K. Aronson.", 
-        "subject": "EPID", 
-        "number": "801", 
-        "title": "Introduction To Epidemiology"
     }
 }

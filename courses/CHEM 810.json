@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A survey of materials characterisation methods with an emphasis on practical applications in materials and polymer chemistry.Techniques will include electron microscopy, scanning probe methods, photoelectron &amp; Auger spectroscopy, cyclic voltammetry and powder X-ray diffraction methods. Fall;\u00a0 P. Loock.", 
+        "number": "810", 
+        "subject": "CHEM", 
+        "title": "Materials Charateriz. Methods"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "A survey of materials characterisation methods with an emphasis on practical applications in materials and polymer chemistry.Techniques will include electron microscopy, scanning probe methods, photoelectron &amp; Auger spectroscopy, cyclic voltammetry and powder X-ray diffraction methods. Fall;\u00a0 P. Loock.", 
-        "subject": "CHEM", 
-        "number": "810", 
-        "title": "Materials Charateriz. Methods"
     }
 }

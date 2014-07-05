@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Rapid Mechanical Design addresses all aspect of mechanical design, including consideration for end-of-life issues, with the focus and emphasis of the course being on rapid product development.\u00a0 In this course, the participants will be introduced to the various state-of-the-art methodologies and off-the-shelf tools and facilities for rapid design. The course will have an introductory section on a limited set of classical design topics in order to prepare the students for the in-depth discussion of the advanced topics on rapid prototyping. \u00a0 The introductory topics will include: Manufacturing Management Strategies, Concurrent Engineering, Conceptual Design, and Design for X. The advanced rapid-design topics are categorized into virtual and physical prototyping. Virtual prototyping topics include: Geometric Modeling (including major CAD software packages), Computer-Aided-Engineering (CAE) Analysis, Engineering Optimization, Design of Experiments, and Virtual Reality. Physical prototyping topics include: Introduction to Polymerization, Sintering, Casting, and Chemical Machining, Material-Additive Layered Prototyping (including Photolithography, Sintering, Deposition, Lamination, and Laser-Induced-Fusion Based Rapid-Prototyping Systems, Material-Removal-Based Prototyping, and Reverse Engineering.\u00a0 (Lead Instructors: Beno Benhabib, Toronto, Gene Zak, Queen's)\u00a0", 
+        "number": "814", 
+        "subject": "DM", 
+        "title": "Rapid Mechanical Design"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Rapid Mechanical Design addresses all aspect of mechanical design, including consideration for end-of-life issues, with the focus and emphasis of the course being on rapid product development.\u00a0 In this course, the participants will be introduced to the various state-of-the-art methodologies and off-the-shelf tools and facilities for rapid design. The course will have an introductory section on a limited set of classical design topics in order to prepare the students for the in-depth discussion of the advanced topics on rapid prototyping. \u00a0 The introductory topics will include: Manufacturing Management Strategies, Concurrent Engineering, Conceptual Design, and Design for X. The advanced rapid-design topics are categorized into virtual and physical prototyping. Virtual prototyping topics include: Geometric Modeling (including major CAD software packages), Computer-Aided-Engineering (CAE) Analysis, Engineering Optimization, Design of Experiments, and Virtual Reality. Physical prototyping topics include: Introduction to Polymerization, Sintering, Casting, and Chemical Machining, Material-Additive Layered Prototyping (including Photolithography, Sintering, Deposition, Lamination, and Laser-Induced-Fusion Based Rapid-Prototyping Systems, Material-Removal-Based Prototyping, and Reverse Engineering.\u00a0 (Lead Instructors: Beno Benhabib, Toronto, Gene Zak, Queen's)\u00a0", 
-        "subject": "DM", 
-        "number": "814", 
-        "title": "Rapid Mechanical Design"
     }
 }

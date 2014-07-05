@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Students will consolidate knowledge about gross and functional human anatomy as a foundation for the musculoskeletal and cardiorespirology courses which relate to physical therapy assessment and intervention planning. Musculoskeletal structures of the upper limb, lower limb, head, cervical, thoracic, lumbar and pelvic regions will be reviewed, including details of how muscles and joints function. Neural, cardiovascular, and pulmonary structures will be reviewed, focusing on structures in which pathology leads or contributes to movement dysfunction. Lab Component.", 
+        "number": "850B", 
+        "subject": "PT", 
+        "title": "Functional Anatomy"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "Students will consolidate knowledge about gross and functional human anatomy as a foundation for the musculoskeletal and cardiorespirology courses which relate to physical therapy assessment and intervention planning. Musculoskeletal structures of the upper limb, lower limb, head, cervical, thoracic, lumbar and pelvic regions will be reviewed, including details of how muscles and joints function. Neural, cardiovascular, and pulmonary structures will be reviewed, focusing on structures in which pathology leads or contributes to movement dysfunction. Lab Component.", 
-        "subject": "PT", 
-        "number": "850B", 
-        "title": "Functional Anatomy"
     }
 }

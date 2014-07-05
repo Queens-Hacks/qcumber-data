@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Topic: \"Sustainable Transportation.", 
+        "number": "889", 
+        "subject": "SURP", 
+        "title": "Adv. Regional Policy Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topic: \"Sustainable Transportation.", 
-        "subject": "SURP", 
-        "number": "889", 
-        "title": "Adv. Regional Policy Analysis"
     }
 }

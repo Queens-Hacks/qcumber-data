@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Under the guidance of the supervisor, students will carry out a practicum project in a health research group/site and practise biostatistical methods and data analysis, or conduct methodology research in a biostatistical project. Students will summarize the results of the project in a written report that will be reviewed and orally defended.", 
+        "number": "888", 
+        "subject": "EPID", 
+        "title": "Master's Practicum"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Pass/Fail", 
+        "career": "Graduate", 
         "course_components": {
             "Practicum": "Required"
         }, 
+        "grading_basis": "Pass/Fail", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Under the guidance of the supervisor, students will carry out a practicum project in a health research group/site and practise biostatistical methods and data analysis, or conduct methodology research in a biostatistical project. Students will summarize the results of the project in a written report that will be reviewed and orally defended.", 
-        "subject": "EPID", 
-        "number": "888", 
-        "title": "Master's Practicum"
     }
 }

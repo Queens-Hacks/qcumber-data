@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (2122)", 
     "basic": {
         "class_num": "2122", 
-        "subject": "NURS", 
-        "status": "Open", 
         "course": "428", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "NURS", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2122)", 
     "classes": [
         {
-            "term_end": "2014-06-30T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-06-30T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
         }
     ]
 }

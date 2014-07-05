@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "There are a number of accounts of the nature of scientific inquiry. Each offers a different view of the origins of scientific knowledge and how it changes over time. Using a hands-on investigative approach, this course explores these views and their implications for the teaching and learning of science. Topics include the nature and role of basic concepts (such as force, heat and light) in the historical development of scientific thinking and in children's learning of science, the relationship between scientific and non-scientific explanations of natural phenomena, and the role of observation and theory in scientific inquiry. Candidates are encouraged to develop and adapt investigative activities and materials for the classroom using the insights drawn from this course.", 
+        "number": "446", 
+        "subject": "FOUN", 
+        "title": "Sci&Teaching as Investig Arts"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "There are a number of accounts of the nature of scientific inquiry. Each offers a different view of the origins of scientific knowledge and how it changes over time. Using a hands-on investigative approach, this course explores these views and their implications for the teaching and learning of science. Topics include the nature and role of basic concepts (such as force, heat and light) in the historical development of scientific thinking and in children's learning of science, the relationship between scientific and non-scientific explanations of natural phenomena, and the role of observation and theory in scientific inquiry. Candidates are encouraged to develop and adapt investigative activities and materials for the classroom using the insights drawn from this course.", 
-        "subject": "FOUN", 
-        "number": "446", 
-        "title": "Sci&Teaching as Investig Arts"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (6364)", 
     "basic": {
         "class_num": "6364", 
-        "subject": "OT", 
-        "status": "Open", 
         "course": "897", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "OT", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-SEM (6364)", 
     "classes": [
         {
-            "term_end": "2015-05-15T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Woodbury, Gail"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "KINES & HLTH RM100", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "KINES & HLTH RM100"
+            "term_end": "2015-05-15T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
         }
     ]
 }

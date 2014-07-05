@@ -1,33 +1,33 @@
 {
+    "_unique": "001-LEC (3545)", 
     "basic": {
         "class_num": "3545", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "101", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (3545)", 
     "classes": [
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T12:50:00", 
-            "start_time": "1900-01-01T11:50:00", 
             "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "end_time": "1900-01-01T12:50:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "1900-01-01T11:50:00", 
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T12:50:00", 
-            "start_time": "1900-01-01T11:50:00", 
             "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "end_time": "1900-01-01T12:50:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "1900-01-01T11:50:00", 
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

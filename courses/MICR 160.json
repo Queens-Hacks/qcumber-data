@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A general course providing insight into the role immunology plays in health and disease. Social and political issues associated with the increasing importance of this field will be discussed. Topics will include vaccines, immune system stimulators, organ transplants, allergies, cancer, AIDS, rheumatoid arthritis and diabetes. Offered in Spring Term only.\r\nNOTE\u00a0\u00a0\u00a0 The course has been designed primarily for students in the humanities, social sciences and non-biological sciences. No previous training in science is required.", 
+        "number": "160", 
+        "subject": "MICR", 
+        "title": "Immunology for Today"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ONE-WAY EXCLUSION\u00a0 may not be taken with or after MICR221; 229; 360; 461", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A general course providing insight into the role immunology plays in health and disease. Social and political issues associated with the increasing importance of this field will be discussed. Topics will include vaccines, immune system stimulators, organ transplants, allergies, cancer, AIDS, rheumatoid arthritis and diabetes. Offered in Spring Term only.\r\nNOTE\u00a0\u00a0\u00a0 The course has been designed primarily for students in the humanities, social sciences and non-biological sciences. No previous training in science is required.", 
-        "subject": "MICR", 
-        "number": "160", 
-        "title": "Immunology for Today"
     }
 }

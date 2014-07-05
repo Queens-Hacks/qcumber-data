@@ -1,24 +1,24 @@
 {
+    "_unique": "003-TUT (4230)", 
     "basic": {
         "class_num": "4230", 
-        "subject": "MATH", 
-        "status": "Open", 
         "course": "120B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "MATH", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "003-TUT (4230)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T12:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 3, 
-            "location": "JEFFERY RM234"
+            "end_time": "1900-01-01T12:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

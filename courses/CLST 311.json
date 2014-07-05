@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Intensive study (in translation) of the major epics of classical antiquity: Homer, Hesiod, Apollonios, Vergil and Lucan in the context of the oral and literate heroic traditions. Comparative study of English heroic poetry encouraged.", 
+        "number": "311", 
+        "subject": "CLST", 
+        "title": "Greek and Roman Epic"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 (CLST102 and CLST103) or CLST129 or CLST200 or CLST207 or CLST101, or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intensive study (in translation) of the major epics of classical antiquity: Homer, Hesiod, Apollonios, Vergil and Lucan in the context of the oral and literate heroic traditions. Comparative study of English heroic poetry encouraged.", 
-        "subject": "CLST", 
-        "number": "311", 
-        "title": "Greek and Roman Epic"
     }
 }

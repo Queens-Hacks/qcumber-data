@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (2910)", 
     "basic": {
         "class_num": "2910", 
-        "subject": "PT", 
-        "status": "Open", 
         "course": "881A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PT", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2910)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-22T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:00:00", 
             "day_of_week": 4, 
-            "location": "BOTTER RM B147"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "BOTTER RM B147", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-22T00:00:00"
         }
     ]
 }

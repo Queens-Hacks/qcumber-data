@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Most undergraduate quantum courses treat only bound states but much of chemistry occurs in the continuum. This course offers an introduction to the ideas used to understand how molecules fall apart and combine allowing us to apply quantum mechanics to study photodissociation and chemical reactions. Fall. T. Carrington.", 
+        "number": "939", 
+        "subject": "CHEM", 
+        "title": "Quantum Mechs In Continuum"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "Most undergraduate quantum courses treat only bound states but much of chemistry occurs in the continuum. This course offers an introduction to the ideas used to understand how molecules fall apart and combine allowing us to apply quantum mechanics to study photodissociation and chemical reactions. Fall. T. Carrington.", 
-        "subject": "CHEM", 
-        "number": "939", 
-        "title": "Quantum Mechs In Continuum"
     }
 }

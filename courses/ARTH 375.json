@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of Netherlandish painters (c.1410-1500) from the Master of Fl\u00e9malle and Jan van Eyck to Geertgen tot Sint Jans and Hieronymus Bosch.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ARTH 214/3.0 and 215/3.0 (or ARTH 213/6.0).", 
+        "number": "375", 
+        "subject": "ARTH", 
+        "title": "Early Netherlandish Painting"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of third year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of Netherlandish painters (c.1410-1500) from the Master of Fl\u00e9malle and Jan van Eyck to Geertgen tot Sint Jans and Hieronymus Bosch.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ARTH 214/3.0 and 215/3.0 (or ARTH 213/6.0).", 
-        "subject": "ARTH", 
-        "number": "375", 
-        "title": "Early Netherlandish Painting"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A focus on the principles of business writing. Students analyze workplace contexts and identify writing strategies best suited to address business problems.\u00a0 Students research, organize, design, and create reader-centred documents and various electronic and print texts that relate to practical situations they will encounter in the business world.\nNOTE\u00a0\u00a0\u00a0 Only offered online. Consult Continuing and Distance Studies.", 
+        "number": "250", 
+        "subject": "WRIT", 
+        "title": "Writing in Business Contexts"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 WRIT120 or WRIT125 or permission of the instructor.", 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A focus on the principles of business writing. Students analyze workplace contexts and identify writing strategies best suited to address business problems.\u00a0 Students research, organize, design, and create reader-centred documents and various electronic and print texts that relate to practical situations they will encounter in the business world.\nNOTE\u00a0\u00a0\u00a0 Only offered online. Consult Continuing and Distance Studies.", 
-        "subject": "WRIT", 
-        "number": "250", 
-        "title": "Writing in Business Contexts"
     }
 }

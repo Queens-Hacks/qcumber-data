@@ -1,59 +1,59 @@
 {
+    "_unique": "002-LAB (3310)", 
     "basic": {
         "class_num": "3310", 
-        "subject": "ENPH", 
-        "status": "Open", 
         "course": "253", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ENPH", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (3310)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Topper, Anne"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "STIRLING RM402", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "STIRLING RM402"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Topper, Anne"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "STIRLING RM403", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "STIRLING RM403"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Topper, Anne"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "STIRLING RM404", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "STIRLING RM404"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Topper, Anne"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "STIRLING RM405", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "STIRLING RM405"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

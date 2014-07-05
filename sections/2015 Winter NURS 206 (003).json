@@ -1,26 +1,26 @@
 {
+    "_unique": "003-LAB (5257)", 
     "basic": {
         "class_num": "5257", 
-        "subject": "NURS", 
-        "status": "Open", 
         "course": "206", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "NURS", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "003-LAB (5257)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T14:00:00", 
             "instructors": [
                 "Machan, Hilary"
             ], 
-            "end_time": "1900-01-01T14:00:00", 
+            "location": "CATARAQUI\u00a0 RM221 SIM LAB", 
             "start_time": "1900-01-01T12:00:00", 
-            "day_of_week": 5, 
-            "location": "CATARAQUI\u00a0 RM221 SIM LAB"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

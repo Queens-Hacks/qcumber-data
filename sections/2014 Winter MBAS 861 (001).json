@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (8122)", 
     "basic": {
         "class_num": "8122", 
-        "subject": "MBAS", 
-        "status": "Closed", 
         "course": "861", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBAS", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (8122)", 
     "classes": [
         {
-            "term_end": "2014-01-31T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Levin, Yuri G"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-01-31T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

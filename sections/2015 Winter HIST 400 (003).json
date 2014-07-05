@@ -1,26 +1,26 @@
 {
+    "_unique": "003-SEM (7516)", 
     "basic": {
         "class_num": "7516", 
-        "subject": "HIST", 
-        "status": "Open", 
         "course": "400", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "HIST", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "003-SEM (7516)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Adelman, Howard"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "JOHN WATSON RM122", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 1, 
-            "location": "JOHN WATSON RM122"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

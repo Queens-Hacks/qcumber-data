@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Consists of formal lectures and the study and discussion of research papers appearing in the current literature. Students will be expected to participate in the presentation of the lecture material. Topics chosen for study will be by arrangement with the School. Three term-hours; lectures and seminars.", 
+        "number": "870", 
+        "subject": "CISC", 
+        "title": "Topics: Fuzzy Logics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Consists of formal lectures and the study and discussion of research papers appearing in the current literature. Students will be expected to participate in the presentation of the lecture material. Topics chosen for study will be by arrangement with the School. Three term-hours; lectures and seminars.", 
-        "subject": "CISC", 
-        "number": "870", 
-        "title": "Topics: Fuzzy Logics"
     }
 }

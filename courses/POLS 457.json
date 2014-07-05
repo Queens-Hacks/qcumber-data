@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An exploration of issues in international politics from a theoretical and normative perspective, including global redistributive justice, just war theory, theories of secession, and normative theories of humanitarian intervention. Among the questions posed are whether we have an obligation to redistribute wealth to strangers, what can justify secession, intervention and war; and the terms on which people can migrate to other countries.", 
+        "number": "457", 
+        "subject": "POLS", 
+        "title": "Issues in Global Justice"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An exploration of issues in international politics from a theoretical and normative perspective, including global redistributive justice, just war theory, theories of secession, and normative theories of humanitarian intervention. Among the questions posed are whether we have an obligation to redistribute wealth to strangers, what can justify secession, intervention and war; and the terms on which people can migrate to other countries.", 
-        "subject": "POLS", 
-        "number": "457", 
-        "title": "Issues in Global Justice"
     }
 }

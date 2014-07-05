@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The contents of this course will vary from year to year. In recent years, it has often dealt with simulation-based estimation, indirect inference, and bootstrap methods.", 
+        "number": "950", 
+        "subject": "ECON", 
+        "title": "Adv Topic Empirical Methods A"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The contents of this course will vary from year to year. In recent years, it has often dealt with simulation-based estimation, indirect inference, and bootstrap methods.", 
-        "subject": "ECON", 
-        "number": "950", 
-        "title": "Adv Topic Empirical Methods A"
     }
 }

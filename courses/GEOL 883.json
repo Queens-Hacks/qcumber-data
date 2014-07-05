@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Principles of carbonate facies models as derived from modern environments and ancient successions. Assessment of current trends in modelling and the temporal response of carbonate systems to intrinsic and extrinsic controls.", 
+        "number": "883", 
+        "subject": "GEOL", 
+        "title": "Carbonate Facies Dynamics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Principles of carbonate facies models as derived from modern environments and ancient successions. Assessment of current trends in modelling and the temporal response of carbonate systems to intrinsic and extrinsic controls.", 
-        "subject": "GEOL", 
-        "number": "883", 
-        "title": "Carbonate Facies Dynamics"
     }
 }

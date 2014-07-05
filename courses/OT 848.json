@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Using knowledge of human development and systems theory, this course builds on Cognitive-Neurological Determinants - Part I by providing students with the foundational knowledge to understand human development and to identify factors influencing performance and participation for children and adolescents who experience atypical development. Evaluation and intervention approaches at the level of impairment, activity limitations, and participation restrictions will be explored by considering the context of service provision and the diverse roles of Occupational Therapy practitioners in collaboration with families and other service providers.", 
+        "number": "848", 
+        "subject": "OT", 
+        "title": "Cognitive-Neuro Part II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Using knowledge of human development and systems theory, this course builds on Cognitive-Neurological Determinants - Part I by providing students with the foundational knowledge to understand human development and to identify factors influencing performance and participation for children and adolescents who experience atypical development. Evaluation and intervention approaches at the level of impairment, activity limitations, and participation restrictions will be explored by considering the context of service provision and the diverse roles of Occupational Therapy practitioners in collaboration with families and other service providers.", 
-        "subject": "OT", 
-        "number": "848", 
-        "title": "Cognitive-Neuro Part II"
     }
 }

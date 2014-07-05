@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Taylor's theorem, optimization, implicit and inverse function theorems. Elementary topology of Euclidean spaces. Sequences and series of numbers and functions. Pointwise and uniform convergence. Power series.", 
+        "number": "281", 
+        "subject": "MATH", 
+        "title": "Introduction to Real Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Taylor's theorem, optimization, implicit and inverse function theorems. Elementary topology of Euclidean spaces. Sequences and series of numbers and functions. Pointwise and uniform convergence. Power series.", 
-        "subject": "MATH", 
-        "number": "281", 
-        "title": "Introduction to Real Analysis"
     }
 }

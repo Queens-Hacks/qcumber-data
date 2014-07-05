@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The purpose of this course is to give the student of management the opportunity to study and analyze the history of the evolution of Canadian industries (and some of Canada's leading corporations) as well as the emergence of the professional manager. The student should gain a deeper understanding of the roots of Canadian business, but more importantly, be able to understand and appreciate the complex internal and external forces which must be considered today when making critical business decisions. The course will be of interest to students who plan to follow a career in management as either a practitioner or a consultant and to those who will need to be able to do a comprehensive analysis and assessment of the financial and managerial performance of the modern firm.", 
+        "number": "308", 
+        "subject": "COMM", 
+        "title": "Canadian Business History"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 This course is restricted to students enrolled in the third and fourth year of their program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The purpose of this course is to give the student of management the opportunity to study and analyze the history of the evolution of Canadian industries (and some of Canada's leading corporations) as well as the emergence of the professional manager. The student should gain a deeper understanding of the roots of Canadian business, but more importantly, be able to understand and appreciate the complex internal and external forces which must be considered today when making critical business decisions. The course will be of interest to students who plan to follow a career in management as either a practitioner or a consultant and to those who will need to be able to do a comprehensive analysis and assessment of the financial and managerial performance of the modern firm.", 
-        "subject": "COMM", 
-        "number": "308", 
-        "title": "Canadian Business History"
     }
 }

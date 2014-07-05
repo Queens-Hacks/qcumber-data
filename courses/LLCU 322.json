@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of international discourses on conflict and resolution, including theories of reconciliation, human rights, and international law, as portrayed in various media (fiction, theatre and film) and diverse cultural contexts (e.g. ancient Greece, Germany, South Africa and Canada [indigenous settler relations]).", 
+        "number": "322", 
+        "subject": "LLCU", 
+        "title": "Conflict and Culture:\u00a0 Literature, Law, and Human Rights"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or permission of the Dept. of Languages, Literatures and Cultures.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from LLCU322; INTS322; GRMN433.\r\nEquivalency\u00a0\u00a0\u00a0 INTS322.", 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of international discourses on conflict and resolution, including theories of reconciliation, human rights, and international law, as portrayed in various media (fiction, theatre and film) and diverse cultural contexts (e.g. ancient Greece, Germany, South Africa and Canada [indigenous settler relations]).", 
-        "subject": "LLCU", 
-        "number": "322", 
-        "title": "Conflict and Culture:\u00a0 Literature, Law, and Human Rights"
     }
 }

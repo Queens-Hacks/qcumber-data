@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The goal of the course is to introduce students to key professional skills such as project management, relationship building, and policy development. The course provides an opportunity for practical application of these and other skills through hands-on project work within the community.\u00a0 Only one of either MPA-841* or MPA-842* may be used to meet MPA degree requirements", 
+        "number": "841", 
+        "subject": "MPA", 
+        "title": "Policy Pro Bono"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The goal of the course is to introduce students to key professional skills such as project management, relationship building, and policy development. The course provides an opportunity for practical application of these and other skills through hands-on project work within the community.\u00a0 Only one of either MPA-841* or MPA-842* may be used to meet MPA degree requirements", 
-        "subject": "MPA", 
-        "number": "841", 
-        "title": "Policy Pro Bono"
     }
 }

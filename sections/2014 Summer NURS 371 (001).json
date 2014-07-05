@@ -1,92 +1,92 @@
 {
+    "_unique": "001-CLN (1325)", 
     "basic": {
         "class_num": "1325", 
-        "subject": "NURS", 
-        "status": "Open", 
         "course": "371", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "NURS", 
         "type": "CLN", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-CLN (1325)", 
     "classes": [
         {
-            "term_end": "2014-06-29T00:00:00", 
-            "term_start": "2014-05-26T00:00:00", 
-            "instructors": [
-                "Gedcke-Kerr, Laurie M"
-            ], 
-            "end_time": "1900-01-01T19:00:00", 
-            "start_time": "1900-01-01T07:00:00", 
             "day_of_week": 7, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-06-29T00:00:00", 
-            "term_start": "2014-05-26T00:00:00", 
+            "end_time": "1900-01-01T19:00:00", 
             "instructors": [
                 "Gedcke-Kerr, Laurie M"
             ], 
-            "end_time": "1900-01-01T19:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T07:00:00", 
+            "term_end": "2014-06-29T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
             "day_of_week": 6, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-06-29T00:00:00", 
-            "term_start": "2014-05-26T00:00:00", 
+            "end_time": "1900-01-01T19:00:00", 
             "instructors": [
                 "Gedcke-Kerr, Laurie M"
             ], 
-            "end_time": "1900-01-01T19:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T07:00:00", 
+            "term_end": "2014-06-29T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-06-29T00:00:00", 
-            "term_start": "2014-05-26T00:00:00", 
+            "end_time": "1900-01-01T19:00:00", 
             "instructors": [
                 "Gedcke-Kerr, Laurie M"
             ], 
-            "end_time": "1900-01-01T19:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T07:00:00", 
+            "term_end": "2014-06-29T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-06-29T00:00:00", 
-            "term_start": "2014-05-26T00:00:00", 
+            "end_time": "1900-01-01T19:00:00", 
             "instructors": [
                 "Gedcke-Kerr, Laurie M"
             ], 
-            "end_time": "1900-01-01T19:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T07:00:00", 
+            "term_end": "2014-06-29T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-06-29T00:00:00", 
-            "term_start": "2014-05-26T00:00:00", 
+            "end_time": "1900-01-01T19:00:00", 
             "instructors": [
                 "Gedcke-Kerr, Laurie M"
             ], 
-            "end_time": "1900-01-01T19:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T07:00:00", 
+            "term_end": "2014-06-29T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-06-29T00:00:00", 
-            "term_start": "2014-05-26T00:00:00", 
+            "end_time": "1900-01-01T19:00:00", 
             "instructors": [
                 "Gedcke-Kerr, Laurie M"
             ], 
-            "end_time": "1900-01-01T19:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T07:00:00", 
+            "term_end": "2014-06-29T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
+        }, 
+        {
             "day_of_week": 1, 
-            "location": "TBA"
+            "end_time": "1900-01-01T19:00:00", 
+            "instructors": [
+                "Gedcke-Kerr, Laurie M"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T07:00:00", 
+            "term_end": "2014-06-29T00:00:00", 
+            "term_start": "2014-05-26T00:00:00"
         }
     ]
 }

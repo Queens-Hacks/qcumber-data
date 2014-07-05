@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The aim of this course is to explore the various facets of mental health law in the criminal and civil contexts, focusing on particular areas of concern as reflected in the case law.\u00a0 Mental illness poses unique difficulties for a legal system that is premised on self-determination and the rights of the individual, as the courts struggle to find a balance between the recognition of those rights and the necessity for assessment or intervention where decision-making capacity is imperiled.\u00a0 Those who suffer from mental illness also often face unique obstacles, as their illness frequently goes unrecognized, and may give rise to stigma and discrimination. \u00a0\r\nLike many course designations, mental health law actually covers a broad range of legal categories and the cases are quite diverse.\u00a0 Throughout the course, a recurrent theme will be the protection of the rights of those who suffer from a mental illness, and the need to balance those rights against competing concerns about the need for treatment, public safety and other social interests. We review topics such as the civil committal process, capacity assessments, addictions, NCR findings,\u00a0 review board decisions, confidentiality, and the duty to warn.\u00a0", 
+        "number": "403", 
+        "subject": "LAW", 
+        "title": "Mental Health Law"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The aim of this course is to explore the various facets of mental health law in the criminal and civil contexts, focusing on particular areas of concern as reflected in the case law.\u00a0 Mental illness poses unique difficulties for a legal system that is premised on self-determination and the rights of the individual, as the courts struggle to find a balance between the recognition of those rights and the necessity for assessment or intervention where decision-making capacity is imperiled.\u00a0 Those who suffer from mental illness also often face unique obstacles, as their illness frequently goes unrecognized, and may give rise to stigma and discrimination. \u00a0\r\nLike many course designations, mental health law actually covers a broad range of legal categories and the cases are quite diverse.\u00a0 Throughout the course, a recurrent theme will be the protection of the rights of those who suffer from a mental illness, and the need to balance those rights against competing concerns about the need for treatment, public safety and other social interests. We review topics such as the civil committal process, capacity assessments, addictions, NCR findings,\u00a0 review board decisions, confidentiality, and the duty to warn.\u00a0", 
-        "subject": "LAW", 
-        "number": "403", 
-        "title": "Mental Health Law"
     }
 }

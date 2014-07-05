@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to the theory and practice of dramatic arts in Intermediate-Senior education. Candidates will explore the elements of dramatic expression and develop an understanding of the intrinsic and extrinsic value of drama/theatre in education. Consideration will be given to the Ontario Curriculum in Dramatic Arts, lesson planning, the assessment of student achievement in dramatic activities, and issues related to the practicum experience.", 
+        "number": "311", 
+        "subject": "CURR", 
+        "title": "Dramatic Arts (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the theory and practice of dramatic arts in Intermediate-Senior education. Candidates will explore the elements of dramatic expression and develop an understanding of the intrinsic and extrinsic value of drama/theatre in education. Consideration will be given to the Ontario Curriculum in Dramatic Arts, lesson planning, the assessment of student achievement in dramatic activities, and issues related to the practicum experience.", 
-        "subject": "CURR", 
-        "number": "311", 
-        "title": "Dramatic Arts (IS)"
     }
 }

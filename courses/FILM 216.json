@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Introduction to historical research and analysis of narrative and other films.\u00a0Examines works, from a range of periods and settings, and the conditions that shaped their production, circulation and reception.", 
+        "number": "216", 
+        "subject": "FILM", 
+        "title": "Historical Inquiry"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 (A grade of B- in FILM 110) or (a GPA of 2.60 in FILM 104 and FILM 106) or (a GPA of 2.60 in BISC100 and FILM104) and (reg. in a FILM Plan, STSC or the Computer-Film (COFI) Specialization Plan).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to historical research and analysis of narrative and other films.\u00a0Examines works, from a range of periods and settings, and the conditions that shaped their production, circulation and reception.", 
-        "subject": "FILM", 
-        "number": "216", 
-        "title": "Historical Inquiry"
     }
 }

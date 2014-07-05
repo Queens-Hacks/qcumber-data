@@ -1,1 +1,15 @@
-{"isbn_13": "9780664226848", "isbn_10": "0664226841", "classified_info": "1 classified listing: $10.00", "new_price": "$26.95", "used_price": "$20.21", "authors": "Carrie Doehring", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13301-THEO707-SPRING14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["THEO 707"], "required": true, "new_available": 8, "title": "The Practice of Pastoral Care"}
+{
+    "authors": "Carrie Doehring", 
+    "classified_info": "1 classified listing: $10.00", 
+    "courses": [
+        "THEO 707"
+    ], 
+    "isbn_10": "0664226841", 
+    "isbn_13": "9780664226848", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13301-THEO707-SPRING14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 8, 
+    "new_price": "$26.95", 
+    "required": true, 
+    "title": "The Practice of Pastoral Care", 
+    "used_price": "$20.21"
+}

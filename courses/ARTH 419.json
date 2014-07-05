@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This seminar/practicum course for studio artists focuses on the distinctive intermedia methods found in performance art as developed from the mid-1950s to the present.", 
+        "number": "419", 
+        "subject": "ARTH", 
+        "title": "Performance Art Studies"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0 A GPA of 2.60 in 24.0 units in ARTH and Level 4 and registration in an ARTH or ARTF Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This seminar/practicum course for studio artists focuses on the distinctive intermedia methods found in performance art as developed from the mid-1950s to the present.", 
-        "subject": "ARTH", 
-        "number": "419", 
-        "title": "Performance Art Studies"
     }
 }

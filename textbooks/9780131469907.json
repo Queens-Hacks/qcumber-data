@@ -1,1 +1,15 @@
-{"isbn_13": "9780131469907", "isbn_10": "0131469908", "classified_info": "4 classified listings: $70.00 to $100.00", "new_price": "$186.65", "used_price": "$132.65", "authors": "Nicholas J. Giordano, Hisao Nakanishi", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13633-PHYS313-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["PHYS 313"], "required": true, "new_available": 3, "title": "Computational Physics"}
+{
+    "authors": "Nicholas J. Giordano, Hisao Nakanishi", 
+    "classified_info": "4 classified listings: $70.00 to $100.00", 
+    "courses": [
+        "PHYS 313"
+    ], 
+    "isbn_10": "0131469908", 
+    "isbn_13": "9780131469907", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13633-PHYS313-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 3, 
+    "new_price": "$186.65", 
+    "required": true, 
+    "title": "Computational Physics", 
+    "used_price": "$132.65"
+}

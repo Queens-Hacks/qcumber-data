@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "PUNS", 
+        "subject": "POLS", 
+        "title": "Unspecified Credit - 0 Level"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "POLS", 
-        "number": "PUNS", 
-        "title": "Unspecified Credit - 0 Level"
     }
 }

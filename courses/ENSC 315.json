@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "National and global review of current and projected adequacy of food supplies, as affected by soil and water resources, climate and climate change, and human population growth. Reviews different scenarios for meeting food needs over the next 50 years, including technological, social, economic, and political factors.", 
+        "number": "315", 
+        "subject": "ENSC", 
+        "title": "Global Food Security, Agriculture, and Environment"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "3rd year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "National and global review of current and projected adequacy of food supplies, as affected by soil and water resources, climate and climate change, and human population growth. Reviews different scenarios for meeting food needs over the next 50 years, including technological, social, economic, and political factors.", 
-        "subject": "ENSC", 
-        "number": "315", 
-        "title": "Global Food Security, Agriculture, and Environment"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The course is intended to provide students with the ability to understand and incorporate dynamics and vibration into their designs as predictors throughout the stages of the design process and as analysis tools during prototype testing. Techniques of dynamic model development ranging from Newton-Euler Equations to Lagrange\u00bfs Equations to modern Multi-Body Dynamics (MBD) techniques are presented and compared. The design utility of the derived models, from simple linear to complex non-linear and 3D, and what they bring to the design process is presented.\u00a0 Examples, drawn primarily from vehicle dynamics and suspension design, are used to emphasize the practical use of dynamics and vibration in the design process. The A\u00bfGEM multibody dynamics software will be provided for analysis sessions.\u00a0 (Lead Instructor: Ron Anderson, Queen's)", 
+        "number": "819", 
+        "subject": "DM", 
+        "title": "Eng Design Dynamics&Vibrations"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course is intended to provide students with the ability to understand and incorporate dynamics and vibration into their designs as predictors throughout the stages of the design process and as analysis tools during prototype testing. Techniques of dynamic model development ranging from Newton-Euler Equations to Lagrange\u00bfs Equations to modern Multi-Body Dynamics (MBD) techniques are presented and compared. The design utility of the derived models, from simple linear to complex non-linear and 3D, and what they bring to the design process is presented.\u00a0 Examples, drawn primarily from vehicle dynamics and suspension design, are used to emphasize the practical use of dynamics and vibration in the design process. The A\u00bfGEM multibody dynamics software will be provided for analysis sessions.\u00a0 (Lead Instructor: Ron Anderson, Queen's)", 
-        "subject": "DM", 
-        "number": "819", 
-        "title": "Eng Design Dynamics&Vibrations"
     }
 }

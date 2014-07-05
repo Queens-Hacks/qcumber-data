@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "An independent research project by each student in one of the departmental research labs. Evaluation is based on oral presentation, lab performance and a thesis. \r\nNOTE\u00a0\u00a0\u00a0 6.0-unit course offered in the Fall Term.", 
+        "number": "422", 
+        "subject": "BCHM", 
+        "title": "Advanced Biochem Lab II"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "An independent research project by each student in one of the departmental research labs. Evaluation is based on oral presentation, lab performance and a thesis. \r\nNOTE\u00a0\u00a0\u00a0 6.0-unit course offered in the Fall Term.", 
-        "subject": "BCHM", 
-        "number": "422", 
-        "title": "Advanced Biochem Lab II"
     }
 }

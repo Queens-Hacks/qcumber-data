@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Students examine the concept of embodiment of gendered identities through the multiple lenses of difference including race, class, sexuality, (dis)ability, location, age, ethnicity. The offering of the course depends upon faculty availability.", 
+        "number": "811", 
+        "subject": "GNDS", 
+        "title": "Identities And Difference"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Students examine the concept of embodiment of gendered identities through the multiple lenses of difference including race, class, sexuality, (dis)ability, location, age, ethnicity. The offering of the course depends upon faculty availability.", 
-        "subject": "GNDS", 
-        "number": "811", 
-        "title": "Identities And Difference"
     }
 }

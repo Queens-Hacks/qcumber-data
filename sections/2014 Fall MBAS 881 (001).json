@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (7625)", 
     "basic": {
         "class_num": "7625", 
-        "subject": "MBAS", 
-        "status": "Closed", 
         "course": "881", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBAS", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (7625)", 
     "classes": [
         {
-            "term_end": "2014-12-12T00:00:00", 
-            "term_start": "2014-11-18T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Detomasi, David"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-12-12T00:00:00", 
+            "term_start": "2014-11-18T00:00:00"
         }
     ]
 }

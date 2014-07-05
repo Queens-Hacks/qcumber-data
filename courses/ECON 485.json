@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Series of seminar courses on microeconomic topics. Evaluation based on presentations, formal/informal participation and written papers. Offerings vary from year to year with staff availability. Topics announced in advance of course selection and available on the Undergraduate webpage.\r\nNOTE\u00a0\u00a0\u00a0 Fourth year ECON Medial students with fewer than 30.0 ECON units and fourth year APEC students without ECON 320 should contact the department before May 1 to obtain permission to register in this course.", 
+        "number": "485", 
+        "subject": "ECON", 
+        "title": "Seminar In Microeconomics VI"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "PREREQUISITE\u00a0 Level 4 in ECON/APEC & (GPA of 1.90) & (a minimum GPA of 2.60 in 30.0 units of ECON) and (ECON310; ECON320; ECON351).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Series of seminar courses on microeconomic topics. Evaluation based on presentations, formal/informal participation and written papers. Offerings vary from year to year with staff availability. Topics announced in advance of course selection and available on the Undergraduate webpage.\r\nNOTE\u00a0\u00a0\u00a0 Fourth year ECON Medial students with fewer than 30.0 ECON units and fourth year APEC students without ECON 320 should contact the department before May 1 to obtain permission to register in this course.", 
-        "subject": "ECON", 
-        "number": "485", 
-        "title": "Seminar In Microeconomics VI"
     }
 }

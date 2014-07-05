@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "399", 
+        "subject": "COMM", 
+        "title": "E-Commerce Management"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BCOM Academic Program and have a level > or equal to 3; or registered in a COMM-X Academic Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "COMM", 
-        "number": "399", 
-        "title": "E-Commerce Management"
     }
 }

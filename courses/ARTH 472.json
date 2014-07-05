@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An assessment of hybrid art focusing on the period of European evangelization of non-European civilizations, 15th-19th c., a global encounter involving the widest spectrum of peoples, races, cultures, and religions. Will consider the transformation of the arts of Early Modern Europe in contact situations in Asia, Africa, Latin America, and Quebec.", 
+        "number": "472", 
+        "subject": "ARTH", 
+        "title": "Art and Global Encounter in Asia, the Americas and Africa, 1492-1850"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 A GPA of 2.6 in a minium of 24.0 units in ARTH and Level 4 and registration in an ARTH Major or Medial Plan.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An assessment of hybrid art focusing on the period of European evangelization of non-European civilizations, 15th-19th c., a global encounter involving the widest spectrum of peoples, races, cultures, and religions. Will consider the transformation of the arts of Early Modern Europe in contact situations in Asia, Africa, Latin America, and Quebec.", 
-        "subject": "ARTH", 
-        "number": "472", 
-        "title": "Art and Global Encounter in Asia, the Americas and Africa, 1492-1850"
     }
 }

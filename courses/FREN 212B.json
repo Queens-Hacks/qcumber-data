@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to French literature from 1600 to 1800 stressing how tensions generated between different ideas within a period determine the aesthetic, philosophical and literary choices made by major authors. Tutorials are devoted to a study of texts by the authors studied during lecture hours.", 
+        "number": "212B", 
+        "subject": "FREN", 
+        "title": "Introduction \u00e0 la litt\u00e9rature fran\u00e7aise"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "An introduction to French literature from 1600 to 1800 stressing how tensions generated between different ideas within a period determine the aesthetic, philosophical and literary choices made by major authors. Tutorials are devoted to a study of texts by the authors studied during lecture hours.", 
-        "subject": "FREN", 
-        "number": "212B", 
-        "title": "Introduction \u00e0 la litt\u00e9rature fran\u00e7aise"
     }
 }

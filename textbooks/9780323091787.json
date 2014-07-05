@@ -1,1 +1,15 @@
-{"isbn_13": "9780323091787", "isbn_10": "0323091784", "classified_info": "0 classified listings", "new_price": "$126.98", "used_price": "$95.23", "authors": "Linda D. Urden", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13641-NURS403-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["NURS 403"], "required": true, "new_available": 89, "title": "Critical Care Nursing"}
+{
+    "authors": "Linda D. Urden", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "NURS 403"
+    ], 
+    "isbn_10": "0323091784", 
+    "isbn_13": "9780323091787", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13641-NURS403-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 89, 
+    "new_price": "$126.98", 
+    "required": true, 
+    "title": "Critical Care Nursing", 
+    "used_price": "$95.23"
+}

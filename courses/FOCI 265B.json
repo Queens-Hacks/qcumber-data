@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Teacher candidates share interests in learning outside the classroom. Emphasizes field experiences and the exploration of programs developed by various institutions (galleries, museums, and many others) for school use. Focuses on the human-made or built environment and institutions, rather than on the natural environment. Explores ways of using out-of-classroom experiences to enhance classroom learning from Primary to Senior grades; establishes principles of effective field experiences; and discovers potential opportunities for non-school employment as, for example, curriculum developers and implementers in such settings as museums or galleries.", 
+        "number": "265B", 
+        "subject": "FOCI", 
+        "title": "Out-Of-Classroom Experiences"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Teacher candidates share interests in learning outside the classroom. Emphasizes field experiences and the exploration of programs developed by various institutions (galleries, museums, and many others) for school use. Focuses on the human-made or built environment and institutions, rather than on the natural environment. Explores ways of using out-of-classroom experiences to enhance classroom learning from Primary to Senior grades; establishes principles of effective field experiences; and discovers potential opportunities for non-school employment as, for example, curriculum developers and implementers in such settings as museums or galleries.", 
-        "subject": "FOCI", 
-        "number": "265B", 
-        "title": "Out-Of-Classroom Experiences"
     }
 }

@@ -1,27 +1,27 @@
 {
-    "extra": {
-        "add_consent": "Department Consent Required", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "typically_offered": "Fall", 
-        "CEAB": {
-            "Basic Sci": 12, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 33, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "3.75"
-    }, 
     "basic": {
         "description": "This course provides the student with a background in the basic structural concepts of materials and the relationships between processing, structure, properties and performance. The topics will range from atomic bonding and arrangements, through micro-and macro-structures and their influence on properties, to the processing techniques required to produce the desired structures. All current types of engineering materials, including metals, ceramics, polymers, composites and semiconductors are covered. There is an experimental laboratory to illustrate the principles presented in the course along with some ASTM testing techniques.", 
-        "subject": "MECH", 
         "number": "270", 
+        "subject": "MECH", 
         "title": "Materials Science and Engineering"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 12, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 33, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.75"
     }
 }

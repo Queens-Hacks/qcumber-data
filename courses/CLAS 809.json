@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "An intensive study of archaeological methods and interpretation at a fieldwork project in Italy under the supervision of a member of the Classics Department. COST: In addition to tuition, students are expected to pay their own travel and accommodation costs(Costs are discussed with accepted students prior to departure).Spring/Summer Term or Spring Term or Summer Term. Dr. Fabio Colivicchi Prerequisite: Permission of Course Instructor required in advance Timing of Offering: Annually or in alternate years depending on the research schedule of departmental member concerned.", 
+        "number": "809", 
+        "subject": "CLAS", 
+        "title": "Archaeology Fieldwork Pract."
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An intensive study of archaeological methods and interpretation at a fieldwork project in Italy under the supervision of a member of the Classics Department. COST: In addition to tuition, students are expected to pay their own travel and accommodation costs(Costs are discussed with accepted students prior to departure).Spring/Summer Term or Spring Term or Summer Term. Dr. Fabio Colivicchi Prerequisite: Permission of Course Instructor required in advance Timing of Offering: Annually or in alternate years depending on the research schedule of departmental member concerned.", 
-        "subject": "CLAS", 
-        "number": "809", 
-        "title": "Archaeology Fieldwork Pract."
     }
 }

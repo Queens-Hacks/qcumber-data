@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "A study of production and performance methods, and dramatic literature of the 20th and 21st centuries.", 
+        "number": "300B", 
+        "subject": "DRAM", 
+        "title": "Theatre History & Literature !!"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A study of production and performance methods, and dramatic literature of the 20th and 21st centuries.", 
-        "subject": "DRAM", 
-        "number": "300B", 
-        "title": "Theatre History & Literature !!"
     }
 }

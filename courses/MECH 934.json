@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The objective of this course is to teach students to understand the potential and limitations of Computational Fluid Dynamics (CFD), develop advanced solution methods for fluid-dynamics problems, and run commercial software in a critical manner. The course begins by presenting various forms of numerical approximations of the governing equations. An in-depth analysis of iterative methods to solve linear systems will follow. Numerical methods for the solution of the Navier-Stokes equations will be presented, with emphasis on numerical stability and on conservation properties. Three term-hours lectures.", 
+        "number": "934", 
+        "subject": "MECH", 
+        "title": "Comp. Fluid Dyns. II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The objective of this course is to teach students to understand the potential and limitations of Computational Fluid Dynamics (CFD), develop advanced solution methods for fluid-dynamics problems, and run commercial software in a critical manner. The course begins by presenting various forms of numerical approximations of the governing equations. An in-depth analysis of iterative methods to solve linear systems will follow. Numerical methods for the solution of the Navier-Stokes equations will be presented, with emphasis on numerical stability and on conservation properties. Three term-hours lectures.", 
-        "subject": "MECH", 
-        "number": "934", 
-        "title": "Comp. Fluid Dyns. II"
     }
 }

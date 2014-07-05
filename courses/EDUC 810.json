@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This study of the current state of literacy education will include the following topics: definitions and philosophies of literacy in English pedagogy, social and cultural influences, literary theories, writing and reading pedagogies, practices of interpretation, current trends in literacy research, issues of assessment, and influences of media and technology on literacy. Not offered 2010-2011.", 
+        "number": "810", 
+        "subject": "EDUC", 
+        "title": "Topics In Literacy Education"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This study of the current state of literacy education will include the following topics: definitions and philosophies of literacy in English pedagogy, social and cultural influences, literary theories, writing and reading pedagogies, practices of interpretation, current trends in literacy research, issues of assessment, and influences of media and technology on literacy. Not offered 2010-2011.", 
-        "subject": "EDUC", 
-        "number": "810", 
-        "title": "Topics In Literacy Education"
     }
 }

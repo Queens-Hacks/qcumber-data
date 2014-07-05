@@ -1,1 +1,13 @@
-{"isbn_13": "9780889117976", "isbn_10": "0889117977", "classified_info": "3 classified listings: $15.00 to $20.00", "new_price": "$28.38", "authors": "Douglas L. Bland", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13846-MPA523-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull", "courses": ["MPA 523"], "required": true, "title": "Canada's national defence"}
+{
+    "authors": "Douglas L. Bland", 
+    "classified_info": "3 classified listings: $15.00 to $20.00", 
+    "courses": [
+        "MPA 523"
+    ], 
+    "isbn_10": "0889117977", 
+    "isbn_13": "9780889117976", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13846-MPA523-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull", 
+    "new_price": "$28.38", 
+    "required": true, 
+    "title": "Canada's national defence"
+}

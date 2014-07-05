@@ -1,1 +1,15 @@
-{"isbn_13": "9782894060605", "isbn_10": "2894060602", "classified_info": "2 classified listings: $3.00 to $6.00", "new_price": "$5.64", "used_price": "$4.23", "authors": "Honore Beaugrand", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13833-FRF160-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["FRF 160"], "required": true, "new_available": 6, "title": "La chasse-galerie"}
+{
+    "authors": "Honore Beaugrand", 
+    "classified_info": "2 classified listings: $3.00 to $6.00", 
+    "courses": [
+        "FRF 160"
+    ], 
+    "isbn_10": "2894060602", 
+    "isbn_13": "9782894060605", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13833-FRF160-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 6, 
+    "new_price": "$5.64", 
+    "required": true, 
+    "title": "La chasse-galerie", 
+    "used_price": "$4.23"
+}

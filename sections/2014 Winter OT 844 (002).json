@@ -1,48 +1,48 @@
 {
+    "_unique": "002-LAB (6134)", 
     "basic": {
         "class_num": "6134", 
-        "subject": "OT", 
-        "status": "Closed", 
         "course": "844", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "OT", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (6134)", 
     "classes": [
         {
-            "term_end": "2014-05-09T00:00:00", 
-            "term_start": "2014-04-28T00:00:00", 
-            "instructors": [
-                "Ghahari, Setareh"
-            ], 
-            "end_time": "1900-01-01T16:00:00", 
-            "start_time": "1900-01-01T14:00:00", 
             "day_of_week": 1, 
-            "location": "ACTON CEC"
-        }, 
-        {
-            "term_end": "2014-05-09T00:00:00", 
-            "term_start": "2014-04-23T00:00:00", 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Ghahari, Setareh"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "ACTON CEC", 
             "start_time": "1900-01-01T14:00:00", 
+            "term_end": "2014-05-09T00:00:00", 
+            "term_start": "2014-04-28T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "ACTON CEC"
-        }, 
-        {
-            "term_end": "2014-05-09T00:00:00", 
-            "term_start": "2014-04-23T00:00:00", 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Ghahari, Setareh"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "ACTON CEC", 
             "start_time": "1900-01-01T14:00:00", 
+            "term_end": "2014-05-09T00:00:00", 
+            "term_start": "2014-04-23T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "ACTON CEC"
+            "end_time": "1900-01-01T16:00:00", 
+            "instructors": [
+                "Ghahari, Setareh"
+            ], 
+            "location": "ACTON CEC", 
+            "start_time": "1900-01-01T14:00:00", 
+            "term_end": "2014-05-09T00:00:00", 
+            "term_start": "2014-04-23T00:00:00"
         }
     ]
 }

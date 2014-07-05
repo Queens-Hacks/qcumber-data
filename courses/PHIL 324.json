@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course offers an introduction to African philosophical thought. After dealing with metatheoretical questions about the nature of philosophy and the philosophical inquirer, the focus will shift to African views on topics such as truth, the concept of a person, art, morality, slavery and colonialism.", 
+        "number": "324", 
+        "subject": "PHIL", 
+        "title": "African Philosophy"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Completed 60.0 or more units.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course offers an introduction to African philosophical thought. After dealing with metatheoretical questions about the nature of philosophy and the philosophical inquirer, the focus will shift to African views on topics such as truth, the concept of a person, art, morality, slavery and colonialism.", 
-        "subject": "PHIL", 
-        "number": "324", 
-        "title": "African Philosophy"
     }
 }

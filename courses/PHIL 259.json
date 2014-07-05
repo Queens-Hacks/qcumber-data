@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A discussion of the general principles of reasonable discourse, with a focus on persuasive and cogent writing.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "259", 
+        "subject": "PHIL", 
+        "title": "Critical Thinking"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 3 units from PHIL158; PHIL259", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A discussion of the general principles of reasonable discourse, with a focus on persuasive and cogent writing.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "PHIL", 
-        "number": "259", 
-        "title": "Critical Thinking"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A detailed study of one artist or theme in the visual culture of northern Europe, primarily The Netherlands and/or Germany.\u00a0Topics may focus on the Renaissance and/or Baroque era (ca. 1400-1750).\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ARTH 214/3.0 and 215/3.0 (or ARTH 213/6.0) or ARTH 353/3.0 or ARTH 354/3.0 or ARTH 375/3.0.", 
+        "number": "446", 
+        "subject": "ARTH", 
+        "title": "Topics in Northern Renaissance and Baroque Art"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 A GPA of 2.6 in a minium of 24.0 units in ARTH and Level 4 and registration in an ARTH Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A detailed study of one artist or theme in the visual culture of northern Europe, primarily The Netherlands and/or Germany.\u00a0Topics may focus on the Renaissance and/or Baroque era (ca. 1400-1750).\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ARTH 214/3.0 and 215/3.0 (or ARTH 213/6.0) or ARTH 353/3.0 or ARTH 354/3.0 or ARTH 375/3.0.", 
-        "subject": "ARTH", 
-        "number": "446", 
-        "title": "Topics in Northern Renaissance and Baroque Art"
     }
 }

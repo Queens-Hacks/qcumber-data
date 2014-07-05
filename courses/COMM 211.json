@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "As the initial course in accounting, this course provides a foundation of accounting knowledge necessary to the fuller appreciation of many aspects of business. The structure of the process of accounting is studied, with particular emphasis on the use, interpretation, and communication of financial information.", 
+        "number": "211", 
+        "subject": "COMM", 
+        "title": "Financial Accounting"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or above.\r\nExclusion: COMM111.\r\nNOTE\u00a0\u00a0\u00a0 This course is not available to students enrolled in the Commerce Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "As the initial course in accounting, this course provides a foundation of accounting knowledge necessary to the fuller appreciation of many aspects of business. The structure of the process of accounting is studied, with particular emphasis on the use, interpretation, and communication of financial information.", 
-        "subject": "COMM", 
-        "number": "211", 
-        "title": "Financial Accounting"
     }
 }

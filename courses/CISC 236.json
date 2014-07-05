@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "236", 
+        "subject": "CISC", 
+        "title": "Fund Of Software Eng & Info St"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "CISC121", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CISC", 
-        "number": "236", 
-        "title": "Fund Of Software Eng & Info St"
     }
 }

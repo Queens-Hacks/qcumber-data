@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The history of life, from its inception four billion years ago to the present day, focusing on the inter-relationship between organic evolution and global change. Coevolution of early life and the atmosphere; development of marine animals and their ecosystems; invasion of the land; dinosaurs and their world; mass extinctions; the Age of Mammals; and hominid evolution. Lectures plus four three-hour laboratories.", 
+        "number": "207", 
+        "subject": "GEOE", 
+        "title": "History of Life"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 42, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "The history of life, from its inception four billion years ago to the present day, focusing on the inter-relationship between organic evolution and global change. Coevolution of early life and the atmosphere; development of marine animals and their ecosystems; invasion of the land; dinosaurs and their world; mass extinctions; the Age of Mammals; and hominid evolution. Lectures plus four three-hour laboratories.", 
-        "subject": "GEOE", 
-        "number": "207", 
-        "title": "History of Life"
     }
 }

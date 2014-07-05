@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The use of living organisms to address environmental problems. Topics include mechanisms of contaminant extraction, absorption, concentration, and degradation using bacteria and plants to detoxify organic compounds, sequester heavy metals or clean up excess nutrients. \r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $40.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 BIOL 301/3.0 or BIOL 322/3.0 or BIOL 339/3.0 or BIOL 341/3.0 is recommended.", 
+        "number": "409", 
+        "subject": "BIOL", 
+        "title": "Bioremediation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BIOL330", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The use of living organisms to address environmental problems. Topics include mechanisms of contaminant extraction, absorption, concentration, and degradation using bacteria and plants to detoxify organic compounds, sequester heavy metals or clean up excess nutrients. \r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $40.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 BIOL 301/3.0 or BIOL 322/3.0 or BIOL 339/3.0 or BIOL 341/3.0 is recommended.", 
-        "subject": "BIOL", 
-        "number": "409", 
-        "title": "Bioremediation"
     }
 }

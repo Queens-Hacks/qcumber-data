@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Laboratory and lecture course that presents techniques and skills that are the foundations of experimental physics. Topics include statistical analysis of data, uncertainties in measurement, propagation of errors, software for data analysis, graphing and reporting. Students will be exposed to techniques in the measurement of electric, magnetic, thermal and mechanical properties. Laboratories also illustrate some principles of quantum physics, mechanics, electromagnetism and thermodynamics learned in other physics courses. Some exposure to computerized data acquisition is included.", 
+        "number": "250", 
+        "subject": "PHYS", 
+        "title": "Foundations of Experimental Physics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0 PHYS104 or 106.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Laboratory and lecture course that presents techniques and skills that are the foundations of experimental physics. Topics include statistical analysis of data, uncertainties in measurement, propagation of errors, software for data analysis, graphing and reporting. Students will be exposed to techniques in the measurement of electric, magnetic, thermal and mechanical properties. Laboratories also illustrate some principles of quantum physics, mechanics, electromagnetism and thermodynamics learned in other physics courses. Some exposure to computerized data acquisition is included.", 
-        "subject": "PHYS", 
-        "number": "250", 
-        "title": "Foundations of Experimental Physics"
     }
 }

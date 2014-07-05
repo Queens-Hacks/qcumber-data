@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course covers approaches to the discipline, the philosophy of social science, and issues and problems in research design. This course is compulsory for doctoral students who have not already completed a similar graduate course. Doctoral students who have completed a similar course will take another course as their sixth. Students in the Political Studies MA program are eligible to take this course with permission from the Graduate Coordinator.", 
+        "number": "900", 
+        "subject": "POLS", 
+        "title": "Methods Of Political Science"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course covers approaches to the discipline, the philosophy of social science, and issues and problems in research design. This course is compulsory for doctoral students who have not already completed a similar graduate course. Doctoral students who have completed a similar course will take another course as their sixth. Students in the Political Studies MA program are eligible to take this course with permission from the Graduate Coordinator.", 
-        "subject": "POLS", 
-        "number": "900", 
-        "title": "Methods Of Political Science"
     }
 }

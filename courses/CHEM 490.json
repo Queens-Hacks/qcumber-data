@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "490", 
+        "subject": "CHEM", 
+        "title": "Computer Control&Data Process"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of (CHEM272 and CHEM244) and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CHEM", 
-        "number": "490", 
-        "title": "Computer Control&Data Process"
     }
 }

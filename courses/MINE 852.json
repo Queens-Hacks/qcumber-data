@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Objectives, constraints, and methodologies for mechanization and automation. Modelling and simulation of mining processes and equipment. Equipment monitoring. Production monitoring. Navigation and automatic guidance of mobile equipment, including inertial navigation and GPS. Dispatching and scheduling systems. Mine-wide communications systems. SCADA (Supervisory control and data acquisition) systems. Teleoperation and Telerobotics technologies. Machine design in the context of mechanization and automation; reliability and maintainability. Technology transfer issues. Case studies of both surface and underground mines.\u00a0 Three term hours, fall and winter term; lectures. L.K. Daneshmend", 
+        "number": "852", 
+        "subject": "MINE", 
+        "title": "Mine Mechanization and Automation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Objectives, constraints, and methodologies for mechanization and automation. Modelling and simulation of mining processes and equipment. Equipment monitoring. Production monitoring. Navigation and automatic guidance of mobile equipment, including inertial navigation and GPS. Dispatching and scheduling systems. Mine-wide communications systems. SCADA (Supervisory control and data acquisition) systems. Teleoperation and Telerobotics technologies. Machine design in the context of mechanization and automation; reliability and maintainability. Technology transfer issues. Case studies of both surface and underground mines.\u00a0 Three term hours, fall and winter term; lectures. L.K. Daneshmend", 
-        "subject": "MINE", 
-        "number": "852", 
-        "title": "Mine Mechanization and Automation"
     }
 }

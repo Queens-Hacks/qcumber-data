@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (2163)", 
     "basic": {
         "class_num": "2163", 
-        "subject": "MACC", 
-        "status": "Closed", 
         "course": "812", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MACC", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2163)", 
     "classes": [
         {
-            "term_end": "2014-07-25T00:00:00", 
-            "term_start": "2014-06-19T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Oliverio, Joseph"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-07-25T00:00:00", 
+            "term_start": "2014-06-19T00:00:00"
         }
     ]
 }

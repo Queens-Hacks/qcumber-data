@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Addresses exceptional children and adolescents, including those who are gifted, those with learning disabilities, chronic health conditions, developmental delays, and behaviour and emotional difficulties. Opportunities to learn from experience, workshops, reading, peers and mentor, as well as opportunities to develop competence and confidence in teaching exceptional learners and to provide leadership in this area. The organization is highly experiential, self-directed and collaborative, within a group who share an interest in working with exceptional learners.", 
+        "number": "295A", 
+        "subject": "FOCI", 
+        "title": "Teach Exceptional Child&Adol"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Restricted to BED/DED Program", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Addresses exceptional children and adolescents, including those who are gifted, those with learning disabilities, chronic health conditions, developmental delays, and behaviour and emotional difficulties. Opportunities to learn from experience, workshops, reading, peers and mentor, as well as opportunities to develop competence and confidence in teaching exceptional learners and to provide leadership in this area. The organization is highly experiential, self-directed and collaborative, within a group who share an interest in working with exceptional learners.", 
-        "subject": "FOCI", 
-        "number": "295A", 
-        "title": "Teach Exceptional Child&Adol"
     }
 }

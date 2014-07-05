@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Specialized topics in management research will be covered. The subject matter will vary from year to year depending on the interests of the faculty.", 
+        "number": "992", 
+        "subject": "MGMT", 
+        "title": "Management Research Topics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Reading": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Specialized topics in management research will be covered. The subject matter will vary from year to year depending on the interests of the faculty.", 
-        "subject": "MGMT", 
-        "number": "992", 
-        "title": "Management Research Topics"
     }
 }

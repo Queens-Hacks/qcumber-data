@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of the key ideas from a major figure in the history of philosophy.\u00a0 Philosophers studied will vary from offering-to-offering, including Aristotle, Aquinas, Kant, Mill and Rawls.", 
+        "number": "446", 
+        "subject": "PHIL", 
+        "title": "Major Figures II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 and registration in a PHIL Major or Medial Plan and (a minimum GPA of 2.60 in PHIL250 and PHIL257) and (6.0 units in PHIL).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of the key ideas from a major figure in the history of philosophy.\u00a0 Philosophers studied will vary from offering-to-offering, including Aristotle, Aquinas, Kant, Mill and Rawls.", 
-        "subject": "PHIL", 
-        "number": "446", 
-        "title": "Major Figures II"
     }
 }

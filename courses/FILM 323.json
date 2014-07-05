@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Intermediate examination of film and television in Canada since 1980, taking into account regional difference and other cultural, political, and economic distinctions.", 
+        "number": "323", 
+        "subject": "FILM", 
+        "title": "Contemporary Canadian Film & Television"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A GPA of 2.6 in FILM and (a grade of B- in FILM110 or FILM104&106) and 6.0 units in FILM.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intermediate examination of film and television in Canada since 1980, taking into account regional difference and other cultural, political, and economic distinctions.", 
-        "subject": "FILM", 
-        "number": "323", 
-        "title": "Contemporary Canadian Film & Television"
     }
 }

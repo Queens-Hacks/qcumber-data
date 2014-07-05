@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "A detailed study of the gross and functional anatomy of the human body with emphasis on clinical application. The course is given jointly with part of Phase I of the medical curriculum. Additional work prescribed for graduate students. Full course; lectures, laboratories and tutorials. C.W.Reifel and Staff. Learning Materials: $40", 
+        "number": "814A", 
+        "subject": "ANAT", 
+        "title": "Medical Gross Anatomy"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "A detailed study of the gross and functional anatomy of the human body with emphasis on clinical application. The course is given jointly with part of Phase I of the medical curriculum. Additional work prescribed for graduate students. Full course; lectures, laboratories and tutorials. C.W.Reifel and Staff. Learning Materials: $40", 
-        "subject": "ANAT", 
-        "number": "814A", 
-        "title": "Medical Gross Anatomy"
     }
 }

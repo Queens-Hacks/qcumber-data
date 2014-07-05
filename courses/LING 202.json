@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course investigates the distinctive characteristics of Canadian English as it is spoken and written today. Topics include historical development, regional dialects, and current changes. Students will have access to the extensive bibliographic and computer corpus resources of the Strathy Language Unit.", 
+        "number": "202", 
+        "subject": "LING", 
+        "title": "Canadian English"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course investigates the distinctive characteristics of Canadian English as it is spoken and written today. Topics include historical development, regional dialects, and current changes. Students will have access to the extensive bibliographic and computer corpus resources of the Strathy Language Unit.", 
-        "subject": "LING", 
-        "number": "202", 
-        "title": "Canadian English"
     }
 }

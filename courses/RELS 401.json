@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Advanced seminar providing detailed reading of one contemporary theme or thinker in religious studies.", 
+        "number": "401", 
+        "subject": "RELS", 
+        "title": "Honours Seminar"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 4 and registration in a RELS Major or Medial Plan and a GPA of 2.60 in 24.0 units in RELS.\r\nCorequisite\u00a0\u00a0\u00a0 RELS353 or (RELS354 and RELS355).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Advanced seminar providing detailed reading of one contemporary theme or thinker in religious studies.", 
-        "subject": "RELS", 
-        "number": "401", 
-        "title": "Honours Seminar"
     }
 }

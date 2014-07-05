@@ -1,1 +1,15 @@
-{"isbn_13": "9780156028356", "used_available": 18, "isbn_10": "0156028352", "classified_info": "0 classified listings", "new_price": "$17.96", "used_price": "$13.47", "authors": "Alice Walker", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13567-ENGL160-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl08_test_ModeFull", "courses": ["ENGL 160"], "required": true, "title": "The Color Purple"}
+{
+    "authors": "Alice Walker", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 160"
+    ], 
+    "isbn_10": "0156028352", 
+    "isbn_13": "9780156028356", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13567-ENGL160-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl08_test_ModeFull", 
+    "new_price": "$17.96", 
+    "required": true, 
+    "title": "The Color Purple", 
+    "used_available": 18, 
+    "used_price": "$13.47"
+}

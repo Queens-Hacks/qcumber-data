@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The course provides in-depth coverage of the fundamentals of colloidal interactions (e.g., stabilisation, adsorption, self-assembly) and the techniques currently applied for their assessment. Current and emerging colloids-related technologies, with emphasis on nano-scale engineering (self- and directed-assembly of nanostructured materials, photonic crystals, sensors) will also be covered.Three term-hours;\u00a0 A. Docoslis", 
+        "number": "809", 
+        "subject": "CHEE", 
+        "title": "Colloid & Surface Phenomena"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course provides in-depth coverage of the fundamentals of colloidal interactions (e.g., stabilisation, adsorption, self-assembly) and the techniques currently applied for their assessment. Current and emerging colloids-related technologies, with emphasis on nano-scale engineering (self- and directed-assembly of nanostructured materials, photonic crystals, sensors) will also be covered.Three term-hours;\u00a0 A. Docoslis", 
-        "subject": "CHEE", 
-        "number": "809", 
-        "title": "Colloid & Surface Phenomena"
     }
 }

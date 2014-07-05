@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Intermediate examination of generic convention, iconography, relations to modes of production and to audience, and historical dimensions, using as examples films or video productions in one or more genre.\u00a0", 
+        "number": "302", 
+        "subject": "FILM", 
+        "title": "Genre"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A GPA of 2.6 in FILM and (a grade of B- in FILM110 or FILM104&106) and 6.0 units in FILM.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intermediate examination of generic convention, iconography, relations to modes of production and to audience, and historical dimensions, using as examples films or video productions in one or more genre.\u00a0", 
-        "subject": "FILM", 
-        "number": "302", 
-        "title": "Genre"
     }
 }

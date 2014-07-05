@@ -1,33 +1,33 @@
 {
+    "_unique": "200-TUT (4733)", 
     "basic": {
         "class_num": "4733", 
-        "subject": "APSC", 
-        "status": "Open", 
         "course": "112", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "200", 
+        "status": "Open", 
+        "subject": "APSC", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "200-TUT (4733)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 5, 
-            "location": "STIRLING RM401"
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM401", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 5, 
-            "location": "ELLIS RM218"
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [], 
+            "location": "ELLIS RM218", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

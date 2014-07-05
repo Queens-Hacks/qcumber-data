@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Provides teacher candidates with the opportunity to develop understandings, skills and attitudes to effectively teach physical and health education and to help children develop active healthy lifestyles. Candidates become familiar with Ministry of Education curriculum documents and a variety of teaching/learning strategies and resources.", 
+        "number": "395B", 
+        "subject": "CURR", 
+        "title": "Health & Physical Educ (PJ)"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "Provides teacher candidates with the opportunity to develop understandings, skills and attitudes to effectively teach physical and health education and to help children develop active healthy lifestyles. Candidates become familiar with Ministry of Education curriculum documents and a variety of teaching/learning strategies and resources.", 
-        "subject": "CURR", 
-        "number": "395B", 
-        "title": "Health & Physical Educ (PJ)"
     }
 }

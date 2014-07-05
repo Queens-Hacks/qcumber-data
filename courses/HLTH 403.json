@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Explores global perspectives of Community Based Rehabilitation as a strategy for equalization of health, education and social inclusion of persons with disabilities. Design, implement and evaluate CBR programs and examine basic CBR frameworks, health and disability policy, global partnerships, education and training strategies.\r\nNOTE\u00a0\u00a0\u00a0 This course falls under a selection of courses with a focus on Interdisciplinary Studies in Global Health and Disability that will be offered only at the Bader International Study Centre.", 
+        "number": "403", 
+        "subject": "HLTH", 
+        "title": "Community Based Rehabilitation"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0 3rd-year standing or above & min GPA of 1.9\r\nCorequisite\u00a0\u00a0\u00a0 HLTH401 and HLTH402", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Explores global perspectives of Community Based Rehabilitation as a strategy for equalization of health, education and social inclusion of persons with disabilities. Design, implement and evaluate CBR programs and examine basic CBR frameworks, health and disability policy, global partnerships, education and training strategies.\r\nNOTE\u00a0\u00a0\u00a0 This course falls under a selection of courses with a focus on Interdisciplinary Studies in Global Health and Disability that will be offered only at the Bader International Study Centre.", 
-        "subject": "HLTH", 
-        "number": "403", 
-        "title": "Community Based Rehabilitation"
     }
 }

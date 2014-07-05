@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The theory and use of numerical computational procedures to solve geo-engineering problems. The utility, significance and widespread applicability of analytical and numerical techniques will be illustrated in the evaluation and solution of practical problems. Methods for: solution of simultaneous linear equations, curve fitting, solution of the algebraic eigenvalue problem, interpolation, least-squares, error propagation and geostatistics are included.", 
+        "number": "359", 
+        "subject": "GEOE", 
+        "title": "Applied Quantitative Analysis in Geological Engineering"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 15, 
+            "Comp St": 0, 
             "Eng Des": 12, 
             "Eng Sci": 15, 
-            "Comp St": 0
+            "Math": 15
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "The theory and use of numerical computational procedures to solve geo-engineering problems. The utility, significance and widespread applicability of analytical and numerical techniques will be illustrated in the evaluation and solution of practical problems. Methods for: solution of simultaneous linear equations, curve fitting, solution of the algebraic eigenvalue problem, interpolation, least-squares, error propagation and geostatistics are included.", 
-        "subject": "GEOE", 
-        "number": "359", 
-        "title": "Applied Quantitative Analysis in Geological Engineering"
     }
 }

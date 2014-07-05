@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Through lectures, seminars and assigned readings selected topics in mineralogy are explored. Emphasis on the current literature and the details of mineralogical phenomena will lead to better understanding of petrologic systems. \r\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.", 
+        "number": "352", 
+        "subject": "GEOL", 
+        "title": "Topics in Mineralogy"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL232 or GEOL212", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Through lectures, seminars and assigned readings selected topics in mineralogy are explored. Emphasis on the current literature and the details of mineralogical phenomena will lead to better understanding of petrologic systems. \r\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.", 
-        "subject": "GEOL", 
-        "number": "352", 
-        "title": "Topics in Mineralogy"
     }
 }

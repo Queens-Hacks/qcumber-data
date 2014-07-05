@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Students can apply to undertake a practical internship in media production, criticism or curatorship. All internships must be approved in advance by application to the Undergraduate Coordinator. Approval will depend on the quality of the proposal and the academic record of the applicant. Students are required to write a report about their experience and are evaluated jointly by their employer and a faculty member from Film and Media. It is the responsibility of students, not the Department of Film and Media, to arrange internships.\r\nNOTE\u00a0\u00a0\u00a0 Students will be given a grade of Pass/Fail for work done.", 
+        "number": "395", 
+        "subject": "FILM", 
+        "title": "Internship"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A GPA of 2.6 in FILM and (a grade of B- in FILM110 or FILM104&106) and 6.0 units in FILM.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Pass/Fail", 
         "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Students can apply to undertake a practical internship in media production, criticism or curatorship. All internships must be approved in advance by application to the Undergraduate Coordinator. Approval will depend on the quality of the proposal and the academic record of the applicant. Students are required to write a report about their experience and are evaluated jointly by their employer and a faculty member from Film and Media. It is the responsibility of students, not the Department of Film and Media, to arrange internships.\r\nNOTE\u00a0\u00a0\u00a0 Students will be given a grade of Pass/Fail for work done.", 
-        "subject": "FILM", 
-        "number": "395", 
-        "title": "Internship"
     }
 }

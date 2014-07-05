@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Orthonormal families, Fourier series and convergence. Signal spaces, Fourier transforms, and generalized functions. Solution of boundary value problems, including heat, wave, and potential equations. Applications to mechanical, electrical, and thermal systems.", 
+        "number": "334", 
+        "subject": "MTHE", 
+        "title": "Math Methods For Engrg & Phys"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 14, 
+            "Math": 28
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQ: MTHE 237 or MATH 237 and MTHE 281 or MATH 281 and registered in BSCE.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 28, 
-            "Eng Des": 0, 
-            "Eng Sci": 14, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Orthonormal families, Fourier series and convergence. Signal spaces, Fourier transforms, and generalized functions. Solution of boundary value problems, including heat, wave, and potential equations. Applications to mechanical, electrical, and thermal systems.", 
-        "subject": "MTHE", 
-        "number": "334", 
-        "title": "Math Methods For Engrg & Phys"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Design recovery is the extraction of a design model from the artifacts of an existing software system. This design model is used to continue the evolution of the system. The model can be used in the planning and impact analysis stage, while making the changes and to test the result. The extracted design model can also be used to automate each of these tasks to varying degrees. Topics include design models, design recovery techniques, software evolution tasks, the semantics of programming languages and execution environments, and source code transformation. Three term-hours, lectures, Winter, T. Dean.", 
+        "number": "875", 
+        "subject": "ELEC", 
+        "title": "Software Design Recovery"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Design recovery is the extraction of a design model from the artifacts of an existing software system. This design model is used to continue the evolution of the system. The model can be used in the planning and impact analysis stage, while making the changes and to test the result. The extracted design model can also be used to automate each of these tasks to varying degrees. Topics include design models, design recovery techniques, software evolution tasks, the semantics of programming languages and execution environments, and source code transformation. Three term-hours, lectures, Winter, T. Dean.", 
-        "subject": "ELEC", 
-        "number": "875", 
-        "title": "Software Design Recovery"
     }
 }

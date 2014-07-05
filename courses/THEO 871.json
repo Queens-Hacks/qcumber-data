@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "871", 
+        "subject": "THEO", 
+        "title": "Advanced Seminar In Theology"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required", 
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "THEO", 
-        "number": "871", 
-        "title": "Advanced Seminar In Theology"
     }
 }

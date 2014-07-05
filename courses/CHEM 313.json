@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Elementary principles and applications of wave mechanics with special reference to molecular orbitals and chemical bonding.", 
+        "number": "313", 
+        "subject": "CHEM", 
+        "title": "Quantum Mechanics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 (CHEM211 or CHEM222) and (MATH110 or MATH111 or MATH112) and (MATH120 or MATH121 or MATH 122 or [MATH123 & MATH124]) and (PHYS104 or PHYS106 or PHYS107 or PHYS117).\r\nEquivalency\u00a0\u00a0\u00a0 CHEM346", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Elementary principles and applications of wave mechanics with special reference to molecular orbitals and chemical bonding.", 
-        "subject": "CHEM", 
-        "number": "313", 
-        "title": "Quantum Mechanics"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Lecture series on the following topics: principles of drug action, autonomic pharmacology, cardiovascular-renal pharmacology, neuropsychopharmacology, chemotherapy, drugs acting on the endocrine system, over-the-counter drugs, and therapeutic applications. \r\nNOTE\u00a0\u00a0\u00a0 Given in Winter Term and concurrently with students in the School of Nursing.", 
+        "number": "230", 
+        "subject": "PHAR", 
+        "title": "Pharmacology for the Health Sciences"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "COREQUISITE\u00a0\u00a0\u00a0 PHGY 210/6.0 or PHGY 214/6.0 or KNPE 225/3.0 or KINE 225/3.0. \nEXCLUSIONS\u00a0\u00a0\u00a0 No more than 3.0 units from PHAR 100/3.0; PHAR 230/3.0\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from PHAR230; PHAR270", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Lecture series on the following topics: principles of drug action, autonomic pharmacology, cardiovascular-renal pharmacology, neuropsychopharmacology, chemotherapy, drugs acting on the endocrine system, over-the-counter drugs, and therapeutic applications. \r\nNOTE\u00a0\u00a0\u00a0 Given in Winter Term and concurrently with students in the School of Nursing.", 
-        "subject": "PHAR", 
-        "number": "230", 
-        "title": "Pharmacology for the Health Sciences"
     }
 }

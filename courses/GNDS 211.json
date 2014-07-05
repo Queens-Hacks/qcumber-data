@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of feminist narratives and gender politics in relationship to women's lives from the 17th century forward with an emphasis upon global histories.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "211", 
+        "subject": "GNDS", 
+        "title": "Feminist Histories"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "WMNS120 OR WMNS225 OR WMNS125 OR GNDS120 OR (WMNS101 AND WMNS102)", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of feminist narratives and gender politics in relationship to women's lives from the 17th century forward with an emphasis upon global histories.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "GNDS", 
-        "number": "211", 
-        "title": "Feminist Histories"
     }
 }

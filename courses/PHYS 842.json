@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A course covering modern theories of the formation of cosmological structure. Topics include the theory of gravitational instability in the linear regime; the statistics of density fields; cosmic flows; non-linear instability in the context of the cold dark matter universe; N-body simulations; comparisons of theory with the observed Universe.", 
+        "number": "842", 
+        "subject": "PHYS", 
+        "title": "Form. Of Structure In Universe"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "A course covering modern theories of the formation of cosmological structure. Topics include the theory of gravitational instability in the linear regime; the statistics of density fields; cosmic flows; non-linear instability in the context of the cold dark matter universe; N-body simulations; comparisons of theory with the observed Universe.", 
-        "subject": "PHYS", 
-        "number": "842", 
-        "title": "Form. Of Structure In Universe"
     }
 }

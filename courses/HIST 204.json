@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "For more than two centuries, no region has loomed larger in the American imagination - or in foreign views of the U.S. - than the West. This course will challenge the myths of the frontier and explore the reality of the region from the days of conquest and colonization through the late 20th century.", 
+        "number": "204", 
+        "subject": "HIST", 
+        "title": "The Myth and Reality of the American West"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "For more than two centuries, no region has loomed larger in the American imagination - or in foreign views of the U.S. - than the West. This course will challenge the myths of the frontier and explore the reality of the region from the days of conquest and colonization through the late 20th century.", 
-        "subject": "HIST", 
-        "number": "204", 
-        "title": "The Myth and Reality of the American West"
     }
 }

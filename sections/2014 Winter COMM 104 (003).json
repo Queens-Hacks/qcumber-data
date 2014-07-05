@@ -1,35 +1,35 @@
 {
+    "_unique": "003-LEC (2522)", 
     "basic": {
         "class_num": "2522", 
-        "subject": "COMM", 
-        "status": "Open", 
         "course": "104", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "COMM", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "003-LEC (2522)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T13:00:00", 
             "instructors": [
                 "Field, Sean"
             ], 
-            "end_time": "1900-01-01T13:00:00", 
+            "location": "GOODES RM141", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 2, 
-            "location": "GOODES RM141"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T13:00:00", 
             "day_of_week": 5, 
-            "location": "GOODES RM141"
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "GOODES RM141", 
+            "start_time": "1900-01-01T13:00:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Presentation and discussion of current research (faculty).\u00a0 Bi-weekly colloquium.", 
+        "number": "800", 
+        "subject": "CLAS", 
+        "title": "Topic In Classical Scholarship"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Presentation and discussion of current research (faculty).\u00a0 Bi-weekly colloquium.", 
-        "subject": "CLAS", 
-        "number": "800", 
-        "title": "Topic In Classical Scholarship"
     }
 }

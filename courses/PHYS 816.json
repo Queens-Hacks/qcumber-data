@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The Navier-Stokes equations and the magneto-hydrodynamic equations for compressible flow are reviewed briefly and discussed in terms of simple solutions. The theory of shock waves is presented and the important concept of 'self-similar flow' is introduced. These fundamentals are applied to the discussion of MHD wave propagation, gravitational collapse, stellar and galactic 'winds', supernovae, shock and ionization fronts in the interstellar medium.", 
+        "number": "816", 
+        "subject": "PHYS", 
+        "title": "Cosmic Gas Dynamics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The Navier-Stokes equations and the magneto-hydrodynamic equations for compressible flow are reviewed briefly and discussed in terms of simple solutions. The theory of shock waves is presented and the important concept of 'self-similar flow' is introduced. These fundamentals are applied to the discussion of MHD wave propagation, gravitational collapse, stellar and galactic 'winds', supernovae, shock and ionization fronts in the interstellar medium.", 
-        "subject": "PHYS", 
-        "number": "816", 
-        "title": "Cosmic Gas Dynamics"
     }
 }

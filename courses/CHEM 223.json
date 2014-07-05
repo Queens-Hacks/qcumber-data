@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Mechanistically oriented study of organic reactions with emphasis on applications to synthesis. The laboratory affords experience in organic synthesis. Winter Term. NOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $20.", 
+        "number": "223", 
+        "subject": "CHEM", 
+        "title": "Organic Reactions"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0 CHEM211 & CHEM212\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM223; CHEM282; CHEM285.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Mechanistically oriented study of organic reactions with emphasis on applications to synthesis. The laboratory affords experience in organic synthesis. Winter Term. NOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $20.", 
-        "subject": "CHEM", 
-        "number": "223", 
-        "title": "Organic Reactions"
     }
 }

@@ -1,1 +1,15 @@
-{"isbn_13": "9781412986847", "isbn_10": "1412986842", "classified_info": "0 classified listings", "new_price": "$35.96", "used_price": "$26.97", "authors": "Gregory (Greg) S. Guest", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13468-DEVS892-WINTER15#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["DEVS 892"], "required": true, "new_available": 5, "title": "Collecting Qualitative Data"}
+{
+    "authors": "Gregory (Greg) S. Guest", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "DEVS 892"
+    ], 
+    "isbn_10": "1412986842", 
+    "isbn_13": "9781412986847", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13468-DEVS892-WINTER15#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 5, 
+    "new_price": "$35.96", 
+    "required": true, 
+    "title": "Collecting Qualitative Data", 
+    "used_price": "$26.97"
+}

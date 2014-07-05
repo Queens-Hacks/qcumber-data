@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (6819)", 
     "basic": {
         "class_num": "6819", 
-        "subject": "PT", 
-        "status": "Open", 
         "course": "881A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PT", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (6819)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:00:00", 
             "day_of_week": 3, 
-            "location": "BOTTER RM B143"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "BOTTER RM B143", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

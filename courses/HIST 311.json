@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The birth, growth, and testing of the American nation from 1763 to 1865.", 
+        "number": "311", 
+        "subject": "HIST", 
+        "title": "America from the Revolution to the Civil War"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISTE\u00a0\u00a0\u00a0 Registration in a HIST Major or Medial Plan.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "The birth, growth, and testing of the American nation from 1763 to 1865.", 
-        "subject": "HIST", 
-        "number": "311", 
-        "title": "America from the Revolution to the Civil War"
     }
 }

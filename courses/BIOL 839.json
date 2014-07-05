@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Mechanisms of natural selection involving adaptive strategies for growth, survival and reproduction in plants and the consequences of this selection on the characteristics of plant populations and communities. Recent research topics and theoretical developments are stressed. Three term hours; fall. L.W. Aarssen.", 
+        "number": "839", 
+        "subject": "BIOL", 
+        "title": "Plant Ecology And Evolution"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Mechanisms of natural selection involving adaptive strategies for growth, survival and reproduction in plants and the consequences of this selection on the characteristics of plant populations and communities. Recent research topics and theoretical developments are stressed. Three term hours; fall. L.W. Aarssen.", 
-        "subject": "BIOL", 
-        "number": "839", 
-        "title": "Plant Ecology And Evolution"
     }
 }

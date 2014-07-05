@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course is designed to provide an in depth exploration of poverty issues in Canada. It includes discussions about working poor and welfare poor and addresses how race and sexuality can compound the issues of poverty. The course will also acknowledge how poor people are actively engaged in attempting to improve their lives through anti-poverty organizing. This course contains an intensive and\u00a0independent study component.\u00a0", 
+        "number": "421", 
+        "subject": "GNDS", 
+        "title": "Gender and Poverty"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of Level 3 or above in a GNDS Major or Medial or SXGD plan, or permission of the department and an exclusion of no more than 1 course from GNDS421; POLS318; POLS382; WMNS421", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "This course is designed to provide an in depth exploration of poverty issues in Canada. It includes discussions about working poor and welfare poor and addresses how race and sexuality can compound the issues of poverty. The course will also acknowledge how poor people are actively engaged in attempting to improve their lives through anti-poverty organizing. This course contains an intensive and\u00a0independent study component.\u00a0", 
-        "subject": "GNDS", 
-        "number": "421", 
-        "title": "Gender and Poverty"
     }
 }

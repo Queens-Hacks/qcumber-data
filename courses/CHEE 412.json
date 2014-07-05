@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The course advances the fundamentals of material, momentum and energy transfer. Emphasis is placed on the theory and analysis of diffusion, convection and interphase transport of material in laminar and turbulent streams. Applications in engineering and environmental transport processes are presented, and the modelling of complex processes is considered. A design project is an integral part of the course.", 
+        "number": "412", 
+        "subject": "CHEE", 
+        "title": "Transport Phen. In Chem. Eng."
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of CHEE223 and\u00a0 CHEE330 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 30, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "The course advances the fundamentals of material, momentum and energy transfer. Emphasis is placed on the theory and analysis of diffusion, convection and interphase transport of material in laminar and turbulent streams. Applications in engineering and environmental transport processes are presented, and the modelling of complex processes is considered. A design project is an integral part of the course.", 
-        "subject": "CHEE", 
-        "number": "412", 
-        "title": "Transport Phen. In Chem. Eng."
     }
 }

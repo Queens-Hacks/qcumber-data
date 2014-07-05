@@ -1,24 +1,24 @@
 {
+    "_unique": "011-TUT (5793)", 
     "basic": {
         "class_num": "5793", 
-        "subject": "POLS", 
-        "status": "Open", 
         "course": "250A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "011", 
+        "status": "Open", 
+        "subject": "POLS", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "011-TUT (5793)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 3, 
-            "location": "MACINTOSH-CORRY RM D122"
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D122", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

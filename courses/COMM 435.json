@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "435", 
+        "subject": "COMM", 
+        "title": "Marketing Communications II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "(Prerequisite of COMM131 and registered in a BCOM Academic Program and have a level > or equal to 3) or registered in a COMM-X Academic Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "COMM", 
-        "number": "435", 
-        "title": "Marketing Communications II"
     }
 }

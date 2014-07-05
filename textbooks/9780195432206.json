@@ -1,1 +1,14 @@
-{"isbn_13": "9780195432206", "isbn_10": "0195432207", "classified_info": "1 classified listing: $7.00", "new_price": "$16.06", "authors": "Patrick James", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13786-POLS462-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["POLS 462"], "required": true, "new_available": 41, "title": "Canada and Conflict"}
+{
+    "authors": "Patrick James", 
+    "classified_info": "1 classified listing: $7.00", 
+    "courses": [
+        "POLS 462"
+    ], 
+    "isbn_10": "0195432207", 
+    "isbn_13": "9780195432206", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13786-POLS462-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 41, 
+    "new_price": "$16.06", 
+    "required": true, 
+    "title": "Canada and Conflict"
+}

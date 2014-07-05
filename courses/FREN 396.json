@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of Qu\u00e9bec society through the analysis of cinema focusing on the impacts of recent cultural institutions on the formation of cultural identity during and since the Quiet Revolution. Travaux pratiques include essays and tests. Given jointly with FREN 496/3.0.", 
+        "number": "396", 
+        "subject": "FREN", 
+        "title": "Cin\u00e9ma et soci\u00e9t\u00e9 au Qu\u00e9bec"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN plan.\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN396; FREN496.\nEquivalency\u00a0\u00a0\u00a0 FREN295.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of Qu\u00e9bec society through the analysis of cinema focusing on the impacts of recent cultural institutions on the formation of cultural identity during and since the Quiet Revolution. Travaux pratiques include essays and tests. Given jointly with FREN 496/3.0.", 
-        "subject": "FREN", 
-        "number": "396", 
-        "title": "Cin\u00e9ma et soci\u00e9t\u00e9 au Qu\u00e9bec"
     }
 }

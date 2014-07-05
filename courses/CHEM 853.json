@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Polymer synthesis overview: step and chain polymerization (free-radical, ionic and insertion mechanisms) and reactions on polymers. Examples of polymers and their uses.\u00a0 Not offered 2010-2011.", 
+        "number": "853", 
+        "subject": "CHEM", 
+        "title": "Polymer Synthesis"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "Polymer synthesis overview: step and chain polymerization (free-radical, ionic and insertion mechanisms) and reactions on polymers. Examples of polymers and their uses.\u00a0 Not offered 2010-2011.", 
-        "subject": "CHEM", 
-        "number": "853", 
-        "title": "Polymer Synthesis"
     }
 }

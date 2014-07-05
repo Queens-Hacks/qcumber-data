@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course involves a directed study of a philosophical topic. Topics chosen may be from any area of philosophy, and should be determined in consultation with a proposed supervising instructor.", 
+        "number": "511", 
+        "subject": "PHIL", 
+        "title": "Directed Special Studies"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "typically_offered": "Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course involves a directed study of a philosophical topic. Topics chosen may be from any area of philosophy, and should be determined in consultation with a proposed supervising instructor.", 
-        "subject": "PHIL", 
-        "number": "511", 
-        "title": "Directed Special Studies"
     }
 }

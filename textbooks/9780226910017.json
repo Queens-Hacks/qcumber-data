@@ -1,1 +1,14 @@
-{"isbn_13": "9780226910017", "isbn_10": "0226910016", "classified_info": "0 classified listings", "new_price": "$49.12", "used_price": "$36.84", "authors": "Quincy Wright", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13854-WS500-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull", "courses": ["WS 500"], "required": true, "title": "A Study of War"}
+{
+    "authors": "Quincy Wright", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "WS 500"
+    ], 
+    "isbn_10": "0226910016", 
+    "isbn_13": "9780226910017", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13854-WS500-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull", 
+    "new_price": "$49.12", 
+    "required": true, 
+    "title": "A Study of War", 
+    "used_price": "$36.84"
+}

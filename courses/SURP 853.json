@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course will focus on the relationships between environmental services and quality of life in cities and regions. It includes a critical examination of the development, delivery and evaluation of environmental technologies and services. There is an emphasis on water, open space, and solid waste. Case studies and field trips will supplement a lecture/seminar format.", 
+        "number": "853", 
+        "subject": "SURP", 
+        "title": "Environmental Services"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 36, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 36
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will focus on the relationships between environmental services and quality of life in cities and regions. It includes a critical examination of the development, delivery and evaluation of environmental technologies and services. There is an emphasis on water, open space, and solid waste. Case studies and field trips will supplement a lecture/seminar format.", 
-        "subject": "SURP", 
-        "number": "853", 
-        "title": "Environmental Services"
     }
 }

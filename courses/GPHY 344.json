@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Provides analysis of map design, construction, interpretation, and geographical data visualization techniques. Topics explore different mapping concepts and techniques for designing and producing quantitative and qualitative thematic maps. Emphasis on the representation of spatial data using 2- and 3-dimensional visualization methods. Lectures complement hands-on computer laboratory exercises.", 
+        "number": "344", 
+        "subject": "GPHY", 
+        "title": "Cartographic Design and Visualization"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of Level 3 or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Provides analysis of map design, construction, interpretation, and geographical data visualization techniques. Topics explore different mapping concepts and techniques for designing and producing quantitative and qualitative thematic maps. Emphasis on the representation of spatial data using 2- and 3-dimensional visualization methods. Lectures complement hands-on computer laboratory exercises.", 
-        "subject": "GPHY", 
-        "number": "344", 
-        "title": "Cartographic Design and Visualization"
     }
 }

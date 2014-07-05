@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "The course surveys: microarray data analysis methods; pattern discovery, clustering andclassification methods; applications to prediction of clinical outcome and treatment response; coding region detection and protein family prediction. At the end of this course, students should be able to appreciate some approaches related to individualizing medical treatment, as well as to apply some of the methods, such as alternatives to PCA, to more traditional engineering problems.", 
+        "number": "409", 
+        "subject": "ELEC", 
+        "title": "Bioinformatic Analytics"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 9, 
+            "Comp St": 0, 
             "Eng Des": 9, 
             "Eng Sci": 18, 
-            "Comp St": 0
+            "Math": 9
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course surveys: microarray data analysis methods; pattern discovery, clustering andclassification methods; applications to prediction of clinical outcome and treatment response; coding region detection and protein family prediction. At the end of this course, students should be able to appreciate some approaches related to individualizing medical treatment, as well as to apply some of the methods, such as alternatives to PCA, to more traditional engineering problems.", 
-        "subject": "ELEC", 
-        "number": "409", 
-        "title": "Bioinformatic Analytics"
     }
 }

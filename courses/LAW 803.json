@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This is a course on judicial, or court-ordered remedies.\u00a0 The focus of the course will be on particular problems in the law of damages, both at law and in equity (including equitable compensation).\u00a0 We will also discuss specific performance, injunctive relief and Anton Piller orders.\u00a0 (Jointly with LAW-314.) Three term hours, Fall. M. Pratt.", 
+        "number": "803", 
+        "subject": "LAW", 
+        "title": "Remedies"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This is a course on judicial, or court-ordered remedies.\u00a0 The focus of the course will be on particular problems in the law of damages, both at law and in equity (including equitable compensation).\u00a0 We will also discuss specific performance, injunctive relief and Anton Piller orders.\u00a0 (Jointly with LAW-314.) Three term hours, Fall. M. Pratt.", 
-        "subject": "LAW", 
-        "number": "803", 
-        "title": "Remedies"
     }
 }

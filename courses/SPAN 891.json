@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A course of selected readings exemplifying a period, theoretical issue\u00a0or genre in Peninsular or Spanish American Literature, as may be needed by individual students. By arrangement with the Head of Department.\u00a0", 
+        "number": "891", 
+        "subject": "SPAN", 
+        "title": "Lecturas Seleccionadas"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A course of selected readings exemplifying a period, theoretical issue\u00a0or genre in Peninsular or Spanish American Literature, as may be needed by individual students. By arrangement with the Head of Department.\u00a0", 
-        "subject": "SPAN", 
-        "number": "891", 
-        "title": "Lecturas Seleccionadas"
     }
 }

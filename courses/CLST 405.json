@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The growth of Rome from the foundation to Late Antiquity based on archaeological evidence. Emphasis on developments during its classical period.", 
+        "number": "405", 
+        "subject": "CLST", 
+        "title": "The Topography of Rome"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
         }, 
         "enrollment_requirement": "CLST305 OR CLST306 OR CLST340 OR CLST341", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The growth of Rome from the foundation to Late Antiquity based on archaeological evidence. Emphasis on developments during its classical period.", 
-        "subject": "CLST", 
-        "number": "405", 
-        "title": "The Topography of Rome"
     }
 }

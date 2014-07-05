@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (6836)", 
     "basic": {
         "class_num": "6836", 
-        "subject": "SOCY", 
-        "status": "Open", 
         "course": "431", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "SOCY", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-SEM (6836)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Maki, Krystle"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "MACINTOSH-CORRY RM C508", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 3, 
-            "location": "MACINTOSH-CORRY RM C508"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

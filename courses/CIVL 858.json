@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Fundamental numerical algorithms and computational schemes will be introduced and applied to the solution of flows frequently encountered in the practice of hydraulic engineering. Topics covered include solution of non-linear equations; tridiagonal and block-tridiagonal systems of equations; solution of partial differential equations (finite difference schemes, control volume approach); grid generation. Applications to the determination of flow velocity and pressure fields of selected 1-D and 2-D laminar and turbulent open-channel flows will be considered. Three term-hours.", 
+        "number": "858", 
+        "subject": "CIVL", 
+        "title": "Computational Hydraulics"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Fundamental numerical algorithms and computational schemes will be introduced and applied to the solution of flows frequently encountered in the practice of hydraulic engineering. Topics covered include solution of non-linear equations; tridiagonal and block-tridiagonal systems of equations; solution of partial differential equations (finite difference schemes, control volume approach); grid generation. Applications to the determination of flow velocity and pressure fields of selected 1-D and 2-D laminar and turbulent open-channel flows will be considered. Three term-hours.", 
-        "subject": "CIVL", 
-        "number": "858", 
-        "title": "Computational Hydraulics"
     }
 }

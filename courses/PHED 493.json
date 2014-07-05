@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Intensive coverage of topics which are of current and/or of special interest in the area of health enhancement, disease prevention and human performance. Offered periodically by visiting professors or members of faculty. Students should check with the School regarding availability of this course.", 
+        "number": "493", 
+        "subject": "PHED", 
+        "title": "Special Topics In Phys Ed I"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intensive coverage of topics which are of current and/or of special interest in the area of health enhancement, disease prevention and human performance. Offered periodically by visiting professors or members of faculty. Students should check with the School regarding availability of this course.", 
-        "subject": "PHED", 
-        "number": "493", 
-        "title": "Special Topics In Phys Ed I"
     }
 }

@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Subject matter will vary from year to year. Three term-hours, Fall or winter; Seminar or reading course.", 
+        "number": "935", 
+        "subject": "MATH", 
+        "title": "Topics In Applied Mathematics"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Subject matter will vary from year to year. Three term-hours, Fall or winter; Seminar or reading course.", 
-        "subject": "MATH", 
-        "number": "935", 
-        "title": "Topics In Applied Mathematics"
     }
 }

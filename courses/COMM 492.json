@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course introduces students to the fundamentals of database management in organizations and the effective use of organizational data to gain competitive intelligence. It presents the basic concepts and definitions that are required to understand the role of data and business intelligence in the modern organization. Various data models are presented, paying particular attention to the relational model. Emphasis is placed on the application and development of those models through the development of a small database system. Concepts in business intelligence will be reinforced via practical work with online data warehouses and analytical tools. Management issues such as data reliability and security, as well as the implementation challenge of business intelligence solutions, will also be covered.", 
+        "number": "492", 
+        "subject": "COMM", 
+        "title": "Managing Data for Business Intelligence"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course introduces students to the fundamentals of database management in organizations and the effective use of organizational data to gain competitive intelligence. It presents the basic concepts and definitions that are required to understand the role of data and business intelligence in the modern organization. Various data models are presented, paying particular attention to the relational model. Emphasis is placed on the application and development of those models through the development of a small database system. Concepts in business intelligence will be reinforced via practical work with online data warehouses and analytical tools. Management issues such as data reliability and security, as well as the implementation challenge of business intelligence solutions, will also be covered.", 
-        "subject": "COMM", 
-        "number": "492", 
-        "title": "Managing Data for Business Intelligence"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides an overview of models and theories of health behaviour change at varying levels of practice and analysis, including individual, intrapersonal, group, and community influences on health behaviour. Students will learn how theories are applied in health promotion interventions in a variety of settings, with a variety of populations, and for a variety of health behaviours.", 
+        "number": "315", 
+        "subject": "HLTH", 
+        "title": "Theory and Practice of Health Behaviour Change"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 PSYC 100/6.0 and (3.0 units from HLTH 205/3.0; KNPE 265/3.0; PHED 165/3.0) and registration in a HLTH, KINE or PHED Plan", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides an overview of models and theories of health behaviour change at varying levels of practice and analysis, including individual, intrapersonal, group, and community influences on health behaviour. Students will learn how theories are applied in health promotion interventions in a variety of settings, with a variety of populations, and for a variety of health behaviours.", 
-        "subject": "HLTH", 
-        "number": "315", 
-        "title": "Theory and Practice of Health Behaviour Change"
     }
 }

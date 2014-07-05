@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (3147)", 
     "basic": {
         "class_num": "3147", 
-        "subject": "MTHE", 
-        "status": "Open", 
         "course": "228", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MTHE", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (3147)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Hulse, Thomas"
-            ], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 2, 
-            "location": "JEFFERY RM126"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "end_time": "1900-01-01T09:30:00", 
             "instructors": [
                 "Hulse, Thomas"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:30:00", 
+            "location": "JEFFERY RM126", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "JEFFERY RM126"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Hulse, Thomas"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "JEFFERY RM126", 
             "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
             "day_of_week": 1, 
-            "location": "JEFFERY RM128"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Hulse, Thomas"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

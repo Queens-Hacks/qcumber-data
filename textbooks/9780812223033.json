@@ -1,1 +1,14 @@
-{"isbn_13": "9780812223033", "isbn_10": "0812223039", "classified_info": "0 classified listings", "new_price": "$23.64", "used_price": "$17.73", "authors": "Kathy Peiss", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13819-HIST390-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["HIST 390"], "required": true, "title": "Zoot Suit"}
+{
+    "authors": "Kathy Peiss", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "HIST 390"
+    ], 
+    "isbn_10": "0812223039", 
+    "isbn_13": "9780812223033", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13819-HIST390-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_price": "$23.64", 
+    "required": true, 
+    "title": "Zoot Suit", 
+    "used_price": "$17.73"
+}

@@ -1,29 +1,29 @@
 {
+    "basic": {
+        "description": "This is a course in mechatronic systems design.\u00a0 Mechatronics Engineering, an integration of computer, electrical and mechanical engineering, is studied in a seris of workshops that focus on electronics, microcontrollers, programmable logic controllers and mobile robots. The lectures provide the theoretical background to the workshops, and include discussion of related industrial and commercial applications.\u00a0 The knowledge and experience gained in the lectures and workshops is applied to a team design project.", 
+        "number": "452", 
+        "subject": "MECH", 
+        "title": "Mechatronics Engineering"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 30, 
+            "Eng Sci": 30, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
+            "Lecture": "Required", 
+            "Tutorial": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite: ELEC252 or ENPH333 or ENPH334 & permission of Instructor and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 30, 
-            "Eng Sci": 30, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "5.00"
-    }, 
-    "basic": {
-        "description": "This is a course in mechatronic systems design.\u00a0 Mechatronics Engineering, an integration of computer, electrical and mechanical engineering, is studied in a seris of workshops that focus on electronics, microcontrollers, programmable logic controllers and mobile robots. The lectures provide the theoretical background to the workshops, and include discussion of related industrial and commercial applications.\u00a0 The knowledge and experience gained in the lectures and workshops is applied to a team design project.", 
-        "subject": "MECH", 
-        "number": "452", 
-        "title": "Mechatronics Engineering"
     }
 }

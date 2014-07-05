@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "An introduction to the historical and contemporary issues, and research findings of the core cognitive science disciplines including artificial intelligence, linguistics, philosophy, and psychology. The emphasis will be on the ways that the interactions among these disciplines leads to an enhanced understanding of the processes of intelligence and intelligent systems.\r\nNOTE\u00a0\u00a0\u00a0 Also offered\u00a0as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "100", 
+        "subject": "COGS", 
+        "title": "Introduction to Cognitive Science"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the historical and contemporary issues, and research findings of the core cognitive science disciplines including artificial intelligence, linguistics, philosophy, and psychology. The emphasis will be on the ways that the interactions among these disciplines leads to an enhanced understanding of the processes of intelligence and intelligent systems.\r\nNOTE\u00a0\u00a0\u00a0 Also offered\u00a0as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "COGS", 
-        "number": "100", 
-        "title": "Introduction to Cognitive Science"
     }
 }

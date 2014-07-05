@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course continues the studies begun in ARTC-871* with special emphasis being placed on the restoration and conservation of fine art objects on paper and related materials. Half course; sixteen term-hours; winter. J. O\u00bfNeill", 
+        "number": "872", 
+        "subject": "ARTC", 
+        "title": "Paper Obj. Consv. Practice II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course continues the studies begun in ARTC-871* with special emphasis being placed on the restoration and conservation of fine art objects on paper and related materials. Half course; sixteen term-hours; winter. J. O\u00bfNeill", 
-        "subject": "ARTC", 
-        "number": "872", 
-        "title": "Paper Obj. Consv. Practice II"
     }
 }

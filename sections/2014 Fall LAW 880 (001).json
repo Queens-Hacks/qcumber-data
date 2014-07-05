@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (1280)", 
     "basic": {
         "class_num": "1280", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "880", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (1280)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-02T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Goldman, Philip"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "MACDONALD RM300", 
             "start_time": "1900-01-01T12:00:00", 
-            "day_of_week": 3, 
-            "location": "MACDONALD RM300"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00"
         }
     ]
 }

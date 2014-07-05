@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course examines how language reflects and creates power relations in society. Students will learn fundamentals in the linguistic study of language usage and style, and examine language and power in areas such as language socialization, language and age, language and gender, language and education, and language and culture.", 
+        "number": "205", 
+        "subject": "LING", 
+        "title": "Language and Power"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines how language reflects and creates power relations in society. Students will learn fundamentals in the linguistic study of language usage and style, and examine language and power in areas such as language socialization, language and age, language and gender, language and education, and language and culture.", 
-        "subject": "LING", 
-        "number": "205", 
-        "title": "Language and Power"
     }
 }

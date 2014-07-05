@@ -1,26 +1,26 @@
 {
+    "_unique": "002-TUT (2438)", 
     "basic": {
         "class_num": "2438", 
-        "subject": "CIVL", 
-        "status": "Open", 
         "course": "443", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CIVL", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-TUT (2438)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Beddoe, Ryley Anne"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "RICHARDSON LAB RM104", 
             "start_time": "1900-01-01T09:30:00", 
-            "day_of_week": 2, 
-            "location": "RICHARDSON LAB RM104"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

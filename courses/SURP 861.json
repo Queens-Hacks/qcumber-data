@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course will introduce students to links between urban planning and public health, with a focus on the North American context. Various dimensions of communities and cities, such as urban form and sprawl, transportation, community design, and housing, will be interrogated for their health-promoting and impeding qualities; while students will gain important skills in planning for healthy communities.", 
+        "number": "861", 
+        "subject": "SURP", 
+        "title": "Healthy Community Planning"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will introduce students to links between urban planning and public health, with a focus on the North American context. Various dimensions of communities and cities, such as urban form and sprawl, transportation, community design, and housing, will be interrogated for their health-promoting and impeding qualities; while students will gain important skills in planning for healthy communities.", 
-        "subject": "SURP", 
-        "number": "861", 
-        "title": "Healthy Community Planning"
     }
 }

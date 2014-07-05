@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "206", 
+        "subject": "EPID", 
+        "title": "Adv. Methods In Epidemiology"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "EPID", 
-        "number": "206", 
-        "title": "Adv. Methods In Epidemiology"
     }
 }

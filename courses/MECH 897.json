@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Each research full-time graduate student is required to regularly attend the graduate seminar program and to give at least one seminar during their program at Queen's. M.Sc./M.Sc.(Eng.) students\u00a0 are required to take MECH-897 and Ph.D. students are required to take MECH-997. The content of the seminar is to be developed in cooperation with the student's supervisor. The seminar will be evaluated by assigned faculty and a pass/referred decision will be recorded. The student must obtain a pass grade to clear this course requirement. The evaluation process for the seminar is defined in the departmental procedures. This course carries no course credit but is a degree requirement in the Department of Mechanical and Materials Engineering.", 
+        "number": "897", 
+        "subject": "MECH", 
+        "title": "Graduate Seminar"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter, Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter, Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Each research full-time graduate student is required to regularly attend the graduate seminar program and to give at least one seminar during their program at Queen's. M.Sc./M.Sc.(Eng.) students\u00a0 are required to take MECH-897 and Ph.D. students are required to take MECH-997. The content of the seminar is to be developed in cooperation with the student's supervisor. The seminar will be evaluated by assigned faculty and a pass/referred decision will be recorded. The student must obtain a pass grade to clear this course requirement. The evaluation process for the seminar is defined in the departmental procedures. This course carries no course credit but is a degree requirement in the Department of Mechanical and Materials Engineering.", 
-        "subject": "MECH", 
-        "number": "897", 
-        "title": "Graduate Seminar"
     }
 }

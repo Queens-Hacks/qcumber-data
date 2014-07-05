@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course provides advanced instruction and practice in effective technical writing and oral presentation. Most exercises will be linked to required oral and written communications tasks in other courses. Open to Chemical Engineering and Engineering Chemistry students only.", 
+        "number": "360A", 
+        "subject": "CHEE", 
+        "title": "Technical Communications II"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of APSC 293 OR (APSC291 AND APSC292) and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "This course provides advanced instruction and practice in effective technical writing and oral presentation. Most exercises will be linked to required oral and written communications tasks in other courses. Open to Chemical Engineering and Engineering Chemistry students only.", 
-        "subject": "CHEE", 
-        "number": "360A", 
-        "title": "Technical Communications II"
     }
 }

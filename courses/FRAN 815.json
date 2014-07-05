@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Pr\u00e9sentation des diff\u00e9rents courants qui ont margu\u00e9 la linquistique depuis la Grammaire de Port-Royal, y compris les n\u00e9o-grammairiens, le structuralisme, le b\u00e9haviorisme, le cognitivisme, le g\u00e9n\u00e9rativisme et les mod\u00e8les variationnistes. Ne sera pas donn\u00e9 en 2010-2011.", 
+        "number": "815", 
+        "subject": "FRAN", 
+        "title": "Th\u00e9ories du langage"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Pr\u00e9sentation des diff\u00e9rents courants qui ont margu\u00e9 la linquistique depuis la Grammaire de Port-Royal, y compris les n\u00e9o-grammairiens, le structuralisme, le b\u00e9haviorisme, le cognitivisme, le g\u00e9n\u00e9rativisme et les mod\u00e8les variationnistes. Ne sera pas donn\u00e9 en 2010-2011.", 
-        "subject": "FRAN", 
-        "number": "815", 
-        "title": "Th\u00e9ories du langage"
     }
 }

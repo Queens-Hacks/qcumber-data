@@ -1,37 +1,37 @@
 {
+    "_unique": "005-TUT (7950)", 
     "basic": {
         "class_num": "7950", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "100", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "005", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "005-TUT (7950)", 
     "classes": [
         {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-04T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Mitchell, Lynn"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM A232", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A232"
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-04T00:00:00"
         }, 
         {
-            "term_end": "2013-11-28T00:00:00", 
-            "term_start": "2013-10-28T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Mitchell, Lynn"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM A232", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A232"
+            "term_end": "2013-11-28T00:00:00", 
+            "term_start": "2013-10-28T00:00:00"
         }
     ]
 }

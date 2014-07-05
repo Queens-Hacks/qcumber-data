@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to visual art in the elementary grades. Participants come to understand that visual art is a form of personal expression and that it can be employed to increase visual perception and awareness. Through experimentation with the foundation materials of visual art, and by utilizing their various environments as sources of inspiration, participants will gain confidence in their ability to make artistic choices and to provide meaningful art experiences for their students. Topics include the elements and principles of design, colour theory, drawing, and assessment and evaluation of art.", 
+        "number": "389", 
+        "subject": "CURR", 
+        "title": "Art (PJ)"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Restricted to PJ", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "An introduction to visual art in the elementary grades. Participants come to understand that visual art is a form of personal expression and that it can be employed to increase visual perception and awareness. Through experimentation with the foundation materials of visual art, and by utilizing their various environments as sources of inspiration, participants will gain confidence in their ability to make artistic choices and to provide meaningful art experiences for their students. Topics include the elements and principles of design, colour theory, drawing, and assessment and evaluation of art.", 
-        "subject": "CURR", 
-        "number": "389", 
-        "title": "Art (PJ)"
     }
 }

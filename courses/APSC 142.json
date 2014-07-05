@@ -1,29 +1,29 @@
 {
+    "basic": {
+        "description": "This course introduces concepts, theory and practice of computer programming.\u00a0 Implementation uses microcomputers. The emphasis is on the design of correct and efficient algorithms and on programming style. Applications are made to engineering problems.", 
+        "number": "142", 
+        "subject": "APSC", 
+        "title": "Intro Computer Program Engrs"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Studio": "Required", 
             "Laboratory": "Required", 
-            "Lecture": "Required"
+            "Lecture": "Required", 
+            "Studio": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 24, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course introduces concepts, theory and practice of computer programming.\u00a0 Implementation uses microcomputers. The emphasis is on the design of correct and efficient algorithms and on programming style. Applications are made to engineering problems.", 
-        "subject": "APSC", 
-        "number": "142", 
-        "title": "Intro Computer Program Engrs"
     }
 }

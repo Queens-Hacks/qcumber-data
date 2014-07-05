@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Advanced physics laboratory course providing students with experience in a range of experimental techniques and analysis. A selection of experiments are performed from fields including nuclear physics, applied physics, fluid mechanics, solid state physics, low-temperature physics and optics.", 
+        "number": "453", 
+        "subject": "PHYS", 
+        "title": "Advanced Physics Laboratory"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PHYS350 and (PHYS344 or PHYS343 or CHEM313).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from PHYS453; PHYS450.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Advanced physics laboratory course providing students with experience in a range of experimental techniques and analysis. A selection of experiments are performed from fields including nuclear physics, applied physics, fluid mechanics, solid state physics, low-temperature physics and optics.", 
-        "subject": "PHYS", 
-        "number": "453", 
-        "title": "Advanced Physics Laboratory"
     }
 }

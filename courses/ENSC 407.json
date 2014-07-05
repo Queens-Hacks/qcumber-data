@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Increasing demands on water resources and widespread pollution of surface and groundwater has led many experts to predict a looming water crisis. This course will develop a global perspective on issues that include water distribution, management, pollution, conservation, conflict and policy. This course will be of interest to students in science, applied science or the humanities. \r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $50.", 
+        "number": "407", 
+        "subject": "ENSC", 
+        "title": "Global Water Issues"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "3rd year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Increasing demands on water resources and widespread pollution of surface and groundwater has led many experts to predict a looming water crisis. This course will develop a global perspective on issues that include water distribution, management, pollution, conservation, conflict and policy. This course will be of interest to students in science, applied science or the humanities. \r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $50.", 
-        "subject": "ENSC", 
-        "number": "407", 
-        "title": "Global Water Issues"
     }
 }

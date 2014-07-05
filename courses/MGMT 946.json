@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Each year, a series of Marketing Topics courses will be offered that allow students to apply the foundational concepts they have learned in the Marketing Strategy and Consumer Behaviour courses to particular areas of specialization. This course will examine consumers and their consumption behaviours and practices as social and cultural phenomena as opposed to economic or psychological phenomena. By examining the relationship between consumers, the market place and cultural meaning, this course will cover the macro, interpretive, and cultural approaches found in Consumer Culture Theory research", 
+        "number": "946", 
+        "subject": "MGMT", 
+        "title": "Marketing Topics III - Consumer Culture Theory"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "Each year, a series of Marketing Topics courses will be offered that allow students to apply the foundational concepts they have learned in the Marketing Strategy and Consumer Behaviour courses to particular areas of specialization. This course will examine consumers and their consumption behaviours and practices as social and cultural phenomena as opposed to economic or psychological phenomena. By examining the relationship between consumers, the market place and cultural meaning, this course will cover the macro, interpretive, and cultural approaches found in Consumer Culture Theory research", 
-        "subject": "MGMT", 
-        "number": "946", 
-        "title": "Marketing Topics III - Consumer Culture Theory"
     }
 }

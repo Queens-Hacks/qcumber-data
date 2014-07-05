@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course highlights the usefulness of game theoretical approaches in solving problems in the natural sciences and economics. Basic ideas of game theory, including Nash equilibrium and mixed strategies; stability using approaches developed for the study of dynamical systems, including evolutionary stability and replicator dynamics; the emergence of co-operative behaviour; limitations of applying the theory to human behaviour.", 
+        "number": "339", 
+        "subject": "MTHE", 
+        "title": "Evolutionary Game Theory"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 9, 
+            "Comp St": 9, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 18
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQ: APSC 172 or MATH 120 (or MATH121) and APSC 174 or MATH 110 (or MATH 111) and must be registered in BSCE.", 
-        "CEAB": {
-            "Basic Sci": 9, 
-            "Math": 18, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 9
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course highlights the usefulness of game theoretical approaches in solving problems in the natural sciences and economics. Basic ideas of game theory, including Nash equilibrium and mixed strategies; stability using approaches developed for the study of dynamical systems, including evolutionary stability and replicator dynamics; the emergence of co-operative behaviour; limitations of applying the theory to human behaviour.", 
-        "subject": "MTHE", 
-        "number": "339", 
-        "title": "Evolutionary Game Theory"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course deals with the wide variety of ethical issues that confront those engaged in the profession and practice of law [i.e. the spectrum of both litigious and non-litigious contexts.]\u00a0 Areas covered will include relevant legislation, caselaw, and rules of professional conduct including the range of legal responses to unethical and unprofessional conduct; the nature and scope of lawyers' duties to their clients, the court, other legal professionals, the law society, and the public; the various roles of lawyers in society and the legal system and in particular their role in securing access to justice. Specific subject matter covered will include the circumstances giving rise to ethical problems; the fiduciary relationship between lawyer and client; conflicts of interest; the administration of justice; lawyers' duties relating to confidentiality, privilege, and disclosure; professionalism and civility; the importance of diversity; and the public interest in the administration of justice.", 
+        "number": "334", 
+        "subject": "LAW", 
+        "title": "Legal Ethics and Professionalism"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course deals with the wide variety of ethical issues that confront those engaged in the profession and practice of law [i.e. the spectrum of both litigious and non-litigious contexts.]\u00a0 Areas covered will include relevant legislation, caselaw, and rules of professional conduct including the range of legal responses to unethical and unprofessional conduct; the nature and scope of lawyers' duties to their clients, the court, other legal professionals, the law society, and the public; the various roles of lawyers in society and the legal system and in particular their role in securing access to justice. Specific subject matter covered will include the circumstances giving rise to ethical problems; the fiduciary relationship between lawyer and client; conflicts of interest; the administration of justice; lawyers' duties relating to confidentiality, privilege, and disclosure; professionalism and civility; the importance of diversity; and the public interest in the administration of justice.", 
-        "subject": "LAW", 
-        "number": "334", 
-        "title": "Legal Ethics and Professionalism"
     }
 }

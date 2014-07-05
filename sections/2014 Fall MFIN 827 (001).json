@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (4763)", 
     "basic": {
         "class_num": "4763", 
-        "subject": "MFIN", 
-        "status": "Closed", 
         "course": "827", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MFIN", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (4763)", 
     "classes": [
         {
-            "term_end": "2014-12-11T00:00:00", 
-            "term_start": "2014-09-20T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "De Bettignies, Jean-Etienne"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-12-11T00:00:00", 
+            "term_start": "2014-09-20T00:00:00"
         }
     ]
 }

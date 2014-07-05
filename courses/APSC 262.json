@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This introductory course in plane surveying consists of about 16 hours of lectures, the rest of the time being spent in the field. Lecture material includes distance measurement, differential, profile and indirect leveling and use of transit, traversing and mapping. Errors, corrections and balancing are also discussed. The use of available software packages for the reduction and calculation of data is encouraged throughout the course. In the field, students practice the basic techniques of instrument use through various assignments. Careful and efficient handling of instruments and proper note-keeping are stressed. The use of state-of-the-art electronic surveying instruments is included in the field assignments wherever possible. The school is held on campus immediately following the final First Year examination in April.", 
+        "number": "262", 
+        "subject": "APSC", 
+        "title": "Engineering Surveying"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 40, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Field Studies": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 40, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This introductory course in plane surveying consists of about 16 hours of lectures, the rest of the time being spent in the field. Lecture material includes distance measurement, differential, profile and indirect leveling and use of transit, traversing and mapping. Errors, corrections and balancing are also discussed. The use of available software packages for the reduction and calculation of data is encouraged throughout the course. In the field, students practice the basic techniques of instrument use through various assignments. Careful and efficient handling of instruments and proper note-keeping are stressed. The use of state-of-the-art electronic surveying instruments is included in the field assignments wherever possible. The school is held on campus immediately following the final First Year examination in April.", 
-        "subject": "APSC", 
-        "number": "262", 
-        "title": "Engineering Surveying"
     }
 }

@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "The trend toward an integrated world economy and global competitive arena is forcing companies to develop strategies for designing products for a global market and maximizing the firm's resources in producing them. Planning and operating in the global arena and the Internet era requires new management skills such as developing a truly global network of warehouses, distribution centres and consolidation points, optimizing multiple transport service types, and designing information and communication systems that integrate the supply chain. Logistics and Supply Chain Management (L&amp;SCM) is a course intended for students with strong interests in developing skills and knowledge within a global operations and logistics framework. In particular, this course will offer the opportunity to discuss how the Internet has enhanced supply chain management.(Lead Instructor:\u00a0 Hamid Noori, Waterloo)", 
+        "number": "890", 
+        "subject": "DM", 
+        "title": "Logistics & Supply Chain Mgmt"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The trend toward an integrated world economy and global competitive arena is forcing companies to develop strategies for designing products for a global market and maximizing the firm's resources in producing them. Planning and operating in the global arena and the Internet era requires new management skills such as developing a truly global network of warehouses, distribution centres and consolidation points, optimizing multiple transport service types, and designing information and communication systems that integrate the supply chain. Logistics and Supply Chain Management (L&amp;SCM) is a course intended for students with strong interests in developing skills and knowledge within a global operations and logistics framework. In particular, this course will offer the opportunity to discuss how the Internet has enhanced supply chain management.(Lead Instructor:\u00a0 Hamid Noori, Waterloo)", 
-        "subject": "DM", 
-        "number": "890", 
-        "title": "Logistics & Supply Chain Mgmt"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Chromatic voice-leading and harmony, large-scale and expanded formal structures, including sonata, rondo, and expanded 19th-century forms, through part-writing and analysis.", 
+        "number": "293", 
+        "subject": "MUSC", 
+        "title": "Theory and Analysis IIB"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MUSC292 \r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 6.0 units from MUSC291; MUSC292; MUSC293", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Chromatic voice-leading and harmony, large-scale and expanded formal structures, including sonata, rondo, and expanded 19th-century forms, through part-writing and analysis.", 
-        "subject": "MUSC", 
-        "number": "293", 
-        "title": "Theory and Analysis IIB"
     }
 }

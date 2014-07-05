@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course prepares students to evaluate and undertake health science research using qualitative approaches. Topics addressed include the historical and philosophical foundations of qualitative research, research design, and data collection, analysis and interpretation. Winter term.", 
+        "number": "902", 
+        "subject": "NURS", 
+        "title": "Qualitative Research Methods"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course prepares students to evaluate and undertake health science research using qualitative approaches. Topics addressed include the historical and philosophical foundations of qualitative research, research design, and data collection, analysis and interpretation. Winter term.", 
-        "subject": "NURS", 
-        "number": "902", 
-        "title": "Qualitative Research Methods"
     }
 }

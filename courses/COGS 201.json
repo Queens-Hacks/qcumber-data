@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to the role of computation in theories of the mind and thought. Surveys the major models developed to account for various specific aspects of human cognitive processes. Unitary models of cognitive processes are also examined.", 
+        "number": "201", 
+        "subject": "COGS", 
+        "title": "Cognition and Computation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PSYC221 or COGS100.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from COGS200; COGS201; PSYC220.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the role of computation in theories of the mind and thought. Surveys the major models developed to account for various specific aspects of human cognitive processes. Unitary models of cognitive processes are also examined.", 
-        "subject": "COGS", 
-        "number": "201", 
-        "title": "Cognition and Computation"
     }
 }

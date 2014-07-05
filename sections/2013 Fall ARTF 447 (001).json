@@ -1,24 +1,24 @@
 {
+    "_unique": "001-SEM (1715)", 
     "basic": {
         "class_num": "1715", 
-        "subject": "ARTF", 
-        "status": "Open", 
         "course": "447", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ARTF", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-SEM (1715)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:00:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 4, 
-            "location": "ONTARIO RM206"
+            "end_time": "1900-01-01T16:00:00", 
+            "instructors": [], 
+            "location": "ONTARIO RM206", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A practical introduction to the fundamental skills and techniques of acting, involving an appreciation of the interdependence of the actor's body, voice, intellect, feeling, and cultural context.", 
+        "number": "237", 
+        "subject": "DRAM", 
+        "title": "Elementary Acting I"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A minimum grade of B- (2.7) in 6.0 units from (DRAM100; DRAM181; BISC100; BISC101) or permission of the Department. \r\nCorequisite\u00a0\u00a0 DRAM 200.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from DRAM236; DRAM237; DRAM238; DRAM239", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A practical introduction to the fundamental skills and techniques of acting, involving an appreciation of the interdependence of the actor's body, voice, intellect, feeling, and cultural context.", 
-        "subject": "DRAM", 
-        "number": "237", 
-        "title": "Elementary Acting I"
     }
 }

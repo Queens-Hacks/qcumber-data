@@ -1,26 +1,26 @@
 {
+    "_unique": "002-TUT (7593)", 
     "basic": {
         "class_num": "7593", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "445", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-TUT (7593)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Robertson, Robert Meldrum"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BIOSCI RM3110", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 4, 
-            "location": "BIOSCI RM3110"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (7703)", 
     "basic": {
         "class_num": "7703", 
-        "subject": "MGMT", 
-        "status": "Open", 
         "course": "945", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MGMT", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (7703)", 
     "classes": [
         {
-            "term_end": "2014-02-12T00:00:00", 
-            "term_start": "2014-01-08T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Kolsarici, Ceren"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 3, 
-            "location": "TBA"
+            "term_end": "2014-02-12T00:00:00", 
+            "term_start": "2014-01-08T00:00:00"
         }
     ]
 }

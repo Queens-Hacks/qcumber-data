@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (7178)", 
     "basic": {
         "class_num": "7178", 
-        "subject": "FREN", 
-        "status": "Open", 
         "course": "351", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FREN", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (7178)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T21:30:00", 
             "instructors": [
                 "Wells, Catherine E"
             ], 
-            "end_time": "1900-01-01T21:30:00", 
+            "location": "KINGSTON RM308", 
             "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 1, 
-            "location": "KINGSTON RM308"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

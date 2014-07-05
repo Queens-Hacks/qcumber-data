@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "An important topic in mathematics not covered in any other courses.", 
+        "number": "499B", 
+        "subject": "MATH", 
+        "title": "Topics In Mathematics VI"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An important topic in mathematics not covered in any other courses.", 
-        "subject": "MATH", 
-        "number": "499B", 
-        "title": "Topics In Mathematics VI"
     }
 }

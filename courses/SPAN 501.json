@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Seminar courses on topics in Spanish literature. Course details to be announced on website.\u00a0", 
+        "number": "501", 
+        "subject": "SPAN", 
+        "title": "Literatura de Espa\u00f1a: Temas espec\u00edficos"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "typically_offered": "Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Seminar courses on topics in Spanish literature. Course details to be announced on website.\u00a0", 
-        "subject": "SPAN", 
-        "number": "501", 
-        "title": "Literatura de Espa\u00f1a: Temas espec\u00edficos"
     }
 }

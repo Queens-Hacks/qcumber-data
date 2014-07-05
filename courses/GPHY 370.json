@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Course offered by visiting faculty on Geography topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each academic year.", 
+        "number": "370", 
+        "subject": "GPHY", 
+        "title": "Special Topics in Human Geography"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 3 in a GPHY plan, or permission of the Department.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Course offered by visiting faculty on Geography topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each academic year.", 
-        "subject": "GPHY", 
-        "number": "370", 
-        "title": "Special Topics in Human Geography"
     }
 }

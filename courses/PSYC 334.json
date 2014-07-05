@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "A lecture and laboratory course on\u00a0psychometrics. Test development and evaluation will be the focus of student projects. The course will introduce software packages\u00a0used for analyzing psychological test data. \r\nNOTE\u00a0\u00a0\u00a0 A fee of\u00a0$30 will be collected from each student for the cost of photocopying, materials, and mailings related to data collection.", 
+        "number": "334", 
+        "subject": "PSYC", 
+        "title": "Laboratory in Psychological Testing"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Laboratory": "Required"
         }, 
-        "typically_offered": "Fall", 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PSYC301 or PSYC300.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A lecture and laboratory course on\u00a0psychometrics. Test development and evaluation will be the focus of student projects. The course will introduce software packages\u00a0used for analyzing psychological test data. \r\nNOTE\u00a0\u00a0\u00a0 A fee of\u00a0$30 will be collected from each student for the cost of photocopying, materials, and mailings related to data collection.", 
-        "subject": "PSYC", 
-        "number": "334", 
-        "title": "Laboratory in Psychological Testing"
     }
 }

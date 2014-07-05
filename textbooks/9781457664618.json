@@ -1,1 +1,13 @@
-{"isbn_13": "9781457664618", "isbn_10": "1457664615", "classified_info": "0 classified listings", "new_price": "$81.25", "authors": "Ann Charters", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13567-ENGL160-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl16_test_ModeFull", "courses": ["ENGL 160"], "required": true, "title": "The Story and Its Writer"}
+{
+    "authors": "Ann Charters", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 160"
+    ], 
+    "isbn_10": "1457664615", 
+    "isbn_13": "9781457664618", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13567-ENGL160-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl16_test_ModeFull", 
+    "new_price": "$81.25", 
+    "required": true, 
+    "title": "The Story and Its Writer"
+}

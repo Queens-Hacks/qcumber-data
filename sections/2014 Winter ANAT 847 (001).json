@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (7930)", 
     "basic": {
         "class_num": "7930", 
-        "subject": "ANAT", 
-        "status": "Closed", 
         "course": "847", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "ANAT", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (7930)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "MacKenzie, Leslie W"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

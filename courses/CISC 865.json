@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The language of while programs. Programming logics. Operational and denotational semantics. The typed and untyped lambda calculi. Recursive definitions and domain theory. Full abstraction. Three term-hours; lectures and seminars. Bob Tennent.", 
+        "number": "865", 
+        "subject": "CISC", 
+        "title": "Intro to Programming Language Theory (T)"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The language of while programs. Programming logics. Operational and denotational semantics. The typed and untyped lambda calculi. Recursive definitions and domain theory. Full abstraction. Three term-hours; lectures and seminars. Bob Tennent.", 
-        "subject": "CISC", 
-        "number": "865", 
-        "title": "Intro to Programming Language Theory (T)"
     }
 }

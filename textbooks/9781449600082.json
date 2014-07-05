@@ -1,1 +1,15 @@
-{"isbn_13": "9781449600082", "used_available": 1, "isbn_10": "1449600085", "classified_info": "0 classified listings", "new_price": "$144.94", "used_price": "$108.70", "authors": "Patricia Cornez", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13647-CISC110-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["CISC 110"], "required": true, "title": "An Introduction To Programming With Actionscript 3.0"}
+{
+    "authors": "Patricia Cornez", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "CISC 110"
+    ], 
+    "isbn_10": "1449600085", 
+    "isbn_13": "9781449600082", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13647-CISC110-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$144.94", 
+    "required": true, 
+    "title": "An Introduction To Programming With Actionscript 3.0", 
+    "used_available": 1, 
+    "used_price": "$108.70"
+}

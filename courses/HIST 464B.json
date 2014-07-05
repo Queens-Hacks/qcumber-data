@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course examines the history of sexuality in a comparative context, using Canada, Britain and the United States in the 19th and 20th centuries as a focus.", 
+        "number": "464B", 
+        "subject": "HIST", 
+        "title": "The History Of Sexuality"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "9.00"
-    }, 
-    "basic": {
-        "description": "This course examines the history of sexuality in a comparative context, using Canada, Britain and the United States in the 19th and 20th centuries as a focus.", 
-        "subject": "HIST", 
-        "number": "464B", 
-        "title": "The History Of Sexuality"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "RECOMMENDATION\u00a0\u00a0\u00a0 (BIOL 301/3.0 or BIOL 341/3.0) and BIOL 322/3.0.", 
+        "number": "506", 
+        "subject": "BIOL", 
+        "title": "Biochemical Adaptations to Life Under Extreme Conditions"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "typically_offered": "Winter", 
         "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 (BIOL301 or BIOL341) and BIOL322.\r\nPrerequisites\u00a0\u00a0\u00a0\u00a0 BIOL334 or BIOL234 or (BCHM315 and BCHM316) or BCHM 310.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "RECOMMENDATION\u00a0\u00a0\u00a0 (BIOL 301/3.0 or BIOL 341/3.0) and BIOL 322/3.0.", 
-        "subject": "BIOL", 
-        "number": "506", 
-        "title": "Biochemical Adaptations to Life Under Extreme Conditions"
     }
 }

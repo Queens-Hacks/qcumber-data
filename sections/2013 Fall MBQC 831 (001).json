@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (7409)", 
     "basic": {
         "class_num": "7409", 
-        "subject": "MBQC", 
-        "status": "Open", 
         "course": "831", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBQC", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (7409)", 
     "classes": [
         {
-            "term_end": "2013-12-14T00:00:00", 
-            "term_start": "2013-10-06T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2013-12-14T00:00:00", 
+            "term_start": "2013-10-06T00:00:00"
         }
     ]
 }

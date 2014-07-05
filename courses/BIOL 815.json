@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The structure, function and interactions of nerve cells particularly with respect to how these relate to the generation of motor patterns and behaviour. Emphasis will be on the mechanisms underlying the plasticity of neuronal circuits. Invertebrate and vertebrate systems will be considered. Three term hours; fall. Not offered 2010-2011.", 
+        "number": "815", 
+        "subject": "BIOL", 
+        "title": "Neuronal Basis Of Behaviour"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The structure, function and interactions of nerve cells particularly with respect to how these relate to the generation of motor patterns and behaviour. Emphasis will be on the mechanisms underlying the plasticity of neuronal circuits. Invertebrate and vertebrate systems will be considered. Three term hours; fall. Not offered 2010-2011.", 
-        "subject": "BIOL", 
-        "number": "815", 
-        "title": "Neuronal Basis Of Behaviour"
     }
 }

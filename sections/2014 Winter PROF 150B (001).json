@@ -1,81 +1,81 @@
 {
+    "_unique": "001-LEC (7011)", 
     "basic": {
         "class_num": "7011", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "150B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (7011)", 
     "classes": [
         {
-            "term_end": "2014-01-29T00:00:00", 
-            "term_start": "2014-01-02T00:00:00", 
-            "instructors": [
-                "Burney, Shehla"
-            ], 
-            "end_time": "1900-01-01T11:50:00", 
-            "start_time": "1900-01-01T10:50:00", 
             "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM B101"
-        }, 
-        {
-            "term_end": "2014-01-29T00:00:00", 
-            "term_start": "2014-01-02T00:00:00", 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Burney, Shehla"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM B101", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 1, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "term_end": "2014-01-29T00:00:00", 
+            "term_start": "2014-01-02T00:00:00"
         }, 
         {
-            "term_end": "2014-04-24T00:00:00", 
-            "term_start": "2014-04-07T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:50:00", 
+            "instructors": [
+                "Burney, Shehla"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "1900-01-01T10:50:00", 
+            "term_end": "2014-01-29T00:00:00", 
+            "term_start": "2014-01-02T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Christou, Theodore"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM B101", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "term_end": "2014-04-24T00:00:00", 
+            "term_start": "2014-04-07T00:00:00"
         }, 
         {
-            "term_end": "2014-04-24T00:00:00", 
-            "term_start": "2014-04-07T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Christou, Theodore"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM B101", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 1, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "term_end": "2014-04-24T00:00:00", 
+            "term_start": "2014-04-07T00:00:00"
         }, 
         {
-            "term_end": "2014-02-07T00:00:00", 
-            "term_start": "2014-02-03T00:00:00", 
-            "instructors": [
-                "Burney, Shehla"
-            ], 
-            "end_time": "1900-01-01T11:50:00", 
-            "start_time": "1900-01-01T10:50:00", 
             "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM B101"
-        }, 
-        {
-            "term_end": "2014-02-07T00:00:00", 
-            "term_start": "2014-02-03T00:00:00", 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Burney, Shehla"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM B101", 
             "start_time": "1900-01-01T10:50:00", 
+            "term_end": "2014-02-07T00:00:00", 
+            "term_start": "2014-02-03T00:00:00"
+        }, 
+        {
             "day_of_week": 1, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "end_time": "1900-01-01T11:50:00", 
+            "instructors": [
+                "Burney, Shehla"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "1900-01-01T10:50:00", 
+            "term_end": "2014-02-07T00:00:00", 
+            "term_start": "2014-02-03T00:00:00"
         }
     ]
 }

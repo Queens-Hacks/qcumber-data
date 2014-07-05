@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (8036)", 
     "basic": {
         "class_num": "8036", 
-        "subject": "KNPE", 
-        "status": "Open", 
         "course": "436B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "KNPE", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-LAB (8036)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T15:00:00", 
             "instructors": [
                 "Latimer, Amy E"
             ], 
-            "end_time": "1900-01-01T15:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 1, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

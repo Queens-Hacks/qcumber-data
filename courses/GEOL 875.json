@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Principles of rock-water interaction and element migration in the near surface environment applied to environmental and exploration geochemistry. Students learn field and analytical techniques, evaluate and interpret geochemical data, and design solutions related to geochemical hazards to human health, environmental impacts of mining, and formulation of strategies for detecting mineral deposits. Field trip fee: $50 \r\nPREREQUISITE: Permission of the instructor \r\nEXCLUSION: GEOL 475, GEOL- 865 and GEOL-885", 
+        "number": "875", 
+        "subject": "GEOL", 
+        "title": "Exploration and Environmental Geochemistry"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Principles of rock-water interaction and element migration in the near surface environment applied to environmental and exploration geochemistry. Students learn field and analytical techniques, evaluate and interpret geochemical data, and design solutions related to geochemical hazards to human health, environmental impacts of mining, and formulation of strategies for detecting mineral deposits. Field trip fee: $50 \r\nPREREQUISITE: Permission of the instructor \r\nEXCLUSION: GEOL 475, GEOL- 865 and GEOL-885", 
-        "subject": "GEOL", 
-        "number": "875", 
-        "title": "Exploration and Environmental Geochemistry"
     }
 }

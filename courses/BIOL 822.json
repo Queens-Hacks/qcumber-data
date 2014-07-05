@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The main focus of this course will be to review and assess the many techniques currently available to track long-term environmental change. An emphasis will be placed on biological approaches dealing with sedimentary analyses, but other proxy methods (e.g. ice cores, bore holes, etc.) will also be covered. General topics to be covered will include climatic change, acidification, eutrophication, lake and reservoir management, UV penetration, etc. Three term hours; fall. Not offered 2010-2011.", 
+        "number": "822", 
+        "subject": "BIOL", 
+        "title": "Long-Term Environmental Change"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The main focus of this course will be to review and assess the many techniques currently available to track long-term environmental change. An emphasis will be placed on biological approaches dealing with sedimentary analyses, but other proxy methods (e.g. ice cores, bore holes, etc.) will also be covered. General topics to be covered will include climatic change, acidification, eutrophication, lake and reservoir management, UV penetration, etc. Three term hours; fall. Not offered 2010-2011.", 
-        "subject": "BIOL", 
-        "number": "822", 
-        "title": "Long-Term Environmental Change"
     }
 }

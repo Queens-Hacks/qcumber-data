@@ -1,26 +1,26 @@
 {
+    "_unique": "701-LAB (2145)", 
     "basic": {
         "class_num": "2145", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "102", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "701", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "LAB", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "701-LAB (2145)", 
     "classes": [
         {
-            "term_end": "2014-06-16T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Ko, Kenton"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-06-16T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
         }
     ]
 }

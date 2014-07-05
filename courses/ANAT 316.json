@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Gross and functional anatomy of the thorax, abdomen and pelvis, head and neck.\r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $25.", 
+        "number": "316", 
+        "subject": "ANAT", 
+        "title": "The Human Visceral Systems"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (BIOL 102/3.0 and BIOL 103/3.0 or BIOL 101/6.0) or (BIOL 201/3.0 and BIOL 202/3.0) or PHED 153/3.0, or permission of the Department", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Gross and functional anatomy of the thorax, abdomen and pelvis, head and neck.\r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $25.", 
-        "subject": "ANAT", 
-        "number": "316", 
-        "title": "The Human Visceral Systems"
     }
 }

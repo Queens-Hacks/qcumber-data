@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An exploration of war in a Canadian context, with an emphasis on how war has shaped Canadian society and the relationship between Canada and its armed forces.\u00a0 Topics to be studied, from a Canadian perspective, include the military as a profession, military culture, combat stress, leadership, gender and sexuality in the military, and mutinies. Three term hours; fall and winter.", 
+        "number": "876A", 
+        "subject": "HIST", 
+        "title": "Canada At War"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "An exploration of war in a Canadian context, with an emphasis on how war has shaped Canadian society and the relationship between Canada and its armed forces.\u00a0 Topics to be studied, from a Canadian perspective, include the military as a profession, military culture, combat stress, leadership, gender and sexuality in the military, and mutinies. Three term hours; fall and winter.", 
-        "subject": "HIST", 
-        "number": "876A", 
-        "title": "Canada At War"
     }
 }

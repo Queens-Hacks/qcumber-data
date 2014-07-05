@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Exploration of the exciting possibilities for incorporating dramatic experiences into the school curriculum, including the teaching of drama as an art form, the integration of drama into other aspects of the curriculum, and the performing of original works of theatre for young audiences. The February practicum placement may be in a regular classroom, a specialized drama education program, or an alternative setting such as museum or theatre outreach program. It is also possible for several members of this focus to work together during the alternative practicum, presenting workshops or performances in schools.", 
+        "number": "230B", 
+        "subject": "FOCI", 
+        "title": "Drama In Education"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Restricted to BED/DED Program", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Exploration of the exciting possibilities for incorporating dramatic experiences into the school curriculum, including the teaching of drama as an art form, the integration of drama into other aspects of the curriculum, and the performing of original works of theatre for young audiences. The February practicum placement may be in a regular classroom, a specialized drama education program, or an alternative setting such as museum or theatre outreach program. It is also possible for several members of this focus to work together during the alternative practicum, presenting workshops or performances in schools.", 
-        "subject": "FOCI", 
-        "number": "230B", 
-        "title": "Drama In Education"
     }
 }

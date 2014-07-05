@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (8237)", 
     "basic": {
         "class_num": "8237", 
-        "subject": "MMA", 
-        "status": "Open", 
         "course": "830", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MMA", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (8237)", 
     "classes": [
         {
-            "term_end": "2015-02-21T00:00:00", 
-            "term_start": "2015-01-10T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Levin, Yuri G"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2015-02-21T00:00:00", 
+            "term_start": "2015-01-10T00:00:00"
         }
     ]
 }

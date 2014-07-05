@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This seminar course will focus on the conceptual foundations of environmental protection law, and on the writing of a research paper.\u00a0 We will examine and challenge the principles that underpin environmental legislation and policy, and explore how to think about, research, and write about environmental law.\u00a0 Topics such as environmental regulation, ecosystem management, and liability for environmental harm will be considered.\u00a0 The emphasis will be on critical analysis of environmental law and policy.", 
+        "number": "517", 
+        "subject": "LAW", 
+        "title": "Environmental Protection Law"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "LAW 1###", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This seminar course will focus on the conceptual foundations of environmental protection law, and on the writing of a research paper.\u00a0 We will examine and challenge the principles that underpin environmental legislation and policy, and explore how to think about, research, and write about environmental law.\u00a0 Topics such as environmental regulation, ecosystem management, and liability for environmental harm will be considered.\u00a0 The emphasis will be on critical analysis of environmental law and policy.", 
-        "subject": "LAW", 
-        "number": "517", 
-        "title": "Environmental Protection Law"
     }
 }

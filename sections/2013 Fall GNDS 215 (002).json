@@ -1,24 +1,24 @@
 {
+    "_unique": "002-TUT (7015)", 
     "basic": {
         "class_num": "7015", 
-        "subject": "GNDS", 
-        "status": "Open", 
         "course": "215", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "GNDS", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "002-TUT (7015)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 2, 
-            "location": "MACINTOSH-CORRY RM D122"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D122", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

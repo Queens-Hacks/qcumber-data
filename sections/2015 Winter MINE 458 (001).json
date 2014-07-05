@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (4388)", 
     "basic": {
         "class_num": "4388", 
-        "subject": "MINE", 
-        "status": "Open", 
         "course": "458", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MINE", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (4388)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Kelebek, Sadan"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "GOODWIN RM247", 
             "start_time": "1900-01-01T12:30:00", 
-            "day_of_week": 5, 
-            "location": "GOODWIN RM247"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

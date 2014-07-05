@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Under the tutelage of the Coordinator of Athletic Therapy Services, students will complete a field placement that involves assignment to a varsity team as a student trainer. Student trainers are responsible for onsite coverage of the team during competition and possibly during practices. The student trainers are also responsible for the taping needs of athletes on the team, and assisting with assessment and rehabilitation.\r\nNOTE: Materials Fees: Estimated cost $35.", 
+        "number": "330A", 
+        "subject": "KNPE", 
+        "title": "Athletic Therapy Field Placement"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 Level 3 or above in a PHED or KINE Specialization Plan & ANAT 315 & a grade of B- in (KNPE 331/3.0 or PPHE 331/3.0) & permission of the course coordinator or the Undergraduate Coordinator in the School of Kinesiology and Health Studies.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Under the tutelage of the Coordinator of Athletic Therapy Services, students will complete a field placement that involves assignment to a varsity team as a student trainer. Student trainers are responsible for onsite coverage of the team during competition and possibly during practices. The student trainers are also responsible for the taping needs of athletes on the team, and assisting with assessment and rehabilitation.\r\nNOTE: Materials Fees: Estimated cost $35.", 
-        "subject": "KNPE", 
-        "number": "330A", 
-        "title": "Athletic Therapy Field Placement"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The objective of this course is to provide students with a comprehensive understanding of the law and practice of domestic and international trade remedies. The course will provide necessary background, through readings and lectures, on major areas of practice in international trade remedies, including: safeguard measures, anti-dumping duties, countervailing duties, customs valuations and tariffclassifications, government procurement challenges, judicial reviews, investor-state disputes, World Trade Organization (WTO) dispute procedures, and trade remedies and competition law. Students will also engage in problem-based studies.", 
+        "number": "683", 
+        "subject": "LAW", 
+        "title": "International Trade Remedies"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "2.00"
-    }, 
-    "basic": {
-        "description": "The objective of this course is to provide students with a comprehensive understanding of the law and practice of domestic and international trade remedies. The course will provide necessary background, through readings and lectures, on major areas of practice in international trade remedies, including: safeguard measures, anti-dumping duties, countervailing duties, customs valuations and tariffclassifications, government procurement challenges, judicial reviews, investor-state disputes, World Trade Organization (WTO) dispute procedures, and trade remedies and competition law. Students will also engage in problem-based studies.", 
-        "subject": "LAW", 
-        "number": "683", 
-        "title": "International Trade Remedies"
     }
 }

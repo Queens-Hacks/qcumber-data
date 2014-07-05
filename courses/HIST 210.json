@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An overview of Canada's sexual past. Introduces historiographical debates and theoretical approaches to the history of sexuality. Attentive to race, class, and gender, the course employs sexuality as a prism through which to view the operations of power in Canadian history.", 
+        "number": "210", 
+        "subject": "HIST", 
+        "title": "The History of Sexuality in Canada"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An overview of Canada's sexual past. Introduces historiographical debates and theoretical approaches to the history of sexuality. Attentive to race, class, and gender, the course employs sexuality as a prism through which to view the operations of power in Canadian history.", 
-        "subject": "HIST", 
-        "number": "210", 
-        "title": "The History of Sexuality in Canada"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course deals with subsurface contamination by hazardous industrial liquids such as PCB oils, gasoline, jet fuel, chlorinated solvents and coal tars. The fundamentals of multiphase/multicomponent flow and transport in soil and groundwater are outlined followed by specific treatment of both dense and light non-aqueous phase liquids. The course will examine the subsurface distribution of these liquids, site characterization methods, indoor air intrusion, regulatory apsects, remediation technologies, and selected case histories.", 
+        "number": "471", 
+        "subject": "CIVL", 
+        "title": "Subsurface Contamination"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 14, 
+            "Eng Sci": 34, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of CIVL371 or GEOE343 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 14, 
-            "Eng Sci": 34, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "This course deals with subsurface contamination by hazardous industrial liquids such as PCB oils, gasoline, jet fuel, chlorinated solvents and coal tars. The fundamentals of multiphase/multicomponent flow and transport in soil and groundwater are outlined followed by specific treatment of both dense and light non-aqueous phase liquids. The course will examine the subsurface distribution of these liquids, site characterization methods, indoor air intrusion, regulatory apsects, remediation technologies, and selected case histories.", 
-        "subject": "CIVL", 
-        "number": "471", 
-        "title": "Subsurface Contamination"
     }
 }

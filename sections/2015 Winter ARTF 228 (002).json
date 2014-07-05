@@ -1,145 +1,145 @@
 {
+    "_unique": "002-LEC (5243)", 
     "basic": {
         "class_num": "5243", 
-        "subject": "ARTF", 
-        "status": "Open", 
         "course": "228", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ARTF", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-LEC (5243)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
-            "instructors": [
-                "Tamasauskas, Otis C K"
-            ], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 3, 
-            "location": "ONTARIO RM107"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Tamasauskas, Otis C K"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "ONTARIO RM107", 
             "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "ONTARIO RM107"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Tamasauskas, Otis C K"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "ONTARIO RM107", 
             "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
+        }, 
+        {
             "day_of_week": 1, 
-            "location": "ONTARIO RM107"
-        }, 
-        {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Aziz, Sylvat"
-            ], 
             "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 3, 
-            "location": "ONTARIO RM405"
-        }, 
-        {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Aziz, Sylvat"
-            ], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 2, 
-            "location": "ONTARIO RM405"
-        }, 
-        {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Aziz, Sylvat"
-            ], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 4, 
-            "location": "ONTARIO RM405"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
             "instructors": [
                 "Tamasauskas, Otis C K"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 4, 
-            "location": "ONTARIO RM107"
+            "location": "ONTARIO RM107", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
         }, 
         {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Aziz, Sylvat"
+            ], 
+            "location": "ONTARIO RM405", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Aziz, Sylvat"
+            ], 
+            "location": "ONTARIO RM405", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [
+                "Aziz, Sylvat"
+            ], 
+            "location": "ONTARIO RM405", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "location": "ONTARIO RM107", 
+            "start_time": "1900-01-01T14:30:00", 
             "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 2, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
-            "instructors": [
-                "Tamasauskas, Otis C K"
-            ], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 3, 
-            "location": "ONTARIO RM106"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Tamasauskas, Otis C K"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "ONTARIO RM106", 
             "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "ONTARIO RM106"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
-            "instructors": [
-                "Tamasauskas, Otis C K"
-            ], 
             "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 1, 
-            "location": "ONTARIO RM106"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
             "instructors": [
                 "Tamasauskas, Otis C K"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
+            "location": "ONTARIO RM106", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "location": "ONTARIO RM106", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "ONTARIO RM106"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [
+                "Tamasauskas, Otis C K"
+            ], 
+            "location": "ONTARIO RM106", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
         }
     ]
 }

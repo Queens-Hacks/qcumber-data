@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LAB (8226)", 
     "basic": {
         "class_num": "8226", 
-        "subject": "DRAM", 
-        "status": "Open", 
         "course": "236", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DRAM", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LAB (8226)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Renders, Kim"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "THEOLOGICAL RM102", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 4, 
-            "location": "THEOLOGICAL RM102"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

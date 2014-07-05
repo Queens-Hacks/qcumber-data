@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Module 1. Metal Forming - The module begins with a brief introduction to the theory of plasticity, directly applicable to the mathematical and physical analysis of problems in metal forming. A discussion of tribology and material attributes follows. Metallurgical phenomena, accompanying hot and cold forming of metals, are discussed. Application to bulk metal forming (rolling, extrusion, drawing and forging) and sheet metal forming (deep drawing, stretch forming, hydro-forming) are considered. The use and limitations are demonstrated. Examples from laboratory experiments and from industrial applications are used to complement the presentation.\u00a0 Module 2. Computer Modeling of Sheet Metal Forming - This module covers numerical simulation techniques used to accurately and efficiently simulate industrial sheet and tube forming processes. A variety of finite element-based techniques will be considered including explicit dynamic, implicit and so-called single- or multi-step methods. The course will be of interest to industrial stamping and hydroforming practitioners, as well as engineers involved in crash worthiness modeling due to the extensive treatment of explicit dynamic finite element modeling.\u00a0 (Lead Instructor: John Lenard, Waterloo)", 
+        "number": "801", 
+        "subject": "DM", 
+        "title": "Metal Forming & Computer Model"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Module 1. Metal Forming - The module begins with a brief introduction to the theory of plasticity, directly applicable to the mathematical and physical analysis of problems in metal forming. A discussion of tribology and material attributes follows. Metallurgical phenomena, accompanying hot and cold forming of metals, are discussed. Application to bulk metal forming (rolling, extrusion, drawing and forging) and sheet metal forming (deep drawing, stretch forming, hydro-forming) are considered. The use and limitations are demonstrated. Examples from laboratory experiments and from industrial applications are used to complement the presentation.\u00a0 Module 2. Computer Modeling of Sheet Metal Forming - This module covers numerical simulation techniques used to accurately and efficiently simulate industrial sheet and tube forming processes. A variety of finite element-based techniques will be considered including explicit dynamic, implicit and so-called single- or multi-step methods. The course will be of interest to industrial stamping and hydroforming practitioners, as well as engineers involved in crash worthiness modeling due to the extensive treatment of explicit dynamic finite element modeling.\u00a0 (Lead Instructor: John Lenard, Waterloo)", 
-        "subject": "DM", 
-        "number": "801", 
-        "title": "Metal Forming & Computer Model"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Practice in reading, writing, grammar review and literary analysis.\r\nNOTE\u00a0\u00a0 \u00a0 Placement test required. A grade of B is required in this course if a student wishes to use it as a prerequisite to access those upper-year courses required for the FREN Major or Medial Plans.", 
+        "number": "101", 
+        "subject": "FREN", 
+        "title": "Fran\u00e7ais interm\u00e9diaire I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 6.0 units from FREN100; FREN101; FREN102; FREN 110", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Practice in reading, writing, grammar review and literary analysis.\r\nNOTE\u00a0\u00a0 \u00a0 Placement test required. A grade of B is required in this course if a student wishes to use it as a prerequisite to access those upper-year courses required for the FREN Major or Medial Plans.", 
-        "subject": "FREN", 
-        "number": "101", 
-        "title": "Fran\u00e7ais interm\u00e9diaire I"
     }
 }

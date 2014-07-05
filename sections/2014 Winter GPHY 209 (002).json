@@ -1,26 +1,26 @@
 {
+    "_unique": "002-PRA (3820)", 
     "basic": {
         "class_num": "3820", 
-        "subject": "GPHY", 
-        "status": "Closed", 
         "course": "209", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "GPHY", 
         "type": "PRA", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-PRA (3820)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Bonnaventure, Philip P"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "MACINTOSH-CORRY RM E208", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 1, 
-            "location": "MACINTOSH-CORRY RM E208"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

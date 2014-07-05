@@ -1,1 +1,14 @@
-{"isbn_13": "9782070408986", "isbn_10": "2070408981", "classified_info": "0 classified listings", "new_price": "$5.45", "used_price": "$4.09", "authors": "CHARLES PERRAULT", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13779-FREN212-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull", "courses": ["FREN 212"], "required": true, "title": "CONTES"}
+{
+    "authors": "CHARLES PERRAULT", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "FREN 212"
+    ], 
+    "isbn_10": "2070408981", 
+    "isbn_13": "9782070408986", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13779-FREN212-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl06_test_ModeFull", 
+    "new_price": "$5.45", 
+    "required": true, 
+    "title": "CONTES", 
+    "used_price": "$4.09"
+}

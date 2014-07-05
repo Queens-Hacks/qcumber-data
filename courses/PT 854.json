@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Students will apply knowledge in anatomy, physiology and biomechanics towards processes of diagnosing physical dysfunction. Students will gain skills in history-taking, physical assessment, and clinical reasoning to assist with the diagnosis and treatment of conditions primarily involving the extremities. Lab component.", 
+        "number": "854", 
+        "subject": "PT", 
+        "title": "Diagnosing Dysfunction"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "Students will apply knowledge in anatomy, physiology and biomechanics towards processes of diagnosing physical dysfunction. Students will gain skills in history-taking, physical assessment, and clinical reasoning to assist with the diagnosis and treatment of conditions primarily involving the extremities. Lab component.", 
-        "subject": "PT", 
-        "number": "854", 
-        "title": "Diagnosing Dysfunction"
     }
 }

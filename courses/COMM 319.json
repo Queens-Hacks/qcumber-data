@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Taxes and business decisions interact with each other, affecting managers personally as well as the firms they work for. The main theme of the course is that managerial tax planning is part of the practice of management; it is part of the question of how to set up a business and chart its investment, financing and compensation strategies. The objective is to apply this perspective to domestic and international topics such as the choice of business entities, tax arbitrage, financial markets, compensation planning, business combinations, foreign investment and personal tax planning.", 
+        "number": "319", 
+        "subject": "COMM", 
+        "title": "Income Taxation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Admission restricted to third- and fourth- year students in their program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Taxes and business decisions interact with each other, affecting managers personally as well as the firms they work for. The main theme of the course is that managerial tax planning is part of the practice of management; it is part of the question of how to set up a business and chart its investment, financing and compensation strategies. The objective is to apply this perspective to domestic and international topics such as the choice of business entities, tax arbitrage, financial markets, compensation planning, business combinations, foreign investment and personal tax planning.", 
-        "subject": "COMM", 
-        "number": "319", 
-        "title": "Income Taxation"
     }
 }

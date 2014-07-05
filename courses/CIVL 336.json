@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Introduction to limit states design, load paths, sustainability, and life-cycle analysis. Dead and live loads for design as specified in the National Building Code of Canada. Design assumptions regarding material properties of structural steel, concrete, and reinforcing steel. Flexural design of reinforced concrete beams including singly reinforced sections, doubly reinforced sections, T-sections, and one-way slabs. Control of cracking in reinforced concrete beams as specified for design. Flexural design of laterally supported and laterally unsupported structural steel beams. Shear design of structural steel and reinforced concrete beams. Design of tension members in structural steel. Design of axially loaded columns in structural steel and reinforced concrete. (0/0/0/8/40) ~ COURSE DELETED IN 2008/09 ~", 
+        "number": "336", 
+        "subject": "CIVL", 
+        "title": "Structural Steel/Concrete Des"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 40, 
+            "Eng Sci": 8, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of CIVL226 or CIVL228 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 40, 
-            "Eng Sci": 8, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "Introduction to limit states design, load paths, sustainability, and life-cycle analysis. Dead and live loads for design as specified in the National Building Code of Canada. Design assumptions regarding material properties of structural steel, concrete, and reinforcing steel. Flexural design of reinforced concrete beams including singly reinforced sections, doubly reinforced sections, T-sections, and one-way slabs. Control of cracking in reinforced concrete beams as specified for design. Flexural design of laterally supported and laterally unsupported structural steel beams. Shear design of structural steel and reinforced concrete beams. Design of tension members in structural steel. Design of axially loaded columns in structural steel and reinforced concrete. (0/0/0/8/40) ~ COURSE DELETED IN 2008/09 ~", 
-        "subject": "CIVL", 
-        "number": "336", 
-        "title": "Structural Steel/Concrete Des"
     }
 }

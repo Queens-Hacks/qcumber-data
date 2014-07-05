@@ -1,24 +1,24 @@
 {
+    "_unique": "002-LAB (2120)", 
     "basic": {
         "class_num": "2120", 
-        "subject": "NURS", 
-        "status": "Open", 
         "course": "345", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "NURS", 
         "type": "LAB", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (2120)", 
     "classes": [
         {
-            "term_end": "2014-06-17T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T07:00:00", 
             "day_of_week": 5, 
-            "location": "TBA"
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T07:00:00", 
+            "term_end": "2014-06-17T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
         }
     ]
 }

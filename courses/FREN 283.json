@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to business French, including discussions of related cultural and economic issues.", 
+        "number": "283", 
+        "subject": "FREN", 
+        "title": "Le fran\u00e7ais des affaires"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 FREN100 or FREN110 or (FREN101 and FREN102).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN232 or FREN312 or FREN300.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to business French, including discussions of related cultural and economic issues.", 
-        "subject": "FREN", 
-        "number": "283", 
-        "title": "Le fran\u00e7ais des affaires"
     }
 }

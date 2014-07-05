@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introductory examination of the fundamental place of music in human society through a broad survey of music systems from around the world, as well as foundations in the critical listening, research, and writing skills used in music scholarship.\r\nNOTE\u00a0\u00a0\u00a0 Students registered in the MUSC Minor/General Plan should not enrol in this course.\r\nNOTE\u00a0 Students holding First-Class Honours standing in the Royal Conservatory Grade II Rudiments may enrol in the course with permission of the School.", 
+        "number": "103", 
+        "subject": "MUSC", 
+        "title": "Music and Society"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A- in MUSC P52 \r\nCorequisite\u00a0\u00a0\u00a0\u00a0 MUSC191", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introductory examination of the fundamental place of music in human society through a broad survey of music systems from around the world, as well as foundations in the critical listening, research, and writing skills used in music scholarship.\r\nNOTE\u00a0\u00a0\u00a0 Students registered in the MUSC Minor/General Plan should not enrol in this course.\r\nNOTE\u00a0 Students holding First-Class Honours standing in the Royal Conservatory Grade II Rudiments may enrol in the course with permission of the School.", 
-        "subject": "MUSC", 
-        "number": "103", 
-        "title": "Music and Society"
     }
 }

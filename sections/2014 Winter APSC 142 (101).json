@@ -1,26 +1,26 @@
 {
+    "_unique": "101-LEC (1450)", 
     "basic": {
         "class_num": "1450", 
-        "subject": "APSC", 
-        "status": "Closed", 
         "course": "142", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "101", 
+        "status": "Closed", 
+        "subject": "APSC", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "101-LEC (1450)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Zou, Ying"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "ELLIS AUD", 
             "start_time": "1900-01-01T10:30:00", 
-            "day_of_week": 2, 
-            "location": "ELLIS AUD"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

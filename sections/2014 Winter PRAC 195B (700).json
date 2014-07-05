@@ -1,24 +1,24 @@
 {
+    "_unique": "700-LEC (7838)", 
     "basic": {
         "class_num": "7838", 
-        "subject": "PRAC", 
-        "status": "Open", 
         "course": "195B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "700", 
+        "status": "Open", 
+        "subject": "PRAC", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "700-LEC (7838)", 
     "classes": [
         {
-            "term_end": "2014-04-30T00:00:00", 
-            "term_start": "2014-01-02T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-04-30T00:00:00", 
+            "term_start": "2014-01-02T00:00:00"
         }
     ]
 }

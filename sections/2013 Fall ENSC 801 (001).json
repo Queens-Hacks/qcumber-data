@@ -1,24 +1,24 @@
 {
+    "_unique": "001-SEM (8337)", 
     "basic": {
         "class_num": "8337", 
-        "subject": "ENSC", 
-        "status": "Open", 
         "course": "801", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ENSC", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-SEM (8337)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 5, 
-            "location": "JEFFERY RM319"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM319", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

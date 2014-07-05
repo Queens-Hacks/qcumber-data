@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Laboratory-based course emphasizing experimental approaches to understanding the principles of animal physiology covered in BIOL 339/3.0.", 
+        "number": "401", 
+        "subject": "BIOL", 
+        "title": "Experimental Approaches to Animal Physiology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 BIOL339.\r\nExclusion\u00a0\u00a0\u00a0 BIOL338", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Laboratory-based course emphasizing experimental approaches to understanding the principles of animal physiology covered in BIOL 339/3.0.", 
-        "subject": "BIOL", 
-        "number": "401", 
-        "title": "Experimental Approaches to Animal Physiology"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "396", 
+        "subject": "COMM", 
+        "title": "Network Design Projects"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "(Prerequisite of COMM190 and registered in a BCOM Academic Program and have a level > than or equal to 3) or registered in a COMM-X Academic Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "COMM", 
-        "number": "396", 
-        "title": "Network Design Projects"
     }
 }

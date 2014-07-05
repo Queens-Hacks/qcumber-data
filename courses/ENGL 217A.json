@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A comparative survey of representative works of literature from around the globe (including Africa, Australia, the Caribbean, and the Indian subcontinent) that engage with the history and legacy of colonialism. Themes under consideration may include: cultural memory; economic underdevelopment; hybrid identity; linguistic diversity; political resistance.", 
+        "number": "217A", 
+        "subject": "ENGL", 
+        "title": "Postcolonial Literatures"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C in ENGL100/6.0 (or ENGL110) or registration in a DEVS plan", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "A comparative survey of representative works of literature from around the globe (including Africa, Australia, the Caribbean, and the Indian subcontinent) that engage with the history and legacy of colonialism. Themes under consideration may include: cultural memory; economic underdevelopment; hybrid identity; linguistic diversity; political resistance.", 
-        "subject": "ENGL", 
-        "number": "217A", 
-        "title": "Postcolonial Literatures"
     }
 }

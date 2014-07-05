@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The clinical clerk is expected to function as an integral member of a multi-disciplinary team, and become active in the assessment and management of patients in a variety of settings, including in-patient care, consultations, emergency room assessments and out-patient clinics depending on the rotation. The clinical clerk is also expected to participate in an on-call roster and on patient management rounds as appropriate.", 
+        "number": "440", 
+        "subject": "MEDS", 
+        "title": "Medicine Specialty"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "The clinical clerk is expected to function as an integral member of a multi-disciplinary team, and become active in the assessment and management of patients in a variety of settings, including in-patient care, consultations, emergency room assessments and out-patient clinics depending on the rotation. The clinical clerk is also expected to participate in an on-call roster and on patient management rounds as appropriate.", 
-        "subject": "MEDS", 
-        "number": "440", 
-        "title": "Medicine Specialty"
     }
 }

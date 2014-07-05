@@ -1,24 +1,24 @@
 {
+    "_unique": "016-TUT (6595)", 
     "basic": {
         "class_num": "6595", 
-        "subject": "PSYC", 
-        "status": "Closed", 
         "course": "100A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "016", 
+        "status": "Closed", 
+        "subject": "PSYC", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "016-TUT (6595)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:30:00", 
             "day_of_week": 2, 
-            "location": "HUMPHREY RM131"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM131", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "UNENE course number = UN 0805This course is designed to introduce graduate students to recent advances in radiation biology that have direct impact on our understanding of the health risks associated with ionizing radiation. The course will focus on radiation absorption in living tissue and physical and biological processes that influence the consequences of the exposure. Students will learn about the biological effects from different radiation qualities, doses, and dose rates. The course will address cellular radiation damage and repair mechanisms and introduce students to modern techniques in molecular biology used in accident and emergency biological dosimetry. The material will relate to radiation applications in medicine and industry. No prior knowledge of biology at an advanced level is required.\u00a0 McMaster University/D. Tucker", 
+        "number": "885", 
+        "subject": "UN", 
+        "title": "Radiation Health Risk/Benefits"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "UNENE course number = UN 0805This course is designed to introduce graduate students to recent advances in radiation biology that have direct impact on our understanding of the health risks associated with ionizing radiation. The course will focus on radiation absorption in living tissue and physical and biological processes that influence the consequences of the exposure. Students will learn about the biological effects from different radiation qualities, doses, and dose rates. The course will address cellular radiation damage and repair mechanisms and introduce students to modern techniques in molecular biology used in accident and emergency biological dosimetry. The material will relate to radiation applications in medicine and industry. No prior knowledge of biology at an advanced level is required.\u00a0 McMaster University/D. Tucker", 
-        "subject": "UN", 
-        "number": "885", 
-        "title": "Radiation Health Risk/Benefits"
     }
 }

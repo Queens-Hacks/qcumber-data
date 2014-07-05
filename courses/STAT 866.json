@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Analysis of data consisting of measurements of several variables on a sample of individuals. Distribution theory, maximum-likelihood estimation and likelihood-ratio testing, Bayesian inference, discrimination, principal components, other topics. (Offered jointly with STAT-466*.) Three term-hours, winter; lectures.", 
+        "number": "866", 
+        "subject": "STAT", 
+        "title": "Applied Multivariate Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Analysis of data consisting of measurements of several variables on a sample of individuals. Distribution theory, maximum-likelihood estimation and likelihood-ratio testing, Bayesian inference, discrimination, principal components, other topics. (Offered jointly with STAT-466*.) Three term-hours, winter; lectures.", 
-        "subject": "STAT", 
-        "number": "866", 
-        "title": "Applied Multivariate Analysis"
     }
 }

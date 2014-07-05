@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The debate over how technology is implicated in social control is perennial and broad. Relevant twentieth-century theorists include Max Weber, Lewis Mumford, Jacques Ellul, Michel Foucault, Evelyn Fox-Keller, Harold Adams Innis. This course explores the insight and compares the perspectives of selected theorists, and applies them specifically to information and communication technologies. The issue of mass surveillance of populations in the advanced societies, by both government and commercial agencies, is analyzed, both to understand the nature of the social processes involved, and to generate discussion of political and policy implications. While the course is necessarily comparative - globalization is both consequence and cause of technological diffusion - opportunity is given to focus on Canadian examples.", 
+        "number": "930", 
+        "subject": "SOCY", 
+        "title": "Technology And Social Control"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The debate over how technology is implicated in social control is perennial and broad. Relevant twentieth-century theorists include Max Weber, Lewis Mumford, Jacques Ellul, Michel Foucault, Evelyn Fox-Keller, Harold Adams Innis. This course explores the insight and compares the perspectives of selected theorists, and applies them specifically to information and communication technologies. The issue of mass surveillance of populations in the advanced societies, by both government and commercial agencies, is analyzed, both to understand the nature of the social processes involved, and to generate discussion of political and policy implications. While the course is necessarily comparative - globalization is both consequence and cause of technological diffusion - opportunity is given to focus on Canadian examples.", 
-        "subject": "SOCY", 
-        "number": "930", 
-        "title": "Technology And Social Control"
     }
 }

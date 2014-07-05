@@ -1,1 +1,17 @@
-{"isbn_10": "0306806983", "courses": ["HIST 295", "HIST 306"], "required": true, "used_price": "$17.25", "isbn_13": "9780306806988", "used_available": 7, "new_available": 2, "new_price": "$23.00", "authors": "Rudolph Hoss", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13524-HIST295-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "classified_info": "0 classified listings", "title": "Death Dealer"}
+{
+    "authors": "Rudolph Hoss", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "HIST 295", 
+        "HIST 306"
+    ], 
+    "isbn_10": "0306806983", 
+    "isbn_13": "9780306806988", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13524-HIST295-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 2, 
+    "new_price": "$23.00", 
+    "required": true, 
+    "title": "Death Dealer", 
+    "used_available": 7, 
+    "used_price": "$17.25"
+}

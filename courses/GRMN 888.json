@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of selected texts by women writers in the German-speaking world from 1968 to the present. Special attention will be paid to themes and writing strategies that reflect women's consciousness of self and the world.\u00a0 Not offered 2008-2009.", 
+        "number": "888", 
+        "subject": "GRMN", 
+        "title": "Women's Literature In German"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required", 
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of selected texts by women writers in the German-speaking world from 1968 to the present. Special attention will be paid to themes and writing strategies that reflect women's consciousness of self and the world.\u00a0 Not offered 2008-2009.", 
-        "subject": "GRMN", 
-        "number": "888", 
-        "title": "Women's Literature In German"
     }
 }

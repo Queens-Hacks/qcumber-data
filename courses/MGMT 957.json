@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Specialized topics in organizational behaviour will be covered. The subject matter will vary from year to year depending on the interests of the faculty", 
+        "number": "957", 
+        "subject": "MGMT", 
+        "title": "Special Topics Reading Course"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Specialized topics in organizational behaviour will be covered. The subject matter will vary from year to year depending on the interests of the faculty", 
-        "subject": "MGMT", 
-        "number": "957", 
-        "title": "Special Topics Reading Course"
     }
 }

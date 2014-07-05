@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Special Education, Part 1 is an introductory course. It focuses on the theory and practice underpinning special education. This course explores exceptionalities, teaching strategies, program planning and other issues related to teaching and learning in all classrooms. This course is designed to focus on integrating students with special needs into the regular classroom. As a result of this course, you will become familiar with current trends and issues associated with the integration of special needs students into the regular classroom. As well, techniques and strategies involved in the accommodation and modification of content, instruction, application, and evaluation will be discussed.", 
+        "number": "304", 
+        "subject": "CONT", 
+        "title": "Special Education, Part 1"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Special Education, Part 1 is an introductory course. It focuses on the theory and practice underpinning special education. This course explores exceptionalities, teaching strategies, program planning and other issues related to teaching and learning in all classrooms. This course is designed to focus on integrating students with special needs into the regular classroom. As a result of this course, you will become familiar with current trends and issues associated with the integration of special needs students into the regular classroom. As well, techniques and strategies involved in the accommodation and modification of content, instruction, application, and evaluation will be discussed.", 
-        "subject": "CONT", 
-        "number": "304", 
-        "title": "Special Education, Part 1"
     }
 }

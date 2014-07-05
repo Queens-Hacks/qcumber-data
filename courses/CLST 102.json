@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to major themes in the development of Greek civilization using the evidence of literature, history and archaeology. Some attention will be given to those aspects of ancient cultural and intellectual growth that are of significance in the western tradition.", 
+        "number": "102", 
+        "subject": "CLST", 
+        "title": "Introduction to Greek Civilization"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 6.0 units from CLST101; CLST102; CLST103", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to major themes in the development of Greek civilization using the evidence of literature, history and archaeology. Some attention will be given to those aspects of ancient cultural and intellectual growth that are of significance in the western tradition.", 
-        "subject": "CLST", 
-        "number": "102", 
-        "title": "Introduction to Greek Civilization"
     }
 }

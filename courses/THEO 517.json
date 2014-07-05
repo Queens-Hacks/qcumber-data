@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "517", 
+        "subject": "THEO", 
+        "title": "The New Testament"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "THEO", 
-        "number": "517", 
-        "title": "The New Testament"
     }
 }

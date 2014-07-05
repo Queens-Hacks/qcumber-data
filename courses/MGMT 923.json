@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course introduces the students to various topics on asset pricing in a continuous-time setting. The first part of the course covers contingent claim analysis and derivative pricing modeling, including their applications to other areas in finance. The second part of the course covers topics in optimal portfolio and consumption problems, equilibrium and intertemporal asset pricing models. Students should have had some previous exposure to microeconomics theory and some basic courses in financial derivatives. Strong backgrounds in calculus, linear algebra, and probability theory are recommended.", 
+        "number": "923", 
+        "subject": "MGMT", 
+        "title": "Advanced Asset Pricing"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course introduces the students to various topics on asset pricing in a continuous-time setting. The first part of the course covers contingent claim analysis and derivative pricing modeling, including their applications to other areas in finance. The second part of the course covers topics in optimal portfolio and consumption problems, equilibrium and intertemporal asset pricing models. Students should have had some previous exposure to microeconomics theory and some basic courses in financial derivatives. Strong backgrounds in calculus, linear algebra, and probability theory are recommended.", 
-        "subject": "MGMT", 
-        "number": "923", 
-        "title": "Advanced Asset Pricing"
     }
 }

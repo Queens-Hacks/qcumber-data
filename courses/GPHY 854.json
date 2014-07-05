@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A survey and assessment of the methods of acquisition, editing, management, organization, retrieval and display of different types of data used in research in geography. Emphasis on data organization and management in both mainframe and microcomputing environments. Three term-hours.", 
+        "number": "854", 
+        "subject": "GPHY", 
+        "title": "Approaches To Data Gphy Enquir"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A survey and assessment of the methods of acquisition, editing, management, organization, retrieval and display of different types of data used in research in geography. Emphasis on data organization and management in both mainframe and microcomputing environments. Three term-hours.", 
-        "subject": "GPHY", 
-        "number": "854", 
-        "title": "Approaches To Data Gphy Enquir"
     }
 }

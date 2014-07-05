@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of a selected topic or topics in Marxist theory with an emphasis on the reading of original texts and recent interpretations and applications.\u00a0 (Offered jointly with POLS-459*)\u00a0 One 3-hour seminar.", 
+        "number": "859", 
+        "subject": "POLS", 
+        "title": "Marxist Theories And Debates"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of a selected topic or topics in Marxist theory with an emphasis on the reading of original texts and recent interpretations and applications.\u00a0 (Offered jointly with POLS-459*)\u00a0 One 3-hour seminar.", 
-        "subject": "POLS", 
-        "number": "859", 
-        "title": "Marxist Theories And Debates"
     }
 }

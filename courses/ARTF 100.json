@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A basic introduction to the principles of line and form, intended as a foundation for further studies in the visual arts. \r\nNOTE\u00a0\u00a0\u00a0 Offered during Spring-Summer Sessions only.\u00a0Not available for credit towards a B.F.A. program.\r\nNOTE\u00a0\u00a0\u00a0\u00a0Materials: estimated cost $100.", 
+        "number": "100", 
+        "subject": "ARTF", 
+        "title": "Introductory Drawing"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "EXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from ARTF 100/6.0; ARTF 127/6.0.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from ARTF 100/6.0; ARTF 128/6.0.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A basic introduction to the principles of line and form, intended as a foundation for further studies in the visual arts. \r\nNOTE\u00a0\u00a0\u00a0 Offered during Spring-Summer Sessions only.\u00a0Not available for credit towards a B.F.A. program.\r\nNOTE\u00a0\u00a0\u00a0\u00a0Materials: estimated cost $100.", 
-        "subject": "ARTF", 
-        "number": "100", 
-        "title": "Introductory Drawing"
     }
 }

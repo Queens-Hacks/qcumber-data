@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An important topic in probability or statistics not covered in any other course.", 
+        "number": "505", 
+        "subject": "STAT", 
+        "title": "Topics in Statistics I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Reading": "Required"
         }, 
-        "typically_offered": "Fall", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An important topic in probability or statistics not covered in any other course.", 
-        "subject": "STAT", 
-        "number": "505", 
-        "title": "Topics in Statistics I"
     }
 }

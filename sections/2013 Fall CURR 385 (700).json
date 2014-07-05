@@ -1,26 +1,26 @@
 {
+    "_unique": "700-LEC (8451)", 
     "basic": {
         "class_num": "8451", 
-        "subject": "CURR", 
-        "status": "Open", 
         "course": "385", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "700", 
+        "status": "Open", 
+        "subject": "CURR", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "700-LEC (8451)", 
     "classes": [
         {
-            "term_end": "2013-09-22T00:00:00", 
-            "term_start": "2013-09-20T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Bell, Nicole"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2013-09-22T00:00:00", 
+            "term_start": "2013-09-20T00:00:00"
         }
     ]
 }

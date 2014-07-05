@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (7625)", 
     "basic": {
         "class_num": "7625", 
-        "subject": "PSYC", 
-        "status": "Open", 
         "course": "935", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PSYC", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-SEM (7625)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T13:00:00", 
             "instructors": [
                 "Menard, Janet L"
             ], 
-            "end_time": "1900-01-01T13:00:00", 
+            "location": "HUMPHREY RM223", 
             "start_time": "1900-01-01T11:00:00", 
-            "day_of_week": 1, 
-            "location": "HUMPHREY RM223"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

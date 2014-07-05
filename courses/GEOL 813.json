@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Overview of development of rock engineering; discussion of acceptability criteria for engineering design; site characterization techniques and objectives; rockmass classification methodology and property determination; analysis of structural instability; assessment of stress; design of underground structures in weak rock; rock support design; risk management for rock engineering.\u00a0Three term hour lecture, two hour tutorial. Fall. Instructor: D. Jean Hutchinson or M.S. Diederichs.\u00a0 Not offered 2010-2011.\u00a0", 
+        "number": "813", 
+        "subject": "GEOL", 
+        "title": "Rock Engineering Concepts And Case Histories"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Overview of development of rock engineering; discussion of acceptability criteria for engineering design; site characterization techniques and objectives; rockmass classification methodology and property determination; analysis of structural instability; assessment of stress; design of underground structures in weak rock; rock support design; risk management for rock engineering.\u00a0Three term hour lecture, two hour tutorial. Fall. Instructor: D. Jean Hutchinson or M.S. Diederichs.\u00a0 Not offered 2010-2011.\u00a0", 
-        "subject": "GEOL", 
-        "number": "813", 
-        "title": "Rock Engineering Concepts And Case Histories"
     }
 }

@@ -1,1 +1,13 @@
-{"isbn_13": "9780776607344", "isbn_10": "0776607340", "classified_info": "0 classified listings", "new_price": "$18.90", "authors": "Adam Chapnick, Craig Stone", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13846-MPA523-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["MPA 523"], "required": true, "title": "Academic Writing for Military Personnel"}
+{
+    "authors": "Adam Chapnick, Craig Stone", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "MPA 523"
+    ], 
+    "isbn_10": "0776607340", 
+    "isbn_13": "9780776607344", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13846-MPA523-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_price": "$18.90", 
+    "required": true, 
+    "title": "Academic Writing for Military Personnel"
+}

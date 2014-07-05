@@ -1,24 +1,24 @@
 {
+    "_unique": "002-TUT (3455)", 
     "basic": {
         "class_num": "3455", 
-        "subject": "CIVL", 
-        "status": "Open", 
         "course": "360", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CIVL", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-TUT (3455)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 2, 
-            "location": "ELLIS RM321"
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "ELLIS RM321", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A 6-week full-time placement providing experience in physiotherapy practice in a clinical facility or community-based agency. During their first clinical placement students will be expected to apply the skills, knowledge and behaviours presented during the first two academic blocks, with a focus on musculoskeletal physiotherapy practice. By the end of the clinical placement students should be proficient in assessment and management skills, able to provide quality care to clients with non-complex, single system, primarily musculoskeletal conditions, with guidance and supervision. Interprofessional component.", 
+        "number": "881B", 
+        "subject": "PT", 
+        "title": "Clinical Placement I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A 6-week full-time placement providing experience in physiotherapy practice in a clinical facility or community-based agency. During their first clinical placement students will be expected to apply the skills, knowledge and behaviours presented during the first two academic blocks, with a focus on musculoskeletal physiotherapy practice. By the end of the clinical placement students should be proficient in assessment and management skills, able to provide quality care to clients with non-complex, single system, primarily musculoskeletal conditions, with guidance and supervision. Interprofessional component.", 
-        "subject": "PT", 
-        "number": "881B", 
-        "title": "Clinical Placement I"
     }
 }

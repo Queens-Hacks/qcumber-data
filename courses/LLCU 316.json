@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to contemporary literary theories and the analysis of Hispanic texts from reader-, structural-, and author-oriented perspectives.", 
+        "number": "316", 
+        "subject": "LLCU", 
+        "title": "Introduction to Contemporary Literary Theory and Analysis"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 3 or permission of the Dept. of Languages, Literatures and Cultures.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from LLCU316; SPAN316; SPAN406\r\nEquivalency\u00a0\u00a0\u00a0 SPAN316.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to contemporary literary theories and the analysis of Hispanic texts from reader-, structural-, and author-oriented perspectives.", 
-        "subject": "LLCU", 
-        "number": "316", 
-        "title": "Introduction to Contemporary Literary Theory and Analysis"
     }
 }

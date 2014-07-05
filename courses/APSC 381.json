@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The objective of this multidisciplinary course is to provide students with a broad range of knowledge and skills for design and innovation. Drawing heavily from industry practice, topics span the breadth of the innovation process, including advanced topics such as risk analysis, FMEA, reliability, and elements of six sigma methodologies. Elements of project management, market and economic analysis, and other professional practice topics are interwoven. Students work in multi-disciplinary teams on relevant and realistic projects, simulating the real-world engineering environment. This course provides direct entry to the elective final year capstone project course \u00bfAPSC 480 - Multi-disciplinary Industry Engineering Design Project\u00bf, and will provide sound footing for those intending to pursue further design and innovation courses/programs.", 
+        "number": "381", 
+        "subject": "APSC", 
+        "title": "Advanced Design and Skills for Innovation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 42, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BSCE Academic Program and have a Level = to 3 and have completed all 2nd year core courses. 4th year students may be eligible at the discretion of the instructor.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 42, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "The objective of this multidisciplinary course is to provide students with a broad range of knowledge and skills for design and innovation. Drawing heavily from industry practice, topics span the breadth of the innovation process, including advanced topics such as risk analysis, FMEA, reliability, and elements of six sigma methodologies. Elements of project management, market and economic analysis, and other professional practice topics are interwoven. Students work in multi-disciplinary teams on relevant and realistic projects, simulating the real-world engineering environment. This course provides direct entry to the elective final year capstone project course \u00bfAPSC 480 - Multi-disciplinary Industry Engineering Design Project\u00bf, and will provide sound footing for those intending to pursue further design and innovation courses/programs.", 
-        "subject": "APSC", 
-        "number": "381", 
-        "title": "Advanced Design and Skills for Innovation"
     }
 }

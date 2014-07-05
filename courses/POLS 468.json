@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course analyzes Middle Eastern politics from the perspective of international relations. Themes covered include the evolution of various identities in the region, the role of outside actors in the Middle East, contemporary Middle Eastern state and social relations, and the role that Middle Eastern states play in contemporary world politics.", 
+        "number": "468", 
+        "subject": "POLS", 
+        "title": "the International Relations of the Middle East"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course analyzes Middle Eastern politics from the perspective of international relations. Themes covered include the evolution of various identities in the region, the role of outside actors in the Middle East, contemporary Middle Eastern state and social relations, and the role that Middle Eastern states play in contemporary world politics.", 
-        "subject": "POLS", 
-        "number": "468", 
-        "title": "the International Relations of the Middle East"
     }
 }

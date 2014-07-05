@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Critical study of historical development of scientific and medical establishments with specific focus upon women; legal, ethical, and economic issues related to new reproductive technologies examined.", 
+        "number": "384", 
+        "subject": "SOCY", 
+        "title": "Women and Reproduction Technology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "SOCY122 OR WMNS####", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Critical study of historical development of scientific and medical establishments with specific focus upon women; legal, ethical, and economic issues related to new reproductive technologies examined.", 
-        "subject": "SOCY", 
-        "number": "384", 
-        "title": "Women and Reproduction Technology"
     }
 }

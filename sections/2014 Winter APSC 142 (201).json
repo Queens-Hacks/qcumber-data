@@ -1,26 +1,26 @@
 {
+    "_unique": "201-STD (1456)", 
     "basic": {
         "class_num": "1456", 
-        "subject": "APSC", 
-        "status": "Open", 
         "course": "142", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "201", 
+        "status": "Open", 
+        "subject": "APSC", 
         "type": "STD", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "201-STD (1456)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Morin, Evelyn Louise"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "BEAMISH-MUNRO RM213", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 1, 
-            "location": "BEAMISH-MUNRO RM213"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

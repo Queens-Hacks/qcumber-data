@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Lecture courses on selected topics in psychology offered periodically.\r\nNOTE\u00a0\u00a0\u00a0 Prerequisites vary depending on specific course content; consult instructor or Undergraduate Office in the Psychology Department.", 
+        "number": "398", 
+        "subject": "PSYC", 
+        "title": "Selected Topics in Psychology I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PSYC202 OR STAT263 OR ECON250 OR COMM162 OR GPHY247 OR BIOL243 OR PHED351 OR PHED251 OR STAT261 OR STAT267 OR STAT367 OR KNPE251", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Lecture courses on selected topics in psychology offered periodically.\r\nNOTE\u00a0\u00a0\u00a0 Prerequisites vary depending on specific course content; consult instructor or Undergraduate Office in the Psychology Department.", 
-        "subject": "PSYC", 
-        "number": "398", 
-        "title": "Selected Topics in Psychology I"
     }
 }

@@ -1,1 +1,14 @@
-{"isbn_13": "9780375759277", "isbn_10": "0375759271", "classified_info": "0 classified listings", "new_price": "$18.00", "used_price": "$13.50", "authors": "William Dean Howells", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13766-ENGL446#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["ENGL 446"], "required": true, "title": "A Hazard of New Fortunes"}
+{
+    "authors": "William Dean Howells", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 446"
+    ], 
+    "isbn_10": "0375759271", 
+    "isbn_13": "9780375759277", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13766-ENGL446#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_price": "$18.00", 
+    "required": true, 
+    "title": "A Hazard of New Fortunes", 
+    "used_price": "$13.50"
+}

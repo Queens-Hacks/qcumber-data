@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will present a number of advanced approximate methods for analyzing structures. Topics covered\u00a0 include: analysis of statically indeterminate trusses and frames; model analysis; energy principles; numerical integration for solving structural problems including Newmark\u00bfs method and beams on elastic foundations;\u00a0 structural vibrations including Rayleigh\u00bfs principle, Stodola\u00bfs iteration technique, and distributed mass systems using Newmark\u00bfs method; structural stability including the energy criterion for stability, lower-bound methods, the method of\u00a0 Vianello, columns with lateral\u00a0 loads, Perry\u00bfs approximation, the conjugate beam method, stability of unbraced frames and multi-storey building frames; plastic collapse of plane frames,\u00a0 including the plastic moment of a cross-section, and limit theorems of plastic collapse; limit analysis of plates and slabs including the upper and lower bound methods, failure mechanisms, combined loading, and the strip method for slab design. Three term hours.", 
+        "number": "839", 
+        "subject": "CIVL", 
+        "title": "App. Struc. Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will present a number of advanced approximate methods for analyzing structures. Topics covered\u00a0 include: analysis of statically indeterminate trusses and frames; model analysis; energy principles; numerical integration for solving structural problems including Newmark\u00bfs method and beams on elastic foundations;\u00a0 structural vibrations including Rayleigh\u00bfs principle, Stodola\u00bfs iteration technique, and distributed mass systems using Newmark\u00bfs method; structural stability including the energy criterion for stability, lower-bound methods, the method of\u00a0 Vianello, columns with lateral\u00a0 loads, Perry\u00bfs approximation, the conjugate beam method, stability of unbraced frames and multi-storey building frames; plastic collapse of plane frames,\u00a0 including the plastic moment of a cross-section, and limit theorems of plastic collapse; limit analysis of plates and slabs including the upper and lower bound methods, failure mechanisms, combined loading, and the strip method for slab design. Three term hours.", 
-        "subject": "CIVL", 
-        "number": "839", 
-        "title": "App. Struc. Analysis"
     }
 }

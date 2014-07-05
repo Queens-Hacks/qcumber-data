@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A survey of important trends in 20th century Western popular music. Topics include genres, individual artists and groups, record labels and stylistic trends, and sociological issues.", 
+        "number": "171", 
+        "subject": "MUSC", 
+        "title": "Social History of Popular Music"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A survey of important trends in 20th century Western popular music. Topics include genres, individual artists and groups, record labels and stylistic trends, and sociological issues.", 
-        "subject": "MUSC", 
-        "number": "171", 
-        "title": "Social History of Popular Music"
     }
 }

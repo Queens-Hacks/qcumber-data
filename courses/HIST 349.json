@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of early modern European intellectual history from the early 16th century through the mid-18th century, with a particular focus on political thought. Topics will include the Scientific Revolution, the impact of the Wars of Religion and of overseas expansion on European intellectual life, constitutionalism, Cartesianism, gender, and the political philosophies of Hobbes and Rousseau.", 
+        "number": "349", 
+        "subject": "HIST", 
+        "title": "Early Mod European Intellectual History"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in 3.0 units from HIST300- 329 & registration in a HIST major or medial plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "An examination of early modern European intellectual history from the early 16th century through the mid-18th century, with a particular focus on political thought. Topics will include the Scientific Revolution, the impact of the Wars of Religion and of overseas expansion on European intellectual life, constitutionalism, Cartesianism, gender, and the political philosophies of Hobbes and Rousseau.", 
-        "subject": "HIST", 
-        "number": "349", 
-        "title": "Early Mod European Intellectual History"
     }
 }

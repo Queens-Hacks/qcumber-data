@@ -1,28 +1,28 @@
 {
-    "extra": {
-        "add_consent": "Department Consent Required", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Discussion": "Required", 
-            "Lecture": "Required"
-        }, 
-        "typically_offered": "Fall", 
-        "enrollment_requirement": "Exclusion: MECH398.\u00a0 Completion of 2nd year, a corequisite of MECH370 and registration in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 15, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "1.25"
-    }, 
     "basic": {
         "description": "This is the first of two laboratory courses in the third year of the Materials Option of the Mechanical Engineering program.\u00a0 Lecture topics and course assignments are selected to provide the background required to undertake the laboratory work.\u00a0 Approximately half of the material is common with MECH 398.", 
-        "subject": "MECH", 
         "number": "396", 
+        "subject": "MECH", 
         "title": "Mech And Material Eng Lab I"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 15, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Exclusion: MECH398.\u00a0 Completion of 2nd year, a corequisite of MECH370 and registration in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.25"
     }
 }

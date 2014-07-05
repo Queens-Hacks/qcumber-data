@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "889", 
+        "subject": "ENGL", 
+        "title": "Cross-Disciplinary Research"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "ENGL", 
-        "number": "889", 
-        "title": "Cross-Disciplinary Research"
     }
 }

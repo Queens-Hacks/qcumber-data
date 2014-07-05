@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to graph theory, one of the central disciplines of discrete mathematics. This course, MATH 402/3.0 and MATH 434/3.0 constitute a survey of discrete mathematics and its applications. Topics include graphs and subgraphs, trees, bond and cycle spaces, connectivity, Euler tours and Hamiltonian cycles, matchings, independent sets, cliques and networks. Given jointly with MATH 801/3.0. \r\nRECOMMENDATION\u00a0\u00a0\u00a0 Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra.", 
+        "number": "401", 
+        "subject": "MATH", 
+        "title": "Graph Theory"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra.\r\nPrerequisites\u00a0\u00a0\u00a0\u00a0 MATH210 or MATH211 or MATH212 or MATH217.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to graph theory, one of the central disciplines of discrete mathematics. This course, MATH 402/3.0 and MATH 434/3.0 constitute a survey of discrete mathematics and its applications. Topics include graphs and subgraphs, trees, bond and cycle spaces, connectivity, Euler tours and Hamiltonian cycles, matchings, independent sets, cliques and networks. Given jointly with MATH 801/3.0. \r\nRECOMMENDATION\u00a0\u00a0\u00a0 Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra.", 
-        "subject": "MATH", 
-        "number": "401", 
-        "title": "Graph Theory"
     }
 }

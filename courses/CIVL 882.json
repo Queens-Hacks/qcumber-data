@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will provide an advanced treatment of groundwater modeling techniques. The student will be introduced to analytical methods based on advanced calculus and to traditional and novel numerical methods. Topics in analytical methods will include the Laplace transform technique for PDEs, other integral transform methods, the analytical element method, and applications to radial groundwater flow and linear solute transport problems. Topics in numerical methods will include the Galerkin finite element technique, the use of quadrilateral, triangular, and line elements, an introduction to direct and iterative solvers, and applications to linear and non-linear groundwater flow and transport problems. Three term hours.", 
+        "number": "882", 
+        "subject": "CIVL", 
+        "title": "Groundwater Modeling Technique"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will provide an advanced treatment of groundwater modeling techniques. The student will be introduced to analytical methods based on advanced calculus and to traditional and novel numerical methods. Topics in analytical methods will include the Laplace transform technique for PDEs, other integral transform methods, the analytical element method, and applications to radial groundwater flow and linear solute transport problems. Topics in numerical methods will include the Galerkin finite element technique, the use of quadrilateral, triangular, and line elements, an introduction to direct and iterative solvers, and applications to linear and non-linear groundwater flow and transport problems. Three term hours.", 
-        "subject": "CIVL", 
-        "number": "882", 
-        "title": "Groundwater Modeling Technique"
     }
 }

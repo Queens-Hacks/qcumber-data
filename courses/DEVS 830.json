@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Through a critical reading of books and articles, both current and influential older texts, the course will examine the \u00bfenterprise\u00bf of rural development, considering the themes and ideas that have engaged those who have created and implemented rural development projects around the world and that continue to inform development work, historically and in the present. Not offered 2011-2012", 
+        "number": "830", 
+        "subject": "DEVS", 
+        "title": "Rural Development"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Through a critical reading of books and articles, both current and influential older texts, the course will examine the \u00bfenterprise\u00bf of rural development, considering the themes and ideas that have engaged those who have created and implemented rural development projects around the world and that continue to inform development work, historically and in the present. Not offered 2011-2012", 
-        "subject": "DEVS", 
-        "number": "830", 
-        "title": "Rural Development"
     }
 }

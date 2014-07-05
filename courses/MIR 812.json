@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "These seminars may be offered from time to time based on faculty availability and student interest.", 
+        "number": "812", 
+        "subject": "MIR", 
+        "title": "Seminar"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "1.02"
-    }, 
-    "basic": {
-        "description": "These seminars may be offered from time to time based on faculty availability and student interest.", 
-        "subject": "MIR", 
-        "number": "812", 
-        "title": "Seminar"
     }
 }

@@ -1,1 +1,15 @@
-{"isbn_13": "9780176503680", "isbn_10": "0176503684", "classified_info": "1 classified listing: $80.00", "new_price": "$157.25", "used_price": "$117.94", "authors": "Richard L. Daft", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13666-MBA595-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["MBA 595"], "required": true, "new_available": 12, "title": "Organization Theory and Design"}
+{
+    "authors": "Richard L. Daft", 
+    "classified_info": "1 classified listing: $80.00", 
+    "courses": [
+        "MBA 595"
+    ], 
+    "isbn_10": "0176503684", 
+    "isbn_13": "9780176503680", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13666-MBA595-SUMMER14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 12, 
+    "new_price": "$157.25", 
+    "required": true, 
+    "title": "Organization Theory and Design", 
+    "used_price": "$117.94"
+}

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The course focuses on the theory and application of linear time series methods for system identification. Time domain and frequency domain methods for analyzing dynamic data will be presented. Standard process plus disturbance models encountered in the identification literature will be investigated from both statistical and physical perspectives. Methods for structural identification, incorporation of exogenous variables, parameter estimation, inference and model adequacy will be examined in detail. The design of dynamic experiments and incorporation of model uncertainty into the intended model and use, such as prediction or control, will be discussed. Assignments will include the analysis of industrial data sets. Dynamic modelling using neural networks and nonlinear time series methods will be introduced.", 
+        "number": "436", 
+        "subject": "CHEE", 
+        "title": "System Identification"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 30, 
+            "Math": 12
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of (CHEE418 and CHEE209) and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 12, 
-            "Eng Des": 0, 
-            "Eng Sci": 30, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "The course focuses on the theory and application of linear time series methods for system identification. Time domain and frequency domain methods for analyzing dynamic data will be presented. Standard process plus disturbance models encountered in the identification literature will be investigated from both statistical and physical perspectives. Methods for structural identification, incorporation of exogenous variables, parameter estimation, inference and model adequacy will be examined in detail. The design of dynamic experiments and incorporation of model uncertainty into the intended model and use, such as prediction or control, will be discussed. Assignments will include the analysis of industrial data sets. Dynamic modelling using neural networks and nonlinear time series methods will be introduced.", 
-        "subject": "CHEE", 
-        "number": "436", 
-        "title": "System Identification"
     }
 }

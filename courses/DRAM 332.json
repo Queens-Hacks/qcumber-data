@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An extension of core acting skills and an opportunity to develop an appreciation for performance through the medium of mask.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36G;36Pc;36P)", 
+        "number": "332", 
+        "subject": "DRAM", 
+        "title": "Performing with Masks"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 Level 3 and (a grade of B- in DRAM237) and (reg in a DRAM Major or Medial Plan, or COCA-CODR Sub-plan, or STSC Spec. Plan).", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An extension of core acting skills and an opportunity to develop an appreciation for performance through the medium of mask.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36G;36Pc;36P)", 
-        "subject": "DRAM", 
-        "number": "332", 
-        "title": "Performing with Masks"
     }
 }

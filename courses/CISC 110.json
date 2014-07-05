@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Introduction to tools and techniques for creating 2D computer animations. Introduction to animation software (e.g., Flash) and scripting languages (e.g., ActionScript). Involves a project in the student's area of interest, such as fine art, education, or commerce. \r\nNOTE\u00a0\u00a0\u00a0 No computing or art background required. \r\nNOTE\u00a0\u00a0\u00a0 Sufficient preparation for CISC 121/3.0. Students without programming experience should do CISC 110/3.0 (or CISC 101/3.0) before CISC 121/3.0. With permission of the instructor, students with programming experience may take this course concurrently with CISC 121/3.0.", 
+        "number": "110", 
+        "subject": "CISC", 
+        "title": "Elementary Computer Animation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Exclusion\u00a0\u00a0 No more than 3.0 units from APSC142;CISC101; CISC110\r\nOne-Way Exclusion\u00a0\u00a0\u00a0\u00a0 May not be taken with or after: CISC121", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to tools and techniques for creating 2D computer animations. Introduction to animation software (e.g., Flash) and scripting languages (e.g., ActionScript). Involves a project in the student's area of interest, such as fine art, education, or commerce. \r\nNOTE\u00a0\u00a0\u00a0 No computing or art background required. \r\nNOTE\u00a0\u00a0\u00a0 Sufficient preparation for CISC 121/3.0. Students without programming experience should do CISC 110/3.0 (or CISC 101/3.0) before CISC 121/3.0. With permission of the instructor, students with programming experience may take this course concurrently with CISC 121/3.0.", 
-        "subject": "CISC", 
-        "number": "110", 
-        "title": "Elementary Computer Animation"
     }
 }

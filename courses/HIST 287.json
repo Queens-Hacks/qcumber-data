@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A survey of English history during the early modern period (16th- and 17th-centuries), with a thematic focus on the formative political, religious, and intellectual upheavals of the age.", 
+        "number": "287", 
+        "subject": "HIST", 
+        "title": "Early Modern England"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A survey of English history during the early modern period (16th- and 17th-centuries), with a thematic focus on the formative political, religious, and intellectual upheavals of the age.", 
-        "subject": "HIST", 
-        "number": "287", 
-        "title": "Early Modern England"
     }
 }

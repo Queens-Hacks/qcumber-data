@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Topics vary from term to term and relect current research interests of the graduate faculty and doctoral students.", 
+        "number": "901", 
+        "subject": "EDUC", 
+        "title": "Advanced Special Topcs"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topics vary from term to term and relect current research interests of the graduate faculty and doctoral students.", 
-        "subject": "EDUC", 
-        "number": "901", 
-        "title": "Advanced Special Topcs"
     }
 }

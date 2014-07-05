@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "999", 
+        "subject": "FRAN", 
+        "title": "Recherches dirig\u00e9es et r\u00e9daction de th\u00e8se de doctorat"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter, Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter, Summer", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "FRAN", 
-        "number": "999", 
-        "title": "Recherches dirig\u00e9es et r\u00e9daction de th\u00e8se de doctorat"
     }
 }

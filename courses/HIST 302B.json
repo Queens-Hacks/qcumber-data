@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course will focus on learning to interpret primary and secondary sources, conduct historical analysis, discern a thesis and methodology, and write analytical short essays. Course examines the impacts of invasion and colonialism on the lives of colonial Latin American subjects.\r\nNOTE\u00a0\u00a0\u00a0 In Fall term, HIST 302/6.0 meets in the same classroom with HIST 285/3.0.", 
+        "number": "302B", 
+        "subject": "HIST", 
+        "title": "Colonial Invasions, Colonial Lives"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "This course will focus on learning to interpret primary and secondary sources, conduct historical analysis, discern a thesis and methodology, and write analytical short essays. Course examines the impacts of invasion and colonialism on the lives of colonial Latin American subjects.\r\nNOTE\u00a0\u00a0\u00a0 In Fall term, HIST 302/6.0 meets in the same classroom with HIST 285/3.0.", 
-        "subject": "HIST", 
-        "number": "302B", 
-        "title": "Colonial Invasions, Colonial Lives"
     }
 }

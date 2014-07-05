@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will survey the political, social, economic, and cultural development of the British colonies that became Canada from the conquest of Quebec to Confederation. Native-newcomer relations, the maturation of settler societies, and new institutional structures will receive special attention. Different historical approaches and the use of primary sources will be emphasized.", 
+        "number": "313B", 
+        "subject": "HIST", 
+        "title": "British North America, 1759-1867"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "This course will survey the political, social, economic, and cultural development of the British colonies that became Canada from the conquest of Quebec to Confederation. Native-newcomer relations, the maturation of settler societies, and new institutional structures will receive special attention. Different historical approaches and the use of primary sources will be emphasized.", 
-        "subject": "HIST", 
-        "number": "313B", 
-        "title": "British North America, 1759-1867"
     }
 }

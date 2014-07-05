@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course provides an overview of the main theoretical perspectives on gender differences and similarities in sexuality, and examines how differences and similarities manifest in multiple domains, including sexual attitudes and behaviours, sexual motivation, mating strategies, sexual orientation, sexual psychophysiology, atypical sexuality, and sexual functioning.", 
+        "number": "436", 
+        "subject": "PSYC", 
+        "title": "Sexuality and Gender"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PSYC203 and (PSYC235 or PSYC333 or BIOL210 or BIOL369).", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides an overview of the main theoretical perspectives on gender differences and similarities in sexuality, and examines how differences and similarities manifest in multiple domains, including sexual attitudes and behaviours, sexual motivation, mating strategies, sexual orientation, sexual psychophysiology, atypical sexuality, and sexual functioning.", 
-        "subject": "PSYC", 
-        "number": "436", 
-        "title": "Sexuality and Gender"
     }
 }

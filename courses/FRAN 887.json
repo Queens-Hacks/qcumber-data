@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "\u00c9tude des diverses manifestations de l'\u00e9criture contemporaine des femmes du Qu\u00e9bec tant dans le domaine de la fiction que de la th\u00e9orie. Seront donc analys\u00e9s des textes de cr\u00e9ation (roman, po\u00e9sie, nouvelles) et des essais de r\u00e9flexion critique (r\u00e9ception, g\u00e9n\u00e9ricit\u00e9, sp\u00e9cificit\u00e9 de l'\u00e9criture au f\u00e9minin).\u00a0 Ne sera pas donn\u00e9 en 2010-2011.", 
+        "number": "887", 
+        "subject": "FRAN", 
+        "title": "L'\u00e9criture des femmes du Qu\u00e9bec"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "\u00c9tude des diverses manifestations de l'\u00e9criture contemporaine des femmes du Qu\u00e9bec tant dans le domaine de la fiction que de la th\u00e9orie. Seront donc analys\u00e9s des textes de cr\u00e9ation (roman, po\u00e9sie, nouvelles) et des essais de r\u00e9flexion critique (r\u00e9ception, g\u00e9n\u00e9ricit\u00e9, sp\u00e9cificit\u00e9 de l'\u00e9criture au f\u00e9minin).\u00a0 Ne sera pas donn\u00e9 en 2010-2011.", 
-        "subject": "FRAN", 
-        "number": "887", 
-        "title": "L'\u00e9criture des femmes du Qu\u00e9bec"
     }
 }

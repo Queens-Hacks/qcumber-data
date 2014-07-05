@@ -1,46 +1,46 @@
 {
+    "_unique": "001-LEC (6771)", 
     "basic": {
         "class_num": "6771", 
-        "subject": "OT", 
-        "status": "Closed", 
         "course": "825", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "OT", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (6771)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T18:00:00", 
             "instructors": [
                 "O'Riordan, Anne L"
             ], 
-            "end_time": "1900-01-01T18:00:00", 
+            "location": "ACTON RM119", 
             "start_time": "1900-01-01T16:30:00", 
-            "day_of_week": 2, 
-            "location": "ACTON RM119"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T18:00:00", 
-            "start_time": "1900-01-01T16:30:00", 
             "day_of_week": 3, 
-            "location": "ACTON RM119"
+            "end_time": "1900-01-01T18:00:00", 
+            "instructors": [], 
+            "location": "ACTON RM119", 
+            "start_time": "1900-01-01T16:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T18:00:00", 
             "instructors": [
                 "Donnelly, Catherine"
             ], 
-            "end_time": "1900-01-01T18:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T16:30:00", 
-            "day_of_week": 2, 
-            "location": "TBA"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

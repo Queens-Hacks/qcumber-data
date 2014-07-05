@@ -1,24 +1,24 @@
 {
+    "_unique": "039-TUT (7935)", 
     "basic": {
         "class_num": "7935", 
-        "subject": "PSYC", 
-        "status": "Open", 
         "course": "100A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "039", 
+        "status": "Open", 
+        "subject": "PSYC", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "039-TUT (7935)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T19:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
             "day_of_week": 1, 
-            "location": "HUMPHREY RM132"
+            "end_time": "1900-01-01T19:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
+            "start_time": "1900-01-01T18:30:00", 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

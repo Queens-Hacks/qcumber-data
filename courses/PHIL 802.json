@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Winter. R. Kumar", 
+        "number": "802", 
+        "subject": "PHIL", 
+        "title": "Moral Philosophy I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Winter. R. Kumar", 
-        "subject": "PHIL", 
-        "number": "802", 
-        "title": "Moral Philosophy I"
     }
 }

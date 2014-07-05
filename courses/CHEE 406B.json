@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Students will conduct research on a Bioenvironmental Engineering related project. Based on the project objective provided by their faculty supervisor, the students will work independently to develop an experimental and/or modeling methodology, conduct experiments or simulations and generate data. Students will submit interim oral and written progress reports and a final oral presentation and technical report. They will be expected to present and defend their results in a conference/seminar setting. Students enrolling for this course are advised to consult with the faculty member supervisor concerned late in the winter term of their 3rd year of study.", 
+        "number": "406B", 
+        "subject": "CHEE", 
+        "title": "Bioenvironmental Research Proj"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 84, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 84, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "7.00"
-    }, 
-    "basic": {
-        "description": "Students will conduct research on a Bioenvironmental Engineering related project. Based on the project objective provided by their faculty supervisor, the students will work independently to develop an experimental and/or modeling methodology, conduct experiments or simulations and generate data. Students will submit interim oral and written progress reports and a final oral presentation and technical report. They will be expected to present and defend their results in a conference/seminar setting. Students enrolling for this course are advised to consult with the faculty member supervisor concerned late in the winter term of their 3rd year of study.", 
-        "subject": "CHEE", 
-        "number": "406B", 
-        "title": "Bioenvironmental Research Proj"
     }
 }

@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "103A", 
+        "subject": "THEO", 
+        "title": "Restorative Justice Practicum"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Field Studies": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "THEO", 
-        "number": "103A", 
-        "title": "Restorative Justice Practicum"
     }
 }

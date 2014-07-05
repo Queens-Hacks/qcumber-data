@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "See APSC 301.", 
+        "number": "303", 
+        "subject": "APSC", 
+        "title": "Professional Internship"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BSCE Professional Internship", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "See APSC 301.", 
-        "subject": "APSC", 
-        "number": "303", 
-        "title": "Professional Internship"
     }
 }

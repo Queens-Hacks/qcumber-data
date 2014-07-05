@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This is a course on civil judicial remedies. The primary focus will be on current problems and issues in the law of damages, but equitable remedies will also be discussed. You have encountered judicial remedies in earlier courses, such as contract and tort, which treat the topic as an adjunct to the study of particular substantive causes of action. In this context remedial questions are usually overshadowed by the study of substantive primary rights. This is unfortunate since remedial problems are among the most interesting and practically relevant in the law. Through a close analysis of remedial principles this course will enrich your understanding of the basic areas of private law.", 
+        "number": "314", 
+        "subject": "LAW", 
+        "title": "Remedies"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "LAW 314 Prereg: (wildcard) LAW 16# and LAW 19#", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This is a course on civil judicial remedies. The primary focus will be on current problems and issues in the law of damages, but equitable remedies will also be discussed. You have encountered judicial remedies in earlier courses, such as contract and tort, which treat the topic as an adjunct to the study of particular substantive causes of action. In this context remedial questions are usually overshadowed by the study of substantive primary rights. This is unfortunate since remedial problems are among the most interesting and practically relevant in the law. Through a close analysis of remedial principles this course will enrich your understanding of the basic areas of private law.", 
-        "subject": "LAW", 
-        "number": "314", 
-        "title": "Remedies"
     }
 }

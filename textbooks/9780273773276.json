@@ -1,1 +1,17 @@
-{"isbn_10": "0273773275", "courses": ["ENPH 334", "PHYS 334"], "required": true, "used_price": "$66.98", "isbn_13": "9780273773276", "used_available": 2, "new_available": 17, "new_price": "$94.25", "authors": "Neil Storey", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13561-ENPH334-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "classified_info": "0 classified listings", "title": "Electronics"}
+{
+    "authors": "Neil Storey", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENPH 334", 
+        "PHYS 334"
+    ], 
+    "isbn_10": "0273773275", 
+    "isbn_13": "9780273773276", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13561-ENPH334-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 17, 
+    "new_price": "$94.25", 
+    "required": true, 
+    "title": "Electronics", 
+    "used_available": 2, 
+    "used_price": "$66.98"
+}

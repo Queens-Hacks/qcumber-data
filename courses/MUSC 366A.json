@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An ensemble devoted to the performance of Big Band music. Ability to improvise in a jazz idiom preferred but not essential.\u00a0 Course includes weekly rehearsals and a minimum of one concert per term for all students.\u00a0 Credit attained only with regular attendance, active participation, and ample preparation.\r\nNOTE\u00a0\u00a0\u00a0 Placement is made at the discretion of the School of Music, after audition.", 
+        "number": "366A", 
+        "subject": "MUSC", 
+        "title": "Jazz Ensemble"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
-        "typically_offered": "Fall, Winter", 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 MUSC 266 and reg. in a BMUS Program, or permission of the School, upon audition.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "An ensemble devoted to the performance of Big Band music. Ability to improvise in a jazz idiom preferred but not essential.\u00a0 Course includes weekly rehearsals and a minimum of one concert per term for all students.\u00a0 Credit attained only with regular attendance, active participation, and ample preparation.\r\nNOTE\u00a0\u00a0\u00a0 Placement is made at the discretion of the School of Music, after audition.", 
-        "subject": "MUSC", 
-        "number": "366A", 
-        "title": "Jazz Ensemble"
     }
 }

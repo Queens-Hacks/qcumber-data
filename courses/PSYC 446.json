@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Witness issues examined from social psychological and cognitive perspectives. Topics include: eyewitness memory, police identification procedures, credibility of eyewitness testimony, and expert testimony on eyewitness issues. Emphasis on reading original research papers and discussion of applied as well as theoretical and methodological issues.", 
+        "number": "446", 
+        "subject": "PSYC", 
+        "title": "Eyewitness Psychology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 PSYC203 and (PSYC221 or PSYC220 or COGS200 or PSYC305 or PSYC241).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Witness issues examined from social psychological and cognitive perspectives. Topics include: eyewitness memory, police identification procedures, credibility of eyewitness testimony, and expert testimony on eyewitness issues. Emphasis on reading original research papers and discussion of applied as well as theoretical and methodological issues.", 
-        "subject": "PSYC", 
-        "number": "446", 
-        "title": "Eyewitness Psychology"
     }
 }

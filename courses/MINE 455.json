@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The material of MINE 341 is applied to the design of an open pit mine. Special attention is given to the selection of equipment and the use of computers in strategic and detailed mine planning and scheduling. The course uses commercial mine design software to enable small groups of students to complete mine designs starting with topographical maps, exploration drilling information, and mineral inventory block models. Several real deposit databases are used including gold, copper, copper/molybdenum, copper/zinc.\u00a0 The deposits are evaluated, feasibility assessed, and production decisions discussed", 
+        "number": "455", 
+        "subject": "MINE", 
+        "title": "Mineral Processes"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 54, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of MINE331 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 54, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "The material of MINE 341 is applied to the design of an open pit mine. Special attention is given to the selection of equipment and the use of computers in strategic and detailed mine planning and scheduling. The course uses commercial mine design software to enable small groups of students to complete mine designs starting with topographical maps, exploration drilling information, and mineral inventory block models. Several real deposit databases are used including gold, copper, copper/molybdenum, copper/zinc.\u00a0 The deposits are evaluated, feasibility assessed, and production decisions discussed", 
-        "subject": "MINE", 
-        "number": "455", 
-        "title": "Mineral Processes"
     }
 }

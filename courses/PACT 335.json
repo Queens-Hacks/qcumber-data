@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This activity-based course will afford students the opportunity to work with community physical activity programs for the elderly and relate class theory from KNPE 335/3.0 Physical Activity for Seniors to practical implementation. Students will work in a variety of programs; including: aqua fitness, tai chi, cardiac health maintenance, seniors fitness classes, and so on.\r\nNOTE\u00a0\u00a0\u00a0 Transportation and other costs (e.g. required Criminal Checks) are the responsibility of the student.", 
+        "number": "335", 
+        "subject": "PACT", 
+        "title": "Practicum in Physical Activity\u00a0 for Seniors"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required", 
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PACT237 and KNPE335", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This activity-based course will afford students the opportunity to work with community physical activity programs for the elderly and relate class theory from KNPE 335/3.0 Physical Activity for Seniors to practical implementation. Students will work in a variety of programs; including: aqua fitness, tai chi, cardiac health maintenance, seniors fitness classes, and so on.\r\nNOTE\u00a0\u00a0\u00a0 Transportation and other costs (e.g. required Criminal Checks) are the responsibility of the student.", 
-        "subject": "PACT", 
-        "number": "335", 
-        "title": "Practicum in Physical Activity\u00a0 for Seniors"
     }
 }

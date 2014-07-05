@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Independent study involving a critical review of the literature on an approved topic of specialization in health enhancement, disease prevention and human performance. Students must arrange for a faculty adviser approved by the School of Kinesiology and Health\u00a0Studies.", 
+        "number": "456", 
+        "subject": "PHED", 
+        "title": "Survey Of Research And Lit"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "typically_offered": "Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Independent study involving a critical review of the literature on an approved topic of specialization in health enhancement, disease prevention and human performance. Students must arrange for a faculty adviser approved by the School of Kinesiology and Health\u00a0Studies.", 
-        "subject": "PHED", 
-        "number": "456", 
-        "title": "Survey Of Research And Lit"
     }
 }

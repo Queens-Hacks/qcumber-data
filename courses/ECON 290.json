@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of the economic principles and practices for using environmental resources such as air, water, and natural environments. The economically optimal use of these resources is contrasted with actual uses in modern economies. Government policies are examined in theory and in practice. Cost benefit analysis is presented as a technique for evaluating public sector projects using environmental resources.", 
+        "number": "290", 
+        "subject": "ECON", 
+        "title": "Environmental Economics and Assessment"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ECON110 OR ECON111", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of the economic principles and practices for using environmental resources such as air, water, and natural environments. The economically optimal use of these resources is contrasted with actual uses in modern economies. Government policies are examined in theory and in practice. Cost benefit analysis is presented as a technique for evaluating public sector projects using environmental resources.", 
-        "subject": "ECON", 
-        "number": "290", 
-        "title": "Environmental Economics and Assessment"
     }
 }

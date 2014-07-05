@@ -1,26 +1,26 @@
 {
+    "_unique": "002-TUT (2688)", 
     "basic": {
         "class_num": "2688", 
-        "subject": "MTHE", 
-        "status": "Open", 
         "course": "224", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MTHE", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-TUT (2688)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Li, Ping"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "JEFFERY RM128", 
             "start_time": "1900-01-01T16:30:00", 
-            "day_of_week": 2, 
-            "location": "JEFFERY RM128"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will introduce students to the various ethical issues associated with educational practice. Using cases and scenarios, students will examine ethical and moral conflicts and challenges to the legislation, governance, curriculum, as well as the overall aims and purposes, of schools. The focus will be on issues and concerns relevant to Canadian schools. This course is balanced between theory and practice, however, a significant component of the course includes student-led discussions and presentations of existing problems, ethical issues raised by these problems, and attempted solutions, both in theory and practice. Not offered 2010-2011.", 
+        "number": "867", 
+        "subject": "EDUC", 
+        "title": "Ethical Issues In Educational Practices"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will introduce students to the various ethical issues associated with educational practice. Using cases and scenarios, students will examine ethical and moral conflicts and challenges to the legislation, governance, curriculum, as well as the overall aims and purposes, of schools. The focus will be on issues and concerns relevant to Canadian schools. This course is balanced between theory and practice, however, a significant component of the course includes student-led discussions and presentations of existing problems, ethical issues raised by these problems, and attempted solutions, both in theory and practice. Not offered 2010-2011.", 
-        "subject": "EDUC", 
-        "number": "867", 
-        "title": "Ethical Issues In Educational Practices"
     }
 }

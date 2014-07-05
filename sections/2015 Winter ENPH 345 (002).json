@@ -1,26 +1,26 @@
 {
+    "_unique": "002-TUT (5326)", 
     "basic": {
         "class_num": "5326", 
-        "subject": "ENPH", 
-        "status": "Open", 
         "course": "345", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ENPH", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-TUT (5326)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:30:00", 
             "instructors": [
                 "Gooding, Robert James"
             ], 
-            "end_time": "1900-01-01T16:30:00", 
+            "location": "STIRLING RM B", 
             "start_time": "1900-01-01T15:30:00", 
-            "day_of_week": 2, 
-            "location": "STIRLING RM B"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of the development and present state of knowledge in selected research areas of Anatomy and Cell Biology. Research project involves experimental design, data collection and analysis, written report, poster presentation and oral presentation. Students will be required to attend seminars and tutorials on topics related to research. Limited enrolment; restricted to fourth year honours, permission of the department required.\r\nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also register in LISC 488/0.0.", 
+        "number": "499B", 
+        "subject": "ANAT", 
+        "title": "Research Project in Anatomy and Cell Biology"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "typically_offered": "Fall, Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "9.00"
-    }, 
-    "basic": {
-        "description": "An examination of the development and present state of knowledge in selected research areas of Anatomy and Cell Biology. Research project involves experimental design, data collection and analysis, written report, poster presentation and oral presentation. Students will be required to attend seminars and tutorials on topics related to research. Limited enrolment; restricted to fourth year honours, permission of the department required.\r\nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also register in LISC 488/0.0.", 
-        "subject": "ANAT", 
-        "number": "499B", 
-        "title": "Research Project in Anatomy and Cell Biology"
     }
 }

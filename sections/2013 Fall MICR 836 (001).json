@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LTU (8767)", 
     "basic": {
         "class_num": "8767", 
-        "subject": "MICR", 
-        "status": "Closed", 
         "course": "836", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MICR", 
         "type": "LTU", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LTU (8767)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [
-                "Poole, Raymond Keith"
-            ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:30:00", 
             "day_of_week": 1, 
-            "location": "BOTTER RM816"
-        }, 
-        {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Poole, Raymond Keith"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
+            "location": "BOTTER RM816", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "BOTTER RM816"
-        }, 
-        {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Poole, Raymond Keith"
             ], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
+            "location": "BOTTER RM816", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "BOTTER RM816"
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [
+                "Poole, Raymond Keith"
+            ], 
+            "location": "BOTTER RM816", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

@@ -1,59 +1,59 @@
 {
+    "_unique": "001-LEC (6783)", 
     "basic": {
         "class_num": "6783", 
-        "subject": "OT", 
-        "status": "Open", 
         "course": "852", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "OT", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (6783)", 
     "classes": [
         {
-            "term_end": "2013-10-18T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [
-                "Edgelow, Megan Michele"
-            ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T09:00:00", 
             "day_of_week": 1, 
-            "location": "BOTTER RM568"
-        }, 
-        {
-            "term_end": "2013-09-20T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Edgelow, Megan Michele"
             ], 
-            "end_time": "1900-01-01T11:00:00", 
+            "location": "BOTTER RM568", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 3, 
-            "location": "MEDS RM401A - Pharmacoloy & Ph"
-        }, 
-        {
             "term_end": "2013-10-18T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [
-                "Edgelow, Megan Michele"
-            ], 
-            "end_time": "1900-01-01T12:00:00", 
-            "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 2, 
-            "location": "ACTON CEC"
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-09-20T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:00:00", 
             "instructors": [
                 "Edgelow, Megan Michele"
             ], 
-            "end_time": "1900-01-01T11:00:00", 
+            "location": "MEDS RM401A - Pharmacoloy & Ph", 
             "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2013-09-20T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T12:00:00", 
+            "instructors": [
+                "Edgelow, Megan Michele"
+            ], 
+            "location": "ACTON CEC", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2013-10-18T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "TBA"
+            "end_time": "1900-01-01T11:00:00", 
+            "instructors": [
+                "Edgelow, Megan Michele"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T09:00:00", 
+            "term_end": "2013-09-20T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course examines the social, political and economic relationships that exist between Indigenous Peoples and external parties in the development of commercial mining operations. The course will review specific social, political and economic issues arising from the engagement of Indigenous Peoples with the minerals industry, and the skill sets and knowledge base that are critical to negotiating positive relationships between Indigenous Peoples and mining companies.", 
+        "number": "804", 
+        "subject": "GCCR", 
+        "title": "Projects and Indigenous Peoples"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines the social, political and economic relationships that exist between Indigenous Peoples and external parties in the development of commercial mining operations. The course will review specific social, political and economic issues arising from the engagement of Indigenous Peoples with the minerals industry, and the skill sets and knowledge base that are critical to negotiating positive relationships between Indigenous Peoples and mining companies.", 
-        "subject": "GCCR", 
-        "number": "804", 
-        "title": "Projects and Indigenous Peoples"
     }
 }

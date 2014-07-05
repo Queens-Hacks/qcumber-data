@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Developing usable software requires that human factors be considered throughout the design and development process. This course introduces a series of techniques for development and evaluating usable software, and shows how these techniques can be integrated into a process for software development.", 
+        "number": "325", 
+        "subject": "CISC", 
+        "title": "Human-Computer Interaction"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 CISC124 and CISC235 \r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CISC325; SCMPE325", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Developing usable software requires that human factors be considered throughout the design and development process. This course introduces a series of techniques for development and evaluating usable software, and shows how these techniques can be integrated into a process for software development.", 
-        "subject": "CISC", 
-        "number": "325", 
-        "title": "Human-Computer Interaction"
     }
 }

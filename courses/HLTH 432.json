@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course examines the impact of disease and disability on quality of life. The course material addresses the biomedical, social, psychological, and behavioural factors affecting the quality of life of individuals with a chronic disease or a physical, psychological, developmental or sensory impairment.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 KNPE 333/3.0 or PHED 333/3.0 or PPHE 333/3.0.", 
+        "number": "432", 
+        "subject": "HLTH", 
+        "title": "Disease, Disability and Quality of Life"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 3rd yr in a HLTH major, PHED or KINE plan", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines the impact of disease and disability on quality of life. The course material addresses the biomedical, social, psychological, and behavioural factors affecting the quality of life of individuals with a chronic disease or a physical, psychological, developmental or sensory impairment.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 KNPE 333/3.0 or PHED 333/3.0 or PPHE 333/3.0.", 
-        "subject": "HLTH", 
-        "number": "432", 
-        "title": "Disease, Disability and Quality of Life"
     }
 }

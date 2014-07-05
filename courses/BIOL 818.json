@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Environmental stress is addressed with respect to water, nutrition, temperature, toxins, and competition between organisms. Topics include adaptations to cope with stress; biological responses at the organismal, cellular, biochemical, physiological and molecular genetic levels. No specialized molecular biology background is required. Three term hours; fall. Not offered 2010-2011.", 
+        "number": "818", 
+        "subject": "BIOL", 
+        "title": "Stress Biology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Environmental stress is addressed with respect to water, nutrition, temperature, toxins, and competition between organisms. Topics include adaptations to cope with stress; biological responses at the organismal, cellular, biochemical, physiological and molecular genetic levels. No specialized molecular biology background is required. Three term hours; fall. Not offered 2010-2011.", 
-        "subject": "BIOL", 
-        "number": "818", 
-        "title": "Stress Biology"
     }
 }

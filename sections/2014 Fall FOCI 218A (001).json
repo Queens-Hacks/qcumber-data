@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (7298)", 
     "basic": {
         "class_num": "7298", 
-        "subject": "FOCI", 
-        "status": "Closed", 
         "course": "218A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "FOCI", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (7298)", 
     "classes": [
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Reeve, Richard"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR RM B242", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM B242"
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
             "instructors": [
                 "Reeve, Richard"
             ], 
-            "end_time": "1900-01-01T17:50:00", 
+            "location": "DUNCAN MCARTHUR RM B242", 
             "start_time": "1900-01-01T15:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM B242"
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

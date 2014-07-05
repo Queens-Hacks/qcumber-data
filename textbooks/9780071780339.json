@@ -1,1 +1,16 @@
-{"isbn_13": "9780071780339", "used_available": 2, "isbn_10": "0071780335", "new_price": "$73.87", "authors": "Anthony Mescher", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13414-ANAT309-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["ANAT 309", "MEDS 110"], "used_price": "$55.40", "title": "Junqueira's Basic Histology", "new_available": 1, "classified_info": "1 classified listing: $60.00"}
+{
+    "authors": "Anthony Mescher", 
+    "classified_info": "1 classified listing: $60.00", 
+    "courses": [
+        "ANAT 309", 
+        "MEDS 110"
+    ], 
+    "isbn_10": "0071780335", 
+    "isbn_13": "9780071780339", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13414-ANAT309-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 1, 
+    "new_price": "$73.87", 
+    "title": "Junqueira's Basic Histology", 
+    "used_available": 2, 
+    "used_price": "$55.40"
+}

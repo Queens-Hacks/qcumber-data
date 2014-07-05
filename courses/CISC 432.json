@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Topics include the presentation and storage of data, implementation concerns, and the integration of databases with other areas of computer science. Pat Martin.", 
+        "number": "432", 
+        "subject": "CISC", 
+        "title": "Database Management Systems (A,S)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC235 and CISC332", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topics include the presentation and storage of data, implementation concerns, and the integration of databases with other areas of computer science. Pat Martin.", 
-        "subject": "CISC", 
-        "number": "432", 
-        "title": "Database Management Systems (A,S)"
     }
 }

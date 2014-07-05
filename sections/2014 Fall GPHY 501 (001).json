@@ -1,24 +1,24 @@
 {
+    "_unique": "001-IND (5312)", 
     "basic": {
         "class_num": "5312", 
-        "subject": "GPHY", 
-        "status": "Open", 
         "course": "501", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GPHY", 
         "type": "IND", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-IND (5312)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course addresses ways of looking at normative decisions and focuses on ethical and economic analyses of planning issues. Ethics, or moral philosophy, is examined in relation to economic (and other) justifications for planning and policy decisions. Concepts such as equity, justice, care, value, supply and demand, market potentials and failures, etc. are introduced. The intent is to introduce methods and concepts used in analyzing prescriptive questions in planning.\u00a0\u00a0 Learning Materials -\u00a0approx. $35", 
+        "number": "811", 
+        "subject": "SURP", 
+        "title": "Normative Decision-Making"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course addresses ways of looking at normative decisions and focuses on ethical and economic analyses of planning issues. Ethics, or moral philosophy, is examined in relation to economic (and other) justifications for planning and policy decisions. Concepts such as equity, justice, care, value, supply and demand, market potentials and failures, etc. are introduced. The intent is to introduce methods and concepts used in analyzing prescriptive questions in planning.\u00a0\u00a0 Learning Materials -\u00a0approx. $35", 
-        "subject": "SURP", 
-        "number": "811", 
-        "title": "Normative Decision-Making"
     }
 }

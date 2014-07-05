@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course consists of the economic analysis of national security issues, including defence.\u00a0 The main objective of the course is to enable students to understand the economic processes that underlie, in conjunction with political interactions, various security resource allocation decisions, from budget-making to procurement to expenditures at the basic unit level.\u00a0 Moreover, various organizational issues in security (various domestic and global security measures from policing, intelligence and anti-terrorism to peacekeeping, food and health security measures) will be addressed.", 
+        "number": "831", 
+        "subject": "MPA", 
+        "title": "Economics Of National Security"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course consists of the economic analysis of national security issues, including defence.\u00a0 The main objective of the course is to enable students to understand the economic processes that underlie, in conjunction with political interactions, various security resource allocation decisions, from budget-making to procurement to expenditures at the basic unit level.\u00a0 Moreover, various organizational issues in security (various domestic and global security measures from policing, intelligence and anti-terrorism to peacekeeping, food and health security measures) will be addressed.", 
-        "subject": "MPA", 
-        "number": "831", 
-        "title": "Economics Of National Security"
     }
 }

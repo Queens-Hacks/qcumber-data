@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "For candidates planning to teach Native Studies at the Intermediate and Senior levels. Integrated with the Ontario Ministry of Education and Training document, \"People of Native Ancestry: Curriculum Guideline for the Senior Division\", and the sections of the Native Studies Intermediate Curriculum Guideline 1991 focusing specifically on the Ministry credit courses for Grades 9 and 10, \"Native Peoples of Canada: Present Realities and Future Directions\", and \"Native Perspectives on the Changing Global Community\". Theories pertaining to curriculum development are examined in conjunction with curriculum models developed and implemented in Aboriginal schools. Reviews and evaluates Native Studies curriculum development for non-Aboriginal and integrated schools and Native Studies curricula developed under Aboriginal control. Provides the candidate with skills to evaluate teaching materials and assess curriculum models, to evaluate theories of curriculum development and to design teaching units based on those theories. Allows both Aboriginal and non-Aboriginal candidates to learn about materials and other resources that are available, and also familiarizes candidates with a variety of approaches for teaching Native Studies in the Intermediate and Senior divisions.", 
+        "number": "341", 
+        "subject": "CURR", 
+        "title": "Native Studies (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "For candidates planning to teach Native Studies at the Intermediate and Senior levels. Integrated with the Ontario Ministry of Education and Training document, \"People of Native Ancestry: Curriculum Guideline for the Senior Division\", and the sections of the Native Studies Intermediate Curriculum Guideline 1991 focusing specifically on the Ministry credit courses for Grades 9 and 10, \"Native Peoples of Canada: Present Realities and Future Directions\", and \"Native Perspectives on the Changing Global Community\". Theories pertaining to curriculum development are examined in conjunction with curriculum models developed and implemented in Aboriginal schools. Reviews and evaluates Native Studies curriculum development for non-Aboriginal and integrated schools and Native Studies curricula developed under Aboriginal control. Provides the candidate with skills to evaluate teaching materials and assess curriculum models, to evaluate theories of curriculum development and to design teaching units based on those theories. Allows both Aboriginal and non-Aboriginal candidates to learn about materials and other resources that are available, and also familiarizes candidates with a variety of approaches for teaching Native Studies in the Intermediate and Senior divisions.", 
-        "subject": "CURR", 
-        "number": "341", 
-        "title": "Native Studies (IS)"
     }
 }

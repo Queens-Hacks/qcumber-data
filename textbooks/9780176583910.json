@@ -1,1 +1,15 @@
-{"isbn_13": "9780176583910", "isbn_10": "0176583912", "classified_info": "10 classified listings: $0.00 to $80.00", "new_price": "$155.36", "used_price": "$116.52", "authors": "Barlow, Durand, Stewart", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13512-PSYC235#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["PSYC 235"], "required": true, "new_available": 114, "title": "Abnormal Psychology"}
+{
+    "authors": "Barlow, Durand, Stewart", 
+    "classified_info": "10 classified listings: $0.00 to $80.00", 
+    "courses": [
+        "PSYC 235"
+    ], 
+    "isbn_10": "0176583912", 
+    "isbn_13": "9780176583910", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13512-PSYC235#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 114, 
+    "new_price": "$155.36", 
+    "required": true, 
+    "title": "Abnormal Psychology", 
+    "used_price": "$116.52"
+}

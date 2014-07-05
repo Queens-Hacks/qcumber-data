@@ -1,1 +1,17 @@
-{"isbn_10": "039392467X", "courses": ["GEOE 321", "GEOL 321"], "required": true, "used_price": "$105.81", "isbn_13": "9780393924671", "used_available": 3, "new_available": 22, "new_price": "$141.08", "authors": "Ben A. Van Der Pluijm, Stephen Marshak", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/B02068-GEOE321-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "classified_info": "16 classified listings: $70.00 to $80.00", "title": "Earth Structure"}
+{
+    "authors": "Ben A. Van Der Pluijm, Stephen Marshak", 
+    "classified_info": "16 classified listings: $70.00 to $80.00", 
+    "courses": [
+        "GEOE 321", 
+        "GEOL 321"
+    ], 
+    "isbn_10": "039392467X", 
+    "isbn_13": "9780393924671", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/B02068-GEOE321-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 22, 
+    "new_price": "$141.08", 
+    "required": true, 
+    "title": "Earth Structure", 
+    "used_available": 3, 
+    "used_price": "$105.81"
+}

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Explores the art of teaching from scholarly and pedagogical perspectives. Literature includes teacher knowledge and thinking, strategies for improving professional development, and processes of change in school settings. The course will involve the use of approaches such as pattern, design, story, metaphor, rhythm, and mystery as strategies to enhance teaching and learning. Fall; T. Russell", 
+        "number": "813", 
+        "subject": "EDUC", 
+        "title": "Improving The Art Of Teaching"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Explores the art of teaching from scholarly and pedagogical perspectives. Literature includes teacher knowledge and thinking, strategies for improving professional development, and processes of change in school settings. The course will involve the use of approaches such as pattern, design, story, metaphor, rhythm, and mystery as strategies to enhance teaching and learning. Fall; T. Russell", 
-        "subject": "EDUC", 
-        "number": "813", 
-        "title": "Improving The Art Of Teaching"
     }
 }

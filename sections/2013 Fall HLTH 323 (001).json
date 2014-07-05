@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (4703)", 
     "basic": {
         "class_num": "4703", 
-        "subject": "HLTH", 
-        "status": "Open", 
         "course": "323", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HLTH", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (4703)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Janssen, Ian Michael"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "KINES & HLTH RM107", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 4, 
-            "location": "KINES & HLTH RM107"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Janssen, Ian Michael"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "KINES & HLTH RM106", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 4, 
-            "location": "KINES & HLTH RM106"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Janssen, Ian Michael"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "KINES & HLTH RM101", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 4, 
-            "location": "KINES & HLTH RM101"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

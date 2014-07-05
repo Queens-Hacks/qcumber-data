@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Calculation of bending displacements using moment-area methods; introduction to statically indeterminate systems; combined loading; stress and strain transformations; columns; energy methods; non-linear material behaviour; two-dimensional elasticity; advanced torsion problems.", 
+        "number": "231", 
+        "subject": "CIVL", 
+        "title": "Solid Mechanics II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 54, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of CIVL230 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 54, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "Calculation of bending displacements using moment-area methods; introduction to statically indeterminate systems; combined loading; stress and strain transformations; columns; energy methods; non-linear material behaviour; two-dimensional elasticity; advanced torsion problems.", 
-        "subject": "CIVL", 
-        "number": "231", 
-        "title": "Solid Mechanics II"
     }
 }

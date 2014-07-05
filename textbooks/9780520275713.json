@@ -1,1 +1,14 @@
-{"isbn_13": "9780520275713", "isbn_10": "0520275713", "classified_info": "0 classified listings", "new_price": "$49.06", "used_price": "$36.80", "authors": "Donald J. Mastronarde", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13701-GREK208-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["GREK 208"], "required": true, "title": "Introduction to Attic Greek"}
+{
+    "authors": "Donald J. Mastronarde", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "GREK 208"
+    ], 
+    "isbn_10": "0520275713", 
+    "isbn_13": "9780520275713", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13701-GREK208-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$49.06", 
+    "required": true, 
+    "title": "Introduction to Attic Greek", 
+    "used_price": "$36.80"
+}

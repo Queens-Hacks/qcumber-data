@@ -1,26 +1,26 @@
 {
+    "_unique": "500-PRA (6960)", 
     "basic": {
         "class_num": "6960", 
-        "subject": "PRAC", 
-        "status": "Open", 
         "course": "191B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "500", 
+        "status": "Open", 
+        "subject": "PRAC", 
         "type": "PRA", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "500-PRA (6960)", 
     "classes": [
         {
-            "term_end": "2014-04-30T00:00:00", 
-            "term_start": "2014-01-02T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "O'Neil, Tammy"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-04-30T00:00:00", 
+            "term_start": "2014-01-02T00:00:00"
         }
     ]
 }

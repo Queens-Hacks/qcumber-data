@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "For detailed information, consult the Department.", 
+        "number": "482", 
+        "subject": "ENGL", 
+        "title": "Topics in Indigenous Literature II"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0 (ENGL200 & ENGL290) & (GPA of 2.4 on all ENGL units) and (reg in an ENGL maj or med plan)\r\nEXCL No more than 6.0 units from ENGL381; ENGL388; ENGL481; ENGL482", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "For detailed information, consult the Department.", 
-        "subject": "ENGL", 
-        "number": "482", 
-        "title": "Topics in Indigenous Literature II"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (6054)", 
     "basic": {
         "class_num": "6054", 
-        "subject": "GPHY", 
-        "status": "Open", 
         "course": "403", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GPHY", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-SEM (6054)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Kobayashi, Audrey"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "MACINTOSH-CORRY RM D326", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "MACINTOSH-CORRY RM D326"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Ancient Greek and Roman literature in translation: Homer's Iliad and Odyssey and Greek drama; Vergil's Aeneid and selections from other Latin authors. Reference to ancient customs, history, mythology, thought.", 
+        "number": "100A", 
+        "subject": "CLST", 
+        "title": "Introduction to Classical Literature"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Ancient Greek and Roman literature in translation: Homer's Iliad and Odyssey and Greek drama; Vergil's Aeneid and selections from other Latin authors. Reference to ancient customs, history, mythology, thought.", 
-        "subject": "CLST", 
-        "number": "100A", 
-        "title": "Introduction to Classical Literature"
     }
 }

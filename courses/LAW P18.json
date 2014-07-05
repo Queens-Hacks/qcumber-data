@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "P18", 
+        "subject": "LAW", 
+        "title": "Corporate Tax:Enrichment Proj"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "1.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "LAW", 
-        "number": "P18", 
-        "title": "Corporate Tax:Enrichment Proj"
     }
 }

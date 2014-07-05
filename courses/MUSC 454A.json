@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "A continuation of MUSC 351/3.0, MUSC 354/6.0. \r\nNOTE\u00a0\u00a0\u00a0 In addition to the prerequisites, students must submit a portfolio of compositions to the School of Music Office by the last day of classes in the Winter Term. Admission is determined through evaluation of portfolios by a Faculty jury. Submission of a portfolio does not guarantee admission.", 
+        "number": "454A", 
+        "subject": "MUSC", 
+        "title": "Acoustic Composition"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "typically_offered": "Fall, Winter", 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 MUSC 351/3.0 or MUSC 354/6.0. \r\nNOTE\u00a0\u00a0\u00a0 students must submit a portfolio of compositions to the School by the last day of classes in the Winter Term. Admission is determined through evaluation of portfolios by a Faculty jury.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "A continuation of MUSC 351/3.0, MUSC 354/6.0. \r\nNOTE\u00a0\u00a0\u00a0 In addition to the prerequisites, students must submit a portfolio of compositions to the School of Music Office by the last day of classes in the Winter Term. Admission is determined through evaluation of portfolios by a Faculty jury. Submission of a portfolio does not guarantee admission.", 
-        "subject": "MUSC", 
-        "number": "454A", 
-        "title": "Acoustic Composition"
     }
 }

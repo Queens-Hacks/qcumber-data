@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "UNENE Course number = UN 0601This course covers the basic control, instrumentation and electrical systems commonly found in CANDU based nuclear power plants. The course starts with an overall view of the dynamics associated with different parts of the plant, i.e. reactor, heat transport systems, moderator, steam generator, turbine, and electrical generator. Based on such knowledge, the control and regulation functions in the above systems are then defined. Different instrumentation and measurement techniques are examined, along with control strategies. The time and frequency domain performance characterizations of control loops are introduced with consideration of actuator and sensor limitations. Different controller design and tuning methods and instrumentation calibration procedures are discussed. Two modes of operation of CANDU plants will be analyzed, i.e. normal mode and alternate mode. Advanced control technologies, such as distributed control systems, Field bus communication protocols are introduced in view of their potential applications in the existing and newly constructed CANDU power plants. The electric systems in the CANDU plant will be examined. The modeling of the dynamics and control devices for the generator will be covered in details. The dynamic interaction between the CANDU power plants and the rest of the electric power grid with other generating facilities and various types of load will be studied. University of Western Ontario/J. Jiang.", 
+        "number": "861", 
+        "subject": "UN", 
+        "title": "Control\u00a0 Instr. Elec. Systems"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "UNENE Course number = UN 0601This course covers the basic control, instrumentation and electrical systems commonly found in CANDU based nuclear power plants. The course starts with an overall view of the dynamics associated with different parts of the plant, i.e. reactor, heat transport systems, moderator, steam generator, turbine, and electrical generator. Based on such knowledge, the control and regulation functions in the above systems are then defined. Different instrumentation and measurement techniques are examined, along with control strategies. The time and frequency domain performance characterizations of control loops are introduced with consideration of actuator and sensor limitations. Different controller design and tuning methods and instrumentation calibration procedures are discussed. Two modes of operation of CANDU plants will be analyzed, i.e. normal mode and alternate mode. Advanced control technologies, such as distributed control systems, Field bus communication protocols are introduced in view of their potential applications in the existing and newly constructed CANDU power plants. The electric systems in the CANDU plant will be examined. The modeling of the dynamics and control devices for the generator will be covered in details. The dynamic interaction between the CANDU power plants and the rest of the electric power grid with other generating facilities and various types of load will be studied. University of Western Ontario/J. Jiang.", 
-        "subject": "UN", 
-        "number": "861", 
-        "title": "Control\u00a0 Instr. Elec. Systems"
     }
 }

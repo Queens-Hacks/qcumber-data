@@ -1,27 +1,27 @@
 {
-    "extra": {
-        "typically_offered": "Fall", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ELEC252 and a corequisite of (ELEC323 or MATH326) and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 27, 
-            "Eng Sci": 27, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
-        "grading_basis": "Graded", 
-        "units": "4.50"
-    }, 
     "basic": {
         "description": "Analog and digital electronic circuits based on the devices introduced in ELEC 252 will be studied. The course is subdivided into two parts; the design and operation of amplifiers and the operation of common logic families. Particular attention is paid to the transient and frequency response of the circuits. The course also includes a study of feedback as applied to the design and analysis of electronic circuits. The laboratory work is design oriented and complements the lecture material.", 
-        "subject": "ELEC", 
         "number": "353", 
+        "subject": "ELEC", 
         "title": "Electronics II"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 27, 
+            "Eng Sci": 27, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC252 and a corequisite of (ELEC323 or MATH326) and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.50"
     }
 }

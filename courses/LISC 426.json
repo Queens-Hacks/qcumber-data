@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "A multi-disciplinary course exploring advanced concepts of sensorimotor integration from a systems neuroscience perspective. Topics include the neural basis of perception, action selection, reinforcement learning, and motor control. Students will learn to critically evaluate scientific literature and present these concepts to classmates.", 
+        "number": "426", 
+        "subject": "LISC", 
+        "title": "Current Concepts in Sensorimotor Neuroscience"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 Level 4 and NSCI 322/3.0 or LISC 322/3.0 or NSCI 323/3.0 or NSCI 324/3.0 and reg. in LISC Major or Spec. Plan and (a GPA of 2.5) & permission of the course coordinator.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A multi-disciplinary course exploring advanced concepts of sensorimotor integration from a systems neuroscience perspective. Topics include the neural basis of perception, action selection, reinforcement learning, and motor control. Students will learn to critically evaluate scientific literature and present these concepts to classmates.", 
-        "subject": "LISC", 
-        "number": "426", 
-        "title": "Current Concepts in Sensorimotor Neuroscience"
     }
 }

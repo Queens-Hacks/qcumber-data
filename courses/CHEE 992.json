@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This six-week graduate module provides a thorough background in the underlying fundamental biological and polymer science principles involved in the use of polymers as medical materials. Three term hours; B. Amsden", 
+        "number": "992", 
+        "subject": "CHEE", 
+        "title": "Polymeric Biomaterials"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "This six-week graduate module provides a thorough background in the underlying fundamental biological and polymer science principles involved in the use of polymers as medical materials. Three term hours; B. Amsden", 
-        "subject": "CHEE", 
-        "number": "992", 
-        "title": "Polymeric Biomaterials"
     }
 }

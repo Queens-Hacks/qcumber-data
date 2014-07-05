@@ -1,1 +1,13 @@
-{"isbn_13": null, "isbn_10": "88880090775", "classified_info": "0 classified listings", "new_price": "$119.00", "authors": "rmc", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13846-MPA523-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl08_test_ModeFull", "courses": ["MPA 523"], "required": true, "title": "MPA523 Course Reader v5.0"}
+{
+    "authors": "rmc", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "MPA 523"
+    ], 
+    "isbn_10": "88880090775", 
+    "isbn_13": null, 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13846-MPA523-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl08_test_ModeFull", 
+    "new_price": "$119.00", 
+    "required": true, 
+    "title": "MPA523 Course Reader v5.0"
+}

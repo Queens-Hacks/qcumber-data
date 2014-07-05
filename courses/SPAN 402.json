@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course aims to perfect the students\u00bf ability to write and speak in Spanish, with intensive practice of advanced Spanish grammatical structures through translation exercises, as well as compositions and oral work.", 
+        "number": "402", 
+        "subject": "SPAN", 
+        "title": "Advanced Grammar Through Translation II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 SPAN401 or permission of the Department of Languages, Literatures and Cultures.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course aims to perfect the students\u00bf ability to write and speak in Spanish, with intensive practice of advanced Spanish grammatical structures through translation exercises, as well as compositions and oral work.", 
-        "subject": "SPAN", 
-        "number": "402", 
-        "title": "Advanced Grammar Through Translation II"
     }
 }

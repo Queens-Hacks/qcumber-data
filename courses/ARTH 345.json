@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The sources of High Renaissance art will be examined and special attention will be given to the works of Leonardo, Raphael and Michelangelo, up to about 1520.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ARTH 214/3.0 and 215/3.0 (or ARTH 213/6.0).", 
+        "number": "345", 
+        "subject": "ARTH", 
+        "title": "Italian Art of the High Renaissance"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of third year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The sources of High Renaissance art will be examined and special attention will be given to the works of Leonardo, Raphael and Michelangelo, up to about 1520.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 ARTH 214/3.0 and 215/3.0 (or ARTH 213/6.0).", 
-        "subject": "ARTH", 
-        "number": "345", 
-        "title": "Italian Art of the High Renaissance"
     }
 }

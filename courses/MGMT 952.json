@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course analyses the development of, and contemporary directions in, the field of organization theory, with particular focus upon the relevance of organization theory to issues of economy and society. Drawing upon traditional and contemporary social theory as a backdrop, topics covered include scientific management, the human relations school, the Carnegie school, contingency analysis, labour process theory, resource dependence theory, the economic analysis of organizations, institutional theory, organizational demographics, and others.", 
+        "number": "952", 
+        "subject": "MGMT", 
+        "title": "Adv. Top. In Organizat. Theory"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course analyses the development of, and contemporary directions in, the field of organization theory, with particular focus upon the relevance of organization theory to issues of economy and society. Drawing upon traditional and contemporary social theory as a backdrop, topics covered include scientific management, the human relations school, the Carnegie school, contingency analysis, labour process theory, resource dependence theory, the economic analysis of organizations, institutional theory, organizational demographics, and others.", 
-        "subject": "MGMT", 
-        "number": "952", 
-        "title": "Adv. Top. In Organizat. Theory"
     }
 }

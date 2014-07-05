@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The dynamic behaviour and automatic control of processes are studied. Mathematical tools for analyzing the transient behaviour of open and closed-loop systems are presented. The steps of controller development are treated: process characterization (using mathematical models), controller design, and implementation. Methods for assessing system stability and performance are investigated, and are used in the design of controllers. Frequency response methods are introduced, as is the development and implementation of controller enhancements including feedforward and cascade control.", 
+        "number": "319", 
+        "subject": "CHEE", 
+        "title": "Process Dynamics & Control"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "CHEE210, CHEE222 (or MINE201), MTHE225 (or MATH 225), CHEE321, or permission of the instructor. Must be registered in a BSCE academic program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 30, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "The dynamic behaviour and automatic control of processes are studied. Mathematical tools for analyzing the transient behaviour of open and closed-loop systems are presented. The steps of controller development are treated: process characterization (using mathematical models), controller design, and implementation. Methods for assessing system stability and performance are investigated, and are used in the design of controllers. Frequency response methods are introduced, as is the development and implementation of controller enhancements including feedforward and cascade control.", 
-        "subject": "CHEE", 
-        "number": "319", 
-        "title": "Process Dynamics & Control"
     }
 }

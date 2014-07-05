@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (8091)", 
     "basic": {
         "class_num": "8091", 
-        "subject": "CUST", 
-        "status": "Open", 
         "course": "802B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CUST", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (8091)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Day, Richard J F"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "MACDONALD RM2", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 3, 
-            "location": "MACDONALD RM2"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "This theory course addresses critical psychosocial and mental health issues that impact on the health of individuals, families, and groups in Canadian society. Topics include nursing care of clients with major mental illnesses including mood and thought disorders, and addictions, and significant mental health challenges related to children, adolescents and the older adult. Addresses therapeutic processes used in working with clients with complex psychosocial issues such as suicide, family violence, aggression, end-of-life decisions and abuse. Advanced communication processes and strategies used by nurses are a major focus of the course. 3 hour lecture per week; 9 units (3 credits) course weight.", 
+        "number": "325", 
+        "subject": "NURS", 
+        "title": "Cmplx Mental Health & Ther Pro"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "NURS345", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This theory course addresses critical psychosocial and mental health issues that impact on the health of individuals, families, and groups in Canadian society. Topics include nursing care of clients with major mental illnesses including mood and thought disorders, and addictions, and significant mental health challenges related to children, adolescents and the older adult. Addresses therapeutic processes used in working with clients with complex psychosocial issues such as suicide, family violence, aggression, end-of-life decisions and abuse. Advanced communication processes and strategies used by nurses are a major focus of the course. 3 hour lecture per week; 9 units (3 credits) course weight.", 
-        "subject": "NURS", 
-        "number": "325", 
-        "title": "Cmplx Mental Health & Ther Pro"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "A field-based course stressing methods used in geological engineering site investigation.\u00a0 Includes field characterization of engineering properties and behaviour of earth materials and their structures.\u00a0 Student teams conduct eight site investigations that address geological engineering problems.\u00a0 Two of these involve the design of an infrastructure improvement project, with geological considerations. Results are presented in weekly engineering reports illustrated with maps and sections. (0/14/0/26/14)", 
+        "number": "211", 
+        "subject": "GEOL", 
+        "title": "Geological Engr Field Methods"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BSCE program", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "A field-based course stressing methods used in geological engineering site investigation.\u00a0 Includes field characterization of engineering properties and behaviour of earth materials and their structures.\u00a0 Student teams conduct eight site investigations that address geological engineering problems.\u00a0 Two of these involve the design of an infrastructure improvement project, with geological considerations. Results are presented in weekly engineering reports illustrated with maps and sections. (0/14/0/26/14)", 
-        "subject": "GEOL", 
-        "number": "211", 
-        "title": "Geological Engr Field Methods"
     }
 }

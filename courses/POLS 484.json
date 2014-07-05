@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "An examination of the major theoretical debates and issues in contemporary globalization, including the historical roots of globalization, and the impact of globalization on culture, economics, trade, global governance, and global social movements.", 
+        "number": "484", 
+        "subject": "POLS", 
+        "title": "Politics of Globalization"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of the major theoretical debates and issues in contemporary globalization, including the historical roots of globalization, and the impact of globalization on culture, economics, trade, global governance, and global social movements.", 
-        "subject": "POLS", 
-        "number": "484", 
-        "title": "Politics of Globalization"
     }
 }

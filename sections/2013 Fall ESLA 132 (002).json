@@ -1,114 +1,114 @@
 {
+    "_unique": "002-LEC (8703)", 
     "basic": {
         "class_num": "8703", 
-        "subject": "ESLA", 
-        "status": "Open", 
         "course": "132", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ESLA", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "002-LEC (8703)", 
     "classes": [
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 1, 
-            "location": "MACINTOSH-CORRY RM D211"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D211", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }, 
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
+            "day_of_week": 1, 
             "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM210", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 1, 
-            "location": "KINGSTON RM210"
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }, 
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
+            "day_of_week": 1, 
             "end_time": "1900-01-01T16:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM108", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 1, 
-            "location": "KINGSTON RM108"
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }, 
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 2, 
-            "location": "MACINTOSH-CORRY RM A309"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM A309", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }, 
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
+            "day_of_week": 2, 
             "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM304", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 2, 
-            "location": "KINGSTON RM304"
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }, 
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
+            "day_of_week": 2, 
             "end_time": "1900-01-01T16:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM308", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "KINGSTON RM308"
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }, 
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 3, 
-            "location": "KINGSTON RM310"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM310", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }, 
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:00:00", 
-            "start_time": "1900-01-01T13:00:00", 
             "day_of_week": 3, 
-            "location": "KINGSTON RM310"
-        }, 
-        {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 4, 
-            "location": "ONTARIO RM209"
-        }, 
-        {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
             "end_time": "1900-01-01T16:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM310", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 4, 
-            "location": "MACINTOSH-CORRY RM A416"
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }, 
         {
-            "term_end": "2013-12-12T00:00:00", 
-            "term_start": "2013-09-12T00:00:00", 
-            "instructors": [], 
+            "day_of_week": 4, 
             "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "ONTARIO RM209", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T16:00:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM A416", 
+            "start_time": "1900-01-01T13:00:00", 
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "ONTARIO RM206"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "ONTARIO RM206", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-12-12T00:00:00", 
+            "term_start": "2013-09-12T00:00:00"
         }
     ]
 }

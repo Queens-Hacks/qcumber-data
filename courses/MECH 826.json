@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Characteristics of vibration and shock and their effects on mechanical systems and people; sensors and systems for measurement of vibratory displacement, velocity, acceleration and force; spectral analysis including applications to machinery vibration diagnostics; vibration test systems; random vibrations; modal analysis; vibration test standards; stress screening; shock testing. Three term-hours, lectures and laboratory. C. Mechefske.\u00a0", 
+        "number": "826", 
+        "subject": "MECH", 
+        "title": "Experimental Vib./Shock Analy."
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Characteristics of vibration and shock and their effects on mechanical systems and people; sensors and systems for measurement of vibratory displacement, velocity, acceleration and force; spectral analysis including applications to machinery vibration diagnostics; vibration test systems; random vibrations; modal analysis; vibration test standards; stress screening; shock testing. Three term-hours, lectures and laboratory. C. Mechefske.\u00a0", 
-        "subject": "MECH", 
-        "number": "826", 
-        "title": "Experimental Vib./Shock Analy."
     }
 }

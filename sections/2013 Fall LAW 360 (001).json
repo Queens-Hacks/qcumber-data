@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (1045)", 
     "basic": {
         "class_num": "1045", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "360", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-SEM (1045)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-03T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T19:00:00", 
             "instructors": [
                 "Mills, Ben"
             ], 
-            "end_time": "1900-01-01T19:00:00", 
+            "location": "MACDONALD RM201", 
             "start_time": "1900-01-01T16:00:00", 
-            "day_of_week": 3, 
-            "location": "MACDONALD RM201"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-03T00:00:00"
         }
     ]
 }

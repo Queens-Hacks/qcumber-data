@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Problems of maximization and minimization of functions of many variables when the variables are restricted by inequality constraints, with applications to resource allocation, technology, estimation theory, etc.; convex sets and their properties, convex functions; Lagrange multipliers and the Kuhn-Tucker theorem. (Offered jointly with MATH-434*.) Three term-hours, fall; lectures.", 
+        "number": "834", 
+        "subject": "MATH", 
+        "title": "Linear and Nonlinear Optimization"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Problems of maximization and minimization of functions of many variables when the variables are restricted by inequality constraints, with applications to resource allocation, technology, estimation theory, etc.; convex sets and their properties, convex functions; Lagrange multipliers and the Kuhn-Tucker theorem. (Offered jointly with MATH-434*.) Three term-hours, fall; lectures.", 
-        "subject": "MATH", 
-        "number": "834", 
-        "title": "Linear and Nonlinear Optimization"
     }
 }

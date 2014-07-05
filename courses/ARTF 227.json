@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course offers two of the sections from the four media areas available at this level: painting, drawing, print media and sculpture. Course content builds on concepts developed in ARTF127/6.0 and ARTF128/6.0. New techniques, skills and concepts are introduced.\r\nNOTE\u00a0\u00a0\u00a0 The field trip to New York is highly recommended; the estimated cost is $700.", 
+        "number": "227", 
+        "subject": "ARTF", 
+        "title": "Intermediate Fine Art I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A minimum grade of C- in ARTF128 and a GPA of 1.60.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "This course offers two of the sections from the four media areas available at this level: painting, drawing, print media and sculpture. Course content builds on concepts developed in ARTF127/6.0 and ARTF128/6.0. New techniques, skills and concepts are introduced.\r\nNOTE\u00a0\u00a0\u00a0 The field trip to New York is highly recommended; the estimated cost is $700.", 
-        "subject": "ARTF", 
-        "number": "227", 
-        "title": "Intermediate Fine Art I"
     }
 }

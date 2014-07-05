@@ -1,51 +1,51 @@
 {
+    "_unique": "003-LAB (5627)", 
     "basic": {
         "class_num": "5627", 
-        "subject": "PHYS", 
-        "status": "Open", 
         "course": "104A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "PHYS", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "003-LAB (5627)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 4, 
-            "location": "STIRLING RM412A"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM412A", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 4, 
-            "location": "STIRLING RM512"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM512", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 4, 
-            "location": "STIRLING RM513"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM513", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 4, 
-            "location": "STIRLING RM514"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM514", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

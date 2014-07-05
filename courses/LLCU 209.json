@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course goes beyond the typical representations of Rio de Janeiro to provide an understanding of the complex social, political, economic, and cultural history that have shaped the city's development and character. Focus is on the twentieth century, but provides the necessary historical background to understand the dynamics of life in Rio.\r\nNOTE\u00a0\u00a0\u00a0 Only offered online. Consult Continuing and Distance Studies.", 
+        "number": "209", 
+        "subject": "LLCU", 
+        "title": "Rio de Janeiro:\u00a0 the Marvelous City"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or permission of the Department of Languages, Literatures and Cultures", 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course goes beyond the typical representations of Rio de Janeiro to provide an understanding of the complex social, political, economic, and cultural history that have shaped the city's development and character. Focus is on the twentieth century, but provides the necessary historical background to understand the dynamics of life in Rio.\r\nNOTE\u00a0\u00a0\u00a0 Only offered online. Consult Continuing and Distance Studies.", 
-        "subject": "LLCU", 
-        "number": "209", 
-        "title": "Rio de Janeiro:\u00a0 the Marvelous City"
     }
 }

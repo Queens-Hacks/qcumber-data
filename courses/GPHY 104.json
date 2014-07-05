@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Forests are a critical global resource, containing significant biodiversity, regulating carbon dioxide in the atmosphere, and providing cultural and economic benefits to society. Yet forests are threatened by over-harvesting, fire, development and environmental change. This course examines the ecology, distribution, and sustainability of the world's forests.\r\nNOTE\u00a0\u00a0\u00a0 Field trips: estimated cost $30.\r\nNOTE\u00a0\u00a0\u00a0 This course is not a prerequisite for a GPHY plan. Students interested in pursuing a GPHY Plan should take GPHY 101/3.0 and GPHY 102/3.0.", 
+        "number": "104", 
+        "subject": "GPHY", 
+        "title": "Forests as a Global Resource"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Forests are a critical global resource, containing significant biodiversity, regulating carbon dioxide in the atmosphere, and providing cultural and economic benefits to society. Yet forests are threatened by over-harvesting, fire, development and environmental change. This course examines the ecology, distribution, and sustainability of the world's forests.\r\nNOTE\u00a0\u00a0\u00a0 Field trips: estimated cost $30.\r\nNOTE\u00a0\u00a0\u00a0 This course is not a prerequisite for a GPHY plan. Students interested in pursuing a GPHY Plan should take GPHY 101/3.0 and GPHY 102/3.0.", 
-        "subject": "GPHY", 
-        "number": "104", 
-        "title": "Forests as a Global Resource"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "700-LEC (8136)", 
     "basic": {
         "class_num": "8136", 
-        "subject": "HIST", 
-        "status": "Open", 
         "course": "280B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "700", 
+        "status": "Open", 
+        "subject": "HIST", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "700-LEC (8136)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Bos, Brittney"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

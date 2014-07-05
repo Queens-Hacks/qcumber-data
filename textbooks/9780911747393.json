@@ -1,1 +1,15 @@
-{"isbn_13": "9780911747393", "isbn_10": "0911747397", "classified_info": "7 classified listings: $7.00 to $10.00", "new_price": "$24.01", "used_price": "$18.01", "authors": "Paul Carter", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13571-DRAM345-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", "courses": ["DRAM 345"], "required": true, "new_available": 9, "title": "The Backstage Handbook"}
+{
+    "authors": "Paul Carter", 
+    "classified_info": "7 classified listings: $7.00 to $10.00", 
+    "courses": [
+        "DRAM 345"
+    ], 
+    "isbn_10": "0911747397", 
+    "isbn_13": "9780911747393", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13571-DRAM345-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", 
+    "new_available": 9, 
+    "new_price": "$24.01", 
+    "required": true, 
+    "title": "The Backstage Handbook", 
+    "used_price": "$18.01"
+}

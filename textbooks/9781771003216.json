@@ -1,1 +1,15 @@
-{"isbn_13": "9781771003216", "isbn_10": "1771003219", "classified_info": "0 classified listings", "new_price": "$18.90", "used_price": "$18.90", "authors": "Candace Savage", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13748-HIST467-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["HIST 467"], "required": true, "new_available": 22, "title": "A Geography of Blood"}
+{
+    "authors": "Candace Savage", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "HIST 467"
+    ], 
+    "isbn_10": "1771003219", 
+    "isbn_13": "9781771003216", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13748-HIST467-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 22, 
+    "new_price": "$18.90", 
+    "required": true, 
+    "title": "A Geography of Blood", 
+    "used_price": "$18.90"
+}

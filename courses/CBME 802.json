@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Illustrate all areas of Biomedical Engineering research and practice; emphasis on breadth and interdisciplinary aspects; preparation, delivery and audience participation in oral presentations; the course links students from departments participating in the Collaborative Graduate Program in Biomedical Engineering; opportunities are provided to develop and refine presentation skills, to give and receive constructive criticism, and to pose and respond to questions. Instructors: Biomedical Engineering faculty.", 
+        "number": "802", 
+        "subject": "CBME", 
+        "title": "Biomedical Engineering Seminar"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
         "typically_offered": "Fall, Winter, Summer", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Illustrate all areas of Biomedical Engineering research and practice; emphasis on breadth and interdisciplinary aspects; preparation, delivery and audience participation in oral presentations; the course links students from departments participating in the Collaborative Graduate Program in Biomedical Engineering; opportunities are provided to develop and refine presentation skills, to give and receive constructive criticism, and to pose and respond to questions. Instructors: Biomedical Engineering faculty.", 
-        "subject": "CBME", 
-        "number": "802", 
-        "title": "Biomedical Engineering Seminar"
     }
 }

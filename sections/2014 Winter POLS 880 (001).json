@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (7968)", 
     "basic": {
         "class_num": "7968", 
-        "subject": "POLS", 
-        "status": "Open", 
         "course": "880", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "POLS", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (7968)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T12:00:00", 
             "instructors": [
                 "Little, Margaret J H"
             ], 
-            "end_time": "1900-01-01T12:00:00", 
+            "location": "MACINTOSH-CORRY RM B313", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 5, 
-            "location": "MACINTOSH-CORRY RM B313"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

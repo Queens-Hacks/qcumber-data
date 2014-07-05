@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Selected problems in the development of Canadian painting and sculpture in the modern period.\r\nNOTE\u00a0\u00a0\u00a0 Field trips: estimated cost $35.", 
+        "number": "339", 
+        "subject": "ARTH", 
+        "title": "Canadian Art in the Twentieth Century"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of third year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Selected problems in the development of Canadian painting and sculpture in the modern period.\r\nNOTE\u00a0\u00a0\u00a0 Field trips: estimated cost $35.", 
-        "subject": "ARTH", 
-        "number": "339", 
-        "title": "Canadian Art in the Twentieth Century"
     }
 }

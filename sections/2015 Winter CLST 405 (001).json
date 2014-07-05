@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LSM (2484)", 
     "basic": {
         "class_num": "2484", 
-        "subject": "CLST", 
-        "status": "Open", 
         "course": "405", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CLST", 
         "type": "LSM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LSM (2484)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Zaccagnino, Cristiana"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "MACINTOSH-CORRY RM E230", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 1, 
-            "location": "MACINTOSH-CORRY RM E230"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T10:00:00", 
             "instructors": [
                 "Zaccagnino, Cristiana"
             ], 
-            "end_time": "1900-01-01T10:00:00", 
+            "location": "MACINTOSH-CORRY RM E230", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 3, 
-            "location": "MACINTOSH-CORRY RM E230"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

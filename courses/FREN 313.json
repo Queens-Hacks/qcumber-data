@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "313", 
+        "subject": "FREN", 
+        "title": "Les Genres Litteraires Au Que."
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "FREN221 OR (FREN212 AND FREN220)", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "FREN", 
-        "number": "313", 
-        "title": "Les Genres Litteraires Au Que."
     }
 }

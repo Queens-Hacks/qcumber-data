@@ -1,1 +1,15 @@
-{"isbn_13": "9781118324578", "isbn_10": "1118324579", "classified_info": "0 classified listings", "new_price": "$156.31", "used_price": "$117.23", "authors": "William D. Callister", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13416-MECH270-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["MECH 270"], "required": true, "new_available": 50, "title": "Materials Science and Engineering"}
+{
+    "authors": "William D. Callister", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "MECH 270"
+    ], 
+    "isbn_10": "1118324579", 
+    "isbn_13": "9781118324578", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13416-MECH270-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 50, 
+    "new_price": "$156.31", 
+    "required": true, 
+    "title": "Materials Science and Engineering", 
+    "used_price": "$117.23"
+}

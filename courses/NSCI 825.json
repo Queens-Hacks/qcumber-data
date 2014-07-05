@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A multidisciplinary graduate level course exposing students to the clinical aspects of neuroscience . Didactic lectures cover detailed organization of the nervous system with clinical implications. Laboratories review basic neuroanatomy and pathology. Clinical demonstrations expose students to several neurological disorders. Lectures, laboratories, and clinical cases.", 
+        "number": "825", 
+        "subject": "NSCI", 
+        "title": "Medical Neuroscience"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A multidisciplinary graduate level course exposing students to the clinical aspects of neuroscience . Didactic lectures cover detailed organization of the nervous system with clinical implications. Laboratories review basic neuroanatomy and pathology. Clinical demonstrations expose students to several neurological disorders. Lectures, laboratories, and clinical cases.", 
-        "subject": "NSCI", 
-        "number": "825", 
-        "title": "Medical Neuroscience"
     }
 }

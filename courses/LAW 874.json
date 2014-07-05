@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course addresses the basic principles governing the formation, operation and dissolution of the family in Canada. Specific topics to be considered are validity and annulment of marriage, rights and obligations of persons who cohabit outside marriage, gay and lesbian relationships, domestic contracts, domestic violence, support, custody and access to children, the law of divorce and ownership, possession and division of matrimonial property. (To be offered jointly with LAW-520.) Four term-hours. Fall: M. Bailey. Winter:\u00a0 M. Maur.", 
+        "number": "874", 
+        "subject": "LAW", 
+        "title": "Family Law"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course addresses the basic principles governing the formation, operation and dissolution of the family in Canada. Specific topics to be considered are validity and annulment of marriage, rights and obligations of persons who cohabit outside marriage, gay and lesbian relationships, domestic contracts, domestic violence, support, custody and access to children, the law of divorce and ownership, possession and division of matrimonial property. (To be offered jointly with LAW-520.) Four term-hours. Fall: M. Bailey. Winter:\u00a0 M. Maur.", 
-        "subject": "LAW", 
-        "number": "874", 
-        "title": "Family Law"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An examination of ecological and earth system processes that affect the dynamics of organisms, their spatial patterns and their variability in time.", 
+        "number": "207", 
+        "subject": "GPHY", 
+        "title": "Principles Of Biogeography"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Practicum": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 3.0 units from GPHY102 or BIOL### or GEOL###", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of ecological and earth system processes that affect the dynamics of organisms, their spatial patterns and their variability in time.", 
-        "subject": "GPHY", 
-        "number": "207", 
-        "title": "Principles Of Biogeography"
     }
 }

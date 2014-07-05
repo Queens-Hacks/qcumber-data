@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Analytic and empirical evaluation of the performance of software systems. Performance modeling. Experimental design and statistical techniques for empirical performance analysis.", 
+        "number": "437", 
+        "subject": "CISC", 
+        "title": "Performance Analysis"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 CISC324 and CISC327\r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC437; SOFT437.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Analytic and empirical evaluation of the performance of software systems. Performance modeling. Experimental design and statistical techniques for empirical performance analysis.", 
-        "subject": "CISC", 
-        "number": "437", 
-        "title": "Performance Analysis"
     }
 }

@@ -1,1 +1,16 @@
-{"isbn_13": "9781405183529", "used_available": 52, "required": true, "isbn_10": "1405183527", "new_price": "$56.81", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13366-SOCY122#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["SOCY 122", "SOCY 122"], "used_price": "$42.61", "title": "The Concise Encyclopedia of Sociology", "new_available": 349, "classified_info": "132 classified listings: $0.00 to $49.00"}
+{
+    "classified_info": "132 classified listings: $0.00 to $49.00", 
+    "courses": [
+        "SOCY 122", 
+        "SOCY 122"
+    ], 
+    "isbn_10": "1405183527", 
+    "isbn_13": "9781405183529", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13366-SOCY122#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 349, 
+    "new_price": "$56.81", 
+    "required": true, 
+    "title": "The Concise Encyclopedia of Sociology", 
+    "used_available": 52, 
+    "used_price": "$42.61"
+}

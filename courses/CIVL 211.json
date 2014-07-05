@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "211", 
+        "subject": "CIVL", 
+        "title": "Engineering Surveying"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Field Studies": "Required"
         }, 
         "enrollment_requirement": "Exclusion:\u00a0 APSC262.\u00a0 Must be registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CIVL", 
-        "number": "211", 
-        "title": "Engineering Surveying"
     }
 }

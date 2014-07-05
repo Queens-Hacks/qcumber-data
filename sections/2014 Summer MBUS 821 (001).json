@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (2200)", 
     "basic": {
         "class_num": "2200", 
-        "subject": "MBUS", 
-        "status": "Closed", 
         "course": "821", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBUS", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2200)", 
     "classes": [
         {
-            "term_end": "2014-07-11T00:00:00", 
-            "term_start": "2014-04-25T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Robertson, Blair"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-07-11T00:00:00", 
+            "term_start": "2014-04-25T00:00:00"
         }
     ]
 }

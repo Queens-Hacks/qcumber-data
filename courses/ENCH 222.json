@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "A survey of practical spectroscopic and spectrometric methods for the determination of the structures of organic and inorganic compounds. Methods will include nuclear magnetic resonance, electronic, infrared/Raman spectroscopy, and mass spectrometry. Tutorials will involve solving compound structures using spectroscopic data, and include an introduction to computational methods in spectroscopy.", 
+        "number": "222", 
+        "subject": "ENCH", 
+        "title": "Meth Struct Determination"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 45, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQ: ENCH 211 OR CHEM 211 OR ENCH 212 OR CHEM 212 OR ENCH 281 OR CHEM 281. Must also be registered in BSCE", 
-        "CEAB": {
-            "Basic Sci": 45, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.75"
-    }, 
-    "basic": {
-        "description": "A survey of practical spectroscopic and spectrometric methods for the determination of the structures of organic and inorganic compounds. Methods will include nuclear magnetic resonance, electronic, infrared/Raman spectroscopy, and mass spectrometry. Tutorials will involve solving compound structures using spectroscopic data, and include an introduction to computational methods in spectroscopy.", 
-        "subject": "ENCH", 
-        "number": "222", 
-        "title": "Meth Struct Determination"
     }
 }

@@ -1,33 +1,33 @@
 {
+    "_unique": "101-LEC (7987)", 
     "basic": {
         "class_num": "7987", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "311B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "101", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "101-LEC (7987)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "DUNCAN MCARTHUR RM A242"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": null, 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "DUNCAN MCARTHUR RM A241"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": null, 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

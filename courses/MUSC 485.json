@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of the theory and practice of musical notations from circa 1000 to circa 1600. Representative compositions from the medieval and Renaissance periods will be transcribed and considered in conjunction with contemporary theoretical writings. Discussions will focus on current scholarly views concerning the rhythmic interpretations of ambiguous notations.", 
+        "number": "485", 
+        "subject": "MUSC", 
+        "title": "Introduction to Palaeography"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (MUSC 103/3.0 and MUSC 205/3.0) or permission of the School.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of the theory and practice of musical notations from circa 1000 to circa 1600. Representative compositions from the medieval and Renaissance periods will be transcribed and considered in conjunction with contemporary theoretical writings. Discussions will focus on current scholarly views concerning the rhythmic interpretations of ambiguous notations.", 
-        "subject": "MUSC", 
-        "number": "485", 
-        "title": "Introduction to Palaeography"
     }
 }

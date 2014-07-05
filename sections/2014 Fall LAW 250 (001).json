@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (1225)", 
     "basic": {
         "class_num": "1225", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "250", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (1225)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-02T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T21:00:00", 
             "instructors": [
                 "Kymlicka, Will"
             ], 
-            "end_time": "1900-01-01T21:00:00", 
+            "location": "MACDONALD RM400", 
             "start_time": "1900-01-01T18:00:00", 
-            "day_of_week": 1, 
-            "location": "MACDONALD RM400"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00"
         }
     ]
 }

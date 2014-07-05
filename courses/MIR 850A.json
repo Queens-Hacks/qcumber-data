@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course applied theories and methods from the behavioral sciences to the analysis of organizations.\u00a0 Students are introduced to classical and modern theories of organization and their underlying assumptions of human nature, the relationship between organizations and their environment, and the role of power, politics and culture in decision-making.\u00a0 Topics covered include job attitudes and job satisfaction, motivation, group formation, leadership and power, and organization design and culture.\u00a0 Solutions/approaches to problems in organizations are covered at both the micro and macro levels.", 
+        "number": "850A", 
+        "subject": "MIR", 
+        "title": "Organizational Theory & Design"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "MIR Programs:\u00a0 Restricted to grad students enrolled in MIR programs or approval of program director. Excl MIR 820 A&B", 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "This course applied theories and methods from the behavioral sciences to the analysis of organizations.\u00a0 Students are introduced to classical and modern theories of organization and their underlying assumptions of human nature, the relationship between organizations and their environment, and the role of power, politics and culture in decision-making.\u00a0 Topics covered include job attitudes and job satisfaction, motivation, group formation, leadership and power, and organization design and culture.\u00a0 Solutions/approaches to problems in organizations are covered at both the micro and macro levels.", 
-        "subject": "MIR", 
-        "number": "850A", 
-        "title": "Organizational Theory & Design"
     }
 }

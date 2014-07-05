@@ -1,26 +1,26 @@
 {
+    "_unique": "003-TUT (6366)", 
     "basic": {
         "class_num": "6366", 
-        "subject": "PT", 
-        "status": "Open", 
         "course": "856", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "PT", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "003-TUT (6366)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-02-23T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T10:00:00", 
             "instructors": [
                 "Deshpande, Nandini"
             ], 
-            "end_time": "1900-01-01T10:00:00", 
+            "location": "MEDS RM302 - Anatomy", 
             "start_time": "1900-01-01T08:00:00", 
-            "day_of_week": 1, 
-            "location": "MEDS RM302 - Anatomy"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-02-23T00:00:00"
         }
     ]
 }

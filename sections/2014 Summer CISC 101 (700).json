@@ -1,26 +1,26 @@
 {
+    "_unique": "700-LEC (2095)", 
     "basic": {
         "class_num": "2095", 
-        "subject": "CISC", 
-        "status": "Open", 
         "course": "101", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "700", 
+        "status": "Open", 
+        "subject": "CISC", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "700-LEC (2095)", 
     "classes": [
         {
-            "term_end": "2014-06-16T00:00:00", 
-            "term_start": "2014-05-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "McLeod, Alan D"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-06-16T00:00:00", 
+            "term_start": "2014-05-05T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (8263)", 
     "basic": {
         "class_num": "8263", 
-        "subject": "MBAS", 
-        "status": "Closed", 
         "course": "844", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBAS", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (8263)", 
     "classes": [
         {
-            "term_end": "2014-01-29T00:00:00", 
-            "term_start": "2013-11-25T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-01-29T00:00:00", 
+            "term_start": "2013-11-25T00:00:00"
         }
     ]
 }

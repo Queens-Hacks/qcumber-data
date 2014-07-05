@@ -1,48 +1,48 @@
 {
+    "_unique": "100-LEC (7005)", 
     "basic": {
         "class_num": "7005", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "311B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "100", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "100-LEC (7005)", 
     "classes": [
         {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-01-10T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [
-                "Roblin, Nancy E"
-            ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A234"
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-13T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Roblin, Nancy E"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A241"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-13T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-13T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Roblin, Nancy E"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "DUNCAN MCARTHUR RM A242", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A242"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-13T00:00:00"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "001-IND (1123)", 
     "basic": {
         "class_num": "1123", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "591", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "IND", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-IND (1123)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-02T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Primeau, Jodie-Lee Jacqueline"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00"
         }
     ]
 }

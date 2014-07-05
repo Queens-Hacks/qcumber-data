@@ -1,26 +1,26 @@
 {
+    "_unique": "001-PRA (7254)", 
     "basic": {
         "class_num": "7254", 
-        "subject": "BIOL", 
-        "status": "Closed", 
         "course": "307", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "BIOL", 
         "type": "PRA", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-PRA (7254)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": "1900-01-01T00:00:00", 
             "instructors": [
                 "Martin, Paul"
             ], 
-            "end_time": "1900-01-01T00:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T00:00:00", 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

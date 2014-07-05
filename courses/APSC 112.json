@@ -1,28 +1,28 @@
 {
+    "basic": {
+        "description": "This course continues from APSC 111 to introduce electricity and further develop fundamental ideas of mechanics in the context of engineering applications. Lecture topics include: electrical current and resistance, EMF, D.C. circuits and electrical measurements, electric charge, electric field and potential, magnetic fields and their origin, electromagnetic induction, dynamics of rigid bodies, oscillations, waves.", 
+        "number": "112", 
+        "subject": "APSC", 
+        "title": "Electricity And Magnetism"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 31, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 11, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite of APSC111 and APSC171 and registered in a BSCE or UENG Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 31, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 11, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course continues from APSC 111 to introduce electricity and further develop fundamental ideas of mechanics in the context of engineering applications. Lecture topics include: electrical current and resistance, EMF, D.C. circuits and electrical measurements, electric charge, electric field and potential, magnetic fields and their origin, electromagnetic induction, dynamics of rigid bodies, oscillations, waves.", 
-        "subject": "APSC", 
-        "number": "112", 
-        "title": "Electricity And Magnetism"
     }
 }

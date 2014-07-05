@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (6257)", 
     "basic": {
         "class_num": "6257", 
-        "subject": "PSYC", 
-        "status": "Open", 
         "course": "305B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PSYC", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (6257)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T10:00:00", 
             "instructors": [
                 "Johns, Brendan"
             ], 
-            "end_time": "1900-01-01T10:00:00", 
+            "location": "HUMPHREY RM219", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 2, 
-            "location": "HUMPHREY RM219"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

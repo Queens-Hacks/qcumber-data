@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Brief introduction to Hamiltonian dynamics. Matter waves. Postulates of quantum mechanics. Stationary states. One-dimensional potentials. Particle tunnelling and scattering states. Introduction to matrix mechanics and Dirac notation: the simple harmonic oscillator and angular momentum.", 
+        "number": "344", 
+        "subject": "ENPH", 
+        "title": "Intro. To Quantum Mechanics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 31, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 11
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQ: MTHE 237 or MATH 237 and MTHE 227 or MATH 227 and ENPH 242 or PHYS 242 and ENPH 211 and registered in BSCE.", 
-        "CEAB": {
-            "Basic Sci": 31, 
-            "Math": 11, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Brief introduction to Hamiltonian dynamics. Matter waves. Postulates of quantum mechanics. Stationary states. One-dimensional potentials. Particle tunnelling and scattering states. Introduction to matrix mechanics and Dirac notation: the simple harmonic oscillator and angular momentum.", 
-        "subject": "ENPH", 
-        "number": "344", 
-        "title": "Intro. To Quantum Mechanics"
     }
 }

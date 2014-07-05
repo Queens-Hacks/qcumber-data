@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The general principles and mechanism of immune reaction. Immunochemical and immunobiological aspects of antibody formation and cell-mediated immunity in health and disease will be considered.", 
+        "number": "360", 
+        "subject": "MICR", 
+        "title": "Immunology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "COREQUISITE\u00a0\u00a0\u00a0 BCHM 310/6.0 or BCHM 315/3.0 or BIOL 334/3.0 or permission of the Course Coordinator.", 
-        "CEAB": {
-            "Basic Sci": 36, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The general principles and mechanism of immune reaction. Immunochemical and immunobiological aspects of antibody formation and cell-mediated immunity in health and disease will be considered.", 
-        "subject": "MICR", 
-        "number": "360", 
-        "title": "Immunology"
     }
 }

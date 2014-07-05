@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A foundation course aimed at developing basic skills in drawing and painting, embracing a variety of subjects, materials and techniques. \r\nNOTE\u00a0\u00a0\u00a0 Materials: estimated cost: $250.", 
+        "number": "101", 
+        "subject": "ARTF", 
+        "title": "Fundamentals of Drawing and Painting"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 1 course from ARTF101;ARTF 105; ARTF 106; ARTF 127.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from ARTF101;ARTF 105; ARTF 106; ARTF 128.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A foundation course aimed at developing basic skills in drawing and painting, embracing a variety of subjects, materials and techniques. \r\nNOTE\u00a0\u00a0\u00a0 Materials: estimated cost: $250.", 
-        "subject": "ARTF", 
-        "number": "101", 
-        "title": "Fundamentals of Drawing and Painting"
     }
 }

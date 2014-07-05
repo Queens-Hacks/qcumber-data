@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Modern synthetic methods in organic chemistry. Principles of strategy in planning organic syntheses based on simple classifications of reagents and reactions, and on the control of stereochemistry.", 
+        "number": "422", 
+        "subject": "CHEM", 
+        "title": "Synthetic Organic Chemistry"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "CHEM311", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Modern synthetic methods in organic chemistry. Principles of strategy in planning organic syntheses based on simple classifications of reagents and reactions, and on the control of stereochemistry.", 
-        "subject": "CHEM", 
-        "number": "422", 
-        "title": "Synthetic Organic Chemistry"
     }
 }

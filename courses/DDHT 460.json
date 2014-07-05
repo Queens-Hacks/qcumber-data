@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Advanced study of the component parts of the complex process of drug discovery and development and the assessment of human toxicology including drug delivery and formulation, directed toxicology studies, drug disposition, clinical trials, legal issues and regulatory approval. \r\nNOTE\u00a0\u00a0\u00a0 Priority given to students in the LISC Specialization, DDHT Sub-Plan.", 
+        "number": "460", 
+        "subject": "DDHT", 
+        "title": "Principles of Drug Development"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 DDHT 459/3.0 and PHAR 416/3.0 and registration in a LISC Major or Specialization Plan and (a GPA of 2.5) or permission of the instructor.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Advanced study of the component parts of the complex process of drug discovery and development and the assessment of human toxicology including drug delivery and formulation, directed toxicology studies, drug disposition, clinical trials, legal issues and regulatory approval. \r\nNOTE\u00a0\u00a0\u00a0 Priority given to students in the LISC Specialization, DDHT Sub-Plan.", 
-        "subject": "DDHT", 
-        "number": "460", 
-        "title": "Principles of Drug Development"
     }
 }

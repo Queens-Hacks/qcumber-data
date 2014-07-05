@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course focuses on the financial issues that managers confront in an international setting and develops a framework for evaluating the many opportunities, costs, and risks associated with multinational operations.\u00a0 The course employs cases extensively to provide students with a detailed and analytic look at investment and financial decisions undertaken by multinational firms.\u00a0 Topics covered include: Determination of exchange rates; Foreign exchange market; Relationships among inflation rates, interest rates & exchange rates; Currency futures, options & swaps; International investing; Foreign exchange exposure; Hedging exchange risk; Cross-border valuation", 
+        "number": "828", 
+        "subject": "MFIN", 
+        "title": "International Finance"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course focuses on the financial issues that managers confront in an international setting and develops a framework for evaluating the many opportunities, costs, and risks associated with multinational operations.\u00a0 The course employs cases extensively to provide students with a detailed and analytic look at investment and financial decisions undertaken by multinational firms.\u00a0 Topics covered include: Determination of exchange rates; Foreign exchange market; Relationships among inflation rates, interest rates & exchange rates; Currency futures, options & swaps; International investing; Foreign exchange exposure; Hedging exchange risk; Cross-border valuation", 
-        "subject": "MFIN", 
-        "number": "828", 
-        "title": "International Finance"
     }
 }

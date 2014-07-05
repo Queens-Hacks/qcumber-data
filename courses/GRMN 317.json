@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course's aim is threefold: to improve students' comprehension and production of oral and written German through practice in reading, writing, listening and speaking; to increase their knowledge of contemporary issues in Germany, with a special focus on transnational perspectives; and to better their analytic skills and media literacy", 
+        "number": "317", 
+        "subject": "GRMN", 
+        "title": "Contemporary Germany through Media and News"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in GRMN202 or permission of the Department of Languages, Literatures and Cultures.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course's aim is threefold: to improve students' comprehension and production of oral and written German through practice in reading, writing, listening and speaking; to increase their knowledge of contemporary issues in Germany, with a special focus on transnational perspectives; and to better their analytic skills and media literacy", 
-        "subject": "GRMN", 
-        "number": "317", 
-        "title": "Contemporary Germany through Media and News"
     }
 }

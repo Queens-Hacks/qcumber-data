@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course explores the meaning of two of Geography\u00bfs most fundamental concepts: place and space. Recent scholarship in both philosophy (Jeff Malpas) and the history of science (Edward Casey) has explored the meaning of both place and space. But there is an older literature in Geography around these questions (Tuan, Relph, Entrikin, Sack, Massey, Porteous and Smith, etc.), in addition to a significant literature outside Geography (Eliade, Lefebvre, de Certeau, Foucault, Heidegger, and Bachelard). This course will look at these theoretical approaches to place and space, consider their implications for research, and will also trace how geographers and other social scientists and artists have incorporated a critical approach to place and space into their work.", 
+        "number": "868", 
+        "subject": "GPHY", 
+        "title": "Philosophies Of Place & Space"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course explores the meaning of two of Geography\u00bfs most fundamental concepts: place and space. Recent scholarship in both philosophy (Jeff Malpas) and the history of science (Edward Casey) has explored the meaning of both place and space. But there is an older literature in Geography around these questions (Tuan, Relph, Entrikin, Sack, Massey, Porteous and Smith, etc.), in addition to a significant literature outside Geography (Eliade, Lefebvre, de Certeau, Foucault, Heidegger, and Bachelard). This course will look at these theoretical approaches to place and space, consider their implications for research, and will also trace how geographers and other social scientists and artists have incorporated a critical approach to place and space into their work.", 
-        "subject": "GPHY", 
-        "number": "868", 
-        "title": "Philosophies Of Place & Space"
     }
 }

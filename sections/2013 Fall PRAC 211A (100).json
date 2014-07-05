@@ -1,26 +1,26 @@
 {
+    "_unique": "100-PRA (7381)", 
     "basic": {
         "class_num": "7381", 
-        "subject": "PRAC", 
-        "status": "Closed", 
         "course": "211A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "100", 
+        "status": "Closed", 
+        "subject": "PRAC", 
         "type": "PRA", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "100-PRA (7381)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "O'Neil, Tammy"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

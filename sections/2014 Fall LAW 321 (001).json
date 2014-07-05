@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (1027)", 
     "basic": {
         "class_num": "1027", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "321", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (1027)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-02T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T13:30:00", 
             "instructors": [
                 "McCormack, Nancy C"
             ], 
-            "end_time": "1900-01-01T13:30:00", 
+            "location": "MACDONALD RM201", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 2, 
-            "location": "MACDONALD RM201"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LEC (1191)", 
     "basic": {
         "class_num": "1191", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "460", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (1191)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-02T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T18:00:00", 
-            "start_time": "1900-01-01T15:00:00", 
             "day_of_week": 3, 
-            "location": "DUNNING RM12"
+            "end_time": "1900-01-01T18:00:00", 
+            "instructors": [], 
+            "location": "DUNNING RM12", 
+            "start_time": "1900-01-01T15:00:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00"
         }
     ]
 }

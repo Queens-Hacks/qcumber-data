@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course reviews mathematical background material that will be needed throughout the program.\u00a0 We will use the fundamental analytical framework of maximum likelihood estimation to motivate a review of basic probability concepts, likelihood functions, Bayesian analysis, linear algebra, and linear and nonlinear optimization.\u00a0 The focus will be on estimation of linear and nonlinear models that are often required for management analytics applications.", 
+        "number": "863", 
+        "subject": "MMA", 
+        "title": "Mathematical Foundations for Analytics"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "1.88"
-    }, 
-    "basic": {
-        "description": "This course reviews mathematical background material that will be needed throughout the program.\u00a0 We will use the fundamental analytical framework of maximum likelihood estimation to motivate a review of basic probability concepts, likelihood functions, Bayesian analysis, linear algebra, and linear and nonlinear optimization.\u00a0 The focus will be on estimation of linear and nonlinear models that are often required for management analytics applications.", 
-        "subject": "MMA", 
-        "number": "863", 
-        "title": "Mathematical Foundations for Analytics"
     }
 }

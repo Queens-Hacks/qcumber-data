@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The course will consider claims to gender equality and will introduce gender theory of law. There will be a critical examination of the legal strategies relating to gender objectives, including legislative reforms and jurisprudence. The objective of the course is to introduce students to the feminist critique and reconceptualization of law, particularly equality jurisprudence. (To be offered jointly with LAW-533.) Not offered 2010-2011.", 
+        "number": "833", 
+        "subject": "LAW", 
+        "title": "Law\u00a0 Gender And Equality"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course will consider claims to gender equality and will introduce gender theory of law. There will be a critical examination of the legal strategies relating to gender objectives, including legislative reforms and jurisprudence. The objective of the course is to introduce students to the feminist critique and reconceptualization of law, particularly equality jurisprudence. (To be offered jointly with LAW-533.) Not offered 2010-2011.", 
-        "subject": "LAW", 
-        "number": "833", 
-        "title": "Law\u00a0 Gender And Equality"
     }
 }

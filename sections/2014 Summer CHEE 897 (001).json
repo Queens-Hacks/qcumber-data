@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (1290)", 
     "basic": {
         "class_num": "1290", 
-        "subject": "CHEE", 
-        "status": "Closed", 
         "course": "897", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "CHEE", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (1290)", 
     "classes": [
         {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Amsden, Brian G"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
         }
     ]
 }

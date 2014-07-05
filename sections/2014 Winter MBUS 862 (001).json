@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (6727)", 
     "basic": {
         "class_num": "6727", 
-        "subject": "MBUS", 
-        "status": "Closed", 
         "course": "862", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBUS", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (6727)", 
     "classes": [
         {
-            "term_end": "2014-04-11T00:00:00", 
-            "term_start": "2014-01-23T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Roman, Paul Anthony"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-04-11T00:00:00", 
+            "term_start": "2014-01-23T00:00:00"
         }
     ]
 }

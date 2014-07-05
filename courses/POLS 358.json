@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Selected topics in the critique of capitalism, e.g. Marxism, democracy, the environment, globalization, employment and popular culture.", 
+        "number": "358", 
+        "subject": "POLS", 
+        "title": "Critical Perspectives on Contemporary Capitalism"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 (12.0 units in POLS at the 200-level or above) and (a GPA of 2.0 on all units in POLS) or permission of the department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Selected topics in the critique of capitalism, e.g. Marxism, democracy, the environment, globalization, employment and popular culture.", 
-        "subject": "POLS", 
-        "number": "358", 
-        "title": "Critical Perspectives on Contemporary Capitalism"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Study of the rise of Christianity and the Christian reception of classical culture.", 
+        "number": "321", 
+        "subject": "CLST", 
+        "title": "World Of Late Antiquity"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite CLST201 and registration in CLST or HIST plan", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Study of the rise of Christianity and the Christian reception of classical culture.", 
-        "subject": "CLST", 
-        "number": "321", 
-        "title": "World Of Late Antiquity"
     }
 }

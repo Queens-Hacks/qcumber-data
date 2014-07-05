@@ -1,37 +1,37 @@
 {
+    "_unique": "003-LEC (2327)", 
     "basic": {
         "class_num": "2327", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "191A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "003-LEC (2327)", 
     "classes": [
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Albertson, Paul"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 5, 
-            "location": "TBA"
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Albertson, Paul"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 5, 
-            "location": "TBA"
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

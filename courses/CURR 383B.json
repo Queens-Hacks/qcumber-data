@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Designed to help beginning teachers to (i) examine how children learn mathematics; (ii) develop a positive attitude toward and an interest in mathematics; (iii) teach mathematics with problem solving as the primary focus; (iv) understand the elements of planning and assessing a comprehensive mathematics curriculum; and (v) establish a classroom environment that supports children's learning of mathematics. Models experiences that help teacher candidates to construct personal knowledge of mathematical techniques, skills and processes through meaningful opportunities to learn (including the application of information technology).", 
+        "number": "383B", 
+        "subject": "CURR", 
+        "title": "Elementary Mathematics (PJ)"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Designed to help beginning teachers to (i) examine how children learn mathematics; (ii) develop a positive attitude toward and an interest in mathematics; (iii) teach mathematics with problem solving as the primary focus; (iv) understand the elements of planning and assessing a comprehensive mathematics curriculum; and (v) establish a classroom environment that supports children's learning of mathematics. Models experiences that help teacher candidates to construct personal knowledge of mathematical techniques, skills and processes through meaningful opportunities to learn (including the application of information technology).", 
-        "subject": "CURR", 
-        "number": "383B", 
-        "title": "Elementary Mathematics (PJ)"
     }
 }

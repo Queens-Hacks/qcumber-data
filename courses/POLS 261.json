@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to the major issues in the study of international relations: questions of war and peace, national security, the role of the 'state', foreign and defence policy, gender and international relations, and international institutions.", 
+        "number": "261", 
+        "subject": "POLS", 
+        "title": "International Politics"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite: POLS 110", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the major issues in the study of international relations: questions of war and peace, national security, the role of the 'state', foreign and defence policy, gender and international relations, and international institutions.", 
-        "subject": "POLS", 
-        "number": "261", 
-        "title": "International Politics"
     }
 }

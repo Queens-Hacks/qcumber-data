@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course deals with sustainable product design and manufacture. Topics include: product Life Cycle Analysis issues; Streamlined Life Cycle Analysis and international Life Cycle Analysis standards; Energy, Global Warming Potential, Green House Gas and carbon emission issues (including energy needs in product design and manufacturing); Carbon footprint, basic chemistry of carbon emissions, international standards for carbon emission signatures. Design topics include: product design for manufacture and assembly, design for disassembly and design for environment. Product end-of-life considerations include: recycling, remanufacture and reuse. Students will complete several open ended projects. Guest speakers will be included where possible.", 
+        "number": "424", 
+        "subject": "MECH", 
+        "title": "Sustainable Product Design"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 42, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Must be registered in a BSCE program", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 42, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course deals with sustainable product design and manufacture. Topics include: product Life Cycle Analysis issues; Streamlined Life Cycle Analysis and international Life Cycle Analysis standards; Energy, Global Warming Potential, Green House Gas and carbon emission issues (including energy needs in product design and manufacturing); Carbon footprint, basic chemistry of carbon emissions, international standards for carbon emission signatures. Design topics include: product design for manufacture and assembly, design for disassembly and design for environment. Product end-of-life considerations include: recycling, remanufacture and reuse. Students will complete several open ended projects. Guest speakers will be included where possible.", 
-        "subject": "MECH", 
-        "number": "424", 
-        "title": "Sustainable Product Design"
     }
 }

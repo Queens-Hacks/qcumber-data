@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Production and measurement of x-rays and charged particles for radiation therapy and nuclear medicine, interactions of radiation with matter and biological materials, interaction coefficients and radiation dosimetry, radiation safety, physics of medical imaging with examples from nuclear medicine ultrasound and magnetic resonance imaging.", 
+        "number": "495", 
+        "subject": "ENPH", 
+        "title": "Intro To Medical Physics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 9, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 27, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQ: (ENPH 312 or PHYS 312) or (MTHE 338 or MATH 338) and (ENPH 344 or PHYS 344) or (ENPH 343 or PHYS 343) and (ENPH 352 or PHYS 352) or PHYS 350 or ENPH 353", 
-        "CEAB": {
-            "Basic Sci": 9, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 27, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Production and measurement of x-rays and charged particles for radiation therapy and nuclear medicine, interactions of radiation with matter and biological materials, interaction coefficients and radiation dosimetry, radiation safety, physics of medical imaging with examples from nuclear medicine ultrasound and magnetic resonance imaging.", 
-        "subject": "ENPH", 
-        "number": "495", 
-        "title": "Intro To Medical Physics"
     }
 }

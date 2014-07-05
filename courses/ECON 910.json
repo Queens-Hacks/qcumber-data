@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Advanced courses in applied microeconomics.\u00a0 Topics will be drawn from different fields but will be organized around applications of microeconomic theory.\u00a0 For example, similar applications of general equilibrium, game theory, contracts, asymmetric information, and incentive theory may be used to explore issues drawn from the range of applied micro fields. No more than two of these courses will be offered in any given academic year.", 
+        "number": "910", 
+        "subject": "ECON", 
+        "title": "Advanced Topics In Microecon A"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Advanced courses in applied microeconomics.\u00a0 Topics will be drawn from different fields but will be organized around applications of microeconomic theory.\u00a0 For example, similar applications of general equilibrium, game theory, contracts, asymmetric information, and incentive theory may be used to explore issues drawn from the range of applied micro fields. No more than two of these courses will be offered in any given academic year.", 
-        "subject": "ECON", 
-        "number": "910", 
-        "title": "Advanced Topics In Microecon A"
     }
 }

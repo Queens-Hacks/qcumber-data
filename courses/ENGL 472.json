@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "For detailed information, consult the Department.", 
+        "number": "472", 
+        "subject": "ENGL", 
+        "title": "Topics in Modern/Contemporary American Literature II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 (ENGL200 & ENGL290) and (a GPA of 2.4 on all ENGL units) and (registration in an ENGL Major or Medial Plan).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "For detailed information, consult the Department.", 
-        "subject": "ENGL", 
-        "number": "472", 
-        "title": "Topics in Modern/Contemporary American Literature II"
     }
 }

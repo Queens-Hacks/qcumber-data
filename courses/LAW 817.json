@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of how the law has responded to the increasing concern about adverse impacts of human activity on the environment. The constitutional framework for environmental protection. The development of the law from common law causes of action to the administrative and regulatory regimes established by statute for management and protection of the environment. Particular emphasis is placed on federal and Ontario law. Topics covered include air, water, waste management, environmental assessment and the regulation of toxic chemicals. (To be offered jointly with LAW-517.) Three term-hours; Fall. B. Pardy.", 
+        "number": "817", 
+        "subject": "LAW", 
+        "title": "Environmental Protection Law"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of how the law has responded to the increasing concern about adverse impacts of human activity on the environment. The constitutional framework for environmental protection. The development of the law from common law causes of action to the administrative and regulatory regimes established by statute for management and protection of the environment. Particular emphasis is placed on federal and Ontario law. Topics covered include air, water, waste management, environmental assessment and the regulation of toxic chemicals. (To be offered jointly with LAW-517.) Three term-hours; Fall. B. Pardy.", 
-        "subject": "LAW", 
-        "number": "817", 
-        "title": "Environmental Protection Law"
     }
 }

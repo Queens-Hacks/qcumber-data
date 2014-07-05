@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "The course is an advanced topics seminar providing contemporary perspectives on labour relations. The course is intended to explore specific aspects of labour relations in depth. Private and public sector labour relations issues may be explored. Specific topics may vary from year to year, as issues change and different instructors are involved.", 
+        "number": "888", 
+        "subject": "MIR", 
+        "title": "Adv Topics In Labour Relations"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course is an advanced topics seminar providing contemporary perspectives on labour relations. The course is intended to explore specific aspects of labour relations in depth. Private and public sector labour relations issues may be explored. Specific topics may vary from year to year, as issues change and different instructors are involved.", 
-        "subject": "MIR", 
-        "number": "888", 
-        "title": "Adv Topics In Labour Relations"
     }
 }

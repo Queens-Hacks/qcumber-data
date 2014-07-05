@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "English for Special Purposes programs are customized programs for groups and institutions, ranging from two to six weeks in length. Programs cover the four language skills: reading, writing, speaking and listening and include vocabulary expansion, and pronunciation comprehensibility.", 
+        "number": "201", 
+        "subject": "ESLA", 
+        "title": "Eng Spec Purposes"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Summer", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "English for Special Purposes programs are customized programs for groups and institutions, ranging from two to six weeks in length. Programs cover the four language skills: reading, writing, speaking and listening and include vocabulary expansion, and pronunciation comprehensibility.", 
-        "subject": "ESLA", 
-        "number": "201", 
-        "title": "Eng Spec Purposes"
     }
 }

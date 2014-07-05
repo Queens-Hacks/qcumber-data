@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "In its capacity to imagine, construct, and disseminate modes of being and becoming, theatre has helped shape and rework colonialism, national liberation, postcolonial citizenship, and neoliberal globalization. This course is a critical exploration of this evolving relationship between theatre and development from a variety of perspectives throughout the world.", 
+        "number": "321", 
+        "subject": "DEVS", 
+        "title": "Development Dramas"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "typically_offered": "Fall", 
         "enrollment_requirement": "DEVS100 &\r\nExclusion\u00a0 No more than 3.0 units from DEVS321/3.0; DEVS392/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "In its capacity to imagine, construct, and disseminate modes of being and becoming, theatre has helped shape and rework colonialism, national liberation, postcolonial citizenship, and neoliberal globalization. This course is a critical exploration of this evolving relationship between theatre and development from a variety of perspectives throughout the world.", 
-        "subject": "DEVS", 
-        "number": "321", 
-        "title": "Development Dramas"
     }
 }

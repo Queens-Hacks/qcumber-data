@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Topics selected from relativistic electron theory, scattering theory, quantum field theory, wavepacket dynamics, approximation methods, semiclassical limits, and tunnelling.\u00a0Not offered 2010-2011.", 
+        "number": "936", 
+        "subject": "CHEM", 
+        "title": "Advanced Quantum Mechanics"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "Topics selected from relativistic electron theory, scattering theory, quantum field theory, wavepacket dynamics, approximation methods, semiclassical limits, and tunnelling.\u00a0Not offered 2010-2011.", 
-        "subject": "CHEM", 
-        "number": "936", 
-        "title": "Advanced Quantum Mechanics"
     }
 }

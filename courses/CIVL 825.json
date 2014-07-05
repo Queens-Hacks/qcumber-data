@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Overview of directional drilling, use of drilling mud and causes for and prevention of mud loss, soil-pipe interaction and the expected and allowable pulling forces.\u00a0 It introduces the current ASTM design code and the instructor\u00bfs simplified design tools and their limitations. (1.5 credit units)", 
+        "number": "825", 
+        "subject": "CIVL", 
+        "title": "Horizontal directional drilling"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "Overview of directional drilling, use of drilling mud and causes for and prevention of mud loss, soil-pipe interaction and the expected and allowable pulling forces.\u00a0 It introduces the current ASTM design code and the instructor\u00bfs simplified design tools and their limitations. (1.5 credit units)", 
-        "subject": "CIVL", 
-        "number": "825", 
-        "title": "Horizontal directional drilling"
     }
 }

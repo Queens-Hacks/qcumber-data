@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course provides a deeper exploration of the relationship between teaching and learning mathematics at the intermediate and senior levels with issues such as culture, gender, special needs, equity, subject history, student motivation, achievement, and performance. Teacher candidates will engage in collaborative activities that give them opportunities to move from a concern about teaching into a concern about the impact on students\u00bf learning. An integrated approach to the teaching and learning of mathematics considers technology, diverse teaching and learning strategies, and current trends in classroom practice.", 
+        "number": "344", 
+        "subject": "CURR", 
+        "title": "Mathematics (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides a deeper exploration of the relationship between teaching and learning mathematics at the intermediate and senior levels with issues such as culture, gender, special needs, equity, subject history, student motivation, achievement, and performance. Teacher candidates will engage in collaborative activities that give them opportunities to move from a concern about teaching into a concern about the impact on students\u00bf learning. An integrated approach to the teaching and learning of mathematics considers technology, diverse teaching and learning strategies, and current trends in classroom practice.", 
-        "subject": "CURR", 
-        "number": "344", 
-        "title": "Mathematics (IS)"
     }
 }

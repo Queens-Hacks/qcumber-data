@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Provides an introduction from a chemistry focus to the theoretical concepts and practical skills necessary for successful and effective teaching of Intermediate-Senior science.\u00a0 Course includes an examination of science content and teaching strategies (including laboratory work and demonstrations).", 
+        "number": "305", 
+        "subject": "CURR", 
+        "title": "Science - Chemistry (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Provides an introduction from a chemistry focus to the theoretical concepts and practical skills necessary for successful and effective teaching of Intermediate-Senior science.\u00a0 Course includes an examination of science content and teaching strategies (including laboratory work and demonstrations).", 
-        "subject": "CURR", 
-        "number": "305", 
-        "title": "Science - Chemistry (IS)"
     }
 }

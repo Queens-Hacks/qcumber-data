@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (6794)", 
     "basic": {
         "class_num": "6794", 
-        "subject": "BIOL", 
-        "status": "Open", 
         "course": "440", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "BIOL", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (6794)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Lougheed, Stephen C"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "BIOSCI RM2111", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "BIOSCI RM2111"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

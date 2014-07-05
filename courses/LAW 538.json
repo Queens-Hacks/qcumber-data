@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "International environmental and resource governance presents some of our most pressing current policy issues. This course will examine potential frameworks for resolution of international environmental and resource problems and the role for law and legal institutions. We will examine a variety of legal approaches, including treaty-based international law, customary international law, and rights-based environmental claims. We will also consider how international environmental and resource law intersect with other international legal regimes (GATT/WTO), the global activities of non-legal norm-setters, such as multinational enterprises, and consider how international and domestic law relate within this field.", 
+        "number": "538", 
+        "subject": "LAW", 
+        "title": "Intl Environ. & Resource Law"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "International environmental and resource governance presents some of our most pressing current policy issues. This course will examine potential frameworks for resolution of international environmental and resource problems and the role for law and legal institutions. We will examine a variety of legal approaches, including treaty-based international law, customary international law, and rights-based environmental claims. We will also consider how international environmental and resource law intersect with other international legal regimes (GATT/WTO), the global activities of non-legal norm-setters, such as multinational enterprises, and consider how international and domestic law relate within this field.", 
-        "subject": "LAW", 
-        "number": "538", 
-        "title": "Intl Environ. & Resource Law"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of discourse on and by women in representative works (primarily the novel). Travaux pratiques may include essays and tests.\u00a0 Given jointly with FREN 490/3.0.", 
+        "number": "390", 
+        "subject": "FREN", 
+        "title": "La femme et/dans la litt\u00e9rature"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN plan.\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from FREN390; FREN490", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of discourse on and by women in representative works (primarily the novel). Travaux pratiques may include essays and tests.\u00a0 Given jointly with FREN 490/3.0.", 
-        "subject": "FREN", 
-        "number": "390", 
-        "title": "La femme et/dans la litt\u00e9rature"
     }
 }

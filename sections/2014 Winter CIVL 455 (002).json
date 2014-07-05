@@ -1,37 +1,37 @@
 {
+    "_unique": "002-TUT (2442)", 
     "basic": {
         "class_num": "2442", 
-        "subject": "CIVL", 
-        "status": "Open", 
         "course": "455", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CIVL", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-TUT (2442)", 
     "classes": [
         {
-            "term_end": "2014-01-10T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T16:30:00", 
             "instructors": [
                 "Da silva, Ana Maria A F"
             ], 
-            "end_time": "1900-01-01T16:30:00", 
+            "location": "MCLAUGHLIN RM315", 
             "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 5, 
-            "location": "MCLAUGHLIN RM315"
+            "term_end": "2014-01-10T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-13T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T16:30:00", 
             "instructors": [
                 "Da silva, Ana Maria A F"
             ], 
-            "end_time": "1900-01-01T16:30:00", 
+            "location": "ELLIS RM226", 
             "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 5, 
-            "location": "ELLIS RM226"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-13T00:00:00"
         }
     ]
 }

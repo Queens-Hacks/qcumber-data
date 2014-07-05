@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (7407)", 
     "basic": {
         "class_num": "7407", 
-        "subject": "MBQC", 
-        "status": "Open", 
         "course": "881", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBQC", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (7407)", 
     "classes": [
         {
-            "term_end": "2014-02-02T00:00:00", 
-            "term_start": "2013-11-16T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Pazderka, Bohumir"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-02-02T00:00:00", 
+            "term_start": "2013-11-16T00:00:00"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (1332)", 
     "basic": {
         "class_num": "1332", 
-        "subject": "MBAS", 
-        "status": "Closed", 
         "course": "831", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBAS", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (1332)", 
     "classes": [
         {
-            "term_end": "2014-06-04T00:00:00", 
-            "term_start": "2014-04-28T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Dacin, Peter"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-06-04T00:00:00", 
+            "term_start": "2014-04-28T00:00:00"
         }
     ]
 }

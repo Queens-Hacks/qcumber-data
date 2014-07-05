@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The objective of this final fieldwork experience will be for students to consolidate professional practice skills necessary to function as autonomous, independent, reflective practitioners, who are able to cope with and be part of the changing health-care environments.", 
+        "number": "877", 
+        "subject": "OT", 
+        "title": "Advanced Practice"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
         "units": "8.00"
-    }, 
-    "basic": {
-        "description": "The objective of this final fieldwork experience will be for students to consolidate professional practice skills necessary to function as autonomous, independent, reflective practitioners, who are able to cope with and be part of the changing health-care environments.", 
-        "subject": "OT", 
-        "number": "877", 
-        "title": "Advanced Practice"
     }
 }

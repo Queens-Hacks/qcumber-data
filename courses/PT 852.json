@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Students will gain knowledge of the physical principles underlying the application of electro-physical agents (EPAs) for therapeutic and diagnostic purposes. Upon completion of the course students will be able to describe the physiological effects, indications, precautions, contra-indications and application techniques of selected EPAs. These topics will include discussion of pain, inflammation and regaining joint mobility. Students will demonstrate clinical decision making related to the use of EPAs, which will include incorporating research evidence to inform their practice. Students will also demonstrate understanding of the fundamental principles of diagnostic imaging of the musculo-skeletal system. Lab component.", 
+        "number": "852", 
+        "subject": "PT", 
+        "title": "Electro-Physical Agents"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "Students will gain knowledge of the physical principles underlying the application of electro-physical agents (EPAs) for therapeutic and diagnostic purposes. Upon completion of the course students will be able to describe the physiological effects, indications, precautions, contra-indications and application techniques of selected EPAs. These topics will include discussion of pain, inflammation and regaining joint mobility. Students will demonstrate clinical decision making related to the use of EPAs, which will include incorporating research evidence to inform their practice. Students will also demonstrate understanding of the fundamental principles of diagnostic imaging of the musculo-skeletal system. Lab component.", 
-        "subject": "PT", 
-        "number": "852", 
-        "title": "Electro-Physical Agents"
     }
 }

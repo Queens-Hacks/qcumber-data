@@ -1,26 +1,26 @@
 {
+    "_unique": "200-PRA (7489)", 
     "basic": {
         "class_num": "7489", 
-        "subject": "PRAC", 
-        "status": "Open", 
         "course": "110A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "200", 
+        "status": "Open", 
+        "subject": "PRAC", 
         "type": "PRA", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "200-PRA (7489)", 
     "classes": [
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "White, Anne F"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }
     ]
 }

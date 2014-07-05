@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Microeconomic issues: land, labor, credit, and insurance markets; duality; alternate views of the role and evolution of non-market institutions in the development process. Macroeconomic issues: urban migration; inequality and development; population growth and technical change; internal factor accumulation versus TFP growth. Offered concurrently with ECON 835/3.0.", 
+        "number": "435", 
+        "subject": "ECON", 
+        "title": "Development Economics"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite of ECON239 and 310 and a corequisite of ECON351.\u00a0 Permission of department is required.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Microeconomic issues: land, labor, credit, and insurance markets; duality; alternate views of the role and evolution of non-market institutions in the development process. Macroeconomic issues: urban migration; inequality and development; population growth and technical change; internal factor accumulation versus TFP growth. Offered concurrently with ECON 835/3.0.", 
-        "subject": "ECON", 
-        "number": "435", 
-        "title": "Development Economics"
     }
 }

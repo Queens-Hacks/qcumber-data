@@ -1,24 +1,24 @@
 {
+    "_unique": "001-LAB (4212)", 
     "basic": {
         "class_num": "4212", 
-        "subject": "LISC", 
-        "status": "Open", 
         "course": "391", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LISC", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LAB (4212)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
             "day_of_week": 4, 
-            "location": "MEDS RM401A - Pharmacoloy & Ph"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "MEDS RM401A - Pharmacoloy & Ph", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

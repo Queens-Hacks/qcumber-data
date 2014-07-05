@@ -1,69 +1,69 @@
 {
+    "_unique": "001-FLD (1996)", 
     "basic": {
         "class_num": "1996", 
-        "subject": "ENSC", 
-        "status": "Closed", 
         "course": "471", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "ENSC", 
         "type": "FLD", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-FLD (1996)", 
     "classes": [
         {
-            "term_end": "2014-05-09T00:00:00", 
-            "term_start": "2014-04-28T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 4, 
-            "location": "HUMPHREY RM132"
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-05-09T00:00:00", 
+            "term_start": "2014-04-28T00:00:00"
         }, 
         {
-            "term_end": "2014-05-09T00:00:00", 
-            "term_start": "2014-04-28T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 3, 
-            "location": "HUMPHREY RM132"
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-05-09T00:00:00", 
+            "term_start": "2014-04-28T00:00:00"
         }, 
         {
-            "term_end": "2014-05-09T00:00:00", 
-            "term_start": "2014-04-28T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 2, 
-            "location": "HUMPHREY RM132"
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-05-09T00:00:00", 
+            "term_start": "2014-04-28T00:00:00"
         }, 
         {
-            "term_end": "2014-05-09T00:00:00", 
-            "term_start": "2014-04-28T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 1, 
-            "location": "HUMPHREY RM132"
-        }, 
-        {
-            "term_end": "2014-05-02T00:00:00", 
-            "term_start": "2014-05-02T00:00:00", 
-            "instructors": [], 
             "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 5, 
-            "location": "HUMPHREY RM132"
-        }, 
-        {
             "term_end": "2014-05-09T00:00:00", 
-            "term_start": "2014-05-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
+            "term_start": "2014-04-28T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "HUMPHREY RM223"
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-05-02T00:00:00", 
+            "term_start": "2014-05-02T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM223", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-05-09T00:00:00", 
+            "term_start": "2014-05-09T00:00:00"
         }
     ]
 }

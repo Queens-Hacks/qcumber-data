@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A lecture/seminar course designed to provide a comprehensive perspective of the field of social psychology as it applies to sport and physical activity settings. Historical, broad theoretical frameworks and methodological considerations will be examined.\u00a0", 
+        "number": "865", 
+        "subject": "KHS", 
+        "title": "Soc. Psych Of Sport & Exercise"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A lecture/seminar course designed to provide a comprehensive perspective of the field of social psychology as it applies to sport and physical activity settings. Historical, broad theoretical frameworks and methodological considerations will be examined.\u00a0", 
-        "subject": "KHS", 
-        "number": "865", 
-        "title": "Soc. Psych Of Sport & Exercise"
     }
 }

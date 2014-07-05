@@ -1,81 +1,81 @@
 {
+    "_unique": "004-LAB (3329)", 
     "basic": {
         "class_num": "3329", 
-        "subject": "ELEC", 
-        "status": "Open", 
         "course": "353", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "004", 
+        "status": "Open", 
+        "subject": "ELEC", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "004-LAB (3329)", 
     "classes": [
         {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Saavedra, Carlos E"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-09-21T00:00:00", 
-            "term_start": "2014-09-15T00:00:00", 
+            "term_start": "2014-09-15T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Saavedra, Carlos E"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM314", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "BEAMISH-MUNRO RM314"
-        }, 
-        {
             "term_end": "2014-10-05T00:00:00", 
-            "term_start": "2014-09-29T00:00:00", 
+            "term_start": "2014-09-29T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Saavedra, Carlos E"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM314", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "BEAMISH-MUNRO RM314"
-        }, 
-        {
             "term_end": "2014-10-19T00:00:00", 
-            "term_start": "2014-10-13T00:00:00", 
+            "term_start": "2014-10-13T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Saavedra, Carlos E"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM314", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "BEAMISH-MUNRO RM314"
-        }, 
-        {
             "term_end": "2014-11-02T00:00:00", 
-            "term_start": "2014-10-27T00:00:00", 
+            "term_start": "2014-10-27T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Saavedra, Carlos E"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM314", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "BEAMISH-MUNRO RM314"
-        }, 
-        {
             "term_end": "2014-11-16T00:00:00", 
-            "term_start": "2014-11-10T00:00:00", 
-            "instructors": [
-                "Saavedra, Carlos E"
-            ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "BEAMISH-MUNRO RM314"
+            "term_start": "2014-11-10T00:00:00"
         }, 
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Saavedra, Carlos E"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "BEAMISH-MUNRO RM314", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 1, 
-            "location": "BEAMISH-MUNRO RM314"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

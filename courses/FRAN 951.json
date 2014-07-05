@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "\u00c9tude sp\u00e9cialis\u00e9e dans un contexte comparatif d'auteurs, de th\u00e8mes, de mouvements, de p\u00e9riodes, de genres, de formes litt\u00e9raires, ou d'un ensemble de ces \u00e9l\u00e9ments. Ce cours sera donn\u00e9 conjointement avec CLAS-851*, ENGL-951*, GRMN-890*, SPAN-807*. Ne sera pas donn\u00e9 en 2010-2011.", 
+        "number": "951", 
+        "subject": "FRAN", 
+        "title": "Litt\u00e9rature compar\u00e9e II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "\u00c9tude sp\u00e9cialis\u00e9e dans un contexte comparatif d'auteurs, de th\u00e8mes, de mouvements, de p\u00e9riodes, de genres, de formes litt\u00e9raires, ou d'un ensemble de ces \u00e9l\u00e9ments. Ce cours sera donn\u00e9 conjointement avec CLAS-851*, ENGL-951*, GRMN-890*, SPAN-807*. Ne sera pas donn\u00e9 en 2010-2011.", 
-        "subject": "FRAN", 
-        "number": "951", 
-        "title": "Litt\u00e9rature compar\u00e9e II"
     }
 }

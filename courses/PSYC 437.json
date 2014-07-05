@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An intensive study of the state of research and controversies in the area of mood disorders. Specific topics covered will include bio-genetic, cognitive, interpersonal, and\u00a0stress theories of etiology, as well as state-of-the-art advances in\u00a0treatment.", 
+        "number": "437", 
+        "subject": "PSYC", 
+        "title": "Mood Disorders"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
         }, 
         "enrollment_requirement": "(PSYC203 AND PSYC235)", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An intensive study of the state of research and controversies in the area of mood disorders. Specific topics covered will include bio-genetic, cognitive, interpersonal, and\u00a0stress theories of etiology, as well as state-of-the-art advances in\u00a0treatment.", 
-        "subject": "PSYC", 
-        "number": "437", 
-        "title": "Mood Disorders"
     }
 }

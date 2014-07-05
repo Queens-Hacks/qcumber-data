@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course introduces basic concepts in microeconomics and macroeconomics to students who have had limited exposure to economics. It focuses on issues relevant to the public sector.", 
+        "number": "804A", 
+        "subject": "MPA", 
+        "title": "Principles Of Economics"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "This course introduces basic concepts in microeconomics and macroeconomics to students who have had limited exposure to economics. It focuses on issues relevant to the public sector.", 
-        "subject": "MPA", 
-        "number": "804A", 
-        "title": "Principles Of Economics"
     }
 }

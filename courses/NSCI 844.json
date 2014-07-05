@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Students will acquire critical enquiry skills through learning modules; each containing components necessary for the completion of a critical enquiry project. Learning module topics include but are not limited to developing research questions, searching for evidence, appraising research evidence and outcome measures, appraising published research and study designs, and research ethics. The project is normally executed as a portfolio of assignments demonstrating the creation and pursuit of a research question. In some cases, learning objectives may be met by the completion of a research project under the guidance of a faculty supervisor.", 
+        "number": "844", 
+        "subject": "NSCI", 
+        "title": "Critical Enquiry Project"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required", 
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Students will acquire critical enquiry skills through learning modules; each containing components necessary for the completion of a critical enquiry project. Learning module topics include but are not limited to developing research questions, searching for evidence, appraising research evidence and outcome measures, appraising published research and study designs, and research ethics. The project is normally executed as a portfolio of assignments demonstrating the creation and pursuit of a research question. In some cases, learning objectives may be met by the completion of a research project under the guidance of a faculty supervisor.", 
-        "subject": "NSCI", 
-        "number": "844", 
-        "title": "Critical Enquiry Project"
     }
 }

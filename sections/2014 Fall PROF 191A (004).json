@@ -1,37 +1,37 @@
 {
+    "_unique": "004-LEC (2328)", 
     "basic": {
         "class_num": "2328", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "191A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "004", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "004-LEC (2328)", 
     "classes": [
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Alderson, Craig"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 5, 
-            "location": "TBA"
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Alderson, Craig"
             ], 
-            "end_time": "1900-01-01T10:30:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 5, 
-            "location": "TBA"
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

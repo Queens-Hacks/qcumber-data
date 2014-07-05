@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A survey of Italian literature, through selected texts of representative authors, from the Middle Ages to the eighteenth century.", 
+        "number": "233", 
+        "subject": "LLCU", 
+        "title": "Survey of Italian Literature I"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or perm of the Dept. of Languages, Literatures and Cultures.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from LLCU233; ITLN233; ITLN331.\r\nEquivalency\u00a0\u00a0\u00a0 ITLN233.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A survey of Italian literature, through selected texts of representative authors, from the Middle Ages to the eighteenth century.", 
-        "subject": "LLCU", 
-        "number": "233", 
-        "title": "Survey of Italian Literature I"
     }
 }

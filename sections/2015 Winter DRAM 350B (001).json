@@ -1,26 +1,26 @@
 {
+    "_unique": "001-PRA (8088)", 
     "basic": {
         "class_num": "8088", 
-        "subject": "DRAM", 
-        "status": "Open", 
         "course": "350B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DRAM", 
         "type": "PRA", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-PRA (8088)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Moses, Daniel David"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "THEOLOGICAL RM118", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 3, 
-            "location": "THEOLOGICAL RM118"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

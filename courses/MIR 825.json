@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The focus of this course is to provide students with the tools required to create and maintain a culture of human rights in the workplace. Through the use of case studies, students will learn how to apply legal principles and law to develop practical solutions to the challenges they are sure to face.", 
+        "number": "825", 
+        "subject": "MIR", 
+        "title": "Human Rights Law"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "MIR Programs:\u00a0 Restricted to grad students enrolled in MIR programs or approval of program director. Excl MIR 820 A&B", 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The focus of this course is to provide students with the tools required to create and maintain a culture of human rights in the workplace. Through the use of case studies, students will learn how to apply legal principles and law to develop practical solutions to the challenges they are sure to face.", 
-        "subject": "MIR", 
-        "number": "825", 
-        "title": "Human Rights Law"
     }
 }

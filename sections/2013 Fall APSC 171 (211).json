@@ -1,33 +1,33 @@
 {
+    "_unique": "211-TUT (1473)", 
     "basic": {
         "class_num": "1473", 
-        "subject": "APSC", 
-        "status": "Closed", 
         "course": "171", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "211", 
+        "status": "Closed", 
+        "subject": "APSC", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "211-TUT (1473)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-16T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 1, 
-            "location": "JEFFERY RM234"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-16T00:00:00"
         }, 
         {
-            "term_end": "2013-10-16T00:00:00", 
-            "term_start": "2013-10-15T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T18:30:00", 
-            "start_time": "1900-01-01T17:30:00", 
             "day_of_week": 2, 
-            "location": "JEFFERY RM234"
+            "end_time": "1900-01-01T18:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "1900-01-01T17:30:00", 
+            "term_end": "2013-10-16T00:00:00", 
+            "term_start": "2013-10-15T00:00:00"
         }
     ]
 }

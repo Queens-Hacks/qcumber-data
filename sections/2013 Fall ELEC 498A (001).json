@@ -1,26 +1,26 @@
 {
+    "_unique": "001-PRJ (3177)", 
     "basic": {
         "class_num": "3177", 
-        "subject": "ELEC", 
-        "status": "Open", 
         "course": "498A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ELEC", 
         "type": "PRJ", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-PRJ (3177)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T12:30:00", 
             "instructors": [
                 "Greenspan, Michael Alan"
             ], 
-            "end_time": "1900-01-01T12:30:00", 
+            "location": "DUPUIS RM217", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 4, 
-            "location": "DUPUIS RM217"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

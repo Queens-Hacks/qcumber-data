@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of selected visual representations of the British landscape, from 18th-century paintings to recent developments in a variety of media such as sculpture and earthworks. Issues of national identity, collecting and exhibiting will be addressed. \r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader International Study Centre, Herstmonceux. Students must participate in field trips.", 
+        "number": "336", 
+        "subject": "ARTH", 
+        "title": "British Landscape Art"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of third year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of selected visual representations of the British landscape, from 18th-century paintings to recent developments in a variety of media such as sculpture and earthworks. Issues of national identity, collecting and exhibiting will be addressed. \r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader International Study Centre, Herstmonceux. Students must participate in field trips.", 
-        "subject": "ARTH", 
-        "number": "336", 
-        "title": "British Landscape Art"
     }
 }

@@ -1,1 +1,15 @@
-{"isbn_13": "9780679772835", "isbn_10": "0679772839", "classified_info": "0 classified listings", "new_price": "$18.90", "used_price": "$14.18", "authors": "David Thomson", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13742-FILM400-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", "courses": ["FILM 400"], "required": true, "new_available": 20, "title": "Rosebud"}
+{
+    "authors": "David Thomson", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "FILM 400"
+    ], 
+    "isbn_10": "0679772839", 
+    "isbn_13": "9780679772835", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13742-FILM400-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", 
+    "new_available": 20, 
+    "new_price": "$18.90", 
+    "required": true, 
+    "title": "Rosebud", 
+    "used_price": "$14.18"
+}

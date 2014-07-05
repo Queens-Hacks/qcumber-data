@@ -1,1 +1,15 @@
-{"isbn_13": "9780199535545", "isbn_10": "019953554X", "classified_info": "0 classified listings", "new_price": "$4.69", "used_price": "$3.52", "authors": "Jane Austen, Claudia L. Johnson", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13667-ENGL851-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["ENGL 851"], "required": true, "new_available": 15, "title": "Northanger Abbey, Lady Susan, The Watsons, Sanditon"}
+{
+    "authors": "Jane Austen, Claudia L. Johnson", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 851"
+    ], 
+    "isbn_10": "019953554X", 
+    "isbn_13": "9780199535545", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13667-ENGL851-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 15, 
+    "new_price": "$4.69", 
+    "required": true, 
+    "title": "Northanger Abbey, Lady Susan, The Watsons, Sanditon", 
+    "used_price": "$3.52"
+}

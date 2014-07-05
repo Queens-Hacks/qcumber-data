@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (1203)", 
     "basic": {
         "class_num": "1203", 
-        "subject": "LAW", 
-        "status": "Closed", 
         "course": "307", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-SEM (1203)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-03T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T18:00:00", 
             "instructors": [
                 "Peppin, Patricia Jane"
             ], 
-            "end_time": "1900-01-01T18:00:00", 
+            "location": "MACDONALD RM515", 
             "start_time": "1900-01-01T15:00:00", 
-            "day_of_week": 4, 
-            "location": "MACDONALD RM515"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-03T00:00:00"
         }
     ]
 }

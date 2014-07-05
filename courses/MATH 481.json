@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to mathematical logic, including some of the following topics: syntax of first-order theories, Peano arithmetic, G\u00f6del's first incompleteness theorem, sentences undecidable in Peano arithmetic, G\u00f6del's second incompleteness theorem, and the Hilbert program and philosophical consequences of G\u00f6del's theorems.", 
+        "number": "481", 
+        "subject": "MATH", 
+        "title": "Mathematical Logic"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Reading": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 Level 3 or 4 and registration in a MATH or PHIL Plan and at least one MATH course at the 100 level or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to mathematical logic, including some of the following topics: syntax of first-order theories, Peano arithmetic, G\u00f6del's first incompleteness theorem, sentences undecidable in Peano arithmetic, G\u00f6del's second incompleteness theorem, and the Hilbert program and philosophical consequences of G\u00f6del's theorems.", 
-        "subject": "MATH", 
-        "number": "481", 
-        "title": "Mathematical Logic"
     }
 }

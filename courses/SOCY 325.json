@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Building from the material in SOCY 226/3.0 and SOCY 227/3.0, this course shows how some of the strains of classical sociological theory and new forms of social theorizing have been developed since the early part of the twentieth century. A variety of theoretical schools are examined with some in greater depth than others.", 
+        "number": "325", 
+        "subject": "SOCY", 
+        "title": "Contemporary Social Theories I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 SOCY227 or SOCY221", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Building from the material in SOCY 226/3.0 and SOCY 227/3.0, this course shows how some of the strains of classical sociological theory and new forms of social theorizing have been developed since the early part of the twentieth century. A variety of theoretical schools are examined with some in greater depth than others.", 
-        "subject": "SOCY", 
-        "number": "325", 
-        "title": "Contemporary Social Theories I"
     }
 }

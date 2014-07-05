@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An examination and discussion of the economic and social history of Sub-Saharan Africa with a primary focus on the 19th and 20th centuries.", 
+        "number": "470", 
+        "subject": "HIST", 
+        "title": "The Development of Capitalism in Africa"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "typically_offered": "Fall", 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A Grade of C in 3.0 units from HIST 300-329 and registration in a HIST Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "An examination and discussion of the economic and social history of Sub-Saharan Africa with a primary focus on the 19th and 20th centuries.", 
-        "subject": "HIST", 
-        "number": "470", 
-        "title": "The Development of Capitalism in Africa"
     }
 }

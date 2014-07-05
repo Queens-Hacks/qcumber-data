@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A\u00a0survey of famous and lesser-known works of painting, sculpture, architecture, and other art forms from Antiquity, the Middle Ages, the Renaissance, the Baroque, and the Modern Age. Themes include politics, religion, mythology, gender roles, techniques, conservation and intersections with non-western cultures.", 
+        "number": "120B", 
+        "subject": "ARTH", 
+        "title": "Art in the West from Antiquity to Modernity"
+    }, 
     "extra": {
-        "career": "Distance Studies", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A\u00a0survey of famous and lesser-known works of painting, sculpture, architecture, and other art forms from Antiquity, the Middle Ages, the Renaissance, the Baroque, and the Modern Age. Themes include politics, religion, mythology, gender roles, techniques, conservation and intersections with non-western cultures.", 
-        "subject": "ARTH", 
-        "number": "120B", 
-        "title": "Art in the West from Antiquity to Modernity"
     }
 }

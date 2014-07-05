@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Affirms a societal rationale and framework for due diligence in health, safety and environment (HS&E). Considers the five principal categories of workplace environmental factors that may lead to ill health / death, and introduces the principles (strategies and techniques) of exposure assessment (relative to both regulatory and professional standards) and control, as part of the Anticipation-Recognition-Evaluation-Communication-Control sequence. Enables the student to resolve, by means of memorandum, a specific topical occupational health issue. In addition to providing the basic tools for undertaking occupational health risk assessment / management, reviews fundamental chemical (non-toxicological) hazards and risk parameters.", 
+        "number": "462", 
+        "subject": "MINE", 
+        "title": "Occ Hlth/Safety In Mining Prac"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 42, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Must be registered in a BSCE program", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 42
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Affirms a societal rationale and framework for due diligence in health, safety and environment (HS&E). Considers the five principal categories of workplace environmental factors that may lead to ill health / death, and introduces the principles (strategies and techniques) of exposure assessment (relative to both regulatory and professional standards) and control, as part of the Anticipation-Recognition-Evaluation-Communication-Control sequence. Enables the student to resolve, by means of memorandum, a specific topical occupational health issue. In addition to providing the basic tools for undertaking occupational health risk assessment / management, reviews fundamental chemical (non-toxicological) hazards and risk parameters.", 
-        "subject": "MINE", 
-        "number": "462", 
-        "title": "Occ Hlth/Safety In Mining Prac"
     }
 }

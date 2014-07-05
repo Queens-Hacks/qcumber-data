@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Review of MOS transistor structure and operation; overview of wafer processing and device implementation, layout and design rules. CMOS gate design; static and dynamic logic; modelling of transients and delays. Clocked circuits; interconnect effects, and I/O. Memory and programmable logic arrays. Technology scaling effects; design styles and flow.", 
+        "number": "451", 
+        "subject": "ELEC", 
+        "title": "Digital Int Circuit Eng"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 18, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of ELEC353 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 18, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Review of MOS transistor structure and operation; overview of wafer processing and device implementation, layout and design rules. CMOS gate design; static and dynamic logic; modelling of transients and delays. Clocked circuits; interconnect effects, and I/O. Memory and programmable logic arrays. Technology scaling effects; design styles and flow.", 
-        "subject": "ELEC", 
-        "number": "451", 
-        "title": "Digital Int Circuit Eng"
     }
 }

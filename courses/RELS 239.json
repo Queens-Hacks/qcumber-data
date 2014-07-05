@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will provide an overview of the relatively new and expanding body of research that examines the relationship between sport, spirituality and religion. Topics including play, games, flow, ritual, prayer, sports stars as role models, doping, fandom and miracles in sport will be explored.", 
+        "number": "239", 
+        "subject": "RELS", 
+        "title": "Religion and Sport"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 Level 2 or above or 6.0 units at the 100 level in RELS", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will provide an overview of the relatively new and expanding body of research that examines the relationship between sport, spirituality and religion. Topics including play, games, flow, ritual, prayer, sports stars as role models, doping, fandom and miracles in sport will be explored.", 
-        "subject": "RELS", 
-        "number": "239", 
-        "title": "Religion and Sport"
     }
 }

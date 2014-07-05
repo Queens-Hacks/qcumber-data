@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course examines the multi-ethnic, multi-confessional nature of the lands of the former Russian Empire and Soviet Union, focusing on the borderlands. Topics include nationality policies, the status of Muslims and Jews, definitions of Empire, and the treatment of linguistic minorities.", 
+        "number": "364", 
+        "subject": "HIST", 
+        "title": "Imperial Borderlands: Russia and the Soviet Union"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A Grade of C+ in 6.0 units from HIST 300-329 and registration in a HIST Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "This course examines the multi-ethnic, multi-confessional nature of the lands of the former Russian Empire and Soviet Union, focusing on the borderlands. Topics include nationality policies, the status of Muslims and Jews, definitions of Empire, and the treatment of linguistic minorities.", 
-        "subject": "HIST", 
-        "number": "364", 
-        "title": "Imperial Borderlands: Russia and the Soviet Union"
     }
 }

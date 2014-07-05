@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides a forum to discuss practical, ethical and methodological issues in conducting development research and writing, including major research papers, thesis work, and grant applications. All Global Development Studies graduate students will be enrolled in this course.", 
+        "number": "850", 
+        "subject": "DEVS", 
+        "title": "Professional Seminar in Development Studies"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides a forum to discuss practical, ethical and methodological issues in conducting development research and writing, including major research papers, thesis work, and grant applications. All Global Development Studies graduate students will be enrolled in this course.", 
-        "subject": "DEVS", 
-        "number": "850", 
-        "title": "Professional Seminar in Development Studies"
     }
 }

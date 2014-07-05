@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "736", 
+        "subject": "THEO", 
+        "title": "Church's Educational Ministry"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Reading": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "THEO", 
-        "number": "736", 
-        "title": "Church's Educational Ministry"
     }
 }

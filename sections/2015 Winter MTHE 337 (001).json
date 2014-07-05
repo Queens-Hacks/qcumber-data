@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (8174)", 
     "basic": {
         "class_num": "8174", 
-        "subject": "MTHE", 
-        "status": "Open", 
         "course": "337", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MTHE", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (8174)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Li, Ping"
-            ], 
-            "end_time": "1900-01-01T13:30:00", 
-            "start_time": "1900-01-01T12:30:00", 
             "day_of_week": 1, 
-            "location": "JEFFERY RM118"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "end_time": "1900-01-01T13:30:00", 
             "instructors": [
                 "Li, Ping"
             ], 
-            "end_time": "1900-01-01T12:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
+            "location": "JEFFERY RM118", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "JEFFERY RM118"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "end_time": "1900-01-01T12:30:00", 
             "instructors": [
                 "Li, Ping"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T13:30:00", 
+            "location": "JEFFERY RM118", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "JEFFERY RM118"
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Li, Ping"
+            ], 
+            "location": "JEFFERY RM118", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

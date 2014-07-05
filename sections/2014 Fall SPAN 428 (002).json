@@ -1,26 +1,26 @@
 {
+    "_unique": "002-TUT (5969)", 
     "basic": {
         "class_num": "5969", 
-        "subject": "SPAN", 
-        "status": "Open", 
         "course": "428", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "SPAN", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-TUT (5969)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T21:30:00", 
             "instructors": [
                 "Mennell, Jan D"
             ], 
-            "end_time": "1900-01-01T21:30:00", 
+            "location": "KINGSTON RM200", 
             "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 2, 
-            "location": "KINGSTON RM200"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

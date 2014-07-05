@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course includes four modules that deal with basic issues and concepts at the Primary-Junior level in the following areas:\u00a0 assessment and evaluation, psychology of learning and development, philosophy of education, and social contexts of education. The social contexts module may encompass concepts from both sociology of education and history of education. Each module will involve a set of readings and an assignment or other assessment procedure. Module instructors may choose a large group presentation format, an online format, or combination of both. Teacher candidates must receive a passing grade in all four modules in order to pass the course.\u00a0", 
+        "number": "150", 
+        "subject": "PROF", 
+        "title": "Concepts in Teaching&Learning"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course includes four modules that deal with basic issues and concepts at the Primary-Junior level in the following areas:\u00a0 assessment and evaluation, psychology of learning and development, philosophy of education, and social contexts of education. The social contexts module may encompass concepts from both sociology of education and history of education. Each module will involve a set of readings and an assignment or other assessment procedure. Module instructors may choose a large group presentation format, an online format, or combination of both. Teacher candidates must receive a passing grade in all four modules in order to pass the course.\u00a0", 
-        "subject": "PROF", 
-        "number": "150", 
-        "title": "Concepts in Teaching&Learning"
     }
 }

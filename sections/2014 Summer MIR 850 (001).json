@@ -1,70 +1,70 @@
 {
+    "_unique": "001-LEC (2141)", 
     "basic": {
         "class_num": "2141", 
-        "subject": "MIR", 
-        "status": "Closed", 
         "course": "850", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MIR", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2141)", 
     "classes": [
         {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
-            "instructors": [
-                "Rowbotham, Kate"
-            ], 
-            "end_time": "1900-01-01T11:20:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 5, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
+            "end_time": "1900-01-01T11:20:00", 
             "instructors": [
                 "Rowbotham, Kate"
             ], 
-            "end_time": "1900-01-01T11:20:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
+            "end_time": "1900-01-01T11:20:00", 
             "instructors": [
                 "Rowbotham, Kate"
             ], 
-            "end_time": "1900-01-01T11:20:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
+            "end_time": "1900-01-01T11:20:00", 
             "instructors": [
                 "Rowbotham, Kate"
             ], 
-            "end_time": "1900-01-01T11:20:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "TBA"
-        }, 
-        {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
+            "end_time": "1900-01-01T11:20:00", 
             "instructors": [
                 "Rowbotham, Kate"
             ], 
-            "end_time": "1900-01-01T11:20:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
+        }, 
+        {
             "day_of_week": 1, 
-            "location": "TBA"
+            "end_time": "1900-01-01T11:20:00", 
+            "instructors": [
+                "Rowbotham, Kate"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
         }
     ]
 }

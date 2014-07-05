@@ -1,1 +1,15 @@
-{"isbn_13": "9782200244460", "isbn_10": "2200244460", "classified_info": "0 classified listings", "new_price": "$17.01", "used_price": "$12.76", "authors": "Fromilhague  C.", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13793-FREN220-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", "courses": ["FREN 220"], "required": true, "new_available": 8, "title": "les figures de style"}
+{
+    "authors": "Fromilhague  C.", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "FREN 220"
+    ], 
+    "isbn_10": "2200244460", 
+    "isbn_13": "9782200244460", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13793-FREN220-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", 
+    "new_available": 8, 
+    "new_price": "$17.01", 
+    "required": true, 
+    "title": "les figures de style", 
+    "used_price": "$12.76"
+}

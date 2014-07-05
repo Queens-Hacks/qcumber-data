@@ -1,25 +1,25 @@
 {
-    "extra": {
-        "career": "Undergraduate", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 36
-        }, 
-        "grading_basis": "Graded", 
-        "course_components": {
-            "Laboratory": "Required", 
-            "Tutorial": "Required", 
-            "Lecture": "Required"
-        }, 
-        "units": "3.00"
-    }, 
     "basic": {
         "description": "This course will cover the knowledge areas and processes of the globally-recognized PM Body of Knowledge: integration, scope, cost, time, risk, human resources, stakeholders and procurement management.\u00a0The focus will be a practical, applied approach, utilizing the global city of London, its engineering firms, experts, practitioners and massive engineering undertakings (The Shard, Cross-Rail, the Eurotunnel, the Thames Barrier, etc.) to investigate the problems, challenges and successes of managing global engineering projects. Note that the first week of instruction for this course will be held at Queen's, prior to the start of the 6-week BISC-based workshop.", 
-        "subject": "APSC", 
         "number": "223", 
+        "subject": "APSC", 
         "title": "Global Project Management"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 36, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
     }
 }

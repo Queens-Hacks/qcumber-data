@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Further development of French business skills, with emphasis on vocabulary building to further enhance written and oral expression in the context of current business issues.", 
+        "number": "384", 
+        "subject": "FREN", 
+        "title": "Le fran\u00e7ais des affaires II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 FREN201 or FREN202 or FREN220 or FREN221 or FREN283", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Further development of French business skills, with emphasis on vocabulary building to further enhance written and oral expression in the context of current business issues.", 
-        "subject": "FREN", 
-        "number": "384", 
-        "title": "Le fran\u00e7ais des affaires II"
     }
 }

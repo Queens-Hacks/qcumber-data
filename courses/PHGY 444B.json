@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The mechanisms and regulation of motor, secretory, digestive, and absorptive functions of the gastrointestinal tract are considered in lectures and seminars. Students are required to prepare and present reviews of original literature. NOTE\u00a0\u00a0\u00a0 The normal classroom time of 36 hours is spread over two terms. Enrolment is limited.", 
+        "number": "444B", 
+        "subject": "PHGY", 
+        "title": "Gastrointestinal Physiology"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The mechanisms and regulation of motor, secretory, digestive, and absorptive functions of the gastrointestinal tract are considered in lectures and seminars. Students are required to prepare and present reviews of original literature. NOTE\u00a0\u00a0\u00a0 The normal classroom time of 36 hours is spread over two terms. Enrolment is limited.", 
-        "subject": "PHGY", 
-        "number": "444B", 
-        "title": "Gastrointestinal Physiology"
     }
 }

@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Introduces students to the profession of nursing. Professional relationships and therapeutic communication are the focus of this course. Critical thinking and problem-solving in nursing practice are introduced. Legal and ethical concepts are explored. The professional expectation of reflective, evidence-based practice is introduced. Students are exposed to a variety of nursing roles through class presentations.\u00a0\u00a02 hours lecture, 2 hour Clinical Education Centre per week; 9 units (3 credits)\u00a0course weight.", 
+        "number": "101", 
+        "subject": "NURS", 
+        "title": "Intro To The Profession Of Nur"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduces students to the profession of nursing. Professional relationships and therapeutic communication are the focus of this course. Critical thinking and problem-solving in nursing practice are introduced. Legal and ethical concepts are explored. The professional expectation of reflective, evidence-based practice is introduced. Students are exposed to a variety of nursing roles through class presentations.\u00a0\u00a02 hours lecture, 2 hour Clinical Education Centre per week; 9 units (3 credits)\u00a0course weight.", 
-        "subject": "NURS", 
-        "number": "101", 
-        "title": "Intro To The Profession Of Nur"
     }
 }

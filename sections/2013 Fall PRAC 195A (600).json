@@ -1,24 +1,24 @@
 {
+    "_unique": "600-LEC (8541)", 
     "basic": {
         "class_num": "8541", 
-        "subject": "PRAC", 
-        "status": "Open", 
         "course": "195A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "600", 
+        "status": "Open", 
+        "subject": "PRAC", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "600-LEC (8541)", 
     "classes": [
         {
-            "term_end": "2013-12-20T00:00:00", 
-            "term_start": "2013-09-04T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2013-12-20T00:00:00", 
+            "term_start": "2013-09-04T00:00:00"
         }
     ]
 }

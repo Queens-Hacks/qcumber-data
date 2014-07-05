@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The Correctional Law Project is a specialized legal clinic that provides legal advice, assistance and representation to prisoners in the eight penitentiaries in the Kingston area.This clinical course provides students with the opportunity to develop essential lawyering skills by becoming involved in the legal practice carried on by the Correctional Law Project.\u00a0 Students will interview prisoner clients and represent them at trials in Penitentiary Disciplinary Courts and at Hearings before the Parole Board of Canada.\u00a0 Students will also be involved in providing legal advice and assistance to prisoner clients on a variety of other matters.\u00a0 Through the experience of involvement in the Project's legal practice, students will have many opportunities to develop skills in advocacy, interviewing clients, legal analysis and managing effective solicitor/client relationships. Instruction is provided through lectures and through individual supervision of student casework by the Project lawyers.PREREQUISITE Completion of all first year J.D. Courses", 
+        "number": "418B", 
+        "subject": "LAW", 
+        "title": "Clinical Prison Law"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall, Winter", 
         "units": "8.00"
-    }, 
-    "basic": {
-        "description": "The Correctional Law Project is a specialized legal clinic that provides legal advice, assistance and representation to prisoners in the eight penitentiaries in the Kingston area.This clinical course provides students with the opportunity to develop essential lawyering skills by becoming involved in the legal practice carried on by the Correctional Law Project.\u00a0 Students will interview prisoner clients and represent them at trials in Penitentiary Disciplinary Courts and at Hearings before the Parole Board of Canada.\u00a0 Students will also be involved in providing legal advice and assistance to prisoner clients on a variety of other matters.\u00a0 Through the experience of involvement in the Project's legal practice, students will have many opportunities to develop skills in advocacy, interviewing clients, legal analysis and managing effective solicitor/client relationships. Instruction is provided through lectures and through individual supervision of student casework by the Project lawyers.PREREQUISITE Completion of all first year J.D. Courses", 
-        "subject": "LAW", 
-        "number": "418B", 
-        "title": "Clinical Prison Law"
     }
 }

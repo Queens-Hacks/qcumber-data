@@ -1,26 +1,26 @@
 {
+    "_unique": "701-TUT (8131)", 
     "basic": {
         "class_num": "8131", 
-        "subject": "ARTH", 
-        "status": "Open", 
         "course": "120B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "701", 
+        "status": "Open", 
+        "subject": "ARTH", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "701-TUT (8131)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Russell Corbett, Jane P"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

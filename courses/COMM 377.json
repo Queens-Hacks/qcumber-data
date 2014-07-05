@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "In this course we analyze business situations from the perspective of a general manager with overall responsibility for the firm, or for a business unit within the firm. Central to the course is the fact that \u00bf in most business situations - the firm evolves in a competitive environment where the manager\u00bfs actions affect, and are affected by, the actions of rivals. This has a fundamental impact on the way we make optimal decisions.\r\nThis course provides a conceptual framework and a set of simple \u00bftools\u00bf to examine these situations; and emphasizes the application of these concepts to real business situations. As such it relies heavily on the analysis of case studies.\r\nThe course highlights simple techniques from applied game theory that are very useful for understanding a wide array of practical challenges facing the general manager in a competitive environment", 
+        "number": "377", 
+        "subject": "COMM", 
+        "title": "Decision-Making in Competitive Environments"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Admission restricted to third- and fourth- year students in their program.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "In this course we analyze business situations from the perspective of a general manager with overall responsibility for the firm, or for a business unit within the firm. Central to the course is the fact that \u00bf in most business situations - the firm evolves in a competitive environment where the manager\u00bfs actions affect, and are affected by, the actions of rivals. This has a fundamental impact on the way we make optimal decisions.\r\nThis course provides a conceptual framework and a set of simple \u00bftools\u00bf to examine these situations; and emphasizes the application of these concepts to real business situations. As such it relies heavily on the analysis of case studies.\r\nThe course highlights simple techniques from applied game theory that are very useful for understanding a wide array of practical challenges facing the general manager in a competitive environment", 
-        "subject": "COMM", 
-        "number": "377", 
-        "title": "Decision-Making in Competitive Environments"
     }
 }

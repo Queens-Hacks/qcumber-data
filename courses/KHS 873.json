@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This seminar course explores the methodologies of cultural studies in the study of health and physical activity in contemporary and historical contexts. Topics may include the history of cultural studies, inter-disciplinarity, the politics of knowledge, textual analysis, and ethnographic methods.", 
+        "number": "873", 
+        "subject": "KHS", 
+        "title": "Cultural Studies Kin/Health"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This seminar course explores the methodologies of cultural studies in the study of health and physical activity in contemporary and historical contexts. Topics may include the history of cultural studies, inter-disciplinarity, the politics of knowledge, textual analysis, and ethnographic methods.", 
-        "subject": "KHS", 
-        "number": "873", 
-        "title": "Cultural Studies Kin/Health"
     }
 }

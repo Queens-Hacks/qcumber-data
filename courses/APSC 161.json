@@ -1,28 +1,28 @@
 {
+    "basic": {
+        "description": "The principal objective of this course is to develop the ability to visualize and communicate three dimensional shapes. Standard engineering methods are covered.", 
+        "number": "161", 
+        "subject": "APSC", 
+        "title": "Engineering Graphics"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 5, 
+            "Eng Sci": 37, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 5, 
-            "Eng Sci": 37, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "The principal objective of this course is to develop the ability to visualize and communicate three dimensional shapes. Standard engineering methods are covered.", 
-        "subject": "APSC", 
-        "number": "161", 
-        "title": "Engineering Graphics"
     }
 }

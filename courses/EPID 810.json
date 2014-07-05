@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will cover material relevant to the design and conduct of controlled clinical trials. Design topics will include methods used to achieve unbiased results with improved precision, such as adequate sample size, randomization, blinding, pre- and post-stratification, cross-over designs, placebos and the counting of relevant events. Attention will be given to the problems of conducting multi-centre clinical trials. Topics covered will include drafting of protocols, design of data forms, logistics of data flow, methods of follow-up, data management and quality control, periodic reporting, final data analysis and the production of final reports. Ethical issues and the role of randomized trials in clinical investigation will be discussed. Three term-hours, winter.\u00a0R. Meyer, D. Tu", 
+        "number": "810", 
+        "subject": "EPID", 
+        "title": "Controlled Clinical Trials"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will cover material relevant to the design and conduct of controlled clinical trials. Design topics will include methods used to achieve unbiased results with improved precision, such as adequate sample size, randomization, blinding, pre- and post-stratification, cross-over designs, placebos and the counting of relevant events. Attention will be given to the problems of conducting multi-centre clinical trials. Topics covered will include drafting of protocols, design of data forms, logistics of data flow, methods of follow-up, data management and quality control, periodic reporting, final data analysis and the production of final reports. Ethical issues and the role of randomized trials in clinical investigation will be discussed. Three term-hours, winter.\u00a0R. Meyer, D. Tu", 
-        "subject": "EPID", 
-        "number": "810", 
-        "title": "Controlled Clinical Trials"
     }
 }

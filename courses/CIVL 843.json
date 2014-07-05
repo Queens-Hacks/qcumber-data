@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Current theories on the behaviour of partially saturated soils are presented and discussed in lectures with particular attention paid to their application to the topic of slope stability.\u00a0 The slope stability issues of limit analyses, rapid drawdown, seismic analysis, static liquefaction, three-dimensional effects, and the appropriate choice of design parameters will be discussed.\u00a0 Design and seminar projects are usually undertaken in this course. Three term-hours, (every second year beginning 2006-2007).\u00a0", 
+        "number": "843", 
+        "subject": "CIVL", 
+        "title": "Landslides"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Current theories on the behaviour of partially saturated soils are presented and discussed in lectures with particular attention paid to their application to the topic of slope stability.\u00a0 The slope stability issues of limit analyses, rapid drawdown, seismic analysis, static liquefaction, three-dimensional effects, and the appropriate choice of design parameters will be discussed.\u00a0 Design and seminar projects are usually undertaken in this course. Three term-hours, (every second year beginning 2006-2007).\u00a0", 
-        "subject": "CIVL", 
-        "number": "843", 
-        "title": "Landslides"
     }
 }

@@ -1,1 +1,14 @@
-{"isbn_13": "9780749396596", "isbn_10": "0749396598", "classified_info": "0 classified listings", "new_price": "$20.80", "used_price": "$15.60", "authors": "Peter Ackroyd", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13668-ENGL456#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["ENGL 456"], "required": true, "title": "Dan Leno & Limehouse Golem"}
+{
+    "authors": "Peter Ackroyd", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 456"
+    ], 
+    "isbn_10": "0749396598", 
+    "isbn_13": "9780749396596", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13668-ENGL456#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_price": "$20.80", 
+    "required": true, 
+    "title": "Dan Leno & Limehouse Golem", 
+    "used_price": "$15.60"
+}

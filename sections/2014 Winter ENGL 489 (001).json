@@ -1,81 +1,81 @@
 {
+    "_unique": "001-SEM (7155)", 
     "basic": {
         "class_num": "7155", 
-        "subject": "ENGL", 
-        "status": "Closed", 
         "course": "489", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "ENGL", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (7155)", 
     "classes": [
         {
-            "term_end": "2014-01-10T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [
-                "McKegney, Sam Walter"
-            ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:00:00", 
             "day_of_week": 2, 
-            "location": "MACINTOSH-CORRY RM A309"
-        }, 
-        {
-            "term_end": "2014-01-10T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "McKegney, Sam Walter"
             ], 
-            "end_time": "1900-01-01T10:00:00", 
-            "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 4, 
-            "location": "MACINTOSH-CORRY RM A309"
+            "location": "MACINTOSH-CORRY RM A309", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2014-01-10T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [
+                "McKegney, Sam Walter"
+            ], 
+            "location": "MACINTOSH-CORRY RM A309", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-01-10T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "McKegney, Sam Walter"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "1900-01-01T10:00:00", 
             "term_end": "2014-02-10T00:00:00", 
-            "term_start": "2014-01-13T00:00:00", 
-            "instructors": [
-                "McKegney, Sam Walter"
-            ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 2, 
-            "location": "JOHN WATSON RM401"
+            "term_start": "2014-01-13T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-13T00:00:00", 
-            "instructors": [
-                "McKegney, Sam Walter"
-            ], 
-            "end_time": "1900-01-01T10:00:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 4, 
-            "location": "BIOSCI RM2111"
-        }, 
-        {
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [
+                "McKegney, Sam Walter"
+            ], 
+            "location": "BIOSCI RM2111", 
+            "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-02-19T00:00:00", 
-            "instructors": [
-                "McKegney, Sam Walter"
-            ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 2, 
-            "location": "JOHN WATSON RM401"
+            "term_start": "2014-01-13T00:00:00"
         }, 
         {
-            "term_end": "2014-02-18T00:00:00", 
-            "term_start": "2014-02-11T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "McKegney, Sam Walter"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "JOHN WATSON RM401", 
             "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-19T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "STIRLING RM412C"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "McKegney, Sam Walter"
+            ], 
+            "location": "STIRLING RM412C", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2014-02-18T00:00:00", 
+            "term_start": "2014-02-11T00:00:00"
         }
     ]
 }

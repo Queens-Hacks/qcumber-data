@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A basic course in statistical methods with the necessary probability included. Topics include probability models, random variables, distributions, estimation, hypothesis testing, elementary nonparametric methods. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 An Ontario 4U mathematics course or equivalent.", 
+        "number": "263", 
+        "subject": "STAT", 
+        "title": "Introduction to Statistics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 An Ontario 4U MATH course or equivalent.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from STAT263; 267; 367; COMM162; ECON250; PSYC202; SOCY211; BIOL243; CHEE209; GPHY247; KNPE251; POLS385; NURS323.\r\nOne-way Exclusion\u00a0\u00a0 STAT269.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A basic course in statistical methods with the necessary probability included. Topics include probability models, random variables, distributions, estimation, hypothesis testing, elementary nonparametric methods. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 An Ontario 4U mathematics course or equivalent.", 
-        "subject": "STAT", 
-        "number": "263", 
-        "title": "Introduction to Statistics"
     }
 }

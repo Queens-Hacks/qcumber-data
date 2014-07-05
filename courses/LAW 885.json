@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This seminar will explore selected topics in the theory of the private law. Private law theory is concerned with explaining the nature and basis of the rights and obligations that issue from the law of contract, tort, restitution, and property.\u00a0 (To be offered jointly with LAW-315.) Three term-hours; Not offered 2010-2011.", 
+        "number": "885", 
+        "subject": "LAW", 
+        "title": "Private Law Theory"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This seminar will explore selected topics in the theory of the private law. Private law theory is concerned with explaining the nature and basis of the rights and obligations that issue from the law of contract, tort, restitution, and property.\u00a0 (To be offered jointly with LAW-315.) Three term-hours; Not offered 2010-2011.", 
-        "subject": "LAW", 
-        "number": "885", 
-        "title": "Private Law Theory"
     }
 }

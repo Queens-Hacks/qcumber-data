@@ -1,1 +1,13 @@
-{"isbn_13": null, "isbn_10": "88880063924", "classified_info": "0 classified listings", "new_price": "$20.00", "authors": "Watson", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13590-HIST341-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["HIST 341"], "required": true, "title": "Hist341 Let God Be God  02pb   Cbs"}
+{
+    "authors": "Watson", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "HIST 341"
+    ], 
+    "isbn_10": "88880063924", 
+    "isbn_13": null, 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13590-HIST341-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$20.00", 
+    "required": true, 
+    "title": "Hist341 Let God Be God  02pb   Cbs"
+}

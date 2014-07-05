@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "History of French in Canada. The pronunciation, vocabulary, syntax and style of Canadian French. Language planning in Quebec and Canada.\u00a0", 
+        "number": "433", 
+        "subject": "FREN", 
+        "title": "Le fran\u00e7ais au Canada"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 FREN220 and Level 4 and registration in a FREN or FRLG Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "History of French in Canada. The pronunciation, vocabulary, syntax and style of Canadian French. Language planning in Quebec and Canada.\u00a0", 
-        "subject": "FREN", 
-        "number": "433", 
-        "title": "Le fran\u00e7ais au Canada"
     }
 }

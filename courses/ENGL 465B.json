@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "For detailed information, consult the Department.", 
+        "number": "465B", 
+        "subject": "ENGL", 
+        "title": "Studies in Modern/Contemporary Canadian Literature"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "For detailed information, consult the Department.", 
-        "subject": "ENGL", 
-        "number": "465B", 
-        "title": "Studies in Modern/Contemporary Canadian Literature"
     }
 }

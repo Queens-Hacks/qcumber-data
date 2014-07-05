@@ -1,1 +1,15 @@
-{"isbn_13": "9781554072873", "isbn_10": "1554072875", "classified_info": "0 classified listings", "new_price": "$37.90", "used_price": "$28.43", "authors": "Russell King", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13681-GPHY362-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["GPHY 362"], "required": true, "new_available": 66, "title": "Atlas of Human Migration"}
+{
+    "authors": "Russell King", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "GPHY 362"
+    ], 
+    "isbn_10": "1554072875", 
+    "isbn_13": "9781554072873", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13681-GPHY362-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 66, 
+    "new_price": "$37.90", 
+    "required": true, 
+    "title": "Atlas of Human Migration", 
+    "used_price": "$28.43"
+}

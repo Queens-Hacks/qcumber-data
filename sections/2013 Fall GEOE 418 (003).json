@@ -1,37 +1,37 @@
 {
+    "_unique": "003-LAB (7228)", 
     "basic": {
         "class_num": "7228", 
-        "subject": "GEOE", 
-        "status": "Closed", 
         "course": "418", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "GEOE", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "003-LAB (7228)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T22:00:00", 
             "instructors": [
                 "Dalrymple, Robert W"
             ], 
-            "end_time": "1900-01-01T22:00:00", 
+            "location": "BRUCE RM352", 
             "start_time": "1900-01-01T19:00:00", 
-            "day_of_week": 1, 
-            "location": "BRUCE RM352"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T22:00:00", 
             "instructors": [
                 "Dalrymple, Robert W"
             ], 
-            "end_time": "1900-01-01T22:00:00", 
+            "location": "BRUCE RM234A", 
             "start_time": "1900-01-01T19:00:00", 
-            "day_of_week": 1, 
-            "location": "BRUCE RM234A"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

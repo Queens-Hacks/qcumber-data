@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Intended for MBA students in either of the Healthcare Management or Consulting streams, this course examines the relationship between the governance structure of an organization and the establishment and oversight of its strategies. The role of a board of directors is analyzed in terms of its function, duties, structure and composition. Special attention is given to the board\u00bfs role in risk identification, assessment, mitigation, control, response and communication. Different approaches to strategy will be examined and compared, including the balanced scorecard approach. And the board\u00bfs role in the establishment and oversight of strategy will be evaluated. Consideration is given to the differences between for-profit and not-for profit sectors, with particular attention to healthcare.", 
+        "number": "802", 
+        "subject": "MBAS", 
+        "title": "Organizational Governance & Strategy"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intended for MBA students in either of the Healthcare Management or Consulting streams, this course examines the relationship between the governance structure of an organization and the establishment and oversight of its strategies. The role of a board of directors is analyzed in terms of its function, duties, structure and composition. Special attention is given to the board\u00bfs role in risk identification, assessment, mitigation, control, response and communication. Different approaches to strategy will be examined and compared, including the balanced scorecard approach. And the board\u00bfs role in the establishment and oversight of strategy will be evaluated. Consideration is given to the differences between for-profit and not-for profit sectors, with particular attention to healthcare.", 
-        "subject": "MBAS", 
-        "number": "802", 
-        "title": "Organizational Governance & Strategy"
     }
 }

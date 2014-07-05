@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A rigorous examination of the central core of microeconomic theory. Consumer demand, the theory of production, product and factor markets, general equilibrium and some aspects of welfare economics are covered. The emphasis is on techniques of analysis.", 
+        "number": "310", 
+        "subject": "ECON", 
+        "title": "Microeconomic Theory II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "(A grade of C in ECON 212) and ECON255 and (MATH120 or MATH121 or MATH122 or [MATH123 AND MATH124] or MATH126", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A rigorous examination of the central core of microeconomic theory. Consumer demand, the theory of production, product and factor markets, general equilibrium and some aspects of welfare economics are covered. The emphasis is on techniques of analysis.", 
-        "subject": "ECON", 
-        "number": "310", 
-        "title": "Microeconomic Theory II"
     }
 }

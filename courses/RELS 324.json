@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Chinese cultural views of the body, mind and spirit and the connections between traditional Chinese medicine, philosophy and religion.", 
+        "number": "324", 
+        "subject": "RELS", 
+        "title": "Body, Mind and Spirit Chinese Culture"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 3 or above or 6.0 units at the 100 level in RELS", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Chinese cultural views of the body, mind and spirit and the connections between traditional Chinese medicine, philosophy and religion.", 
-        "subject": "RELS", 
-        "number": "324", 
-        "title": "Body, Mind and Spirit Chinese Culture"
     }
 }

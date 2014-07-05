@@ -1,28 +1,28 @@
 {
+    "basic": {
+        "description": "Vectors, dot and cross products, lines and planes, projections. Vectors in n-space. Systems of Linear equations. Matrix algebra and linear transformations, inverses. Spaces and subspaces. Linear independence, basis and coordinates, dimension, rank. Determinants, Cramer's Rule. Eigenvectors, eigenvalues and diagonalization with applications. Orthonormal bases and symmetric matrices.", 
+        "number": "174", 
+        "subject": "APSC", 
+        "title": "Introduction To Linear Algebra"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 42
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 42, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "Vectors, dot and cross products, lines and planes, projections. Vectors in n-space. Systems of Linear equations. Matrix algebra and linear transformations, inverses. Spaces and subspaces. Linear independence, basis and coordinates, dimension, rank. Determinants, Cramer's Rule. Eigenvectors, eigenvalues and diagonalization with applications. Orthonormal bases and symmetric matrices.", 
-        "subject": "APSC", 
-        "number": "174", 
-        "title": "Introduction To Linear Algebra"
     }
 }

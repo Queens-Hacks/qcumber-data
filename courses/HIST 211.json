@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course will explore the origins of the struggle between the postwar superpowers, the United States and the Soviet Union; the changing nature of their rivalry, and the way other nations were drawn into the conflict. It considers the Cold War from Western, Soviet, and various global perspectives.", 
+        "number": "211", 
+        "subject": "HIST", 
+        "title": "The Cold War"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will explore the origins of the struggle between the postwar superpowers, the United States and the Soviet Union; the changing nature of their rivalry, and the way other nations were drawn into the conflict. It considers the Cold War from Western, Soviet, and various global perspectives.", 
-        "subject": "HIST", 
-        "number": "211", 
-        "title": "The Cold War"
     }
 }

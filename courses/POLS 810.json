@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A critical analysis of the literature on Canadian politics. Topics covered include parliamentary institutions, federalism, the courts, multiculturalism and citizenship, Aboriginal politics, women and politics, political economy, interest groups and social movements, the mass media, political parties, public opinion and voting.", 
+        "number": "810", 
+        "subject": "POLS", 
+        "title": "Canadian Politics"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A critical analysis of the literature on Canadian politics. Topics covered include parliamentary institutions, federalism, the courts, multiculturalism and citizenship, Aboriginal politics, women and politics, political economy, interest groups and social movements, the mass media, political parties, public opinion and voting.", 
-        "subject": "POLS", 
-        "number": "810", 
-        "title": "Canadian Politics"
     }
 }

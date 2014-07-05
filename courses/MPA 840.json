@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course applies microeconomic analysis to the field of social policy. The course briefly considers the role of economics in policy analysis and the rationale for government intervention. Policy areas to be analyzed may include: poverty, income maintenance, unemployment insurance, welfare, childcare, child benefits, the retirement system.", 
+        "number": "840", 
+        "subject": "MPA", 
+        "title": "Economics Of Social Policy"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course applies microeconomic analysis to the field of social policy. The course briefly considers the role of economics in policy analysis and the rationale for government intervention. Policy areas to be analyzed may include: poverty, income maintenance, unemployment insurance, welfare, childcare, child benefits, the retirement system.", 
-        "subject": "MPA", 
-        "number": "840", 
-        "title": "Economics Of Social Policy"
     }
 }

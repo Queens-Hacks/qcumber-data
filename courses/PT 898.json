@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Students will work with a faculty supervisor to complete a critical enquiry project. The project will enable students to apply critical inquiry skills by participation in an area of clinical investigation and to examine the relevance of findings to clinical practice.\u00a0 Prerequisites: PT- 897* or permission of the course coordinator.", 
+        "number": "898", 
+        "subject": "PT", 
+        "title": "Critical Enquiry Project"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Students will work with a faculty supervisor to complete a critical enquiry project. The project will enable students to apply critical inquiry skills by participation in an area of clinical investigation and to examine the relevance of findings to clinical practice.\u00a0 Prerequisites: PT- 897* or permission of the course coordinator.", 
-        "subject": "PT", 
-        "number": "898", 
-        "title": "Critical Enquiry Project"
     }
 }

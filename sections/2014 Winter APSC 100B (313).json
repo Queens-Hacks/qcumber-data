@@ -1,24 +1,24 @@
 {
+    "_unique": "313-LAB (1678)", 
     "basic": {
         "class_num": "1678", 
-        "subject": "APSC", 
-        "status": "Closed", 
         "course": "100B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "313", 
+        "status": "Closed", 
+        "subject": "APSC", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "313-LAB (1678)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

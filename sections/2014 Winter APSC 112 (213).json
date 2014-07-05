@@ -1,24 +1,24 @@
 {
+    "_unique": "213-TUT (1612)", 
     "basic": {
         "class_num": "1612", 
-        "subject": "APSC", 
-        "status": "Open", 
         "course": "112", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "213", 
+        "status": "Open", 
+        "subject": "APSC", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "213-TUT (1612)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-13T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T14:30:00", 
-            "start_time": "1900-01-01T13:30:00", 
             "day_of_week": 1, 
-            "location": "STIRLING RM412A"
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM412A", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-13T00:00:00"
         }
     ]
 }

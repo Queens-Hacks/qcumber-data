@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (6324)", 
     "basic": {
         "class_num": "6324", 
-        "subject": "KNPE", 
-        "status": "Open", 
         "course": "455", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "KNPE", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (6324)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Ross, Robert M J"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "ELLIS RM321", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 1, 
-            "location": "ELLIS RM321"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T10:00:00", 
             "instructors": [
                 "Ross, Robert M J"
             ], 
-            "end_time": "1900-01-01T10:00:00", 
+            "location": "ELLIS RM321", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 3, 
-            "location": "ELLIS RM321"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

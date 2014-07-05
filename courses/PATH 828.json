@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Bioinformatics for Cancer Research", 
+        "number": "828", 
+        "subject": "PATH", 
+        "title": "Bioinformatics for Cancer Research"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Bioinformatics for Cancer Research", 
-        "subject": "PATH", 
-        "number": "828", 
-        "title": "Bioinformatics for Cancer Research"
     }
 }

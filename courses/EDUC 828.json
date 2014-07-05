@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Determining the merit of educational programs requires that there be a fit between the needs and intentions of the program and the theoretical foundation guiding the evaluation. Students in this course will examine competing theoretical models of evaluation and be able to argue for their uses in particular program contexts. Not offered 2010-2011.", 
+        "number": "828", 
+        "subject": "EDUC", 
+        "title": "Program Evaluation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Determining the merit of educational programs requires that there be a fit between the needs and intentions of the program and the theoretical foundation guiding the evaluation. Students in this course will examine competing theoretical models of evaluation and be able to argue for their uses in particular program contexts. Not offered 2010-2011.", 
-        "subject": "EDUC", 
-        "number": "828", 
-        "title": "Program Evaluation"
     }
 }

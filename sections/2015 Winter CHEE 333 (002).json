@@ -1,24 +1,24 @@
 {
+    "_unique": "002-TUT (2599)", 
     "basic": {
         "class_num": "2599", 
-        "subject": "CHEE", 
-        "status": "Open", 
         "course": "333", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CHEE", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-TUT (2599)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T12:30:00", 
-            "start_time": "1900-01-01T11:30:00", 
             "day_of_week": 2, 
-            "location": "ELLIS RM319"
+            "end_time": "1900-01-01T12:30:00", 
+            "instructors": [], 
+            "location": "ELLIS RM319", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

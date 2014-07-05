@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An analysis of industry structure, conduct and performance in the Canadian economy, including the major features and current issues of competition policy.", 
+        "number": "445", 
+        "subject": "ECON", 
+        "title": "Industrial Organization and Public Policy"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ECON310", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An analysis of industry structure, conduct and performance in the Canadian economy, including the major features and current issues of competition policy.", 
-        "subject": "ECON", 
-        "number": "445", 
-        "title": "Industrial Organization and Public Policy"
     }
 }

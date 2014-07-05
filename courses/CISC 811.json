@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course is offered in the Winter semester and is open to graduate students and advanced undergraduate students interested in Computational Science and Engineering.\u00a0 This course covers the principles and practices of current high performance computing architecture and software, such as parallel, massively parallel, and grid computing.\u00a0 Advanced tools for analyzing and optimizing the performance of algorithms important to computational science and engineering\u00a0 will be introduced.\u00a0 This course is offered jointly with QCSE 811*.\u00a0 Graduate students enrolled in the CSE specialization must register in QCSE 811*.\u00a0 The Queen\u00bfs CSE management committee may cap enrollment, in which case students in the CSE specialization have priority.", 
+        "number": "811", 
+        "subject": "CISC", 
+        "title": "High Performance Computing"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course is offered in the Winter semester and is open to graduate students and advanced undergraduate students interested in Computational Science and Engineering.\u00a0 This course covers the principles and practices of current high performance computing architecture and software, such as parallel, massively parallel, and grid computing.\u00a0 Advanced tools for analyzing and optimizing the performance of algorithms important to computational science and engineering\u00a0 will be introduced.\u00a0 This course is offered jointly with QCSE 811*.\u00a0 Graduate students enrolled in the CSE specialization must register in QCSE 811*.\u00a0 The Queen\u00bfs CSE management committee may cap enrollment, in which case students in the CSE specialization have priority.", 
-        "subject": "CISC", 
-        "number": "811", 
-        "title": "High Performance Computing"
     }
 }

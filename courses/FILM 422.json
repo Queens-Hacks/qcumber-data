@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Advanced seminar on specific area of research and study selected by the instructor. Subjects\u00a0have included Qu\u00e9b\u00e9cois cinema, film and mass culture in Canada.", 
+        "number": "422", 
+        "subject": "FILM", 
+        "title": "Canadian Cinema: Special Topic"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A GPA of 2.6 in FILM and (a grade of B- in FILM110) and 18.0 units in FILM.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Advanced seminar on specific area of research and study selected by the instructor. Subjects\u00a0have included Qu\u00e9b\u00e9cois cinema, film and mass culture in Canada.", 
-        "subject": "FILM", 
-        "number": "422", 
-        "title": "Canadian Cinema: Special Topic"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Provides a foundation for critical thinking and decision making approaches used by nurses in health related client situations.\u00a0 Introduces core community health concepts including health, health promotion, disease prevention, primary health care, and health education. Discusses selected legal and ethical issues and decision making frameworks.\u00a03 hours lecture per week; 9 units (3 credits) course weight.", 
+        "number": "108", 
+        "subject": "NURS", 
+        "title": "Intr To Promoting Dec Mkg Hlth"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "NURSING students only", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Provides a foundation for critical thinking and decision making approaches used by nurses in health related client situations.\u00a0 Introduces core community health concepts including health, health promotion, disease prevention, primary health care, and health education. Discusses selected legal and ethical issues and decision making frameworks.\u00a03 hours lecture per week; 9 units (3 credits) course weight.", 
-        "subject": "NURS", 
-        "number": "108", 
-        "title": "Intr To Promoting Dec Mkg Hlth"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The physical principles and practices of collecting, analyzing and interpreting various remote sensing data from the visible, infrared, and microwave regions of the electromagnetic spectrum are examined. In addition, the display, enhancement and interpretation of various digital remote sensing data, from airborne to satellite scales, is emphasized. Enrolment is limited.", 
+        "number": "242", 
+        "subject": "GPHY", 
+        "title": "Remote Sensing I: Remote Sensing of the Environment"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Practicum": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of GPHY101 or GPHY102 or permission of department", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The physical principles and practices of collecting, analyzing and interpreting various remote sensing data from the visible, infrared, and microwave regions of the electromagnetic spectrum are examined. In addition, the display, enhancement and interpretation of various digital remote sensing data, from airborne to satellite scales, is emphasized. Enrolment is limited.", 
-        "subject": "GPHY", 
-        "number": "242", 
-        "title": "Remote Sensing I: Remote Sensing of the Environment"
     }
 }

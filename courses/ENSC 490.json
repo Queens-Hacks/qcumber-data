@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course adopts a quantitative approach to the definition, measurement and assessment of sustainable development. The combination of lectures, seminars, and directed studies is intended to accommodate a broad range of student interest and experience. Firm specific, policy specific and nation specific case studies may be considered.", 
+        "number": "490", 
+        "subject": "ENSC", 
+        "title": "The Economics of Sustainable Development"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 ENSC 290/3.0 or ECON 290/3.0, or permission of the School.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course adopts a quantitative approach to the definition, measurement and assessment of sustainable development. The combination of lectures, seminars, and directed studies is intended to accommodate a broad range of student interest and experience. Firm specific, policy specific and nation specific case studies may be considered.", 
-        "subject": "ENSC", 
-        "number": "490", 
-        "title": "The Economics of Sustainable Development"
     }
 }

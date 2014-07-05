@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of Vergil's Aeneid, or Ovid's Metamorphoses, or Lucan's Civil War, or Statius' Thebaid, and its position within the Latin epic tradition. M.S. Cummings", 
+        "number": "812", 
+        "subject": "LATN", 
+        "title": "Latin Poetry I: Epic"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of Vergil's Aeneid, or Ovid's Metamorphoses, or Lucan's Civil War, or Statius' Thebaid, and its position within the Latin epic tradition. M.S. Cummings", 
-        "subject": "LATN", 
-        "number": "812", 
-        "title": "Latin Poetry I: Epic"
     }
 }

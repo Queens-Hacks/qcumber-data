@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Fundamental properties of the nervous system. Emphasis placed on the properties of neurons that are fundamental to neuron-to-neuron communication, the formation of neural circuits, and the repair of the nervous system following injury. Tutorials introduce techniques and neurological problems that illustrate principles of neural function.", 
+        "number": "323", 
+        "subject": "NSCI", 
+        "title": "Cellular Neuroscience"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0 or BIOL 338/3.0 or or BIOL339 or PSYC 271/3.0, or permission of the course coordinator. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from NSCI 322/3.0; NSCI 323/3.0; LISC 322/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Fundamental properties of the nervous system. Emphasis placed on the properties of neurons that are fundamental to neuron-to-neuron communication, the formation of neural circuits, and the repair of the nervous system following injury. Tutorials introduce techniques and neurological problems that illustrate principles of neural function.", 
-        "subject": "NSCI", 
-        "number": "323", 
-        "title": "Cellular Neuroscience"
     }
 }

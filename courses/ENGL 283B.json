@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of particular issues and themes in Canadian literature from the 1970s to the present (e.g., postmodernism, multiculturalism, gender and sexual diversity, class relations, migration).", 
+        "number": "283B", 
+        "subject": "ENGL", 
+        "title": "Contemporary Canadian Literature"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "A study of particular issues and themes in Canadian literature from the 1970s to the present (e.g., postmodernism, multiculturalism, gender and sexual diversity, class relations, migration).", 
-        "subject": "ENGL", 
-        "number": "283B", 
-        "title": "Contemporary Canadian Literature"
     }
 }

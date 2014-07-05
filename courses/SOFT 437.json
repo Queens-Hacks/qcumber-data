@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Analytic and empirical evaluation of the performance of software systems. Performance modeling. Experimental design and statistical techniques for empirical performance analysis. Alternately offered as CISC 437/3.0.\u00a0", 
+        "number": "437", 
+        "subject": "SOFT", 
+        "title": "Performance Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of CISC324 or ELEC377 and registered in a BSCE Academic Program or a SODE-P-BCH or SODE-P-BSH Academic Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 24, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Analytic and empirical evaluation of the performance of software systems. Performance modeling. Experimental design and statistical techniques for empirical performance analysis. Alternately offered as CISC 437/3.0.\u00a0", 
-        "subject": "SOFT", 
-        "number": "437", 
-        "title": "Performance Analysis"
     }
 }

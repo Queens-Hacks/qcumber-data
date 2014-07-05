@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Organizational and administrative principles as they apply to sport and physical activity programs over a range of settings: commercial, industrial, governmental and educational.", 
+        "number": "371", 
+        "subject": "KNPE", 
+        "title": "Sport and Recreation Management"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Organizational and administrative principles as they apply to sport and physical activity programs over a range of settings: commercial, industrial, governmental and educational.", 
-        "subject": "KNPE", 
-        "number": "371", 
-        "title": "Sport and Recreation Management"
     }
 }

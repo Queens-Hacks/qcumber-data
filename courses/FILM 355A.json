@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "A course which combines study of the history and theory of documentary film with the production of documentary videos.\u00a0Requirements will include both research essays as well as the conceptualization and production of a documentary video or film.\nNOTE\u00a0\u00a0\u00a0 Students may enroll in no more than on production course per academic year: FILM 351/3.0; FILM 352/3.0; FILM 355/6.0; FILM 365/6.0; FILM 375/6.0; FILM 385/6.0; FILM 410/3.0; FILM 451/3.0; FILM 460/6.0.", 
+        "number": "355A", 
+        "subject": "FILM", 
+        "title": "Documentary Theory and Practice"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0 A GPA of 2.60 in FILM &[a grade of B- in FILM110 (or 104&106)&FILM250] & 6.0 units in FILM & reg in a FILM MAJ or MED Plan, or the Computer-Film (COFI) Subplan or STSC Spec Plan.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 1 course from: FILM 355; FILM 360", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "A course which combines study of the history and theory of documentary film with the production of documentary videos.\u00a0Requirements will include both research essays as well as the conceptualization and production of a documentary video or film.\nNOTE\u00a0\u00a0\u00a0 Students may enroll in no more than on production course per academic year: FILM 351/3.0; FILM 352/3.0; FILM 355/6.0; FILM 365/6.0; FILM 375/6.0; FILM 385/6.0; FILM 410/3.0; FILM 451/3.0; FILM 460/6.0.", 
-        "subject": "FILM", 
-        "number": "355A", 
-        "title": "Documentary Theory and Practice"
     }
 }

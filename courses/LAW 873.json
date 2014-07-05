@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This is a transactional course which takes the students into the complexities of corporate and other business transactions. It will focus on corporate income taxation, but it will also cover partnership and trust taxation as alternative approaches to tax planning. Some attention will be paid to value-added and sales taxation, given the forthcoming federal reforms in sales taxation. (To be offered jointly with LAW-511.)\u00a0 Three term-hours; Winter. N. Tobias.", 
+        "number": "873", 
+        "subject": "LAW", 
+        "title": "Corporate Taxation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This is a transactional course which takes the students into the complexities of corporate and other business transactions. It will focus on corporate income taxation, but it will also cover partnership and trust taxation as alternative approaches to tax planning. Some attention will be paid to value-added and sales taxation, given the forthcoming federal reforms in sales taxation. (To be offered jointly with LAW-511.)\u00a0 Three term-hours; Winter. N. Tobias.", 
-        "subject": "LAW", 
-        "number": "873", 
-        "title": "Corporate Taxation"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An intensive survey of a topic within historical\u00a0musicology, ethnomusicology, or popular music(s).", 
+        "number": "381", 
+        "subject": "MUSC", 
+        "title": "Topics in Music History and Culture II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (MUSC 191/6.0 and MUSC 103/3.0 and [MUSC 203/3.0 or MUSC 204/3.0 or MUSC 205/3.0]) or permission of the School.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An intensive survey of a topic within historical\u00a0musicology, ethnomusicology, or popular music(s).", 
-        "subject": "MUSC", 
-        "number": "381", 
-        "title": "Topics in Music History and Culture II"
     }
 }

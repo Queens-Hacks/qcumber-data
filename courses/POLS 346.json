@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A critical examination of the current theories of development influenced by various post-Marxist, postmodernist and post-colonial tendencies. Growth strategies practiced by the state and alternative visions offered by the social movements will also be discussed.\r\nNOTE\u00a0\u00a0\u00a0 Students with third-year standing in the Development Studies Medial should contact the Department.", 
+        "number": "346", 
+        "subject": "POLS", 
+        "title": "Development Theory"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (12.0 units in POLS at the 200-level or above) and (a GPA of 2.0 on all units in POLS),\u00a0 or permission of the Department\nEXCLUSION\u00a0 No more than 3.0 units from DEVS340/3.0; POLS346/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A critical examination of the current theories of development influenced by various post-Marxist, postmodernist and post-colonial tendencies. Growth strategies practiced by the state and alternative visions offered by the social movements will also be discussed.\r\nNOTE\u00a0\u00a0\u00a0 Students with third-year standing in the Development Studies Medial should contact the Department.", 
-        "subject": "POLS", 
-        "number": "346", 
-        "title": "Development Theory"
     }
 }

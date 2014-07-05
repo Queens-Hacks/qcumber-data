@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A course in planetary astronomy intended for students in the life sciences, earth sciences and chemistry who have taken a suitable first-year course. Topics may include the solar system, the origin of life on Earth, other planets and planetary systems, extra-terrestrial life.", 
+        "number": "214", 
+        "subject": "PHYS", 
+        "title": "Planets and Life"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (PHYS104 or PHYS106 or PHYS107 or PHYS117 or CHEM112) or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A course in planetary astronomy intended for students in the life sciences, earth sciences and chemistry who have taken a suitable first-year course. Topics may include the solar system, the origin of life on Earth, other planets and planetary systems, extra-terrestrial life.", 
-        "subject": "PHYS", 
-        "number": "214", 
-        "title": "Planets and Life"
     }
 }

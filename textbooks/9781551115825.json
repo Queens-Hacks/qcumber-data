@@ -1,1 +1,14 @@
-{"isbn_13": "9781551115825", "isbn_10": "1551115824", "classified_info": "2 classified listings: $15.00 to $20.00", "new_price": "$47.33", "used_price": "$35.50", "courses": ["DRAM 300"], "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13866-DRAM300-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "required": true, "new_available": 29, "title": "Broadview Anthology Of Drama Vol. II"}
+{
+    "classified_info": "2 classified listings: $15.00 to $20.00", 
+    "courses": [
+        "DRAM 300"
+    ], 
+    "isbn_10": "1551115824", 
+    "isbn_13": "9781551115825", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13866-DRAM300-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_available": 29, 
+    "new_price": "$47.33", 
+    "required": true, 
+    "title": "Broadview Anthology Of Drama Vol. II", 
+    "used_price": "$35.50"
+}

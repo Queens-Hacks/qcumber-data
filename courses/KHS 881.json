@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "An in-depth coverage of methods for health screening, exercise testing and exercise prescription for healthy adults and individuals with metabolic and cardiopulmonary diseases (examples: diabetes mellitus, obesity, hypertension, chronic lung diseases).\u00a0", 
+        "number": "881", 
+        "subject": "KHS", 
+        "title": "Theory And Application"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An in-depth coverage of methods for health screening, exercise testing and exercise prescription for healthy adults and individuals with metabolic and cardiopulmonary diseases (examples: diabetes mellitus, obesity, hypertension, chronic lung diseases).\u00a0", 
-        "subject": "KHS", 
-        "number": "881", 
-        "title": "Theory And Application"
     }
 }

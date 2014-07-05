@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A seminar course which examines the experience of women in the church within the North American social context.", 
+        "number": "646", 
+        "subject": "THEO", 
+        "title": "Autobio Writings In Xianity"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Must be in a Theology Program: BTH, MDIV, MTS, UTHE, PMDIV, PBTH or GTHE.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A seminar course which examines the experience of women in the church within the North American social context.", 
-        "subject": "THEO", 
-        "number": "646", 
-        "title": "Autobio Writings In Xianity"
     }
 }

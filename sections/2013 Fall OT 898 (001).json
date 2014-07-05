@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (6791)", 
     "basic": {
         "class_num": "6791", 
-        "subject": "OT", 
-        "status": "Closed", 
         "course": "898", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "OT", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (6791)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Woodbury, Gail"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "KINES & HLTH RM100", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "KINES & HLTH RM100"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

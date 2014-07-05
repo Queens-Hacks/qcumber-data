@@ -1,1 +1,16 @@
-{"isbn_13": "9780393932928", "required": true, "isbn_10": "0393932923", "new_price": "$91.25", "authors": "Vincent Leitch", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13817-ENGL292-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["ENGL 292", "ENGL 496"], "classified_info": "33 classified listings: $25.00 to $70.00", "title": "The Norton Anthology Of Theory And Criticism 2e", "new_available": 3, "used_price": "$68.44"}
+{
+    "authors": "Vincent Leitch", 
+    "classified_info": "33 classified listings: $25.00 to $70.00", 
+    "courses": [
+        "ENGL 292", 
+        "ENGL 496"
+    ], 
+    "isbn_10": "0393932923", 
+    "isbn_13": "9780393932928", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13817-ENGL292-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 3, 
+    "new_price": "$91.25", 
+    "required": true, 
+    "title": "The Norton Anthology Of Theory And Criticism 2e", 
+    "used_price": "$68.44"
+}

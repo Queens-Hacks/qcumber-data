@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to the theory and formation of cultural identity with some reference to cross-cultural issues.\r\nNOTE\u00a0\u00a0\u00a0 Administered by the Department of Philosophy.\r\nNOTE\u00a0\u00a0\u00a0 Also offered\u00a0at the Bader International Study Centre, Herstmonceux.", 
+        "number": "306", 
+        "subject": "INTS", 
+        "title": "Culture, Identity and Self"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the theory and formation of cultural identity with some reference to cross-cultural issues.\r\nNOTE\u00a0\u00a0\u00a0 Administered by the Department of Philosophy.\r\nNOTE\u00a0\u00a0\u00a0 Also offered\u00a0at the Bader International Study Centre, Herstmonceux.", 
-        "subject": "INTS", 
-        "number": "306", 
-        "title": "Culture, Identity and Self"
     }
 }

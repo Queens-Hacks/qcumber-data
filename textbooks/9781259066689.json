@@ -1,1 +1,13 @@
-{"isbn_13": "9781259066689", "isbn_10": "1259066681", "classified_info": "1 classified listing: $50.00", "new_price": "$143.99", "authors": "Stephen Ross", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13848-MPA537-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["MPA 537"], "required": true, "title": "Fundamentals of Corporate Finance with Connect Access Card"}
+{
+    "authors": "Stephen Ross", 
+    "classified_info": "1 classified listing: $50.00", 
+    "courses": [
+        "MPA 537"
+    ], 
+    "isbn_10": "1259066681", 
+    "isbn_13": "9781259066689", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13848-MPA537-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$143.99", 
+    "required": true, 
+    "title": "Fundamentals of Corporate Finance with Connect Access Card"
+}

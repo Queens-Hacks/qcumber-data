@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Application of rock mechanics principles to mine design. Includes planning and execution of geotechnical investigation programs, empirical and analytical methods of stability analysis and support design. Numerical methods are introduced, with emphasis on how to choose among them for particular applications and how to evaluate results. Instrumentation programs are described. Methods are illustrated using case histories. Three term-hours, fall; lectures. S.D. McKinnon.\u00a0 (on sabbatical)", 
+        "number": "823", 
+        "subject": "MINE", 
+        "title": "Stability Anal. In Mine Design"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Application of rock mechanics principles to mine design. Includes planning and execution of geotechnical investigation programs, empirical and analytical methods of stability analysis and support design. Numerical methods are introduced, with emphasis on how to choose among them for particular applications and how to evaluate results. Instrumentation programs are described. Methods are illustrated using case histories. Three term-hours, fall; lectures. S.D. McKinnon.\u00a0 (on sabbatical)", 
-        "subject": "MINE", 
-        "number": "823", 
-        "title": "Stability Anal. In Mine Design"
     }
 }

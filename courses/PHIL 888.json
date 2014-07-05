@@ -1,25 +1,25 @@
 {
-    "extra": {
-        "typically_offered": "Winter", 
-        "course_components": {
-            "Lecture": "Required", 
-            "Individual Study": "Required"
-        }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
-        "grading_basis": "Graded", 
-        "units": "3.00"
-    }, 
     "basic": {
         "description": "", 
-        "subject": "PHIL", 
         "number": "888", 
+        "subject": "PHIL", 
         "title": "Pragmatism"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Individual Study": "Required", 
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
     }
 }

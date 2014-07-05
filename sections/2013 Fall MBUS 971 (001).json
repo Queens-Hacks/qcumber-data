@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (7354)", 
     "basic": {
         "class_num": "7354", 
-        "subject": "MBUS", 
-        "status": "Closed", 
         "course": "971", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBUS", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-LEC (7354)", 
     "classes": [
         {
-            "term_end": "2014-01-03T00:00:00", 
-            "term_start": "2013-11-08T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Darling, Michael"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-01-03T00:00:00", 
+            "term_start": "2013-11-08T00:00:00"
         }
     ]
 }

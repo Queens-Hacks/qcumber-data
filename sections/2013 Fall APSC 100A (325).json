@@ -1,24 +1,24 @@
 {
+    "_unique": "325-LAB (7690)", 
     "basic": {
         "class_num": "7690", 
-        "subject": "APSC", 
-        "status": "Closed", 
         "course": "100A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "325", 
+        "status": "Closed", 
+        "subject": "APSC", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "325-LAB (7690)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

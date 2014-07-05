@@ -1,96 +1,96 @@
 {
+    "_unique": "003-LEC (7747)", 
     "basic": {
         "class_num": "7747", 
-        "subject": "COMM", 
-        "status": "Open", 
         "course": "153", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "COMM", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "003-LEC (7747)", 
     "classes": [
         {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:00:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 1, 
-            "location": "GOODES RM153"
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:00:00", 
             "day_of_week": 4, 
-            "location": "GOODES RM153"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:00:00", 
             "day_of_week": 1, 
-            "location": "GOODES RM153"
-        }, 
-        {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:00:00", 
-            "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 3, 
-            "location": "GOODES RM153"
-        }, 
-        {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:00:00", 
-            "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 2, 
-            "location": "GOODES RM153"
-        }, 
-        {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
             "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
             "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "GOODES RM153"
-        }, 
-        {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
             "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
             "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "GOODES RM153"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:00:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 4, 
-            "location": "GOODES RM153"
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }, 
         {
-            "term_end": "2013-10-04T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T21:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
             "day_of_week": 3, 
-            "location": "GOODES RM153"
+            "end_time": "1900-01-01T21:30:00", 
+            "instructors": [], 
+            "location": "GOODES RM153", 
+            "start_time": "1900-01-01T18:30:00", 
+            "term_end": "2013-10-04T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

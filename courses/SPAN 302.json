@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides a comprehensive review of the most difficult aspects of Spanish grammar through advanced exercises in reading, composition, and conversation. The goal of the course is to consolidate and perfect the student\u00bfs written and oral skills.", 
+        "number": "302", 
+        "subject": "SPAN", 
+        "title": "Gram\u00e1tica avanzada y composici\u00f3n II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 SPAN301.\r\nOne-way exclusion\u00a0\u00a0\u00a0 May not be taken with or after SPAN401; SPAN402.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides a comprehensive review of the most difficult aspects of Spanish grammar through advanced exercises in reading, composition, and conversation. The goal of the course is to consolidate and perfect the student\u00bfs written and oral skills.", 
-        "subject": "SPAN", 
-        "number": "302", 
-        "title": "Gram\u00e1tica avanzada y composici\u00f3n II"
     }
 }

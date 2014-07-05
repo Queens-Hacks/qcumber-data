@@ -1,24 +1,24 @@
 {
+    "_unique": "220-TUT (7703)", 
     "basic": {
         "class_num": "7703", 
-        "subject": "APSC", 
-        "status": "Open", 
         "course": "131", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "220", 
+        "status": "Open", 
+        "subject": "APSC", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "220-TUT (7703)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T19:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
             "day_of_week": 2, 
-            "location": "CHERNOFF RM211"
+            "end_time": "1900-01-01T19:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM211", 
+            "start_time": "1900-01-01T18:30:00", 
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

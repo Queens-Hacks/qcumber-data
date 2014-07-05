@@ -1,26 +1,26 @@
 {
+    "_unique": "700-LEC (8453)", 
     "basic": {
         "class_num": "8453", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "195", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "700", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "700-LEC (8453)", 
     "classes": [
         {
-            "term_end": "2013-11-17T00:00:00", 
-            "term_start": "2013-11-15T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Horton, Laura"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2013-11-17T00:00:00", 
+            "term_start": "2013-11-15T00:00:00"
         }
     ]
 }

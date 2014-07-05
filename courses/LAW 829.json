@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The system of Charter interpretation in Canada as developed and illustrated by judicial precedents. The significance of the entrenchment of basic rights for Canadian politics and law. A detailed examination of the practice of Charter litigation. (To be offered jointly with LAW-529.)\u00a0 Not offered 2010-2011.", 
+        "number": "829", 
+        "subject": "LAW", 
+        "title": "Advanced Constitutional Law"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The system of Charter interpretation in Canada as developed and illustrated by judicial precedents. The significance of the entrenchment of basic rights for Canadian politics and law. A detailed examination of the practice of Charter litigation. (To be offered jointly with LAW-529.)\u00a0 Not offered 2010-2011.", 
-        "subject": "LAW", 
-        "number": "829", 
-        "title": "Advanced Constitutional Law"
     }
 }

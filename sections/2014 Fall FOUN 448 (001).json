@@ -1,59 +1,59 @@
 {
+    "_unique": "001-LEC (7314)", 
     "basic": {
         "class_num": "7314", 
-        "subject": "FOUN", 
-        "status": "Open", 
         "course": "448", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FOUN", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (7314)", 
     "classes": [
         {
-            "term_end": "2014-08-30T00:00:00", 
-            "term_start": "2014-08-27T00:00:00", 
-            "instructors": [
-                "Elliott, Stephen R"
-            ], 
-            "end_time": "1900-01-01T16:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 6, 
-            "location": "DUNCAN MCARTHUR RM A234"
-        }, 
-        {
-            "term_end": "2014-08-30T00:00:00", 
-            "term_start": "2014-08-27T00:00:00", 
+            "end_time": "1900-01-01T16:30:00", 
             "instructors": [
                 "Elliott, Stephen R"
             ], 
-            "end_time": "1900-01-01T16:30:00", 
+            "location": "DUNCAN MCARTHUR RM A234", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-30T00:00:00", 
+            "term_start": "2014-08-27T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM A234"
-        }, 
-        {
-            "term_end": "2014-08-30T00:00:00", 
-            "term_start": "2014-08-27T00:00:00", 
+            "end_time": "1900-01-01T16:30:00", 
             "instructors": [
                 "Elliott, Stephen R"
             ], 
-            "end_time": "1900-01-01T16:30:00", 
+            "location": "DUNCAN MCARTHUR RM A234", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-30T00:00:00", 
+            "term_start": "2014-08-27T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A234"
-        }, 
-        {
-            "term_end": "2014-08-30T00:00:00", 
-            "term_start": "2014-08-27T00:00:00", 
+            "end_time": "1900-01-01T16:30:00", 
             "instructors": [
                 "Elliott, Stephen R"
             ], 
-            "end_time": "1900-01-01T16:30:00", 
+            "location": "DUNCAN MCARTHUR RM A234", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-30T00:00:00", 
+            "term_start": "2014-08-27T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM A234"
+            "end_time": "1900-01-01T16:30:00", 
+            "instructors": [
+                "Elliott, Stephen R"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-08-30T00:00:00", 
+            "term_start": "2014-08-27T00:00:00"
         }
     ]
 }

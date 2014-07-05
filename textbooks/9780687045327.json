@@ -1,1 +1,14 @@
-{"isbn_13": "9780687045327", "isbn_10": "0687045320", "classified_info": "0 classified listings", "new_price": "$30.32", "used_price": "$22.74", "authors": "William H. Willimon", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13518-THEO708-SPSU14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["THEO 708"], "required": true, "title": "Pastor"}
+{
+    "authors": "William H. Willimon", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "THEO 708"
+    ], 
+    "isbn_10": "0687045320", 
+    "isbn_13": "9780687045327", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13518-THEO708-SPSU14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$30.32", 
+    "required": true, 
+    "title": "Pastor", 
+    "used_price": "$22.74"
+}

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Selected topics in animal physiology. An advanced course on current research in animal physiology, based on recent research literature. For detailed information, consult the course coordinator.&amp;nbsp; Three term hours; winter. Y. Wang.", 
+        "number": "958", 
+        "subject": "BIOL", 
+        "title": "Advanced Studies in Animal Physiology II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Selected topics in animal physiology. An advanced course on current research in animal physiology, based on recent research literature. For detailed information, consult the course coordinator.&amp;nbsp; Three term hours; winter. Y. Wang.", 
-        "subject": "BIOL", 
-        "number": "958", 
-        "title": "Advanced Studies in Animal Physiology II"
     }
 }

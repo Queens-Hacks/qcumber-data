@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The course Critical Appraisal, Research and Learning (CARL)contains concepts to introduce students to lifelong learning in medical and professional education. CARL contains 6 themes:Medical information literacy (Searching and filtering reliable medical information)Diagnostic tests and their propertiesResearch designs and methodsUnderstanding the results of medical researchCritical appraisal of medical literatureKey learning strategies to foster effective educational and professional learning. All of these themes will be addressed again at higher levels of sophistication in terms 2-5 and again in the clerkship program. The critical enquiry project completed in Term 5 is an important piece of CARL, where students will demonstrate mastery of these foundational concepts by incorporating them into their own research project. Aims of the Course CARL is designed to assist medical students in the development of critical thinking and lifelong learning in 3 ways: by teaching them to ask the right clinical, research and independent learning questionsby demonstrating strategies to search databases of published literature in order to identify reliable evidence which can answer their questionsassess the quality of that evidence in terms of both validity and applicability to the clinical situation they face. Our aim is to graduate medical students who can ask themselves what they need to find out, find the correct information efficiently, and confidently assess the accuracy and applicability of that information.", 
+        "number": "112", 
+        "subject": "MEDS", 
+        "title": "PF:Critical Appraisal Research & Learning"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course Critical Appraisal, Research and Learning (CARL)contains concepts to introduce students to lifelong learning in medical and professional education. CARL contains 6 themes:Medical information literacy (Searching and filtering reliable medical information)Diagnostic tests and their propertiesResearch designs and methodsUnderstanding the results of medical researchCritical appraisal of medical literatureKey learning strategies to foster effective educational and professional learning. All of these themes will be addressed again at higher levels of sophistication in terms 2-5 and again in the clerkship program. The critical enquiry project completed in Term 5 is an important piece of CARL, where students will demonstrate mastery of these foundational concepts by incorporating them into their own research project. Aims of the Course CARL is designed to assist medical students in the development of critical thinking and lifelong learning in 3 ways: by teaching them to ask the right clinical, research and independent learning questionsby demonstrating strategies to search databases of published literature in order to identify reliable evidence which can answer their questionsassess the quality of that evidence in terms of both validity and applicability to the clinical situation they face. Our aim is to graduate medical students who can ask themselves what they need to find out, find the correct information efficiently, and confidently assess the accuracy and applicability of that information.", 
-        "subject": "MEDS", 
-        "number": "112", 
-        "title": "PF:Critical Appraisal Research & Learning"
     }
 }

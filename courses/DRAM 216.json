@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of the major trends in musical theatre production and theory since the 19th century, exploring the work of important composers and lyricists and the structure of musical theatre works.", 
+        "number": "216", 
+        "subject": "DRAM", 
+        "title": "Musical Theatre"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A grade of B- in 6.0 units from (DRAM100;DRAM181; BISC100;BISC101) or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of the major trends in musical theatre production and theory since the 19th century, exploring the work of important composers and lyricists and the structure of musical theatre works.", 
-        "subject": "DRAM", 
-        "number": "216", 
-        "title": "Musical Theatre"
     }
 }

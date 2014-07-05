@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course examines issues in Ethics and Animals. Potential topics include animal rights, human consumption and other uses of non-human animals, the domestication of non-human animals.", 
+        "number": "497", 
+        "subject": "PHIL", 
+        "title": "Ethics and Animals"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 4 & reg in a PHIL MAJ or MIN Plan or (level 4 and reg in a ENVS Med plan or ENSC MAJ Plan or ENSC, EGPY, EBIO, ECHM, EGEO, ELSC or ETOX Spec. Plan) & (a min. GPA of 2.60 in PHIL250 and PHIL257) and (6.0 units in PHIL).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course examines issues in Ethics and Animals. Potential topics include animal rights, human consumption and other uses of non-human animals, the domestication of non-human animals.", 
-        "subject": "PHIL", 
-        "number": "497", 
-        "title": "Ethics and Animals"
     }
 }

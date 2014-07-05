@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course is designed to develop the knowledge and skills required to manage effectively in other cultural environments and to work effectively with people from other cultures. The course concentrates on both the theories and practices of cross-cultural management that will help students understand, and be understood by, people from foreign cultures. Students will develop insight on the pervasive and hidden influence of culture on behaviour; the types of situations and issues managers confront when working internationally; and the challenges of living and working in a foreign country. Topics covered include communicating and negotiating across cultures; motivating, leading, and training employees in different cultures; and expatriate manager adjustment skills. While a wide variety of cultures are examined in this course, students also have the opportunity to select and conduct an in-depth study of a culture that interests them most. This course is an approved course for students pursuing a Certificate in Socially Responsible Leadership.", 
+        "number": "353", 
+        "subject": "COMM", 
+        "title": "Managing Across Cultures"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Admission restricted to third- or fourth-year students.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course is designed to develop the knowledge and skills required to manage effectively in other cultural environments and to work effectively with people from other cultures. The course concentrates on both the theories and practices of cross-cultural management that will help students understand, and be understood by, people from foreign cultures. Students will develop insight on the pervasive and hidden influence of culture on behaviour; the types of situations and issues managers confront when working internationally; and the challenges of living and working in a foreign country. Topics covered include communicating and negotiating across cultures; motivating, leading, and training employees in different cultures; and expatriate manager adjustment skills. While a wide variety of cultures are examined in this course, students also have the opportunity to select and conduct an in-depth study of a culture that interests them most. This course is an approved course for students pursuing a Certificate in Socially Responsible Leadership.", 
-        "subject": "COMM", 
-        "number": "353", 
-        "title": "Managing Across Cultures"
     }
 }

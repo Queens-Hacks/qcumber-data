@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "Working with the Coordinator of Athletic Therapy (AT), and building on the practical skills and knowledge acquired in KNPE 330/3.0, students will complete an Athletic Therapy internship. AT interns will be responsible for serving as a mentor to student trainers and onsite trainers in the Athletic Therapy clinic and at varsity events. They will also serve as teaching assistants in the laboratory component of KNPE 331/3.0.\r\nNOTE\u00a0\u00a0\u00a0 Materials Fees: Estimated cost $35.\r\nNOTE\u00a0\u00a0\u00a0 Valid First Aid/CPR Certification required.", 
+        "number": "430A", 
+        "subject": "KNPE", 
+        "title": "Athletic Therapy Internship"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 A grade of B in KNPE330 and Level 4 in a PHED Specialization or KINE Specialization Plan or permission of the instructor.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Working with the Coordinator of Athletic Therapy (AT), and building on the practical skills and knowledge acquired in KNPE 330/3.0, students will complete an Athletic Therapy internship. AT interns will be responsible for serving as a mentor to student trainers and onsite trainers in the Athletic Therapy clinic and at varsity events. They will also serve as teaching assistants in the laboratory component of KNPE 331/3.0.\r\nNOTE\u00a0\u00a0\u00a0 Materials Fees: Estimated cost $35.\r\nNOTE\u00a0\u00a0\u00a0 Valid First Aid/CPR Certification required.", 
-        "subject": "KNPE", 
-        "number": "430A", 
-        "title": "Athletic Therapy Internship"
     }
 }

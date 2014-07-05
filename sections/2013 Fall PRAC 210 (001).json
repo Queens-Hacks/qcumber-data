@@ -1,26 +1,26 @@
 {
+    "_unique": "001-PRA (8340)", 
     "basic": {
         "class_num": "8340", 
-        "subject": "PRAC", 
-        "status": "Closed", 
         "course": "210", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "PRAC", 
         "type": "PRA", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-PRA (8340)", 
     "classes": [
         {
-            "term_end": "2013-12-20T00:00:00", 
-            "term_start": "2013-09-04T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "O'Neil, Tammy"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2013-12-20T00:00:00", 
+            "term_start": "2013-09-04T00:00:00"
         }
     ]
 }

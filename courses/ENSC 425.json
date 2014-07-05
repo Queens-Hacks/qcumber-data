@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An exploration of the interactions among chemical exposure, toxicity to individual organisms, and effects on ecosystem structure and function. Mechanisms of toxicity will be linked to effects at different levels of organization up to the level of the ecosystem, using case studies to explore the complexities of exposure and response.\r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $50.\r\nNOTE\u00a0\u00a0\u00a0 Course readings, assignments, exercises and lecture notes are posted on the course Moodle site.", 
+        "number": "425", 
+        "subject": "ENSC", 
+        "title": "Ecotoxicology"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 standing and (BIOL102 and BIOL 103) and CHEM 112).", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An exploration of the interactions among chemical exposure, toxicity to individual organisms, and effects on ecosystem structure and function. Mechanisms of toxicity will be linked to effects at different levels of organization up to the level of the ecosystem, using case studies to explore the complexities of exposure and response.\r\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $50.\r\nNOTE\u00a0\u00a0\u00a0 Course readings, assignments, exercises and lecture notes are posted on the course Moodle site.", 
-        "subject": "ENSC", 
-        "number": "425", 
-        "title": "Ecotoxicology"
     }
 }

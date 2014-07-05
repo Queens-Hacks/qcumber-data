@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "In this seminar course students will apply theoretical concepts from the social and behavioural sciences, health education, and health communication to the planning, implementation, and evaluation of community-based physical activity programs.\u00a0 Interventions and programs for group, organization (e.g. schools), and community settings that target people, policies and the environment, will be emphasized. Offered jointly with EPID-862*.", 
+        "number": "862", 
+        "subject": "KHS", 
+        "title": "Community-Based Programming"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "In this seminar course students will apply theoretical concepts from the social and behavioural sciences, health education, and health communication to the planning, implementation, and evaluation of community-based physical activity programs.\u00a0 Interventions and programs for group, organization (e.g. schools), and community settings that target people, policies and the environment, will be emphasized. Offered jointly with EPID-862*.", 
-        "subject": "KHS", 
-        "number": "862", 
-        "title": "Community-Based Programming"
     }
 }

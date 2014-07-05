@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course covers topics related to network-based parallel computing systems. Issues related to clusters and computational \"grid\" such as interprocessor communications, message-passing and mixed mode paradigms and programming techniques, high performance interconnects, efficient host-network interface for fast messaging, lightweight user-level messaging layers and protocols, (network interface-assisted based) collective communications, communication latency tolerance techniques, power-aware high-performance computing, high performance file systems and I/O, benchmarking and performance evaluation, scheduling and load balancing, system-level middleware and computational grid applications and services will be discussed, Research papers from literature, a term paper and hands-on programming and experiments on a network of workstations will supplement the course. Three term-hours; lectures. A. Afsahi", 
+        "number": "873", 
+        "subject": "ELEC", 
+        "title": "Cluster Computing"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course covers topics related to network-based parallel computing systems. Issues related to clusters and computational \"grid\" such as interprocessor communications, message-passing and mixed mode paradigms and programming techniques, high performance interconnects, efficient host-network interface for fast messaging, lightweight user-level messaging layers and protocols, (network interface-assisted based) collective communications, communication latency tolerance techniques, power-aware high-performance computing, high performance file systems and I/O, benchmarking and performance evaluation, scheduling and load balancing, system-level middleware and computational grid applications and services will be discussed, Research papers from literature, a term paper and hands-on programming and experiments on a network of workstations will supplement the course. Three term-hours; lectures. A. Afsahi", 
-        "subject": "ELEC", 
-        "number": "873", 
-        "title": "Cluster Computing"
     }
 }

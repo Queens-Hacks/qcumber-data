@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to adult education as a field of study and practice that fosters collaborative and learner-directed inquiry in the field of adult education. The course will focus on understanding how adults learn, developing and implementing effective curricula for adult learners, and helping adult educators reflect on the adult education process. It is suitable for all educators who want to learn more about adult learning issues, practices and concepts by applying adult learning theories to their own learning and teaching lives. Winter; S. Wilcox.", 
+        "number": "812", 
+        "subject": "EDUC", 
+        "title": "Adult Education"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to adult education as a field of study and practice that fosters collaborative and learner-directed inquiry in the field of adult education. The course will focus on understanding how adults learn, developing and implementing effective curricula for adult learners, and helping adult educators reflect on the adult education process. It is suitable for all educators who want to learn more about adult learning issues, practices and concepts by applying adult learning theories to their own learning and teaching lives. Winter; S. Wilcox.", 
-        "subject": "EDUC", 
-        "number": "812", 
-        "title": "Adult Education"
     }
 }

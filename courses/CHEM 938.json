@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to the techniques and applications of density functional theory. Not offered 2010-2011.", 
+        "number": "938", 
+        "subject": "CHEM", 
+        "title": "Density Functional Theory"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "1.50"
-    }, 
-    "basic": {
-        "description": "An introduction to the techniques and applications of density functional theory. Not offered 2010-2011.", 
-        "subject": "CHEM", 
-        "number": "938", 
-        "title": "Density Functional Theory"
     }
 }

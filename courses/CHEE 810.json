@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The course will examine the design of fuel cell systems for a variety of applications ranging from large multi-megawatt stationary power systems to milliwatt scale portable electronics systems. Examples will be drawn from actual demonstration and pre-commercial prototype systems operating on a range of fuels including conventional hydrocarbons with integrated external fuel processing subsystems, anaerobic digester gas with external clean-up and preprocessing, natural gas fuelled systems with direct and indirect reforming, direct methanol fuel cells and hydrogen fuel cells. The design of combined heat and power systems (CHP) for large scale industrial applications and for small-scale residential applications will also be examined. In each of these case studies the impact of system configuration and individual component performance on efficiency will be examined and strategies for optimizing performance and minimizing complexity will be developed. In addition, the effect of system design on greenhouse gas emissions will be considered. The course will consist of three design projects of increasing complexity and a final examination. Students will be expected to give a presentation on their final design project. Three term-hours; B. Peppley.", 
+        "number": "810", 
+        "subject": "CHEE", 
+        "title": "Fuel Celly Systems : Design and Analysis"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The course will examine the design of fuel cell systems for a variety of applications ranging from large multi-megawatt stationary power systems to milliwatt scale portable electronics systems. Examples will be drawn from actual demonstration and pre-commercial prototype systems operating on a range of fuels including conventional hydrocarbons with integrated external fuel processing subsystems, anaerobic digester gas with external clean-up and preprocessing, natural gas fuelled systems with direct and indirect reforming, direct methanol fuel cells and hydrogen fuel cells. The design of combined heat and power systems (CHP) for large scale industrial applications and for small-scale residential applications will also be examined. In each of these case studies the impact of system configuration and individual component performance on efficiency will be examined and strategies for optimizing performance and minimizing complexity will be developed. In addition, the effect of system design on greenhouse gas emissions will be considered. The course will consist of three design projects of increasing complexity and a final examination. Students will be expected to give a presentation on their final design project. Three term-hours; B. Peppley.", 
-        "subject": "CHEE", 
-        "number": "810", 
-        "title": "Fuel Celly Systems : Design and Analysis"
     }
 }

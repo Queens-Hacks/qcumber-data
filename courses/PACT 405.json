@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "405", 
+        "subject": "PACT", 
+        "title": "Advanced Leadership Practicum In Physical Activity"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required", 
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "PACT", 
-        "number": "405", 
-        "title": "Advanced Leadership Practicum In Physical Activity"
     }
 }

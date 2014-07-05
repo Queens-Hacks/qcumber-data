@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course covers forward, futures, swap, and option contracts.\u00a0 It deals with how the contracts work, how they are used, how they are valued, and how financial institutions hedge their positions in the contracts.\u00a0 The topics covered include Black-Scholes pricing, the use of binomial trees, and delta-gamma-vega hedging, the mathematics underlying the pricing of derivatives and the numerical procedures that are used to implement derivatives pricing models.\u00a0 It includes in-depth material on exotic options, interest rate derivatives, and credit derivatives.\u00a0 Other topics on risk management will be briefly discussed. NOTE: This course is cross-referenced with MGMT-821*.", 
+        "number": "873", 
+        "subject": "ECON", 
+        "title": "Financial Derivatives"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course covers forward, futures, swap, and option contracts.\u00a0 It deals with how the contracts work, how they are used, how they are valued, and how financial institutions hedge their positions in the contracts.\u00a0 The topics covered include Black-Scholes pricing, the use of binomial trees, and delta-gamma-vega hedging, the mathematics underlying the pricing of derivatives and the numerical procedures that are used to implement derivatives pricing models.\u00a0 It includes in-depth material on exotic options, interest rate derivatives, and credit derivatives.\u00a0 Other topics on risk management will be briefly discussed. NOTE: This course is cross-referenced with MGMT-821*.", 
-        "subject": "ECON", 
-        "number": "873", 
-        "title": "Financial Derivatives"
     }
 }

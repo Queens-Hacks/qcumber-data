@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An examination of modern architecture in the western world, from the late 18th century to 1900.", 
+        "number": "291", 
+        "subject": "ARTH", 
+        "title": "The Age of Historicism c. 1700-1900"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Second year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of modern architecture in the western world, from the late 18th century to 1900.", 
-        "subject": "ARTH", 
-        "number": "291", 
-        "title": "The Age of Historicism c. 1700-1900"
     }
 }

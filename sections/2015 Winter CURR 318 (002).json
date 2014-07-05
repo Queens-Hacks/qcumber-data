@@ -1,103 +1,103 @@
 {
+    "_unique": "002-LEC (7818)", 
     "basic": {
         "class_num": "7818", 
-        "subject": "CURR", 
-        "status": "Open", 
         "course": "318", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CURR", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-LEC (7818)", 
     "classes": [
         {
-            "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Chin, Jane"
-            ], 
-            "end_time": "1900-01-01T15:30:00", 
-            "start_time": "1900-01-01T13:30:00", 
             "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A241"
-        }, 
-        {
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [
+                "Chin, Jane"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Chin, Jane"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A241"
-        }, 
-        {
             "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Chin, Jane"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "DUNCAN MCARTHUR RM A242", 
             "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A242"
-        }, 
-        {
             "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Chin, Jane"
-            ], 
-            "end_time": "1900-01-01T15:30:00", 
-            "start_time": "1900-01-01T13:30:00", 
-            "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A242"
+            "term_start": "2015-01-05T00:00:00"
         }, 
         {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Chin, Jane"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "DUNCAN MCARTHUR RM A242", 
             "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A241"
-        }, 
-        {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Chin, Jane"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A241"
-        }, 
-        {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Chin, Jane"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "DUNCAN MCARTHUR RM A242"
-        }, 
-        {
-            "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00", 
+            "end_time": "1900-01-01T15:30:00", 
             "instructors": [
                 "Chin, Jane"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
+            "location": "DUNCAN MCARTHUR RM A242", 
             "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
+        }, 
+        {
             "day_of_week": 2, 
-            "location": "DUNCAN MCARTHUR RM A242"
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [
+                "Chin, Jane"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-30T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This inter-disciplinary course for students in the computational and life sciences looks at the application of computing techniques to molecular biology. Topics may include: DNA data analysis (genomics), secondary and tertiary structure analysis (nucleic acids and proteins), molecular scene analysis, evolutionary trees (phylogenetics), and computing with DNA. Three term hours; lectures and seminars.", 
+        "number": "875", 
+        "subject": "CISC", 
+        "title": "Bioinformatics"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This inter-disciplinary course for students in the computational and life sciences looks at the application of computing techniques to molecular biology. Topics may include: DNA data analysis (genomics), secondary and tertiary structure analysis (nucleic acids and proteins), molecular scene analysis, evolutionary trees (phylogenetics), and computing with DNA. Three term hours; lectures and seminars.", 
-        "subject": "CISC", 
-        "number": "875", 
-        "title": "Bioinformatics"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Provides opportunities to consider the theoretical bases of engaging teaching practices and the practical implications of research on the teaching of physics.\u00a0 The course includes a focus on planning for the first days of teaching, for the development of a career as a science teacher, and for judging the quality of students' learning.\u00a0 The course also provides an opportunity for self-directed learning in the preparation of a teaching resource.", 
+        "number": "352", 
+        "subject": "CURR", 
+        "title": "Physics Teach Theory&Prac (IS)"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Provides opportunities to consider the theoretical bases of engaging teaching practices and the practical implications of research on the teaching of physics.\u00a0 The course includes a focus on planning for the first days of teaching, for the development of a career as a science teacher, and for judging the quality of students' learning.\u00a0 The course also provides an opportunity for self-directed learning in the preparation of a teaching resource.", 
-        "subject": "CURR", 
-        "number": "352", 
-        "title": "Physics Teach Theory&Prac (IS)"
     }
 }

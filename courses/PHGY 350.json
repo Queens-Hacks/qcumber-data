@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introductory course in Pathophysiology in which the underlying functional changes of cell and cell systems will be discussed in association with a variety of disease processes.", 
+        "number": "350", 
+        "subject": "PHGY", 
+        "title": "Pathophysiology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0 or IDIS150.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introductory course in Pathophysiology in which the underlying functional changes of cell and cell systems will be discussed in association with a variety of disease processes.", 
-        "subject": "PHGY", 
-        "number": "350", 
-        "title": "Pathophysiology"
     }
 }

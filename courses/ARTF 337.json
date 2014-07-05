@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "In this advanced course students select one media choice from these areas: paint media, sculpture/new media or print media.\r\nNOTE\u00a0\u00a0\u00a0 Open only to students in a BFA Program.", 
+        "number": "337", 
+        "subject": "ARTF", 
+        "title": "Advanced Programs I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Laboratory": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A minimum grade of C- in\u00a0 ARTF228 and a GPA of 1.60.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "9.00"
-    }, 
-    "basic": {
-        "description": "In this advanced course students select one media choice from these areas: paint media, sculpture/new media or print media.\r\nNOTE\u00a0\u00a0\u00a0 Open only to students in a BFA Program.", 
-        "subject": "ARTF", 
-        "number": "337", 
-        "title": "Advanced Programs I"
     }
 }

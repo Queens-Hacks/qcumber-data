@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The objective of the course is to examine the impact of computer technology on the practice of auditing and, specifically, to familiarize students with current developments in the audit of electronic data processing systems.", 
+        "number": "618", 
+        "subject": "COMM", 
+        "title": "Edp Auditing"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The objective of the course is to examine the impact of computer technology on the practice of auditing and, specifically, to familiarize students with current developments in the audit of electronic data processing systems.", 
-        "subject": "COMM", 
-        "number": "618", 
-        "title": "Edp Auditing"
     }
 }

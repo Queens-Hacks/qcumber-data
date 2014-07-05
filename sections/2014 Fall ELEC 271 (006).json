@@ -1,69 +1,69 @@
 {
+    "_unique": "006-LAB (3402)", 
     "basic": {
         "class_num": "3402", 
-        "subject": "ELEC", 
-        "status": "Open", 
         "course": "271", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "006", 
+        "status": "Open", 
+        "subject": "ELEC", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "006-LAB (3402)", 
     "classes": [
         {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T21:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "1900-01-01T18:30:00", 
             "term_end": "2014-09-21T00:00:00", 
-            "term_start": "2014-09-15T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T21:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM214"
+            "term_start": "2014-09-15T00:00:00"
         }, 
         {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T21:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "1900-01-01T18:30:00", 
             "term_end": "2014-10-05T00:00:00", 
-            "term_start": "2014-09-29T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T21:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM214"
+            "term_start": "2014-09-29T00:00:00"
         }, 
         {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T21:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "1900-01-01T18:30:00", 
             "term_end": "2014-10-19T00:00:00", 
-            "term_start": "2014-10-13T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T21:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM214"
+            "term_start": "2014-10-13T00:00:00"
         }, 
         {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T21:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "1900-01-01T18:30:00", 
             "term_end": "2014-11-02T00:00:00", 
-            "term_start": "2014-10-27T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T21:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM214"
+            "term_start": "2014-10-27T00:00:00"
         }, 
         {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T21:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "1900-01-01T18:30:00", 
             "term_end": "2014-11-16T00:00:00", 
-            "term_start": "2014-11-10T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T21:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM214"
+            "term_start": "2014-11-10T00:00:00"
         }, 
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T21:30:00", 
-            "start_time": "1900-01-01T18:30:00", 
             "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM214"
+            "end_time": "1900-01-01T21:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "1900-01-01T18:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

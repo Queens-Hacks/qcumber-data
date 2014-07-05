@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A historical survey taught in China, focusing on transformations of the built environment. Integrated site visits promote understanding of three major eras of change: radical reorganization under Mao, rapid expansion under the policies of Reform and Opening since 1978, and the recent shift toward Green development goals.\r\nNOTE\u00a0\u00a0\u00a0 Only offered in the Queen's-Blyth International Studies program. Instructor will accompany class to numerous off-campus sites and provide instruction during the outings; these activities will be integral to the course.", 
+        "number": "217", 
+        "subject": "HIST", 
+        "title": "Contemporary China: From Red to Green"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A historical survey taught in China, focusing on transformations of the built environment. Integrated site visits promote understanding of three major eras of change: radical reorganization under Mao, rapid expansion under the policies of Reform and Opening since 1978, and the recent shift toward Green development goals.\r\nNOTE\u00a0\u00a0\u00a0 Only offered in the Queen's-Blyth International Studies program. Instructor will accompany class to numerous off-campus sites and provide instruction during the outings; these activities will be integral to the course.", 
-        "subject": "HIST", 
-        "number": "217", 
-        "title": "Contemporary China: From Red to Green"
     }
 }

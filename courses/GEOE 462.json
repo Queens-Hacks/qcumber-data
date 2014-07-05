@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Application of the fundamental principles of igneous petrology, geochemistry and fluid-rock interaction to metallogeny and ore genesis. Training in ore microscopy and mineral paragenesis with mineral chemistry and lithogeochemical data for selected case studies.\u00a0 Lectures, critical reading, discussion sections, laboratory work and seminars will provide an understanding of ore forming processes.", 
+        "number": "462", 
+        "subject": "GEOE", 
+        "title": "Advanced Petrogenesis and Metallogenesis"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 15, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 15, 
             "Eng Sci": 15, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.75"
-    }, 
-    "basic": {
-        "description": "Application of the fundamental principles of igneous petrology, geochemistry and fluid-rock interaction to metallogeny and ore genesis. Training in ore microscopy and mineral paragenesis with mineral chemistry and lithogeochemical data for selected case studies.\u00a0 Lectures, critical reading, discussion sections, laboratory work and seminars will provide an understanding of ore forming processes.", 
-        "subject": "GEOE", 
-        "number": "462", 
-        "title": "Advanced Petrogenesis and Metallogenesis"
     }
 }

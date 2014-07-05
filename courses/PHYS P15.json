@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A non-mathematical introduction to the science of astronomy for non-specialist students. Topics to be covered include the fundamentals of astronomy; an introduction to the tools and techniques of modern observational astronomy; the historical development of our understanding of the Earth, Moon and Solar System; space exploration of Mars, Jupiter, and other planets; the nature of the Sun; and the origin and uniqueness of our Solar System.", 
+        "number": "P15", 
+        "subject": "PHYS", 
+        "title": "Astronomy I: Solar System"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A non-mathematical introduction to the science of astronomy for non-specialist students. Topics to be covered include the fundamentals of astronomy; an introduction to the tools and techniques of modern observational astronomy; the historical development of our understanding of the Earth, Moon and Solar System; space exploration of Mars, Jupiter, and other planets; the nature of the Sun; and the origin and uniqueness of our Solar System.", 
-        "subject": "PHYS", 
-        "number": "P15", 
-        "title": "Astronomy I: Solar System"
     }
 }

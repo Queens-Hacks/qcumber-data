@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "P40", 
+        "subject": "ESLA", 
+        "title": "Advanced Level"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "ESLA", 
-        "number": "P40", 
-        "title": "Advanced Level"
     }
 }

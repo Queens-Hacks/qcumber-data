@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Studies in literary topics that cross over the historical boundaries between Groups I, II, and III. For detailed information, consult the Department.", 
+        "number": "490B", 
+        "subject": "ENGL", 
+        "title": "Studies in Literary Interpretation"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Studies in literary topics that cross over the historical boundaries between Groups I, II, and III. For detailed information, consult the Department.", 
-        "subject": "ENGL", 
-        "number": "490B", 
-        "title": "Studies in Literary Interpretation"
     }
 }

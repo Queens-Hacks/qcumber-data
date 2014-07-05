@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Discusses Asia, Africa and Latin America since 1945 with emphasis both on particular states (Argentina, South Africa, China for example), and on institutions such as the World Bank, the International Monetary Fund and the World Trade Organization. It also raises the question as to whether the role of the United States in the 'Third World' should be considered imperial or merely hegemonic.", 
+        "number": "283", 
+        "subject": "HIST", 
+        "title": "The Making of the Third World II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Discusses Asia, Africa and Latin America since 1945 with emphasis both on particular states (Argentina, South Africa, China for example), and on institutions such as the World Bank, the International Monetary Fund and the World Trade Organization. It also raises the question as to whether the role of the United States in the 'Third World' should be considered imperial or merely hegemonic.", 
-        "subject": "HIST", 
-        "number": "283", 
-        "title": "The Making of the Third World II"
     }
 }

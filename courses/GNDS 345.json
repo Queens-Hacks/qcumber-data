@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "345", 
+        "subject": "GNDS", 
+        "title": "Rsrch Mthds Women's Studies"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE Level 3 and GNDS 120/3.0 or GNDS 125/3.0 or WMNS 101/3.0 or WMNS 102/3.0 or WMNS 120/3.0 or WMNS 225/3.0.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "GNDS", 
-        "number": "345", 
-        "title": "Rsrch Mthds Women's Studies"
     }
 }

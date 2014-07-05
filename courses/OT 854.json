@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The first part of this course will be devoted to the theory and practice of knowledge transfer and diffusion. Laboratory sessions will focus on strategies to: influence and change public attitudes to disability, communicate about professional practice, and transfer knowledge about evidence based practice. The second part will be devoted to the theory and practice of advocacy and negotiation. Laboratory sessions will address strategies to pursue systems level changes that will ultimately enhance occupation.", 
+        "number": "854", 
+        "subject": "OT", 
+        "title": "Systems Level Communication"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The first part of this course will be devoted to the theory and practice of knowledge transfer and diffusion. Laboratory sessions will focus on strategies to: influence and change public attitudes to disability, communicate about professional practice, and transfer knowledge about evidence based practice. The second part will be devoted to the theory and practice of advocacy and negotiation. Laboratory sessions will address strategies to pursue systems level changes that will ultimately enhance occupation.", 
-        "subject": "OT", 
-        "number": "854", 
-        "title": "Systems Level Communication"
     }
 }

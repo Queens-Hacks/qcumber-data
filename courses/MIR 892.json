@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "892", 
+        "subject": "MIR", 
+        "title": "Directed Special Studies"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "MIR", 
-        "number": "892", 
-        "title": "Directed Special Studies"
     }
 }

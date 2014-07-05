@@ -1,24 +1,24 @@
 {
+    "_unique": "003-LAB (8543)", 
     "basic": {
         "class_num": "8543", 
-        "subject": "FILM", 
-        "status": "Open", 
         "course": "303", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "FILM", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "003-LAB (8543)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

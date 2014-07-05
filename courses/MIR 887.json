@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Management of change is designed to acquaint participants with the issues, techniques, and strategies for the management of change. The first part of the course concentrates on developing expertise in predicting relevant changes in the organization's task environment and making sure that change initiatives are in harmony with that environment. Techniques for environmental scanning and forecasting will be explored and useful models analysed. Students will also discuss and make presentations on current issues such as employee ownership, team based management, mergers and acquisitions, and organizational renewal. The second part of the course will focus on implementation. By course end, participants will understand the techniques for creating a need to change, managing resistance and applying change models to various industries and situations.", 
+        "number": "887", 
+        "subject": "MIR", 
+        "title": "Management Of Change"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Management of change is designed to acquaint participants with the issues, techniques, and strategies for the management of change. The first part of the course concentrates on developing expertise in predicting relevant changes in the organization's task environment and making sure that change initiatives are in harmony with that environment. Techniques for environmental scanning and forecasting will be explored and useful models analysed. Students will also discuss and make presentations on current issues such as employee ownership, team based management, mergers and acquisitions, and organizational renewal. The second part of the course will focus on implementation. By course end, participants will understand the techniques for creating a need to change, managing resistance and applying change models to various industries and situations.", 
-        "subject": "MIR", 
-        "number": "887", 
-        "title": "Management Of Change"
     }
 }

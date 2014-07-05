@@ -1,26 +1,26 @@
 {
+    "_unique": "001-PRA (8269)", 
     "basic": {
         "class_num": "8269", 
-        "subject": "KNPE", 
-        "status": "Open", 
         "course": "446A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "KNPE", 
         "type": "PRA", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "001-PRA (8269)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Torcolacci, Melody"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

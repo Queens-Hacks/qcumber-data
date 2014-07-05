@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Key issues in health and health care require approaches embodying psychological, biological, and sociological factors. For every CT scan, injection, or doctor visit, there is a person to be considered. This course explores a variety of health-related topics where psychology has a significant role (e.g., health promotion, stress, psychoneuroimmunology, medical contacts, pain, illness, sport). Canadian statistics used in discussions.", 
+        "number": "332", 
+        "subject": "PSYC", 
+        "title": "Health Psychology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PSYC235 and (3.0 units from PSYC202; STAT Options).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Key issues in health and health care require approaches embodying psychological, biological, and sociological factors. For every CT scan, injection, or doctor visit, there is a person to be considered. This course explores a variety of health-related topics where psychology has a significant role (e.g., health promotion, stress, psychoneuroimmunology, medical contacts, pain, illness, sport). Canadian statistics used in discussions.", 
-        "subject": "PSYC", 
-        "number": "332", 
-        "title": "Health Psychology"
     }
 }

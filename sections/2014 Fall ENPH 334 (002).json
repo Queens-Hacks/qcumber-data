@@ -1,37 +1,37 @@
 {
+    "_unique": "002-LAB (4883)", 
     "basic": {
         "class_num": "4883", 
-        "subject": "ENPH", 
-        "status": "Open", 
         "course": "334", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ENPH", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (4883)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Pereira, Aubert"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "STIRLING RM404", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 3, 
-            "location": "STIRLING RM404"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }, 
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Pereira, Aubert"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "STIRLING RM405", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 3, 
-            "location": "STIRLING RM405"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

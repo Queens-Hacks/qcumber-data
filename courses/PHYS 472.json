@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Phase space, the ergodic hypothesis and ensemble theory. Canonical and grand canonical ensembles. Partition functions. Ideal quantum gases. Classical gases and the liquid-vapour transition. Introduction to techniques for interacting systems, including Monte Carlo simulations.", 
+        "number": "472", 
+        "subject": "PHYS", 
+        "title": "Statistical Mechanics"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 PHYS313 and PHYS344 and PHYS372.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM412; PHYS472.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Phase space, the ergodic hypothesis and ensemble theory. Canonical and grand canonical ensembles. Partition functions. Ideal quantum gases. Classical gases and the liquid-vapour transition. Introduction to techniques for interacting systems, including Monte Carlo simulations.", 
-        "subject": "PHYS", 
-        "number": "472", 
-        "title": "Statistical Mechanics"
     }
 }

@@ -1,1 +1,16 @@
-{"courses": ["ENGL 100"], "required": true, "new_available": 46, "classified_info": "1 classified listing: $0.00", "isbn_13": "9781554811038", "used_available": 25, "isbn_10": "1554811031", "new_price": "$12.27", "authors": "Mary Shelley", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13504-ENGL100#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", "used_price": "$9.20", "title": "Frankenstein, third edition"}
+{
+    "authors": "Mary Shelley", 
+    "classified_info": "1 classified listing: $0.00", 
+    "courses": [
+        "ENGL 100"
+    ], 
+    "isbn_10": "1554811031", 
+    "isbn_13": "9781554811038", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13504-ENGL100#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", 
+    "new_available": 46, 
+    "new_price": "$12.27", 
+    "required": true, 
+    "title": "Frankenstein, third edition", 
+    "used_available": 25, 
+    "used_price": "$9.20"
+}

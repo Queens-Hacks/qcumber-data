@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Selected topics in environmental sciences. An advanced course on current research in environmental sciences. For detailed information, consult the course coordinator.", 
+        "number": "960", 
+        "subject": "BIOL", 
+        "title": "Environmental Sciences II"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Selected topics in environmental sciences. An advanced course on current research in environmental sciences. For detailed information, consult the course coordinator.", 
-        "subject": "BIOL", 
-        "number": "960", 
-        "title": "Environmental Sciences II"
     }
 }

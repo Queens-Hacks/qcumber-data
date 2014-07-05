@@ -1,28 +1,28 @@
 {
+    "basic": {
+        "description": "An applied statistics course covering practical topics in tests and confidence intervals for single and multiple samples, ANOVA, linear regression, correlations, methods for categorical data, and nonparametric methods. SPSS package is used in the lab. The course emphasizes analyzing data arising in life sciences using practical statistical methods.", 
+        "number": "401", 
+        "subject": "EPID", 
+        "title": "Biostatistical Data Analysis for Life Science Students"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 COMM162; ECON250; PYSC202; SOCY211; STAT263; STAT267; STAT367 and (Level 4 and registration in a LISC Major or Specialization Plan) and (a GPA of 2.5).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An applied statistics course covering practical topics in tests and confidence intervals for single and multiple samples, ANOVA, linear regression, correlations, methods for categorical data, and nonparametric methods. SPSS package is used in the lab. The course emphasizes analyzing data arising in life sciences using practical statistical methods.", 
-        "subject": "EPID", 
-        "number": "401", 
-        "title": "Biostatistical Data Analysis for Life Science Students"
     }
 }

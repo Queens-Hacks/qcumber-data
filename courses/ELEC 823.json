@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This is a fundamental graduate level course in statistical signal processing\u00a0 that assumes prior familiarity with digital signal processing concepts for deterministic signals, including topics such as digital filters and discrete Fourier transforms. Topics include:\u00a0 spectral analysis and modeling; linear prediction; adaptive algorithms; cyclostationary signals; wavelets; hidden Markov modeling.\u00a0 Applications will be drawn from several fields, including multimedia and biological signal processing. Three term hours; lectures.\u00a0 G. Chan", 
+        "number": "823", 
+        "subject": "ELEC", 
+        "title": "Signal Processing"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This is a fundamental graduate level course in statistical signal processing\u00a0 that assumes prior familiarity with digital signal processing concepts for deterministic signals, including topics such as digital filters and discrete Fourier transforms. Topics include:\u00a0 spectral analysis and modeling; linear prediction; adaptive algorithms; cyclostationary signals; wavelets; hidden Markov modeling.\u00a0 Applications will be drawn from several fields, including multimedia and biological signal processing. Three term hours; lectures.\u00a0 G. Chan", 
-        "subject": "ELEC", 
-        "number": "823", 
-        "title": "Signal Processing"
     }
 }

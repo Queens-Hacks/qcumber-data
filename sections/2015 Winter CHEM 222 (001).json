@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (2415)", 
     "basic": {
         "class_num": "2415", 
-        "subject": "CHEM", 
-        "status": "Open", 
         "course": "222", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CHEM", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-LEC (2415)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [
-                "Wu, Gang"
-            ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 3, 
-            "location": "ELLIS AUD"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Wu, Gang"
             ], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
+            "location": "ELLIS AUD", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
             "day_of_week": 5, 
-            "location": "ELLIS AUD"
-        }, 
-        {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "end_time": "1900-01-01T09:30:00", 
             "instructors": [
                 "Wu, Gang"
             ], 
-            "end_time": "1900-01-01T15:30:00", 
-            "start_time": "1900-01-01T14:30:00", 
+            "location": "ELLIS AUD", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "DUPUIS AUD"
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [
+                "Wu, Gang"
+            ], 
+            "location": "DUPUIS AUD", 
+            "start_time": "1900-01-01T14:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Topics include multivariate normal distribution theory, linear and nonlinear regression, generalized linear models, modern nonparametric regression. (Offered jointly with STAT-470*.)\u00a0 Three term hours, fall; lectures.\u00a0", 
+        "number": "870", 
+        "subject": "STAT", 
+        "title": "Regression Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topics include multivariate normal distribution theory, linear and nonlinear regression, generalized linear models, modern nonparametric regression. (Offered jointly with STAT-470*.)\u00a0 Three term hours, fall; lectures.\u00a0", 
-        "subject": "STAT", 
-        "number": "870", 
-        "title": "Regression Analysis"
     }
 }

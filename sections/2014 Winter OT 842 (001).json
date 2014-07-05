@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (6124)", 
     "basic": {
         "class_num": "6124", 
-        "subject": "OT", 
-        "status": "Closed", 
         "course": "842", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "OT", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (6124)", 
     "classes": [
         {
-            "term_end": "2014-06-06T00:00:00", 
-            "term_start": "2014-03-17T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T12:00:00", 
             "instructors": [
                 "Murphy, Susanne L"
             ], 
-            "end_time": "1900-01-01T12:00:00", 
+            "location": "BOTTER RM B147", 
             "start_time": "1900-01-01T09:00:00", 
-            "day_of_week": 2, 
-            "location": "BOTTER RM B147"
+            "term_end": "2014-06-06T00:00:00", 
+            "term_start": "2014-03-17T00:00:00"
         }
     ]
 }

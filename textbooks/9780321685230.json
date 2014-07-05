@@ -1,1 +1,13 @@
-{"isbn_13": "9780321685230", "isbn_10": "0321685237", "classified_info": "90 classified listings: $0.00 to $40.00", "new_price": "$53.00", "authors": "Christopher Ragan", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13485-ECON111#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["ECON 111"], "required": true, "title": "Study Guide for Microeconomics, Thirteenth Canadian Edition"}
+{
+    "authors": "Christopher Ragan", 
+    "classified_info": "90 classified listings: $0.00 to $40.00", 
+    "courses": [
+        "ECON 111"
+    ], 
+    "isbn_10": "0321685237", 
+    "isbn_13": "9780321685230", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13485-ECON111#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_price": "$53.00", 
+    "required": true, 
+    "title": "Study Guide for Microeconomics, Thirteenth Canadian Edition"
+}

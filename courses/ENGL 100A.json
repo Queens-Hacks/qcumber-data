@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "An introduction to literary study, with an emphasis on the formal analysis of a diverse range of poetry and prose. Specific content and approach vary from section to section, but all sections share the goals of developing sensitivity to genre, cultivating writing skills, and providing students with a set of literary terms and critical techniques as a foundation for further literary study.\r\nNOTE\u00a0\u00a0\u00a0 Enrollment preference is given to first-year students.", 
+        "number": "100A", 
+        "subject": "ENGL", 
+        "title": "Introduction to Literary Study"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Excl:\u00a0 No more than 6.0 units from ENGL100;110;112;160.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "An introduction to literary study, with an emphasis on the formal analysis of a diverse range of poetry and prose. Specific content and approach vary from section to section, but all sections share the goals of developing sensitivity to genre, cultivating writing skills, and providing students with a set of literary terms and critical techniques as a foundation for further literary study.\r\nNOTE\u00a0\u00a0\u00a0 Enrollment preference is given to first-year students.", 
-        "subject": "ENGL", 
-        "number": "100A", 
-        "title": "Introduction to Literary Study"
     }
 }

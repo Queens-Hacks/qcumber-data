@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course explores topics concerning legislation, legislatures and legislators through the lens of the ideas of democracy, constitutionalism, deliberation, and interpretation. The course combines research on practical legal issues with a theoretical exploration of law making. (To be offered jointly wtih LAW-222). Three term-hours; Not offered 2010-2011.", 
+        "number": "892", 
+        "subject": "LAW", 
+        "title": "Legislatures And Legislation"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course explores topics concerning legislation, legislatures and legislators through the lens of the ideas of democracy, constitutionalism, deliberation, and interpretation. The course combines research on practical legal issues with a theoretical exploration of law making. (To be offered jointly wtih LAW-222). Three term-hours; Not offered 2010-2011.", 
-        "subject": "LAW", 
-        "number": "892", 
-        "title": "Legislatures And Legislation"
     }
 }

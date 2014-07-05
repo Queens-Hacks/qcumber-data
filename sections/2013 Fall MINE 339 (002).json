@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (5155)", 
     "basic": {
         "class_num": "5155", 
-        "subject": "MINE", 
-        "status": "Closed", 
         "course": "339", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "MINE", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "002-LAB (5155)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "De Souza, Euler Magno"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "GOODWIN RM449", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 4, 
-            "location": "GOODWIN RM449"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

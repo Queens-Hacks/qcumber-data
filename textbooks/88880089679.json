@@ -1,1 +1,13 @@
-{"isbn_13": null, "isbn_10": "88880089679", "classified_info": "11 classified listings: $0.00 to $15.00", "new_price": "$20.25", "authors": "Miller", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13475-PHIL111#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["PHIL 111"], "required": true, "title": "PHIL111 Course Reader"}
+{
+    "authors": "Miller", 
+    "classified_info": "11 classified listings: $0.00 to $15.00", 
+    "courses": [
+        "PHIL 111"
+    ], 
+    "isbn_10": "88880089679", 
+    "isbn_13": null, 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13475-PHIL111#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "new_price": "$20.25", 
+    "required": true, 
+    "title": "PHIL111 Course Reader"
+}

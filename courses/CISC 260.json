@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Review of imperative programming features. Introduction to other widely used programming paradigms. Functional programming languages, such as LISP and Haskell. Higher order functions, lazy evaluation, abstract and recursive types, structural induction, symbolic expressions. Logic programming languages, such as PROLOG. Operational interpretation of predicates and terms, proof search, unification, backtracking. Typical applications.", 
+        "number": "260", 
+        "subject": "CISC", 
+        "title": "Programming Paradigms"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CISC124.\r\nCorequisite\u00a0\u00a0\u00a0\u00a0 CISC204.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Review of imperative programming features. Introduction to other widely used programming paradigms. Functional programming languages, such as LISP and Haskell. Higher order functions, lazy evaluation, abstract and recursive types, structural induction, symbolic expressions. Logic programming languages, such as PROLOG. Operational interpretation of predicates and terms, proof search, unification, backtracking. Typical applications.", 
-        "subject": "CISC", 
-        "number": "260", 
-        "title": "Programming Paradigms"
     }
 }

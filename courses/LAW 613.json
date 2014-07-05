@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Arbitration is an alternative to litigation that has emerged as a major means of dispute resolution in the area of international trade and commerce between both private and government entities. This course will cover the essential features of international commercial arbitration, with references to\u00a0Canadian cases.", 
+        "number": "613", 
+        "subject": "LAW", 
+        "title": "Int'l Commercial Arbitration"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Exclusion:\u00a0 Maximum of 2.00 units from LAW612 or LAW613.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "2.00"
-    }, 
-    "basic": {
-        "description": "Arbitration is an alternative to litigation that has emerged as a major means of dispute resolution in the area of international trade and commerce between both private and government entities. This course will cover the essential features of international commercial arbitration, with references to\u00a0Canadian cases.", 
-        "subject": "LAW", 
-        "number": "613", 
-        "title": "Int'l Commercial Arbitration"
     }
 }

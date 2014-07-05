@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "3UNS", 
+        "subject": "DRAM", 
+        "title": "Unspecified - 300 Level"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
         "grading_basis": "Non-Graded Component", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "DRAM", 
-        "number": "3UNS", 
-        "title": "Unspecified - 300 Level"
     }
 }

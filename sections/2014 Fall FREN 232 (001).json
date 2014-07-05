@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (6427)", 
     "basic": {
         "class_num": "6427", 
-        "subject": "FREN", 
-        "status": "Open", 
         "course": "232", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FREN", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (6427)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T21:30:00", 
             "instructors": [
                 "Inkel, Stephane"
             ], 
-            "end_time": "1900-01-01T21:30:00", 
+            "location": "KINGSTON RM308", 
             "start_time": "1900-01-01T18:30:00", 
-            "day_of_week": 1, 
-            "location": "KINGSTON RM308"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

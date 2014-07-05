@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (2241)", 
     "basic": {
         "class_num": "2241", 
-        "subject": "THEO", 
-        "status": "Closed", 
         "course": "714", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "THEO", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2241)", 
     "classes": [
         {
-            "term_end": "2014-08-11T00:00:00", 
-            "term_start": "2014-05-01T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Ascough, Richard"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-08-11T00:00:00", 
+            "term_start": "2014-05-01T00:00:00"
         }
     ]
 }

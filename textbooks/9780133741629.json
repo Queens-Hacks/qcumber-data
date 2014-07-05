@@ -1,1 +1,15 @@
-{"isbn_13": "9780133741629", "isbn_10": "0133741621", "classified_info": "0 classified listings", "new_price": "$107.30", "used_price": "$80.47", "authors": "Michael J. Quinn", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13694-CISC497-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["CISC 497"], "required": true, "new_available": 25, "title": "Ethics for the Information Age (6th Edition)"}
+{
+    "authors": "Michael J. Quinn", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "CISC 497"
+    ], 
+    "isbn_10": "0133741621", 
+    "isbn_13": "9780133741629", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13694-CISC497-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 25, 
+    "new_price": "$107.30", 
+    "required": true, 
+    "title": "Ethics for the Information Age (6th Edition)", 
+    "used_price": "$80.47"
+}

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The main objectives are to develop skill in using process and analytical equipment, to examine the strengths, weaknesses, and limitations of current theory, to improve the student's ability to obtain and interpret data, to demonstrate the value of planning experiments, to develop engineering judgement, and to provide experience in oral and written reporting.", 
+        "number": "315", 
+        "subject": "CHEE", 
+        "title": "Laboratory Projects II"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 48, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite of CHEE221, CHEE222 and CHEE223 and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 48, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "The main objectives are to develop skill in using process and analytical equipment, to examine the strengths, weaknesses, and limitations of current theory, to improve the student's ability to obtain and interpret data, to demonstrate the value of planning experiments, to develop engineering judgement, and to provide experience in oral and written reporting.", 
-        "subject": "CHEE", 
-        "number": "315", 
-        "title": "Laboratory Projects II"
     }
 }

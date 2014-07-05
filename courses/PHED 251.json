@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to descriptive and inferential statistics for the behavioural sciences.\u00a0Parametric and non-parametric tests will be described.", 
+        "number": "251", 
+        "subject": "PHED", 
+        "title": "Intro To Statistics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to descriptive and inferential statistics for the behavioural sciences.\u00a0Parametric and non-parametric tests will be described.", 
-        "subject": "PHED", 
-        "number": "251", 
-        "title": "Intro To Statistics"
     }
 }

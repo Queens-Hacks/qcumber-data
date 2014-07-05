@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "This course provides students with a framework with which to analyze individual and corporate investment and financing decisions. We will introduce the notions of both time and risk to the valuation of individual securities, such as stocks and bonds, and to capital investments undertaken by corporations. Through this framework, we will gain an understanding of financial markets and the process by which companies make their investment decisions. \u00a0 This course restricted to students enrolled in the 2nd year or higher of the Commerce Program.", 
+        "number": "121", 
+        "subject": "COMM", 
+        "title": "Introduction To Finance"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "(Prerequisite of COMM111 and registration in a BCOM Academic Program) or a COMM-X Academic Plan.\r\nExclusion\u00a0\u00a0 no more than 1 from COMM121 and 221", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides students with a framework with which to analyze individual and corporate investment and financing decisions. We will introduce the notions of both time and risk to the valuation of individual securities, such as stocks and bonds, and to capital investments undertaken by corporations. Through this framework, we will gain an understanding of financial markets and the process by which companies make their investment decisions. \u00a0 This course restricted to students enrolled in the 2nd year or higher of the Commerce Program.", 
-        "subject": "COMM", 
-        "number": "121", 
-        "title": "Introduction To Finance"
     }
 }

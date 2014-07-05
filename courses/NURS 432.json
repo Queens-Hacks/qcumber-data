@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "In this seminar course, students will examine and evaluate critically the influence of lifestyle and lifestyle modification on cardiovascular and cerebrovascular health and disease.\u00a0 Specifically, students will study 1) the relation between cardiovascular and cerebrovascular health and chronic illness, 2) the relation between lifestyle risk factors for ischemic heart disease and cerebrovascular disease, 3) the effects of lifestyle modification (eg., exercise, diet) on recovery\u00a0 following a myocardial infarction, coronary artery bypass graft surgery, angioplasty or stroke, 4) the effects of lifestyle modification (e/g/. exercise, diet) on promoting health and reducing modifiable risk factors for ischemic heart disease and cerebrovascular disease of their effects. 3 hours lecture per week for 12 weeks 9 units (3 credits).", 
+        "number": "432", 
+        "subject": "NURS", 
+        "title": "Lifestyle & Cardiovascular"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "In this seminar course, students will examine and evaluate critically the influence of lifestyle and lifestyle modification on cardiovascular and cerebrovascular health and disease.\u00a0 Specifically, students will study 1) the relation between cardiovascular and cerebrovascular health and chronic illness, 2) the relation between lifestyle risk factors for ischemic heart disease and cerebrovascular disease, 3) the effects of lifestyle modification (eg., exercise, diet) on recovery\u00a0 following a myocardial infarction, coronary artery bypass graft surgery, angioplasty or stroke, 4) the effects of lifestyle modification (e/g/. exercise, diet) on promoting health and reducing modifiable risk factors for ischemic heart disease and cerebrovascular disease of their effects. 3 hours lecture per week for 12 weeks 9 units (3 credits).", 
-        "subject": "NURS", 
-        "number": "432", 
-        "title": "Lifestyle & Cardiovascular"
     }
 }

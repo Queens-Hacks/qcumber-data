@@ -1,24 +1,24 @@
 {
+    "_unique": "001-IND (2091)", 
     "basic": {
         "class_num": "2091", 
-        "subject": "MUSC", 
-        "status": "Open", 
         "course": "321B", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MUSC", 
         "type": "IND", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "001-IND (2091)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Philosophical issues - both epistemological and ethical - involved in specific debates about the relationship between science and social issues. The course may focus, for instance, on recent 'popular' sociobiology efforts by biologists and others to establish scientific theories of human nature and human potential.", 
+        "number": "203", 
+        "subject": "PHIL", 
+        "title": "Science and Society"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 6.0 units in PHIL", 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Philosophical issues - both epistemological and ethical - involved in specific debates about the relationship between science and social issues. The course may focus, for instance, on recent 'popular' sociobiology efforts by biologists and others to establish scientific theories of human nature and human potential.", 
-        "subject": "PHIL", 
-        "number": "203", 
-        "title": "Science and Society"
     }
 }

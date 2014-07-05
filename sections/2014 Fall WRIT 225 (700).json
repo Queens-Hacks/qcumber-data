@@ -1,26 +1,26 @@
 {
+    "_unique": "700-ONL (7642)", 
     "basic": {
         "class_num": "7642", 
-        "subject": "WRIT", 
-        "status": "Open", 
         "course": "225", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "700", 
+        "status": "Open", 
+        "subject": "WRIT", 
         "type": "ONL", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "700-ONL (7642)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Hardwick, Martina"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

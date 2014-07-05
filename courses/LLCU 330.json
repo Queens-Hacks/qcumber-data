@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A study of Don Quijote I and a selection of his short theatrical Interludes.\u00a0 The course will consider the socio-economic and historical context and the literary implications of these works to provide a better understanding of 17th century Spain and the significance Cervantes' works still hold today.\r\nNOTE\u00a0\u00a0\u00a0 Readings are in translation.", 
+        "number": "330", 
+        "subject": "LLCU", 
+        "title": "Cervantes I: Earlier Works"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 or permission of the Department of LLCU\r\nExclusion\u00a0\u00a0\u00a0 No more than 3 units from LLCU330; SPAN330.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of Don Quijote I and a selection of his short theatrical Interludes.\u00a0 The course will consider the socio-economic and historical context and the literary implications of these works to provide a better understanding of 17th century Spain and the significance Cervantes' works still hold today.\r\nNOTE\u00a0\u00a0\u00a0 Readings are in translation.", 
-        "subject": "LLCU", 
-        "number": "330", 
-        "title": "Cervantes I: Earlier Works"
     }
 }

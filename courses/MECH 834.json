@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course presents the fundamental principles of solar energy conversion, storage and distribution. Both photovoltaic and thermal energy conversion systems will be introduced; however the primary focus of the course will be on solar thermal systems for heating and cooling applications. Topics covered include the nature and prediction of the solar resource, solar collector design and performance, thermal storage, heat transport and distribution. The modeling and design of complete solar heating and cooling systems will be studied and exercises completed. Students will be required to complete a major project related to one of the above topics. Course lecture material will be augmented with laboratory exercises. S.J. Harrison.", 
+        "number": "834", 
+        "subject": "MECH", 
+        "title": "Fundamentals Of Solar Energy"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course presents the fundamental principles of solar energy conversion, storage and distribution. Both photovoltaic and thermal energy conversion systems will be introduced; however the primary focus of the course will be on solar thermal systems for heating and cooling applications. Topics covered include the nature and prediction of the solar resource, solar collector design and performance, thermal storage, heat transport and distribution. The modeling and design of complete solar heating and cooling systems will be studied and exercises completed. Students will be required to complete a major project related to one of the above topics. Course lecture material will be augmented with laboratory exercises. S.J. Harrison.", 
-        "subject": "MECH", 
-        "number": "834", 
-        "title": "Fundamentals Of Solar Energy"
     }
 }

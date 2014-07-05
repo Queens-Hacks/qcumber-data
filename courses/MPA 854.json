@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course offers a critical examination of international assistance policies that promote democracy. It looks at the rationale for these policies, reviews the latest scholarship on theories of democratic development, assesses the strategies underlying assistance policies in the context of these theories, and reviews available information on the effectiveness of the policies of individual donor nations, international agencies, and non-governmental organizations (NGOs).", 
+        "number": "854", 
+        "subject": "MPA", 
+        "title": "Democratic Development"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course offers a critical examination of international assistance policies that promote democracy. It looks at the rationale for these policies, reviews the latest scholarship on theories of democratic development, assesses the strategies underlying assistance policies in the context of these theories, and reviews available information on the effectiveness of the policies of individual donor nations, international agencies, and non-governmental organizations (NGOs).", 
-        "subject": "MPA", 
-        "number": "854", 
-        "title": "Democratic Development"
     }
 }

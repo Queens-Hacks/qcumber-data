@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course covers the following topics related to heat transfer by thermal radiation: fundamentals of thermal radiation, blackbody thermal radiation, radiative properties of real materials, surface to surface exchange of diffuse radiation, numerical solution of diffuse radiation problems, non-diffuse and specular radiation from surfaces, spectral radiation, radiation with conduction and convection, radiation in absorbing, emitting and scattering media, gas volume radiation, surface-volume radiation, selected applications. Three term hours, lectures. A.M. Birk.\u00a0", 
+        "number": "936", 
+        "subject": "MECH", 
+        "title": "Radiative Heat Transfer"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course covers the following topics related to heat transfer by thermal radiation: fundamentals of thermal radiation, blackbody thermal radiation, radiative properties of real materials, surface to surface exchange of diffuse radiation, numerical solution of diffuse radiation problems, non-diffuse and specular radiation from surfaces, spectral radiation, radiation with conduction and convection, radiation in absorbing, emitting and scattering media, gas volume radiation, surface-volume radiation, selected applications. Three term hours, lectures. A.M. Birk.\u00a0", 
-        "subject": "MECH", 
-        "number": "936", 
-        "title": "Radiative Heat Transfer"
     }
 }

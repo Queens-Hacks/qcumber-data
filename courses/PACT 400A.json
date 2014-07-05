@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Advanced practicum course that provides students with the required theory, technical and tactical knowledge to coach at the high school or youth club level. Students will focus on either volleyball or basketball in learning coaching techniques such as demonstration skills, error detection and correction skills as well as drill design and delivery. A community-based coaching experience may be required.", 
+        "number": "400A", 
+        "subject": "PACT", 
+        "title": "Advanced Practicum"
+    }, 
     "extra": {
-        "career": "Undergraduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Advanced practicum course that provides students with the required theory, technical and tactical knowledge to coach at the high school or youth club level. Students will focus on either volleyball or basketball in learning coaching techniques such as demonstration skills, error detection and correction skills as well as drill design and delivery. A community-based coaching experience may be required.", 
-        "subject": "PACT", 
-        "number": "400A", 
-        "title": "Advanced Practicum"
     }
 }

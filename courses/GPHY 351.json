@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An overview of selected elements of the geographies of Aboriginal peoples in Canada with a focus on the relationship between Aboriginal peoples and their environments, urbanization and culture change, and colonialism.", 
+        "number": "351", 
+        "subject": "GPHY", 
+        "title": "Aboriginal Geographies of Canada"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of Level 3 and (6.0 units from GPHY210; GPHY227; GPHY228; GPHY229) or (3.0 units at the 200 level or above in DEVS or GNDS), or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An overview of selected elements of the geographies of Aboriginal peoples in Canada with a focus on the relationship between Aboriginal peoples and their environments, urbanization and culture change, and colonialism.", 
-        "subject": "GPHY", 
-        "number": "351", 
-        "title": "Aboriginal Geographies of Canada"
     }
 }

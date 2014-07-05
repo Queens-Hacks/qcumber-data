@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A course of interest to prospective teachers. Elementary school mathematics is considered from an enriched point of view. Theoretical and pedagogical questions will be raised throughout the course, and students will be required to teach a one-hour enrichment class, once a week for 10 weeks, to grade 7 or 8 students in a local elementary school.\r\nNOTE\u00a0\u00a0 \u00a0Students may incur transportation costs. These will vary, but are expected to be no more than $50. Students must obtain a criminal record check at their local police prior to the course. A fee will be charged.\u00a0\r\nNOTE\u00a0\u00a0\u00a0 Does not prepare student for courses in mathematics or statistics. This course may not be included in a MATH or STAT plan.", 
+        "number": "P10", 
+        "subject": "MATH", 
+        "title": "Fundamental Concepts in Elementary Mathematics for Teachers"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A course of interest to prospective teachers. Elementary school mathematics is considered from an enriched point of view. Theoretical and pedagogical questions will be raised throughout the course, and students will be required to teach a one-hour enrichment class, once a week for 10 weeks, to grade 7 or 8 students in a local elementary school.\r\nNOTE\u00a0\u00a0 \u00a0Students may incur transportation costs. These will vary, but are expected to be no more than $50. Students must obtain a criminal record check at their local police prior to the course. A fee will be charged.\u00a0\r\nNOTE\u00a0\u00a0\u00a0 Does not prepare student for courses in mathematics or statistics. This course may not be included in a MATH or STAT plan.", 
-        "subject": "MATH", 
-        "number": "P10", 
-        "title": "Fundamental Concepts in Elementary Mathematics for Teachers"
     }
 }

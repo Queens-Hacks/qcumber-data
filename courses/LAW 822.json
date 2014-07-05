@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The objectives of this course are two: to offer a basic course on the law relating to human rights, with particular emphasis on discrimination, including equality rights and affirmative action; and to accomplish some of what is contemplated by an advanced administrative law course, by examining the functioning of Human Rights Commissions, and practice and administrative law advocacy in that context. (To be offered jointly with LAW-522.) Three term-hours; Fall. J. McHenry.", 
+        "number": "822", 
+        "subject": "LAW", 
+        "title": "Human Rights"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The objectives of this course are two: to offer a basic course on the law relating to human rights, with particular emphasis on discrimination, including equality rights and affirmative action; and to accomplish some of what is contemplated by an advanced administrative law course, by examining the functioning of Human Rights Commissions, and practice and administrative law advocacy in that context. (To be offered jointly with LAW-522.) Three term-hours; Fall. J. McHenry.", 
-        "subject": "LAW", 
-        "number": "822", 
-        "title": "Human Rights"
     }
 }

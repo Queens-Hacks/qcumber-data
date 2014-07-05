@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Intermediate study in history and critical analysis, from early cinema to the tax-shelter boom and the institution of Telefilm Canada.", 
+        "number": "322", 
+        "subject": "FILM", 
+        "title": "Canadian Film and Television to 1980"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A GPA of 2.6 in FILM and (a grade of B- in FILM110 or FILM104&106) and 6.0 units in FILM.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intermediate study in history and critical analysis, from early cinema to the tax-shelter boom and the institution of Telefilm Canada.", 
-        "subject": "FILM", 
-        "number": "322", 
-        "title": "Canadian Film and Television to 1980"
     }
 }

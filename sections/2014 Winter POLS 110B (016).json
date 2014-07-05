@@ -1,24 +1,24 @@
 {
+    "_unique": "016-TUT (5088)", 
     "basic": {
         "class_num": "5088", 
-        "subject": "POLS", 
-        "status": "Open", 
         "course": "110B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "016", 
+        "status": "Open", 
+        "subject": "POLS", 
         "type": "TUT", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "016-TUT (5088)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 2, 
-            "location": "ELLIS RM218"
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [], 
+            "location": "ELLIS RM218", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

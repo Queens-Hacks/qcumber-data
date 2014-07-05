@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course focuses on design, manufacturing and product management of various implantable biomechanical devices, such as artificial joints, ligaments and various other external devices for persons with disabilities. Some aspects, such as the determination of the geometry and different sizes for artificial joints are product specific, while safety criteria, standards, rational choice of alternatives, design procedures and product management are applicable when designing a much larger variety of products. Much of the theory will be based on examples of artificial joints, and on external devices and instruments.", 
+        "number": "393", 
+        "subject": "MECH", 
+        "title": "Biomechanical Product Developm"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 24, 
             "Eng Sci": 18, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of CHEE340 and registered in a BSCE Academic Program.", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course focuses on design, manufacturing and product management of various implantable biomechanical devices, such as artificial joints, ligaments and various other external devices for persons with disabilities. Some aspects, such as the determination of the geometry and different sizes for artificial joints are product specific, while safety criteria, standards, rational choice of alternatives, design procedures and product management are applicable when designing a much larger variety of products. Much of the theory will be based on examples of artificial joints, and on external devices and instruments.", 
-        "subject": "MECH", 
-        "number": "393", 
-        "title": "Biomechanical Product Developm"
     }
 }

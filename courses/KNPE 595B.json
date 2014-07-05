@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An independent study involving a research proposal and project on an approved topic in the area of health enhancement, disease prevention, and human performance. The research proposal will be completed in the Fall Term and research project in the Winter Term. Students must arrange for a full-time faculty advisor in the School of Kinesiology and Health\u00a0Studies.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 HLTH 252/3.0.", 
+        "number": "595B", 
+        "subject": "KNPE", 
+        "title": "Honours Thesis in Kinesiology and Physical Education"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "typically_offered": "Fall, Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "An independent study involving a research proposal and project on an approved topic in the area of health enhancement, disease prevention, and human performance. The research proposal will be completed in the Fall Term and research project in the Winter Term. Students must arrange for a full-time faculty advisor in the School of Kinesiology and Health\u00a0Studies.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 HLTH 252/3.0.", 
-        "subject": "KNPE", 
-        "number": "595B", 
-        "title": "Honours Thesis in Kinesiology and Physical Education"
     }
 }

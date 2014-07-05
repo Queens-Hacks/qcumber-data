@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course provides an introduction to the topics of interest in the theory and practice of integrated marketing communications. Beginning with a basic understanding of the communication process, we address effective communication and creative strategy. We also examine strategies of integration across marketing communication elements, including traditional media advertising, internet and interactive advertising, direct, experiential, and word-of-mouth marketing, sales promotion, and public relations. Additional topics include efficiency in media planning, and the effects and effectiveness of advertising and communication. This course will introduce you to all topics necessary to design a complete integrated marketing communications campaign plan.", 
+        "number": "335", 
+        "subject": "COMM", 
+        "title": "Marketing Communications"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "(Prerequisite of COMM131 or COMM231 and registered in a BCOM Academic Program and have a level > or equal to 3) or registered in a COMM-X Academic Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides an introduction to the topics of interest in the theory and practice of integrated marketing communications. Beginning with a basic understanding of the communication process, we address effective communication and creative strategy. We also examine strategies of integration across marketing communication elements, including traditional media advertising, internet and interactive advertising, direct, experiential, and word-of-mouth marketing, sales promotion, and public relations. Additional topics include efficiency in media planning, and the effects and effectiveness of advertising and communication. This course will introduce you to all topics necessary to design a complete integrated marketing communications campaign plan.", 
-        "subject": "COMM", 
-        "number": "335", 
-        "title": "Marketing Communications"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Introduction to design and analysis of algorithms. Control structures: recursion, backtracking. Data structures: multidimensional arrays, defined data types. Introduction to numerical computation. Documentation, testing and debugging. Object-oriented design, architecture and programming: encapsulation and representational abstraction, inheritance and polymorphism, interfaces and abstract classes, exception handling.\u00a0 (0/0/0/26/22)", 
+        "number": "212", 
+        "subject": "CISC", 
+        "title": "Computing Science For Engineer"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of (APSC142 and APSC174) and registered in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "Introduction to design and analysis of algorithms. Control structures: recursion, backtracking. Data structures: multidimensional arrays, defined data types. Introduction to numerical computation. Documentation, testing and debugging. Object-oriented design, architecture and programming: encapsulation and representational abstraction, inheritance and polymorphism, interfaces and abstract classes, exception handling.\u00a0 (0/0/0/26/22)", 
-        "subject": "CISC", 
-        "number": "212", 
-        "title": "Computing Science For Engineer"
     }
 }

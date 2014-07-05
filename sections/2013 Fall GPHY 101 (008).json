@@ -1,26 +1,26 @@
 {
+    "_unique": "008-TUT (4379)", 
     "basic": {
         "class_num": "4379", 
-        "subject": "GPHY", 
-        "status": "Closed", 
         "course": "101", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "008", 
+        "status": "Closed", 
+        "subject": "GPHY", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "008-TUT (4379)", 
     "classes": [
         {
-            "term_end": "2013-11-29T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Davidson, Joyce"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
+            "location": "MACINTOSH-CORRY RM A311", 
             "start_time": "1900-01-01T10:00:00", 
-            "day_of_week": 1, 
-            "location": "MACINTOSH-CORRY RM A311"
+            "term_end": "2013-11-29T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

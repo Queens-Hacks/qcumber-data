@@ -1,37 +1,37 @@
 {
+    "_unique": "001-LEC (5396)", 
     "basic": {
         "class_num": "5396", 
-        "subject": "GPHY", 
-        "status": "Open", 
         "course": "351", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GPHY", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (5396)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Lovelace, Robert"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "CHERNOFF RM117", 
             "start_time": "1900-01-01T16:00:00", 
-            "day_of_week": 1, 
-            "location": "CHERNOFF RM117"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }, 
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T16:00:00", 
             "instructors": [
                 "Lovelace, Robert"
             ], 
-            "end_time": "1900-01-01T16:00:00", 
+            "location": "CHERNOFF RM117", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 3, 
-            "location": "CHERNOFF RM117"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

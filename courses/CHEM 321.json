@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Overview of instrumental methods of chemical analysis. Topics include gas and liquid chromatography, mass spectrometric detection, new separation methods, electrochemical analysis, inductively coupled plasma-based elemental analysis.", 
+        "number": "321", 
+        "subject": "CHEM", 
+        "title": "Instrumental Chemical Analysis"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "CHEM213", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Overview of instrumental methods of chemical analysis. Topics include gas and liquid chromatography, mass spectrometric detection, new separation methods, electrochemical analysis, inductively coupled plasma-based elemental analysis.", 
-        "subject": "CHEM", 
-        "number": "321", 
-        "title": "Instrumental Chemical Analysis"
     }
 }

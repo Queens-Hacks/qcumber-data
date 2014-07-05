@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Seminar on a selected historical topic. Topics change from year to year; course is either being offered for the first time or is being taught by visiting faculty. Consult department office or website for details. May be offered jointly with HIST-400.\u00a0", 
+        "number": "880B", 
+        "subject": "HIST", 
+        "title": "Selected Topics In History 1v"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Seminar on a selected historical topic. Topics change from year to year; course is either being offered for the first time or is being taught by visiting faculty. Consult department office or website for details. May be offered jointly with HIST-400.\u00a0", 
-        "subject": "HIST", 
-        "number": "880B", 
-        "title": "Selected Topics In History 1v"
     }
 }

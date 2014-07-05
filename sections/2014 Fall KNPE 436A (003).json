@@ -1,26 +1,26 @@
 {
+    "_unique": "003-LAB (7510)", 
     "basic": {
         "class_num": "7510", 
-        "subject": "KNPE", 
-        "status": "Open", 
         "course": "436A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "003", 
+        "status": "Open", 
+        "subject": "KNPE", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "003-LAB (7510)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T15:00:00", 
             "instructors": [
                 "Latimer, Amy E"
             ], 
-            "end_time": "1900-01-01T15:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T13:00:00", 
-            "day_of_week": 3, 
-            "location": "TBA"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

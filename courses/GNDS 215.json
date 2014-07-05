@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course is an introduction to studies in sexuality and gender diversity. It will survey the field and include topics such as classical inquiries into sexuality, contemporary theories on Lesbian, Gay, Bisexual, Transgender and Queer identities, sexual movements, human rights, sexual morality, pornography, global sex trade, and queer cultural production. This course is open to all students but required for students enrolled in the Certificate in Sexual and Gender Diversity. It is designed to introduce SXGD students to the field and prepare them for selecting future courses.", 
+        "number": "215", 
+        "subject": "GNDS", 
+        "title": "Introduction to Sexual and Gender Diversity"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "2nd year standing and above\r\nexclusion\u00a0\u00a0\u00a0 no more than 1 course from COMM151 and COMM251", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course is an introduction to studies in sexuality and gender diversity. It will survey the field and include topics such as classical inquiries into sexuality, contemporary theories on Lesbian, Gay, Bisexual, Transgender and Queer identities, sexual movements, human rights, sexual morality, pornography, global sex trade, and queer cultural production. This course is open to all students but required for students enrolled in the Certificate in Sexual and Gender Diversity. It is designed to introduce SXGD students to the field and prepare them for selecting future courses.", 
-        "subject": "GNDS", 
-        "number": "215", 
-        "title": "Introduction to Sexual and Gender Diversity"
     }
 }

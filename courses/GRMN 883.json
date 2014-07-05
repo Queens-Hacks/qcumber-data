@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "A representative sample of Novellen from Goethe to Hauptmann will be examined in detail. In addition to discussing the style and content of each work, an attempt will be made to reach some conclusions concerning the problematic nature of the genre. Three term-hours; fall. W.Nell", 
+        "number": "883", 
+        "subject": "GRMN", 
+        "title": "German \"Novelle\"\u00a0 19th Cent."
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A representative sample of Novellen from Goethe to Hauptmann will be examined in detail. In addition to discussing the style and content of each work, an attempt will be made to reach some conclusions concerning the problematic nature of the genre. Three term-hours; fall. W.Nell", 
-        "subject": "GRMN", 
-        "number": "883", 
-        "title": "German \"Novelle\"\u00a0 19th Cent."
     }
 }

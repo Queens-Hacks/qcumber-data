@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "This course covers 8 broad areas of rehabilitation practice including: the Canadian health care system, the rehabilitation profession\u00bfs scopes of practice, professionalism, jurisprudence (legislation and regulation) in rehabilitation, biomedical ethics and ethical issues in rehabilitation, cultural competency in practice, health and disability, and educational theory and its applications in rehabilitation. Topics also include the determinants of health and the world health environment. This framework is to be used by the student as a reference and knowledge base to be accessed throughout their university education and, subsequently, as a foundation for clinical practice.", 
+        "number": "841B", 
+        "subject": "PT", 
+        "title": "Professional Practice"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "This course covers 8 broad areas of rehabilitation practice including: the Canadian health care system, the rehabilitation profession\u00bfs scopes of practice, professionalism, jurisprudence (legislation and regulation) in rehabilitation, biomedical ethics and ethical issues in rehabilitation, cultural competency in practice, health and disability, and educational theory and its applications in rehabilitation. Topics also include the determinants of health and the world health environment. This framework is to be used by the student as a reference and knowledge base to be accessed throughout their university education and, subsequently, as a foundation for clinical practice.", 
-        "subject": "PT", 
-        "number": "841B", 
-        "title": "Professional Practice"
     }
 }

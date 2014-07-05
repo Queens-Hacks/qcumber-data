@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A study of representative literary works of the 15th and 16th centuries, including Villon, Montaigne, Rabelais.\u00a0Travaux pratiques include tests, an oral presentation and an in-depth essay. Given jointly with FREN 315/3.0.\u00a0", 
+        "number": "405", 
+        "subject": "FREN", 
+        "title": "Introduction \u00e0 la litt\u00e9rature fran\u00e7aise de la Renaissance"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 FREN212 and FREN220 and Level 4 and registration in a FREN or FRLG Plan.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN315; FREN405.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A study of representative literary works of the 15th and 16th centuries, including Villon, Montaigne, Rabelais.\u00a0Travaux pratiques include tests, an oral presentation and an in-depth essay. Given jointly with FREN 315/3.0.\u00a0", 
-        "subject": "FREN", 
-        "number": "405", 
-        "title": "Introduction \u00e0 la litt\u00e9rature fran\u00e7aise de la Renaissance"
     }
 }

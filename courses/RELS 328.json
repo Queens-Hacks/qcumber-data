@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The primary focus of the course will be the theological perspectives and social functions of apocalyptic in select religious traditions. The course will also survey the appropriation of apocalyptic themes throughout history in artistic forms such as art, fiction, and film, with particular attention to our modern times and cultures.", 
+        "number": "328", 
+        "subject": "RELS", 
+        "title": "Interpretation of Apocalyptic Literature"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 3 or above or 6.0 units at the 100 level in RELS", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The primary focus of the course will be the theological perspectives and social functions of apocalyptic in select religious traditions. The course will also survey the appropriation of apocalyptic themes throughout history in artistic forms such as art, fiction, and film, with particular attention to our modern times and cultures.", 
-        "subject": "RELS", 
-        "number": "328", 
-        "title": "Interpretation of Apocalyptic Literature"
     }
 }

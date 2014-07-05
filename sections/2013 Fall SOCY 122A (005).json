@@ -1,24 +1,24 @@
 {
+    "_unique": "005-LEC (6007)", 
     "basic": {
         "class_num": "6007", 
-        "subject": "SOCY", 
-        "status": "Open", 
         "course": "122A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "005", 
+        "status": "Open", 
+        "subject": "SOCY", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "005-LEC (6007)", 
     "classes": [
         {
-            "term_end": "2013-12-01T00:00:00", 
-            "term_start": "2013-09-09T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 5, 
-            "location": "STIRLING RM A"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM A", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
         }
     ]
 }

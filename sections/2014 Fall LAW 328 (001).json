@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (1263)", 
     "basic": {
         "class_num": "1263", 
-        "subject": "LAW", 
-        "status": "Open", 
         "course": "328", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
         "type": "SEM", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (1263)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-02T00:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Metcalf, Cherie M"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "MACDONALD RM400", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 2, 
-            "location": "MACDONALD RM400"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-02T00:00:00"
         }
     ]
 }

@@ -1,1 +1,14 @@
-{"isbn_13": "9780888947215", "used_available": 7, "isbn_10": "0888947216", "classified_info": "0 classified listings", "used_price": "$14.18", "authors": "S Lee", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13631-ENGL481#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", "courses": ["ENGL 481"], "required": true, "title": "Disappearing Moon Cafe"}
+{
+    "authors": "S Lee", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 481"
+    ], 
+    "isbn_10": "0888947216", 
+    "isbn_13": "9780888947215", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13631-ENGL481#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl02_test_ModeFull", 
+    "required": true, 
+    "title": "Disappearing Moon Cafe", 
+    "used_available": 7, 
+    "used_price": "$14.18"
+}

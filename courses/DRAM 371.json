@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Intensive study in the mandate and practice of the Shaw Festival in Niagara-on-the-Lake, Ontario. Students attend several productions at the Shaw Festival, discussing these in seminars and with guest speakers drawn from the Shaw company where available.\u00a0 \r\nNOTE\u00a0\u00a0\u00a0 Taught in\u00a0Niagara-on-the-Lake during Summer Term. May be taken in conjunction with DRAM 373/3.0. There is a lab fee for this course, which includes theatre tickets. Information regarding fee and accommodation is available on the Departmental website.", 
+        "number": "371", 
+        "subject": "DRAM", 
+        "title": "Modern Drama at the Shaw Festival"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 and (registration in a DRAM Major or Medial Plan, or COCA-CODR Sub-Plan, or STSC Specialization Plan) and (a GPA of 2.6 in DRAM) or permission of the Department.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Intensive study in the mandate and practice of the Shaw Festival in Niagara-on-the-Lake, Ontario. Students attend several productions at the Shaw Festival, discussing these in seminars and with guest speakers drawn from the Shaw company where available.\u00a0 \r\nNOTE\u00a0\u00a0\u00a0 Taught in\u00a0Niagara-on-the-Lake during Summer Term. May be taken in conjunction with DRAM 373/3.0. There is a lab fee for this course, which includes theatre tickets. Information regarding fee and accommodation is available on the Departmental website.", 
-        "subject": "DRAM", 
-        "number": "371", 
-        "title": "Modern Drama at the Shaw Festival"
     }
 }

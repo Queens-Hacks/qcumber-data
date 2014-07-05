@@ -1,28 +1,28 @@
 {
+    "basic": {
+        "description": "Focuses on assessing, monitoring and managing the care of clients across the life span, with major life-threatening illnesses. Illnesses may include sudden catastrophic events, an acute exacerbation of a chronic illness, unexpected deterioration in illness trajectory, sudden irreversible deterioration in health or illness pattern. Ethical, legal, societal and current health service delivery issues are incorporated.\u00a03 hours lecture per week; 9 units (3 credits) course weight.", 
+        "number": "403", 
+        "subject": "NURS", 
+        "title": "Concpts Acute & Critical Ilnes"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "(NURS305 AND NURS340) OR (NURS305 AND NURS345) OR (NURS305 AND NURS315) OR (NURS305 AND NURS316) OR (NURS305 AND NURS323) OR (NURS305 AND NURS325) OR (NURS305 AND NURS324) OR (NURS303 AND NURS407) OR (NURS303 AND NURS408) OR (NURS303 AND NURS409)", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Focuses on assessing, monitoring and managing the care of clients across the life span, with major life-threatening illnesses. Illnesses may include sudden catastrophic events, an acute exacerbation of a chronic illness, unexpected deterioration in illness trajectory, sudden irreversible deterioration in health or illness pattern. Ethical, legal, societal and current health service delivery issues are incorporated.\u00a03 hours lecture per week; 9 units (3 credits) course weight.", 
-        "subject": "NURS", 
-        "number": "403", 
-        "title": "Concpts Acute & Critical Ilnes"
     }
 }

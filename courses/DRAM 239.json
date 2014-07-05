@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Practical work in selected areas of performance. \r\nNOTE\u00a0\u00a0\u00a0 Not offered every year. Prerequisites vary depending on specific course content; consult Department", 
+        "number": "239", 
+        "subject": "DRAM", 
+        "title": "Special Topics in Performance I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Practicum": "Required"
         }, 
         "enrollment_requirement": "Exclusions\u00a0\u00a0\u00a0 No more than 6.0 units from DRAM236; DRAM237; DRAM238; DRAM239", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Practical work in selected areas of performance. \r\nNOTE\u00a0\u00a0\u00a0 Not offered every year. Prerequisites vary depending on specific course content; consult Department", 
-        "subject": "DRAM", 
-        "number": "239", 
-        "title": "Special Topics in Performance I"
     }
 }

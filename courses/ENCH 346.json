@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course introduces quantum mechanics and molecular simulation as engineering tools for the understanding and design of molecular structure and properties. It is aimed at providing an overview of the principles of quantum mechanical theory and molecular simulation with strong emphasis on applications to engineering problems. Key mathematical concepts will be discussed and applied using state-of-the-art modeling software. NOTE: Offered in conjunction with CHEM 313.", 
+        "number": "346", 
+        "subject": "ENCH", 
+        "title": "Quantum Mechanics and Molecular Simulation"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 21, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 21, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "PREREQ: CHEE 210 and (MTHE 225 or MATH 225) and registered in BSCE", 
-        "CEAB": {
-            "Basic Sci": 21, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 21, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This course introduces quantum mechanics and molecular simulation as engineering tools for the understanding and design of molecular structure and properties. It is aimed at providing an overview of the principles of quantum mechanical theory and molecular simulation with strong emphasis on applications to engineering problems. Key mathematical concepts will be discussed and applied using state-of-the-art modeling software. NOTE: Offered in conjunction with CHEM 313.", 
-        "subject": "ENCH", 
-        "number": "346", 
-        "title": "Quantum Mechanics and Molecular Simulation"
     }
 }

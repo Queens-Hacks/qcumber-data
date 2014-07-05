@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "A small choir of approximately 30 women's voices. For experienced choral singers.\u00a0 Course includes weekly rehearsals of a wide variety of repertoire, and a minimum of one concert per term for all students.\u00a0 Credit attained only with regular attendance, active participation, and ample preparation.\r\nNOTE\u00a0\u00a0\u00a0 Placement is made at the discretion of the School of Music, after audition.", 
+        "number": "264A", 
+        "subject": "MUSC", 
+        "title": "Polyhymnia"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
-        "typically_offered": "Fall, Winter", 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0\u00a0 MUSC164 and registration in a BMUS Program, or permission of the School upon audition.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "A small choir of approximately 30 women's voices. For experienced choral singers.\u00a0 Course includes weekly rehearsals of a wide variety of repertoire, and a minimum of one concert per term for all students.\u00a0 Credit attained only with regular attendance, active participation, and ample preparation.\r\nNOTE\u00a0\u00a0\u00a0 Placement is made at the discretion of the School of Music, after audition.", 
-        "subject": "MUSC", 
-        "number": "264A", 
-        "title": "Polyhymnia"
     }
 }

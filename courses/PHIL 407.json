@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An examination of major issues in contemporary social and political philosophy. Possible topics to be studied include communitarianism, liberalism, multi-culturalism, the nation-state, and utopias.", 
+        "number": "407", 
+        "subject": "PHIL", 
+        "title": "Current Issues in Social and Political Philosophy III"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 and registration in a PHIL Major or Medial Plan and (a minimum GPA of 2.60 in PHIL250 and PHIL257) and (6.0 units in PHIL).", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An examination of major issues in contemporary social and political philosophy. Possible topics to be studied include communitarianism, liberalism, multi-culturalism, the nation-state, and utopias.", 
-        "subject": "PHIL", 
-        "number": "407", 
-        "title": "Current Issues in Social and Political Philosophy III"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Traditional systematic and taxonomic approaches to the study of plants will be examined in addition to the development of applied field skills for botanical research, resource inventories and site assessment.\r\nNOTE\u00a0\u00a0\u00a0\u00a0Field Trips: estimated cost $20.", 
+        "number": "320", 
+        "subject": "BIOL", 
+        "title": "Applied Field Botany"
+    }, 
     "extra": {
-        "typically_offered": "Spring", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "3rd year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Traditional systematic and taxonomic approaches to the study of plants will be examined in addition to the development of applied field skills for botanical research, resource inventories and site assessment.\r\nNOTE\u00a0\u00a0\u00a0\u00a0Field Trips: estimated cost $20.", 
-        "subject": "BIOL", 
-        "number": "320", 
-        "title": "Applied Field Botany"
     }
 }

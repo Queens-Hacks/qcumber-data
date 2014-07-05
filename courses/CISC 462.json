@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Turing machines and other models of computability such as \u00b5-recursive functions and random-access machines. Undecidability. Recursive and recursively enumerable sets. Church-Turing thesis. Resource-bounded complexity. Complexity comparisons among computational models. Reductions. Complete problems for complexity classes.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 365/3.0.", 
+        "number": "462", 
+        "subject": "CISC", 
+        "title": "Computability and Complexity"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "CISC223", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Turing machines and other models of computability such as \u00b5-recursive functions and random-access machines. Undecidability. Recursive and recursively enumerable sets. Church-Turing thesis. Resource-bounded complexity. Complexity comparisons among computational models. Reductions. Complete problems for complexity classes.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 365/3.0.", 
-        "subject": "CISC", 
-        "number": "462", 
-        "title": "Computability and Complexity"
     }
 }

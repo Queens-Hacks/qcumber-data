@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An introduction to the practical, professional, and theoretical contexts of graduate studies in German literature, this non-credit tutorial of two hours per week during the fall and the winter term is obligatory for all graduate students not specifically excused by the Graduate Coordinator. Two term hours; fall and winter.\u00a0 All faculty.", 
+        "number": "800B", 
+        "subject": "GRMN", 
+        "title": "Professional Skills"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the practical, professional, and theoretical contexts of graduate studies in German literature, this non-credit tutorial of two hours per week during the fall and the winter term is obligatory for all graduate students not specifically excused by the Graduate Coordinator. Two term hours; fall and winter.\u00a0 All faculty.", 
-        "subject": "GRMN", 
-        "number": "800B", 
-        "title": "Professional Skills"
     }
 }

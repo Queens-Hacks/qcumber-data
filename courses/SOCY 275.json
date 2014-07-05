@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course focuses on the theoretical foundation examining the process by which activities are defined as deviant: such activities as 'sexual deviance', 'mental illness', and 'political deviance'. The major etiological approaches to the study of deviants are also considered.", 
+        "number": "275", 
+        "subject": "SOCY", 
+        "title": "Theories of Deviance and Social Control"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A grade of C- in SOCY 122/6.0.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from SOCY 274/6.0; SOCY 275/3.0; SOCY 276/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course focuses on the theoretical foundation examining the process by which activities are defined as deviant: such activities as 'sexual deviance', 'mental illness', and 'political deviance'. The major etiological approaches to the study of deviants are also considered.", 
-        "subject": "SOCY", 
-        "number": "275", 
-        "title": "Theories of Deviance and Social Control"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The objective of this course is to familiarize graduate students with the principles and practice of cutting edge technologies used for the analysis of small molecules involved in biomedical and molecular research. (Weight= 1.0 credit unit)", 
+        "number": "870", 
+        "subject": "BMED", 
+        "title": "Analysis of small molecules"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "1.00"
-    }, 
-    "basic": {
-        "description": "The objective of this course is to familiarize graduate students with the principles and practice of cutting edge technologies used for the analysis of small molecules involved in biomedical and molecular research. (Weight= 1.0 credit unit)", 
-        "subject": "BMED", 
-        "number": "870", 
-        "title": "Analysis of small molecules"
     }
 }

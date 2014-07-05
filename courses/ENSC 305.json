@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course critically examines the complex interaction of material and social processes that define our relationship with the environment.\u00a0 Topics focus on how environmental issues emerge as concerns, are defined by different stakeholders, and their solutions framed through political, economic, cultural, and techno-scientific discourses.", 
+        "number": "305", 
+        "subject": "ENSC", 
+        "title": "Social Environments"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "3rd year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course critically examines the complex interaction of material and social processes that define our relationship with the environment.\u00a0 Topics focus on how environmental issues emerge as concerns, are defined by different stakeholders, and their solutions framed through political, economic, cultural, and techno-scientific discourses.", 
-        "subject": "ENSC", 
-        "number": "305", 
-        "title": "Social Environments"
     }
 }

@@ -1,26 +1,26 @@
 {
+    "_unique": "200-LEC (7375)", 
     "basic": {
         "class_num": "7375", 
-        "subject": "PROF", 
-        "status": "Open", 
         "course": "210A", 
-        "year": "2013", 
+        "season": "Fall", 
         "solus_id": "200", 
+        "status": "Open", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2013"
     }, 
-    "_unique": "200-LEC (7375)", 
     "classes": [
         {
-            "term_end": "2013-12-04T00:00:00", 
-            "term_start": "2013-09-05T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T18:00:00", 
             "instructors": [
                 "White, Anne F"
             ], 
-            "end_time": "1900-01-01T18:00:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T16:00:00", 
-            "day_of_week": 4, 
-            "location": "TBA"
+            "term_end": "2013-12-04T00:00:00", 
+            "term_start": "2013-09-05T00:00:00"
         }
     ]
 }

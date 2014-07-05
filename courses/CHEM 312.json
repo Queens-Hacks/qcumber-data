@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Introduction to the chemistry, bonding and structures of coordination compounds of the transition metals; transition metals in the solid state and in biological systems; industrial and environmental aspects of transition metal chemistry.", 
+        "number": "312", 
+        "subject": "CHEM", 
+        "title": "Transition Metal Chemistry"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "CHEM211", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to the chemistry, bonding and structures of coordination compounds of the transition metals; transition metals in the solid state and in biological systems; industrial and environmental aspects of transition metal chemistry.", 
-        "subject": "CHEM", 
-        "number": "312", 
-        "title": "Transition Metal Chemistry"
     }
 }

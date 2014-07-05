@@ -1,57 +1,57 @@
 {
+    "_unique": "001-LEC (2160)", 
     "basic": {
         "class_num": "2160", 
-        "subject": "CHEM", 
-        "status": "Open", 
         "course": "112B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CHEM", 
         "type": "LEC", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2160)", 
     "classes": [
         {
-            "term_end": "2014-02-14T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 1, 
-            "location": "CHERNOFF AUD"
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-02-14T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T09:30:00", 
             "instructors": [
                 "Carran, John"
             ], 
-            "end_time": "1900-01-01T09:30:00", 
+            "location": "CHERNOFF AUD", 
             "start_time": "1900-01-01T08:30:00", 
-            "day_of_week": 3, 
-            "location": "CHERNOFF AUD"
+            "term_end": "2014-02-14T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }, 
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-02-17T00:00:00", 
-            "instructors": [
-                "Brown, Stephen"
-            ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 1, 
-            "location": "CHERNOFF AUD"
-        }, 
-        {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-02-17T00:00:00", 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Brown, Stephen"
             ], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
+            "location": "CHERNOFF AUD", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-17T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "CHERNOFF AUD"
+            "end_time": "1900-01-01T09:30:00", 
+            "instructors": [
+                "Brown, Stephen"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-02-17T00:00:00"
         }
     ]
 }

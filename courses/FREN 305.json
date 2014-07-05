@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A detailed study of selected plays from French\u00a0theatre since 1945. Visual presentations. Semiotic approach. Cocteau, Duras,\u00a0Beckett,\u00a0Ionesco, Sarraute, Sartre, Kolt\u00e8s.\u00a0Travaux pratiques include essays and\u00a0tests. Given jointly with FREN 417/3.0.\u00a0", 
+        "number": "305", 
+        "subject": "FREN", 
+        "title": "Le th\u00e9\u00e2tre depuis 1945"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 6.0 units from FREN212 or FREN220 or FREN221 and registration in a FREN Plan.\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN305; FREN417.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A detailed study of selected plays from French\u00a0theatre since 1945. Visual presentations. Semiotic approach. Cocteau, Duras,\u00a0Beckett,\u00a0Ionesco, Sarraute, Sartre, Kolt\u00e8s.\u00a0Travaux pratiques include essays and\u00a0tests. Given jointly with FREN 417/3.0.\u00a0", 
-        "subject": "FREN", 
-        "number": "305", 
-        "title": "Le th\u00e9\u00e2tre depuis 1945"
     }
 }

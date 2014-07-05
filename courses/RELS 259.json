@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The status and roles of women in selected religious traditions; impact of feminism on the study of religion.", 
+        "number": "259", 
+        "subject": "RELS", 
+        "title": "Women in Religious Traditions"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 Level 2 or above or 6.0 units at the 100 level in RELS.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 1 course from RELS 254/6.0; RELS 259/3.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The status and roles of women in selected religious traditions; impact of feminism on the study of religion.", 
-        "subject": "RELS", 
-        "number": "259", 
-        "title": "Women in Religious Traditions"
     }
 }

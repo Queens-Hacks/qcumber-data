@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "", 
+        "number": "791", 
+        "subject": "CONT", 
+        "title": "Computer Studies Part 2"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "typically_offered": "Winter", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Non-Credit", 
         "grading_basis": "Honours/Pass/Fail", 
+        "typically_offered": "Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "", 
-        "subject": "CONT", 
-        "number": "791", 
-        "title": "Computer Studies Part 2"
     }
 }

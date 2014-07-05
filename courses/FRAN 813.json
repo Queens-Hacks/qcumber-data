@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Th\u00e9orie du changement linguistique vue \u00e0 travers l'histoire de la langue fran\u00e7aise.\u00a0 Ne sera pas donn\u00e9 en 2010-2011.", 
+        "number": "813", 
+        "subject": "FRAN", 
+        "title": "Histoire du fran\u00e7ais et th\u00e9orie du changement linguistique"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Th\u00e9orie du changement linguistique vue \u00e0 travers l'histoire de la langue fran\u00e7aise.\u00a0 Ne sera pas donn\u00e9 en 2010-2011.", 
-        "subject": "FRAN", 
-        "number": "813", 
-        "title": "Histoire du fran\u00e7ais et th\u00e9orie du changement linguistique"
     }
 }

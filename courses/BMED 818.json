@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A contemporary and comprehensive assessment of the neurochemical features of the mammalian nervous system as they relate to development, function and disease. Winter term; 3 hour lecture/seminar. Offered alternate years. M.D. Kawaja.\u00a0 PREREQUISITE: ANAT-312* or LISC-322* or permission of the Department.\u00a0 EXCLUSION: ANAT-818*", 
+        "number": "818", 
+        "subject": "BMED", 
+        "title": "Chemical Neuroanatomy"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A contemporary and comprehensive assessment of the neurochemical features of the mammalian nervous system as they relate to development, function and disease. Winter term; 3 hour lecture/seminar. Offered alternate years. M.D. Kawaja.\u00a0 PREREQUISITE: ANAT-312* or LISC-322* or permission of the Department.\u00a0 EXCLUSION: ANAT-818*", 
-        "subject": "BMED", 
-        "number": "818", 
-        "title": "Chemical Neuroanatomy"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An advanced, problem-based course focusing on current approaches to the study of mechanisms of chemical toxicity.\u00a0 Winter; 3 hour seminars and tutorials.\u00a0 Given in years ending with an even number.\u00a0 T.E. Massey", 
+        "number": "815", 
+        "subject": "PHAR", 
+        "title": "Mechanistic Toxicology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 BCHM310", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An advanced, problem-based course focusing on current approaches to the study of mechanisms of chemical toxicity.\u00a0 Winter; 3 hour seminars and tutorials.\u00a0 Given in years ending with an even number.\u00a0 T.E. Massey", 
-        "subject": "PHAR", 
-        "number": "815", 
-        "title": "Mechanistic Toxicology"
     }
 }

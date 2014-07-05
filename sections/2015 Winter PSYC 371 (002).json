@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (6671)", 
     "basic": {
         "class_num": "6671", 
-        "subject": "PSYC", 
-        "status": "Open", 
         "course": "371", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PSYC", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "002-LAB (6671)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Dringenberg, Hans C"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "TBA", 
             "start_time": "1900-01-01T14:30:00", 
-            "day_of_week": 1, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

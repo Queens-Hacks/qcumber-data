@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Selected topics in molecular biology. An advanced course on current research in molecular biology, based on recent research literature. For detailed information, consult the course coordinator. Three term hours; fall. L. Seroude.", 
+        "number": "955", 
+        "subject": "BIOL", 
+        "title": "Advanced Studies in Cellular & Molecular Biology I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Selected topics in molecular biology. An advanced course on current research in molecular biology, based on recent research literature. For detailed information, consult the course coordinator. Three term hours; fall. L. Seroude.", 
-        "subject": "BIOL", 
-        "number": "955", 
-        "title": "Advanced Studies in Cellular & Molecular Biology I"
     }
 }

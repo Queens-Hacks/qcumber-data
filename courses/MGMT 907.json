@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "The objectives of this course include understanding theories and approaches to setting direction; assessing markets and rivalry. This course will develop students\u00bf skills in analyzing the environment in which the firm competes, as well as the capabilities of the firm itself. Beyond analysis, this course will also help students understand how to design a strategy.", 
+        "number": "907", 
+        "subject": "MGMT", 
+        "title": "Strategy Formulation"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The objectives of this course include understanding theories and approaches to setting direction; assessing markets and rivalry. This course will develop students\u00bf skills in analyzing the environment in which the firm competes, as well as the capabilities of the firm itself. Beyond analysis, this course will also help students understand how to design a strategy.", 
-        "subject": "MGMT", 
-        "number": "907", 
-        "title": "Strategy Formulation"
     }
 }

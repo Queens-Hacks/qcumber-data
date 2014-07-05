@@ -1,26 +1,26 @@
 {
+    "_unique": "001-LEC (2212)", 
     "basic": {
         "class_num": "2212", 
-        "subject": "MMA", 
-        "status": "Closed", 
         "course": "865", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MMA", 
         "type": "LEC", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (2212)", 
     "classes": [
         {
-            "term_end": "2014-08-16T00:00:00", 
-            "term_start": "2014-07-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Nediak, Mikhail S"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-08-16T00:00:00", 
+            "term_start": "2014-07-05T00:00:00"
         }
     ]
 }

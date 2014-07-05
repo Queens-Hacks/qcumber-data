@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "The detailed, analytic study of a selected body of texts within the literature of art, directed towards gaining an understanding of the dominant theories, critical attitudes, or historical perspectives on art during a particular period.", 
+        "number": "492", 
+        "subject": "ARTH", 
+        "title": "Studies in the Literature of Art"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 A GPA of 2.6 in a minium of 24.0 units in ARTH and Level 4 and registration in an ARTH Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The detailed, analytic study of a selected body of texts within the literature of art, directed towards gaining an understanding of the dominant theories, critical attitudes, or historical perspectives on art during a particular period.", 
-        "subject": "ARTH", 
-        "number": "492", 
-        "title": "Studies in the Literature of Art"
     }
 }

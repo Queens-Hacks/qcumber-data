@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Lectures, tutorial sessions, laboratory projects, drug literature evaluation, and self-directed critical analysis of a current research area in Pharmacology. Topics include: neuropsychopharmacology, cardiovascular-renal pharmacology, agents acting on the endocrine system, and chemotherapy. Winter; 3 lecture hours and 3 laboratory hours.\u00a0 D.H. Maurice EXCLUSION:\u00a0 PHAR-450*, PHAR-850*. Permission of the Graduate Program required.", 
+        "number": "849", 
+        "subject": "BMED", 
+        "title": "Principles of General Pharmacology II"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Lectures, tutorial sessions, laboratory projects, drug literature evaluation, and self-directed critical analysis of a current research area in Pharmacology. Topics include: neuropsychopharmacology, cardiovascular-renal pharmacology, agents acting on the endocrine system, and chemotherapy. Winter; 3 lecture hours and 3 laboratory hours.\u00a0 D.H. Maurice EXCLUSION:\u00a0 PHAR-450*, PHAR-850*. Permission of the Graduate Program required.", 
-        "subject": "BMED", 
-        "number": "849", 
-        "title": "Principles of General Pharmacology II"
     }
 }

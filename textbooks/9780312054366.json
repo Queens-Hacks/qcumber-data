@@ -1,1 +1,16 @@
-{"courses": ["ENGL 160"], "required": true, "new_available": 1, "classified_info": "0 classified listings", "isbn_13": "9780312054366", "used_available": 5, "isbn_10": "031205436X", "new_price": "$18.48", "authors": "Douglas Coupland", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13567-ENGL160-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", "used_price": "$13.86", "title": "Generation X"}
+{
+    "authors": "Douglas Coupland", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "ENGL 160"
+    ], 
+    "isbn_10": "031205436X", 
+    "isbn_13": "9780312054366", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13567-ENGL160-FW14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl04_test_ModeFull", 
+    "new_available": 1, 
+    "new_price": "$18.48", 
+    "required": true, 
+    "title": "Generation X", 
+    "used_available": 5, 
+    "used_price": "$13.86"
+}

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Written under the direction of a faculty supervisor and normally about 50 pages in length, the research essay provides students with the opportunity to undertake independent research of an IR/HR issue or a case study of an organization and to develop the ability to express their ideas in an organized and literate form. Preliminary work is normally completed in the winter term and research and writing conducted during the spring/summer term. Counselling for the research essay (choice of an appropriate topic, selection of a supervisor, etc.) is provided by the School. Every effort is made to inform students about the research interests and activities of faculty members and associates and to encourage them to undertake topics related to these. The written essay will be examined by a committee composed of the supervisor, and one other member of the faculty of the School or a related department.", 
+        "number": "898", 
+        "subject": "MIR", 
+        "title": "Research Project"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter, Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter, Summer", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Written under the direction of a faculty supervisor and normally about 50 pages in length, the research essay provides students with the opportunity to undertake independent research of an IR/HR issue or a case study of an organization and to develop the ability to express their ideas in an organized and literate form. Preliminary work is normally completed in the winter term and research and writing conducted during the spring/summer term. Counselling for the research essay (choice of an appropriate topic, selection of a supervisor, etc.) is provided by the School. Every effort is made to inform students about the research interests and activities of faculty members and associates and to encourage them to undertake topics related to these. The written essay will be examined by a committee composed of the supervisor, and one other member of the faculty of the School or a related department.", 
-        "subject": "MIR", 
-        "number": "898", 
-        "title": "Research Project"
     }
 }

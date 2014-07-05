@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "This interdisciplinary course promotes student awareness of the interplay of art and engineering within professional practice. It initiates integrated learning by broadening the experience of student engineers beyond the focus of traditional engineering disciplines; it promotes fine art initiatives to foster student awareness and appreciation for collaboration with specialists in other fields. Small teams of senior undergraduate engineering and fine art students will collaborate to produce artwork. Each team will involve at least one student contributor from each discipline. For each project the art concept will determine the engineering considerations, and the engineered components will be an integral factor in the realization of the art concept. (0/0/32/0/10)~ COURSE DELETED IN 2007/08 ~", 
+        "number": "400", 
+        "subject": "MDEP", 
+        "title": "Engineered Art"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Studio": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Must be registered in a BSCE program", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.50"
-    }, 
-    "basic": {
-        "description": "This interdisciplinary course promotes student awareness of the interplay of art and engineering within professional practice. It initiates integrated learning by broadening the experience of student engineers beyond the focus of traditional engineering disciplines; it promotes fine art initiatives to foster student awareness and appreciation for collaboration with specialists in other fields. Small teams of senior undergraduate engineering and fine art students will collaborate to produce artwork. Each team will involve at least one student contributor from each discipline. For each project the art concept will determine the engineering considerations, and the engineered components will be an integral factor in the realization of the art concept. (0/0/32/0/10)~ COURSE DELETED IN 2007/08 ~", 
-        "subject": "MDEP", 
-        "number": "400", 
-        "title": "Engineered Art"
     }
 }

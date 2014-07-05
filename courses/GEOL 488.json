@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An advanced course discussing the principles of earth evolution as exemplified by North America. The holistic approach illustrates the way in which geodynamics, geochemistry, sedimentation, paleo-biology and oceanography are used to unravel the history of the continent. Required extended field trip during term.", 
+        "number": "488", 
+        "subject": "GEOL", 
+        "title": "Geology of North America"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0 GEOL107, GEOL235, GEOL249, GEOL238, GEOL300 and GEOL365 or permission of the Department.\r\nCorequisite\u00a0\u00a0\u00a0 GEOL321", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An advanced course discussing the principles of earth evolution as exemplified by North America. The holistic approach illustrates the way in which geodynamics, geochemistry, sedimentation, paleo-biology and oceanography are used to unravel the history of the continent. Required extended field trip during term.", 
-        "subject": "GEOL", 
-        "number": "488", 
-        "title": "Geology of North America"
     }
 }

@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Focusing on reading development, both learning to read (K-3) and reading to learn (4-6), and the instruction to support it. Professional readings, research and workshops are related to practicum experiences. Enables students to integrate a deep knowledge of reading development with research-based instruction to support typically-developing and at-risk readers.", 
+        "number": "203A", 
+        "subject": "FOCI", 
+        "title": "Reading K-6"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "Restricted to PJ", 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "units": "0.00"
-    }, 
-    "basic": {
-        "description": "Focusing on reading development, both learning to read (K-3) and reading to learn (4-6), and the instruction to support it. Professional readings, research and workshops are related to practicum experiences. Enables students to integrate a deep knowledge of reading development with research-based instruction to support typically-developing and at-risk readers.", 
-        "subject": "FOCI", 
-        "number": "203A", 
-        "title": "Reading K-6"
     }
 }

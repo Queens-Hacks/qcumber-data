@@ -1,26 +1,26 @@
 {
+    "_unique": "005-LAB (4370)", 
     "basic": {
         "class_num": "4370", 
-        "subject": "MINE", 
-        "status": "Open", 
         "course": "325", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "005", 
+        "status": "Open", 
+        "subject": "MINE", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "005-LAB (4370)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T17:30:00", 
             "instructors": [
                 "Archibald, James F"
             ], 
-            "end_time": "1900-01-01T17:30:00", 
+            "location": "GOODWIN LAB", 
             "start_time": "1900-01-01T15:30:00", 
-            "day_of_week": 1, 
-            "location": "GOODWIN LAB"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

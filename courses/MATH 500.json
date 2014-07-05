@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Open to students with a strong interest in some topic not covered in any of the regular courses. The student must find an instructor willing to supervise an agreed upon reading program and evaluation procedure, and also obtain Departmental approval for the reading program prior to registration.", 
+        "number": "500", 
+        "subject": "MATH", 
+        "title": "Readings in Mathematics I"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Instructor Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Reading": "Required"
         }, 
-        "typically_offered": "Spring", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Open to students with a strong interest in some topic not covered in any of the regular courses. The student must find an instructor willing to supervise an agreed upon reading program and evaluation procedure, and also obtain Departmental approval for the reading program prior to registration.", 
-        "subject": "MATH", 
-        "number": "500", 
-        "title": "Readings in Mathematics I"
     }
 }

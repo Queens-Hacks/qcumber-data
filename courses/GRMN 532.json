@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Reading courses enabling individual study of a particular author or problem in greater depth, the specific topic to be selected in consultation with the Head of Department. An essay of appropriate length may, after consultation, be submitted in either course in lieu of a final examination.", 
+        "number": "532", 
+        "subject": "GRMN", 
+        "title": "Directed Special Studies II"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
         }, 
-        "typically_offered": "Fall", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Reading courses enabling individual study of a particular author or problem in greater depth, the specific topic to be selected in consultation with the Head of Department. An essay of appropriate length may, after consultation, be submitted in either course in lieu of a final examination.", 
-        "subject": "GRMN", 
-        "number": "532", 
-        "title": "Directed Special Studies II"
     }
 }

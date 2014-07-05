@@ -1,26 +1,26 @@
 {
+    "_unique": "002-TUT (2807)", 
     "basic": {
         "class_num": "2807", 
-        "subject": "BCHM", 
-        "status": "Open", 
         "course": "102", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "BCHM", 
         "type": "TUT", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-TUT (2807)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Singh, Vinay"
             ], 
-            "end_time": "1900-01-01T14:30:00", 
+            "location": "KINGSTON RM201", 
             "start_time": "1900-01-01T12:30:00", 
-            "day_of_week": 5, 
-            "location": "KINGSTON RM201"
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

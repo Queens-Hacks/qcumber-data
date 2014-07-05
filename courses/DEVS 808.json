@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Topic: Migration and Development\r\nDescription: This course introduces students to key concepts in global migration and its implications on development for both sending and receiving states. For example, the departure of skilled and experienced professionals has raised concerns about the impacts of the \u00bfbrain drain\u00bf in the developing world. At the same time, migrants are increasingly seen as key agents in facilitating development in their countries of origin. International migration is (re)-shaping societies and politics around the globe.\r\nPrerequisite: MA standing in Global Development Studies, or permission of the Department.\u00a0\u00a0\u00a0\u00a0 \r\nExclusion: DEVS-498*", 
+        "number": "808", 
+        "subject": "DEVS", 
+        "title": "Topics in Development Studies 7"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topic: Migration and Development\r\nDescription: This course introduces students to key concepts in global migration and its implications on development for both sending and receiving states. For example, the departure of skilled and experienced professionals has raised concerns about the impacts of the \u00bfbrain drain\u00bf in the developing world. At the same time, migrants are increasingly seen as key agents in facilitating development in their countries of origin. International migration is (re)-shaping societies and politics around the globe.\r\nPrerequisite: MA standing in Global Development Studies, or permission of the Department.\u00a0\u00a0\u00a0\u00a0 \r\nExclusion: DEVS-498*", 
-        "subject": "DEVS", 
-        "number": "808", 
-        "title": "Topics in Development Studies 7"
     }
 }

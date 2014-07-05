@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "UNENE course number = UN 0803Technology and safety analysis underlying nuclear reactor safety. Topics include: Nature of the hazards; concepts of risk; probability tools and techniques; safety criteria; design basis accidents; case studies; safety analysis technology; human error; safety system design; and general safety design principles. McMaster University/V. Snell", 
+        "number": "883", 
+        "subject": "UN", 
+        "title": "Nuclear Reactor Safety Design"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "UNENE course number = UN 0803Technology and safety analysis underlying nuclear reactor safety. Topics include: Nature of the hazards; concepts of risk; probability tools and techniques; safety criteria; design basis accidents; case studies; safety analysis technology; human error; safety system design; and general safety design principles. McMaster University/V. Snell", 
-        "subject": "UN", 
-        "number": "883", 
-        "title": "Nuclear Reactor Safety Design"
     }
 }

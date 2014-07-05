@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course will focus on two major topics: a) the process of economic integration towards a common market in Europe; and b) the coordination of macroeconomic policy within Europe, the operation of the European Monetary System and the movement towards European Union.\r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader International Study Centre, Herstmonceux.", 
+        "number": "225", 
+        "subject": "ECON", 
+        "title": "The Economics of the European Community"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "ECON110 OR ECON112", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will focus on two major topics: a) the process of economic integration towards a common market in Europe; and b) the coordination of macroeconomic policy within Europe, the operation of the European Monetary System and the movement towards European Union.\r\nNOTE\u00a0\u00a0\u00a0 Offered only at the Bader International Study Centre, Herstmonceux.", 
-        "subject": "ECON", 
-        "number": "225", 
-        "title": "The Economics of the European Community"
     }
 }

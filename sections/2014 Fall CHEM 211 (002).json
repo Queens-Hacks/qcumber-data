@@ -1,24 +1,24 @@
 {
+    "_unique": "002-LAB (2105)", 
     "basic": {
         "class_num": "2105", 
-        "subject": "CHEM", 
-        "status": "Open", 
         "course": "211", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CHEM", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (2105)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
             "day_of_week": 2, 
-            "location": "CHERNOFF RM118 LAB"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM118 LAB", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

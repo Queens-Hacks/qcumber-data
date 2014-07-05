@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Directed reading on topics in Jewish Studies not covered in other courses available to the student.", 
+        "number": "501", 
+        "subject": "JWST", 
+        "title": "Directed Reading in Jewish Studies I"
+    }, 
     "extra": {
-        "typically_offered": "Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Reading": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Directed reading on topics in Jewish Studies not covered in other courses available to the student.", 
-        "subject": "JWST", 
-        "number": "501", 
-        "title": "Directed Reading in Jewish Studies I"
     }
 }

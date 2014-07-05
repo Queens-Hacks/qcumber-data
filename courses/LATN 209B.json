@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Review of grammar followed by a study of representative works of Ovid and other authors. In addition to developing facility in translation, study of literary content and background of authors.\nNOTE\u00a0\u00a0\u00a0 A student with 4U Latin may alternatively use this as a prerequisite and should contact the Department for permission to register in the course.", 
+        "number": "209B", 
+        "subject": "LATN", 
+        "title": "Intermediate Latin"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Review of grammar followed by a study of representative works of Ovid and other authors. In addition to developing facility in translation, study of literary content and background of authors.\nNOTE\u00a0\u00a0\u00a0 A student with 4U Latin may alternatively use this as a prerequisite and should contact the Department for permission to register in the course.", 
-        "subject": "LATN", 
-        "number": "209B", 
-        "title": "Intermediate Latin"
     }
 }

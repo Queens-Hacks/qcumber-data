@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A continuation of CISC 365/3.0. Lower bound theory. Average-case analysis of algorithms. Approximation algorithms. Probabilistic algorithms. Parallel algorithms.", 
+        "number": "466", 
+        "subject": "CISC", 
+        "title": "Algorithms II"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "CISC365", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A continuation of CISC 365/3.0. Lower bound theory. Average-case analysis of algorithms. Approximation algorithms. Probabilistic algorithms. Parallel algorithms.", 
-        "subject": "CISC", 
-        "number": "466", 
-        "title": "Algorithms II"
     }
 }

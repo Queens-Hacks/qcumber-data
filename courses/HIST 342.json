@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An exploration of the theory, historiography and methodologies of the sub-discipline of World History, with particular emphasis on the defining debates of the field. Topics to be discussed include: World Systems Theory, the environment and biological processes as organizing principles, rise of the West, periodization in World History, and Big History.", 
+        "number": "342", 
+        "subject": "HIST", 
+        "title": "World History: Theory and Methodology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A Grade of C+ in 6.0 units from HIST 300-329 and registration in a HIST Major or Medial Plan.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "An exploration of the theory, historiography and methodologies of the sub-discipline of World History, with particular emphasis on the defining debates of the field. Topics to be discussed include: World Systems Theory, the environment and biological processes as organizing principles, rise of the West, periodization in World History, and Big History.", 
-        "subject": "HIST", 
-        "number": "342", 
-        "title": "World History: Theory and Methodology"
     }
 }

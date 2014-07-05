@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Topological equivalence and topological invariants; homotopy and the fundamental group; covering spaces; homotopy type; Brower\u00bfs fixed point theorem; triangularization;\u00a0 homology and cohomology groups.\u00a0\u00a0\u00a0 (Offered jointly with MATH 443*.) Three term-hours, fall or winter; lectures.", 
+        "number": "843", 
+        "subject": "MATH", 
+        "title": "Algebraic\u00a0 Topology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "MATH310", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Topological equivalence and topological invariants; homotopy and the fundamental group; covering spaces; homotopy type; Brower\u00bfs fixed point theorem; triangularization;\u00a0 homology and cohomology groups.\u00a0\u00a0\u00a0 (Offered jointly with MATH 443*.) Three term-hours, fall or winter; lectures.", 
-        "subject": "MATH", 
-        "number": "843", 
-        "title": "Algebraic\u00a0 Topology"
     }
 }

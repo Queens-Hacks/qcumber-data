@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "The principles of energy and water exchange between the atmosphere, surface and subsurface. The hydrological cycle, radiation, and energy balances are used as conceptual frameworks.", 
+        "number": "209", 
+        "subject": "GPHY", 
+        "title": "Principles of Hydroclimatology"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Practicum": "Required"
         }, 
         "enrollment_requirement": "Prerequisite of GPHY102 or permission of the deptartment.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "The principles of energy and water exchange between the atmosphere, surface and subsurface. The hydrological cycle, radiation, and energy balances are used as conceptual frameworks.", 
-        "subject": "GPHY", 
-        "number": "209", 
-        "title": "Principles of Hydroclimatology"
     }
 }

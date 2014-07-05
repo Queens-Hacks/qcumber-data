@@ -1,48 +1,48 @@
 {
+    "_unique": "001-LEC (5193)", 
     "basic": {
         "class_num": "5193", 
-        "subject": "CISC", 
-        "status": "Open", 
         "course": "121", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CISC", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (5193)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
-            "instructors": [
-                "Lamb, Margaret"
-            ], 
-            "end_time": "1900-01-01T10:30:00", 
-            "start_time": "1900-01-01T09:30:00", 
             "day_of_week": 1, 
-            "location": "BIOSCI RM1102"
-        }, 
-        {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "end_time": "1900-01-01T10:30:00", 
             "instructors": [
                 "Lamb, Margaret"
             ], 
-            "end_time": "1900-01-01T09:30:00", 
-            "start_time": "1900-01-01T08:30:00", 
+            "location": "BIOSCI RM1102", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "BIOSCI RM1102"
-        }, 
-        {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00", 
+            "end_time": "1900-01-01T09:30:00", 
             "instructors": [
                 "Lamb, Margaret"
             ], 
-            "end_time": "1900-01-01T11:30:00", 
-            "start_time": "1900-01-01T10:30:00", 
+            "location": "BIOSCI RM1102", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
             "day_of_week": 4, 
-            "location": "BIOSCI RM1102"
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Lamb, Margaret"
+            ], 
+            "location": "BIOSCI RM1102", 
+            "start_time": "1900-01-01T10:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
         }
     ]
 }

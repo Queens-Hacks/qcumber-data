@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "This course provides an in depth review of theories of demand, production, general equilibrium, market failures and welfare economics.\u00a0 In addition, selected topics in decision theory and game theory will be covered.", 
+        "number": "810", 
+        "subject": "ECON", 
+        "title": "Microeconomic Theory"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course provides an in depth review of theories of demand, production, general equilibrium, market failures and welfare economics.\u00a0 In addition, selected topics in decision theory and game theory will be covered.", 
-        "subject": "ECON", 
-        "number": "810", 
-        "title": "Microeconomic Theory"
     }
 }

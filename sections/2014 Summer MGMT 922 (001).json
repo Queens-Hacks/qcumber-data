@@ -1,26 +1,26 @@
 {
+    "_unique": "001-SEM (2238)", 
     "basic": {
         "class_num": "2238", 
-        "subject": "MGMT", 
-        "status": "Closed", 
         "course": "922", 
-        "year": "2014", 
+        "season": "Summer", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MGMT", 
         "type": "SEM", 
-        "season": "Summer"
+        "year": "2014"
     }, 
-    "_unique": "001-SEM (2238)", 
     "classes": [
         {
-            "term_end": "2014-06-26T00:00:00", 
-            "term_start": "2014-05-20T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Davis, Alfred H R"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-06-26T00:00:00", 
+            "term_start": "2014-05-20T00:00:00"
         }
     ]
 }

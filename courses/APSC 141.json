@@ -1,27 +1,27 @@
 {
+    "basic": {
+        "description": "The course provides an introduction to the role and application of computers and computing in modern engineering practice. The course is divided into modules covering the application of personal computer software to symbolic analysis and data analysis, and in the preparation of technical reports and presentations. Each module will be examined separately. Students must pass all modules to pass the course.", 
+        "number": "141", 
+        "subject": "APSC", 
+        "title": "Personal Computers In Engineer"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 24, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 24, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "2.00"
-    }, 
-    "basic": {
-        "description": "The course provides an introduction to the role and application of computers and computing in modern engineering practice. The course is divided into modules covering the application of personal computer software to symbolic analysis and data analysis, and in the preparation of technical reports and presentations. Each module will be examined separately. Students must pass all modules to pass the course.", 
-        "subject": "APSC", 
-        "number": "141", 
-        "title": "Personal Computers In Engineer"
     }
 }

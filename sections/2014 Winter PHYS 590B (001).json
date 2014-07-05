@@ -1,26 +1,26 @@
 {
+    "_unique": "001-IND (5010)", 
     "basic": {
         "class_num": "5010", 
-        "subject": "PHYS", 
-        "status": "Open", 
         "course": "590B", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PHYS", 
         "type": "IND", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "001-IND (5010)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Gooding, Robert James"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

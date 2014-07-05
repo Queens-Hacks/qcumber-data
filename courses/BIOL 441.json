@@ -1,26 +1,26 @@
 {
+    "basic": {
+        "description": "Current research in eukaryotic molecular genetics including gene regulation, transformation, cell proliferation and the analysis of development. Specific topics will vary depending on the instructor but will include plant, insect and mammalian genetics.", 
+        "number": "441", 
+        "subject": "BIOL", 
+        "title": "Molecular Genetics"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required", 
             "Tutorial": "Required"
         }, 
         "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 BIOL330 or BCHM218 or MBIO218 \r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from BIOL441; PATH425.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Current research in eukaryotic molecular genetics including gene regulation, transformation, cell proliferation and the analysis of development. Specific topics will vary depending on the instructor but will include plant, insect and mammalian genetics.", 
-        "subject": "BIOL", 
-        "number": "441", 
-        "title": "Molecular Genetics"
     }
 }

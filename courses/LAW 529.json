@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This seminar asks if recent jurisprudence under the Constitution Act, 1982, and especially under the Canadian Charter of Rights and Freedoms, enhances or marginalizes \u00bfrights talk\u00bf. Has the original \u00bfrights and limits\u00bf approach which also manifested as \u00bfno rights are absolute\u00bf nevertheless changed with the invocation of new discourse about \u00bfno hierarchy of rights\u00bf, \u00bfcompeting rights\u00bf, \u00bfreconciling rights\u00bf, accommodation, the duty to consult, and \u00bfcontextual balancing\u00bf? We examine cases involving religious minorities, gays and lesbians, women, aboriginal peoples, etc., to determine whether the new constitutionalism serves them well or badly.", 
+        "number": "529", 
+        "subject": "LAW", 
+        "title": "Advanced Constitutional Law I"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This seminar asks if recent jurisprudence under the Constitution Act, 1982, and especially under the Canadian Charter of Rights and Freedoms, enhances or marginalizes \u00bfrights talk\u00bf. Has the original \u00bfrights and limits\u00bf approach which also manifested as \u00bfno rights are absolute\u00bf nevertheless changed with the invocation of new discourse about \u00bfno hierarchy of rights\u00bf, \u00bfcompeting rights\u00bf, \u00bfreconciling rights\u00bf, accommodation, the duty to consult, and \u00bfcontextual balancing\u00bf? We examine cases involving religious minorities, gays and lesbians, women, aboriginal peoples, etc., to determine whether the new constitutionalism serves them well or badly.", 
-        "subject": "LAW", 
-        "number": "529", 
-        "title": "Advanced Constitutional Law I"
     }
 }

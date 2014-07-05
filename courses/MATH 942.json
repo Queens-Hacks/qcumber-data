@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Subject matter will vary from year to year. Three term-hours, Fall or winter; Seminar or reading course.", 
+        "number": "942", 
+        "subject": "MATH", 
+        "title": "Topics In Topology & Geometry"
+    }, 
     "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
         "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Subject matter will vary from year to year. Three term-hours, Fall or winter; Seminar or reading course.", 
-        "subject": "MATH", 
-        "number": "942", 
-        "title": "Topics In Topology & Geometry"
     }
 }

@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "An introduction to the self-definition of Judaism through an analysis of the concepts of God, Torah and Israel past and present. Also, a preliminary study of the struggles facing Jews in Europe, the State of Israel and North America.", 
+        "number": "234", 
+        "subject": "RELS", 
+        "title": "Judaism"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 Level 2 or above or 6.0 units at the 100 level in RELS", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An introduction to the self-definition of Judaism through an analysis of the concepts of God, Torah and Israel past and present. Also, a preliminary study of the struggles facing Jews in Europe, the State of Israel and North America.", 
-        "subject": "RELS", 
-        "number": "234", 
-        "title": "Judaism"
     }
 }

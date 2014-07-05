@@ -1,23 +1,23 @@
 {
+    "basic": {
+        "description": "Christian Social Ethics", 
+        "number": "764", 
+        "subject": "THEO", 
+        "title": "Christian Social Ethics"
+    }, 
     "extra": {
-        "career": "Graduate", 
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
-        "grading_basis": "Graded", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "grading_basis": "Graded", 
         "units": "4.00"
-    }, 
-    "basic": {
-        "description": "Christian Social Ethics", 
-        "subject": "THEO", 
-        "number": "764", 
-        "title": "Christian Social Ethics"
     }
 }

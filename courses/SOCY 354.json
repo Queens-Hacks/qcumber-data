@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Comparative study of Canadian education system and processes in light of current sociological theory and research.", 
+        "number": "354", 
+        "subject": "SOCY", 
+        "title": "Sociology of Education"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0 A grade of C- in SOCY122/6.0", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Comparative study of Canadian education system and processes in light of current sociological theory and research.", 
-        "subject": "SOCY", 
-        "number": "354", 
-        "title": "Sociology of Education"
     }
 }

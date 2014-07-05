@@ -1,1 +1,13 @@
-{"isbn_13": null, "isbn_10": "88880086477", "classified_info": "1 classified listing: $45.00", "new_price": "$61.15", "authors": "Rmc", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13851-POE488-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["POE 488"], "required": true, "title": "Poe488 Course Reader V2.0"}
+{
+    "authors": "Rmc", 
+    "classified_info": "1 classified listing: $45.00", 
+    "courses": [
+        "POE 488"
+    ], 
+    "isbn_10": "88880086477", 
+    "isbn_13": null, 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13851-POE488-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$61.15", 
+    "required": true, 
+    "title": "Poe488 Course Reader V2.0"
+}

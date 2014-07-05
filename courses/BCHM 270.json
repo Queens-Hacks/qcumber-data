@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course will introduce general biochemical concepts that will allow for an understanding of the biological and chemical principles underlying human physiology, health and disease. The course will provide self-paced learning and utilize evidence-based teaching principles, small group learning, peer-learning and guided-independent learning methodologies to provide an inclusive learning environment. Students will gain an enhanced appreciation of general applications of biochemistry as applied in day to day healthy life and during the disease states, diagnosis and clinical management of metabolic disorders.\r\nNOTE\u00a0\u00a0\u00a0 Only offered online. Consult Continuing and Distance Studies.\r\nNOTE\u00a0\u00a0\u00a0 This introductory biochemistry online course is intended for prospective students in Nursing, Environmental Sciences, Engineering, Commerce, and general science programs.\r\nNOTE\u00a0\u00a0\u00a0 May not be taken for credit towards the Plan requirements of the BCHM or LISC Specialization or Major Plans.", 
+        "number": "270", 
+        "subject": "BCHM", 
+        "title": "Biochemical Basis of Health and Disease"
+    }, 
     "extra": {
         "CEAB": {
             "Basic Sci": 0, 
-            "Math": 0, 
+            "Comp St": 0, 
             "Eng Des": 0, 
             "Eng Sci": 0, 
-            "Comp St": 0
+            "Math": 0
         }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL102 and BIOL103 & (CHEM112 or [CHEM113and CHEM114]), or permission of the Dept.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from BCHM102; BCHM270\r\nOne-Way Exclusion\u00a0\u00a0\u00a0 May not be taken with or after BCHM315;BCHM310.", 
-        "career": "Distance Studies", 
         "grading_basis": "Graded", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course will introduce general biochemical concepts that will allow for an understanding of the biological and chemical principles underlying human physiology, health and disease. The course will provide self-paced learning and utilize evidence-based teaching principles, small group learning, peer-learning and guided-independent learning methodologies to provide an inclusive learning environment. Students will gain an enhanced appreciation of general applications of biochemistry as applied in day to day healthy life and during the disease states, diagnosis and clinical management of metabolic disorders.\r\nNOTE\u00a0\u00a0\u00a0 Only offered online. Consult Continuing and Distance Studies.\r\nNOTE\u00a0\u00a0\u00a0 This introductory biochemistry online course is intended for prospective students in Nursing, Environmental Sciences, Engineering, Commerce, and general science programs.\r\nNOTE\u00a0\u00a0\u00a0 May not be taken for credit towards the Plan requirements of the BCHM or LISC Specialization or Major Plans.", 
-        "subject": "BCHM", 
-        "number": "270", 
-        "title": "Biochemical Basis of Health and Disease"
     }
 }

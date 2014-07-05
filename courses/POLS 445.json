@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "A critical examination of selected 'new' theories of development (neo-Marxism, postmodernism, new social movements, rational choice, flexible specialization, etc.), followed by a study of selected Asian countries' development strategies to evaluate the relevance of the theories.", 
+        "number": "445", 
+        "subject": "POLS", 
+        "title": "Dialectics of Development"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
         "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "A critical examination of selected 'new' theories of development (neo-Marxism, postmodernism, new social movements, rational choice, flexible specialization, etc.), followed by a study of selected Asian countries' development strategies to evaluate the relevance of the theories.", 
-        "subject": "POLS", 
-        "number": "445", 
-        "title": "Dialectics of Development"
     }
 }

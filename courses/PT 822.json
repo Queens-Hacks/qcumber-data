@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "This course encompasses the areas of public versus private sector business practices, including, but not limited to, finance, accounting, human resources, venues, marketing/advertising, and negotiation. The emphasis will be on the practical application of the material and, normally, the development of a useable business plan. Community practitioners and small business leaders act as Community Advisors and/or assist in the delivery of this course. The intent of this learning opportunity is to facilitate the students\u00bf acquiring the fundamental business skills necessary for career development in any sector of health care.", 
+        "number": "822", 
+        "subject": "PT", 
+        "title": "Business Practices In Rehabil."
+    }, 
     "extra": {
-        "typically_offered": "Winter, Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter, Summer", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course encompasses the areas of public versus private sector business practices, including, but not limited to, finance, accounting, human resources, venues, marketing/advertising, and negotiation. The emphasis will be on the practical application of the material and, normally, the development of a useable business plan. Community practitioners and small business leaders act as Community Advisors and/or assist in the delivery of this course. The intent of this learning opportunity is to facilitate the students\u00bf acquiring the fundamental business skills necessary for career development in any sector of health care.", 
-        "subject": "PT", 
-        "number": "822", 
-        "title": "Business Practices In Rehabil."
     }
 }

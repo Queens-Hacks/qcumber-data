@@ -1,59 +1,59 @@
 {
+    "_unique": "001-LEC (3536)", 
     "basic": {
         "class_num": "3536", 
-        "subject": "PROF", 
-        "status": "Closed", 
         "course": "155A", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "PROF", 
         "type": "LEC", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "001-LEC (3536)", 
     "classes": [
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Roblin, Nancy E"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM B101", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Roblin, Nancy E"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM B101", 
             "start_time": "1900-01-01T10:50:00", 
-            "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
         }, 
         {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
-            "instructors": [
-                "Klinger, Don Albert"
-            ], 
-            "end_time": "1900-01-01T11:50:00", 
-            "start_time": "1900-01-01T10:50:00", 
             "day_of_week": 5, 
-            "location": "DUNCAN MCARTHUR RM B101"
-        }, 
-        {
-            "term_end": "2014-12-19T00:00:00", 
-            "term_start": "2014-11-24T00:00:00", 
+            "end_time": "1900-01-01T11:50:00", 
             "instructors": [
                 "Klinger, Don Albert"
             ], 
-            "end_time": "1900-01-01T11:50:00", 
+            "location": "DUNCAN MCARTHUR RM B101", 
             "start_time": "1900-01-01T10:50:00", 
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
+        }, 
+        {
             "day_of_week": 3, 
-            "location": "DUNCAN MCARTHUR RM B101"
+            "end_time": "1900-01-01T11:50:00", 
+            "instructors": [
+                "Klinger, Don Albert"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "1900-01-01T10:50:00", 
+            "term_end": "2014-12-19T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
         }
     ]
 }

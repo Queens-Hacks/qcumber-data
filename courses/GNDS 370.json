@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "This course explores women\u00bfs writing in a wide range of genres, with emphases on memory and self-narration, using tools from feminist and queer theory, critical race studies, and literary theory and criticism.", 
+        "number": "370", 
+        "subject": "GNDS", 
+        "title": "Writing Lives: Feminism and Women's Writing"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "3rd year standing or above", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "This course explores women\u00bfs writing in a wide range of genres, with emphases on memory and self-narration, using tools from feminist and queer theory, critical race studies, and literary theory and criticism.", 
-        "subject": "GNDS", 
-        "number": "370", 
-        "title": "Writing Lives: Feminism and Women's Writing"
     }
 }

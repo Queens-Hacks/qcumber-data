@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Introduction to the scientific study of human development, with an emphasis on social, cognitive, and neurobiological processes underlying perceptual, cognitive, and emotional development from infancy to adolescence. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
+        "number": "251", 
+        "subject": "PSYC", 
+        "title": "Developmental Psychology"
+    }, 
     "extra": {
-        "typically_offered": "Fall", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PSYC100", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "Introduction to the scientific study of human development, with an emphasis on social, cognitive, and neurobiological processes underlying perceptual, cognitive, and emotional development from infancy to adolescence. \r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
-        "subject": "PSYC", 
-        "number": "251", 
-        "title": "Developmental Psychology"
     }
 }

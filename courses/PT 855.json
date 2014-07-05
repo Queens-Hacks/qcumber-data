@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "Students will gain knowledge in surface anatomy, pathophysiology, physical assessment and intervention related to exercise capacity, mobility and function. Conditions that affect function due to limitations or variation in gas exchange will be included, whether they are primarily cardiac, respiratory, neurological or musculoskeletal. The emphasis will be on effective assessment and treatment of conditions that affect primarily a single body system. Lab component.", 
+        "number": "855", 
+        "subject": "PT", 
+        "title": "Cardiorespiratory Function I"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "4.50"
-    }, 
-    "basic": {
-        "description": "Students will gain knowledge in surface anatomy, pathophysiology, physical assessment and intervention related to exercise capacity, mobility and function. Conditions that affect function due to limitations or variation in gas exchange will be included, whether they are primarily cardiac, respiratory, neurological or musculoskeletal. The emphasis will be on effective assessment and treatment of conditions that affect primarily a single body system. Lab component.", 
-        "subject": "PT", 
-        "number": "855", 
-        "title": "Cardiorespiratory Function I"
     }
 }

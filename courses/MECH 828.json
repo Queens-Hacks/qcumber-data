@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An overview of the research in biomechanics of human motion with particular focus on gait analysis. Topics include measuring and analysis techniques, biomechanical modelling, and data analysis techniques. Applications include the study of normal, able-bodied gait, and the evaluation of gait pattern changes associated with osteoarthritis, and total knee replacements. The course has a laboratory component that is used to give the student the opportunity to apply the theory covered in class. Three term -hours. K. Deluzio.", 
+        "number": "828", 
+        "subject": "MECH", 
+        "title": "Biomechanics Of Human Gait"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An overview of the research in biomechanics of human motion with particular focus on gait analysis. Topics include measuring and analysis techniques, biomechanical modelling, and data analysis techniques. Applications include the study of normal, able-bodied gait, and the evaluation of gait pattern changes associated with osteoarthritis, and total knee replacements. The course has a laboratory component that is used to give the student the opportunity to apply the theory covered in class. Three term -hours. K. Deluzio.", 
-        "subject": "MECH", 
-        "number": "828", 
-        "title": "Biomechanics Of Human Gait"
     }
 }

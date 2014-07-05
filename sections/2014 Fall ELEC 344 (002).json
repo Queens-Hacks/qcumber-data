@@ -1,24 +1,24 @@
 {
+    "_unique": "002-LAB (3381)", 
     "basic": {
         "class_num": "3381", 
-        "subject": "ELEC", 
-        "status": "Open", 
         "course": "344", 
-        "year": "2014", 
+        "season": "Fall", 
         "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ELEC", 
         "type": "LAB", 
-        "season": "Fall"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (3381)", 
     "classes": [
         {
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-22T00:00:00", 
-            "instructors": [], 
-            "end_time": "1900-01-01T17:30:00", 
-            "start_time": "1900-01-01T15:30:00", 
             "day_of_week": 3, 
-            "location": "BEAMISH-MUNRO RM212"
+            "end_time": "1900-01-01T17:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "1900-01-01T15:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-22T00:00:00"
         }
     ]
 }

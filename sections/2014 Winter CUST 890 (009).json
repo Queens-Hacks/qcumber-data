@@ -1,24 +1,24 @@
 {
+    "_unique": "009-IND (8101)", 
     "basic": {
         "class_num": "8101", 
-        "subject": "CUST", 
-        "status": "Open", 
         "course": "890", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "009", 
+        "status": "Open", 
+        "subject": "CUST", 
         "type": "IND", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "009-IND (8101)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
-            "instructors": [], 
-            "end_time": null, 
-            "start_time": null, 
             "day_of_week": null, 
-            "location": "TBA"
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }

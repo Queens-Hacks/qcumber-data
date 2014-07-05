@@ -1,26 +1,26 @@
 {
+    "_unique": "700-SEM (6940)", 
     "basic": {
         "class_num": "6940", 
-        "subject": "FREN", 
-        "status": "Open", 
         "course": "P17", 
-        "year": "2015", 
+        "season": "Winter", 
         "solus_id": "700", 
+        "status": "Open", 
+        "subject": "FREN", 
         "type": "SEM", 
-        "season": "Winter"
+        "year": "2015"
     }, 
-    "_unique": "700-SEM (6940)", 
     "classes": [
         {
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00", 
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Dhavernas, Catherine D Marie"
             ], 
-            "end_time": null, 
+            "location": "TBA", 
             "start_time": null, 
-            "day_of_week": null, 
-            "location": "TBA"
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
         }
     ]
 }

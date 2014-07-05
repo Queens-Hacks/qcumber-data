@@ -1,1 +1,14 @@
-{"isbn_13": "9780262019224", "isbn_10": "0262019221", "classified_info": "0 classified listings", "new_price": "$79.80", "used_price": "$61.47", "authors": "Frank Westhoff", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13680-MIR897-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["MIR 897"], "required": true, "title": "An Introduction to Econometrics"}
+{
+    "authors": "Frank Westhoff", 
+    "classified_info": "0 classified listings", 
+    "courses": [
+        "MIR 897"
+    ], 
+    "isbn_10": "0262019221", 
+    "isbn_13": "9780262019224", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13680-MIR897-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_price": "$79.80", 
+    "required": true, 
+    "title": "An Introduction to Econometrics", 
+    "used_price": "$61.47"
+}

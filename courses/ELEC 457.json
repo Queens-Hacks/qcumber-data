@@ -1,25 +1,25 @@
 {
+    "basic": {
+        "description": "In the first part of this course modern microelectronic circuits are covered and in the second part these circuits are used in new and emerging applications. Topics include: active and passive filtering circuits, baseband and high-frequency signal generation, low phase-noise oscillators using Quartz crystals and dielectric resonators, power amplifiers, discussion of power gain, linearity, and efficiency, frequency mixers and multipliers, A/D and D/A converters, phaselocked loops, clock recovery circuits, biological sensors, neurostimulator circuits, biotelemetry communications systems, backscatter modulators and RF-to-DC power converters for radiofrequency identification (RFID), radar imaging systems, radiometer circuits for earth surface mapping.", 
+        "number": "457", 
+        "subject": "ELEC", 
+        "title": "Analog Ic Circuits & Systems"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 18, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
         "enrollment_requirement": "EXCLUSION:\u00a0 ELEC457 excludes ELEC363.\u00a0 Prerequisite of ELEC353 and (ELEC323 or MATH335) and registration in a BSCE Academic Program.", 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 18, 
-            "Comp St": 0
-        }, 
-        "career": "Undergraduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "In the first part of this course modern microelectronic circuits are covered and in the second part these circuits are used in new and emerging applications. Topics include: active and passive filtering circuits, baseband and high-frequency signal generation, low phase-noise oscillators using Quartz crystals and dielectric resonators, power amplifiers, discussion of power gain, linearity, and efficiency, frequency mixers and multipliers, A/D and D/A converters, phaselocked loops, clock recovery circuits, biological sensors, neurostimulator circuits, biotelemetry communications systems, backscatter modulators and RF-to-DC power converters for radiofrequency identification (RFID), radar imaging systems, radiometer circuits for earth surface mapping.", 
-        "subject": "ELEC", 
-        "number": "457", 
-        "title": "Analog Ic Circuits & Systems"
     }
 }

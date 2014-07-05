@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "Not all the courses listed below will be offered in any given year. Applicants should consult the Department about the courses to be offered.", 
+        "number": "999", 
+        "subject": "RHBS", 
+        "title": "Ph. D. Thesis Research"
+    }, 
     "extra": {
-        "typically_offered": "Fall, Winter, Summer", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Pass/Fail", 
+        "typically_offered": "Fall, Winter, Summer", 
         "units": "6.00"
-    }, 
-    "basic": {
-        "description": "Not all the courses listed below will be offered in any given year. Applicants should consult the Department about the courses to be offered.", 
-        "subject": "RHBS", 
-        "number": "999", 
-        "title": "Ph. D. Thesis Research"
     }
 }

@@ -1,1 +1,15 @@
-{"isbn_13": "9781464138034", "isbn_10": "1464138036", "classified_info": "4 classified listings: $65.00 to $70.00", "new_price": "$100.00", "used_price": "$75.00", "authors": "Moore", "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13749-ECON250-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", "courses": ["ECON 250"], "required": true, "new_available": 2, "title": "Custom: Practice of Statistics"}
+{
+    "authors": "Moore", 
+    "classified_info": "4 classified listings: $65.00 to $70.00", 
+    "courses": [
+        "ECON 250"
+    ], 
+    "isbn_10": "1464138036", 
+    "isbn_13": "9781464138034", 
+    "listing_url": "http://www.campusbookstore.com/Textbooks/Course/13749-ECON250-FALL14#ctl00_ContentBody_ctl00_CourseBooksRepeater_ctl00_test_ModeFull", 
+    "new_available": 2, 
+    "new_price": "$100.00", 
+    "required": true, 
+    "title": "Custom: Practice of Statistics", 
+    "used_price": "$75.00"
+}

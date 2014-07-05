@@ -1,24 +1,24 @@
 {
+    "basic": {
+        "description": "An advanced international trade and investment law course, which will examine the substantive principles (and their procedural underpinnings in domestic law) of NAFTA , the new GATT/World Trade Organization, the World Bank's ICSID system to the extent that it is relevant under NAFTA, and other related instruments designed to maintain a liberal trading regime providing freer market access and non-discriminatory foreign investment practices. (To be offered jointly with LAW-547.) Not offered 2010-2011.", 
+        "number": "847", 
+        "subject": "LAW", 
+        "title": "Int'l'n Trade & Investment Law"
+    }, 
     "extra": {
-        "typically_offered": "Winter", 
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
-        "CEAB": {
-            "Basic Sci": 0, 
-            "Math": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
-            "Comp St": 0
-        }, 
-        "career": "Graduate", 
         "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
         "units": "3.00"
-    }, 
-    "basic": {
-        "description": "An advanced international trade and investment law course, which will examine the substantive principles (and their procedural underpinnings in domestic law) of NAFTA , the new GATT/World Trade Organization, the World Bank's ICSID system to the extent that it is relevant under NAFTA, and other related instruments designed to maintain a liberal trading regime providing freer market access and non-discriminatory foreign investment practices. (To be offered jointly with LAW-547.) Not offered 2010-2011.", 
-        "subject": "LAW", 
-        "number": "847", 
-        "title": "Int'l'n Trade & Investment Law"
     }
 }

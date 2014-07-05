@@ -1,26 +1,26 @@
 {
+    "_unique": "002-LAB (7215)", 
     "basic": {
         "class_num": "7215", 
-        "subject": "FILM", 
-        "status": "Closed", 
         "course": "410", 
-        "year": "2014", 
+        "season": "Winter", 
         "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "FILM", 
         "type": "LAB", 
-        "season": "Winter"
+        "year": "2014"
     }, 
-    "_unique": "002-LAB (7215)", 
     "classes": [
         {
-            "term_end": "2014-04-04T00:00:00", 
-            "term_start": "2014-01-06T00:00:00", 
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T13:30:00", 
             "instructors": [
                 "Kerr, Sunny"
             ], 
-            "end_time": "1900-01-01T13:30:00", 
+            "location": "FILM RM212", 
             "start_time": "1900-01-01T11:30:00", 
-            "day_of_week": 4, 
-            "location": "FILM RM212"
+            "term_end": "2014-04-04T00:00:00", 
+            "term_start": "2014-01-06T00:00:00"
         }
     ]
 }
