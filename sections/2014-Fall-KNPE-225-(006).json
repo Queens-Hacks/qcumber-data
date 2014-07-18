@@ -1,0 +1,24 @@
+{
+    "_unique": "006-LAB (7925)", 
+    "basic": {
+        "class_num": "7925", 
+        "course": "225", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Closed", 
+        "subject": "KNPE", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-15T00:00:00"
+        }
+    ]
+}

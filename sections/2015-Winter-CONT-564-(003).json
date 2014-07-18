@@ -1,0 +1,24 @@
+{
+    "_unique": "003-ONL (8310)", 
+    "basic": {
+        "class_num": "8310", 
+        "course": "564", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "CONT", 
+        "type": "ONL", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-04-10T00:00:00", 
+            "term_start": "2015-01-26T00:00:00"
+        }
+    ]
+}

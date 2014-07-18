@@ -14,7 +14,9 @@
         {
             "day_of_week": 1, 
             "end_time": "1900-01-01T21:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Williams, Kay-Ann"
+            ], 
             "location": "KINGSTON RM101", 
             "start_time": "1900-01-01T18:30:00", 
             "term_end": "2014-11-28T00:00:00", 

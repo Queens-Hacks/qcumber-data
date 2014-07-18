@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (7964)", 
+    "basic": {
+        "class_num": "7964", 
+        "course": "853A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T21:00:00", 
+            "instructors": [
+                "Batchelor, Diane"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T18:00:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

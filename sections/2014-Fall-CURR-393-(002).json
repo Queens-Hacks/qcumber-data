@@ -14,7 +14,9 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T15:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "MacCormack, Jeffrey"
+            ], 
             "location": "DUNCAN MCARTHUR RM B219", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2014-10-10T00:00:00", 
@@ -23,7 +25,9 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T15:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "MacCormack, Jeffrey"
+            ], 
             "location": "DUNCAN MCARTHUR RM B219", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2014-12-19T00:00:00", 

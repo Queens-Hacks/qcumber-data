@@ -13,25 +13,58 @@
     "classes": [
         {
             "day_of_week": 5, 
-            "end_time": "1900-01-01T15:30:00", 
+            "end_time": "1900-01-01T15:00:00", 
+            "instructors": [
+                "East, Jim"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-01-16T00:00:00", 
+            "term_start": "2015-01-09T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T15:00:00", 
+            "instructors": [
+                "East, Jim"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-01-30T00:00:00", 
+            "term_start": "2015-01-30T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T15:00:00", 
             "instructors": [
                 "East, Jim"
             ], 
             "location": "TBA", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-02-13T00:00:00", 
-            "term_start": "2015-01-05T00:00:00"
+            "term_start": "2015-02-13T00:00:00"
         }, 
         {
             "day_of_week": 5, 
-            "end_time": "1900-01-01T15:30:00", 
+            "end_time": "1900-01-01T15:00:00", 
+            "instructors": [
+                "East, Jim"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-17T00:00:00", 
+            "term_start": "2015-04-17T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T15:00:00", 
             "instructors": [
                 "East, Jim"
             ], 
             "location": "TBA", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-04-30T00:00:00", 
-            "term_start": "2015-04-13T00:00:00"
+            "term_start": "2015-04-30T00:00:00"
         }
     ]
 }

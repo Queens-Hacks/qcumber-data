@@ -1,6 +1,6 @@
 {
     "basic": {
-        "description": "The descriptive levels of computer architecture. Instruction-set architectures. Assembly Language. Data representation. Support for operating-system management and high-level languages. Input/output and interrupts. Designing for performance. Digital Logic.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 220/3.0.", 
+        "description": "The descriptive levels of computer architecture. Instruction-set architectures. Assembly Language. Data representation. Support for operating-system management and high-level languages. Input/output and interrupts. Designing for performance. Digital Logic.\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 220/3.0.", 
         "number": "221", 
         "subject": "CISC", 
         "title": "Computer Architecture"
@@ -20,7 +20,6 @@
         }, 
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 CISC124", 
         "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
         "units": "3.00"
     }
 }

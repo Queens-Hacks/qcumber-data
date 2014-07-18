@@ -5,7 +5,7 @@
         "course": "225", 
         "season": "Fall", 
         "solus_id": "002", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "KNPE", 
         "type": "LAB", 
         "year": "2014"
@@ -16,15 +16,6 @@
             "end_time": "1900-01-01T10:30:00", 
             "instructors": [], 
             "location": "HUMPHREY RM131", 
-            "start_time": "1900-01-01T09:30:00", 
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-15T00:00:00"
-        }, 
-        {
-            "day_of_week": 5, 
-            "end_time": "1900-01-01T10:30:00", 
-            "instructors": [], 
-            "location": "HUMPHREY RM132", 
             "start_time": "1900-01-01T09:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-15T00:00:00"

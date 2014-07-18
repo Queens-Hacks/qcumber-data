@@ -12,13 +12,13 @@
     }, 
     "classes": [
         {
-            "day_of_week": null, 
-            "end_time": null, 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Renders, Kim"
             ], 
             "location": "IBCPA RM104", 
-            "start_time": null, 
+            "start_time": "1900-01-01T08:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }

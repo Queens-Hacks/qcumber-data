@@ -5,7 +5,7 @@
         "course": "434", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "POLS", 
         "type": "SEM", 
         "year": "2014"
@@ -14,7 +14,9 @@
         {
             "day_of_week": 3, 
             "end_time": "1900-01-01T17:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Sarrouh, Beesan"
+            ], 
             "location": "KINGSTON RM210", 
             "start_time": "1900-01-01T14:30:00", 
             "term_end": "2014-11-28T00:00:00", 

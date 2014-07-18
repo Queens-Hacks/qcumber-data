@@ -1,11 +1,11 @@
 {
-    "_unique": "001-ONL (1991)", 
+    "_unique": "001-ONL (2133)", 
     "basic": {
-        "class_num": "1991", 
+        "class_num": "2133", 
         "course": "941", 
         "season": "Summer", 
         "solus_id": "001", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "CONT", 
         "type": "ONL", 
         "year": "2014"
@@ -17,8 +17,8 @@
             "instructors": [], 
             "location": "TBA", 
             "start_time": null, 
-            "term_end": "2014-08-15T00:00:00", 
-            "term_start": "2014-06-30T00:00:00"
+            "term_end": "2014-06-13T00:00:00", 
+            "term_start": "2014-04-18T00:00:00"
         }
     ]
 }

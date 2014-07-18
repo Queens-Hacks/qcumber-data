@@ -14,7 +14,9 @@
         {
             "day_of_week": 5, 
             "end_time": "1900-01-01T14:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Kaupp, James Arthur"
+            ], 
             "location": "JACKSN RM 301", 
             "start_time": "1900-01-01T12:30:00", 
             "term_end": "2014-11-28T00:00:00", 

@@ -14,7 +14,9 @@
         {
             "day_of_week": 1, 
             "end_time": "1900-01-01T10:00:00", 
-            "instructors": [], 
+            "instructors": [
+                "Franks, Aaron"
+            ], 
             "location": "MACINTOSH-CORRY RM D122", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2015-04-02T00:00:00", 

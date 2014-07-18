@@ -1,11 +1,11 @@
 {
-    "_unique": "002-ONL (1539)", 
+    "_unique": "002-ONL (1429)", 
     "basic": {
-        "class_num": "1539", 
+        "class_num": "1429", 
         "course": "563", 
         "season": "Summer", 
         "solus_id": "002", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "CONT", 
         "type": "ONL", 
         "year": "2014"
@@ -17,8 +17,8 @@
             "instructors": [], 
             "location": "TBA", 
             "start_time": null, 
-            "term_end": "2014-06-27T00:00:00", 
-            "term_start": "2014-05-05T00:00:00"
+            "term_end": "2014-06-13T00:00:00", 
+            "term_start": "2014-04-18T00:00:00"
         }
     ]
 }

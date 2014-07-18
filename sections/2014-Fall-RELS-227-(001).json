@@ -14,7 +14,9 @@
         {
             "day_of_week": 3, 
             "end_time": "1900-01-01T14:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Kelly, Jason"
+            ], 
             "location": "DUNNING RM11", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2014-11-28T00:00:00", 

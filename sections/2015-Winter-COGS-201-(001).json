@@ -17,19 +17,30 @@
             "instructors": [
                 "Zulkernine, Farhana"
             ], 
-            "location": "GOODWIN RM254", 
-            "start_time": "1900-01-01T13:00:00", 
+            "location": "DUNNING RM10", 
+            "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }, 
         {
             "day_of_week": 3, 
-            "end_time": "1900-01-01T13:00:00", 
+            "end_time": "1900-01-01T13:30:00", 
             "instructors": [
                 "Zulkernine, Farhana"
             ], 
-            "location": "GOODWIN RM254", 
-            "start_time": "1900-01-01T11:30:00", 
+            "location": "DUNNING RM10", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Zulkernine, Farhana"
+            ], 
+            "location": "DUNNING RM10", 
+            "start_time": null, 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }

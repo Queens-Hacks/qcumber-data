@@ -1,0 +1,26 @@
+{
+    "_unique": "001-IND (7929)", 
+    "basic": {
+        "class_num": "7929", 
+        "course": "390A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "COMP", 
+        "type": "IND", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Rodger, James C"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

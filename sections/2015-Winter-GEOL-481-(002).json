@@ -1,5 +1,5 @@
 {
-    "_unique": "002-TUT (4052)", 
+    "_unique": "002-LAB (4052)", 
     "basic": {
         "class_num": "4052", 
         "course": "481", 
@@ -7,18 +7,18 @@
         "solus_id": "002", 
         "status": "Open", 
         "subject": "GEOL", 
-        "type": "TUT", 
+        "type": "LAB", 
         "year": "2015"
     }, 
     "classes": [
         {
-            "day_of_week": 2, 
-            "end_time": "1900-01-01T16:30:00", 
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T12:30:00", 
             "instructors": [
                 "Godin, Laurent"
             ], 
             "location": "MILLER RM409", 
-            "start_time": "1900-01-01T14:30:00", 
+            "start_time": "1900-01-01T10:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }

@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LEC (7948)", 
+    "basic": {
+        "class_num": "7948", 
+        "course": "954", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "MBUS", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Cross, Barry"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-10-17T00:00:00", 
+            "term_start": "2014-08-22T00:00:00"
+        }
+    ]
+}

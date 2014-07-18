@@ -30,8 +30,30 @@
             ], 
             "location": "DUPUIS RM217", 
             "start_time": "1900-01-01T13:00:00", 
-            "term_end": "2015-04-02T00:00:00", 
+            "term_end": "2015-01-16T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "von Hlatky, Stefanie"
+            ], 
+            "location": "DUPUIS RM217", 
+            "start_time": "1900-01-01T13:00:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-03-23T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "von Hlatky, Stefanie"
+            ], 
+            "location": "ONTARIO RM206", 
+            "start_time": "1900-01-01T13:00:00", 
+            "term_end": "2015-03-20T00:00:00", 
+            "term_start": "2015-01-19T00:00:00"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "_unique": "001-LEC (3652)", 
+    "_unique": "001-LEC (8267)", 
     "basic": {
-        "class_num": "3652", 
+        "class_num": "8267", 
         "course": "215", 
         "season": "Winter", 
         "solus_id": "001", 
@@ -25,9 +25,7 @@
         {
             "day_of_week": 3, 
             "end_time": "1900-01-01T09:30:00", 
-            "instructors": [
-                "Shirkhanzadeh, Morteza"
-            ], 
+            "instructors": [], 
             "location": "HUMPHREY AUD", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2015-04-02T00:00:00", 
@@ -36,9 +34,7 @@
         {
             "day_of_week": 4, 
             "end_time": "1900-01-01T14:30:00", 
-            "instructors": [
-                "Shirkhanzadeh, Morteza"
-            ], 
+            "instructors": [], 
             "location": "CHERNOFF AUD", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-04-02T00:00:00", 

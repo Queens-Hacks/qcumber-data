@@ -5,19 +5,19 @@
         "course": "461", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "POLS", 
         "type": "SEM", 
         "year": "2014"
     }, 
     "classes": [
         {
-            "day_of_week": 3, 
+            "day_of_week": 4, 
             "end_time": "1900-01-01T14:30:00", 
             "instructors": [
                 "Pentland, Charles C"
             ], 
-            "location": "KINGSTON RM209", 
+            "location": "MACINTOSH-CORRY RM D405", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"

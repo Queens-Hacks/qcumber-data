@@ -5,20 +5,18 @@
         "course": "336B", 
         "season": "Winter", 
         "solus_id": "002", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "KNPE", 
         "type": "LAB", 
         "year": "2015"
     }, 
     "classes": [
         {
-            "day_of_week": 1, 
-            "end_time": "1900-01-01T16:00:00", 
-            "instructors": [
-                "Latimer, Amy E"
-            ], 
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
             "location": "TBA", 
-            "start_time": "1900-01-01T13:00:00", 
+            "start_time": null, 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }

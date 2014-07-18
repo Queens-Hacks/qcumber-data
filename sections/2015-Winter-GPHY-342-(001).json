@@ -14,7 +14,9 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T14:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Van Ewijk, Karin Yvonne"
+            ], 
             "location": "MACINTOSH-CORRY RM E202", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-04-02T00:00:00", 
@@ -23,7 +25,9 @@
         {
             "day_of_week": 4, 
             "end_time": "1900-01-01T13:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Van Ewijk, Karin Yvonne"
+            ], 
             "location": "MACINTOSH-CORRY RM E202", 
             "start_time": "1900-01-01T12:30:00", 
             "term_end": "2015-04-02T00:00:00", 

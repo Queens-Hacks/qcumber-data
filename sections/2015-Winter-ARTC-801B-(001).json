@@ -1,0 +1,24 @@
+{
+    "_unique": "001-SEM (8501)", 
+    "basic": {
+        "class_num": "8501", 
+        "course": "801B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ARTC", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [], 
+            "location": "ONTARIO RM206", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "001-ONL (7773)", 
+    "basic": {
+        "class_num": "7773", 
+        "course": "564", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CONT", 
+        "type": "ONL", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-12-05T00:00:00", 
+            "term_start": "2014-09-29T00:00:00"
+        }
+    ]
+}

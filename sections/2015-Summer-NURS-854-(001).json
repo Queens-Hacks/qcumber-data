@@ -1,0 +1,26 @@
+{
+    "_unique": "001-PRA (1163)", 
+    "basic": {
+        "class_num": "1163", 
+        "course": "854", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "PRA", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Batchelor, Diane"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-08-12T00:00:00", 
+            "term_start": "2015-05-01T00:00:00"
+        }
+    ]
+}

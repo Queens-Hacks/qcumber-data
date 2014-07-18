@@ -1,6 +1,6 @@
 {
     "basic": {
-        "description": "An investigation into a selected area of neuroscience. The research project involves experimental design, data collection, and analysis, written report and oral presentation. Students will be required to attend seminars and tutorials on topics related to research. Limited enrollment.\r\nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also register in LISC 488/0.0.", 
+        "description": "An investigation into a selected area of neuroscience. The research project involves experimental design, data collection, and analysis, written report and oral presentation. Students will be required to attend seminars and tutorials on topics related to research. Limited enrollment.\nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also register in LISC 488/0.0.", 
         "number": "499B", 
         "subject": "NSCI", 
         "title": "Research Project in Neuroscience"
@@ -16,7 +16,7 @@
         "add_consent": "Department Consent Required", 
         "career": "Undergraduate", 
         "course_components": {
-            "Project": "Required"
+            "Seminar": "Required"
         }, 
         "drop_consent": "Department Consent Required", 
         "grading_basis": "Graded", 

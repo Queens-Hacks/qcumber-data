@@ -1,0 +1,24 @@
+{
+    "_unique": "001-SEM (8445)", 
+    "basic": {
+        "class_num": "8445", 
+        "course": "683", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T18:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T15:00:00", 
+            "term_end": "2015-03-19T00:00:00", 
+            "term_start": "2015-01-15T00:00:00"
+        }
+    ]
+}

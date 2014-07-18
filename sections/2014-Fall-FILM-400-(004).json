@@ -1,5 +1,5 @@
 {
-    "_unique": "004-TUT (3928)", 
+    "_unique": "004-LAB (3928)", 
     "basic": {
         "class_num": "3928", 
         "course": "400", 
@@ -7,7 +7,7 @@
         "solus_id": "004", 
         "status": "Open", 
         "subject": "FILM", 
-        "type": "TUT", 
+        "type": "LAB", 
         "year": "2014"
     }, 
     "classes": [
@@ -17,7 +17,7 @@
             "instructors": [
                 "Allan, Blaine"
             ], 
-            "location": "TBA", 
+            "location": "IBCPA RM312", 
             "start_time": "1900-01-01T09:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"

@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (8455)", 
+    "basic": {
+        "class_num": "8455", 
+        "course": "440", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CHEE", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Wells, Laura Anne"
+            ], 
+            "location": "DUPUIS RM217", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

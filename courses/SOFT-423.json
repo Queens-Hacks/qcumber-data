@@ -17,7 +17,7 @@
         "course_components": {
             "Lecture": "Required"
         }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC322 and CISC325 \r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CISC423; SOFT423", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 CISC322 or 326.\nCorequisite\u00a0\u00a0\u00a0\u00a0 CISC325.\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC423; SOFT423", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.00"

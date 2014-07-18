@@ -1,0 +1,33 @@
+{
+    "_unique": "002-LEC (7921)", 
+    "basic": {
+        "class_num": "7921", 
+        "course": "P11", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "FREN", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM200", 
+            "start_time": "1900-01-01T13:00:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "1900-01-01T13:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM200", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

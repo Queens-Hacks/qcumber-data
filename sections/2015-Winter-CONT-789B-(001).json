@@ -1,0 +1,24 @@
+{
+    "_unique": "001-ONL (8278)", 
+    "basic": {
+        "class_num": "8278", 
+        "course": "789B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CONT", 
+        "type": "ONL", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-02-13T00:00:00", 
+            "term_start": "2015-01-01T00:00:00"
+        }
+    ]
+}

@@ -14,7 +14,9 @@
         {
             "day_of_week": 3, 
             "end_time": "1900-01-01T16:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Jack-Davies, Anita"
+            ], 
             "location": "MACINTOSH-CORRY RM E202", 
             "start_time": "1900-01-01T15:30:00", 
             "term_end": "2015-04-02T00:00:00", 
