@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (8533)", 
+    "basic": {
+        "class_num": "8533", 
+        "course": "926", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MGMT", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T13:00:00", 
+            "instructors": [
+                "Neave, Edwin"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Neave, Edwin"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [
+                "Neave, Edwin"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

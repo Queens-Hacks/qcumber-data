@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8050)", 
+    "basic": {
+        "class_num": "8050", 
+        "course": "952", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jackson, Richard"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-09-26T00:00:00", 
+            "term_start": "2014-08-17T00:00:00"
+        }
+    ]
+}

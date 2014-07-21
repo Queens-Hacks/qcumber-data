@@ -1,0 +1,24 @@
+{
+    "_unique": "701-TUT (3397)", 
+    "basic": {
+        "class_num": "3397", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "701", 
+        "status": "Open", 
+        "subject": "ENGL", 
+        "type": "TUT", 
+        "year": "2013"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2013-12-01T00:00:00", 
+            "term_start": "2013-09-09T00:00:00"
+        }
+    ]
+}

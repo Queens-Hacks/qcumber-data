@@ -17,6 +17,7 @@
         "course_components": {
             "Lecture": "Required"
         }, 
+        "enrollment_requirement": "CIB only", 
         "grading_basis": "Graded", 
         "units": "3.00"
     }

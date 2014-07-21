@@ -1,6 +1,6 @@
 {
     "basic": {
-        "description": "This is a mandatory course and must be taken as one of the three modules students are required to take to meet the degree requirements.The students work with their respective thesis/project supervisors to prepare a detailed Master's thesis/report proposal. The proposal should include a well-defined research question, appropriate method(s), and a tentative project schedule. The proposal should be grounded in relevant literature and must include an annotated bibliography in support of the topic.Course evaluation is Pass/Fail.", 
+        "description": "Students work with thesis/project supervisors to prepare a detailed Master's thesis/report proposal. The proposal should include a well-defined research question, appropriate method(s), and a tentative project schedule. The proposal should be grounded in relevant literature and must include an annotated bibliography in support of the topic. Course evaluation is Pass/Fail. (1.0 credit units). PREREQUISITE: Completion of first year of Master's studies and permission of instructor. COREQUISITE: SURP-898 or SURP-899", 
         "number": "800", 
         "subject": "SURP", 
         "title": "Master's Research Proposal"
@@ -20,7 +20,7 @@
         }, 
         "drop_consent": "Department Consent Required", 
         "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        "typically_offered": "Fall, Winter, Summer", 
         "units": "1.00"
     }
 }

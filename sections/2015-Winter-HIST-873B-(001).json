@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8516)", 
+    "basic": {
+        "class_num": "8516", 
+        "course": "873B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T21:30:00", 
+            "instructors": [
+                "McKay, Ian G"
+            ], 
+            "location": "JOHN WATSON RM122", 
+            "start_time": "1900-01-01T18:30:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

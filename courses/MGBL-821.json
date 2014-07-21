@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "The course will develop the academic and practical skills necessary to create a financial model of a multinational corporation. Multinational corporations use financial models to quantify the economic aspects of operating in jurisdictions with different exchange rates and production costs. Course material will focus on the design, construction, logic, accounting & financial concepts used for financial model building for multinational corporations. Core concepts will include linking and balancing of a pro forma income statement, balance sheet and statement of cash flows. Financial issues common to multinational corporations will be covered including operating in multiple jurisdictions with various exchange rates.", 
+        "number": "821", 
+        "subject": "MGBL", 
+        "title": "Modeling Multinational Corporations"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8523)", 
+    "basic": {
+        "class_num": "8523", 
+        "course": "822", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MGMT", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T16:00:00", 
+            "instructors": [
+                "Dudley, Evan"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T13:00:00", 
+            "term_end": "2015-04-02T00:00:00", 
+            "term_start": "2015-01-05T00:00:00"
+        }
+    ]
+}

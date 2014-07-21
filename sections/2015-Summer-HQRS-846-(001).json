@@ -1,0 +1,24 @@
+{
+    "_unique": "001-SEM (1170)", 
+    "basic": {
+        "class_num": "1170", 
+        "course": "846", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HQRS", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-08-12T00:00:00", 
+            "term_start": "2015-05-01T00:00:00"
+        }
+    ]
+}

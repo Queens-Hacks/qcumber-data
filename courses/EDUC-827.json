@@ -1,9 +1,9 @@
 {
     "basic": {
-        "description": "This course will address the development, selection, administration, scoring and interpretation of tests and other instruments as these apply to the measurement of learning in both clinical and group settings. Validity, reliability, and utility will be key constructs underlying this course. Winter; D. Klinger.", 
+        "description": "This course focuses on the principles of instrument development, use, and analyses for the measurement of educational outcomes and constructs. Course topics will include survey and test development, factor analysis, reliability and validity.", 
         "number": "827", 
         "subject": "EDUC", 
-        "title": "The Principles of Measurement and Learning"
+        "title": "Measurement in Learning"
     }, 
     "extra": {
         "CEAB": {
@@ -20,7 +20,7 @@
         }, 
         "drop_consent": "Department Consent Required", 
         "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        "typically_offered": "Fall, Winter", 
         "units": "3.00"
     }
 }

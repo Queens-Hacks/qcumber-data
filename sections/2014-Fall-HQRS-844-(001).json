@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8052)", 
+    "basic": {
+        "class_num": "8052", 
+        "course": "844", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HQRS", 
+        "type": "SEM", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Knutsen, Erik S"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ]
+}

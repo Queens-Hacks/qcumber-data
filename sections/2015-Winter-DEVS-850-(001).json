@@ -1,0 +1,59 @@
+{
+    "_unique": "001-SEM (8550)", 
+    "basic": {
+        "class_num": "8550", 
+        "course": "850", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DEVS", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Taylor, Marcus"
+            ], 
+            "location": "KINGSTON RM306", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-01-12T00:00:00", 
+            "term_start": "2015-01-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Taylor, Marcus"
+            ], 
+            "location": "KINGSTON RM306", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-02-09T00:00:00", 
+            "term_start": "2015-02-09T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Taylor, Marcus"
+            ], 
+            "location": "KINGSTON RM306", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-03-09T00:00:00", 
+            "term_start": "2015-03-09T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Taylor, Marcus"
+            ], 
+            "location": "KINGSTON RM306", 
+            "start_time": "1900-01-01T12:30:00", 
+            "term_end": "2015-04-13T00:00:00", 
+            "term_start": "2015-04-13T00:00:00"
+        }
+    ]
+}
