@@ -1,11 +1,17 @@
 {
     "_unique": "002-LAB (3944)", 
+    "availability": {
+        "class_curr": 42, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "3944", 
         "course": "273", 
         "season": "Winter", 
         "solus_id": "002", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "ELEC", 
         "type": "LAB", 
         "year": "2015"
@@ -137,5 +143,10 @@
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-03-30T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

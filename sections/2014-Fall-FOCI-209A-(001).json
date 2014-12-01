@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7296)", 
+    "availability": {
+        "class_curr": 34, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7296", 
         "course": "209A", 
@@ -30,8 +36,24 @@
             ], 
             "location": "DUNCAN MCARTHUR RM A342", 
             "start_time": "1900-01-01T15:50:00", 
-            "term_end": "2014-12-19T00:00:00", 
+            "term_end": "2014-12-03T00:00:00", 
             "term_start": "2014-11-24T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
+            "instructors": [
+                "Colgan, Lynda E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A342", 
+            "start_time": "1900-01-01T15:50:00", 
+            "term_end": "2014-12-17T00:00:00", 
+            "term_start": "2014-12-17T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

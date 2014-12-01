@@ -1,5 +1,11 @@
 {
     "_unique": "003-LEC (7318)", 
+    "availability": {
+        "class_curr": 175, 
+        "class_max": 184, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7318", 
         "course": "323", 
@@ -22,5 +28,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (3545)", 
+    "availability": {
+        "class_curr": 211, 
+        "class_max": 220, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "3545", 
         "course": "101", 
@@ -13,21 +19,30 @@
     "classes": [
         {
             "day_of_week": 5, 
-            "end_time": "1900-01-01T12:50:00", 
-            "instructors": [], 
+            "end_time": "1900-01-01T13:00:00", 
+            "instructors": [
+                "Freeman, John"
+            ], 
             "location": "DUNCAN MCARTHUR RM B101", 
-            "start_time": "1900-01-01T11:50:00", 
+            "start_time": "1900-01-01T12:00:00", 
             "term_end": "2014-10-10T00:00:00", 
             "term_start": "2014-09-03T00:00:00"
         }, 
         {
             "day_of_week": 5, 
-            "end_time": "1900-01-01T12:50:00", 
-            "instructors": [], 
+            "end_time": "1900-01-01T13:00:00", 
+            "instructors": [
+                "Freeman, John"
+            ], 
             "location": "DUNCAN MCARTHUR RM B101", 
-            "start_time": "1900-01-01T11:50:00", 
-            "term_end": "2014-12-19T00:00:00", 
+            "start_time": "1900-01-01T12:00:00", 
+            "term_end": "2014-12-18T00:00:00", 
             "term_start": "2014-11-24T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

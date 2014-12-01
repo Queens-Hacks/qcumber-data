@@ -1,5 +1,11 @@
 {
     "_unique": "200-PRA (7499)", 
+    "availability": {
+        "class_curr": 60, 
+        "class_max": 100, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7499", 
         "course": "311A", 
@@ -22,5 +28,10 @@
             "term_end": "2014-12-19T00:00:00", 
             "term_start": "2014-09-03T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Peterborough, ON", 
+        "session": "Education Regular"
+    }
 }

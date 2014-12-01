@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (3405)", 
+    "availability": {
+        "class_curr": 141, 
+        "class_max": 175, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "3405", 
         "course": "310", 
@@ -14,7 +20,9 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T09:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Corona, Alonso"
+            ], 
             "location": "WALTER LIGHT RM205", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-11-28T00:00:00", 
@@ -23,7 +31,9 @@
         {
             "day_of_week": 3, 
             "end_time": "1900-01-01T11:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Corona, Alonso"
+            ], 
             "location": "WALTER LIGHT RM205", 
             "start_time": "1900-01-01T10:30:00", 
             "term_end": "2014-11-28T00:00:00", 
@@ -32,11 +42,18 @@
         {
             "day_of_week": 5, 
             "end_time": "1900-01-01T10:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Corona, Alonso"
+            ], 
             "location": "WALTER LIGHT RM205", 
             "start_time": "1900-01-01T09:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

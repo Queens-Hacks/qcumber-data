@@ -1,5 +1,11 @@
 {
     "_unique": "001-SEM (6874)", 
+    "availability": {
+        "class_curr": 13, 
+        "class_max": 16, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6874", 
         "course": "391A", 
@@ -17,10 +23,15 @@
             "instructors": [
                 "Duffett, Angela"
             ], 
-            "location": "MACINTOSH-CORRY RM D209", 
+            "location": "KINES & HLTH RM103", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

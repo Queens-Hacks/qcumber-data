@@ -1,5 +1,11 @@
 {
     "_unique": "100-PRA (7490)", 
+    "availability": {
+        "class_curr": 83, 
+        "class_max": 150, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7490", 
         "course": "210A", 
@@ -22,5 +28,10 @@
             "term_end": "2014-12-19T00:00:00", 
             "term_start": "2014-09-03T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

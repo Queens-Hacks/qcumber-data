@@ -1,5 +1,11 @@
 {
     "_unique": "301-LAB (4103)", 
+    "availability": {
+        "class_curr": 54, 
+        "class_max": 58, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "4103", 
         "course": "151", 
@@ -14,11 +20,13 @@
         {
             "day_of_week": 1, 
             "end_time": "1900-01-01T10:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Hanes, John A"
+            ], 
             "location": "MILLER RM102", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00"
+            "term_start": "2014-09-15T00:00:00"
         }, 
         {
             "day_of_week": 1, 
@@ -27,7 +35,21 @@
             "location": "MILLER RM106", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-15T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T19:30:00", 
+            "instructors": [], 
+            "location": "MILLER RM102", 
+            "start_time": "1900-01-01T17:30:00", 
+            "term_end": "2014-09-12T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

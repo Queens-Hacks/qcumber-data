@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (5779)", 
+    "availability": {
+        "class_curr": 55, 
+        "class_max": 60, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5779", 
         "course": "347", 
@@ -17,7 +23,7 @@
             "instructors": [
                 "Berman, Bruce"
             ], 
-            "location": "CHERNOFF RM213", 
+            "location": "MACDONALD RM3", 
             "start_time": "1900-01-01T13:00:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
@@ -28,10 +34,15 @@
             "instructors": [
                 "Berman, Bruce"
             ], 
-            "location": "CHERNOFF RM213", 
+            "location": "MACDONALD RM3", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,6 +1,6 @@
 {
     "basic": {
-        "description": "The taxation of non-residents and of foreign-source income. The principal focus is on Canadian tax rules and their application, but the course also addresses broader questions such as the problems of taxing multinational enterprises, the regulation of transfer-pricing, the use of tax havens, and international cooperation to prevent fiscal evasion. (To be offered jointly with LAW-506.)\u00a0 Not offered 2010-2011.\u00a0", 
+        "description": "International Tax overviews the essential elements of the Canadian international income tax system, including tax issues surrounding investing in foreign countries and foreign investments into Canada. Tax planning for international e-commerce activities will comprise a significant element of the course. (To be offered jointly with LAW-506.) Three term hours. PREREQUISITE OR CO-REQUISITE: LAW-508 Taxation", 
         "number": "806", 
         "subject": "LAW", 
         "title": "International Taxation"
@@ -13,10 +13,12 @@
             "Eng Sci": 0, 
             "Math": 0
         }, 
+        "add_consent": "Department Consent Required", 
         "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "drop_consent": "Department Consent Required", 
         "grading_basis": "Graded", 
         "typically_offered": "Fall", 
         "units": "3.00"

@@ -1,11 +1,17 @@
 {
     "_unique": "325-LAB (7387)", 
+    "availability": {
+        "class_curr": 36, 
+        "class_max": 50, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7387", 
         "course": "151", 
         "season": "Fall", 
         "solus_id": "325", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "APSC", 
         "type": "LAB", 
         "year": "2014"
@@ -14,11 +20,13 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T18:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Hanes, John A"
+            ], 
             "location": "MILLER RM102", 
             "start_time": "1900-01-01T16:30:00", 
             "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00"
+            "term_start": "2014-09-15T00:00:00"
         }, 
         {
             "day_of_week": 2, 
@@ -27,7 +35,21 @@
             "location": "MILLER RM106", 
             "start_time": "1900-01-01T16:30:00", 
             "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-15T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T19:30:00", 
+            "instructors": [], 
+            "location": "MILLER RM102", 
+            "start_time": "1900-01-01T17:30:00", 
+            "term_end": "2014-09-12T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

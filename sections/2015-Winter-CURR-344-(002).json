@@ -1,5 +1,11 @@
 {
     "_unique": "002-LEC (7827)", 
+    "availability": {
+        "class_curr": 31, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7827", 
         "course": "344", 
@@ -14,7 +20,9 @@
         {
             "day_of_week": 4, 
             "end_time": "1900-01-01T17:50:00", 
-            "instructors": [], 
+            "instructors": [
+                "Canton, Barbara"
+            ], 
             "location": "DUNCAN MCARTHUR RM A342", 
             "start_time": "1900-01-01T15:50:00", 
             "term_end": "2015-02-13T00:00:00", 
@@ -23,7 +31,9 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T17:50:00", 
-            "instructors": [], 
+            "instructors": [
+                "Canton, Barbara"
+            ], 
             "location": "DUNCAN MCARTHUR RM A342", 
             "start_time": "1900-01-01T15:50:00", 
             "term_end": "2015-02-13T00:00:00", 
@@ -32,7 +42,9 @@
         {
             "day_of_week": 4, 
             "end_time": "1900-01-01T17:50:00", 
-            "instructors": [], 
+            "instructors": [
+                "Canton, Barbara"
+            ], 
             "location": "DUNCAN MCARTHUR RM A342", 
             "start_time": "1900-01-01T15:50:00", 
             "term_end": "2015-04-30T00:00:00", 
@@ -41,11 +53,18 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T17:50:00", 
-            "instructors": [], 
+            "instructors": [
+                "Canton, Barbara"
+            ], 
             "location": "DUNCAN MCARTHUR RM A342", 
             "start_time": "1900-01-01T15:50:00", 
             "term_end": "2015-04-30T00:00:00", 
             "term_start": "2015-04-13T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

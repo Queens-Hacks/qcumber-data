@@ -1,5 +1,11 @@
 {
     "_unique": "009-TUT (5623)", 
+    "availability": {
+        "class_curr": 19, 
+        "class_max": 25, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5623", 
         "course": "384", 
@@ -20,5 +26,10 @@
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

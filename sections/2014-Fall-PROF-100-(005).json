@@ -1,11 +1,17 @@
 {
     "_unique": "005-TUT (3541)", 
+    "availability": {
+        "class_curr": 41, 
+        "class_max": 38, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "3541", 
         "course": "100", 
         "season": "Fall", 
         "solus_id": "005", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "PROF", 
         "type": "TUT", 
         "year": "2014"
@@ -14,7 +20,9 @@
         {
             "day_of_week": 3, 
             "end_time": "1900-01-01T10:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Merchant, Stefan Denis"
+            ], 
             "location": "DUNCAN MCARTHUR RM A236", 
             "start_time": "1900-01-01T09:30:00", 
             "term_end": "2014-10-10T00:00:00", 
@@ -23,11 +31,29 @@
         {
             "day_of_week": 3, 
             "end_time": "1900-01-01T10:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Merchant, Stefan Denis"
+            ], 
             "location": "DUNCAN MCARTHUR RM A236", 
             "start_time": "1900-01-01T09:30:00", 
-            "term_end": "2014-12-19T00:00:00", 
+            "term_end": "2014-12-03T00:00:00", 
             "term_start": "2014-11-24T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T10:30:00", 
+            "instructors": [
+                "Merchant, Stefan Denis"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "1900-01-01T09:30:00", 
+            "term_end": "2014-12-17T00:00:00", 
+            "term_start": "2014-12-17T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

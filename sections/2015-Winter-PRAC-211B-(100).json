@@ -1,5 +1,11 @@
 {
     "_unique": "100-PRA (8012)", 
+    "availability": {
+        "class_curr": 141, 
+        "class_max": 150, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8012", 
         "course": "211B", 
@@ -22,5 +28,10 @@
             "term_end": "2015-04-30T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

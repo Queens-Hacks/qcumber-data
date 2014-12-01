@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (8115)", 
+    "availability": {
+        "class_curr": 6, 
+        "class_max": 30, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8115", 
+        "course": "820", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "GREK", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Griffith, R. Drew"
+            ], 
+            "location": "JOHN WATSON RM522", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [
+                "Griffith, R. Drew"
+            ], 
+            "location": "JOHN WATSON RM522", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

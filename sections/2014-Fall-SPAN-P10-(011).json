@@ -1,0 +1,37 @@
+{
+    "_unique": "011-LEC (8214)", 
+    "availability": {
+        "class_curr": 26, 
+        "class_max": 30, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8214", 
+        "course": "P10", 
+        "season": "Fall", 
+        "solus_id": "011", 
+        "status": "Open", 
+        "subject": "SPAN", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Cereceda, Ruth"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ], 
+    "details": {
+        "campus": "Bader International Study Ctr", 
+        "location": "East Sussex, UK", 
+        "session": "Regular Academic Session"
+    }
+}

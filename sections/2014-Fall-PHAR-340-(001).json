@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (6382)", 
+    "availability": {
+        "class_curr": 128, 
+        "class_max": 210, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6382", 
         "course": "340", 
@@ -14,9 +20,7 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T09:30:00", 
-            "instructors": [
-                "Massey, Thomas E"
-            ], 
+            "instructors": [], 
             "location": "ELLIS AUD", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-11-28T00:00:00", 
@@ -44,5 +48,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

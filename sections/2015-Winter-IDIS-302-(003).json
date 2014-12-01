@@ -1,11 +1,17 @@
 {
     "_unique": "003-TUT (8160)", 
+    "availability": {
+        "class_curr": 24, 
+        "class_max": 24, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8160", 
         "course": "302", 
         "season": "Winter", 
         "solus_id": "003", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "IDIS", 
         "type": "TUT", 
         "year": "2015"
@@ -15,12 +21,17 @@
             "day_of_week": 3, 
             "end_time": "1900-01-01T14:30:00", 
             "instructors": [
-                "Jack-Davies, Anita"
+                "al Shaibah, Arig"
             ], 
             "location": "MACINTOSH-CORRY RM E202", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

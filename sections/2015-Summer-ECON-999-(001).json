@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (1035)", 
+    "availability": {
+        "class_curr": 51, 
+        "class_max": 0, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1035", 
         "course": "999", 
@@ -20,5 +26,10 @@
             "term_end": "2015-08-12T00:00:00", 
             "term_start": "2015-05-01T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

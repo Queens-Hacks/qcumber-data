@@ -1,5 +1,11 @@
 {
     "_unique": "007-SEM (6836)", 
+    "availability": {
+        "class_curr": 21, 
+        "class_max": 28, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6836", 
         "course": "122A", 
@@ -15,12 +21,17 @@
             "day_of_week": 4, 
             "end_time": "1900-01-01T09:30:00", 
             "instructors": [
-                "Chaktsiris, Mary"
+                "Quirk, Andrew James"
             ], 
             "location": "JOHN WATSON RM401", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

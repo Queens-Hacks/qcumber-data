@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (8481)", 
+    "availability": {
+        "class_curr": 30, 
+        "class_max": 70, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8481", 
         "course": "873", 
@@ -17,10 +23,15 @@
             "instructors": [
                 "Fitz-Gerald, Ann"
             ], 
-            "location": "TBA", 
+            "location": "GOODES RM308", 
             "start_time": null, 
             "term_end": "2015-04-06T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

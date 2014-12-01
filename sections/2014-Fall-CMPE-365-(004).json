@@ -1,11 +1,17 @@
 {
     "_unique": "004-LAB (5283)", 
+    "availability": {
+        "class_curr": 39, 
+        "class_max": 37, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5283", 
         "course": "365", 
         "season": "Fall", 
         "solus_id": "004", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "CMPE", 
         "type": "LAB", 
         "year": "2014"
@@ -20,5 +26,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

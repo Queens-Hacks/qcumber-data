@@ -1,6 +1,6 @@
 {
     "basic": {
-        "description": "Laboratory-based course emphasizing experimental approaches to understanding the principles of plant physiology covered in BIOL 341/3.0.", 
+        "description": "Laboratory-based course emphasizing experimental approaches to understanding the principles of plant physiology covered in BIOL 341/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 117 (36Lb;12T;15O;48P)", 
         "number": "402", 
         "subject": "BIOL", 
         "title": "Experiments in Plant Physiology"
@@ -18,7 +18,7 @@
             "Laboratory": "Required", 
             "Tutorial": "Required"
         }, 
-        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 BIOL341\r\nExclusion\u00a0\u00a0\u00a0 BIOL301", 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 BIOL341", 
         "grading_basis": "Graded", 
         "units": "3.00"
     }

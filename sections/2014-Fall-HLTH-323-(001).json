@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (5448)", 
+    "availability": {
+        "class_curr": 84, 
+        "class_max": 100, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5448", 
         "course": "323", 
@@ -14,7 +20,9 @@
         {
             "day_of_week": 5, 
             "end_time": "1900-01-01T17:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Vafaei, Afshin"
+            ], 
             "location": "KINES & HLTH RM106", 
             "start_time": "1900-01-01T14:30:00", 
             "term_end": "2014-11-28T00:00:00", 
@@ -23,7 +31,9 @@
         {
             "day_of_week": 5, 
             "end_time": "1900-01-01T17:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Vafaei, Afshin"
+            ], 
             "location": "KINES & HLTH RM107", 
             "start_time": "1900-01-01T14:30:00", 
             "term_end": "2014-11-28T00:00:00", 
@@ -32,11 +42,18 @@
         {
             "day_of_week": 5, 
             "end_time": "1900-01-01T17:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Vafaei, Afshin"
+            ], 
             "location": "KINES & HLTH RM101", 
             "start_time": "1900-01-01T14:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

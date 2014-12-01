@@ -1,11 +1,17 @@
 {
     "_unique": "001-LEC (7090)", 
+    "availability": {
+        "class_curr": 7, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7090", 
         "course": "898", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Closed", 
+        "status": "Open", 
         "subject": "GEOL", 
         "type": "LEC", 
         "year": "2014"
@@ -20,5 +26,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

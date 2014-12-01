@@ -1,5 +1,11 @@
 {
     "_unique": "003-LAB (8035)", 
+    "availability": {
+        "class_curr": 10, 
+        "class_max": 15, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8035", 
         "course": "336B", 
@@ -20,5 +26,10 @@
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -18,7 +18,7 @@
             "Laboratory": "Required", 
             "Lecture": "Required"
         }, 
-        "enrollment_requirement": "EXCLUSION:\u00a0 ELEC448 excludes MECH456.\u00a0 A prerequisite of ELEC443 or MATH332 and registration in a BSCE Academic Program.", 
+        "enrollment_requirement": "COREQUISITE:\u00a0 ELEC 443 or MTHE 332 (MATH 332) or MECH 350. Must be registration in a BSCE Academic Program.", 
         "grading_basis": "Graded", 
         "typically_offered": "Winter", 
         "units": "3.50"

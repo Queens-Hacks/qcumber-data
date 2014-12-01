@@ -1,11 +1,17 @@
 {
     "_unique": "217-TUT (4239)", 
+    "availability": {
+        "class_curr": 53, 
+        "class_max": 51, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "4239", 
         "course": "131", 
         "season": "Fall", 
         "solus_id": "217", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "APSC", 
         "type": "TUT", 
         "year": "2014"
@@ -15,10 +21,15 @@
             "day_of_week": 1, 
             "end_time": "1900-01-01T12:30:00", 
             "instructors": [], 
-            "location": "CHERNOFF RM213", 
+            "location": "STIRLING RM401", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

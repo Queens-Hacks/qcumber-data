@@ -1,5 +1,11 @@
 {
     "_unique": "014-LAB (6504)", 
+    "availability": {
+        "class_curr": 58, 
+        "class_max": 60, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6504", 
         "course": "205", 
@@ -227,5 +233,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-11-24T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

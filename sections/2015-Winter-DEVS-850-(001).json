@@ -1,5 +1,11 @@
 {
     "_unique": "001-SEM (8550)", 
+    "availability": {
+        "class_curr": 9, 
+        "class_max": 16, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8550", 
         "course": "850", 
@@ -17,7 +23,7 @@
             "instructors": [
                 "Taylor, Marcus"
             ], 
-            "location": "KINGSTON RM306", 
+            "location": "MACINTOSH-CORRY RM C420", 
             "start_time": "1900-01-01T12:30:00", 
             "term_end": "2015-01-12T00:00:00", 
             "term_start": "2015-01-12T00:00:00"
@@ -28,7 +34,7 @@
             "instructors": [
                 "Taylor, Marcus"
             ], 
-            "location": "KINGSTON RM306", 
+            "location": "MACINTOSH-CORRY RM C420", 
             "start_time": "1900-01-01T12:30:00", 
             "term_end": "2015-02-09T00:00:00", 
             "term_start": "2015-02-09T00:00:00"
@@ -39,7 +45,7 @@
             "instructors": [
                 "Taylor, Marcus"
             ], 
-            "location": "KINGSTON RM306", 
+            "location": "MACINTOSH-CORRY RM C420", 
             "start_time": "1900-01-01T12:30:00", 
             "term_end": "2015-03-09T00:00:00", 
             "term_start": "2015-03-09T00:00:00"
@@ -50,10 +56,15 @@
             "instructors": [
                 "Taylor, Marcus"
             ], 
-            "location": "KINGSTON RM306", 
+            "location": "MACINTOSH-CORRY RM C420", 
             "start_time": "1900-01-01T12:30:00", 
             "term_end": "2015-04-13T00:00:00", 
             "term_start": "2015-04-13T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

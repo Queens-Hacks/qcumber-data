@@ -1,5 +1,11 @@
 {
     "_unique": "700-LEC (8132)", 
+    "availability": {
+        "class_curr": 51, 
+        "class_max": 95, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8132", 
         "course": "100B", 
@@ -22,5 +28,10 @@
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "Graded", 
+        "session": "Regular Academic Session"
+    }
 }

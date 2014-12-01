@@ -1,5 +1,11 @@
 {
     "_unique": "003-TUT (2879)", 
+    "availability": {
+        "class_curr": 64, 
+        "class_max": 71, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2879", 
         "course": "220", 
@@ -14,11 +20,18 @@
         {
             "day_of_week": 5, 
             "end_time": "1900-01-01T11:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Diak, Bradley J"
+            ], 
             "location": "JEFFERY RM118", 
             "start_time": "1900-01-01T09:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

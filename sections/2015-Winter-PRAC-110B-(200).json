@@ -1,5 +1,11 @@
 {
     "_unique": "200-PRA (8009)", 
+    "availability": {
+        "class_curr": 84, 
+        "class_max": 85, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8009", 
         "course": "110B", 
@@ -22,5 +28,10 @@
             "term_end": "2015-04-30T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Peterborough, ON", 
+        "session": "Education Regular"
+    }
 }

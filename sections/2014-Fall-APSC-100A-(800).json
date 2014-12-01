@@ -1,5 +1,11 @@
 {
     "_unique": "800-LEC (4319)", 
+    "availability": {
+        "class_curr": 197, 
+        "class_max": 206, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "4319", 
         "course": "100A", 
@@ -32,6 +38,20 @@
             "start_time": "1900-01-01T18:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T22:00:00", 
+            "instructors": [], 
+            "location": "ETHERINGTON AUD", 
+            "start_time": "1900-01-01T20:30:00", 
+            "term_end": "2014-09-17T00:00:00", 
+            "term_start": "2014-09-15T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

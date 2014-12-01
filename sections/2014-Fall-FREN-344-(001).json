@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (6183)", 
+    "availability": {
+        "class_curr": 51, 
+        "class_max": 53, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6183", 
         "course": "344", 
@@ -17,7 +23,7 @@
             "instructors": [
                 "Dufresne, Monique"
             ], 
-            "location": "RICHARDSON LAB RM104", 
+            "location": "DUNNING RM11", 
             "start_time": "1900-01-01T13:00:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
@@ -28,10 +34,15 @@
             "instructors": [
                 "Dufresne, Monique"
             ], 
-            "location": "ELLIS RM327", 
+            "location": "MACINTOSH-CORRY RM E229", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

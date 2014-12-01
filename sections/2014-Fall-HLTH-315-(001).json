@@ -1,11 +1,17 @@
 {
     "_unique": "001-LSM (5446)", 
+    "availability": {
+        "class_curr": 174, 
+        "class_max": 170, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5446", 
         "course": "315", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "HLTH", 
         "type": "LSM", 
         "year": "2014"
@@ -15,9 +21,9 @@
             "day_of_week": 2, 
             "end_time": "1900-01-01T10:00:00", 
             "instructors": [
-                "Millington, Robert"
+                "Flora, Parminder"
             ], 
-            "location": "KINES & HLTH RM100", 
+            "location": "STIRLING AUD", 
             "start_time": "1900-01-01T08:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
@@ -26,12 +32,17 @@
             "day_of_week": 5, 
             "end_time": "1900-01-01T11:30:00", 
             "instructors": [
-                "Millington, Robert"
+                "Flora, Parminder"
             ], 
-            "location": "KINES & HLTH RM100", 
+            "location": "STIRLING AUD", 
             "start_time": "1900-01-01T10:00:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

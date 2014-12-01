@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7456)", 
+    "availability": {
+        "class_curr": 161, 
+        "class_max": 170, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7456", 
         "course": "862", 
@@ -14,11 +20,18 @@
         {
             "day_of_week": null, 
             "end_time": null, 
-            "instructors": [], 
+            "instructors": [
+                "Roman, Paul Anthony"
+            ], 
             "location": "TBA", 
             "start_time": null, 
             "term_end": "2014-10-12T00:00:00", 
             "term_start": "2014-08-10T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

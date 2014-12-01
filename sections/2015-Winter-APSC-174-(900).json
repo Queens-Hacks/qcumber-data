@@ -1,5 +1,11 @@
 {
     "_unique": "900-LEC (5101)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 100, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5101", 
         "course": "174", 
@@ -14,7 +20,9 @@
         {
             "day_of_week": 1, 
             "end_time": "1900-01-01T12:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Kipka, Robert"
+            ], 
             "location": "JEFFERY RM128", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2015-04-02T00:00:00", 
@@ -23,7 +31,9 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T14:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Kipka, Robert"
+            ], 
             "location": "JEFFERY RM128", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-04-02T00:00:00", 
@@ -32,7 +42,9 @@
         {
             "day_of_week": 4, 
             "end_time": "1900-01-01T13:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Kipka, Robert"
+            ], 
             "location": "JEFFERY RM128", 
             "start_time": "1900-01-01T12:30:00", 
             "term_end": "2015-04-02T00:00:00", 
@@ -41,7 +53,9 @@
         {
             "day_of_week": 1, 
             "end_time": "1900-01-01T12:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Kipka, Robert"
+            ], 
             "location": "JEFFERY RM128", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2015-06-12T00:00:00", 
@@ -50,7 +64,9 @@
         {
             "day_of_week": 2, 
             "end_time": "1900-01-01T14:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Kipka, Robert"
+            ], 
             "location": "JEFFERY RM128", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2015-06-12T00:00:00", 
@@ -59,11 +75,18 @@
         {
             "day_of_week": 4, 
             "end_time": "1900-01-01T13:30:00", 
-            "instructors": [], 
+            "instructors": [
+                "Kipka, Robert"
+            ], 
             "location": "JEFFERY RM128", 
             "start_time": "1900-01-01T12:30:00", 
             "term_end": "2015-06-12T00:00:00", 
             "term_start": "2015-05-04T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "12 Week Winter Extended Prog"
+    }
 }

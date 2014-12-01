@@ -1,11 +1,17 @@
 {
     "_unique": "001-LAB (1902)", 
+    "availability": {
+        "class_curr": 21, 
+        "class_max": 70, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1902", 
         "course": "162A", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "MUSC", 
         "type": "LAB", 
         "year": "2014"
@@ -33,5 +39,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

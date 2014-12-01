@@ -1,5 +1,11 @@
 {
     "_unique": "002-ONL (7819)", 
+    "availability": {
+        "class_curr": 16, 
+        "class_max": 17, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7819", 
         "course": "563A", 
@@ -20,5 +26,10 @@
             "term_end": "2014-12-31T00:00:00", 
             "term_start": "2014-11-10T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Continuing Educ- Fall/Winter"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "600-LEC (4122)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "4122", 
         "course": "150B", 
@@ -14,11 +20,18 @@
         {
             "day_of_week": null, 
             "end_time": null, 
-            "instructors": [], 
+            "instructors": [
+                "Horton, Laura"
+            ], 
             "location": "TBA", 
             "start_time": null, 
             "term_end": "2015-04-30T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Manitoulin Island, ON", 
+        "session": "Education Regular"
+    }
 }

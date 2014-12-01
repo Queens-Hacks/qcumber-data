@@ -1,5 +1,11 @@
 {
     "_unique": "002-LEC (6323)", 
+    "availability": {
+        "class_curr": 69, 
+        "class_max": 130, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6323", 
         "course": "200A", 
@@ -19,8 +25,8 @@
             ], 
             "location": "STIRLING RM A", 
             "start_time": "1900-01-01T10:00:00", 
-            "term_end": "2014-11-28T00:00:00", 
-            "term_start": "2014-09-08T00:00:00"
+            "term_end": "2014-10-08T00:00:00", 
+            "term_start": "2014-10-08T00:00:00"
         }, 
         {
             "day_of_week": 5, 
@@ -30,8 +36,57 @@
             ], 
             "location": "STIRLING RM A", 
             "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-11-07T00:00:00", 
+            "term_start": "2014-11-07T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Dujardin, Gwynn"
+            ], 
+            "location": "KINES & HLTH RM100", 
+            "start_time": "1900-01-01T10:00:00", 
+            "term_end": "2014-10-03T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T11:30:00", 
+            "instructors": [
+                "Dujardin, Gwynn"
+            ], 
+            "location": "KINES & HLTH RM100", 
+            "start_time": "1900-01-01T10:00:00", 
             "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-10-13T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [
+                "Dujardin, Gwynn"
+            ], 
+            "location": "KINES & HLTH RM100", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-11-10T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T10:00:00", 
+            "instructors": [
+                "Dujardin, Gwynn"
+            ], 
+            "location": "KINES & HLTH RM100", 
+            "start_time": "1900-01-01T08:30:00", 
+            "term_end": "2014-10-31T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

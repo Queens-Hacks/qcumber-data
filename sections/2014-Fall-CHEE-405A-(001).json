@@ -1,5 +1,11 @@
 {
     "_unique": "001-IND (2403)", 
+    "availability": {
+        "class_curr": 9, 
+        "class_max": 50, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2403", 
         "course": "405A", 
@@ -33,5 +39,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

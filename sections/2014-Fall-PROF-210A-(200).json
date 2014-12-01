@@ -1,5 +1,11 @@
 {
     "_unique": "200-LEC (7452)", 
+    "availability": {
+        "class_curr": 73, 
+        "class_max": 100, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7452", 
         "course": "210A", 
@@ -22,5 +28,10 @@
             "term_end": "2014-12-03T00:00:00", 
             "term_start": "2014-09-11T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Peterborough, ON", 
+        "session": "Education Regular"
+    }
 }

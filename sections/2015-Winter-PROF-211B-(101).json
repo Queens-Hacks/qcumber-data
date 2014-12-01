@@ -1,5 +1,11 @@
 {
     "_unique": "101-LEC (7990)", 
+    "availability": {
+        "class_curr": 81, 
+        "class_max": 100, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7990", 
         "course": "211B", 
@@ -33,5 +39,10 @@
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

@@ -1,11 +1,17 @@
 {
     "_unique": "007-LAB (2917)", 
+    "availability": {
+        "class_curr": 74, 
+        "class_max": 103, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2917", 
         "course": "272", 
         "season": "Winter", 
         "solus_id": "007", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "MATH", 
         "type": "LAB", 
         "year": "2015"
@@ -20,5 +26,10 @@
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (2656)", 
+    "availability": {
+        "class_curr": 76, 
+        "class_max": 90, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2656", 
         "course": "226", 
@@ -17,10 +23,15 @@
             "instructors": [
                 "MacKenzie, Scott"
             ], 
-            "location": "IBCPA RM329", 
+            "location": "IBCPA RM222", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "003-TUT (2597)", 
+    "availability": {
+        "class_curr": 46, 
+        "class_max": 74, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2597", 
         "course": "120A", 
@@ -13,12 +19,17 @@
     "classes": [
         {
             "day_of_week": 2, 
-            "end_time": "1900-01-01T16:30:00", 
+            "end_time": "1900-01-01T18:30:00", 
             "instructors": [], 
             "location": "JEFFERY RM234", 
-            "start_time": "1900-01-01T15:30:00", 
+            "start_time": "1900-01-01T17:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,11 +1,17 @@
 {
     "_unique": "001-LEC (7046)", 
+    "availability": {
+        "class_curr": 19, 
+        "class_max": 22, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7046", 
         "course": "309", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Closed", 
+        "status": "Open", 
         "subject": "STSC", 
         "type": "LEC", 
         "year": "2014"
@@ -13,17 +19,10 @@
     "classes": [
         {
             "day_of_week": 6, 
-            "end_time": "1900-01-01T00:00:00", 
-            "instructors": [], 
-            "location": "TBA", 
-            "start_time": "1900-01-01T00:00:00", 
-            "term_end": "2014-10-25T00:00:00", 
-            "term_start": "2014-10-25T00:00:00"
-        }, 
-        {
-            "day_of_week": 7, 
             "end_time": "1900-01-01T18:00:00", 
-            "instructors": [], 
+            "instructors": [
+                "Mackey, Clarke W"
+            ], 
             "location": "IBCPA RM104", 
             "start_time": "1900-01-01T11:00:00", 
             "term_end": "2014-10-25T00:00:00", 
@@ -74,5 +73,10 @@
             "term_end": "2014-11-09T00:00:00", 
             "term_start": "2014-11-09T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,11 +1,17 @@
 {
     "_unique": "216-TUT (4845)", 
+    "availability": {
+        "class_curr": 61, 
+        "class_max": 51, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "4845", 
         "course": "132", 
         "season": "Winter", 
         "solus_id": "216", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "APSC", 
         "type": "TUT", 
         "year": "2015"
@@ -15,10 +21,15 @@
             "day_of_week": 1, 
             "end_time": "1900-01-01T12:30:00", 
             "instructors": [], 
-            "location": "CHERNOFF RM213", 
+            "location": "MACINTOSH-CORRY RM E229", 
             "start_time": "1900-01-01T11:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

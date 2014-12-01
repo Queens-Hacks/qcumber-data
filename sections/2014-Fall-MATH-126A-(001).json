@@ -1,11 +1,17 @@
 {
     "_unique": "001-LEC (2607)", 
+    "availability": {
+        "class_curr": 240, 
+        "class_max": 240, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2607", 
         "course": "126A", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "MATH", 
         "type": "LEC", 
         "year": "2014"
@@ -44,5 +50,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,11 +1,17 @@
 {
     "_unique": "007-LEC (2342)", 
+    "availability": {
+        "class_curr": 23, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2342", 
         "course": "191A", 
         "season": "Fall", 
         "solus_id": "007", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "PROF", 
         "type": "LEC", 
         "year": "2014"
@@ -17,7 +23,7 @@
             "instructors": [
                 "Glancey, Patrick"
             ], 
-            "location": "TBA", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T09:00:00", 
             "term_end": "2014-09-26T00:00:00", 
             "term_start": "2014-09-12T00:00:00"
@@ -28,7 +34,7 @@
             "instructors": [
                 "Glancey, Patrick"
             ], 
-            "location": "TBA", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T09:00:00", 
             "term_end": "2014-10-10T00:00:00", 
             "term_start": "2014-10-10T00:00:00"
@@ -39,10 +45,15 @@
             "instructors": [
                 "Glancey, Patrick"
             ], 
-            "location": "TBA", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T09:00:00", 
             "term_end": "2014-12-12T00:00:00", 
             "term_start": "2014-11-28T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

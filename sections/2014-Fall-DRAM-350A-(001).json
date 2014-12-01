@@ -1,5 +1,11 @@
 {
     "_unique": "001-PRA (7551)", 
+    "availability": {
+        "class_curr": 15, 
+        "class_max": 14, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7551", 
         "course": "350A", 
@@ -19,8 +25,24 @@
             ], 
             "location": "THEOLOGICAL RM118", 
             "start_time": "1900-01-01T11:30:00", 
-            "term_end": "2014-11-28T00:00:00", 
+            "term_end": "2014-09-26T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T14:30:00", 
+            "instructors": [
+                "Moses, Daniel David"
+            ], 
+            "location": "THEOLOGICAL RM209", 
+            "start_time": "1900-01-01T11:30:00", 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-29T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

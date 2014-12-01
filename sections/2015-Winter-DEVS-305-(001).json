@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (1894)", 
+    "availability": {
+        "class_curr": 20, 
+        "class_max": 35, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1894", 
         "course": "305", 
@@ -17,10 +23,15 @@
             "instructors": [
                 "Dubinsky, Karen"
             ], 
-            "location": "MACINTOSH-CORRY RM E202", 
+            "location": "DUNNING RM27", 
             "start_time": "1900-01-01T18:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

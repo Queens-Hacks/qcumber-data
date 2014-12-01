@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (3339)", 
+    "availability": {
+        "class_curr": 63, 
+        "class_max": 70, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "3339", 
         "course": "381", 
@@ -17,7 +23,7 @@
             "instructors": [
                 "Cartledge, John Charles"
             ], 
-            "location": "JEFFERY RM127", 
+            "location": "JEFFERY RM118", 
             "start_time": "1900-01-01T15:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
@@ -28,7 +34,7 @@
             "instructors": [
                 "Cartledge, John Charles"
             ], 
-            "location": "KINES & HLTH RM101", 
+            "location": "KINGSTON RM200", 
             "start_time": "1900-01-01T10:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
@@ -39,10 +45,15 @@
             "instructors": [
                 "Cartledge, John Charles"
             ], 
-            "location": "KINES & HLTH RM101", 
+            "location": "KINGSTON RM200", 
             "start_time": "1900-01-01T09:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

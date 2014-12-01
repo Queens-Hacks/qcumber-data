@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (1171)", 
+    "availability": {
+        "class_curr": 47, 
+        "class_max": 75, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "1171", 
+        "course": "802", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Zechel, David"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-08-31T00:00:00", 
+            "term_start": "2015-05-01T00:00:00"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

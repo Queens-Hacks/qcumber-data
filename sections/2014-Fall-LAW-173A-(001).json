@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (1255)", 
+    "availability": {
+        "class_curr": 52, 
+        "class_max": 60, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1255", 
         "course": "173A", 
@@ -13,7 +19,7 @@
     "classes": [
         {
             "day_of_week": 2, 
-            "end_time": "1900-01-01T16:00:00", 
+            "end_time": "1900-01-01T16:30:00", 
             "instructors": [
                 "Stuart, Donald R"
             ], 
@@ -33,5 +39,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-02T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Law Regular"
+    }
 }

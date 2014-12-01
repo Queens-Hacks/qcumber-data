@@ -1,0 +1,92 @@
+{
+    "_unique": "001-LEC (8470)", 
+    "availability": {
+        "class_curr": 25, 
+        "class_max": 30, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8470", 
+        "course": "888A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MPA", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 6, 
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [
+                "Wong, Ging"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-09-13T00:00:00", 
+            "term_start": "2014-09-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [
+                "Wong, Ging"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-09-13T00:00:00", 
+            "term_start": "2014-09-12T00:00:00"
+        }, 
+        {
+            "day_of_week": 6, 
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [
+                "Wong, Ging"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-10-25T00:00:00", 
+            "term_start": "2014-10-24T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [
+                "Wong, Ging"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-10-25T00:00:00", 
+            "term_start": "2014-10-24T00:00:00"
+        }, 
+        {
+            "day_of_week": 6, 
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [
+                "Wong, Ging"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-11-29T00:00:00", 
+            "term_start": "2014-11-28T00:00:00"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "1900-01-01T00:00:00", 
+            "instructors": [
+                "Wong, Ging"
+            ], 
+            "location": "TBA", 
+            "start_time": "1900-01-01T00:00:00", 
+            "term_end": "2014-11-29T00:00:00", 
+            "term_start": "2014-11-28T00:00:00"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

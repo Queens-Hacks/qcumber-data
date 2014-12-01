@@ -1,11 +1,17 @@
 {
     "_unique": "001-LEC (1045)", 
+    "availability": {
+        "class_curr": 59, 
+        "class_max": 60, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1045", 
         "course": "427", 
         "season": "Winter", 
         "solus_id": "001", 
-        "status": "Closed", 
+        "status": "Open", 
         "subject": "LAW", 
         "type": "LEC", 
         "year": "2015"
@@ -17,7 +23,7 @@
             "instructors": [
                 "Walters, Mark D"
             ], 
-            "location": "DUNNING RM11", 
+            "location": "MACDONALD RM202", 
             "start_time": "1900-01-01T09:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
@@ -28,10 +34,15 @@
             "instructors": [
                 "Walters, Mark D"
             ], 
-            "location": "DUNNING RM11", 
+            "location": "MACDONALD RM202", 
             "start_time": "1900-01-01T09:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Law Regular"
+    }
 }

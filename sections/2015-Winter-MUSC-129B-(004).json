@@ -1,5 +1,11 @@
 {
     "_unique": "004-LAB (2193)", 
+    "availability": {
+        "class_curr": 9, 
+        "class_max": 12, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2193", 
         "course": "129B", 
@@ -22,5 +28,10 @@
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

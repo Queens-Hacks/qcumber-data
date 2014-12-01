@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Provides opportunities for exploration of current theories of self-regulated learning. Self-regulated learning requires autonomous management of learning through effective goal setting, resource allocation, valid self-assessment, and goal revision.\u00a0 Offered jointly with GDPI-800*. EXCLUSION: GDPI-800*", 
+        "number": "800", 
+        "subject": "PME", 
+        "title": "Self-Regulated Inquiry and Learning"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

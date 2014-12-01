@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7590)", 
+    "availability": {
+        "class_curr": 13, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7590", 
         "course": "394", 
@@ -17,10 +23,15 @@
             "instructors": [
                 "Jefremovas, Villia"
             ], 
-            "location": "MACINTOSH-CORRY RM D214", 
+            "location": "MACINTOSH-CORRY RM E230", 
             "start_time": "1900-01-01T18:30:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

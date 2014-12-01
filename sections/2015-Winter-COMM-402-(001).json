@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7953)", 
+    "availability": {
+        "class_curr": 13, 
+        "class_max": 48, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7953", 
         "course": "402", 
@@ -12,26 +18,20 @@
     }, 
     "classes": [
         {
-            "day_of_week": 1, 
-            "end_time": "1900-01-01T11:30:00", 
-            "instructors": [
-                "Chakrabarti, Abhirup"
-            ], 
-            "location": "GOODES RM102", 
-            "start_time": "1900-01-01T10:00:00", 
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00"
-        }, 
-        {
             "day_of_week": 3, 
-            "end_time": "1900-01-01T10:00:00", 
+            "end_time": "1900-01-01T21:30:00", 
             "instructors": [
                 "Chakrabarti, Abhirup"
             ], 
-            "location": "GOODES RM102", 
-            "start_time": "1900-01-01T08:30:00", 
+            "location": "ELLIS RM333", 
+            "start_time": "1900-01-01T18:30:00", 
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

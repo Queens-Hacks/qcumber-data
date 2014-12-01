@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (8051)", 
+    "availability": {
+        "class_curr": 85, 
+        "class_max": 95, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8051", 
         "course": "881", 
@@ -22,5 +28,10 @@
             "term_end": "2014-11-22T00:00:00", 
             "term_start": "2014-08-25T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,0 +1,37 @@
+{
+    "_unique": "010-LEC (8101)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 10, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8101", 
+        "course": "895", 
+        "season": "Fall", 
+        "solus_id": "010", 
+        "status": "Open", 
+        "subject": "KHS", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Levesque, Lucie Y"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-11-28T00:00:00", 
+            "term_start": "2014-09-08T00:00:00"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

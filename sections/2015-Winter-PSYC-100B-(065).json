@@ -1,11 +1,17 @@
 {
     "_unique": "065-LAB (6547)", 
+    "availability": {
+        "class_curr": 26, 
+        "class_max": 26, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6547", 
         "course": "100B", 
         "season": "Winter", 
         "solus_id": "065", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "PSYC", 
         "type": "LAB", 
         "year": "2015"
@@ -20,5 +26,10 @@
             "term_end": "2015-04-02T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

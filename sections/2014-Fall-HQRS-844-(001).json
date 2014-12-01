@@ -1,11 +1,17 @@
 {
     "_unique": "001-SEM (8052)", 
+    "availability": {
+        "class_curr": 32, 
+        "class_max": 32, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8052", 
         "course": "844", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "HQRS", 
         "type": "SEM", 
         "year": "2014"
@@ -22,5 +28,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7194)", 
+    "availability": {
+        "class_curr": 9, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7194", 
         "course": "910", 
@@ -12,26 +18,31 @@
     }, 
     "classes": [
         {
-            "day_of_week": 3, 
-            "end_time": "1900-01-01T15:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T18:00:00", 
             "instructors": [
                 "Christou, Theodore"
             ], 
-            "location": "DUNCAN MCARTHUR RM A301N", 
-            "start_time": "1900-01-01T12:00:00", 
+            "location": "DUNCAN MCARTHUR RM A207N", 
+            "start_time": "1900-01-01T15:00:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }, 
         {
-            "day_of_week": 3, 
-            "end_time": "1900-01-01T15:00:00", 
+            "day_of_week": 2, 
+            "end_time": "1900-01-01T18:00:00", 
             "instructors": [
                 "Christou, Theodore"
             ], 
-            "location": "DUNCAN MCARTHUR RM A301S", 
-            "start_time": "1900-01-01T12:00:00", 
+            "location": "DUNCAN MCARTHUR RM A207S", 
+            "start_time": "1900-01-01T15:00:00", 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

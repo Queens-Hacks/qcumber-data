@@ -1,5 +1,11 @@
 {
     "_unique": "700-ONL (7595)", 
+    "availability": {
+        "class_curr": 178, 
+        "class_max": 200, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7595", 
         "course": "100", 
@@ -20,5 +26,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "Graded", 
+        "session": "Regular Academic Session"
+    }
 }

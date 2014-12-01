@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7292)", 
+    "availability": {
+        "class_curr": 38, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7292", 
         "course": "469", 
@@ -17,10 +23,10 @@
             "instructors": [
                 "Wade-Woolley, Lesly"
             ], 
-            "location": "DUNCAN MCARTHUR RM A234", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T15:50:00", 
             "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00"
+            "term_start": "2014-09-15T00:00:00"
         }, 
         {
             "day_of_week": 3, 
@@ -28,10 +34,10 @@
             "instructors": [
                 "Wade-Woolley, Lesly"
             ], 
-            "location": "DUNCAN MCARTHUR RM A234", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T13:30:00", 
             "term_end": "2014-10-10T00:00:00", 
-            "term_start": "2014-09-03T00:00:00"
+            "term_start": "2014-09-15T00:00:00"
         }, 
         {
             "day_of_week": 1, 
@@ -39,9 +45,9 @@
             "instructors": [
                 "Wade-Woolley, Lesly"
             ], 
-            "location": "DUNCAN MCARTHUR RM A234", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T15:50:00", 
-            "term_end": "2014-12-19T00:00:00", 
+            "term_end": "2014-12-01T00:00:00", 
             "term_start": "2014-11-24T00:00:00"
         }, 
         {
@@ -50,10 +56,48 @@
             "instructors": [
                 "Wade-Woolley, Lesly"
             ], 
-            "location": "DUNCAN MCARTHUR RM A234", 
+            "location": "DUNCAN MCARTHUR RM A239", 
             "start_time": "1900-01-01T13:30:00", 
-            "term_end": "2014-12-19T00:00:00", 
+            "term_end": "2014-12-03T00:00:00", 
             "term_start": "2014-11-24T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T15:30:00", 
+            "instructors": [
+                "Wade-Woolley, Lesly"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "1900-01-01T13:30:00", 
+            "term_end": "2014-12-17T00:00:00", 
+            "term_start": "2014-12-17T00:00:00"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "1900-01-01T17:50:00", 
+            "instructors": [
+                "Wade-Woolley, Lesly"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "1900-01-01T15:50:00", 
+            "term_end": "2014-12-15T00:00:00", 
+            "term_start": "2014-12-15T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
+            "instructors": [
+                "Wade-Woolley, Lesly"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "1900-01-01T15:50:00", 
+            "term_end": "2014-12-10T00:00:00", 
+            "term_start": "2014-12-10T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

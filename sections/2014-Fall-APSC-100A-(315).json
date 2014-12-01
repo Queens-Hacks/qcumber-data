@@ -1,11 +1,17 @@
 {
     "_unique": "315-LAB (4311)", 
+    "availability": {
+        "class_curr": 81, 
+        "class_max": 85, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "4311", 
         "course": "100A", 
         "season": "Fall", 
         "solus_id": "315", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "APSC", 
         "type": "LAB", 
         "year": "2014"
@@ -20,5 +26,10 @@
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-08T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "001-IND (1203)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 10, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1203", 
         "course": "587", 
@@ -15,12 +21,17 @@
             "day_of_week": null, 
             "end_time": null, 
             "instructors": [
-                "Adell, Bernard"
+                "Adell, Estate of Bernard"
             ], 
             "location": "TBA", 
             "start_time": null, 
             "term_end": "2014-11-28T00:00:00", 
             "term_start": "2014-09-02T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Law Regular"
+    }
 }

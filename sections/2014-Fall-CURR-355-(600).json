@@ -1,0 +1,48 @@
+{
+    "_unique": "600-LEC (8493)", 
+    "availability": {
+        "class_curr": 15, 
+        "class_max": 30, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8493", 
+        "course": "355", 
+        "season": "Fall", 
+        "solus_id": "600", 
+        "status": "Open", 
+        "subject": "CURR", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Roy, Stephanie"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-09-14T00:00:00", 
+            "term_start": "2014-09-12T00:00:00"
+        }, 
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Roy, Stephanie"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-12-07T00:00:00", 
+            "term_start": "2014-12-05T00:00:00"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Manitoulin Island, ON", 
+        "session": "Education Regular"
+    }
+}

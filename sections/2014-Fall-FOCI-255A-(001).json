@@ -1,11 +1,17 @@
 {
     "_unique": "001-LEC (7308)", 
+    "availability": {
+        "class_curr": 91, 
+        "class_max": 90, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7308", 
         "course": "255A", 
         "season": "Fall", 
         "solus_id": "001", 
-        "status": "Open", 
+        "status": "Closed", 
         "subject": "FOCI", 
         "type": "LEC", 
         "year": "2014"
@@ -17,7 +23,7 @@
             "instructors": [
                 "Chin, Jane"
             ], 
-            "location": "DUNCAN MCARTHUR RM A234", 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": "1900-01-01T15:50:00", 
             "term_end": "2014-10-10T00:00:00", 
             "term_start": "2014-09-03T00:00:00"
@@ -28,10 +34,59 @@
             "instructors": [
                 "Chin, Jane"
             ], 
-            "location": "DUNCAN MCARTHUR RM A234", 
+            "location": "DUNCAN MCARTHUR RM A241", 
             "start_time": "1900-01-01T15:50:00", 
-            "term_end": "2014-12-19T00:00:00", 
+            "term_end": "2014-12-03T00:00:00", 
             "term_start": "2014-11-24T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
+            "instructors": [
+                "Chin, Jane"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "1900-01-01T15:50:00", 
+            "term_end": "2014-10-10T00:00:00", 
+            "term_start": "2014-09-03T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
+            "instructors": [
+                "Chin, Jane"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "1900-01-01T15:50:00", 
+            "term_end": "2014-12-03T00:00:00", 
+            "term_start": "2014-11-24T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
+            "instructors": [
+                "Chin, Jane"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": "1900-01-01T15:50:00", 
+            "term_end": "2014-12-17T00:00:00", 
+            "term_start": "2014-12-17T00:00:00"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "1900-01-01T17:50:00", 
+            "instructors": [
+                "Chin, Jane"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "1900-01-01T15:50:00", 
+            "term_end": "2014-12-17T00:00:00", 
+            "term_start": "2014-12-17T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
 }

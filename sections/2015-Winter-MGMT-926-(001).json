@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (8533)", 
+    "availability": {
+        "class_curr": 2, 
+        "class_max": 3, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8533", 
         "course": "926", 
@@ -13,24 +19,13 @@
     "classes": [
         {
             "day_of_week": 1, 
-            "end_time": "1900-01-01T13:00:00", 
+            "end_time": "1900-01-01T11:30:00", 
             "instructors": [
                 "Neave, Edwin"
             ], 
-            "location": "TBA", 
+            "location": "GOODES RM102", 
             "start_time": "1900-01-01T10:00:00", 
-            "term_end": "2015-04-02T00:00:00", 
-            "term_start": "2015-01-05T00:00:00"
-        }, 
-        {
-            "day_of_week": null, 
-            "end_time": null, 
-            "instructors": [
-                "Neave, Edwin"
-            ], 
-            "location": "TBA", 
-            "start_time": null, 
-            "term_end": "2015-04-02T00:00:00", 
+            "term_end": "2015-04-01T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }, 
         {
@@ -39,10 +34,15 @@
             "instructors": [
                 "Neave, Edwin"
             ], 
-            "location": "TBA", 
+            "location": "GOODES RM102", 
             "start_time": "1900-01-01T08:30:00", 
-            "term_end": "2015-04-02T00:00:00", 
+            "term_end": "2015-04-01T00:00:00", 
             "term_start": "2015-01-05T00:00:00"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
 }
