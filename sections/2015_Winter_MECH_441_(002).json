@@ -1,0 +1,37 @@
+{
+    "_unique": "002-TUT (4489)", 
+    "availability": {
+        "class_curr": 24, 
+        "class_max": 50, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "4489", 
+        "course": "441", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Pollard, Andrew"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-01-05"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

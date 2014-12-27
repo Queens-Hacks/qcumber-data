@@ -1,0 +1,35 @@
+{
+    "_unique": "026-LAB (2089)", 
+    "availability": {
+        "class_curr": 43, 
+        "class_max": 38, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "2089", 
+        "course": "112A", 
+        "season": "Fall", 
+        "solus_id": "026", 
+        "status": "Closed", 
+        "subject": "CHEM", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM213", 
+            "start_time": "08:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

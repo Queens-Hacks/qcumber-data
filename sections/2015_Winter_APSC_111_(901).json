@@ -1,0 +1,48 @@
+{
+    "_unique": "901-TUT (5099)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 75, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "5099", 
+        "course": "111", 
+        "season": "Winter", 
+        "solus_id": "901", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Narayanan, Sowmya K"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-02-13", 
+            "term_start": "2015-01-12"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Narayanan, Sowmya K"
+            ], 
+            "location": "STIRLING RM A", 
+            "start_time": "17:30:00", 
+            "term_end": "2015-02-13", 
+            "term_start": "2015-01-12"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "6 Week Winter Extended Prog"
+    }
+}

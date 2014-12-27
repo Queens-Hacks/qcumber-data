@@ -1,0 +1,37 @@
+{
+    "_unique": "700-LEC (6910)", 
+    "availability": {
+        "class_curr": 41, 
+        "class_max": 95, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "6910", 
+        "course": "125A", 
+        "season": "Fall", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Trofimov, Leonid"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "Graded", 
+        "session": "Regular Academic Session"
+    }
+}

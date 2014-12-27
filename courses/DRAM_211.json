@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "211", 
+        "subject": "DRAM", 
+        "title": "Introduction to Theatre for Young Audiences"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Distance Studies", 
+        "course_components": {
+            "Online": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Winter, Summer", 
+        "units": "3.00"
+    }
+}

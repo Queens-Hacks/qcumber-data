@@ -1,0 +1,37 @@
+{
+    "_unique": "002-LAB (4676)", 
+    "availability": {
+        "class_curr": 48, 
+        "class_max": 48, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "4676", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "NURS", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Peterson, Jo Anne"
+            ], 
+            "location": "ACTON CEC", 
+            "start_time": "08:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

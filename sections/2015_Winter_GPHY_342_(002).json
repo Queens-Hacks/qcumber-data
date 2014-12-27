@@ -1,0 +1,37 @@
+{
+    "_unique": "002-PRA (6168)", 
+    "availability": {
+        "class_curr": 12, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "6168", 
+        "course": "342", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "GPHY", 
+        "type": "PRA", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Van Ewijk, Karin Yvonne"
+            ], 
+            "location": "MACINTOSH-CORRY RM E223", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-01-05"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

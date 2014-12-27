@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Current topics in the application of information technology to medical image computing and its use in image-guided medical interventions.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "472", 
+        "subject": "CISC", 
+        "title": "Medical Informatics"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (CISC271 or MATH272) and CISC330.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }
+}

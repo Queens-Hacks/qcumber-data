@@ -1,0 +1,35 @@
+{
+    "_unique": "303-LAB (4907)", 
+    "availability": {
+        "class_curr": 75, 
+        "class_max": 76, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "4907", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "303", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-01-05"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

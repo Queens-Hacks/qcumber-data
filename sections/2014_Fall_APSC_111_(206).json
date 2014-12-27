@@ -1,0 +1,44 @@
+{
+    "_unique": "206-TUT (4021)", 
+    "availability": {
+        "class_curr": 65, 
+        "class_max": 66, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "4021", 
+        "course": "111", 
+        "season": "Fall", 
+        "solus_id": "206", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM501", 
+            "start_time": "10:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM401", 
+            "start_time": "10:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

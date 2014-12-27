@@ -1,0 +1,35 @@
+{
+    "_unique": "002-LAB (7692)", 
+    "availability": {
+        "class_curr": 76, 
+        "class_max": 80, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "7692", 
+        "course": "831", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "BMED", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "MEDS RM302 - Anatomy", 
+            "start_time": "14:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "700-ONL (2063)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 75, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "2063", 
+        "course": "397", 
+        "season": "Summer", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "PSYC", 
+        "type": "ONL", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Olmstead, Mary Cella"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-07-24", 
+            "term_start": "2015-05-04"
+        }
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "Graded", 
+        "session": "May-July 12 Week"
+    }
+}

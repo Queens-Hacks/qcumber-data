@@ -1,0 +1,35 @@
+{
+    "_unique": "001-ONL (1935)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "1935", 
+        "course": "681", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CONT", 
+        "type": "ONL", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-06-26", 
+            "term_start": "2015-05-04"
+        }
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "Graded", 
+        "session": "Continuing Educ - Inter OL"
+    }
+}

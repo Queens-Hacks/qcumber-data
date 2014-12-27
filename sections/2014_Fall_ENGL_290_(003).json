@@ -1,0 +1,48 @@
+{
+    "_unique": "003-SEM (6315)", 
+    "availability": {
+        "class_curr": 25, 
+        "class_max": 27, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "6315", 
+        "course": "290", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "ENGL", 
+        "type": "SEM", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Murray, Laura J"
+            ], 
+            "location": "MACINTOSH-CORRY RM D326", 
+            "start_time": "11:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Murray, Laura J"
+            ], 
+            "location": "MACINTOSH-CORRY RM D326", 
+            "start_time": "13:00:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

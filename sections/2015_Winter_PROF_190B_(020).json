@@ -1,0 +1,81 @@
+{
+    "_unique": "020-LEC (8995)", 
+    "availability": {
+        "class_curr": 17, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8995", 
+        "course": "190B", 
+        "season": "Winter", 
+        "solus_id": "020", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:00:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-01-16", 
+            "term_start": "2015-01-09"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "15:00:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-01-30", 
+            "term_start": "2015-01-30"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "15:00:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-02-13", 
+            "term_start": "2015-02-13"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "15:00:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A237", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-04-17", 
+            "term_start": "2015-04-17"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "15:00:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-04-30", 
+            "term_start": "2015-04-30"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
+}

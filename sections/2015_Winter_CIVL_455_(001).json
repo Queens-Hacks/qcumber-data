@@ -1,0 +1,59 @@
+{
+    "_unique": "001-LEC (3432)", 
+    "availability": {
+        "class_curr": 44, 
+        "class_max": 92, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "3432", 
+        "course": "455", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CIVL", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "da Silva, Ana Maria"
+            ], 
+            "location": "ELLIS RM324", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-01-05"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "da Silva, Ana Maria"
+            ], 
+            "location": "ELLIS RM324", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-01-05"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "da Silva, Ana Maria"
+            ], 
+            "location": "ELLIS RM324", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-01-05"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Methods and theory for ordinary and partial differential equations. Review of eigenvectors and eigenmodes in solutions to systems of ordinary differential equations. The principle of linear superposition and eigenfunction expansion, orthogonality, and inner product on a vector space of functions. The method of separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bessel orthogonal functions. The wave, diffusion, and Laplace's (potential) equation. Sturm-Liouville theory: eigenvalue problems and orthogonal functions. Fourier transform and, time permitting, Laplace transform techniques.\nLEARNING HOURS\u00a0\u00a0\u00a0 118 (36L;12T;70P)", 
+        "number": "338", 
+        "subject": "MATH", 
+        "title": "Topics in Mathematics"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH231; MATH280", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

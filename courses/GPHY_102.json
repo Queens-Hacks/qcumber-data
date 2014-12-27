@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This course introduces the major concepts studied in Earth System Science. The fundamental processes and interrelationships between the atmosphere, oceans, biosphere and the lithosphere are investigated to serve as a basis for understanding natural systems, particularly at or near the Earth's surface. \nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $30.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;48P)", 
+        "number": "102", 
+        "subject": "GPHY", 
+        "title": "Earth System Science"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

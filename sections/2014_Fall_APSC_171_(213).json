@@ -1,0 +1,35 @@
+{
+    "_unique": "213-TUT (4287)", 
+    "availability": {
+        "class_curr": 73, 
+        "class_max": 67, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "4287", 
+        "course": "171", 
+        "season": "Fall", 
+        "solus_id": "213", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM126", 
+            "start_time": "11:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-15"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

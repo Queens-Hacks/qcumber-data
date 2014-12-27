@@ -1,0 +1,92 @@
+{
+    "_unique": "004-LAB (4078)", 
+    "availability": {
+        "class_curr": 36, 
+        "class_max": 44, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "4078", 
+        "course": "280", 
+        "season": "Winter", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-01-18", 
+            "term_start": "2015-01-12"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-02-01", 
+            "term_start": "2015-01-26"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-02-15", 
+            "term_start": "2015-02-09"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-03-01", 
+            "term_start": "2015-02-23"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-03-15", 
+            "term_start": "2015-03-09"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-03-29", 
+            "term_start": "2015-03-23"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Seminar courses on topics in Spanish literature.\u00a0Course details to be announced on website.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36S;84P)", 
+        "number": "495", 
+        "subject": "SPAN", 
+        "title": "Literatura de Espa\u00f1a: Estudios independientes II"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

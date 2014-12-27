@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "description": "Introduction to management of small and medium-scale software projects. Advanced programming methodology using the programming language C++. Includes a significant programming project.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24T;60P)", 
+        "number": "320", 
+        "subject": "CISC", 
+        "title": "Fundamentals of Software Development"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "enrollment_requirement": "APSCI Requisites:\u00a0 Exclusion: CISC322.\u00a0 Prerequisite of ELEC276 or ELEC278 and registration in a BSCE Academic Program.\r\nARTS&SCI Requisites: Prerequisite of CISC220 and CISC235", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }
+}

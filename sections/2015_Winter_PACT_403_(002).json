@@ -1,0 +1,37 @@
+{
+    "_unique": "002-SEM (8167)", 
+    "availability": {
+        "class_curr": 6, 
+        "class_max": 24, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8167", 
+        "course": "403", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PACT", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Watering, Robert"
+            ], 
+            "location": "KINES & HLTH RM107", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-01-05"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (8767)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 15, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8767", 
+        "course": "807", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "BMED", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Graham, Charles H"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-01-05"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

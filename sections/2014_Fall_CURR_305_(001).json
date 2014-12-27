@@ -1,0 +1,92 @@
+{
+    "_unique": "001-LEC (7218)", 
+    "availability": {
+        "class_curr": 36, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "7218", 
+        "course": "305", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CURR", 
+        "type": "LEC", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Haberer, Stephen"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A335", 
+            "start_time": "15:50:00", 
+            "term_end": "2014-10-10", 
+            "term_start": "2014-09-03"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Haberer, Stephen"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A335", 
+            "start_time": "15:50:00", 
+            "term_end": "2014-10-10", 
+            "term_start": "2014-09-03"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Haberer, Stephen"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A335", 
+            "start_time": "15:50:00", 
+            "term_end": "2014-12-04", 
+            "term_start": "2014-11-24"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Haberer, Stephen"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A335", 
+            "start_time": "15:50:00", 
+            "term_end": "2014-12-04", 
+            "term_start": "2014-11-24"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Haberer, Stephen"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A335", 
+            "start_time": "15:50:00", 
+            "term_end": "2014-12-18", 
+            "term_start": "2014-12-10"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Haberer, Stephen"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A335", 
+            "start_time": "15:50:00", 
+            "term_end": "2014-12-18", 
+            "term_start": "2014-12-10"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Education Regular"
+    }
+}

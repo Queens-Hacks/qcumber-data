@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Seminar courses on advanced topics in psychology offered periodically by visiting professors.", 
+        "number": "485", 
+        "subject": "PSYC", 
+        "title": "Special Topics in Psychology II"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 PSYC202 (or STAT_list) and PSYC221 (or COGS201).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

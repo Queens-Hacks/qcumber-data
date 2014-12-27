@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (8927)", 
+    "availability": {
+        "class_curr": 2, 
+        "class_max": 10, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8927", 
+        "course": "825", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "RHBS", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:00:00", 
+            "instructors": [
+                "Drover, Samantha"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-04-02", 
+            "term_start": "2015-02-26"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

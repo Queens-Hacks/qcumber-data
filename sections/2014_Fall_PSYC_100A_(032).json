@@ -1,0 +1,35 @@
+{
+    "_unique": "032-LAB (5740)", 
+    "availability": {
+        "class_curr": 31, 
+        "class_max": 32, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "5740", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "032", 
+        "status": "Open", 
+        "subject": "PSYC", 
+        "type": "LAB", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM131", 
+            "start_time": "10:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

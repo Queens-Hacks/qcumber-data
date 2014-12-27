@@ -1,0 +1,35 @@
+{
+    "_unique": "014-TUT (2659)", 
+    "availability": {
+        "class_curr": 31, 
+        "class_max": 120, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "2659", 
+        "course": "121A", 
+        "season": "Fall", 
+        "solus_id": "014", 
+        "status": "Open", 
+        "subject": "MATH", 
+        "type": "TUT", 
+        "year": "2014"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "08:30:00", 
+            "term_end": "2014-11-28", 
+            "term_start": "2014-09-08"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

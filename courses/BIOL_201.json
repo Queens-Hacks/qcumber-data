@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "A survey of bacteria, algae, fungi and plants, their internal organization and their relationships to their environment. Organismal biology is discussed in a phylogenetic context and the evolution of organizational complexity and the relations between structure and function are stressed.\nNOTE\u00a0\u00a0\u00a0 Lab Manual: estimated cost $20.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (30L;30Lb;60P)", 
+        "number": "201", 
+        "subject": "BIOL", 
+        "title": "Diversity of Life I"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

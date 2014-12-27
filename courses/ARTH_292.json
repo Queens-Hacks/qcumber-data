@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "An examination of architecture in the western world, from 1900 to the present.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "292", 
+        "subject": "ARTH", 
+        "title": "Architecture from 1900 to the Present"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 Second year standing or above", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Winter", 
+        "units": "3.00"
+    }
+}

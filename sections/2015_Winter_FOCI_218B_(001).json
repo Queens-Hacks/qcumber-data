@@ -1,0 +1,92 @@
+{
+    "_unique": "001-LEC (7897)", 
+    "availability": {
+        "class_curr": 30, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "7897", 
+        "course": "218B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FOCI", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Reeve, Richard"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B242", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-02-13", 
+            "term_start": "2015-01-05"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Reeve, Richard"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B242", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-04-30", 
+            "term_start": "2015-04-13"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Reeve, Richard"
+            ], 
+            "location": "DUNMCAN MCARTHUR RM B307", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-04-29", 
+            "term_start": "2015-04-15"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Reeve, Richard"
+            ], 
+            "location": "DUNMCAN MCARTHUR RM B307", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-02-11", 
+            "term_start": "2015-01-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Reeve, Richard"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B217", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-04-29", 
+            "term_start": "2015-04-15"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Reeve, Richard"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B217", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-02-11", 
+            "term_start": "2015-01-14"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
+}
