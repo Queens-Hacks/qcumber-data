@@ -1,26 +1,27 @@
 {
     "basic": {
-        "description": "The design of electronic circuits and systems, using commonly available devices and integrated circuits. The properties of linear circuits are discussed with particular reference to the applications of feedback; operational amplifiers are introduced as fundamental building blocks. Digital circuits are examined and the properties of the commonly available I.C. types are studied; their use in measurement, control and signal analysis is outlined. Laboratory work is closely linked with lectures and provides practical experience in the subjects covered in lectures.", 
-        "number": "334", 
-        "subject": "PHYS", 
+        "description": "The design of electronic circuits and systems, using commonly available devices and integrated circuits. The properties of linear circuits are discussed with particular reference to the applications of feedback; operational amplifiers are introduced as fundamental building blocks. Digital circuits are examined and the properties of the commonly available I.C. types are studied; their use in measurement, control and signal analysis is outlined. Laboratory work is closely linked with lectures and provides practical experience in the subjects covered in lectures.",
+        "number": "334",
+        "subject": "PHYS",
         "title": "Electronics for Physicists"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHYS239.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHYS239.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

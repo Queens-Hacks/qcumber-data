@@ -1,26 +1,25 @@
 {
     "basic": {
-        "description": "An examination of the genetic link between surficial geological processes and the sedimentary record produced by these processes. Students obtain an integrated overview of the nature and operation of the Earth-surface environment. Topics include origin of sedimentary rocks and their sedimentary structures, depositional environments and stratigraphic successions; stratigraphic principles and their application to sedimentary basins, with implications for hydrocarbon genesis; interaction of natural processes with human society.\nLEARNING HOURS\u00a0\u00a0\u00a0 130 (36L;22Lb;72P)", 
-        "number": "238", 
-        "subject": "GEOL", 
+        "description": "An examination of the genetic link between surficial geological processes and the sedimentary record produced by these processes. Students obtain an integrated overview of the nature and operation of the Earth-surface environment. Topics include origin of sedimentary rocks and their sedimentary structures, depositional environments and stratigraphic successions; stratigraphic principles and their application to sedimentary basins, with implications for hydrocarbon genesis; interaction of natural processes with human society.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 130 (36L;22Lb;72P)",
+        "number": "238",
+        "subject": "GEOL",
         "title": "Surficial Processes, Sedimentation and Stratigraphy"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL104 or permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL104 or permission of the Department.",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

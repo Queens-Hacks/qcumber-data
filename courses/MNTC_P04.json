@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Functions, limits, derivatives; optimization, rate problems, exponentials, logarithms, inverse trigonometric functions; exponential growth as an example of a differential equation. Fundamental Theorem of Calculus, Riemann integral; applications to problems involving areas, volumes, mass, charge, work, etc. Some integration techniques.",
+        "number": "P04",
+        "subject": "MNTC",
+        "title": "Calculus"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Online": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

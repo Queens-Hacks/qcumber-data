@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the electrical and optical properties of insulators, semiconductors and metals.\u00a0Introduction to Fermi-Dirac statistics, crystal and band theory and electron transport.\u00a0Topics covered include the physics behind diodes, field effect and bipolar junction transistors, and electro-optical discrete devices.", 
-        "number": "380", 
-        "subject": "PHYS", 
+        "description": "An introduction to the electrical and optical properties of insulators, semiconductors and metals.\u00a0Introduction to Fermi-Dirac statistics, crystal and band theory and electron transport.\u00a0Topics covered include the physics behind diodes, field effect and bipolar junction transistors, and electro-optical discrete devices.",
+        "number": "380",
+        "subject": "PHYS",
         "title": "Electrical & Optical Propertie"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "(PHYS231 AND PHYS344) OR (PHYS239 AND PHYS344)", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "(PHYS231 AND PHYS344) OR (PHYS239 AND PHYS344)",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

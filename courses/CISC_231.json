@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "231", 
-        "subject": "CISC", 
+        "description": "",
+        "number": "231",
+        "subject": "CISC",
         "title": "Computer Architecture"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Exclusion:\u00a0 CISC231 excludes CISC221.\u00a0 A prerequisite of APSC142 and registration in a BSCE Academic Plan is required.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Exclusion:\u00a0 CISC231 excludes CISC221.\u00a0 A prerequisite of APSC142 and registration in a BSCE Academic Plan is required.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

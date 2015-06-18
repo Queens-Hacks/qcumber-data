@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is intended to provide graduate students an opportunity to undertake a directed research project in an art gallery, museum, or archive. The research will focus on some aspect of the chosen institution's collection and will be supervised by a specialist in that area who works at the institution or co-supervised by such a specialist and a faculty member.", 
-        "number": "890", 
-        "subject": "ARTH", 
+        "description": "This course is intended to provide graduate students an opportunity to undertake a directed research project in an art gallery, museum, or archive. The research will focus on some aspect of the chosen institution's collection and will be supervised by a specialist in that area who works at the institution or co-supervised by such a specialist and a faculty member.",
+        "number": "890",
+        "subject": "ARTH",
         "title": "Directed Research in a Cultural Institution"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Practicum": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "3.00"
     }
 }

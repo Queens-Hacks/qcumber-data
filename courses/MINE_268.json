@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course exposes the students to the analytical techniques utilized in the mining and the mineral processing industries. The first part of each laboratory includes the principles of the analytical technique while the second part is concerned with the practical use of the technique. The analytical techniques are typical of those of analytical groups in most mining companies. The techniques studied include: sampling, digestion, Atomic Absorption Spectroscopy, Induction Coupled Plasma Spectroscopy, X-Ray Diffraction and fire assay. Safety in handling of hazardous chemicals is emphasized with a review of selected Material Safety Data Sheets and industry standards.", 
-        "number": "268", 
-        "subject": "MINE", 
+        "description": "This course exposes the students to the analytical techniques utilized in the mining and the mineral processing industries. The first part of each laboratory includes the principles of the analytical technique while the second part is concerned with the practical use of the technique. The analytical techniques are typical of those of analytical groups in most mining companies. The techniques studied include: sampling, digestion, Atomic Absorption Spectroscopy, Induction Coupled Plasma Spectroscopy, X-Ray Diffraction and fire assay. Safety in handling of hazardous chemicals is emphasized with a review of selected Material Safety Data Sheets and industry standards.",
+        "number": "268",
+        "subject": "MINE",
         "title": "Analytical Methods in Mining"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 3, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 9, 
+            "Basic Sci": 3,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 9,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Laboratory": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "1.00"
     }
 }

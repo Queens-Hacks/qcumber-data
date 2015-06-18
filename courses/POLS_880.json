@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course addresses the diverse and developing field of Gender and Politics in the discipline of Political Science. The focus will vary depending on the instructor, addressing topics such as: representation; feminist methodology; identity; gender and work; gender and citizenship; the politics of the family; queer theory; intersectionality of race, gender and class; and gender and globalization.", 
-        "number": "880", 
-        "subject": "POLS", 
+        "description": "This course addresses the diverse and developing field of Gender and Politics in the discipline of Political Science. The focus will vary depending on the instructor, addressing topics such as: representation; feminist methodology; identity; gender and work; gender and citizenship; the politics of the family; queer theory; intersectionality of race, gender and class; and gender and globalization.",
+        "number": "880",
+        "subject": "POLS",
         "title": "Gender and Politics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

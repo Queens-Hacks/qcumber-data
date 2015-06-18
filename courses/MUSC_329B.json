@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The practical study of teaching techniques of standard musical repertoire (solo, chamber, orchestral, operatic, etc.) of a particular instrument. The course requires student performances of representative musical works. The focus of study will rotate from year to year as resources permit.", 
-        "number": "329B", 
-        "subject": "MUSC", 
+        "description": "The practical study of teaching techniques of standard musical repertoire (solo, chamber, orchestral, operatic, etc.) of a particular instrument. The course requires student performances of representative musical works. The focus of study will rotate from year to year as resources permit.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36S;84P)",
+        "number": "329B",
+        "subject": "MUSC",
         "title": "Applied Pedagogy II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

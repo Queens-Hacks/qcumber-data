@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The topics will be chosen on the basis of special needs of the students, and must be approved by the Coordinator of Graduate Studies. Fall or winter; seminars. C.H. Graham\u00a0 EXCLUSION: ANAT-926*", 
-        "number": "807", 
-        "subject": "BMED", 
+        "description": "The topics will be chosen on the basis of special needs of the students, and must be approved by the Coordinator of Graduate Studies. Fall or winter; seminars. C.H. Graham\u00a0 EXCLUSION: ANAT-926*",
+        "number": "807",
+        "subject": "BMED",
         "title": "Current Topics in Anatomy and Cell Biology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

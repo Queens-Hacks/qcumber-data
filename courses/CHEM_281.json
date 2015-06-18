@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to the basic principles of organic chemistry with emphasis on bonding, stereochemistry, reaction intermediates and reaction mechanisms, and structure-reactivity correlations. Intended for students in biological and life sciences. Students in chemistry or biochemistry programs should not enrol in this course.\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.\nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36L;24O;48P)", 
-        "number": "281", 
-        "subject": "CHEM", 
+        "description": "An introduction to the basic principles of organic chemistry with emphasis on bonding, stereochemistry, reaction intermediates and reaction mechanisms, and structure-reactivity correlations. Intended for students in biological and life sciences. Students in chemistry or biochemistry programs should not enrol in this course.\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.\nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36L;24O;48P)",
+        "number": "281",
+        "subject": "CHEM",
         "title": "General Organic Chemistry I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Distance Studies", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CHEM 112 or CHEM 114 or (APSC131 and APSC132).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM211; CHEM281.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM212; CHEM281.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CHEM 112 or CHEM 114 or (APSC131 and APSC132).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM211; CHEM281.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM212; CHEM281.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

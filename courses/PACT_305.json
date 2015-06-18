@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A special topics practicum offering that combines activity-based sessions in a given area (e.g. dance, martial arts, first aid) with relevant theory. Depending on the activity offered, certification options may be available.\r\nNOTE\u00a0\u00a0\u00a0 Other costs (e.g. First Aid Certification) may apply depending on the activity offering and are the responsibility of the student.", 
-        "number": "305", 
-        "subject": "PACT", 
+        "description": "A special topics practicum offering that combines activity-based sessions in a given area (e.g. dance, martial arts, first aid) with relevant theory. Depending on the activity offered, certification options may be available.\r\nNOTE\u00a0\u00a0\u00a0 Other costs (e.g. First Aid Certification) may apply depending on the activity offering and are the responsibility of the student.",
+        "number": "305",
+        "subject": "PACT",
         "title": "Special Topics - Physical Activity-Based Experience"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Practicum": "Required", 
+            "Practicum": "Required",
             "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 or 4 in PHED Plan and PACT100.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 or 4 in PHED Plan and PACT100.",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

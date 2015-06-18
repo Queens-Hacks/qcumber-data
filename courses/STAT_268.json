@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Basic ideas of probability theory such as random experiments, probabilities, random variables, expected values, independent events, joint distributions, conditional expectations, moment generating functions. Main results of probability theory including Chebyshev's inequality, law of large numbers, central limit theorem. Introduction to statistical computing.", 
-        "number": "268", 
-        "subject": "STAT", 
+        "description": "Basic ideas of probability theory such as random experiments, probabilities, random variables, expected values, independent events, joint distributions, conditional expectations, moment generating functions. Main results of probability theory including Chebyshev's inequality, law of large numbers, central limit theorem. Introduction to statistical computing.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "268",
+        "subject": "STAT",
         "title": "Statistics and Probability I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124.\r\nCorequisite\u00a0\u00a0\u00a0 MATH221 or MATH280.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from STAT351; STAT 268.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124.\r\nCorequisite\u00a0\u00a0\u00a0 MATH221 or MATH280.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from STAT351; STAT 268.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

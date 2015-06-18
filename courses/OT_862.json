@@ -1,26 +1,27 @@
 {
     "basic": {
-        "description": "This fieldwork course will allow students to explore opportunities for the development of occupational therapy services in potential settings within the community. Co-requisite: OT-861* or permission of the course coordinator; Prerequisites: OT-847 or permission of the course coordinator.", 
-        "number": "862", 
-        "subject": "OT", 
+        "description": "This fieldwork course will allow students to explore opportunities for the development of occupational therapy services in potential settings within the community. Co-requisite: OT-861* or permission of the course coordinator; Prerequisites: OT-847 or permission of the course coordinator.",
+        "number": "862",
+        "subject": "OT",
         "title": "Community Development (CR6)"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
-            "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "OT862:(Corequisite OT861 or permission of course coordinator) and (Prerequisite OT847 of permission of course coordinator)", 
-        "grading_basis": "Pass/Fail", 
+            "Field Studies": "Required",
+            "Lecture": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "OT862:(Corequisite OT861 or permission of course coordinator) and (Prerequisite OT847 of permission of course coordinator)",
+        "grading_basis": "Pass/Fail",
         "units": "6.00"
     }
 }

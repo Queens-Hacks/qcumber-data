@@ -1,25 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the role of quantitative analysis, statistical software and computers in empirical political research. The operationalization of concepts, the collection of data, data analysis, the logic and uses of statistical techniques, and the political assumptions that form the basis of much statistical work and philosophical debate. Minimal mathematical background is assumed.", 
-        "number": "385", 
-        "subject": "POLS", 
+        "description": "An introduction to the role of quantitative analysis, statistical software and computers in empirical political research. The operationalization of concepts, the collection of data, data analysis, the logic and uses of statistical techniques, and the political assumptions that form the basis of much statistical work and philosophical debate. Minimal mathematical background is assumed.\nLEARNING HOURS\u00a0\u00a0\u00a0 118 (24L;10T;84P)",
+        "number": "385",
+        "subject": "POLS",
         "title": "Quantitative Approaches to Political Studies"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Pre:\u00a0\u00a0\u00a0\u00a0 (12.0 units in POLS at the 200 lvl or above) &(a GPA of 2.0 on all units in POLS), or perm \nEXCL:\u00a0 No more than 3.0 units fr STAT261;263;267;367; COMM162; ECON 250; PSYC 202; SOCY 211; BIOL 243; CHEE 209; GPHY 247; KNPE 251; POLS 385; NURS 323", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "enrollment_requirement": "Pre:\u00a0\u00a0\u00a0\u00a0 (12.0 units in POLS at the 200 lvl or above) &(a GPA of 2.0 on all units in POLS), or perm \nEXCL:\u00a0 No more than 3.0 units fr STAT261;263;267;367; COMM162; ECON 250; PSYC 202; SOCY 211; BIOL 243; CHEE 209; GPHY 247; KNPE 251; POLS 385; NURS 323",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

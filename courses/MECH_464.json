@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides advanced instruction and practice in technical communication and project management for multidisciplinary engineering projects. Content includes request for proposals, project planning and proposal writing, quality function deployment, oral presentation skills, client communications and concise report writing. Course deliverables are closely tied to deliverables in Capstone design courses. Open to Mechanical and Materials Engineering students only.", 
-        "number": "464", 
-        "subject": "MECH", 
+        "description": "This course provides advanced instruction and practice in technical communication and project management for multidisciplinary engineering projects. Content includes request for proposals, project planning and proposal writing, quality function deployment, oral presentation skills, client communications and concise report writing. Course deliverables are closely tied to deliverables in Capstone design courses. Open to Mechanical and Materials Engineering students only.",
+        "number": "464",
+        "subject": "MECH",
         "title": "Communications & Project Management"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 18, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 18,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "MECH 460 Corequisite or permission of the instructor", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "MECH 460 Corequisite or permission of the instructor",
+        "grading_basis": "Graded",
         "units": "1.50"
     }
 }

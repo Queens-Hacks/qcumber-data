@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "596", 
-        "subject": "DRAM", 
+        "description": "",
+        "number": "596",
+        "subject": "DRAM",
         "title": "Independent Study"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Reading": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "12.00"
     }
 }

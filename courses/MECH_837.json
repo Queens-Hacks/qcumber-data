@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The fundamentals of transport phenomena and reaction kinetics are considered and applied to fuel cells, with a view to a mechanistic understanding of fuel cell operation and limitations.\u00a0 Material covered includes the basic axioms of mechanics (conservation of mass, momentum, energy and charge) presented in indicial notation and applied to porous media.\u00a0 Emphasis is placed on the description of porous materials and the implications of porous media on transport, including the notion of effective transport coefficients.\u00a0 Ion transport in solid and polymer electrolytes due to electrochemical potential differences is considered.\u00a0\u00a0 Diffusion models covered include Fick\u00bfs law, Stefan Maxwell and Knudsen.\u00a0 Electrochemical reaction kinetics and mechanism are covered including rate-limiting steps, exchange current density and the fundamental definition of overpotential.\u00a0 The course will include individual projects.\u00a0 J. Pharoah", 
-        "number": "837", 
-        "subject": "MECH", 
+        "description": "The fundamentals of transport phenomena and reaction kinetics are considered and applied to fuel cells, with a view to a mechanistic understanding of fuel cell operation and limitations.\u00a0 Material covered includes the basic axioms of mechanics (conservation of mass, momentum, energy and charge) presented in indicial notation and applied to porous media.\u00a0 Emphasis is placed on the description of porous materials and the implications of porous media on transport, including the notion of effective transport coefficients.\u00a0 Ion transport in solid and polymer electrolytes due to electrochemical potential differences is considered.\u00a0\u00a0 Diffusion models covered include Fick\u00bfs law, Stefan Maxwell and Knudsen.\u00a0 Electrochemical reaction kinetics and mechanism are covered including rate-limiting steps, exchange current density and the fundamental definition of overpotential.\u00a0 The course will include individual projects.\u00a0 J. Pharoah",
+        "number": "837",
+        "subject": "MECH",
         "title": "Trans & Kin. In Fuel Cells"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

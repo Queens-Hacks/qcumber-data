@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "390", 
-        "subject": "CHEE", 
+        "description": "",
+        "number": "390",
+        "subject": "CHEE",
         "title": "Polymer Forms & Proc Tech"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CHEE223 or MECH241 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of CHEE223 or MECH241 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

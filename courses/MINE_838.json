@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The goal of this course is to provide an opportunity for students to use information from their undergraduate courses to make decisions on projects of the type that they may face in their future careers. The course will analyze actual project case histories in mining and process metallurgy and evaluate them from technical, economic, and risk perspectives. The objective of each case will be to confront the student and/or group with a decision point similar to that faced in the actual situation. The students will work individually and/or in small groups in an interactive tutorial setting to develop each case for class presentation. There will also be opportunities for interaction with invited experts from industry. The course will show students how to use the key evaluation tools for objective project and process decision-making in mining and process metallurgy.", 
-        "number": "838", 
-        "subject": "MINE", 
+        "description": "The goal of this course is to provide an opportunity for students to use information from their undergraduate courses to make decisions on projects of the type that they may face in their future careers. The course will analyze actual project case histories in mining and process metallurgy and evaluate them from technical, economic, and risk perspectives. The objective of each case will be to confront the student and/or group with a decision point similar to that faced in the actual situation. The students will work individually and/or in small groups in an interactive tutorial setting to develop each case for class presentation. There will also be opportunities for interaction with invited experts from industry. The course will show students how to use the key evaluation tools for objective project and process decision-making in mining and process metallurgy.",
+        "number": "838",
+        "subject": "MINE",
         "title": "Process Engin. For Metals Extr"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

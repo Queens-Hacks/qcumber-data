@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "\u00c0 travers les textes de D. Diderot, \u00e9tude des principales tendances esth\u00e9tiques et philosophiques du si\u00e8cle des lumi\u00e8res.\u00a0 Ne sera pas donn\u00e9 en 2010-2011.", 
-        "number": "836", 
-        "subject": "FRAN", 
+        "description": "\u00c0 travers les textes de D. Diderot, \u00e9tude des principales tendances esth\u00e9tiques et philosophiques du si\u00e8cle des lumi\u00e8res.\u00a0 Ne sera pas donn\u00e9 en 2010-2011.",
+        "number": "836",
+        "subject": "FRAN",
         "title": "Denis Diderot"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

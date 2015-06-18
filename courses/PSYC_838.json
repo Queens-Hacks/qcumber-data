@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Students choose two practica from a variety of applied settings. These experiences are designed to introduce students to functioning in a clinical setting. Fall and winter (one day per wk for a total of 120 hrs per course)", 
-        "number": "838", 
-        "subject": "PSYC", 
+        "description": "Students choose two practica from a variety of applied settings. These experiences are designed to introduce students to functioning in a clinical setting. Fall and winter (one day per wk for a total of 120 hrs per course)",
+        "number": "838",
+        "subject": "PSYC",
         "title": "Introductory Clinical Practica"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Clinical": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

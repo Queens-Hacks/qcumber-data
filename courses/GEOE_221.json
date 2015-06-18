@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A field-and-lab-based course stressing methods used in geological engineering site investigation. Includes field characterization of engineering properties and behaviour of earth materials and their structures. Student teams conduct site investigations that address geological engineering problems, some of which involve the design of an infrastructure improvement project (for example), with geological considerations. Results are presented in engineering reports illustrated with maps and sections.", 
-        "number": "221", 
-        "subject": "GEOE", 
+        "description": "A field-and-lab-based course stressing methods used in geological engineering site investigation. Includes field characterization of engineering properties and behaviour of earth materials and their structures. Student teams conduct site investigations that address geological engineering problems, some of which involve the design of an infrastructure improvement project (for example), with geological considerations. Results are presented in engineering reports illustrated with maps and sections.",
+        "number": "221",
+        "subject": "GEOE",
         "title": "Geological Engineering Field Methods"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 14, 
-            "Comp St": 0, 
-            "Eng Des": 14, 
-            "Eng Sci": 26, 
+            "Basic Sci": 14,
+            "Comp St": 0,
+            "Eng Des": 14,
+            "Eng Sci": 26,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite: APSC 151", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite: APSC 151",
+        "grading_basis": "Graded",
         "units": "4.50"
     }
 }

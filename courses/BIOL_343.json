@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An in-depth exploration of the general linear model and its application to biological problems, with special emphasis on the open-source R software for analysis.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;12O;60P)", 
-        "number": "343", 
-        "subject": "BIOL", 
+        "description": "An in-depth exploration of the general linear model and its application to biological problems, with special emphasis on the open-source R software for analysis.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;12O;60P)",
+        "number": "343",
+        "subject": "BIOL",
         "title": "Advanced Statistics for Biologists"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL243 or STAT269", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL243 or PSYC202 or STAT269",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

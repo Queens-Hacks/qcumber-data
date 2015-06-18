@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A multidisciplinary graduate level course exposing students to the clinical aspects of neuroscience. Didactic lectures cover detailed organization of the nervous system with clinical implications. Laboratories review basic neuroanatomy and pathology. Clinical demonstrations expose students to several neurological disorders. Fall; didactic lectures, laboratories, and clinical cases (up to 20 hr/week; 9 weeks total)\u00a0M.D. Kawaja (Anatomy and Cell Biology), D. Munoz (Physiology), J. Reynolds (Pharmacology and Toxicology)", 
-        "number": "825B", 
-        "subject": "ANAT", 
+        "description": "A multidisciplinary graduate level course exposing students to the clinical aspects of neuroscience. Didactic lectures cover detailed organization of the nervous system with clinical implications. Laboratories review basic neuroanatomy and pathology. Clinical demonstrations expose students to several neurological disorders. Fall; didactic lectures, laboratories, and clinical cases (up to 20 hr/week; 9 weeks total)\u00a0M.D. Kawaja (Anatomy and Cell Biology), D. Munoz (Physiology), J. Reynolds (Pharmacology and Toxicology)",
+        "number": "825B",
+        "subject": "ANAT",
         "title": "Medical Neuroscience"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "6.00"
     }
 }

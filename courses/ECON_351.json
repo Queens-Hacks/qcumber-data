@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Estimation and inference in multivariate econometric models. Emphasizes understanding of methods and their properties as distinct from formal theoretical development. Practical tools for preparing and analyzing data with appropriate models are taught using econometric software.", 
-        "number": "351", 
-        "subject": "ECON", 
+        "description": "Estimation and inference in multivariate econometric models. Emphasizes understanding of methods and their properties as distinct from formal theoretical development. Practical tools for preparing and analyzing data with appropriate models are taught using econometric software.\nLEARNING HOURS\u00a0\u00a0 120 (36L;6G;78P)",
+        "number": "351",
+        "subject": "ECON",
         "title": "Introductory Econometrics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 (A grade of C in ECON 250 or STAT263) and (MATH120 or MATH121 or MATH122 or [MATH123 and MATH124] or MATH126)\r\nCOREQUISITE\u00a0 ECON255\r\nEXCLUSION\u00a0 No more than 3.0 units from ECON351; STAT361", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 (A grade of C in ECON 250 or STAT263) and (MATH120 or MATH121 or MATH122 or [MATH123 and MATH124] or MATH126)\r\nCOREQUISITE\u00a0 ECON255\r\nEXCLUSION\u00a0 No more than 3.0 units from ECON351; STAT361",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

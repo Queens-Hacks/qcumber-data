@@ -1,0 +1,48 @@
+{
+    "_unique": "001-SEM (1225)",
+    "availability": {
+        "class_curr": 9,
+        "class_max": 15,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "844",
+        "season": "Summer",
+        "solus_id": "1225",
+        "status": "Open",
+        "subject": "ENGL",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 4,
+            "end_time": "12:00:00",
+            "instructors": [
+                "Fanning, Christopher J"
+            ],
+            "location": "JOHN WATSON RM406",
+            "start_time": "10:30:00",
+            "term_end": "2015-08-12",
+            "term_start": "2015-05-01"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "12:00:00",
+            "instructors": [
+                "Fanning, Christopher J"
+            ],
+            "location": "JOHN WATSON RM406",
+            "start_time": "10:30:00",
+            "term_end": "2015-08-12",
+            "term_start": "2015-05-01"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

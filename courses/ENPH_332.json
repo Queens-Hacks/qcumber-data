@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to electromagnetic theory and some of its applications. Topics are: Maxwell's equations, properties of waves in free space, dielectrics, conductors and ionized media, reflection and refraction at the surfaces of various media, radiation of electromagnetic waves, antennae, wave-guides, and optical fibers.", 
-        "number": "332", 
-        "subject": "ENPH", 
+        "description": "An introduction to electromagnetic theory and some of its applications. Topics are: Maxwell's equations, properties of waves in free space, dielectrics, conductors and ionized media, reflection and refraction at the surfaces of various media, radiation of electromagnetic waves, antennae, wave-guides, and optical fibers.",
+        "number": "332",
+        "subject": "ENPH",
         "title": "Electromagnetic Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 21, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 21, 
+            "Basic Sci": 21,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 21,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: ENPH 239 or PHYS 231 or PHYS 235 or ELEC 280 and MATH 226 or MTHE 235 or MATH 235 or MTHE 237 or MATH 237 and MTHE 227 or MATH 227. Must be registered in BSCE", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: ENPH 239 or PHYS 231 or PHYS 235 or ELEC 280 and MATH 226 or MTHE 235 or MATH 235 or MTHE 237 or MATH 237 and MTHE 227 or MATH 227. Must be registered in BSCE",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An examination of connections between politics, science and technology. Topics include: ideologies and the autonomy of science; science in the Warfare State; controlling the social uses of science.", 
-        "number": "471", 
-        "subject": "POLS", 
+        "description": "An examination of connections between politics, science and technology. Topics include: ideologies and the autonomy of science; science in the Warfare State; controlling the social uses of science.\nLEARNING HOURS (LECTURE)\u00a0\u00a0\u00a0 120 (36L;84P)\nLEARNING HOURS (SEMINAR)\u00a0\u00a0\u00a0 120 (36S;12G;72P)",
+        "number": "471",
+        "subject": "POLS",
         "title": "Politics and Science in Technological Societies"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0 Level 4 and (registration in a POLS major or medial plan) and POLS250 and (a GPA of 2.5 on all units in POLS).",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

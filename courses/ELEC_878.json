@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduction to computer networks. Layered network architecture, the physical (PHY) layer, link layer, medium access control (MAC), network layer, routing, quality-of service (QoS), security, Internet applications.\u00a0 Wireless local area networks (LANs), metropolitan area networks (MANs), ad hoc networks, and cellular networks. IEEE 802 standards. Future of computer communications. Three term-hours, lectures. C.H. Yeh.", 
-        "number": "878", 
-        "subject": "ELEC", 
+        "description": "Introduction to computer networks. Layered network architecture, the physical (PHY) layer, link layer, medium access control (MAC), network layer, routing, quality-of service (QoS), security, Internet applications.\u00a0 Wireless local area networks (LANs), metropolitan area networks (MANs), ad hoc networks, and cellular networks. IEEE 802 standards. Future of computer communications. Three term-hours, lectures. C.H. Yeh.",
+        "number": "878",
+        "subject": "ELEC",
         "title": "Computer Communications"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

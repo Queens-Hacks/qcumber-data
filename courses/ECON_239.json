@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A survey of the various economic theories and models elaborating the process of development. The course considers the meaning of economic development; the fundamental analytics of economic growth; the barriers to growth; balanced and unbalanced strategies of growth; population, employment and technology problems; foreign-trade and foreign aid issues.", 
-        "number": "239", 
-        "subject": "ECON", 
+        "description": "A survey of the various economic theories and models elaborating the process of development. The course considers the meaning of economic development; the fundamental analytics of economic growth; the barriers to growth; balanced and unbalanced strategies of growth; population, employment and technology problems; foreign-trade and foreign aid issues.\nLEARNING HOURS\u00a0\u00a0 120 (36L;6G;78P)",
+        "number": "239",
+        "subject": "ECON",
         "title": "Economic Development"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "ECON110 OR ECON111", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "ECON110 OR ECON111",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

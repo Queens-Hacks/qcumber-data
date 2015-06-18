@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the fundamental principles of the theory of communication. Topics include: information measures, entropy, mutual information, divergence; modeling of information sources, discrete memoryless sources, Markov sources, entropy rate, source redundancy; fundamentals of lossless data compression, block encoding, variable-length encoding, Kraft inequality, design of Shannon-Fano and Huffman codes; fundamentals of channel coding, channel capacity, noisy channel coding theorem, channels with memory, lossless information transmission theorem; continuous-alphabet sources and channels, differential entropy, capacity of discrete-time and band-limited continuous-time Gaussian channels; rate-distortion theory, lossy data compression, rate-distortion theorem, lossy information transmission theorem.\u00a0\u00a0 Offered jointly with MATH-474).\u00a0 Three term hours, fall; lectures.", 
-        "number": "874", 
-        "subject": "MATH", 
+        "description": "An introduction to the fundamental principles of the theory of communication. Topics include: information measures, entropy, mutual information, divergence; modeling of information sources, discrete memoryless sources, Markov sources, entropy rate, source redundancy; fundamentals of lossless data compression, block encoding, variable-length encoding, Kraft inequality, design of Shannon-Fano and Huffman codes; fundamentals of channel coding, channel capacity, noisy channel coding theorem, channels with memory, lossless information transmission theorem; continuous-alphabet sources and channels, differential entropy, capacity of discrete-time and band-limited continuous-time Gaussian channels; rate-distortion theory, lossy data compression, rate-distortion theorem, lossy information transmission theorem.\u00a0\u00a0 Offered jointly with MATH-474).\u00a0 Three term hours, fall; lectures.",
+        "number": "874",
+        "subject": "MATH",
         "title": "Information Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

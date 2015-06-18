@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Software crisis and software process models, Software reliability and methods for reliable software, Software reliability engineering process, Software dependability, Software fault tolerance, Run-time software monitoring, Software security, Software security engineering process, Network security, Intrusion detection.\u00a0 Three term hours: lectures and seminars.\u00a0\u00a0", 
-        "number": "848", 
-        "subject": "CISC", 
+        "description": "Software crisis and software process models, Software reliability and methods for reliable software, Software reliability engineering process, Software dependability, Software fault tolerance, Run-time software monitoring, Software security, Software security engineering process, Network security, Intrusion detection.\u00a0 Three term hours: lectures and seminars.\u00a0\u00a0",
+        "number": "848",
+        "subject": "CISC",
         "title": "Software Reliability & Secur"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "description": "The objective of the course is to introduce the student to the fundamentals necessary to understand and appreciate the issues involved in engineering in the body and to provide a framework for upper level studies in the area. Topics include: History of Biomedical Engineering, Anatomy and Physiology, Materials in Medicine, Transport Phenomena in the Body, Biomechanics, and Tissue Engineering.",
+        "number": "340",
+        "subject": "CHEE",
+        "title": "Biomedical Engineering"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 12,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 30,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
+        "units": "3.50"
+    }
+}

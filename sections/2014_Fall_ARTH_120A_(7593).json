@@ -1,0 +1,37 @@
+{
+    "_unique": "700-LEC (7593)",
+    "availability": {
+        "class_curr": 15,
+        "class_max": 75,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "700",
+        "course": "120A",
+        "season": "Fall",
+        "solus_id": "7593",
+        "status": "Open",
+        "subject": "ARTH",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Russell-Corbett, Jane P"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Kingston (Main), ON",
+        "location": "Graded",
+        "session": "Regular Academic Session"
+    }
+}

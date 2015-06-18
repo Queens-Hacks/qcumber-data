@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Layered operating systems for conventional shared memory computers: concurrent processes. Synchronization and communication. Concurrent algorithms. Scheduling. Deadlock. Memory management. Protection. File systems. Device management. Typical layers.", 
-        "number": "324", 
-        "subject": "CMPE", 
+        "description": "Layered operating systems for conventional shared memory computers: concurrent processes. Synchronization and communication. Concurrent algorithms. Scheduling. Deadlock. Memory management. Protection. File systems. Device management. Typical layers.",
+        "number": "324",
+        "subject": "CMPE",
         "title": "Operating Systems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 36, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 36,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: ELEC 274 and ELEC 276 or ELEC 278 and registered in BSCE\r\nEXCLUSION: ELEC 377", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQ: ELEC 274 and ELEC 276 or ELEC 278 and registered in BSCE\r\nEXCLUSION: ELEC 377",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "In this course students will explore the application of classical mechanics to the analysis of human motion related to athletics, orthopaedics, and rehabilitation. The course covers the structure of human joints, including experimental and analytical techniques in the study of human joint kinematics; applications to the design of artificial joints and to clinical diagnosis and treatments. Students are introduced to the motion capabilities of the human body and how to develop and study kinematic models of the individual joints of the human body. Experimental methods used to collect kinematic data will be studied through interactive labs. Topics include defining body position and displacement, three dimensional representation of human motion, basic functional anatomy of individual joints, rigid body kinematics (homogeneous transformations, Euler angles, helical axis), intrajoint kinematics, joint modelling, articular surface motion. Three-dimensional kinematics of individual joints is emphasized from the perspective of total joint replacement design.", 
-        "number": "494", 
-        "subject": "MECH", 
+        "description": "In this course students will explore the application of classical mechanics to the analysis of human motion related to athletics, orthopaedics, and rehabilitation. The course covers the structure of human joints, including experimental and analytical techniques in the study of human joint kinematics; applications to the design of artificial joints and to clinical diagnosis and treatments. Students are introduced to the motion capabilities of the human body and how to develop and study kinematic models of the individual joints of the human body. Experimental methods used to collect kinematic data will be studied through interactive labs. Topics include defining body position and displacement, three dimensional representation of human motion, basic functional anatomy of individual joints, rigid body kinematics (homogeneous transformations, Euler angles, helical axis), intrajoint kinematics, joint modelling, articular surface motion. Three-dimensional kinematics of individual joints is emphasized from the perspective of total joint replacement design.",
+        "number": "494",
+        "subject": "MECH",
         "title": "Kinematics Of Human Motion"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 30, 
-            "Eng Sci": 12, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 30,
+            "Eng Sci": 12,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of MECH328 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of MECH328 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

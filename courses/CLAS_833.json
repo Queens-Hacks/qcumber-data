@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Specialized study of a topic in the Hellenistic era.\u00a0 C.L. Falkner", 
-        "number": "833", 
-        "subject": "CLAS", 
+        "description": "Specialized study of a topic in the Hellenistic era.\u00a0 C.L. Falkner",
+        "number": "833",
+        "subject": "CLAS",
         "title": "Greek History:\u00a0 Hellenistic"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

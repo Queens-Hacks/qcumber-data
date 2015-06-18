@@ -1,25 +1,24 @@
 {
     "basic": {
-        "description": "Current topics in macroeconomic policy which may include: unemployment and policies to reduce it, government budget deficits, supply-side controversies, financial deregulation, policy coordination, and management of exchange rates. Comparison of policies in Canada, the United States, and other OECD countries.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;12G;48O;36P)", 
-        "number": "223", 
-        "subject": "ECON", 
+        "description": "Current topics in macroeconomic policy which may include: unemployment and policies to reduce it, government budget deficits, supply-side controversies, financial deregulation, policy coordination, and management of exchange rates. Comparison of policies in Canada, the United States, and other OECD countries.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;12G;48O;36P)",
+        "number": "223",
+        "subject": "ECON",
         "title": "Macroeconomic Policy"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Distance Studies",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "ECON110 OR ECON112", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "ECON110 OR ECON112",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Instruction in Venice based on daily study tours to the city's monuments and galleries. Each week a visit will be organized to an important centre in the Venice region. \r\nNOTE\u00a0\u00a0\u00a0 Costs of travel and accommodation abroad must be paid by the student. Consult the Department of Art for the costs involved.", 
-        "number": "245", 
-        "subject": "ARTH", 
+        "description": "Instruction in Venice based on daily study tours to the city's monuments and galleries. Each week a visit will be organized to an important centre in the Venice region. \r\nNOTE\u00a0\u00a0\u00a0 Costs of travel and accommodation abroad must be paid by the student. Consult the Department of Art for the costs involved.",
+        "number": "245",
+        "subject": "ARTH",
         "title": "Art & Architecture in Venice"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "6.00"
     }
 }

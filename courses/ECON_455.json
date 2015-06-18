@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Applications of mathematics in economic analysis. Topics covered will generally include a review of optimization techniques as applied to consumer and producer theory, comparative statics, the envelope theorem, duality theory, welfare economics and general equilibrium theory. Optimization techniques to be covered will include nonlinear and dynamic programming. Offered concurrently with ECON 855/3.0.", 
-        "number": "455", 
-        "subject": "ECON", 
+        "description": "Applications of mathematics in economic analysis. Topics covered will generally include a review of optimization techniques as applied to consumer and producer theory, comparative statics, the envelope theorem, duality theory, welfare economics and general equilibrium theory. Optimization techniques to be covered will include nonlinear and dynamic programming. Offered concurrently with ECON 855/3.0.\nLEARNING HOURS\u00a0\u00a0 120 (36L;12G:72P)",
+        "number": "455",
+        "subject": "ECON",
         "title": "Mathematical Economics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "(ECON310 AND ECON255)", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "(ECON310 AND ECON255)",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

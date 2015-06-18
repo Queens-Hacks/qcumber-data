@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Team-based project involving the development of a game using modern tools and software engineering techniques.", 
-        "number": "496", 
-        "subject": "CISC", 
+        "description": "Team-based project involving the development of a game using modern tools and software engineering techniques.",
+        "number": "496",
+        "subject": "CISC",
         "title": "Game Development Project"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 Level 4 and an overall GPA 1.90 and CISC226 and (CISC326 or COCA201 or permission of the School of Computing).", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 Level 4 and an overall GPA 1.90 and CISC226 and (CISC326 or COCA201 or permission of the School of Computing).",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

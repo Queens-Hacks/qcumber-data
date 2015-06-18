@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Project Course (Physical-oriented).\u00a0 Learning Materials:\u00a0 $100-$200, depending upon funding, for transportation and course materials. (6.0 credit units) PREREQUISITE: Permission of Instructor", 
-        "number": "824", 
-        "subject": "SURP", 
+        "description": "Project Course (Physical-oriented).\u00a0 Learning Materials:\u00a0 $100-$200, depending upon funding, for transportation and course materials. (6.0 credit units) PREREQUISITE: Permission of Instructor",
+        "number": "824",
+        "subject": "SURP",
         "title": "Land Use & Real Estate Project"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Project": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "6.00"
     }
 }

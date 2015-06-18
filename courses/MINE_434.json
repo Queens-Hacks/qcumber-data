@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "In this course a formal report is required, based on industrial and/or laboratory research. Emphasis is placed on critical treatment of the data obtained to produce useful conclusions. Standing is based on the work done and on the ability of individuals to complete various phases of the project according to schedule. Normally the report is prepared during a summer work period and completed during the fall term. Participation in the departmental seminar series once per month is mandatory.\u00a0", 
-        "number": "434", 
-        "subject": "MINE", 
+        "description": "In this course, the student is exposed to research in the mining, mineral processing and metal extraction industries. The work is performed under the supervision of a Faculty member. Standing is based on the work done and on the ability of individuals to meet project deliverables according to the schedule provided. The deliverables include; research proposal, research plan and literature review, poster presentation, and final report in the form of a technical paper. The deliverables can be based on research performed during the fall and winter terms or an extension of a summer employment research project. Emphasis is placed on the critical treatment of the data obtained to produce useful conclusions. Participation in the departmental seminar series once per month is mandatory. Each student should submit a one page pr\u00e9cis of the seminar.",
+        "number": "434",
+        "subject": "MINE",
         "title": "Project Report"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 24, 
-            "Eng Des": 24, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 24,
+            "Eng Des": 24,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Project": "Required"
-        }, 
-        "enrollment_requirement": "Must be registered in a BSCE program", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "4.00"
     }
 }

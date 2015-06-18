@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics to include: conservation equations for turbulent flows; wall-bounded shear flows; spectral dynamics; measurement and modelling of mixing and dissipation in stratified flows; stability of stratified flows; linear, nonlinear and dispersive waves (e.g. seiches, Kelvin waves, Poincare waves and solitary waves); internal wave breaking; convection. Theory will be discussed with reference to field observation, computational and laboratory modelling of lake and ocean flows.Three term-hours.Lectures.", 
-        "number": "852", 
-        "subject": "CIVL", 
+        "description": "Topics to include: conservation equations for turbulent flows; wall-bounded shear flows; spectral dynamics; measurement and modelling of mixing and dissipation in stratified flows; stability of stratified flows; linear, nonlinear and dispersive waves (e.g. seiches, Kelvin waves, Poincare waves and solitary waves); internal wave breaking; convection. Theory will be discussed with reference to field observation, computational and laboratory modelling of lake and ocean flows.Three term-hours.Lectures.",
+        "number": "852",
+        "subject": "CIVL",
         "title": "Environmental Fluid Dynamics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Spring", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Spring",
         "units": "3.00"
     }
 }

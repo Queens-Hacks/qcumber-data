@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course provides an opportunity to apply a knowledge of basics to the design of an underground mine. Initial design information may range from diamond-drill assay data to a partially or completely designed mine. The problem of design or renovation entails ground stability, ventilation, systems analysis, equipment selection, maintenance, etc, with safety and economics as the basic criteria for design.", 
-        "number": "448A", 
-        "subject": "MINE", 
+        "description": "This course provides an opportunity to apply a knowledge of basics to the design of an underground mine. Initial design information may range from diamond-drill assay data to a partially or completely designed mine. The problem of design or renovation entails ground stability, ventilation, systems analysis, equipment selection, maintenance, etc, with safety and economics as the basic criteria for design.",
+        "number": "448A",
+        "subject": "MINE",
         "title": "Underground Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of (MINE244 or MINE444) and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite of (MINE244 or MINE444) and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
         "units": "0.00"
     }
 }

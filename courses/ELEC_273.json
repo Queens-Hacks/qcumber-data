@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A balance of theory and practice in numerical methods and optimization. Topics include numerical representations, error analysis, iteration, linear algebraic tools such a singular value and QR decompositions, interpolation, curve\u00bffitting, approximation, least squares, single and multivariable optimization, constraint optimization, integration, differentiation, and solving ordinary differential\r\nequations. Extensive computer programming using MATLAB.", 
-        "number": "273", 
-        "subject": "ELEC", 
+        "description": "A balance of theory and practice in numerical methods and optimization. Topics include numerical representations, error analysis, iteration, linear algebraic tools such a singular value and QR decompositions, interpolation, curve\u00bffitting, approximation, least squares, single and multivariable optimization, constraint optimization, integration, differentiation, and solving ordinary differential\r\nequations. Extensive computer programming using MATLAB.",
+        "number": "273",
+        "subject": "ELEC",
         "title": "Numerical Methods and Optimization"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 21, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 21,
             "Math": 21
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "ELEC273: (Prereqs of APSC142, APSC174 & MTHE 235),(Exclusions of MTH272, CIVL 222, CMPE 271)", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "ELEC273: (Prereqs of APSC142, APSC174 & MTHE 235),(Exclusions of MTH272, CIVL 222, CMPE 271)",
+        "grading_basis": "Graded",
         "units": "3.50"
     }
 }

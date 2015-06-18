@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is designed to provide students with an introduction to economic concepts and analysis relevant to health, health care and health care systems.", 
-        "number": "838", 
-        "subject": "MPA", 
+        "description": "This course is designed to provide students with an introduction to economic concepts and analysis relevant to health, health care and health care systems.",
+        "number": "838",
+        "subject": "MPA",
         "title": "Economic Analy. Of Health Pol."
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

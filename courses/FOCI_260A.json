@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "(Outdoor and Experiential Education candidates only)Prepares candidates for leading dynamic school and community based outdoor education as found in a variety of environmental contexts in all teaching subjects. Also considered are alternative experiential settings including museums, adventure programming, integrated learning, rehabilitation for special populations, expeditionary learning, alternative education, local project-based learning, and environmental education.", 
-        "number": "260A", 
-        "subject": "FOCI", 
+        "description": "(Outdoor and Experiential Education candidates only)Prepares candidates for leading dynamic school and community based outdoor education as found in a variety of environmental contexts in all teaching subjects. Also considered are alternative experiential settings including museums, adventure programming, integrated learning, rehabilitation for special populations, expeditionary learning, alternative education, local project-based learning, and environmental education.",
+        "number": "260A",
+        "subject": "FOCI",
         "title": "Outdoor & Experiential Ed"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "OEE", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "OEE",
+        "grading_basis": "Graded",
         "units": "0.00"
     }
 }

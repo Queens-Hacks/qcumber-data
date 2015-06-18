@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Examines literacy instruction at the Intermediate and Senior levels. Addresses the issue of how to integrate literacy instruction across the curriculum. The following topics are examined from a theoretical and an applied perspective: processes of reading, struggling learners, comprehension, vocabulary, instructional strategies, writing processes, young adult literature in the classroom.", 
-        "number": "444", 
-        "subject": "EDST", 
+        "description": "Examines literacy instruction at the Intermediate and Senior levels. Addresses the issue of how to integrate literacy instruction across the curriculum. The following topics are examined from a theoretical and an applied perspective: processes of reading, struggling learners, comprehension, vocabulary, instructional strategies, writing processes, young adult literature in the classroom.",
+        "number": "444",
+        "subject": "EDST",
         "title": "Adolescent Literacy"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Restricted to IS", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Restricted to IS",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Methods and theory for ordinary and partial differential equations. Review of eigenvectors and eigenmodes in solutions to systems of ordinary differential equations. The principle of linear superposition and eigenfunction expansion, orthogonality, and inner product on a vector space of functions. The method of separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bessel orthogonal functions. The wave, diffusion, and Laplace's (potential) equation. Sturm-Liouville theory: eigenvalue problems and orthogonal functions. Fourier transform and, time permitting, Laplace transform techniques.", 
-        "number": "338", 
-        "subject": "MTHE", 
+        "description": "Methods and theory for ordinary and partial differential equations; separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bessel orthogonal functions; the wave, diffusion, and Laplace's equation; Sturm-Liouville theory; Fourier transform and Laplace transform techniques.",
+        "number": "338",
+        "subject": "MTHE",
         "title": "Fourier Methods for Boundary Value Problems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 14, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 14,
             "Math": 28
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: MTHE 227 or MATH 227 or MTHE 280 or MATH 280 and MATH 226 or MTHE 237 or MATH 237 or MTHE 232 or MATH 232 or permission of the department. Must also be registered in BSCE", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQ: MTHE 227 or MATH 227 or MTHE 280 or MATH 280 and MATH 226 or MTHE 237 or MATH 237 or MTHE 232 or MATH 232 or permission of the department. Must also be registered in BSCE",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

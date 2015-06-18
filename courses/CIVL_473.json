@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course will present concepts and tools for designing and modelling large-scale water resources systems in urban catchments. Focus will be placed on the design and analysis of urban drainage systems and urban water supply/distribution systems at the catchment level. Hydrologic, hydraulic, and statistical modelling tools used in industry will be used to evaluate the performance of water resources systems. Topics will include: the urban water cycle, environmental considerations in master planning of drainage and water supply systems, climate change impacts on water resources systems, floodplain analysis and flood control, statistical analysis of rainfall and stochastic hydrology, continuous simulation modelling, planning and modelling of large-scale urban drainage systems, planning and modelling of large-scale water distribution systems, reliability analysis and water quality analysis of water distribution systems, and the master planning process for urban drainage and drinking water systems.", 
-        "number": "473", 
-        "subject": "CIVL", 
+        "description": "This course will present concepts and tools for designing and modelling large-scale water resources systems in urban catchments. Focus will be placed on the design and analysis of urban drainage systems and urban water supply/distribution systems at the catchment level. Hydrologic, hydraulic, and statistical modelling tools used in industry will be used to evaluate the performance of water resources systems. Topics will include: the urban water cycle, environmental considerations in master planning of drainage and water supply systems, climate change impacts on water resources systems, floodplain analysis and flood control, statistical analysis of rainfall and stochastic hydrology, continuous simulation modelling, planning and modelling of large-scale urban drainage systems, planning and modelling of large-scale water distribution systems, reliability analysis and water quality analysis of water distribution systems, and the master planning process for urban drainage and drinking water systems.",
+        "number": "473",
+        "subject": "CIVL",
         "title": "Water Resources Systems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 20, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 20,
             "Math": 12
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "3.75"
     }
 }

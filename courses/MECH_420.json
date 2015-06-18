@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Considers mechanical vibration, the problems it presents and the means of dealing with it. Completes the treatment of systems with two degrees-of-freedom (introduced in \u00a0MECH 328) and proceeds to systems with higher number of degrees-of-freedom. Co-ordinate systems, types of coupling, matrix formulation, vibration absorbers and dampers, specific and hysteretic damping, Rayleigh's method, torsional vibration, Holzer method, introduction to the finite element method, beam vibration.", 
-        "number": "420", 
-        "subject": "MECH", 
+        "description": "Considers mechanical vibration, the problems it presents and the means of dealing with it. Completes the treatment of systems with two degrees-of-freedom (introduced in \u00a0MECH 328) and proceeds to systems with higher number of degrees-of-freedom. Co-ordinate systems, types of coupling, matrix formulation, vibration absorbers and dampers, specific and hysteretic damping, Rayleigh's method, torsional vibration, Holzer method, introduction to the finite element method, beam vibration.",
+        "number": "420",
+        "subject": "MECH",
         "title": "Vibrations"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 13, 
-            "Eng Sci": 29, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 13,
+            "Eng Sci": 29,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of MECH328 or (PHYS211 and PHYS225) and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of MECH328 or (PHYS211 and PHYS225) and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

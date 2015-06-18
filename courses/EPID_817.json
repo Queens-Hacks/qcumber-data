@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is intended for graduate students, clinical fellows and postdoctoral fellows who are engaged or interested in cancer research. The course will focus on concepts and methodological issues central to the conduct of epidemiologic studies of cancer etiology and control. Topics will include: an introduction to basic epidemiologic concepts; biologic and clinical concepts central to the investigation of cancer; study design; clinical epidemiology; molecular epidemiology; and cancer control and prevention. Three term-hours; winter; every year. B.MacKillop.", 
-        "number": "817", 
-        "subject": "EPID", 
+        "description": "This course is intended for graduate students, clinical fellows and postdoctoral fellows who are engaged or interested in cancer research. The course will focus on concepts and methodological issues central to the conduct of epidemiologic studies of cancer etiology and control. Topics will include: an introduction to basic epidemiologic concepts; biologic and clinical concepts central to the investigation of cancer; study design; clinical epidemiology; molecular epidemiology; and cancer control and prevention. Three term-hours; winter; every year. B.MacKillop.",
+        "number": "817",
+        "subject": "EPID",
         "title": "Foundations Of Cancer Control"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,0 +1,35 @@
+{
+    "_unique": "023-TUT (4324)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 25,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "023",
+        "course": "110A",
+        "season": "Fall",
+        "solus_id": "4324",
+        "status": "Open",
+        "subject": "POLS",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course provides an introduction to science teaching with a biology focus at the Intermediate-Senior levels. Teacher candidates plan science lessons using a variety of meaningful and relevant learning activities designed to support critical thinking about science and how it is connected to technology, society and the environment.\u00a0 The effectiveness of these lessons will be explored within the context of teacher candidates' practica experiences.", 
-        "number": "303", 
-        "subject": "CURR", 
+        "description": "This course provides an introduction to science teaching with a biology focus at the Intermediate-Senior levels. Teacher candidates plan science lessons using a variety of meaningful and relevant learning activities designed to support critical thinking about science and how it is connected to technology, society and the environment.\u00a0 The effectiveness of these lessons will be explored within the context of teacher candidates' practica experiences.",
+        "number": "303",
+        "subject": "CURR",
         "title": "Intro to Biology Teaching (IS)"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,0 +1,35 @@
+{
+    "_unique": "006-LAB (2915)",
+    "availability": {
+        "class_curr": 70,
+        "class_max": 105,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "006",
+        "course": "272",
+        "season": "Winter",
+        "solus_id": "2915",
+        "status": "Open",
+        "subject": "MATH",
+        "type": "LAB",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "17:30:00",
+            "instructors": [],
+            "location": "JEFFERY RM155",
+            "start_time": "16:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

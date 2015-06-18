@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Differentiation and integration of elementary functions, with applications to physical and social sciences.\u00a0 Topics include limits, related rates, Taylor polynomials, and introductory techniques\u00a0 and applications of integration.\u00a0 \r\nNOTE\u00a0\u00a0\u00a0 Not intended for students pursuing a MATH or STAT plan.", 
-        "number": "123", 
-        "subject": "MATH", 
+        "description": "Differentiation and integration of elementary functions, with applications to physical and social sciences.\u00a0 Topics include limits, related rates, Taylor polynomials, and introductory techniques\u00a0 and applications of integration.\u00a0 \r\nNOTE\u00a0\u00a0\u00a0 Not intended for students pursuing a MATH or STAT plan.",
+        "number": "123",
+        "subject": "MATH",
         "title": "Differential and Integral Calculus I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Permission of the Department\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from MATH120;121;122;123;124;126", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Spring", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Permission of the Department\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from MATH120;121;122;123;124;126",
+        "grading_basis": "Graded",
+        "typically_offered": "Spring",
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The application\u00a0of quantum mechanics to the structures and internal motions of molecules.\u00a0The\u00a0foundations of electronic, vibrational,\u00a0rotational and NMR spectroscopy will be discussed together with their applications.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)", 
-        "number": "322", 
-        "subject": "CHEM", 
+        "description": "The application\u00a0of quantum mechanics to the structures and internal motions of molecules.\u00a0The\u00a0foundations of electronic, vibrational,\u00a0rotational and NMR spectroscopy will be discussed together with their applications.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)",
+        "number": "322",
+        "subject": "CHEM",
         "title": "The Chemical Bond: Computation and Spectroscopy"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "CHEM313 OR CHEM346 OR PHYS344", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "CHEM313 OR CHEM346 OR PHYS344",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

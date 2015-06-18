@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course investigates the properties of polynomial, rational, logarithmic, and trigonometric functions. It develops techniques for combining functions and broadens understanding of rates of change while exploring how functions model real-world contexts.",
+        "number": "P03",
+        "subject": "MNTC",
+        "title": "Foundational Mathematics"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Online": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

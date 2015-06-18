@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Layered operating systems for conventional shared memory computers: concurrent processes. Synchronization and communication. Concurrent algorithms. Scheduling. Deadlock. Memory management. Protection. File systems. Device management. Typical layers.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "324", 
-        "subject": "CISC", 
+        "description": "Layered operating systems for conventional shared memory computers: concurrent processes. Synchronization and communication. Concurrent algorithms. Scheduling. Deadlock. Memory management. Protection. File systems. Device management. Typical layers.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "324",
+        "subject": "CISC",
         "title": "Operating Systems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC221 and CISC235", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC221 and CISC235",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

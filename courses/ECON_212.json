@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Theory of markets and prices: decision-making by individuals and firms, equilibrium conditions under various market structures, and issues of individual and social welfare. This course presumes a knowledge of calculus at the first-year university level.\nNOTE\u00a0\u00a0\u00a0 A grade of C in this course is required as a prerequisite for ECON 310/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;78P)", 
-        "number": "212", 
-        "subject": "ECON", 
+        "description": "Theory of markets and prices: decision-making by individuals and firms, equilibrium conditions under various market structures, and issues of individual and social welfare. This course presumes a knowledge of calculus at the first-year university level.\nNOTE\u00a0\u00a0\u00a0 A grade of C in this course is required as a prerequisite for ECON 310/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;6G;78P)",
+        "number": "212",
+        "subject": "ECON",
         "title": "Microeconomic Theory I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0 ECON110 or (ECON111 & ECON112) \r\nCorequisite\u00a0\u00a0 MATH120 or MATH121 or MATH122 or (MATH123 and MATH124) or MATH126 or APSC172.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0 ECON110 or (ECON111 & ECON112) \r\nCorequisite\u00a0\u00a0 MATH120 or MATH121 or MATH122 or (MATH123 and MATH124) or MATH126 or APSC172.",
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "3.00"
     }
 }

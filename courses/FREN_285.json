@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A course focusing on the socio-cultural and political aspects of African and Caribbean cinemas.", 
-        "number": "285", 
-        "subject": "FREN", 
+        "description": "A course focusing on the socio-cultural and political aspects of African and Caribbean cinemas.",
+        "number": "285",
+        "subject": "FREN",
         "title": "Cin\u00e9ma et soci\u00e9t\u00e9: aspects culturels de la francophonie"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 FREN100 or FREN110 or (FREN101 and FREN102).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN232 or FREN312 or FREN300.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 FREN100 or FREN110 or FREN150 or (FREN101 and FREN102).",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

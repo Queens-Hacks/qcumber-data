@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course provides an overview of the chemistry of inorganic and organic compounds used in the practice of mining and mineral processing including hydro-and pyro-extractive methods. Chemistry and chemical interactions for selected reagent formulations used in blasting, flotation/flocculation, leaching/precipitation, solvent extraction/electrowinning and pollution control technologies are outlined with relevant stoichiometry. Mineral stability and its relevance to metal extraction is discussed. Unary, binary and ternary phase diagrams are explored.\u00a0 The properties of solutions of interest are reviewed.", 
-        "number": "267", 
-        "subject": "MINE", 
+        "description": "This course provides an overview of the chemistry of inorganic and organic compounds used in the practice of mining and mineral processing including hydro-and pyro-extractive methods. Chemistry and chemical interactions for selected reagent formulations used in blasting, flotation/flocculation, leaching/precipitation, solvent extraction/electrowinning and pollution control technologies are outlined with relevant stoichiometry. Mineral stability and its relevance to metal extraction is discussed. Unary, binary and ternary phase diagrams are explored.\u00a0 The properties of solutions of interest are reviewed.",
+        "number": "267",
+        "subject": "MINE",
         "title": "Applied Chemistry for Mining"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 12, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 30, 
+            "Basic Sci": 12,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 30,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: APSC 131 and must registered in BSCE", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: APSC 131 and must registered in BSCE",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

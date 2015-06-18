@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course will present the fundamentals of biomechanics which includes an understanding of joint structure and function, forces and moments, tools used to record motion and use of these tools for description of motion and skill evaluation.", 
-        "number": "153", 
-        "subject": "PHED", 
+        "description": "This course will present the fundamentals of biomechanics which includes an understanding of joint structure and function, forces and moments, tools used to record motion and use of these tools for description of motion and skill evaluation.",
+        "number": "153",
+        "subject": "PHED",
         "title": "Introductory Biomechanics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

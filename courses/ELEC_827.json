@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Study of multimedia information processing with particular focus on multimedia signal compression for communications and storage. Applications of multimedia compression functionalities abound, including point-to-point and multipoint communications over heterogenous networks (e.g. wireless and Internet networks), and multimedia content generation, distribution, and playback in consumer and commercial products and services. Course topics include: major lossless and lossy compression techniques for coding speech, audio, image, video, and scanned documents; the latest multimedia standards, their compression, system, and transport layers; current research problems in multimedia communications such as scalable coding, transcoding, multiuser media streaming, error robustness and signal recovery. Three-term-hours; lectures. Permission of instructor. G. Chan.\u00a0\u00a0", 
-        "number": "827", 
-        "subject": "ELEC", 
+        "description": "Study of multimedia information processing with particular focus on multimedia signal compression for communications and storage. Applications of multimedia compression functionalities abound, including point-to-point and multipoint communications over heterogenous networks (e.g. wireless and Internet networks), and multimedia content generation, distribution, and playback in consumer and commercial products and services. Course topics include: major lossless and lossy compression techniques for coding speech, audio, image, video, and scanned documents; the latest multimedia standards, their compression, system, and transport layers; current research problems in multimedia communications such as scalable coding, transcoding, multiuser media streaming, error robustness and signal recovery. Three-term-hours; lectures. Permission of instructor. G. Chan.\u00a0\u00a0",
+        "number": "827",
+        "subject": "ELEC",
         "title": "Multi Media Signal Compression"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

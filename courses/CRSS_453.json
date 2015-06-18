@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "An advanced organ systems approach to the physiological principles underlying cardiac function and oxygen delivery using lectures, seminars, and selected readings. Topics include mechanics and regulation of heart function as well as perturbations in cardiac function. Oxygen delivery and utilization will be examined at the levels of the lung, blood, and tissue. The responses to alterations in oxygen demand and/or supply will also be addressed. Obstructive sleep apnea will be used as a model of a pathological cardiorespiratory system interactions.\nNOTE\u00a0\u00a0\u00a0 Priority given to students in the CRSS Sub-Plan.", 
-        "number": "453", 
-        "subject": "CRSS", 
+        "description": "An advanced organ systems approach to the physiological principles underlying cardiac function and oxygen delivery using lectures, seminars, and selected readings. Topics include mechanics and regulation of heart function as well as perturbations in cardiac function. Oxygen delivery and utilization will be examined at the levels of the lung, blood, and tissue. The responses to alterations in oxygen demand and/or supply will also be addressed. Obstructive sleep apnea will be used as a model of a pathological cardiorespiratory system interactions.\nNOTE\u00a0\u00a0\u00a0 Priority given to students in the CRSS Sub-Plan.",
+        "number": "453",
+        "subject": "CRSS",
         "title": "Principles in Cardiorespiratory Science I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Prerequisite (PHGY212 or PHGY214) and Level 4 and registration in a LISC Major or Specialization Plan and (a GPA of 2.5).", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Prerequisite (PHGY212 or PHGY214) and Level 4 and registration in a LISC Major or Specialization Plan and (a GPA of 2.5).",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

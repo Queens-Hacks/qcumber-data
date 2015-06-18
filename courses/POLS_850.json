@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides an introduction to contemporary normative political theory. The course will focus on the analysis basic concepts, such as liberty, equality, power, and authority, their use in different theoretical traditions, and their application to current debates about politics and policy.", 
-        "number": "850", 
-        "subject": "POLS", 
+        "description": "This course provides an introduction to contemporary normative political theory. The course will focus on the analysis basic concepts, such as liberty, equality, power, and authority, their use in different theoretical traditions, and their application to current debates about politics and policy.",
+        "number": "850",
+        "subject": "POLS",
         "title": "Political Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

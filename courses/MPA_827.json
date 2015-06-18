@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An examination of the principles of financial management applicable to the public sector, including an introduction to budgeting, financial planning, capital and current expenditure forecasting and program costing.", 
-        "number": "827", 
-        "subject": "MPA", 
+        "description": "An examination of the principles of financial management applicable to the public sector, including an introduction to budgeting, financial planning, capital and current expenditure forecasting and program costing.",
+        "number": "827",
+        "subject": "MPA",
         "title": "Financial Management"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Spring", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Spring",
         "units": "3.00"
     }
 }

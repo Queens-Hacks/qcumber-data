@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This is a product-focused course that will include use different (non-polyolefin) concrete examples to help the students understand the reasons for producing polymer in dispersed media, the types of product one can make and the relationship between process operation and polymer structure.\u00a0 Emphasis is placed on reactor design, advanced modelling of dispersed phases systems, and issues related to industrial production such as characterisation, scale-up and control. T. McKenna (0.25 weight)", 
-        "number": "903", 
-        "subject": "CHEE", 
+        "description": "This is a product-focused course that will include use different (non-polyolefin) concrete examples to help the students understand the reasons for producing polymer in dispersed media, the types of product one can make and the relationship between process operation and polymer structure.\u00a0 Emphasis is placed on reactor design, advanced modelling of dispersed phases systems, and issues related to industrial production such as characterisation, scale-up and control. T. McKenna (0.25 weight)",
+        "number": "903",
+        "subject": "CHEE",
         "title": "Dispersed Phase Polymerisation"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "1.50"
     }
 }

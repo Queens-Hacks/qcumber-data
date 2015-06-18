@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This clerkship rotation provides opportunities for learning in the following divisions of the Surgical Department: Cardiac Surgery; General Surgery; Neurosurgery; Orthopaedic Surgery; Plastic Surgery; Thoracic Surgery; and Vascular Surgery", 
-        "number": "442", 
-        "subject": "MEDS", 
+        "description": "This clerkship rotation provides opportunities for learning in the following divisions of the Surgical Department: Cardiac Surgery; General Surgery; Neurosurgery; Orthopaedic Surgery; Plastic Surgery; Thoracic Surgery; and Vascular Surgery",
+        "number": "442",
+        "subject": "MEDS",
         "title": "Surgery"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall, Winter",
         "units": "6.00"
     }
 }

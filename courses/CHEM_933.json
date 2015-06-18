@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A survey of the basis of molecular electronics, from the molecule properties, to the device behaviour. A critical discussion of organic semiconductors is given in view of its differences with inorganic semiconductors. Future developments such as single molecule devices, molecular sensing and bio-compatible devices are emphasized. Fall. J.M. Nunzi.", 
-        "number": "933", 
-        "subject": "CHEM", 
+        "description": "A survey of the basis of molecular electronics, from the molecule properties, to the device behaviour. A critical discussion of organic semiconductors is given in view of its differences with inorganic semiconductors. Future developments such as single molecule devices, molecular sensing and bio-compatible devices are emphasized. Fall. J.M. Nunzi.",
+        "number": "933",
+        "subject": "CHEM",
         "title": "Organic Electronics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "1.50"
     }
 }

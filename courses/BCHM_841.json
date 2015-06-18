@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course will focus on protein structure and function with special emphasis on membrane proteins and selected soluble protein systems. The course will consist of lectures and presentations that will be organized around specific readings from the recent literature. A portion of the course will be devoted to membrane protein structure and function. Selected examples of structural and functional studies of soluble proteins will include enzymes and inhibitors; protein-protein interactions; protein engineering; high-throughput identification of enzyme substrates. Some instruction will be given in homology modeling and database analysis of gene products. Three hours per week, half course lectures and seminars.", 
-        "number": "841", 
-        "subject": "BCHM", 
+        "description": "This course will focus on protein structure and function with special emphasis on membrane proteins and selected soluble protein systems. The course will consist of lectures and presentations that will be organized around specific readings from the recent literature. A portion of the course will be devoted to membrane protein structure and function. Selected examples of structural and functional studies of soluble proteins will include enzymes and inhibitors; protein-protein interactions; protein engineering; high-throughput identification of enzyme substrates. Some instruction will be given in homology modeling and database analysis of gene products. Three hours per week, half course lectures and seminars.",
+        "number": "841",
+        "subject": "BCHM",
         "title": "Current Topics In Biochem I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "3.00"
     }
 }

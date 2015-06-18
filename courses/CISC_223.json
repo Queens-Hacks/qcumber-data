@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction to techniques for specifying the behaviour of software, with applications of these techniques to design, verification and construction of software. Logic-based techniques such as loop invariants and class invariants. Automata and grammar-based techniques, with applications to scanners, parsers, user-interface dialogs and embedded systems. Computability issues in software specifications.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "223", 
-        "subject": "CISC", 
+        "description": "Introduction to techniques for specifying the behaviour of software, with applications of these techniques to design, verification and construction of software. Logic-based techniques such as loop invariants and class invariants. Automata and grammar-based techniques, with applications to scanners, parsers, user-interface dialogs and embedded systems. Computability issues in software specifications.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "223",
+        "subject": "CISC",
         "title": "Software Specifications"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CISC124.\r\nCorequisite\u00a0\u00a0\u00a0\u00a0 CISC204.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CISC124.\r\nCorequisite\u00a0\u00a0\u00a0\u00a0 CISC204.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An advanced course in which various aspects of the drug discovery and development process, from molecules to community, will be studied. The course comprises lectures, discussion and student seminars, based on recent literature. Topics encompass medicinal chemistry approaches to drug discovery, receptor theory, mechanisms of drug action, drug metabolism, pharmacokinetics, pharmacogenetics, drug resistance, clinical trials, and regulatory affairs. Fall, 3 hour seminar. Given in years ending with an even number. T.E. Massey", 
-        "number": "811", 
-        "subject": "PHAR", 
+        "description": "An advanced course in which various aspects of the drug discovery and development process, from molecules to community, will be studied. The course comprises lectures, discussion and student seminars, based on recent literature. Topics encompass medicinal chemistry approaches to drug discovery, receptor theory, mechanisms of drug action, drug metabolism, pharmacokinetics, pharmacogenetics, drug resistance, clinical trials, and regulatory affairs. Fall, 3 hour seminar. Given in years ending with an even number. T.E. Massey",
+        "number": "811",
+        "subject": "PHAR",
         "title": "Drug Discovery & Development"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "BCHM310", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "BCHM310",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

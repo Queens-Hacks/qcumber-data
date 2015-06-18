@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Comparative examination of criminal justice system and its major institutions; Canadian research emphasized.", 
-        "number": "388", 
-        "subject": "SOCY", 
+        "description": "Comparative examination of criminal justice system and its major institutions; Canadian research emphasized.\nLEARNING HOURS 120 (36L;84P)",
+        "number": "388",
+        "subject": "SOCY",
         "title": "Sociology of Criminal Justice"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "SOCY274 OR (SOCY275 AND SOCY287) OR (SOCY275 AND SOCY276)", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+            "Lecture": "Required"
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 SOCY274 or SOCY275.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

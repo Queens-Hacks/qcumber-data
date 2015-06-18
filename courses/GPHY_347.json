@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course offers an introduction to the theory and application of multivariate statistics to geographical data. Topics include regression and correlation analysis, ANOVA, spatial autocorrelation and other spatial statistics as well as geostatistical operations in GIS software.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;24Pc;24O;24P)", 
-        "number": "347", 
-        "subject": "GPHY", 
+        "description": "This course offers an introduction to the theory and application of multivariate statistics to geographical data. Topics include regression and correlation analysis, ANOVA, spatial autocorrelation and other spatial statistics as well as geostatistical operations in GIS software.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;24Pc;24O;24P)",
+        "number": "347",
+        "subject": "GPHY",
         "title": "Multivariate and Spatial Stats"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Practicum": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GPHY247.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GPHY247.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

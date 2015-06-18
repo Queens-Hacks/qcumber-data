@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course examines the design, development, and use of Knowledge Management Systems in organizations. Building on the expertise and facilities at Queen's University, such as the Queen's Executive Decision Centre and the\u00a0Centre for the Management of Knowledge Based Enterprises, this course looks at particular knowledge management systems and groupware (such as Lotus Notes), intranets, electronic meeting systems, and team-based executive support systems. These systems are now at the forefront of information technologies as modern businesses evolve into flexible, knowledge-based organizations. Students will study how these systems are developed. Students will examine the various roles that hardware, software, and people play in the effective use of these systems. Students will design and build a small knowledge-based system using a software package such as Lotus Notes or GroupSystems V.", 
-        "number": "397", 
-        "subject": "COMM", 
+        "description": "This course examines the design, development, and use of Knowledge Management Systems in organizations. Building on the expertise and facilities at Queen's University, such as the Queen's Executive Decision Centre and the\u00a0Centre for the Management of Knowledge Based Enterprises, this course looks at particular knowledge management systems and groupware (such as Lotus Notes), intranets, electronic meeting systems, and team-based executive support systems. These systems are now at the forefront of information technologies as modern businesses evolve into flexible, knowledge-based organizations. Students will study how these systems are developed. Students will examine the various roles that hardware, software, and people play in the effective use of these systems. Students will design and build a small knowledge-based system using a software package such as Lotus Notes or GroupSystems V.",
+        "number": "397",
+        "subject": "COMM",
         "title": "Knowledge Management Systems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "(Prerequisite of COMM190 and registered in a BCOM Academic Program and have a level > or equal to 3) or registered in a COMM-X Academic Plan.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "(Prerequisite of COMM190 and registered in a BCOM Academic Program and have a level > or equal to 3) or registered in a COMM-X Academic Plan.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

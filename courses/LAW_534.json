@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "", 
-        "number": "534", 
-        "subject": "LAW", 
+        "description": "",
+        "number": "534",
+        "subject": "LAW",
         "title": "Feminist Jurisprudence"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "LAW 533 OR LAW 516", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "LAW 533 OR LAW 516",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

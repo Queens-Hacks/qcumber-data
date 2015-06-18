@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "A course focussing on design issues and methods of analysis for practical geotechnical engineering problems. Topics studied include: site investigation; capacity and settlement of shallow and deep foundations; two-dimensional steady state seepage; landslides and slope stability. Commercial software will be introduced to perform stability, deformation and seepage analyses. Students will conduct physical experiments to explore how design methods compare with real soil behaviour. The important role of geology in geotechnical design is emphasized through classroom discussions and problem sets.\u00a0PPE will be required for this course at student\u00bfs cost (see course materials for details).", 
-        "number": "341", 
-        "subject": "CIVL", 
+        "description": "A course focussing on design issues and methods of analysis for practical geotechnical engineering problems. Topics studied include: site investigation; capacity and settlement of shallow and deep foundations; two-dimensional steady state seepage; landslides and slope stability. Commercial software will be introduced to perform stability, deformation and seepage analyses. Students will conduct physical experiments to explore how design methods compare with real soil behaviour. The important role of geology in geotechnical design is emphasized through classroom discussions and problem sets.\u00a0PPE will be required for this course at student\u00bfs cost (see course materials for details).",
+        "number": "341",
+        "subject": "CIVL",
         "title": "Geotechnical Engineering 2"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 36, 
-            "Eng Sci": 12, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 36,
+            "Eng Sci": 12,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL340 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL340 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Graduate field school held in several regions of the world consisting of field trips to selected areas of geological interest, emphasizing relationships between local and regional geological environments and their natural resources and hazards, in the context of the tectonic evolution of the area visited. Students are expected to research background on areas to be visited and must produce one or more substantial reports and present one or more seminars. Extra fees may apply to cover the cost of travel. Field excursions in the fall, winter and/or beginning of spring term.", 
-        "number": "802", 
-        "subject": "GEOL", 
+        "description": "Graduate field school held in several regions of the world consisting of field trips to selected areas of geological interest, emphasizing relationships between local and regional geological environments and their natural resources and hazards, in the context of the tectonic evolution of the area visited. Students are expected to research background on areas to be visited and must produce one or more substantial reports and present one or more seminars. Extra fees may apply to cover the cost of travel. Field excursions in the fall, winter and/or beginning of spring term.",
+        "number": "802",
+        "subject": "GEOL",
         "title": "Graduate Field School"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "3.00"
     }
 }

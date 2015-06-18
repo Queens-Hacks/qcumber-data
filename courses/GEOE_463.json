@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to spatial information management focusing on methods to support and extend geological mapping, mineral and petroleum exploration, and engineering site investigation. Computers and computation, GIS software and theory, spatial simulation and analysis, databases and data management, and design of effective decision support solutions.", 
-        "number": "463", 
-        "subject": "GEOE", 
+        "description": "An introduction to spatial information management focusing on methods to support and extend geological mapping, mineral and petroleum exploration, and engineering site investigation. Computers and computation, GIS software and theory, spatial simulation and analysis, databases and data management, and design of effective decision support solutions.",
+        "number": "463",
+        "subject": "GEOE",
         "title": "Spatial Information Management in the Geosciences"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 28, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 28,
             "Math": 14
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite: GEOE 333 or permission of instructor. Exclusion: GISC 201", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite: GEOE 333 or permission of instructor. Exclusion: GISC 201",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

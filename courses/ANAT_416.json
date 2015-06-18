@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Comprehensive overview of cellular and molecular biology of mammalian reproduction including gametogenesis, fertilization, early embryo development and placentation; selected topics of clinical aspects of reproduction. Participation in seminars and group discussion is required.", 
-        "number": "416", 
-        "subject": "ANAT", 
+        "description": "Comprehensive overview of cellular and molecular biology of mammalian reproduction including gametogenesis, fertilization, early embryo development and placentation; selected topics of clinical aspects of reproduction. Participation in seminars and group discussion is required.",
+        "number": "416",
+        "subject": "ANAT",
         "title": "Biology of Reproduction"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (ANAT 215/3.0 and ANAT 216/3.0) or ANAT 309/3.0, and Level 4 and (a GPA of 2.5 and registration in a LISC Major or Specialization Plan, or permission of the Department of Biomedical and Molecular Sciences.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (ANAT 215/3.0 and ANAT 216/3.0) or ANAT 309/3.0, and Level 4 and (a GPA of 2.5 and registration in a LISC Major or Specialization Plan, or permission of the Department of Biomedical and Molecular Sciences.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

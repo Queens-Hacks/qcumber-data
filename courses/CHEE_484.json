@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Bioremediation as an option to treat contaminated soils and ground water. Advantages and disadvantages of bioremediation compared to nonbiological processes. Factors affecting choice of in situ or ex situ processes. Assessment of biodegradability; biostimulation vs bioaugmentation; mineralization vs. partial degradation; factors affecting microbial activity (choice of electron acceptor, toxicity of pollutant, C/N/P ratio, co-substrates, soil humidity, pH and temperature); bioavailability of pollutant. Biodegradation of specific contaminants (e.g. diesel fuel, polychlorinated biphenyls, dyestuffs, aromatic and polyaromatic hydrocarbons) will be studied in detail. The design component of this course consists of learning design of appropriate laboratory and field experiments to obtain data on microbial degradation of an organic pollutant to be able to calculate bioremediation design parameters such as mass and delivery rate requirements of electron acceptors and nutrients and degradation rates in reactor and non-reactor based systems; and to be aware of limitations of these calculations.", 
-        "number": "484", 
-        "subject": "CHEE", 
+        "description": "Bioremediation as an option to treat contaminated soils and ground water. Advantages and disadvantages of bioremediation compared to nonbiological processes. Factors affecting choice of in situ or ex situ processes. Assessment of biodegradability; biostimulation vs bioaugmentation; mineralization vs. partial degradation; factors affecting microbial activity (choice of electron acceptor, toxicity of pollutant, C/N/P ratio, co-substrates, soil humidity, pH and temperature); bioavailability of pollutant. Biodegradation of specific contaminants (e.g. diesel fuel, polychlorinated biphenyls, dyestuffs, aromatic and polyaromatic hydrocarbons) will be studied in detail. The design component of this course consists of learning design of appropriate laboratory and field experiments to obtain data on microbial degradation of an organic pollutant to be able to calculate bioremediation design parameters such as mass and delivery rate requirements of electron acceptors and nutrients and degradation rates in reactor and non-reactor based systems; and to be aware of limitations of these calculations.",
+        "number": "484",
+        "subject": "CHEE",
         "title": "Bioremediation"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 42, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 42,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

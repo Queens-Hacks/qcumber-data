@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Topics include the presentation and storage of data, implementation concerns, and the integration of databases with other areas of computer science. Pat Martin.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "432", 
-        "subject": "CISC", 
+        "description": "Topics include the presentation and storage of data, implementation concerns, and the integration of databases with other areas of computer science. Pat Martin.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "432",
+        "subject": "CISC",
         "title": "Database Management Systems (A,S)"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC235 and CISC332", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC235 and CISC332",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

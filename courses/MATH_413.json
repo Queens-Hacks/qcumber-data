@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Algorithms for solving systems of nonlinear equations; applications in geometry, algebra, and other areas; Gr\u00f6bner basis methods. A suitable software package (e.g. CoCoA, Macaulay2, Singular, Magma) will be used to explore applications.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;96P)", 
-        "number": "413", 
-        "subject": "MATH", 
-        "title": "Computational Commutative Algebra"
-    }, 
+        "description": "An introduction to the study of systems of polynomial equations in one or many variables. Topics covered include the Hilbert basis theorem, the Nullstellenstaz, the dictionary between ideals and affine varieties, and projective geometry.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;96P)",
+        "number": "413",
+        "subject": "MATH",
+        "title": "Introduction to Algebraic Geometry"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH210 or MATH212 or MATH313.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH210 or MATH212 or MATH313.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

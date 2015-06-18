@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course emphasizes the practical application of financial management principles using case studies. It is expected that students will learn how to identify and analyze the key corporate financial planning/policy decisions by incorporating the insights provided by theory into their analysis of actual case histories. The application of the theoretical conclusions, and their modification to take account of features of the actual business environment or to explain observed behaviour, will be stressed throughout the course. The course will cover such topics as corporate goals, the roles of financial officers, the valuation of public and private corporations, financial analysis and pro forma financial statement forecasting, credit analysis, bank borrowing and other forms of short-term financing, optimal capital structure, raising new long-term capital (designing, pricing, placing, timing, and hedging new security issues), the cost of capital, capital budgeting decisions (including the analysis of mergers, acquisitions, leveraged buyouts, and divestitures), and the use of derivative securities to hedge corporate risk.", 
-        "number": "323", 
-        "subject": "COMM", 
+        "description": "This course emphasizes the practical application of financial management principles using case studies. It is expected that students will learn how to identify and analyze the key corporate financial planning/policy decisions by incorporating the insights provided by theory into their analysis of actual case histories. The application of the theoretical conclusions, and their modification to take account of features of the actual business environment or to explain observed behaviour, will be stressed throughout the course. The course will cover such topics as corporate goals, the roles of financial officers, the valuation of public and private corporations, financial analysis and pro forma financial statement forecasting, credit analysis, bank borrowing and other forms of short-term financing, optimal capital structure, raising new long-term capital (designing, pricing, placing, timing, and hedging new security issues), the cost of capital, capital budgeting decisions (including the analysis of mergers, acquisitions, leveraged buyouts, and divestitures), and the use of derivative securities to hedge corporate risk.",
+        "number": "323",
+        "subject": "COMM",
         "title": "Corporate Financial Planning"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 COMM121 or COMM221. Admission restricted to third- and fourth-year students.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 COMM121 or COMM221. Admission restricted to third- and fourth-year students.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

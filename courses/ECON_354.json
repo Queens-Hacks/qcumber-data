@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "An introduction to numerical methods as used in economics, finance, and related fields. Topics include optimization, non-linear systems, numerical approximation, and simulation. Includes a major project where students implement economic models or replicate work found in the literature.\nNOTE\u00a0\u00a0\u00a0 Programming experience is recommended but not required. Students with a strong math or computing background can contact the department for permission.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;18G;66P)",
+        "number": "354",
+        "subject": "ECON",
+        "title": "Computational Methods in Economics and Finance"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required"
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 ECON255\nCorequisite\u00a0\u00a0\u00a0\u00a0\u00a0 ECON250 or STAT263",
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

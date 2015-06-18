@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A study of the basic models of national income determination and financial markets. The course includes application to policy problems such as inflation, unemployment and balance of payments disequilibria.\r\nNOTE\u00a0\u00a0\u00a0A grade of C in this course is required as a prerequisite for ECON 320/3.0.", 
-        "number": "222", 
-        "subject": "ECON", 
+        "description": "A study of the basic models of national income determination and financial markets. The course includes application to policy problems such as inflation, unemployment and balance of payments disequilibria.\nNOTE\u00a0\u00a0\u00a0A grade of C in this course is required as a prerequisite for ECON 320/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;6G;78P)",
+        "number": "222",
+        "subject": "ECON",
         "title": "Macroeconomic Theory I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0 ECON110 or (ECON111 & ECON112) \r\nCorequisite\u00a0\u00a0 MATH120 or MATH121 or MATH122 or (MATH123 and MATH124) or MATH126 or APSC172.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0 ECON110 or (ECON111 & ECON112) \r\nCorequisite\u00a0\u00a0 MATH120 or MATH121 or MATH122 or (MATH123 and MATH124) or MATH126 or APSC172.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

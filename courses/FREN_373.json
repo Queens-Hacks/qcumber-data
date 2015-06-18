@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to the general principles of syntactic analysis with emphasis on the syntax of French.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "373", 
-        "subject": "FREN", 
-        "title": "Syntaxe du fran\u00e7ais"
-    }, 
+        "description": "In this course, we examine the syntax of standard French and of Canadian French from a generative grammar perspective. The study of syntax will be explained, as well as the various properties of language that form the object of syntactic analysis. We will discover what a grammatical theory can show us about the grammar of French and consider some specific questions raised by the syntax of Canadian French.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "373",
+        "subject": "FREN",
+        "title": "Syntaxe du fran\u00e7ais canadien"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 FREN215 or FREN220 or FREN221.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (FREN230 and FREN241) or FREN221 or (FREN220 and FREN212) or FREN215.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

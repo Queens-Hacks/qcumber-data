@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Topics may include the nature of scientific method; the meaning of laws of nature; theoretical entities; scientific explanation; causality, induction, and probability.", 
-        "number": "381", 
-        "subject": "PHIL", 
+        "description": "Topics may include the nature of scientific method; the meaning of laws of nature; theoretical entities; scientific explanation; causality, induction, and probability.",
+        "number": "381",
+        "subject": "PHIL",
         "title": "Philosophy of the Natural Sciences"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Completed 60.0 or more units.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Completed 60.0 or more units.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

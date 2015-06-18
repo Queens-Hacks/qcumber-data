@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The course provides a rigorous theoretical treatment of environmental policy design. Although the emphasis will be on microeconomic modeling approaches, the course will also draw upon case studies of environmental policies. Topics covered include: the theory of externalities, Pigouvian taxes, performance and design standards, marketable permit systems, hybrid systems, policy instrument choice under uncertainty, design of regulatory mechanisms under asymmetric information, political economy of environmental regulation, monitoring and incomplete enforcement, and environmental negotiation.", 
-        "number": "891", 
-        "subject": "ECON", 
+        "description": "The course provides a rigorous theoretical treatment of environmental policy design. Although the emphasis will be on microeconomic modeling approaches, the course will also draw upon case studies of environmental policies. Topics covered include: the theory of externalities, Pigouvian taxes, performance and design standards, marketable permit systems, hybrid systems, policy instrument choice under uncertainty, design of regulatory mechanisms under asymmetric information, political economy of environmental regulation, monitoring and incomplete enforcement, and environmental negotiation.",
+        "number": "891",
+        "subject": "ECON",
         "title": "Environmental Economics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

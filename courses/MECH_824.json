@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Deformation of solids; analysis of stress and strain; limiting states of stress in solids; theories of mechanical strength; stress-strain and stress-strain rate relations; plane strain; slip line solutions of plastic flow problems; limit analysis. Mechanics of plastic deformation in metalworking processes; friction and lubrication; thermal phenomena. Three term-hours, lectures. J. Jeswiet", 
-        "number": "824", 
-        "subject": "MECH", 
+        "description": "Deformation of solids; analysis of stress and strain; limiting states of stress in solids; theories of mechanical strength; stress-strain and stress-strain rate relations; plane strain; slip line solutions of plastic flow problems; limit analysis. Mechanics of plastic deformation in metalworking processes; friction and lubrication; thermal phenomena. Three term-hours, lectures. J. Jeswiet",
+        "number": "824",
+        "subject": "MECH",
         "title": "Plasticity"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course provides instruction in method and procedure in linguistic fieldwork. The course investigates the syntax, morphology and phonology of a language unfamiliar to the participants. The instruction is structured around weekly fieldwork sessions dedicated to data collection working with a native speaker of the language, and weekly workshops devoted to analysis. The course contains an intensive independent study component.", 
-        "number": "475", 
-        "subject": "LING", 
+        "description": "This course provides instruction in method and procedure in linguistic fieldwork. The course investigates the syntax, morphology and phonology of a language unfamiliar to the participants. The instruction is structured around weekly fieldwork sessions dedicated to data collection working with a native speaker of the language, and weekly workshops devoted to analysis. The course contains an intensive independent study component.\nLEARNING HOURS\u00a0\u00a0\u00a0 210 (18S;18Lb;6T;168P)",
+        "number": "475",
+        "subject": "LING",
         "title": "Field Methods in Linguistics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 6.0 units at the 300 level in LING, or permission of the Department of Languages, Literatures and Cultures.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from LING425; LING475.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
-        "units": "9.00"
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 6.0 units at the 300 level in LING, or permission of the Department of Languages, Literatures and Cultures.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from LING425; LING475.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
+        "units": "6.00"
     }
 }

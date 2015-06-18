@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "668", 
-        "subject": "CONT", 
+        "description": "",
+        "number": "668",
+        "subject": "CONT",
         "title": "Marketing\u00a0 Part 1"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Non-Credit", 
+        },
+        "career": "Non-Credit",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "6.00"
     }
 }

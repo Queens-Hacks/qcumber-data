@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This course prepares nurse scientists to advance nursing knowledge through independent research using quantitative methods.\u00a0 It focuses on conceptualizing research, measurement, design, sampling and reliability of measures. Emphasis is placed on the appropriateness of design for the level of theoretical knowledge available and the nature of the research problem to be investigated. (3.0 credit units).",
+        "number": "903",
+        "subject": "NURS",
+        "title": "Advanced Quantitative Measurement, Methods and Design"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
+        "course_components": {
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

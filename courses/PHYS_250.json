@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Laboratory and lecture course that presents techniques and skills that are the foundations of experimental physics. Topics include statistical analysis of data, uncertainties in measurement, propagation of errors, software for data analysis, graphing and reporting. Students will be exposed to techniques in the measurement of electric, magnetic, thermal and mechanical properties. Laboratories also illustrate some principles of quantum physics, mechanics, electromagnetism and thermodynamics learned in other physics courses. Some exposure to computerized data acquisition is included.", 
-        "number": "250", 
-        "subject": "PHYS", 
+        "description": "Laboratory and lecture course that presents techniques and skills that are the foundations of experimental physics. Topics include statistical analysis of data, uncertainties in measurement, propagation of errors, software for data analysis, graphing and reporting. Students will be exposed to techniques in the measurement of electric, magnetic, thermal and mechanical properties. Laboratories also illustrate some principles of quantum physics, mechanics, electromagnetism and thermodynamics learned in other physics courses. Some exposure to computerized data acquisition is included.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (24L;36Lb;72P)",
+        "number": "250",
+        "subject": "PHYS",
         "title": "Foundations of Experimental Physics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 PHYS104 or 106.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 PHYS104 or 106.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

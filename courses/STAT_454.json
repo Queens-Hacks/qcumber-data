@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Many systems evolve with an inherent amount of randomness in time and/or space. The focus of this course is on developing and analyzing methods for analyzing time series. Because most of the common time--domain methods are unreliable, the emphasis is on frequency--domain methods, i.e. methods that work and expose the bias that plagues most time--domain techniques.\u00a0 Slepian sequences (discrete prolate spheroidal sequences) and multi--taper methods of spectrum estimation are covered in detail. (12/0/0/12/12)~ COURSE NOT OFFERED IN 2010-2011 ~", 
-        "number": "454", 
-        "subject": "STAT", 
+        "description": "Many systems evolve with an inherent amount of randomness in time and/or space. The focus of this course is on developing and analyzing methods for analyzing time series. Because most of the common time--domain methods are unreliable, the emphasis is on frequency--domain methods, i.e. methods that work and expose the bias that plagues most time--domain techniques.\u00a0 Slepian sequences (discrete prolate spheroidal sequences) and multi--taper methods of spectrum estimation are covered in detail. (12/0/0/12/12)~ COURSE NOT OFFERED IN 2010-2011 ~",
+        "number": "454",
+        "subject": "STAT",
         "title": "Statistical Spectrum Estimatio"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Reading": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of STAT353 and (MATH312 or MATH338) and (STAT251 or STAT261) and MATH321 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of STAT353 and (MATH312 or MATH338) and (STAT251 or STAT261) and MATH321 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

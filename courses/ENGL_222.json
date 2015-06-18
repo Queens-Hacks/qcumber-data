@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A survey of women writers from before 1900. Historical focus of course may vary from year to year; for detailed information, consult the Department. \nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies. When offered as a distance course, it is focused on nineteenth-century women writers in English.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "222", 
-        "subject": "ENGL", 
-        "title": "Selected Women Writers I"
-    }, 
+        "description": "A survey of women writers from before 1900. The historical and geographical focus of the course may vary from year to year; for details, consult the Department.\nNOTE\u00a0\u00a0\u00a0 Also offered online. Consult Continuing and Distance Studies. When offered online, it is focused on nineteenth-century women writers in English.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "222",
+        "subject": "ENGL",
+        "title": "Selected Women Writers Pre-1900"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0 A grade of C in ENGL100 (or ENGL110) or registration in a GNDS plan", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0 A grade of C in ENGL100 (or ENGL110) or registration in a GNDS plan",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

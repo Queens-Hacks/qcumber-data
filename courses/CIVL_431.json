@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This course deals with evaluation of the deterioration of the infrastructure and the design of rehabilitation measures. Items discussed include corrosion of reinforcement in concrete, microbiological corrosion of buried pipelines, asphalt deterioration and repair, deterioration of timber in buildings, and issues of sustainability of infrastructure. Design techniques to reduce deterioration in new construction are also discussed. The laboratory portion involves some of the test methods used to evaluate deterioration and field trips to observe some common forms of deterioration. PPE will be required for this course at student's cost (see course materials for details).", 
-        "number": "431", 
-        "subject": "CIVL", 
+        "description": "This course deals with evaluation of the deterioration of the infrastructure and the design of rehabilitation measures. Items discussed include corrosion of reinforcement in concrete, microbiological corrosion of buried pipelines, asphalt deterioration and repair, deterioration of timber in buildings, and issues of sustainability of infrastructure. Design techniques to reduce deterioration in new construction are also discussed. The laboratory portion involves some of the test methods used to evaluate deterioration and field trips to observe some common forms of deterioration. PPE will be required for this course at student's cost (see course materials for details).",
+        "number": "431",
+        "subject": "CIVL",
         "title": "Infrastructure Rehabilitation"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 16, 
-            "Eng Sci": 32, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 16,
+            "Eng Sci": 32,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL 430 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL 430 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

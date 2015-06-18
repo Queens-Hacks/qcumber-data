@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course covers perturbation theory, scattering theory and the addition of angular momentum. Special topics may include: many-electron systems, path integral formulation of quantum mechanics, entanglement and quantum computing, quantum optics.", 
-        "number": "444", 
-        "subject": "ENPH", 
+        "description": "This course covers perturbation theory, scattering theory and the addition of angular momentum. Special topics may include: many-electron systems, path integral formulation of quantum mechanics, entanglement and quantum computing, quantum optics.",
+        "number": "444",
+        "subject": "ENPH",
         "title": "Advanced Quantum Physics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 36, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 36,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: ENPH 345 or PHYS 345 and registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQ: ENPH 345 or PHYS 345 and registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

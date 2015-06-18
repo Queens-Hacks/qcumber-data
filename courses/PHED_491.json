@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This is an independent project in an area of specialization in health enhancement, disease prevention and human performance. Students must arrange for a faculty advisor approved by the School of Kinesiology and Health\u00a0Studies to oversee their project.", 
-        "number": "491", 
-        "subject": "PHED", 
+        "description": "This is an independent project in an area of specialization in health enhancement, disease prevention and human performance. Students must arrange for a faculty advisor approved by the School of Kinesiology and Health\u00a0Studies to oversee their project.",
+        "number": "491",
+        "subject": "PHED",
         "title": "Special Project In Phys Ed"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

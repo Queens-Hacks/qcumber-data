@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course covers the properties of explosives and the basis for the selection of explosives for specific applications. It includes an introduction to the theory of detonation (ideal and non ideal), sensitivity, performance and numerical modelling of detonation, and the description of modern commercial explosives including typical compositions, mixing, priming and handling. Specific problems related to the use of explosives such as desensitization, sympathetic detonation, gas and dust explosions, as well as the technology associated with initiation methods are also discussed. (0/18/0/36/0) ~ COURSE DELETED IN 2008/09 ~", 
-        "number": "220", 
-        "subject": "MINE", 
+        "description": "This course covers the properties of explosives and the basis for the selection of explosives for specific applications. It includes an introduction to the theory of detonation (ideal and non ideal), sensitivity, performance and numerical modelling of detonation, and the description of modern commercial explosives including typical compositions, mixing, priming and handling. Specific problems related to the use of explosives such as desensitization, sympathetic detonation, gas and dust explosions, as well as the technology associated with initiation methods are also discussed. (0/18/0/36/0) ~ COURSE DELETED IN 2008/09 ~",
+        "number": "220",
+        "subject": "MINE",
         "title": "Explosives Technology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Must be registered in a BSCE program", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.50"
     }
 }

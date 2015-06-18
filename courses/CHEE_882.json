@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course examines the important factors in the design and operation of stirred tank bioreactors. A variety of biokinetic models are examined and used in\u00a0the design of ideal and non-ideal bioreactors. The effect of the rheology of fermentation broths on mass transfer, mixing, power requirement, etc. is considered, along with Residence Time Distribution Analysis as a tool for quantifying non-ideal behaviour. Novel fermentor designs and immobilized enzyme/cell systems are discussed. Scale-up criteria are examined. A.J. Daugulis", 
-        "number": "882", 
-        "subject": "CHEE", 
+        "description": "This course examines the important factors in the design and operation of stirred tank bioreactors. A variety of biokinetic models are examined and used in\u00a0the design of ideal and non-ideal bioreactors. The effect of the rheology of fermentation broths on mass transfer, mixing, power requirement, etc. is considered, along with Residence Time Distribution Analysis as a tool for quantifying non-ideal behaviour. Novel fermentor designs and immobilized enzyme/cell systems are discussed. Scale-up criteria are examined. A.J. Daugulis",
+        "number": "882",
+        "subject": "CHEE",
         "title": "Bioreactor Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

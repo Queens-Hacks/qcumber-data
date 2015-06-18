@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Provides students with an overview of theories that underpin the development enterprise, and critiques of development, through the use of primary texts and critical appraisals.", 
-        "number": "340", 
-        "subject": "DEVS", 
+        "description": "Provides students with an overview of theories that underpin the development enterprise, and critiques of development, through the use of primary texts and critical appraisals.",
+        "number": "340",
+        "subject": "DEVS",
         "title": "Theories of Development"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite DEVS100 & DEVS230 & DEVS240\r\nExclusion\u00a0 No more than 3.0 units from DEVS340/3.0/POLS346/3.0", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite DEVS100 & DEVS230 & DEVS240\r\nExclusion\u00a0 No more than 3.0 units from DEVS340/3.0/POLS346/3.0",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

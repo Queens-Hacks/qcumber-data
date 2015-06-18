@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "\"The roles of designed experiments and data analysis procedures in process investigations are discussed. Applications of two-level factorial and fractional factorial designs in screening studies and higher-order designs for response surface characterization and exploration are examined. Least squares procedures for fitting and testing mathematical models, and for assessing model predictions, are described.\r\nEmpirical in-plant optimization procedures are also considered. Established and evolving approaches for quality and productivity improvement are examined. The design component of this course is the planning and execution of an experimental investigation, the analysis of the resulting data, and the formulation of recommendations on the basis of those results.\"", 
-        "number": "418", 
-        "subject": "CHEE", 
+        "description": "\"The roles of designed experiments and data analysis procedures in process investigations are discussed. Applications of two-level factorial and fractional factorial designs in screening studies and higher-order designs for response surface characterization and exploration are examined. Least squares procedures for fitting and testing mathematical models, and for assessing model predictions, are described.\r\nEmpirical in-plant optimization procedures are also considered. Established and evolving approaches for quality and productivity improvement are examined. The design component of this course is the planning and execution of an experimental investigation, the analysis of the resulting data, and the formulation of recommendations on the basis of those results.\"",
+        "number": "418",
+        "subject": "CHEE",
         "title": "Strategies Proc Investigations"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 18, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 18,
             "Math": 12
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Exclusion: STAT361.\u00a0 Prerequisite of CHEE209 or permission of the department. Must be registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Exclusion: STAT361.\u00a0 Prerequisite of CHEE209 or permission of the department. Must be registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

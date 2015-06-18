@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "332", 
-        "subject": "LAW", 
+        "description": "A writing course exploring what one can learn and say about the legal imagination; what it can mean to learn to think and speak like a lawyer.",
+        "number": "332",
+        "subject": "LAW",
         "title": "Legal Imagination"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

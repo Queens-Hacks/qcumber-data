@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Laboratory courses to be arranged in consultation with individual members of the Department. Courses must involve data collection;\u00a0approximately\u00a05-7 hours of lab work per week required. \r\nNOTE\u00a0\u00a0 \u00a0Students whose research involves the care and/or handling of animals must also complete the Introductory Animal Care Course and if required the appropriate Animal Use workshops through the Office of the University Veterinarian . \r\nNOTE\u00a0\u00a0\u00a0 Students are limited to a maximum of two of PSYC 550/3.0, PSYC 555/3.0, PSYC 560/3.0, PSYC 570/3.0, or PSYC 575/3.0. Students are also limited to a maximum of two 500-level courses supervised by the same faculty member. (Students registered in PSYC 501/6.0 concurrently will not normally take one of these courses with their thesis supervisor.)", 
-        "number": "570", 
-        "subject": "PSYC", 
+        "description": "Laboratory courses to be arranged in consultation with individual members of the Department. Courses must involve data collection;\u00a0approximately\u00a05-7 hours of lab work per week required. \r\nNOTE\u00a0\u00a0 \u00a0Students whose research involves the care and/or handling of animals must also complete the Introductory Animal Care Course and if required the appropriate Animal Use workshops through the Office of the University Veterinarian . \r\nNOTE\u00a0\u00a0\u00a0 Students are limited to a maximum of two of PSYC 550/3.0, PSYC 555/3.0, PSYC 560/3.0, PSYC 570/3.0, or PSYC 575/3.0. Students are also limited to a maximum of two 500-level courses supervised by the same faculty member. (Students registered in PSYC 501/6.0 concurrently will not normally take one of these courses with their thesis supervisor.)",
+        "number": "570",
+        "subject": "PSYC",
         "title": "Directed Special Laboratory I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

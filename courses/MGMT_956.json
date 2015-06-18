@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides students with a second opportunity for in-depth coverage of selected advanced topics in organizational behaviour. The topics will vary yearly, but there will be an emphasis on the integration of research and theory, as well as enhancing students' research competencies throughout the course.", 
-        "number": "956", 
-        "subject": "MGMT", 
+        "description": "This course provides students with a second opportunity for in-depth coverage of selected advanced topics in organizational behaviour. The topics will vary yearly, but there will be an emphasis on the integration of research and theory, as well as enhancing students' research competencies throughout the course.",
+        "number": "956",
+        "subject": "MGMT",
         "title": "Advanced Topics in Organizational Behaviour II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

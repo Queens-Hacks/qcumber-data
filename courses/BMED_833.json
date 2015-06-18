@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Detailed histological assessment of selected organs and tissues. Winter Term, alternating years. Lectures and seminars. M.D. Kawaja. PREREQUISITES: ANAT-215* and 216* or ANAT-311 or ANAT-309* or ANAT-831* or BMED-831*. EXCLUSION: ANAT-833*", 
-        "number": "833", 
-        "subject": "BMED", 
+        "description": "Detailed histological assessment of selected organs and tissues. Winter Term, alternating years. Lectures and seminars. M.D. Kawaja. PREREQUISITES: ANAT-215* and 216* or ANAT-311 or ANAT-309* or ANAT-831* or BMED-831*. EXCLUSION: ANAT-833*",
+        "number": "833",
+        "subject": "BMED",
         "title": "Selected Topics in Mammalian Histology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

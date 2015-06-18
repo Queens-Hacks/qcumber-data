@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A critical survey of some recent trends in moral philosophy. Study will begin with the emotive theory of ethics, and end with very recent works of importance in the field.", 
-        "number": "347", 
-        "subject": "PHIL", 
+        "description": "A critical survey of some recent trends in moral philosophy. Study will begin with the emotive theory of ethics, and end with very recent works of importance in the field.",
+        "number": "347",
+        "subject": "PHIL",
         "title": "Contemporary Moral Philosophy"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHIL257 or permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHIL257 or permission of the Department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

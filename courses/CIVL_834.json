@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Philosophy of design criteria, elementary probabilistic considerations; strength theory for reinforced and prestressed elements in bending, shear and torsion and their interactions; yield line and strip method of slab design; theory of plasticity as applied to concrete. A seminar project is usually undertaken in this course. Three term-hours; lectures.\u00a0", 
-        "number": "834", 
-        "subject": "CIVL", 
+        "description": "Philosophy of design criteria, elementary probabilistic considerations; strength theory for reinforced and prestressed elements in bending, shear and torsion and their interactions; yield line and strip method of slab design; theory of plasticity as applied to concrete. A seminar project is usually undertaken in this course. Three term-hours; lectures.\u00a0",
+        "number": "834",
+        "subject": "CIVL",
         "title": "Advanced Reinforced Concrete"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

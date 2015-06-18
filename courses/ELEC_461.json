@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Representation of signals and noise, Gaussian processes, correlation functions and power spectra. Linear systems and random processes. Performance analysis and design of coherent and noncoherent communication systems, phase-shift-keying, frequency-shift,-keying, and M-ary communication systems. Optimum receivers and signal space concepts. Information and its measure, source encoding, channel capacity and error correcting coding.", 
-        "number": "461", 
-        "subject": "ELEC", 
+        "description": "Representation of signals and noise, Gaussian processes, correlation functions and power spectra. Linear systems and random processes. Performance analysis and design of coherent and noncoherent communication systems, phase-shift-keying, frequency-shift,-keying, and M-ary communication systems. Optimum receivers and signal space concepts. Information and its measure, source encoding, channel capacity and error correcting coding.",
+        "number": "461",
+        "subject": "ELEC",
         "title": "Digital Communications"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 21, 
-            "Eng Sci": 21, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 21,
+            "Eng Sci": 21,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ELEC324 or (MATH334 and MATH335) and ELEC326 or STAT351 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of ELEC324 or (MATH334 and MATH335) and ELEC326 or STAT351 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

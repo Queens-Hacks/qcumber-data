@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to graph theory, one of the central disciplines of discrete mathematics. This course, MATH 402/3.0 and MATH 434/3.0 constitute a survey of discrete mathematics and its applications. Topics include graphs and subgraphs, trees, bond and cycle spaces, connectivity, Euler tours and Hamiltonian cycles, matchings, independent sets, cliques and networks. Given jointly with MATH 801/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra.", 
-        "number": "401", 
-        "subject": "MATH", 
+        "description": "An introduction to graph theory, one of the central disciplines of discrete mathematics. Topics include graphs, subgraphs, trees, connectivity, Euler tours, Hamiltonian cycles, matchings, independent sets, cliques, colourings, and planarity. Given jointly with MATH 801/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra.",
+        "number": "401",
+        "subject": "MATH",
         "title": "Graph Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra.\r\nPrerequisites\u00a0\u00a0\u00a0\u00a0 MATH210 or MATH211 or MATH212 or MATH217.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 Experience with abstract mathematics and mathematical proof, and a good foundation in linear algebra.\r\nPrerequisites\u00a0\u00a0\u00a0\u00a0 MATH210 or MATH211 or MATH212 or MATH217.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

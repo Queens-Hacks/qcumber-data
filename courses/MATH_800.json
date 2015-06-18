@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Students are expected to participate in a weekly seminar in which they are required to present material on a topic that relates to their research.", 
-        "number": "800", 
-        "subject": "MATH", 
+        "description": "Students are expected to participate in a weekly seminar in which they are required to present material on a topic that relates to their research.",
+        "number": "800",
+        "subject": "MATH",
         "title": "Seminar"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall, Winter",
         "units": "3.00"
     }
 }

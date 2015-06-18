@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The lands and peoples of South America, emphasizing how the colonial experience continues to affect contemporary life in the region.\nNOTE\u00a0\u00a0 \u00a0Course audio-visual supplies: $10.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24O;60P)", 
-        "number": "258", 
-        "subject": "GPHY", 
+        "description": "The lands and peoples of South America, emphasizing how the colonial experience continues to affect contemporary life in the region.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24O;60P)",
+        "number": "258",
+        "subject": "GPHY",
         "title": "The Geography of South America"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of GPHY101 or GPHY102 or Level 2 in a DEVS plan or permission of the department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of GPHY101 or GPHY102 or Level 2 in a DEVS plan or permission of the department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

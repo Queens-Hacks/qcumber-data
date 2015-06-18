@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the equations of mechanics using the Lagrange formalism and to the calculus of variations leading to Hamilton's principle. The concepts developed in this course are applied to problems ranging from purely theoretical constructs to practical applications. Links to quantum mechanics and extensions to continuous systems are developed.", 
-        "number": "321", 
-        "subject": "ENPH", 
+        "description": "An introduction to the equations of mechanics using the Lagrange formalism and to the calculus of variations leading to Hamilton's principle. The concepts developed in this course are applied to problems ranging from purely theoretical constructs to practical applications. Links to quantum mechanics and extensions to continuous systems are developed.",
+        "number": "321",
+        "subject": "ENPH",
         "title": "Advanced Mechanics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 20, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 11, 
+            "Basic Sci": 20,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 11,
             "Math": 11
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: ENPH 211 or PHYS 211 and MATH 226 or MTHE 237 or MATH 237 and MTHE 227 or MATH 227. Must be registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQ: ENPH 211 or PHYS 211 and MATH 226 or MTHE 237 or MATH 237 and MTHE 227 or MATH 227. Must be registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

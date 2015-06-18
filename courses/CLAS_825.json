@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This course is an intensive study of the archaeology of the Etruscans and the other cultures of Italy until the end of the 1st century BC, with the exclusion of the Greek colonies. Topics will vary according to the instructor.",
+        "number": "825",
+        "subject": "CLAS",
+        "title": "Etruscan and Italic Archaeology"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
+        "course_components": {
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course introduces quantum mechanics and molecular simulation as engineering tools for the understanding and design of molecular structure and properties. It is aimed at providing an overview of the principles of quantum mechanical theory and molecular simulation with strong emphasis on applications to engineering problems. Key mathematical concepts will be discussed and applied using state-of-the-art modeling software. (0/21/0/21/0)", 
-        "number": "346", 
-        "subject": "CHEM", 
+        "description": "This course introduces quantum mechanics and molecular simulation as engineering tools for the understanding and design of molecular structure and properties. It is aimed at providing an overview of the principles of quantum mechanical theory and molecular simulation with strong emphasis on applications to engineering problems. Key mathematical concepts will be discussed and applied using state-of-the-art modeling software. (0/21/0/21/0)",
+        "number": "346",
+        "subject": "CHEM",
         "title": "Quantum Mech/Molecular Sim"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CHEE210 and MTHE 225 (or MATH225) and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of CHEE210 and MTHE 225 (or MATH225) and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

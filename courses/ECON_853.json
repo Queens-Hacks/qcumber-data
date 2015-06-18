@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is an introduction to graduate level time series econometrics. The goal of the course is to provide a foundation in core time series methods that will permit students to undertake serious empirical work or pursue more advanced theoretical modeling. The topics include, but are not limited to, time series regressions, univariate and multivariate stationary time series models (ARMA and VAR models), forecasting, univariate and multivariate non-stationary time series models (trending data, unit roots, cointegration), and possibly some spectral analysis and generalized method of moments (GMM). The course focuses on time series methods that have been become popular and widely used in economics, and economic examples will often be used as motivation.", 
-        "number": "853", 
-        "subject": "ECON", 
+        "description": "This course is an introduction to graduate level time series econometrics. The goal of the course is to provide a foundation in core time series methods that will permit students to undertake serious empirical work or pursue more advanced theoretical modeling. The topics include, but are not limited to, time series regressions, univariate and multivariate stationary time series models (ARMA and VAR models), forecasting, univariate and multivariate non-stationary time series models (trending data, unit roots, cointegration), and possibly some spectral analysis and generalized method of moments (GMM). The course focuses on time series methods that have been become popular and widely used in economics, and economic examples will often be used as motivation.",
+        "number": "853",
+        "subject": "ECON",
         "title": "Applied Econometrics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

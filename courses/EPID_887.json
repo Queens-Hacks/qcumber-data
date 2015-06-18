@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "887", 
-        "subject": "EPID", 
-        "title": "Practicum 2- Public Health"
-    }, 
+        "description": "The 400-hour practicum placement provides Master of Public Health students with an opportunity to build on and apply the knowledge, skills and attitudes they have learned from course work through active participation in a supervised setting. Students will contribute to public health in practice. Placement activities will vary according to the needs and interests of both the host organization and the student. This course is graded on a PASS/FALL basis. Spring/Summer term every year.",
+        "number": "887",
+        "subject": "EPID",
+        "title": "Practicum Placement"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

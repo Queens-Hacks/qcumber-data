@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "A practicum course amalgamating a variety of aspects of theatre and drama.", 
-        "number": "400B", 
-        "subject": "DRAM", 
+        "description": "A practicum course amalgamating a variety of aspects of theatre and drama.",
+        "number": "400B",
+        "subject": "DRAM",
         "title": "Applied Theatre"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Practicum": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+            "Practicum": "Required",
+            "Seminar": "Required"
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "9.00"
     }
 }

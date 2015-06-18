@@ -1,28 +1,28 @@
 {
     "basic": {
-        "description": "A multi-disciplinary course exploring advanced concepts of clinical neuroscience. Topics include stroke, traumatic brain and cord injuries, neurodegenerative disorders, epilepsy, schizophrenia, depression, deep brain stimulation, pain and placebo effects, normal and abnormal aging, stem cells. Students will learn to critically evaluate scientific literature and present these concepts to classmates during student-led seminars. Restricted to fourth-year students. Enrollment is limited.", 
-        "number": "429", 
-        "subject": "NSCI", 
+        "description": "A multi-disciplinary course exploring advanced concepts of clinical neuroscience. Topics include stroke, traumatic brain and cord injuries, neurodegenerative disorders, epilepsy, schizophrenia, depression, deep brain stimulation, pain and placebo effects, normal and abnormal aging, stem cells. Students will learn to critically evaluate scientific literature and present these concepts to classmates during student-led seminars. Restricted to fourth-year students. Enrollment is limited.",
+        "number": "429",
+        "subject": "NSCI",
         "title": "Disorders of the Nervous System"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 NSCI 322/3.0 or NSCI 323/3.0 or NSCI 324/3.0 or ANAT 312/3.0 or PSYC 271/3.0 and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5), or permission of the course coordinators", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 NSCI 322/3.0 or NSCI 323/3.0 or NSCI 324/3.0 or ANAT 312/3.0 or PSYC 271/3.0 and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5), or permission of the course coordinators",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Due to its long range and lack of shielding, the Newtonian gravitational force plays a major role in the dynamical evolution of astronomical systems ranging in scale from planetary systems to clusters of galaxies. In this course we examine common features across these scales as well as specific features of importance in the gravitational dynamics of the Solar System and other planetary systems, star clusters, galaxies and clusters of galaxies.", 
-        "number": "817", 
-        "subject": "PHYS", 
+        "description": "Due to its long range and lack of shielding, the Newtonian gravitational force plays a major role in the dynamical evolution of astronomical systems ranging in scale from planetary systems to clusters of galaxies. In this course we examine common features across these scales as well as specific features of importance in the gravitational dynamics of the Solar System and other planetary systems, star clusters, galaxies and clusters of galaxies.",
+        "number": "817",
+        "subject": "PHYS",
         "title": "Astronomical Dynamics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Abstractions and patterns of interactions and relationships among modules. Design recovery; relationship of architecture to requirements and testing.", 
-        "number": "322", 
-        "subject": "CISC", 
+        "description": "Abstractions and patterns of interactions and relationships among modules. Design recovery; relationship of architecture to requirements and testing.",
+        "number": "322",
+        "subject": "CISC",
         "title": "Software Architecture"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC203 and CISC204 and CISC223 and CISC235", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC203 and CISC204 and CISC223 and CISC235",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

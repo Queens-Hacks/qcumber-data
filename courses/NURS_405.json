@@ -1,27 +1,28 @@
 {
     "basic": {
-        "description": "An introduction to the practice of health promotion with population groups.\u00a016 units (6 credits)\u00a0course weight; 16 hours clinical fieldwork per week.", 
-        "number": "405", 
-        "subject": "NURS", 
+        "description": "An introduction to the practice of health promotion with population groups.\u00a016 units (6 credits)\u00a0course weight; 16 hours clinical fieldwork per week.",
+        "number": "405",
+        "subject": "NURS",
         "title": "Prac In Comm Hlth Promotion"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Clinical": "Required", 
+            "Clinical": "Required",
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "level 4",
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall",
         "units": "6.00"
     }
 }

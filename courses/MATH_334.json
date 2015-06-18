@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Orthonormal families, Fourier series and convergence. Signal spaces, Fourier transforms, and generalized functions. Solution of boundary value problems, including heat, wave, and potential equations. Applications to mechanical, electrical, and thermal systems.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)", 
-        "number": "334", 
-        "subject": "MATH", 
+        "description": "Banach and Hilbert spaces of continuous- and discrete-time signals; spaces of continuous and not necessarily continuous signals; continuous-discrete Fourier transform; continuous-continuous Fourier transform; discrete-continuous Fourier transform; discrete-discrete Fourier transform; transform inversion using Fourier series and Fourier integrals.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)",
+        "number": "334",
+        "subject": "MATH",
         "title": "Mathematical Methods for Engineering and Physics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH231 or MATH237) and MATH281.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH334 ; PHYS312.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH231 or MATH237) and MATH281.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH334 ; PHYS312.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

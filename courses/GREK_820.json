@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Detailed study of selections from the works of Homer and Hesiod. R.D. Griffith", 
-        "number": "820", 
-        "subject": "GREK", 
+        "description": "Detailed study of selections from the works of Homer and Hesiod. R.D. Griffith",
+        "number": "820",
+        "subject": "GREK",
         "title": "Greek Poetry I: Epic"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

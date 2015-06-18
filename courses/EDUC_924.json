@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An advanced research seminar in Cognitive Studies. Topics will vary and reflect the research interests of students and faculty. Winter; L. Wade-Woolley.", 
-        "number": "924", 
-        "subject": "EDUC", 
+        "description": "An advanced research seminar in Cognitive Studies. Topics will vary and reflect the research interests of students and faculty. Winter; L. Wade-Woolley.",
+        "number": "924",
+        "subject": "EDUC",
         "title": "Advanced Topics I in Cognitive Studies"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

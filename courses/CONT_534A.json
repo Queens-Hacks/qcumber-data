@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "534A", 
-        "subject": "CONT", 
+        "description": "",
+        "number": "534A",
+        "subject": "CONT",
         "title": "Reading - Pt. 2"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Non-Credit", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Non-Credit",
         "course_components": {
             "Online": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "0.00"
     }
 }

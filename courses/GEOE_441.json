@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Advanced concepts in structural geology, including the influence of effective pressure, temperature, strain rate, climate and erosion on deformation mechanisms. Topics include: ductile deformation, microstructural fabrics, grain-scale to crustal-scale strain partitioning, models of exhumation, lithosphere rheology, and orogenic styles. (0/20/0/16/0)~ COURSE DELETED IN 2008/09 ~", 
-        "number": "441", 
-        "subject": "GEOE", 
+        "description": "Advanced concepts in structural geology, including the influence of effective pressure, temperature, strain rate, climate and erosion on deformation mechanisms. Topics include: ductile deformation, microstructural fabrics, grain-scale to crustal-scale strain partitioning, models of exhumation, lithosphere rheology, and orogenic styles. (0/20/0/16/0)~ COURSE DELETED IN 2008/09 ~",
+        "number": "441",
+        "subject": "GEOE",
         "title": "Deformation Mechanics And Continental Tectonics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 20, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 16, 
+            "Basic Sci": 20,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 16,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

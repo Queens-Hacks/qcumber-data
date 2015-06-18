@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Specific properties of polymers (glass transition, crystallinity, poly-dispersity, etc.) and their dependence on macromolecular structure and isomerism.\u00a0 Not offered 2010-2011.\u00a0", 
-        "number": "850", 
-        "subject": "CHEM", 
+        "description": "Specific properties of polymers (glass transition, crystallinity, poly-dispersity, etc.) and their dependence on macromolecular structure and isomerism.\u00a0 Not offered 2010-2011.\u00a0",
+        "number": "850",
+        "subject": "CHEM",
         "title": "Polymer Physical Chemistry"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "1.50"
     }
 }

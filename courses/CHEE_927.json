@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This 6-week course introduces global optimization principles and methods for nonconvex continuous or mixed-integer programs, which can arise from a wide range of process systems engineering problems. The course consists of three parts. The first part discusses convex sets, convex functions, and Lagrangian duality theory. The second part introduces classical branch-and-bound based global optimization methods, along with convex relaxation and domain reduction techniques. The third part gives an overview of decomposition based large-scale global optimization. This course, although placed in the Department of Chemical Engineering, is designed for graduate students from across Queen's University. (1.5 credit units). PREREQUISITES: CHEE-827* or permission of the instructor.",
+        "number": "927",
+        "subject": "CHEE",
+        "title": "Global Optimization"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
+        "course_components": {
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "1.50"
+    }
+}

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This internal Medicine Clerkship component consists of three rotations: Internal Medicine Unit: A general internal medicine inpatient clinical teaching unit; Selective: A specialty service with an exposure to ambulatory medicine;Elective: Another specialty service.During this course students are encouraged to learn in depth about each patient and take responsibility for their care.", 
-        "number": "441", 
-        "subject": "MEDS", 
+        "description": "This internal Medicine Clerkship component consists of three rotations: Internal Medicine Unit: A general internal medicine inpatient clinical teaching unit; Selective: A specialty service with an exposure to ambulatory medicine;Elective: Another specialty service.During this course students are encouraged to learn in depth about each patient and take responsibility for their care.",
+        "number": "441",
+        "subject": "MEDS",
         "title": "Medicine"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall, Winter",
         "units": "6.00"
     }
 }

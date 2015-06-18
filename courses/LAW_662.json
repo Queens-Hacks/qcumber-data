@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The study of EU Law permits students to explore the features of the EU's legal order, which currently binds 27 European states. This legal framework, which has no equivalent at the international level, has given the EU considerable political and economic weight in the world. The course will address issues such as the legal rules governing the functioning of the EU, the fundamental principles which underpin the law of the EU, some of the substantive law in the EU such as the 'Four Freedoms' (freedom of movement of goods, persons, services and capital), and the decision-making procedures which affect the daily life of EU citizens. The course will also refer to the inherent tensions between national and EU interests and their interaction.", 
-        "number": "662", 
-        "subject": "LAW", 
+        "description": "The study of EU Law permits students to explore the features of the EU's legal order, which currently binds 27 European states. This legal framework, which has no equivalent at the international level, has given the EU considerable political and economic weight in the world. The course will address issues such as the legal rules governing the functioning of the EU, the fundamental principles which underpin the law of the EU, some of the substantive law in the EU such as the 'Four Freedoms' (freedom of movement of goods, persons, services and capital), and the decision-making procedures which affect the daily life of EU citizens. The course will also refer to the inherent tensions between national and EU interests and their interaction.",
+        "number": "662",
+        "subject": "LAW",
         "title": "European Union Law"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Spring", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Spring",
         "units": "3.00"
     }
 }

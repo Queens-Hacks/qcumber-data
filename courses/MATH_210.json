@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Integers, polynomials, modular arithmetic, rings, ideals, homomorphisms, quotient rings, division algorithm, greatest common divisors, Euclidean domains, unique factorization, fields, finite fields.\nNOTE\u00a0\u00a0\u00a0 Students with MATH 112/3.0 may ask for admission with the permissions of the Department.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)", 
-        "number": "210", 
-        "subject": "MATH", 
+        "description": "Integers, polynomials, modular arithmetic, rings, ideals, homomorphisms, quotient rings, division algorithm, greatest common divisors, Euclidean domains, unique factorization, fields, finite fields.\nNOTE\u00a0\u00a0\u00a0 Students with MATH 112/3.0 may ask for admission with the permissions of the Department.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)",
+        "number": "210",
+        "subject": "MATH",
         "title": "Rings and Fields"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH110 or 111 or (MATH112 with permission of the Department).\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH210; MATH211; MATH213; MATH217.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH110 or 111 or (MATH112 with permission of the Department).\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH210; MATH211; MATH213; MATH217.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

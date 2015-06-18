@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The objectives of this course include understanding theories and approaches to setting direction; assessing markets and rivalry. This course will develop students\u00bf skills in analyzing the environment in which the firm competes, as well as the capabilities of the firm itself. Beyond analysis, this course will also help students understand how to design a strategy.", 
-        "number": "907", 
-        "subject": "MGMT", 
-        "title": "Strategy Formulation"
-    }, 
+        "description": "This course provides a comprehensive overview of theoretical models and empirical studies that address the fundamental questions in strategic management research: Why do firms perform differently? Why are firms different? How do firms behave? What are firms' optimal boundaries? Each class will cover a different research stream within the strategic management field such as resource-based theory, knowledge-based view, behavioral theory of the firm, competitive dynamics, dynamic capabilities, alliance portfolios and networks, top management teams, real options theory and diversification strategy. Both seminal and more recent theoretical and empirical research will be discussed. The aim is to help students develop a mental model of the literature and to recognize interrelationships between different research streams. This course is intended for graduate students interested in conducting research in strategic management or related fields.",
+        "number": "907",
+        "subject": "MGMT",
+        "title": "Contemporary Issues in Strategic Management"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

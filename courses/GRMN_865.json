@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is designed to familiarize students with a representative selection of Goethe's poetry, drama, and prose works.\u00a0 Three term-hours; winter.\u00a0 A. Bohm.", 
-        "number": "865", 
-        "subject": "GRMN", 
+        "description": "This course is designed to familiarize students with a representative selection of Goethe's poetry, drama, and prose works.\u00a0 Three term-hours; winter.\u00a0 A. Bohm.",
+        "number": "865",
+        "subject": "GRMN",
         "title": "Goethe"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

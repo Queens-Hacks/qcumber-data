@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The molecular basis for virus pathogenesis including the host immune response to virus infection, and viral countermeasures. Emphasis will be on viral infections that result in gastrointestinal, haematological, neurological, and respiratory disease. Tutorials will focus on discussion of current and seminal literature. Offered jointly with MICR-452. Fall term. PREREQUISITES: MICR-221, MICR-360/860 or BMED-877 or equivalents.\u00a0\u00a0\u00a0 EXCLUSIONS: MICR-452, MICR-852*", 
-        "number": "852", 
-        "subject": "BMED", 
+        "description": "The molecular basis for virus pathogenesis including the host immune response to virus infection, and viral countermeasures. Emphasis will be on viral infections that result in gastrointestinal, haematological, neurological, and respiratory disease. Tutorials will focus on discussion of current and seminal literature. Offered jointly with MICR-452. Fall term. PREREQUISITES: MICR-221, MICR-360/860 or BMED-877 or equivalents.\u00a0\u00a0\u00a0 EXCLUSIONS: MICR-452, MICR-852*",
+        "number": "852",
+        "subject": "BMED",
         "title": "Virus Infection and Immunity"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
-            "Seminar": "Required", 
+            "Seminar": "Required",
             "Tutorial": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

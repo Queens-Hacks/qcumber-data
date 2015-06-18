@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course deals with subsurface contamination by hazardous industrial liquids such as PCB oils, gasoline, jet fuel, chlorinated solvents and coal tars. The fundamentals of multiphase/multicomponent flow and transport will be outlined followed by specific treatments of both dense and light non-aqueous phase liquids. The course will examine the subsurface distribution of these liquids, sampling and detection, clean-up technologies, regulatory aspects, and selected case histories. (CIVL-480 plus additional material.) Three term-hours.", 
-        "number": "880", 
-        "subject": "CIVL", 
+        "description": "This course deals with subsurface contamination by hazardous industrial liquids such as PCB oils, gasoline, jet fuel, chlorinated solvents and coal tars. The fundamentals of multiphase/multicomponent flow and transport will be outlined followed by specific treatments of both dense and light non-aqueous phase liquids. The course will examine the subsurface distribution of these liquids, sampling and detection, clean-up technologies, regulatory aspects, and selected case histories. (CIVL-480 plus additional material.) Three term-hours.",
+        "number": "880",
+        "subject": "CIVL",
         "title": "Subsurface Contamination"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

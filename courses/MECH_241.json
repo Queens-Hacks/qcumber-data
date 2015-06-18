@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introductory course in fluid mechanics. Topics include properties of fluids, fluids at rest, manometers and other pressure measuring devices, dimensional analysis, the laws of conservation of mass and momentum, Bernoulli's equation for incompressible flow and the energy equation, flow measurements, elementary pipe flow problems including losses, pumps, etc. On completion of the course students will be able to: Explain Bernoulli based energy equations with reference to energy and hydraulic grade lines, static and dynamic pressure; Explain control volume and control mass analysis with reference to Eulerian and Lagrangian frames, applied forces and flows; Solve simple flow systems for velocity distributions using continuity and Navier Stokes equations with appropriate boundary conditions; Solve flow and force problems in an integral framework using Bernoulli, conservation of mass and momentum; Solve piping system performance problems using Bernoulli with friction, minor losses, pump and turbine performance curves; Calculate pressures and forces on submerged surfaces in a static fluid; Solve scaling problems using dimensionless groups.", 
-        "number": "241", 
-        "subject": "MECH", 
+        "description": "An introductory course in fluid mechanics. Topics include properties of fluids, fluids at rest, manometers and other pressure measuring devices, dimensional analysis, the laws of conservation of mass and momentum, Bernoulli's equation for incompressible flow and the energy equation, flow measurements, elementary pipe flow problems including losses, pumps, etc. On completion of the course students will be able to: Explain Bernoulli based energy equations with reference to energy and hydraulic grade lines, static and dynamic pressure; Explain control volume and control mass analysis with reference to Eulerian and Lagrangian frames, applied forces and flows; Solve simple flow systems for velocity distributions using continuity and Navier Stokes equations with appropriate boundary conditions; Solve flow and force problems in an integral framework using Bernoulli, conservation of mass and momentum; Solve piping system performance problems using Bernoulli with friction, minor losses, pump and turbine performance curves; Calculate pressures and forces on submerged surfaces in a static fluid; Solve scaling problems using dimensionless groups.",
+        "number": "241",
+        "subject": "MECH",
         "title": "Fluid Mechanics I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 24, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 18, 
+            "Basic Sci": 24,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 18,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of APSC111 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of APSC111 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

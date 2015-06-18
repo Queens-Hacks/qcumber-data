@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Seminars offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each year.\nNOTE\u00a0\u00a0\u00a0 Taught concurrently with DEVS 805/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36S;96P)", 
-        "number": "495", 
-        "subject": "DEVS", 
+        "description": "Seminars offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each year.\nNOTE\u00a0\u00a0\u00a0 Taught concurrently with DEVS 805/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36S;96P)",
+        "number": "495",
+        "subject": "DEVS",
         "title": "Topics in Development Studies IV"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Prerequisite Level 4 and registration in DEVS MAJ or MED plan", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Prerequisite Level 4 and registration in DEVS MAJ or MED plan",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

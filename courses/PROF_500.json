@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "A vital part of student well-being is related to developing learning skills. Teacher candidates will explore\u00a0practical ways to help students learn how to manage authentic life situations (e.g. mental health and other topics).",
+        "number": "500",
+        "subject": "PROF",
+        "title": "Supporting Learning Skills"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "1.00"
+    }
+}

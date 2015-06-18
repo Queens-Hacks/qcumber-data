@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction to public economics with emphasis on public expenditure. The role of the public sector in the provision or regulation of private goods, public goods, shared goods, externalities and the redistribution of income. Deadweight loss and the marginal cost of public funds. Fiscal federalism.", 
-        "number": "840", 
-        "subject": "ECON", 
+        "description": "Introduction to public economics with emphasis on public expenditure. The role of the public sector in the provision or regulation of private goods, public goods, shared goods, externalities and the redistribution of income. Deadweight loss and the marginal cost of public funds. Fiscal federalism.",
+        "number": "840",
+        "subject": "ECON",
         "title": "Public Economics I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

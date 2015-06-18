@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "A critical essay of at least 7500 words on a topic of the student's choice, written under the supervision of a faculty member.", 
-        "number": "510", 
-        "subject": "RELS", 
+        "description": "A critical essay of at least 7500 words on a topic of the student's choice, written under the supervision of a faculty member.",
+        "number": "510",
+        "subject": "RELS",
         "title": "Honours Essay"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Reading": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 and registration in a RELS MAJ Plan and permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 and registration in a RELS MAJ Plan and permission of the Department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

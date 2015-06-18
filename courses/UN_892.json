@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "UNENE course number = UN 0902 Nuclear fuel cycles are studied from mining to ultimate disposal of the spent fuel, including the enrichment processes and the reprocessing techniques, from a point of view of the decision-making processes and the evaluation of the operational and economical consequences of these decisions. For the steps within the fuel cycles, the method of determining the associated costs, in particular those relevant to the disposal of nuclear waste, and the overall fuel cycle costs are described. Burn-up calculations are performed for the swelling time of the fuel within the reactor core. The objectives and merits of in-core and out-of-core fuel management for CANDU Pressurized Heavy Water Reactors (PHWR) and Light Water Reactors (LWR) are analyzed in detail, for the refueling equilibrium as well as for the approach to refueling equilibrium. The course also covers fuel management for thorium-fuelled CANDU reactors and other advanced fuels such as MOX containing plutonium from discarded nuclear warheads, and DUPIC (Direct Use of PWR fuel in CANDU reactors). The fuel management problem is treated as an optimization problem, with objective functions or performance indexes identified, as well as decision variables and appropriate constraints (active and non-active). The course also includes a review of the major work done in this area along with the most important computer codes. Queen\u00bfs University/ H. Bonin", 
-        "number": "892", 
-        "subject": "UN", 
+        "description": "UNENE course number = UN 0902 Nuclear fuel cycles are studied from mining to ultimate disposal of the spent fuel, including the enrichment processes and the reprocessing techniques, from a point of view of the decision-making processes and the evaluation of the operational and economical consequences of these decisions. For the steps within the fuel cycles, the method of determining the associated costs, in particular those relevant to the disposal of nuclear waste, and the overall fuel cycle costs are described. Burn-up calculations are performed for the swelling time of the fuel within the reactor core. The objectives and merits of in-core and out-of-core fuel management for CANDU Pressurized Heavy Water Reactors (PHWR) and Light Water Reactors (LWR) are analyzed in detail, for the refueling equilibrium as well as for the approach to refueling equilibrium. The course also covers fuel management for thorium-fuelled CANDU reactors and other advanced fuels such as MOX containing plutonium from discarded nuclear warheads, and DUPIC (Direct Use of PWR fuel in CANDU reactors). The fuel management problem is treated as an optimization problem, with objective functions or performance indexes identified, as well as decision variables and appropriate constraints (active and non-active). The course also includes a review of the major work done in this area along with the most important computer codes. Queen\u00bfs University/ H. Bonin",
+        "number": "892",
+        "subject": "UN",
         "title": "Fuel Management"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

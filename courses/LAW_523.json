@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "523", 
-        "subject": "LAW", 
-        "title": "Personal Income Security"
-    }, 
+        "description": "What is the historical significance of the Universal Declaration of Human Rights?\u00a0\u00a0 Does the UDHR reflect a tradition of western values alien to other cultural traditions or does it have antecedents in many different cultures, antecedents that justify the use of the term 'universal?'\u00a0 In this course these questions will be considered as will the possibility that the UDHR actually marks a new beginning, as much a challenge to traditional western values as it is to the values of other traditions.\u00a0 These questions will be explored by examining the histories of the various rights and freedoms brought together in the UDHR.\u00a0",
+        "number": "523",
+        "subject": "LAW",
+        "title": "History of Human Rights"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
-            "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+            "Seminar": "Required"
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

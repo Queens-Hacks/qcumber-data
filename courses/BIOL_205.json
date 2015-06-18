@@ -1,26 +1,27 @@
 {
     "basic": {
-        "description": "An introduction to Mendelian and molecular genetics covering the basic mechanisms of genetic transmission, gene structure and function, as well as the application of molecular genetics in medicine and biotechnology. \nNOTE\u00a0\u00a0\u00a0 Lab Manual: estimated cost $15.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;12O;36P)", 
-        "number": "205", 
-        "subject": "BIOL", 
+        "description": "An introduction to Mendelian and molecular genetics covering the basic mechanisms of genetic transmission, gene structure and function, as well as the application of molecular genetics in medicine and biotechnology. \nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;12O;36P)",
+        "number": "205",
+        "subject": "BIOL",
         "title": "Mendelian and Molecular Genetics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 42, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 42,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A GPA of 1.90 in BIOL102 and BIOL103.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A GPA of 1.90 in BIOL102 and BIOL103.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

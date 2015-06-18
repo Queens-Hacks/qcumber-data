@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is designed to equip graduate students with modern research techniques in Cell and Molecular Biology.\u00a0 This intense 2-week course consists of 2-3 hours of lecture and 6-8 hours hands-on laboratory exercise per day.\u00a0 Techniques include light microscopy and immunohistochemistry, electron microscopy and immunocytochemistry, RNA, DNA and protein isolation, Northern and Western blot analysis, probe design, and conventional and realtime PCR.\u00a0 Summer Term in odd years. S.C. Pang\u00a0\u00a0 EXCLUSION: ANAT-840*", 
-        "number": "830", 
-        "subject": "BMED", 
+        "description": "This course is designed to equip graduate students with modern research techniques in Cell and Molecular Biology.\u00a0 This intense 2-week course consists of 2-3 hours of lecture and 6-8 hours hands-on laboratory exercise per day.\u00a0 Techniques include light microscopy and immunohistochemistry, electron microscopy and immunocytochemistry, RNA, DNA and protein isolation, Northern and Western blot analysis, probe design, and conventional and realtime PCR.\u00a0 Summer Term in odd years. S.C. Pang\u00a0\u00a0 EXCLUSION: ANAT-840*",
+        "number": "830",
+        "subject": "BMED",
         "title": "Research Techniques in Cell and Molecular Biology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

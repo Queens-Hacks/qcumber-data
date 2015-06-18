@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Guidance in the development of the student as a composer for instruments and voice. Enrolment is limited.", 
-        "number": "351B", 
-        "subject": "MUSC", 
+        "description": "Guidance in the development of the student as a composer for instruments and voice. Enrolment is limited.",
+        "number": "351B",
+        "subject": "MUSC",
         "title": "Acoustic Composition"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Laboratory": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

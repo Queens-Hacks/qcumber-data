@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Seminar courses on topics in Spanish literature. Course details to be announced on website.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36S;84P)", 
-        "number": "501", 
-        "subject": "SPAN", 
+        "description": "Seminar courses on topics in Spanish literature. Course details to be announced on website.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36S;84P)",
+        "number": "501",
+        "subject": "SPAN",
         "title": "Literatura de Espa\u00f1a: Temas espec\u00edficos"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

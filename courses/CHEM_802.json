@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Based on the regular departmental seminar program offered during the fall and winter, this non-credit course is to be taken every year by all Ph.D. students once they have completed CHEM-803*. As part of this course students must attend a minimum number of departmental seminars as well as present one seminar on their research prior to their thesis submission. Fall/Winter.\u00a0D. Pratt (Seminar\u00a0Coordinator) <a href=\"http://www.chem.queensu.ca/chemistryN/About/seminarseriesN.asp\">http://www.chem.queensu.ca/chemistryN/About/seminarseriesN.asp", 
-        "number": "802", 
-        "subject": "CHEM", 
+        "description": "Based on the regular departmental seminar program offered during the fall and winter, this non-credit course is to be taken every year by all Ph.D. students once they have completed CHEM-803*. As part of this course students must attend a minimum number of departmental seminars as well as present one seminar on their research prior to their thesis submission. Fall/Winter.\u00a0D. Pratt (Seminar\u00a0Coordinator) <a href=\"http://www.chem.queensu.ca/chemistryN/About/seminarseriesN.asp\">http://www.chem.queensu.ca/chemistryN/About/seminarseriesN.asp",
+        "number": "802",
+        "subject": "CHEM",
         "title": "Chemistry Seminar Program"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall, Winter",
         "units": "3.00"
     }
 }

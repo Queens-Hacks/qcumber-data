@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Overview of techniques for the performance evaluation of computer systems and networks. Discrete event digital simulation of stochastic processes. Simulation methodology. Design of simulation experiments. Analysis and validation of simulation models and results. Operational analysis.", 
-        "number": "476", 
-        "subject": "ELEC", 
+        "description": "Overview of techniques for the performance evaluation of computer systems and networks. Discrete event digital simulation of stochastic processes. Simulation methodology. Design of simulation experiments. Analysis and validation of simulation models and results. Operational analysis.",
+        "number": "476",
+        "subject": "ELEC",
         "title": "Modelling & Systems Simulation"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 30, 
-            "Eng Sci": 12, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 30,
+            "Eng Sci": 12,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ELEC326 or STAT351 and registered in a BSCE Academic Program or an SODE-P-BCH Academic Plan.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of ELEC326 or STAT351 and registered in a BSCE Academic Program or an SODE-P-BCH Academic Plan.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the kinetics and mechanisms of reactions in gaseous and condensed phases, including acid-base and nucleophilic substitution reactions at carbon and other main group centers. Other topics will include molecular dynamics and reactions in solution. The laboratory illustrates measurement techniques and develops laboratory skills. \nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $20.\nLEARNING HOURS\u00a0\u00a0\u00a0 126 (36L;18Lb;72P)", 
-        "number": "212", 
-        "subject": "CHEM", 
+        "description": "An introduction to the kinetics and mechanisms of reactions in gaseous and condensed phases, including acid-base and nucleophilic substitution reactions at carbon and other main group centers. Other topics will include molecular dynamics and reactions in solution. The laboratory illustrates measurement techniques and develops laboratory skills. \nLEARNING HOURS\u00a0\u00a0\u00a0 126 (36L;18Lb;72P)",
+        "number": "212",
+        "subject": "CHEM",
         "title": "Principles of Chemical Reactivity"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CHEM112 or CHEM116 & 6.0 units from first-year MATH & (APSC111 & APSC112 & APSC131)\r\nEXCLUSION\u00a0 No more than 3.0 units from CHEM212/3.0; CHEM281/3.0", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of CHEM112 or CHEM116 & 6.0 units from first-year MATH & (APSC111 & APSC112 & APSC131)\r\nEXCLUSION\u00a0 No more than 3.0 units from CHEM212/3.0; CHEM281/3.0",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Quantum mechanical treatment of two and three dimensional systems. The hydrogen atom.\u00a0Spin.\u00a0Many electron atoms and the periodic table.\u00a0Introduction to perturbation theory and Fermi's golden rule.\u00a0Introduction to nuclear and particle physics.", 
-        "number": "345", 
-        "subject": "PHYS", 
+        "description": "Quantum mechanical treatment of two and three dimensional systems. The hydrogen atom.\u00a0Spin.\u00a0Many electron atoms and the periodic table.\u00a0Introduction to perturbation theory and Fermi's golden rule.\u00a0Introduction to nuclear and particle physics.",
+        "number": "345",
+        "subject": "PHYS",
         "title": "Quantum Physics of Atoms, Nuclei and Particles"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHYS344.\r\nEquivalency\u00a0\u00a0\u00a0 PHYS424.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHYS344.\r\nEquivalency\u00a0\u00a0\u00a0 PHYS424.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

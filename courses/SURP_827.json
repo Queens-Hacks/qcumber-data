@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Learning Materials and fees approximately $500-$1000, plus transportation and living expenses. (6.0 credit units) PREREQUISITE: Permission of Instructor", 
-        "number": "827", 
-        "subject": "SURP", 
+        "description": "Learning Materials and fees approximately $500-$1000, plus transportation and living expenses. (6.0 credit units) PREREQUISITE: Permission of Instructor",
+        "number": "827",
+        "subject": "SURP",
         "title": "International Planning Project"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Project": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "6.00"
     }
 }

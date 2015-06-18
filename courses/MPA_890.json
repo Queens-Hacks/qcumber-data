@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This non-credit program allows students to combine their formal academic studies with on-the-job experience, normally through a four-month placement with a government department or other public sector organization. The internship is normally scheduled in the fall term, following a student's completion of three terms of academic study and open only to students registered in the MPA Full-time program.", 
-        "number": "890", 
-        "subject": "MPA", 
+        "description": "This non-credit program allows students to combine their formal academic studies with on-the-job experience, normally through a four-month placement with a government department or other public sector organization. The internship is normally scheduled in the fall term, following a student's completion of three terms of academic study and open only to students registered in the MPA Full-time program.",
+        "number": "890",
+        "subject": "MPA",
         "title": "Internship"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

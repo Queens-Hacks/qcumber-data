@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Overview of mammalian development, emphasizing the cellular and molecular mechanisms that direct embryogenesis. The first 2/3 of the course consists of lectures on gastrulation, neurulation, establishment of the body axes, differentiation, sex determination, limb development, and organogenesis. The last 1/3 of the course involves student seminar presentations and group discussions of current topics in developmental biology and teratology. Offered jointly with ANAT-417*. Students submit a major essay and give a seminar from a selected list of topics.\u00a0 Three hours of lectures/seminars per week. Winter term. C.W. Reifel\nPREREQUISITE: ANAT-416/ANAT-816*, or BMED-816*, or permission of the Department. EXCLUSION: ANAT-817*", 
-        "number": "817", 
-        "subject": "BMED", 
+        "description": "Overview of mammalian development, emphasizing the cellular and molecular mechanisms that direct embryogenesis. The first 2/3 of the course consists of lectures on gastrulation, neurulation, establishment of the body axes, differentiation, sex determination, limb development, and organogenesis. The last 1/3 of the course involves student seminar presentations and group discussions of current topics in developmental biology and teratology. Offered jointly with ANAT-417*. Students submit a major essay and give a seminar from a selected list of topics.\u00a0 Three hours of lectures/seminars per week. Winter term. C.W. Reifel\nPREREQUISITE: ANAT-416/ANAT-816*, or BMED-816*, or permission of the Department. EXCLUSION: ANAT-817*",
+        "number": "817",
+        "subject": "BMED",
         "title": "Mammalian Embryonic Development"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

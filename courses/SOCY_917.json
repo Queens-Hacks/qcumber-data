@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This is a graduate level course designed to provide a solid and comprehensive training in quantitative methods employed extensively in the Social Sciences in general and Sociology in particular.\u00a0 It is planned not only to prepare students to carry out and interpret research using a variety of statistical methods but\u00a0 also to acquaint students with problems that arise with the use of these models.\u00a0 The course goes beyond OLS to cover binary logit and probit models,\u00a0 multinomial and ordered logit models, selection models and count data models (Poisson, Negative Binomial and Zero Inflated Poisson). Three term-hours; fall.\u00a0 S. Gyimah.", 
-        "number": "917", 
-        "subject": "SOCY", 
+        "description": "This is a graduate level course designed to provide a solid and comprehensive training in quantitative methods employed extensively in the Social Sciences in general and Sociology in particular.\u00a0 It is planned not only to prepare students to carry out and interpret research using a variety of statistical methods but\u00a0 also to acquaint students with problems that arise with the use of these models.\u00a0 The course goes beyond OLS to cover binary logit and probit models,\u00a0 multinomial and ordered logit models, selection models and count data models (Poisson, Negative Binomial and Zero Inflated Poisson). Three term-hours; fall.\u00a0 S. Gyimah.",
+        "number": "917",
+        "subject": "SOCY",
         "title": "Quantitative Methodology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

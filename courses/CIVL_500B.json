@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Working closely with a faculty member, students will conduct research on a civil engineering or related applied science topic. Students will: identify a problem; formulate a research question; and devise and implement a research plan. The nature of the research may involve obtaining experimental measurements, performing field testing and/or numerical analysis, and analysing and interpreting research results. Students will prepare a comprehensive, written technical report and will defend their research in an oral examination. Registration is limited to a maximum of twenty (20) students. (PPE will be required for this course at student's cost (see course materials for details).", 
-        "number": "500B", 
-        "subject": "CIVL", 
+        "description": "Working closely with a faculty member, students will conduct research on a civil engineering or related applied science topic. Students will: identify a problem; formulate a research question; and devise and implement a research plan. The nature of the research may involve obtaining experimental measurements, performing field testing and/or numerical analysis, and analysing and interpreting research results. Students will prepare a comprehensive, written technical report and will defend their research in an oral examination. Registration is limited to a maximum of twenty (20) students. (PPE will be required for this course at student's cost (see course materials for details).",
+        "number": "500B",
+        "subject": "CIVL",
         "title": "Civil Engineering Thesis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 24, 
-            "Eng Des": 0, 
-            "Eng Sci": 24, 
+            "Basic Sci": 0,
+            "Comp St": 24,
+            "Eng Des": 0,
+            "Eng Sci": 24,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "4.00"
     }
 }

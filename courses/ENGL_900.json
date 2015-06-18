@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course is designed to acquaint doctoral students with some aspects of the teaching and scholarly skills and responsibilities of university faculty in order to prepare them for an academic career. In addition to practical training in essay marking, lecturing techniques and other teaching methods, the course will offer training in bibliographical and archival research, grant application, the academic job market, and other practical aspects of the professional study of literature. The course will consist of a number of seminars and workshops geared to the particular stage of the student\u00bfs progress over three years in the program.", 
-        "number": "900", 
-        "subject": "ENGL", 
+        "description": "This course is designed to acquaint doctoral students with some aspects of the teaching and scholarly skills and responsibilities of university faculty in order to prepare them for an academic career. In addition to practical training in essay marking, lecturing techniques and other teaching methods, the course will offer training in bibliographical and archival research, grant application, the academic job market, and other practical aspects of the professional study of literature. The course will consist of a number of seminars and workshops geared to the particular stage of the student\u00bfs progress over three years in the program.",
+        "number": "900",
+        "subject": "ENGL",
         "title": "Prof. & Pedagogical Skills II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall, Winter",
         "units": "0.00"
     }
 }

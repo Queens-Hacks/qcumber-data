@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to computer software consistent with modern professional practice of statistics. Use of the statistical package SAS and S-PLUS. Given jointly with STAT 862/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "462", 
-        "subject": "STAT", 
+        "description": "An introduction to computer software consistent with modern professional practice of statistics. Use of the statistical package SAS and S-PLUS. Given jointly with STAT 862/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "462",
+        "subject": "STAT",
         "title": "Computational Data Analysis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 STAT361 or ECON351 or permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 STAT361 or ECON351 or permission of the Department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

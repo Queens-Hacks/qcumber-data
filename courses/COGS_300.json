@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Systems and techniques for developing computational models of human cognitive processes. Symbolic artificial-intelligence and neural-network approaches. Students will become familiar with the programming language LISP, and use it in implementing some aspects of cognitive models.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;18T;66P)", 
-        "number": "300", 
-        "subject": "COGS", 
+        "description": "Systems and techniques for developing computational models of human cognitive processes. Symbolic artificial-intelligence and neural-network approaches. Students will become familiar with the programming language LISP, and use it in implementing some aspects of cognitive models.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;18T;66P)",
+        "number": "300",
+        "subject": "COGS",
         "title": "Programming Cognitive Models"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (COGS201 or COGS200 or PSYC220) and CISC352, or permission of the School.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (COGS201 or COGS200 or PSYC220) and CISC352, or permission of the School.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

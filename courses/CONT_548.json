@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "548", 
-        "subject": "CONT", 
+        "description": "",
+        "number": "548",
+        "subject": "CONT",
         "title": "Slow Learner (B)"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Non-Credit", 
+        },
+        "career": "Non-Credit",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Wave description of matter. Schrodinger equation, angular momentum, tunneling. Application to atomic structure, spectra, the electron gas and quantum systems. (4/28/0/4/0)~ COURSE DELETED IN 2008/09 ~", 
-        "number": "343", 
-        "subject": "ENPH", 
+        "description": "Wave description of matter. Schrodinger equation, angular momentum, tunneling. Application to atomic structure, spectra, the electron gas and quantum systems. (4/28/0/4/0)~ COURSE DELETED IN 2008/09 ~",
+        "number": "343",
+        "subject": "ENPH",
         "title": "Wave Mechanics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 28, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 4, 
+            "Basic Sci": 28,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 4,
             "Math": 4
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "(PHYS211 AND PHYS342) OR (PHYS211 AND MATH227) OR (PHYS211 AND MATH226) OR (PHYS211 AND PHYS342) OR (PHYS211 AND MATH237) OR (PHYS211 AND MATH227) OR (PHYS212 AND PHYS242) OR (PHYS212 AND MATH231) OR (PHYS212 AND MATH221) OR (PHYS212 AND MATH227) OR (PHY", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "(PHYS211 AND PHYS342) OR (PHYS211 AND MATH227) OR (PHYS211 AND MATH226) OR (PHYS211 AND PHYS342) OR (PHYS211 AND MATH237) OR (PHYS211 AND MATH227) OR (PHYS212 AND PHYS242) OR (PHYS212 AND MATH231) OR (PHYS212 AND MATH221) OR (PHYS212 AND MATH227) OR (PHY",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

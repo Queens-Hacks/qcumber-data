@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A study of foundation design methods including stress distribution, slope stability, lateral earth pressure, retaining walls, braced walls, anchors, ultimate bearing capacity, foundation design, and piles. (0/0/0/12/36)~ COURSE DELETED IN 2008/09 ~", 
-        "number": "342", 
-        "subject": "CIVL", 
+        "description": "A study of foundation design methods including stress distribution, slope stability, lateral earth pressure, retaining walls, braced walls, anchors, ultimate bearing capacity, foundation design, and piles. (0/0/0/12/36)~ COURSE DELETED IN 2008/09 ~",
+        "number": "342",
+        "subject": "CIVL",
         "title": "Geotechnical Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 36, 
-            "Eng Sci": 12, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 36,
+            "Eng Sci": 12,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL340 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL340 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

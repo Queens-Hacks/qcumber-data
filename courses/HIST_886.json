@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This graduate seminar examines topics in the political, social, economic, cultural and intellectual history of Early Modern Europe from the Renaissance to the French Revolution.\u00a0 Topics may include the rise of the modern state, the age of exploration and colonialism, revolution, gender and sexuality, intellectual and religious life, and economic transformation.\u00a0 Fall and winter. J. Collins/A. D'Elia.", 
-        "number": "886", 
-        "subject": "HIST", 
+        "description": "This graduate seminar examines topics in the political, social, economic, cultural and intellectual history of Early Modern Europe from the Renaissance to the French Revolution.\u00a0 Topics may include the rise of the modern state, the age of exploration and colonialism, revolution, gender and sexuality, intellectual and religious life, and economic transformation.\u00a0 Fall and winter. J. Collins/A. D'Elia.",
+        "number": "886",
+        "subject": "HIST",
         "title": "Topics in Early Modern Europe I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Formulation and solution of some industrial and business problems using mathematical models. Review of probability. Markov chains and applications to inventory problems. Introduction to queuing theory and applications. Machine maintenance planning; optimal number of servers. Simulation and Monte Carlo methods. Reliability and replacement problems. Inventory and production planning problems. One, or possibly two, topics chosen from constrained optimization, network flow analysis and dynamic programming.", 
-        "number": "337", 
-        "subject": "MTHE", 
+        "description": "Formulation and solution of some industrial and business problems using mathematical models. Review of probability. Markov chains and applications to inventory problems. Introduction to queuing theory and applications. Machine maintenance planning; optimal number of servers. Simulation and Monte Carlo methods. Reliability and replacement problems. Inventory and production planning problems. One, or possibly two, topics chosen from constrained optimization, network flow analysis and dynamic programming.",
+        "number": "337",
+        "subject": "MTHE",
         "title": "Intro. To Operations Research"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 9, 
-            "Eng Sci": 9, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 9,
+            "Eng Sci": 9,
             "Math": 18
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: STAT 256 or MTHE 267 or STAT 267 or equivalent. Must also be registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQ: STAT 256 or MTHE 267 or STAT 267 or equivalent. Must also be registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

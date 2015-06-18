@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An examination of major issues in the philosophy of science. Possible topics to be considered include explanation, realism versus instrumentalism scientific progress, the social dimensions of science and the unity of the sciences.", 
-        "number": "470", 
-        "subject": "PHIL", 
+        "description": "An examination of major issues in the philosophy of science. Possible topics to be considered include explanation, realism versus instrumentalism scientific progress, the social dimensions of science and the unity of the sciences.",
+        "number": "470",
+        "subject": "PHIL",
         "title": "Topics in Philosophy of Science"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 and registration in a PHIL Major or Medial Plan and (a minimum GPA of 2.60 in PHIL250 and PHIL257) and (6.0 units in PHIL).", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 and registration in a PHIL Major or Medial Plan and (a minimum GPA of 2.60 in PHIL250 and PHIL257) and (6.0 units in PHIL).",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

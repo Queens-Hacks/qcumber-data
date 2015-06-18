@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "333", 
-        "subject": "MINE", 
+        "description": "",
+        "number": "333",
+        "subject": "MINE",
         "title": "Review Of Flotation"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Must be registered in a BSCE program", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.50"
     }
 }

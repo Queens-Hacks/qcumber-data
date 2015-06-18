@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Configuration space, generalized coordinates, Euler-Lagrange equations. Forces: dissipative, potential. Simple mechanical control systems: modeling, linearization about equilibrium points, linear controllability tests; equivalence with kinematic systems and trajectory generation. (Offered jointly with MATH 439). Three term hours, fall or winter; lectures.", 
-        "number": "836", 
-        "subject": "MATH", 
+        "description": "Configuration space, generalized coordinates, Euler-Lagrange equations. Forces: dissipative, potential. Simple mechanical control systems: modeling, linearization about equilibrium points, linear controllability tests; equivalence with kinematic systems and trajectory generation. (Offered jointly with MATH 439). Three term hours, fall or winter; lectures.",
+        "number": "836",
+        "subject": "MATH",
         "title": "Lagrangian Mechanics. Dynamics & Control"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

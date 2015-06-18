@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "(Fall-Winter Technological Education candidates only).\u00a0 Provides an introduction to the theoretical underpinnings of teaching and learning in technological education. Using creative activity to promote high school students' intellectual growth is a particular focus of readings and discussions. Course activities provide opportunities to combine knowledge from educational research with experience in order to promote, and assess, quality student learning and to develop an informed approach to professional practice.", 
-        "number": "361", 
-        "subject": "CURR", 
+        "description": "(Fall-Winter Technological Education candidates only).\u00a0 Provides an introduction to the theoretical underpinnings of teaching and learning in technological education. Using creative activity to promote high school students' intellectual growth is a particular focus of readings and discussions. Course activities provide opportunities to combine knowledge from educational research with experience in order to promote, and assess, quality student learning and to develop an informed approach to professional practice.",
+        "number": "361",
+        "subject": "CURR",
         "title": "Teaching Tech Ed, Pt 2"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

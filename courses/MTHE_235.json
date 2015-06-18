@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "First order differential equations, linear differential equations with constant coefficients. Laplace transforms. Systems of linear differential equations. Introduction to numerical methods for ODEs. Examples involving the use of differential equations in solving circuits will be presented.", 
-        "number": "235", 
-        "subject": "MTHE", 
+        "description": "First order differential equations, linear differential equations with constant coefficients. Laplace transforms. Systems of linear differential equations. Introduction to numerical methods for ODEs. Examples involving the use of differential equations in solving circuits will be presented.",
+        "number": "235",
+        "subject": "MTHE",
         "title": "Diff Equations For Elec & Comp"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 9, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 9,
             "Math": 27
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: APSC 171, APSC 172, APSC 174 and registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQ: APSC 171, APSC 172, APSC 174 and registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

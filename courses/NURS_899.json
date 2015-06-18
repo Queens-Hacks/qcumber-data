@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A research endeavour conducted under the guidance of a thesis supervisor. The thesis will be completed and the student examined in accordance with the regulations of the School of Graduate Studies and Research.", 
-        "number": "899", 
-        "subject": "NURS", 
+        "description": "A research endeavour conducted under the guidance of a thesis supervisor. The thesis will be completed and the student examined in accordance with the regulations of the School of Graduate Studies and Research.",
+        "number": "899",
+        "subject": "NURS",
         "title": "Master's Thesis Reseach"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Project": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall, Winter, Summer", 
+        },
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall, Winter, Summer",
         "units": "6.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Algorithms for solving systems of nonlinear equations, applications in geometry, algebra, and other areas; Gr\u00f6bner basis methods. Labs use software such as CoCoA or Macaulay 2. (Offered jointly with MATH-413). Three term-hours, fall or winter; lectures.", 
-        "number": "813", 
-        "subject": "MATH", 
-        "title": "Comput'l Commutative Algebra"
-    }, 
+        "description": "An introduction to the study of systems of polynomial equations in one or more variables.\u00a0 Topics covered include the Hilbert basis theorem, the Nullstellenstaz, the dictionary between ideals and affine varieties, and projective geometry (Offered jointly with MATH 413).",
+        "number": "813",
+        "subject": "MATH",
+        "title": "Introduction to Algebraic Geometry"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

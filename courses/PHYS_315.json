@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course relates observable quantities to the physical properties of astronomical sources thereby deciphering the varied nature of the cosmos. Basic physical processes in astrophysics are discussed and applied to diverse systems including planets, stars, the interstellar medium and distant galaxies. Topics include radiative transfer and the perturbation of the signal by instruments, the atmosphere, and the interstellar medium. The main astrophysical emission processes, both continuum and line, are also presented. An evening project using the on-campus observatory will be carried out during the term.", 
-        "number": "315", 
-        "subject": "PHYS", 
+        "description": "This course relates observable quantities to the physical properties of astronomical sources thereby deciphering the varied nature of the cosmos. Basic physical processes in astrophysics are discussed and applied to diverse systems including planets, stars, the interstellar medium and distant galaxies. Topics include radiative transfer and the perturbation of the signal by instruments, the atmosphere, and the interstellar medium. The main astrophysical emission processes, both continuum and line, are also presented. An evening project using the on-campus observatory will be carried out during the term.",
+        "number": "315",
+        "subject": "PHYS",
         "title": "Physical Processes in Astrophysics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PHYS216 and PHYS242, or permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PHYS216 and PHYS242, or permission of the Department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "", 
-        "number": "UNSP", 
-        "subject": "TECH", 
+        "description": "",
+        "number": "UNSP",
+        "subject": "TECH",
         "title": "Technical Electives"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Non-Graded Component", 
+        },
+        "grading_basis": "Non-Graded Component",
         "units": "6.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduction to Limit States Design, load paths. Dead and live loads for design as specified in the National Building Code of Canada. Design assumptions regarding material properties of structural steel. Design of tension members; bolted connections; design of simple columns; design of beams (laterally supported and laterally unsupported) for flexure and shear; design of bearing stiffeners; design of steel-concrete composite beams; stability analysis; design of beam-columns. Sustainability for building materials; introduction to LEED.", 
-        "number": "331", 
-        "subject": "CIVL", 
+        "description": "Introduction to Limit States Design, load paths. Dead and live loads for design as specified in the National Building Code of Canada. Design assumptions regarding material properties of structural steel. Design of tension members; bolted connections; design of simple columns; design of beams (laterally supported and laterally unsupported) for flexure and shear; design of bearing stiffeners; design of steel-concrete composite beams; stability analysis; design of beam-columns. Sustainability for building materials; introduction to LEED.",
+        "number": "331",
+        "subject": "CIVL",
         "title": "Structural Steel Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 36, 
-            "Eng Sci": 12, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 36,
+            "Eng Sci": 12,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL330 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL330 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

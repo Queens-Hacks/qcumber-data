@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course aims to perfect the students' ability to write and speak in Spanish, with intensive practice of advanced Spanish grammatical structures through translation exercises, as well as compositions and oral work.", 
-        "number": "401", 
-        "subject": "SPAN", 
+        "description": "This course aims to perfect the students' ability to write and speak in Spanish, with intensive practice of advanced Spanish grammatical structures through translation exercises, as well as compositions and oral work.",
+        "number": "401",
+        "subject": "SPAN",
         "title": "Advanced Grammar Through Translation I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 SPAN302 or SPAN304 or permission of the Department of Languages, Literatures and Cultures.\r\nOne Way Exclusion\u00a0\u00a0\u00a0 May not be taken with or after SPAN402.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 SPAN302 or SPAN304 or permission of the Department of Languages, Literatures and Cultures.\r\nOne Way Exclusion\u00a0\u00a0\u00a0 May not be taken with or after SPAN402.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

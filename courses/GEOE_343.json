@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Development of the equations governing flow and transport; sensitivity to sub-surface complexities. Field instrumentation, installation and sampling protocols, elements of groundwater investigation. Assessment of measurement techniques and interpretation of fundamental hydrogeological properties. Groundwater occurrence, flow system analysis, with a focus on designing extraction schemes. During the required field activities, students investigate a groundwater problem by taking measurements to be reduced and interpreted in report form. Given jointly with GEOL 833.", 
-        "number": "343", 
-        "subject": "GEOE", 
+        "description": "Development of the equations governing flow and transport; sensitivity to sub-surface complexities. Field instrumentation, installation and sampling protocols, elements of groundwater investigation. Assessment of measurement techniques and interpretation of fundamental hydrogeological properties. Groundwater occurrence, flow system analysis, with a focus on designing extraction schemes. During the required field activities, students investigate a groundwater problem by taking measurements to be reduced and interpreted in report form. Given jointly with GEOL 833.",
+        "number": "343",
+        "subject": "GEOE",
         "title": "Applied Hydrogeology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 12, 
-            "Comp St": 0, 
-            "Eng Des": 15, 
-            "Eng Sci": 18, 
+            "Basic Sci": 12,
+            "Comp St": 0,
+            "Eng Des": 15,
+            "Eng Sci": 18,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: Completion of 2nd year Geological Engineering or permission of the department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: Completion of 2nd year Geological Engineering or permission of the department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.75"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An advanced but non-relativistic discussion of classical electromagnetic theory intended for students in applied/engineering physics and condensed matter physics and with an emphasis on the generation and propagation of electromagnetic waves. Topics include polarization, multipoles and electromagnetic fields in macroscopic media, diffraction theory, simple radiating systems, and the propagation of waves in dispersive media and plasmas. Additional topics may include guided waves, nonlinear optics, and the optics ofanisotropic media.", 
-        "number": "831", 
-        "subject": "PHYS", 
+        "description": "An advanced but non-relativistic discussion of classical electromagnetic theory intended for students in applied/engineering physics and condensed matter physics and with an emphasis on the generation and propagation of electromagnetic waves. Topics include polarization, multipoles and electromagnetic fields in macroscopic media, diffraction theory, simple radiating systems, and the propagation of waves in dispersive media and plasmas. Additional topics may include guided waves, nonlinear optics, and the optics ofanisotropic media.",
+        "number": "831",
+        "subject": "PHYS",
         "title": "Electromagnetic Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

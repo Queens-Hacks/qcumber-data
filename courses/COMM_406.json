@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "", 
-        "number": "406", 
-        "subject": "COMM", 
+        "description": "",
+        "number": "406",
+        "subject": "COMM",
         "title": "E-Commerce Strategy"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "(Prerequisite of COMM401 and registered in a BCOM Academic Program and have a level equal to 4) or registered in a COMM-X Academic Plan.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "(Prerequisite of COMM401 and registered in a BCOM Academic Program and have a level equal to 4) or registered in a COMM-X Academic Plan.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

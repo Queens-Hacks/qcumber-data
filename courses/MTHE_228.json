@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Complex arithmetic, complex plane. Differentiation, analytic functions. Elementary functions. Contour integration, Cauchy's Theorem, and Integral Formula. Taylor and Laurent series, residues with applications to evaluation of integrals.", 
-        "number": "228", 
-        "subject": "MTHE", 
+        "description": "Complex arithmetic, complex plane. Differentiation, analytic functions. Elementary functions. Contour integration, Cauchy's Theorem, and Integral Formula. Taylor and Laurent series, residues with applications to evaluation of integrals.",
+        "number": "228",
+        "subject": "MTHE",
         "title": "Complex Analysis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 42
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: APSC 171, APSC 172, APSC 174, and registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: APSC 171, APSC 172, APSC 174, and registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

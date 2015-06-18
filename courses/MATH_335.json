@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Linear input/output systems and their stability. Frequency-domain and time-domain analysis. Continuous and discrete time-modeling. Fourier, Laplace, and Z-transforms. Sampling and the discrete-time Fourier transform. Application to modulation of communications signals, filter design, and digital sampling.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)", 
-        "number": "335", 
-        "subject": "MATH", 
+        "description": "Linear input/output systems and their stability. Frequency-domain and time-domain analysis. Continuous and discrete time-modeling. Fourier, Laplace, and Z-transforms. Sampling and the discrete-time Fourier transform. Application to modulation of communications signals, filter design, and digital sampling.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)",
+        "number": "335",
+        "subject": "MATH",
         "title": "Mathematics of Engineering Systems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 MATH334 and (MATH326 or MATH228).\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH236; MATH335; PHYS312.\r\nEquivalency\u00a0\u00a0\u00a0 MATH236.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 MATH334 and (MATH326 or MATH228).\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH236; MATH335; PHYS312.\r\nEquivalency\u00a0\u00a0\u00a0 MATH236.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

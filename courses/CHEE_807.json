@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Selected topics in chemical engineering including chemical reaction engineering, combustion, biochemical engineering, process control, environmental engineering, applied statistics, polymer reaction engineering, polymer processing, fluidization and turbulence. Only topics not covered in other graduate courses will be included. Topics will vary depending on the instructor(s).\u00a0Course coordinator: TBA.", 
-        "number": "807", 
-        "subject": "CHEE", 
+        "description": "Selected topics in chemical engineering including chemical reaction engineering, combustion, biochemical engineering, process control, environmental engineering, applied statistics, polymer reaction engineering, polymer processing, fluidization and turbulence. Only topics not covered in other graduate courses will be included. Topics will vary depending on the instructor(s).\u00a0Course coordinator: TBA.",
+        "number": "807",
+        "subject": "CHEE",
         "title": "Current Topics In Chemical Eng"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

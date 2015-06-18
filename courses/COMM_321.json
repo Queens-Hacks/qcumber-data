@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course explores derivative securities and their applications as risk management and yield enhancement tools for financial institutions and non-financial corporations. We develop the key relationships of derivatives and valuation (the cost-of-carry model, risk neutral valuations, binomial trees, and the Black-Scholes model). We extend the option-pricing framework to the valuation of real options. We analyze standard derivative\u00a0 (futures, forwards, FRA's, swaps, stock options) as well as more recent ones such as exotic options and credit derivatives. We explore best practices in the area of market and credit risk management and address topical issues pertaining to the use of derivatives, including capital requirements for regulated financial institutions and strategic issues associated with corporate risk management. This course is designed for students aiming to pursue a career in investment banking, consulting, or in the non-finance corporate sector.", 
-        "number": "321", 
-        "subject": "COMM", 
+        "description": "This course explores derivative securities and their applications as risk management and yield enhancement tools for financial institutions and non-financial corporations. We develop the key relationships of derivatives and valuation (the cost-of-carry model, risk neutral valuations, binomial trees, and the Black-Scholes model). We extend the option-pricing framework to the valuation of real options. We analyze standard derivative\u00a0 (futures, forwards, FRA's, swaps, stock options) as well as more recent ones such as exotic options and credit derivatives. We explore best practices in the area of market and credit risk management and address topical issues pertaining to the use of derivatives, including capital requirements for regulated financial institutions and strategic issues associated with corporate risk management. This course is designed for students aiming to pursue a career in investment banking, consulting, or in the non-finance corporate sector.",
+        "number": "321",
+        "subject": "COMM",
         "title": "Derivative Securities"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

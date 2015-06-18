@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Error and uncertainties in experimental measurement, the propagation of errors. Probability and the Binomial, Poisson and Gaussian distribution functions, fitting of Poisson and Gaussian distributions to a sample population. Linear least-squares fitting, chi-squared. The graphical treatment and presentation of data; regression and power law analyses.", 
-        "number": "252", 
-        "subject": "ENPH", 
+        "description": "Error and uncertainties in experimental measurement, the propagation of errors. Probability and the Binomial, Poisson and Gaussian distribution functions, fitting of Poisson and Gaussian distributions to a sample population. Linear least-squares fitting, chi-squared. The graphical treatment and presentation of data; regression and power law analyses.",
+        "number": "252",
+        "subject": "ENPH",
         "title": "Mangmt Of Experimental Data"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 6, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 6,
             "Math": 8
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "1.25"
     }
 }

@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "An advanced level course introducing current topics in human genetics. The course will focus on the significance and implications of genetic variation and its role in disease, development and normal human diversity. In particular, the course will explore the future directions and implications of human genetic research in the post genomic era. Participation in seminars and group discussions is required. Enrollment is limited. \r\nRECOMMENDATION\u00a0\u00a0\u00a0 BCHM 218/3.0 or MBIO 218/3.0 or permission of the course coordinator.", 
-        "number": "425", 
-        "subject": "PATH", 
+        "description": "An advanced level course introducing current topics in human genetics. The course will focus on the significance and implications of genetic variation and its role in disease, development and normal human diversity. In particular, the course will explore the future directions and implications of human genetic research in the post genomic era. Participation in seminars and group discussions is required. Enrollment is limited. \r\nRECOMMENDATION\u00a0\u00a0\u00a0 BCHM 218/3.0 or MBIO 218/3.0 or permission of the course coordinator.",
+        "number": "425",
+        "subject": "PATH",
         "title": "Current Topics in Human Genetics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A minimum grade of B in BIOL 205/3.0 and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5).\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from BIOL 441/3.0; PATH 425/3.0", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (B in BIOL 205/3.0 or PATH310 or permission of the course coordinator and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5).\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from BIOL 441/3.0; PATH 425/3.0",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

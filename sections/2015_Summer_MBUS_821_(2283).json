@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (2283)",
+    "availability": {
+        "class_curr": 84,
+        "class_max": 83,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "821",
+        "season": "Summer",
+        "solus_id": "2283",
+        "status": "Closed",
+        "subject": "MBUS",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Robertson, Blair"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-07-10",
+            "term_start": "2015-04-24"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

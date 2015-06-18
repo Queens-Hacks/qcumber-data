@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This one-week intensive elective course in the U.K. provides a comparative analysis of issues and advances in healthcare quality, risk and safety in\u00a0 various\u00a0 countries and health care systems,\u00a0 Critical analysis of varying structural and procedural factors affecting healthcare outcomes will be the focus of the course", 
-        "number": "843", 
-        "subject": "HQRS", 
+        "description": "This one-week intensive elective course in the U.K. provides a comparative analysis of issues and advances in healthcare quality, risk and safety in\u00a0 various\u00a0 countries and health care systems,\u00a0 Critical analysis of varying structural and procedural factors affecting healthcare outcomes will be the focus of the course This course will be graded on a pass/fail basis.",
+        "number": "843",
+        "subject": "HQRS",
         "title": "International Perspectives on Quality, Risk\u00a0 & Safety"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Pass/Fail",
         "units": "3.00"
     }
 }

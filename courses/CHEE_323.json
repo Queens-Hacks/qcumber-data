@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Students will learn, discuss and apply knowledge of the chemical structure and reactivity of industrial catalytic compounds, with particular emphasis placed upon the integration of fundamental catalytic chemistry with the principles of transport phenomena and thermodynamics. The design component of the course will require students to work in teams to develop three catalytic processes. These\r\nprojects from examples covered in class, and may include encapsulated enzyme bioreactors, catalytic distillation units, fluidized-bed olefin polymerization reactors and/or multi-phase olefin oligomerization processes.", 
-        "number": "323", 
-        "subject": "CHEE", 
+        "description": "Students will learn, discuss and apply knowledge of the chemical structure and reactivity of industrial catalytic compounds, with particular emphasis placed upon the integration of fundamental catalytic chemistry with the principles of transport phenomena and thermodynamics. The design component of the course will require students to work in teams to develop three catalytic processes. These\r\nprojects from examples covered in class, and may include encapsulated enzyme bioreactors, catalytic distillation units, fluidized-bed olefin polymerization reactors and/or multi-phase olefin oligomerization processes.",
+        "number": "323",
+        "subject": "CHEE",
         "title": "Industrial Catalysis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 11, 
-            "Comp St": 0, 
-            "Eng Des": 20, 
-            "Eng Sci": 11, 
+            "Basic Sci": 11,
+            "Comp St": 0,
+            "Eng Des": 20,
+            "Eng Sci": 11,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ENCH 245 and CHEE 321, or permission of the department.\u00a0 Must be registered in a BSCE academic program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of ENCH 245 and CHEE 321, or permission of the department.\u00a0 Must be registered in a BSCE academic program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

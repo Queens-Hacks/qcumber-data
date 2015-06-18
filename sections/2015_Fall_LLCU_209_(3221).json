@@ -1,0 +1,37 @@
+{
+    "_unique": "700-ONL (3221)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 150,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "700",
+        "course": "209",
+        "season": "Fall",
+        "solus_id": "3221",
+        "status": "Open",
+        "subject": "LLCU",
+        "type": "ONL",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Hardy, Karl"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Kingston (Main), ON",
+        "location": "Graded",
+        "session": "Regular Academic Session"
+    }
+}

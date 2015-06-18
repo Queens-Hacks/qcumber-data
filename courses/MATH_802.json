@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to two subjects which together with MATH-801* provide an entry into discrete mathematics and its applications. Among the enumeration techniques covered are inclusion-exclusion, recurrence relations, and generating functions. The study of designs includes finite geometries and Latin squares. (Offered jointly with MATH-402*.) Three term-hours, winter; lectures.", 
-        "number": "802", 
-        "subject": "MATH", 
-        "title": "Enumeration And Designs"
-    }, 
+        "description": "Enumerative combinatorics is concerned with counting the number of elements of a finite set. The techniques covered include inclusion-exclusion, bijective proofs, double-counting arguments, recurrence relations, and generating functions. (Offered jointly with MATH-402).",
+        "number": "802",
+        "subject": "MATH",
+        "title": "Enumerative Combinatorics"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

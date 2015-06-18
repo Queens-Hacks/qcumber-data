@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Fundamentals of free, damped and forced vibrations with applications to various mechanical systems. Coupled oscillations and normal modes. Classical wave equation, standing and traveling waves. Continuum mechanics of solid bodies; elasticity theory with applications. Introduction to optics: image formation and optical instruments.", 
-        "number": "212", 
-        "subject": "PHYS", 
+        "description": "Fundamentals of free, damped and forced vibrations with applications to various mechanical systems. Coupled oscillations and normal modes. Classical wave equation, standing and traveling waves. Continuum mechanics of solid bodies; elasticity theory with applications. Introduction to optics: image formation and optical instruments.",
+        "number": "212",
+        "subject": "PHYS",
         "title": "Waves and Vibrations"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHYS206.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHYS206.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The steps that are required to build comprehensive mathematical models\u00a0are examined. These steps include: definition of the intended model use and user requirements; formulation of model equations; determination of model parameters from correlations and experimental data; parameter sensitivity and estimability analysis; solution of model equations using numerical techniques; model validation; and potential model applications. While the focus is on the development of fundamental models, empirical modeling techniques are also discussed. Process examples are selected from: reactive distillation, polymerization,\u00a0bioreactors, heat exchangers, and fuel cells. Students complete a mathematical modeling project related to their research interests.\u00a0K.B. McAuley.\u00a0 Not Offered 2007-2008.", 
-        "number": "811", 
-        "subject": "CHEE", 
+        "description": "The steps that are required to build comprehensive mathematical models\u00a0are examined. These steps include: definition of the intended model use and user requirements; formulation of model equations; determination of model parameters from correlations and experimental data; parameter sensitivity and estimability analysis; solution of model equations using numerical techniques; model validation; and potential model applications. While the focus is on the development of fundamental models, empirical modeling techniques are also discussed. Process examples are selected from: reactive distillation, polymerization,\u00a0bioreactors, heat exchangers, and fuel cells. Students complete a mathematical modeling project related to their research interests.\u00a0K.B. McAuley.\u00a0 Not Offered 2007-2008.",
+        "number": "811",
+        "subject": "CHEE",
         "title": "Math Modeling Of Chem. Process"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Student teams research, prepare a design work plan and carry out a \"Phase I\" engineering investigation for a major, open-ended geological engineering project, in consultation with a Management Board comprising geological engineering faculty. Work plans adhere to current national and/or provincial regulations as appropriate, and include scope definition, development of a range of technical solutions to the engineering problem, cost analyses and project scheduling tasks. Design meetings are recorded in the form of minutes submitted to the course Management Board and time sheets are submitted. Engineering project work plans are presented and defended to a committee comprising faculty and external engineers. Evaluation is based on the presentation and the team-written preliminary design report. These reports form the basis for more in depth design work in GEOE 447 in the winter. Students must register in both GEOE 446 and 447.", 
-        "number": "446", 
-        "subject": "GEOE", 
+        "description": "Student teams research, prepare a design work plan and carry out a \"Phase I\" engineering investigation for a major, open-ended geological engineering project, in consultation with a Management Board comprising geological engineering faculty. Work plans adhere to current national and/or provincial regulations as appropriate, and include scope definition, development of a range of technical solutions to the engineering problem, cost analyses and project scheduling tasks. Design meetings are recorded in the form of minutes submitted to the course Management Board and time sheets are submitted. Engineering project work plans are presented and defended to a committee comprising faculty and external engineers. Evaluation is based on the presentation and the team-written preliminary design report. These reports form the basis for more in depth design work in GEOE 447 in the winter. Students must register in both GEOE 446 and 447.",
+        "number": "446",
+        "subject": "GEOE",
         "title": "Engineering Design Project I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 36, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 36,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Project": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: Completion of 3rd year common core in GEO ENG or permission of the department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQ: Completion of 3rd year common core in GEO ENG or permission of the department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

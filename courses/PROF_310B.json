@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Introduction to professional judgement and decision making as it relates to the beginning teacher in the Primary-Junior division. Exploration of legal rights and responsibilities as professionals and reflection on and thinking critically about experiences in classrooms and host schools, adapting practices for exceptional learners and addressing equity issues faced in schools.", 
-        "number": "310B", 
-        "subject": "PROF", 
-        "title": "Self as Professional (PJ)"
-    }, 
+        "description": "Introduction to professional judgement and decision making as it relates to the beginning teacher. Exploration of legal rights and responsibilities as professionals and reflection on and thinking critically about experiences in classrooms and host schools, adapting practices for exceptional learners and addressing equity issues faced in schools.",
+        "number": "310B",
+        "subject": "PROF",
+        "title": "Self as Professional"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "PROF 210B, 210, 211B", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "PROF 210B, 210, 211B",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "3.00"
     }
 }

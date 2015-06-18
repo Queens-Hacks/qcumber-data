@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A selective examination of issues in Canadian art history and historical practice, especially as they inform the production and critique of the history of Canadian art. NOTE\u00a0\u00a0\u00a0 Field trips: estimated cost $30.", 
-        "number": "304", 
-        "subject": "ARTH", 
+        "description": "A selective examination of issues in Canadian art history and historical practice, especially as they inform the production and critique of the history of Canadian art.",
+        "number": "304",
+        "subject": "ARTH",
         "title": "Issues in the History of Canadian Art"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of third year standing or above", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of third year standing or above",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

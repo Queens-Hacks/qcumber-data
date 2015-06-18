@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Students will be required to attend the Departmental seminar program and present a seminar based upon their graduate thesis research. Students will also provide a proposal for their thesis research which includes a review of the related literature. Departmental faculty will evaluate both the seminar and the proposal/review. Enrolment extending over 6 terms (2 years; required for new Master\u00bfs level Physiology graduate students.\u00a0 1 hour seminar/week; Fall, Winter and Spring/Summer.\u00a0 N. Magoski.", 
-        "number": "897", 
-        "subject": "PHGY", 
+        "description": "Students will be required to attend the Departmental seminar program and present a seminar based upon their graduate thesis research. Students will also provide a proposal for their thesis research which includes a review of the related literature. Departmental faculty will evaluate both the seminar and the proposal/review. Enrolment extending over 6 terms (2 years; required for new Master\u00bfs level Physiology graduate students.\u00a0 1 hour seminar/week; Fall, Winter and Spring/Summer.\u00a0 N. Magoski.",
+        "number": "897",
+        "subject": "PHGY",
         "title": "Physiology Seminar Program"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter, Summer", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter, Summer",
         "units": "3.00"
     }
 }

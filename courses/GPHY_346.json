@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Study of the techniques of Geographic Information Systems and their applications in solving physical and environmental problems. Topics include data representation and models, spatial interpolation, raster-based analysis and modeling, surface models and terrain analysis, data visualization, temporal analysis, error and accuracy, and other algorithms and analytical procedures.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;24Pc;24G;24O;24P)", 
-        "number": "346", 
-        "subject": "GPHY", 
+        "description": "Study of the techniques of Geographic Information Systems and their applications in solving physical and environmental problems. Topics include data representation and models, spatial interpolation, raster-based analysis and modeling, surface models and terrain analysis, data visualization, temporal analysis, error and accuracy, and other algorithms and analytical procedures.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;24Pc;24G;24O;24P)",
+        "number": "346",
+        "subject": "GPHY",
         "title": "Environmental Modelling"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Practicum": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GPHY243 (or GISC201) and GPHY247, or permission of the Department.\r\nEquivalency\u00a0\u00a0\u00a0 GISC301", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GPHY243 (or GISC201) and GPHY247, or permission of the Department.\r\nEquivalency\u00a0\u00a0\u00a0 GISC301",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

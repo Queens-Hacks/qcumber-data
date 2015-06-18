@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics and seminars to be chosen from soil classification, compaction, swelling, frost, seepage, stress distribution, settlement, site investigation, shallow and deep foundations, site and soil improvements, excavations, retaining and support structures, and overall stability problems. Three term-hours. Held at Queen's or RMC depending on enrolment. NOTE: This is a joint course with RMC Civil Engineering Department.", 
-        "number": "842", 
-        "subject": "CIVL", 
+        "description": "Topics and seminars to be chosen from soil classification, compaction, swelling, frost, seepage, stress distribution, settlement, site investigation, shallow and deep foundations, site and soil improvements, excavations, retaining and support structures, and overall stability problems. Three term-hours. Held at Queen's or RMC depending on enrolment. NOTE: This is a joint course with RMC Civil Engineering Department.",
+        "number": "842",
+        "subject": "CIVL",
         "title": "Foundation Engineering"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

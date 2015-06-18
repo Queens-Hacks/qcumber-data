@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Theory and phenomena of the physics of fluids. A study of the usual incompressible and compressible flows; rotating frames; stability and turbulence; wave motion including non-linear waves and shocks; kinetic theory and transport phenomena; magnetofluid dynamics; plasma; relativistic fluids; and quantum fluids. (Offered jointly with PHYS-422.)", 
-        "number": "822", 
-        "subject": "PHYS", 
+        "description": "Theory and phenomena of the physics of fluids. A study of the usual incompressible and compressible flows; rotating frames; stability and turbulence; wave motion including non-linear waves and shocks; kinetic theory and transport phenomena; magnetofluid dynamics; plasma; relativistic fluids; and quantum fluids. (Offered jointly with PHYS-422.)",
+        "number": "822",
+        "subject": "PHYS",
         "title": "Fluid Mechanics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

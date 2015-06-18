@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A discussion of recent problems in astronomy based on current literature. Possible topics include: radio jets in double radio sources, emission from the galactic centre and early type star formation.", 
-        "number": "913", 
-        "subject": "PHYS", 
+        "description": "A discussion of recent problems in astronomy based on current literature. Possible topics include: radio jets in double radio sources, emission from the galactic centre and early type star formation.",
+        "number": "913",
+        "subject": "PHYS",
         "title": "Topics In Astronomical Resear."
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

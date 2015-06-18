@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Mathematical methods for describing software behaviour and structure. Topics include (but are not limited to) the following: Requirements specification. Module specification: axiomatic, algebraic, and trace specifications. Abstract models. Verification. Specification-based validation.", 
-        "number": "422", 
-        "subject": "CMPE", 
+        "description": "Mathematical methods for describing software behaviour and structure. Topics include (but are not limited to) the following: Requirements specification. Module specification: axiomatic, algebraic, and trace specifications. Abstract models. Verification. Specification-based validation.",
+        "number": "422",
+        "subject": "CMPE",
         "title": "Formal Methods In Software Eng"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 10, 
-            "Eng Sci": 12, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 10,
+            "Eng Sci": 12,
             "Math": 14
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: CMPE 204 or CISC 204 and CMPE 223 or CISC 223 and CMPR 327 and registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQ: CMPE 204 or CISC 204 and CMPE 223 or CISC 223 and CMPR 327 and registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

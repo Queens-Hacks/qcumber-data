@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Application of fundamental chemistry principles with respect to their sources, reactions, effects and fates in civil and environmental engineering systems. Topics will include chemical equilibria, stoichiometry and reaction kinetics; electrochemistry and corrosion; adsorption and ion exchange; solubility and precipitation; coagulation; microbiological reactions and kinetics; biochemical, chemical and theoretical oxygen demand; acidity, alkalinity and hardness; as well as biogeochemical cycles. These concepts will be further developed and applied in tutorial and laboratory modules. A design-based laboratory is conducted as part of this course.PPE will be required for this course at student\u00bfs cost (see course materials for details).", 
-        "number": "210", 
-        "subject": "CIVL", 
+        "description": "Application of fundamental chemistry principles with respect to their sources, reactions, effects and fates in civil and environmental engineering systems. Topics will include chemical equilibria, stoichiometry and reaction kinetics; electrochemistry and corrosion; adsorption and ion exchange; solubility and precipitation; coagulation; microbiological reactions and kinetics; biochemical, chemical and theoretical oxygen demand; acidity, alkalinity and hardness; as well as biogeochemical cycles. These concepts will be further developed and applied in tutorial and laboratory modules. A design-based laboratory is conducted as part of this course.PPE will be required for this course at student\u00bfs cost (see course materials for details).",
+        "number": "210",
+        "subject": "CIVL",
         "title": "Chemistry For Civil Engineers"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 20, 
-            "Comp St": 0, 
-            "Eng Des": 15, 
-            "Eng Sci": 20, 
+            "Basic Sci": 20,
+            "Comp St": 0,
+            "Eng Des": 15,
+            "Eng Sci": 20,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of APSC132 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of APSC132 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "4.50"
     }
 }

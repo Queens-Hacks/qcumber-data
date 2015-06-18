@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to graph theory, one of the central disciplines of discrete mathematics. Topics include: graphs and subgraphs, trees, bond and cycle spaces, connectivity, Euler tours and Hamiltonian cycles, matchings, independent sets, cliques and networks (if time permits).\u00a0 (Offered jointly with MATH-401*.)\u00a0 Three term-hours, fall; lectures.", 
-        "number": "801", 
-        "subject": "MATH", 
+        "description": "An introduction to graph theory, one of the central disciplines of discrete mathematics. Topics include: graphs,subgraphs, trees, connectivity, Euler tours, Hamiltonian cycles, matchings, independent sets, cliques, colourings, and planarity.(Offered jointly with MATH-401*.)",
+        "number": "801",
+        "subject": "MATH",
         "title": "Graph Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

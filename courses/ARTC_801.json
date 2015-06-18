@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "A general survey course dealing with various aspects of conservation and museology. The course deals with professional ethics, control of the factors causing deterioration and with preventive conservation including care in handling, transporting and storing cultural property. Half course; 1 term-hour; fall and winter. J. O'Neill,\u00a0K. Spirydowicz, B. Klempan, A. Murray.\u00a0", 
-        "number": "801", 
-        "subject": "ARTC", 
+        "description": "A general survey course dealing with various aspects of conservation and museology. The course deals with professional ethics, control of the factors causing deterioration and with preventive conservation including care in handling, transporting and storing cultural property. Half course; 1 term-hour; fall and winter. J. O'Neill,\u00a0K. Spirydowicz, B. Klempan, A. Murray.\u00a0",
+        "number": "801",
+        "subject": "ARTC",
         "title": "Conservation Priniciples"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

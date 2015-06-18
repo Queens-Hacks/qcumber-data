@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course introduces students to meso organizational behavior, which is concerned with the study of organizational phenomena that occur across more than one level of analysis (e.g., individual, group, organizational, national). Students will learn about multilevel theory and methodologies, with an emphasis on the emergence and functioning of collective constructs. The course will also provide coverage of numerous organizational behaviour topics that span levels, which may include person-environment fit, group and organizational climates, group diversity, group processes and performance, socially shared cognition, emotional contagion, and leaders' influence in social collectives.", 
-        "number": "953", 
-        "subject": "MGMT", 
+        "description": "This course introduces students to meso organizational behavior, which is concerned with the study of organizational phenomena that occur across more than one level of analysis (e.g., individual, group, organizational, national). Students will learn about multilevel theory and methodologies, with an emphasis on the emergence and functioning of collective constructs. The course will also provide coverage of numerous organizational behaviour topics that span levels, which may include person-environment fit, group and organizational climates, group diversity, group processes and performance, socially shared cognition, emotional contagion, and leaders' influence in social collectives.",
+        "number": "953",
+        "subject": "MGMT",
         "title": "Seminar in Meso-Organizational Behaviour"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

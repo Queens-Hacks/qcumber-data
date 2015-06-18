@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Fluid properties, fluid statics, basic equations of fluid flow: Continuity, Momentum, Euler's Equation of Motion, Linear Momentum Equation and Bernoulli's Equation. Flow of real fluid in closed conduits: friction losses and local energy losses. Pipeline flows in engineering practice. PPE will be required for this course at student\u00bfs cost (see course materials for details).", 
-        "number": "250", 
-        "subject": "CIVL", 
+        "description": "Fluid properties, fluid statics, basic equations of fluid flow: Continuity, Momentum, Euler's Equation of Motion, Linear Momentum Equation and Bernoulli's Equation. Flow of real fluid in closed conduits: friction losses and local energy losses. Pipeline flows in engineering practice. PPE will be required for this course at student\u00bfs cost (see course materials for details).",
+        "number": "250",
+        "subject": "CIVL",
         "title": "Hydraulics I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 4, 
-            "Comp St": 0, 
-            "Eng Des": 22, 
-            "Eng Sci": 22, 
+            "Basic Sci": 4,
+            "Comp St": 0,
+            "Eng Des": 22,
+            "Eng Sci": 22,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "CIVL250 Prereq APSC 172 and APSC 174", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "CIVL250 Prereq APSC 172 and APSC 174",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

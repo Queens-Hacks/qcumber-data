@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An intensive study of the traditions of ancient rhetoric with readings in Cicero's rhetorical works and orations. B. J. Kavanagh", 
-        "number": "811", 
-        "subject": "LATN", 
+        "description": "An intensive study of the traditions of ancient rhetoric with readings in Cicero's rhetorical works and orations. B. J. Kavanagh",
+        "number": "811",
+        "subject": "LATN",
         "title": "Latin Rhetoric"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

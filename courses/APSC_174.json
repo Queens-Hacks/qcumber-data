@@ -1,28 +1,28 @@
 {
     "basic": {
-        "description": "Vectors, dot and cross products, lines and planes, projections. Vectors in n-space. Systems of Linear equations. Matrix algebra and linear transformations, inverses. Spaces and subspaces. Linear independence, basis and coordinates, dimension, rank. Determinants, Cramer's Rule. Eigenvectors, eigenvalues and diagonalization with applications. Orthonormal bases and symmetric matrices.", 
-        "number": "174", 
-        "subject": "APSC", 
+        "description": "Systems of linear equations; real vectors spaces and subspaces; linear combinations and linear spans; linear dependence and linear independence; applications to systems of linear equations and their solution via Gaussian elimination; bases and dimension of real vector spaces; linear transformations, range, kernel and Rank-Nullity theorem; matrix representation of a linear transformation; composition of linear transformations and matrix multiplication; invertible matrices and determinants; eigenvalues and eigenvectors of square matrices. Applications of the course material to engineering systems are illustrated.",
+        "number": "174",
+        "subject": "APSC",
         "title": "Introduction To Linear Algebra"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 42
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

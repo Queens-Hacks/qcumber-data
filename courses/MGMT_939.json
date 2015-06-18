@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This seminar course exposes Ph.D. students in marketing to aspects of marketing not covered in detail in other courses in the program. This opportunity could be created by the presence of a visiting scholar or by the desire of current faculty to share the exploration of an emerging topic in marketing theory or practice. The aim of the course would be to integrate the topic into a broader understanding of the field of marketing. (.5 credit)", 
-        "number": "939", 
-        "subject": "MGMT", 
+        "description": "This seminar course exposes Ph.D. students in marketing to aspects of marketing not covered in detail in other courses in the program. This opportunity could be created by the presence of a visiting scholar or by the desire of current faculty to share the exploration of an emerging topic in marketing theory or practice. The aim of the course would be to integrate the topic into a broader understanding of the field of marketing. (.5 credit)",
+        "number": "939",
+        "subject": "MGMT",
         "title": "Advanced Topics In Marketing"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

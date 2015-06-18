@@ -1,0 +1,35 @@
+{
+    "_unique": "001-SEM (2811)",
+    "availability": {
+        "class_curr": 92,
+        "class_max": 101,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "200",
+        "season": "Fall",
+        "solus_id": "2811",
+        "status": "Open",
+        "subject": "CIVL",
+        "type": "SEM",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2014-12-01",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

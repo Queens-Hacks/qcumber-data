@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Physical and chemical principles of metamorphism and metasomatism. Metamorphic reactions, isograds, zones, and facies in relation to rock deformation, magmatism, tectonicsm, and ore genesis. Thermobarometry. Laboratory study of metamorphic rocks using the petrographic microscope.(0/14/0/19/9)~ COURSE DELETED IN 2008/09 ~", 
-        "number": "431", 
-        "subject": "GEOE", 
+        "description": "Physical and chemical principles of metamorphism and metasomatism. Metamorphic reactions, isograds, zones, and facies in relation to rock deformation, magmatism, tectonicsm, and ore genesis. Thermobarometry. Laboratory study of metamorphic rocks using the petrographic microscope.(0/14/0/19/9)~ COURSE DELETED IN 2008/09 ~",
+        "number": "431",
+        "subject": "GEOE",
         "title": "Metamorphic Petrology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 14, 
-            "Comp St": 0, 
-            "Eng Des": 9, 
-            "Eng Sci": 19, 
+            "Basic Sci": 14,
+            "Comp St": 0,
+            "Eng Des": 9,
+            "Eng Sci": 19,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

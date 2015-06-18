@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course examines various aspects of plant cell biology, physiology, and biochemistry including carbon and nitrogen metabolism (photosynthesis, respiration, etc.), water relations, mineral nutrition, response to environmental stress, roles of plant hormones, plant biotechnology.\nLEARNING HOURS\u00a0\u00a0\u00a0 115 (36L;10G;15O;54P)", 
-        "number": "341", 
-        "subject": "BIOL", 
+        "description": "The course examines various aspects of plant cell biology, physiology, and biochemistry including carbon and nitrogen metabolism (photosynthesis, respiration, etc.), water relations, mineral nutrition, response to environmental stress, roles of plant hormones, plant biotechnology.\nLEARNING HOURS\u00a0\u00a0\u00a0 115 (36L;10G;15O;54P)",
+        "number": "341",
+        "subject": "BIOL",
         "title": "Plant Physiology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL205.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 A minimum grade of C- in BIOL205.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

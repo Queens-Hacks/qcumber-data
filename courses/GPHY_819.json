@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Research in Earth System Science involves measuring and understanding processes resulting from complex interactions between biological, chemical, physical, and ecological processes.\u00a0 This course will provide students with the skills and tools necessary to develop, analyze, and test complex simulation models. These models are useful for synthesizing information, testing hypotheses, and guiding the development of research questions.", 
-        "number": "819", 
-        "subject": "GPHY", 
+        "description": "Research in Earth System Science involves measuring and understanding processes resulting from complex interactions between biological, chemical, physical, and ecological processes.\u00a0 This course will provide students with the skills and tools necessary to develop, analyze, and test complex simulation models. These models are useful for synthesizing information, testing hypotheses, and guiding the development of research questions.",
+        "number": "819",
+        "subject": "GPHY",
         "title": "Modelling The Earth System"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

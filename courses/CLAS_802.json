@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Presentation and discussion of current research (students).\u00a0 Bi-weekly colloquium.", 
-        "number": "802", 
-        "subject": "CLAS", 
-        "title": "Topic In Classical Scholarship"
-    }, 
+        "description": "Discussion of the principal research problems and methodologies in the field of Classical studies. Bi-weekly meetings and final presentation of graduate students in conference format.",
+        "number": "802",
+        "subject": "CLAS",
+        "title": "Research Forum II"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

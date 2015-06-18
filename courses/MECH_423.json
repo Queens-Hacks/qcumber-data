@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course will deal with the practical engineering aspects of micro-machining technologies and microsystems. The contents will include: scaling issues, microfabrication technologies and production methods, classification and analysis of Microsystems (including microsensors, microactuators, RF switches, micromirrors, and other micromechanisms), the integration of devices into Microsystems (both assembly and interfacing). Micro-machining will be compared and contrasted to both micro-electronics and traditional macro-machining. The development and use of Microsystems simulation and design tools will be covered as well.\u00a0", 
-        "number": "423", 
-        "subject": "MECH", 
+        "description": "This course will deal with the practical engineering aspects of micro-machining technologies and microsystems. The contents will include: scaling issues, microfabrication technologies and production methods, classification and analysis of Microsystems (including microsensors, microactuators, RF switches, micromirrors, and other micromechanisms), the integration of devices into Microsystems (both assembly and interfacing). Micro-machining will be compared and contrasted to both micro-electronics and traditional macro-machining. The development and use of Microsystems simulation and design tools will be covered as well.\u00a0",
+        "number": "423",
+        "subject": "MECH",
         "title": "Introduction To Microsystems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 17, 
-            "Eng Sci": 25, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 17,
+            "Eng Sci": 25,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

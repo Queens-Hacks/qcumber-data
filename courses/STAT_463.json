@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Decision theory and Bayesian inference; principles of optimal statistical procedures; maximum likelihood principle; large sample theory for maximum likelihood estimates; principles of hypotheses testing and the Neyman-Pearson theory; generalized likelihood ratio tests; the chi-square, t, F and other distributions.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;96P)\nRECOMMENDATION\u00a0\u00a0\u00a0 STAT 353/3.0.", 
-        "number": "463", 
-        "subject": "STAT", 
+        "description": "Decision theory and Bayesian inference; principles of optimal statistical procedures; maximum likelihood principle; large sample theory for maximum likelihood estimates; principles of hypotheses testing and the Neyman-Pearson theory; generalized likelihood ratio tests; the chi-square, t, F and other distributions.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;96P)\nRECOMMENDATION\u00a0\u00a0\u00a0 STAT 353/3.0.",
+        "number": "463",
+        "subject": "STAT",
         "title": "Fundamentals of Statistical Inference"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 STAT353.\r\nPrerequisites\u00a0\u00a0\u00a0 STAT269 \r\nEquivalency\u00a0\u00a0\u00a0 STAT363.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 STAT353.\r\nPrerequisites\u00a0\u00a0\u00a0 STAT269 \r\nEquivalency\u00a0\u00a0\u00a0 STAT363.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

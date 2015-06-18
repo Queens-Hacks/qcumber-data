@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Within a team structure potentially involving second, third, and fourth year Civil Engineering students and a faculty advisor, students will engage in a range of exercises designed to promote written and verbal communication, decision making, team building and engineering design skills. Lectures, workshops, design charettes and both individual and team assignments will be utilized to enhance learning. This course is available only to select students, under exceptional or extenuating circumstances, at the discretion of the Head of the Department and the Undergraduate Chair.\u00a0 (This course may not be offered every year).", 
-        "number": "201", 
-        "subject": "CIVL", 
+        "description": "Within a team structure potentially involving second, third, and fourth year Civil Engineering students and a faculty advisor, students will engage in a range of exercises designed to promote written and verbal communication, decision making, team building and engineering design skills. Lectures, workshops, design charettes and both individual and team assignments will be utilized to enhance learning. This course is available only to select students, under exceptional or extenuating circumstances, at the discretion of the Head of the Department and the Undergraduate Chair.\u00a0 (This course may not be offered every year).",
+        "number": "201",
+        "subject": "CIVL",
         "title": "Professional Skills"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 14, 
-            "Eng Des": 7, 
-            "Eng Sci": 7, 
+            "Basic Sci": 0,
+            "Comp St": 14,
+            "Eng Des": 7,
+            "Eng Sci": 7,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Field Studies": "Required"
-        }, 
-        "enrollment_requirement": "Exclusion: CIVL200.\u00a0 Registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Exclusion: CIVL200.\u00a0 Registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "2.50"
     }
 }

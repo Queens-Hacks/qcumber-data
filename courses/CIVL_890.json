@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics to include: review of basic fluid mechanics of closed-conduit flow; hydraulic characteristics of pumps, valves, tanks and reservoirs; network hydraulics (includes pipes in series and parallel, systems of equations for steady state network flow and solution algorithms, fire analysis, unsteady flow conditions, extended period simulation, hydraulic transients); water quality simulation (includes transport mechanisms, reaction kinetics, mixing in storage facilities, transport and mixing in pipe network, steady state and dynamic water quality modelling); water demand and design standards; master planning of water networks. The course will also cover advanced topics in: water network optimization, sensor placement, contaminant detection, sustainable water systems, dual water systems and water re-use. Three term hours.", 
-        "number": "890", 
-        "subject": "CIVL", 
+        "description": "Topics to include: review of basic fluid mechanics of closed-conduit flow; hydraulic characteristics of pumps, valves, tanks and reservoirs; network hydraulics (includes pipes in series and parallel, systems of equations for steady state network flow and solution algorithms, fire analysis, unsteady flow conditions, extended period simulation, hydraulic transients); water quality simulation (includes transport mechanisms, reaction kinetics, mixing in storage facilities, transport and mixing in pipe network, steady state and dynamic water quality modelling); water demand and design standards; master planning of water networks. The course will also cover advanced topics in: water network optimization, sensor placement, contaminant detection, sustainable water systems, dual water systems and water re-use. Three term hours.",
+        "number": "890",
+        "subject": "CIVL",
         "title": "Water Network Analysis/Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

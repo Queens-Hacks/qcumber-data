@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "An introduction to descriptive and inferential statistics in psychology. Topics will include descriptive statistics, probability, correlation and regression, experimental design and one-way ANOVA.", 
-        "number": "202", 
-        "subject": "PSYC", 
+        "description": "An introduction to descriptive and inferential statistics in psychology. Topics will include descriptive statistics, probability, correlation and regression, experimental design and one-way ANOVA.",
+        "number": "202",
+        "subject": "PSYC",
         "title": "Statistics in Psychology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "PREREQUISITE\u00a0 A grade of B- in PSYC100 and registration in a PSYC Major or Medial or Specialization Plan.\r\nEXCLUSION\u00a0 Stats list", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "PREREQUISITE\u00a0 A grade of B- in PSYC100 and registration in a PSYC Major or Medial or Specialization Plan.\r\nEXCLUSION\u00a0 Stats list",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

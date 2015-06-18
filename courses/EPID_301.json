@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Basic methods involved in researching the distribution and determinants of health/disease in populations. Core principles of epidemiology are examined, as are the various epidemiological approaches to study design. The latter include descriptive (cross-sectional and ecological), observational (case-control and cohort), and experimental (randomized controlled trials) approaches.", 
-        "number": "301", 
-        "subject": "EPID", 
+        "description": "Basic methods involved in researching the distribution and determinants of health/disease in populations. Core principles of epidemiology are examined, as are the various epidemiological approaches to study design. The latter include descriptive (cross-sectional and ecological), observational (case-control and cohort), and experimental (randomized controlled trials) approaches.",
+        "number": "301",
+        "subject": "EPID",
         "title": "Principles of Epidemiology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL243; CHEE209; COMM162; ECON250; GPHY247; KNPE251; NURS323; PHED251; POLS385; PYSC202; SOCY211; STAT263; STAT267; STAT367 or permission of DBMS.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from EPID301; HLTH323.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL243; CHEE209; COMM162; ECON250; GPHY247; KNPE251; NURS323; PHED251; POLS385; PYSC202; SOCY211; STAT263; STAT267; STAT367 or permission of DBMS.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from EPID301; HLTH323.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

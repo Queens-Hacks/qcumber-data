@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Fluid-particle systems and mass transfer principles are presented with application to air pollution control in industrial processes. The selection and design of equipment for the control of particulate and gaseous emission sources are examined. The problem of odorous emissions, stack sampling techniques and dispersion calculations are discussed.", 
-        "number": "481", 
-        "subject": "CHEE", 
+        "description": "Fluid-particle systems and mass transfer principles are presented with application to air pollution control in industrial processes. The selection and design of equipment for the control of particulate and gaseous emission sources are examined. The problem of odorous emissions, stack sampling techniques and dispersion calculations are discussed.",
+        "number": "481",
+        "subject": "CHEE",
         "title": "Air Quality Management"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 24, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 18,
+            "Eng Sci": 24,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "One of CHEE 223, CIVL 250, or MECH 241, or permission of the department.\u00a0 Must be registered in a BSCE academic program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "One of CHEE 223, CIVL 250, or MECH 241, or permission of the department.\u00a0 Must be registered in a BSCE academic program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

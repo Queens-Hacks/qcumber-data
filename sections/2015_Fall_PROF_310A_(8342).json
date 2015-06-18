@@ -1,0 +1,35 @@
+{
+    "_unique": "102-LEC (8342)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 100,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "102",
+        "course": "310A",
+        "season": "Fall",
+        "solus_id": "8342",
+        "status": "Open",
+        "subject": "PROF",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Education Regular"
+    }
+}

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course covers software reengineering techniques and tools that facilitate the evolution of legacy systems. This course is broken into three major parts. In the first part, the course discusses the terminology and the processes pertaining to software evolution. In the second part, the course provides the fundamental reengineering techniques to modernize legacy systems. These techniques include source code analysis, architecture recovery, and code restructuring. The last part of the course focuses on specific topics in software reengineering research.\u00a0 The topics include software refactoring strategies, migration to Object Oriented platforms, quality issues in reengineering processes, migration to network-centric environments, and software integration.\u00a0Three term-hours, lectures, Fall,\u00a0Y. Zou", 
-        "number": "876", 
-        "subject": "ELEC", 
+        "description": "This course covers software reengineering techniques and tools that facilitate the evolution of legacy systems. This course is broken into three major parts. In the first part, the course discusses the terminology and the processes pertaining to software evolution. In the second part, the course provides the fundamental reengineering techniques to modernize legacy systems. These techniques include source code analysis, architecture recovery, and code restructuring. The last part of the course focuses on specific topics in software reengineering research.\u00a0 The topics include software refactoring strategies, migration to Object Oriented platforms, quality issues in reengineering processes, migration to network-centric environments, and software integration.\u00a0Three term-hours, lectures, Fall,\u00a0Y. Zou",
+        "number": "876",
+        "subject": "ELEC",
         "title": "Software Reengineering"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

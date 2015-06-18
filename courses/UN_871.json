@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "UNENE course number = UN 0701This course presents a broad treatment of the subject of engineering decision, risk, and reliability. Emphasis is on (1) the modelling of engineering problems and evaluation of systems performance under conditions of uncertainty; (2) risk-based approach to life-cycle management of engineering systems; (3) systematic development of design criteria, explicitly taking into account the significance of uncertainty; and (4) logical framework for risk assessment and risk-benefit tradeoffs in decision making. The necessary mathematical concepts are developed in the context of engineering problems. The main topics of discussion are: probability theory, statistical data analysis, component and system reliability concepts, time-dependent reliability analysis, computational methods, life-cycle optimization models and risk management in public policy. University of Waterloo/M. Pandey", 
-        "number": "871", 
-        "subject": "UN", 
+        "description": "UNENE course number = UN 0701This course presents a broad treatment of the subject of engineering decision, risk, and reliability. Emphasis is on (1) the modelling of engineering problems and evaluation of systems performance under conditions of uncertainty; (2) risk-based approach to life-cycle management of engineering systems; (3) systematic development of design criteria, explicitly taking into account the significance of uncertainty; and (4) logical framework for risk assessment and risk-benefit tradeoffs in decision making. The necessary mathematical concepts are developed in the context of engineering problems. The main topics of discussion are: probability theory, statistical data analysis, component and system reliability concepts, time-dependent reliability analysis, computational methods, life-cycle optimization models and risk management in public policy. University of Waterloo/M. Pandey",
+        "number": "871",
+        "subject": "UN",
         "title": "Engineering Risk & Reliability"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

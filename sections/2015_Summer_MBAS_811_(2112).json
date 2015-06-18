@@ -1,0 +1,37 @@
+{
+    "_unique": "002-LEC (2112)",
+    "availability": {
+        "class_curr": 30,
+        "class_max": 40,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "002",
+        "course": "811",
+        "season": "Summer",
+        "solus_id": "2112",
+        "status": "Open",
+        "subject": "MBAS",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Scholey, Cam"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-05-26",
+            "term_start": "2015-05-11"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

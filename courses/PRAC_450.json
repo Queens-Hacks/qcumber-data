@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "The Alternative Practicum is an opportunity to explore an area of educational interest within a context that is different from that experienced during the regular in-school practicum components.\u00a0 The topic fo the Alternative Practicum is consistent with the candidate's concentration (FOCI/EDST courses).\u00a0 For practicum format and details, see educ.queensu.ca/practicum.",
+        "number": "450",
+        "subject": "PRAC",
+        "title": "Alternative Practicum (PJ)"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
+        "course_components": {
+            "Practicum": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Pass/Fail",
+        "units": "0.00"
+    }
+}

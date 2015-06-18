@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course will consist of seminars and lectures covering topics such as equilibrium binding, enzyme kinetics, hydrodynamics, fluorescence, light scattering and spectroscopy.\u00a0 Protein structure determination using x-ray crystallography and NMR spectroscopy will be covered.\u00a0 Specific emphasis will be placed on the application of biophysical techniques to gain important insights into protein function, interactions and structure.\u00a0 A good working knowledge of introductory calculus and chemistry is required. Offered jointly with BCHM-824.", 
-        "number": "824", 
-        "subject": "PROT", 
+        "description": "This course will consist of seminars and lectures covering topics such as equilibrium binding, enzyme kinetics, hydrodynamics, fluorescence, light scattering and spectroscopy.\u00a0 Protein structure determination using x-ray crystallography and NMR spectroscopy will be covered.\u00a0 Specific emphasis will be placed on the application of biophysical techniques to gain important insights into protein function, interactions and structure.\u00a0 A good working knowledge of introductory calculus and chemistry is required. Offered jointly with BCHM-824.",
+        "number": "824",
+        "subject": "PROT",
         "title": "Biophysical Protein Analysis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

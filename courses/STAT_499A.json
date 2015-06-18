@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "An important topic in statistics not covered in any other courses.",
+        "number": "499A",
+        "subject": "STAT",
+        "title": "Topics in Statistics"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Reading": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "0.00"
+    }
+}

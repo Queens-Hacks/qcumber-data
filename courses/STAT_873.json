@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to advanced regression methods for binary, categorical, and count data. Major topics include maximum-likelihood method, binomial and Poisson regression, contingency tables, log linear models, and random effect models. The generalized linear models will be discussed both in theory and in applications to real data from a variety of sources.(Offered jointly with STAT-473*.)", 
-        "number": "873", 
-        "subject": "STAT", 
+        "description": "An introduction to advanced regression methods for binary, categorical, and count data. Major topics include maximum-likelihood method, binomial and Poisson regression, contingency tables, log linear models, and random effect models. The generalized linear models will be discussed both in theory and in applications to real data from a variety of sources.(Offered jointly with STAT-473*.)",
+        "number": "873",
+        "subject": "STAT",
         "title": "Generalized Linear Models"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

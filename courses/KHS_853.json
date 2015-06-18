@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "A lecture-seminar-laboratory course dealing with occupational biomechanics, work physiology, anthropometry, and skill acquisition as related to workplace environments.\u00a0 Other physical factors of ergonomics to be studied will be:\u00a0 posture at work stations, spinal and upper limb biomechanics, manual materials handling, and employee selection and fitness.\u00a0", 
-        "number": "853", 
-        "subject": "KHS", 
+        "description": "A lecture-seminar-laboratory course dealing with occupational biomechanics, work physiology, anthropometry, and skill acquisition as related to workplace environments.\u00a0 Other physical factors of ergonomics to be studied will be:\u00a0 posture at work stations, spinal and upper limb biomechanics, manual materials handling, and employee selection and fitness.\u00a0",
+        "number": "853",
+        "subject": "KHS",
         "title": "Physical Bases Of Ergonomics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

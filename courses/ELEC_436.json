@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Review of basic electric machines. Salient pole synchronous machines. Transient and dynamic behaviour of electric machines. Characteristics and applications of special motors such as servo motors, stepper motors, PM-motors, brushless dc motors, switched reluctance motors and linear motors. Solid state speed and torque control of motors.", 
-        "number": "436", 
-        "subject": "ELEC", 
+        "description": "Review of basic electric machines. Salient pole synchronous machines. Transient and dynamic behaviour of electric machines. Characteristics and applications of special motors such as servo motors, stepper motors, PM-motors, brushless dc motors, switched reluctance motors and linear motors. Solid state speed and torque control of motors.",
+        "number": "436",
+        "subject": "ELEC",
         "title": "Electric Machines And Control"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 18, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 18,
+            "Eng Sci": 18,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ELEC333 and (ELEC353 or ELEC431) and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of ELEC333 and (ELEC353 or ELEC431) and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

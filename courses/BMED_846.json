@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An advanced course for honours and graduate students in which selected areas of physiology are studied in depth. Two hours seminar. Fall or Winter. N. Magoski. PREREQUISITE: Eligibility for admission to this course will be determined by the student's experience in physiology and allied sciences.\u00a0 EXCLUSION: PHGY-836*", 
-        "number": "846", 
-        "subject": "BMED", 
+        "description": "An advanced course for honours and graduate students in which selected areas of physiology are studied in depth. Two hours seminar. Fall or Winter. N. Magoski. PREREQUISITE: Eligibility for admission to this course will be determined by the student's experience in physiology and allied sciences.\u00a0 EXCLUSION: PHGY-836*",
+        "number": "846",
+        "subject": "BMED",
         "title": "Advanced Physiology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

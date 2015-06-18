@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This is an interdisciplinary lecture/seminar course designed to provide a comprehensive overview of ergonomics emphasizing applications to product design and prevention of musculoskeletal injuries. The focus includes anthropometry, workplace design, and biomechanical and other human factors. Ergonomic assessment methodologies will be used to assess design features and possible musculoskeletal problems.", 
-        "number": "450", 
-        "subject": "KNPE", 
+        "description": "This is an interdisciplinary lecture/seminar course designed to provide a comprehensive overview of ergonomics emphasizing applications to product design and prevention of musculoskeletal injuries. The focus includes anthropometry, workplace design, and biomechanical and other human factors. Ergonomic assessment methodologies will be used to assess design features and possible musculoskeletal problems.",
+        "number": "450",
+        "subject": "KNPE",
         "title": "Ergonomics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture / Laboratory": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites [ANAT101 or ANAT315/316) and (KNPE254 or KNPE353 or KINE353)] or 6.0 units in PHYS at the 100-level.\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from KNPE450; MECH495; PT 419; RHBS428.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0 Level 4 in a KINE, PHED or HLTH Plan and (ANAT101 or ANAT315/316) and [(KNPE254 or KNPE353 or KINE353) or 6.0 units in PHYS at the 100-level].\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from KNPE450; MECH495; PT 419; RHBS428.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

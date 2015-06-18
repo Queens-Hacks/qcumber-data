@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduction to design and analysis of algorithms.\u00a0Recursion, backtracking, and exits. Sequences, linked lists and references. Binary search trees. Elementary searching and sorting.\u00a0Assertions and loop invariants.\u00a0Order-of-magnitude complexity.\u00a0Numerical computation. Documentation, testing and debugging.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)\nRECOMMENDATION\u00a0\u00a0\u00a0 Some programming experience (such as high-school level programming or CISC 101/3.0 or CISC 110/3.0); see Introductory Courses in Departmental Notes.", 
-        "number": "121", 
-        "subject": "CISC", 
+        "description": "Introduction to design and analysis of algorithms.\u00a0Recursion, backtracking, and exits. Sequences, linked lists and references. Binary search trees. Elementary searching and sorting.\u00a0Assertions and loop invariants.\u00a0Order-of-magnitude complexity.\u00a0Numerical computation. Documentation, testing and debugging.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)\nRECOMMENDATION\u00a0\u00a0\u00a0 Some programming experience (such as high-school level programming or CISC 101/3.0 or CISC 110/3.0); see Introductory Courses in Departmental Notes.",
+        "number": "121",
+        "subject": "CISC",
         "title": "Introduction to Computing Science I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0\u00a0 CISC102 or MATH111 or MATH121 or MATH121 or MATH122 or MATH110 or MATH112 or MATH120 or MATH123 or MATH124 or MATH126", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0\u00a0 CISC102 or MATH111 or MATH121 or MATH121 or MATH122 or MATH110 or MATH112 or MATH120 or MATH123 or MATH124 or MATH126",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

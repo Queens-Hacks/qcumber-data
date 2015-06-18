@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course for students in Mining Engineering and allied disciplines will apply basic principles of economic evaluation learned in APSCI 221 to the minerals industry. Topics covered include: the project definition and economic evaluation process; economic analysis tools and techniques; taxation; inflation; cost estimation; the nature of mineral supply and demand; mineral commodity markets\r\nand pricing; uncertainty and risks associated with the mining industry, their analysis and incorporation into the evaluation process. Assignments, examples, and tutorials reflect a variety of situations and challenges faced in the evaluation of\r\nexploration and mine development opportunities, as well as important applications to mining and mineral processing design and decision-making.", 
-        "number": "330", 
-        "subject": "MINE", 
+        "description": "This course for students in Mining Engineering and allied disciplines will apply basic principles of economic evaluation learned in APSCI 221 to the minerals industry. Topics covered include: the project definition and economic evaluation process; economic analysis tools and techniques; taxation; inflation; cost estimation; the nature of mineral supply and demand; mineral commodity markets\r\nand pricing; uncertainty and risks associated with the mining industry, their analysis and incorporation into the evaluation process. Assignments, examples, and tutorials reflect a variety of situations and challenges faced in the evaluation of\r\nexploration and mine development opportunities, as well as important applications to mining and mineral processing design and decision-making.",
+        "number": "330",
+        "subject": "MINE",
         "title": "Mineral Industry Economics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 42, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 42,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "APSC 221 must be enrolled in Mining Engineering or permission of insturctor or department", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "APSC 221 must be enrolled in Mining Engineering or permission of insturctor or department",
+        "grading_basis": "Graded",
         "units": "3.50"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An in-depth study of the biophysical properties of neurons and diseases that affect the function of neurons and glia. Topics will include cable properties of dendrites, voltage- and ligand-dependent channels, and molecular mechanisms responsible for neuronal death and regeneration. The course will be based on lectures and student seminars of selected readings. \r\nNOTE\u00a0\u00a0\u00a0 BMCO students should contact the Department regarding prerequisites.", 
-        "number": "422", 
-        "subject": "NSCI", 
+        "description": "An in-depth study of the biophysical properties of neurons and diseases that affect the function of neurons and glia. Topics will include cable properties of dendrites, voltage- and ligand-dependent channels, and molecular mechanisms responsible for neuronal death and regeneration. The course will be based on lectures and student seminars of selected readings. \nNOTE\u00a0\u00a0\u00a0 BMCO students should contact the Department regarding prerequisites.\nLEARNING HOURS\u00a0\u00a0\u00a0 119 (12L;24S;8G;6I;69P)",
+        "number": "422",
+        "subject": "NSCI",
         "title": "Cellular and Molecular Neuroscience"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 (A grade of B in NSCI 322 or LISC 322 or NSCI 323 or NSC 324) and (Level 4 and registration in the LISC Major or Specialization Plan) and (a GPA of 2.5) or permission of the course coordinator.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 (A grade of B in NSCI 322 or LISC 322 or NSCI 323 or NSC 324) and (Level 4 and registration in the LISC Major or Specialization Plan) and (a GPA of 2.5) or permission of the course coordinator.",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course will cover the following topics in the field of robotics: historical development; robot components (sensors, actuators, and end effectors, and their selection criteria); basic categories of robots (serial and parallel manipulators, mobile robots); mobility/constraint analysis; workspace analysis; rigid body kinematics (homogeneous transformation, angle and axis of rotation, Euler angles, roll-pitch-yaw angles, cylindrical and spherical coordinates); manipulator kinematics and motion trajectories (displacement and velocity analyses, differential relations, Jacobian matrix); non-redundant and redundant sensing/actuation of manipulators; manipulator statics (force and stiffness); singularities; and manipulator dynamics.", 
-        "number": "456", 
-        "subject": "MECH", 
+        "description": "This course will cover the following topics in the field of robotics: historical development; robot components (sensors, actuators, and end effectors, and their selection criteria); basic categories of robots (serial and parallel manipulators, mobile robots); mobility/constraint analysis; workspace analysis; rigid body kinematics (homogeneous transformation, angle and axis of rotation, Euler angles, roll-pitch-yaw angles, cylindrical and spherical coordinates); manipulator kinematics and motion trajectories (displacement and velocity analyses, differential relations, Jacobian matrix); non-redundant and redundant sensing/actuation of manipulators; manipulator statics (force and stiffness); singularities; and manipulator dynamics.",
+        "number": "456",
+        "subject": "MECH",
         "title": "Introduction To Robotics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 21, 
-            "Eng Sci": 21, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 21,
+            "Eng Sci": 21,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Exclusion: ELEC448.\u00a0 Prerequisite of MECH350 or MATH332 or ELEC443 and registration in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Exclusion: ELEC448.\u00a0 Prerequisite of MECH350 or MATH332 or ELEC443 and registration in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

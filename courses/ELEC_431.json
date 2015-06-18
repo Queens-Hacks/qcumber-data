@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course introduces the basic concepts of power electronics, which include power semiconductor devices and switching power converters. Emphasis is placed on the analysis and design of various power electronics circuits. Their industrial application, such as in telecommunications and computing, will also be discussed. More specifically, the course will cover the characteristics of switching devices, especially that of MOSFET. The course will also cover the operation of various switching converters such as phase controlled AC-to-DC converters, AC voltage controllers, DC-to-DC switching converters, DC-to-AC inverters and switching power supplies. The requirements and configurations of power systems for telecommunications will be introduced. The techniques to analyze and design these power systems using available components will also be discussed. Computer simulation will be used to analyze the detailed operation of switching converters.", 
-        "number": "431", 
-        "subject": "ELEC", 
+        "description": "This course introduces the basic concepts of power electronics, which include power semiconductor devices and switching power converters. Emphasis is placed on the analysis and design of various power electronics circuits. Their industrial application, such as in telecommunications and computing, will also be discussed. More specifically, the course will cover the characteristics of switching devices, especially that of MOSFET. The course will also cover the operation of various switching converters such as phase controlled AC-to-DC converters, AC voltage controllers, DC-to-DC switching converters, DC-to-AC inverters and switching power supplies. The requirements and configurations of power systems for telecommunications will be introduced. The techniques to analyze and design these power systems using available components will also be discussed. Computer simulation will be used to analyze the detailed operation of switching converters.",
+        "number": "431",
+        "subject": "ELEC",
         "title": "Power Electronics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 24, 
-            "Eng Sci": 15, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 24,
+            "Eng Sci": 15,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ELEC252 and a corequisite of ELEC333 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of ELEC252 and a corequisite of ELEC333 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.25"
     }
 }

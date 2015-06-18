@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "(Technological Education candidates only)The Ontario College of Teachers requires that teachers gaining certification in technological education demonstrate \"proof of... competence in the area... of technological studies selected as an option in the program of professional education.\" Technological competence is demonstrated by completing an individualized program, typically in the form of projects, which permits each candidate to broaden and deepen their range of skills. A Technical Skills profile is used to track the range and level of skills.", 
-        "number": "213A", 
-        "subject": "FOCI", 
+        "description": "(Technological Education candidates only)The Ontario College of Teachers requires that teachers gaining certification in technological education demonstrate \"proof of... competence in the area... of technological studies selected as an option in the program of professional education.\" Technological competence is demonstrated by completing an individualized program, typically in the form of projects, which permits each candidate to broaden and deepen their range of skills. A Technical Skills profile is used to track the range and level of skills.",
+        "number": "213A",
+        "subject": "FOCI",
         "title": "Broad-Based Technological Ed"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Restricted to Tech Ed", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Restricted to Tech Ed",
+        "grading_basis": "Graded",
         "units": "0.00"
     }
 }

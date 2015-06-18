@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the crystallography and crystal chemistry of rock-forming minerals for students not in the Geological Sciences. The structural, chemical and genetic aspects of the crystalline state as displayed by minerals are considered.", 
-        "number": "212", 
-        "subject": "GEOE", 
+        "description": "An introduction to the crystallography and crystal chemistry of rock-forming minerals for students not in the Geological Sciences. The structural, chemical and genetic aspects of the crystalline state as displayed by minerals are considered.",
+        "number": "212",
+        "subject": "GEOE",
         "title": "Introduction To Minerology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 27, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 9, 
+            "Basic Sci": 27,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 9,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 GEOL104 or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from GEOL212; GEOL232.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 GEOL104 or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from GEOL212; GEOL232.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

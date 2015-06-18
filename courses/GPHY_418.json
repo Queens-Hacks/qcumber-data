@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Study of the relationship between spatial pattern and ecological processes. Topics include spatial arrangement of ecosystems and its influence on the flow of energy, materials and biota; agents of pattern and change; methods and techniques for characterizing landscapes and detecting change; applications in resource conservation and management.\r\nNOTE\u00a0\u00a0\u00a0 Computer Lab fees: estimated cost $50. Field trip fees may apply in certain years.", 
-        "number": "418", 
-        "subject": "GPHY", 
+        "description": "Study of the relationship between spatial pattern and ecological processes. Topics include spatial arrangement of ecosystems and its influence on the flow of energy, materials and biota; agents of pattern and change; methods and techniques for characterizing landscapes and detecting change; applications in resource conservation and management.\nNOTE\u00a0\u00a0\u00a0 Field trip fees may apply in certain years.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;24Lb;72P)",
+        "number": "418",
+        "subject": "GPHY",
         "title": "Landscape Ecology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 Level 4 & (6 fr BIOL;CHEM;PHYS) and (a GPA of 1.90 in 30 units fr GPHYorBIOLorENSC) & (GPA of 1.90 in 30 from GPHY;BIOL;ENSC) & (reg in GPHY;BIOL;ENSC Maj [sci] or EGPY or EBIO Plan), or by petition to dept.\r\nEquivalency\u00a0\u00a0\u00a0 GPHY310.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 Level 4 & (6 fr BIOL;CHEM;PHYS) and (a GPA of 1.90 in 30 units fr GPHYorBIOLorENSC) & (GPA of 1.90 in 30 from GPHY;BIOL;ENSC) & (reg in GPHY;BIOL;ENSC Maj [sci] or EGPY or EBIO Plan).\r\nEquivalency\u00a0\u00a0\u00a0 GPHY310.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

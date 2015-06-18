@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course focuses on selected topics in public policy. The content may vary from year to year.", 
-        "number": "896A", 
-        "subject": "MPA", 
+        "description": "This course focuses on selected topics in public policy. The content may vary from year to year.",
+        "number": "896A",
+        "subject": "MPA",
         "title": "Policy Pro-Bono"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "0.00"
     }
 }

@@ -1,28 +1,28 @@
 {
     "basic": {
-        "description": "Introduction to basic film and video production techniques, including camera, lighting, sound recording, and editing. Assignments, on videotape, include exercises in groups and projects organized by individual students.\nNOTE\u00a0\u00a0\u00a0 Production supplies $100. Priority will be given to students with the highest overall GPA on FILM courses, including those at the 100-level.\nLEARNING HOURS\u00a0\u00a0\u00a0 216 (48L;24Lb;24O;120P)", 
-        "number": "250A", 
-        "subject": "FILM", 
-        "title": "Fundamentals of Production"
-    }, 
+        "description": "This course provides a grounding in basic media production concepts and techniques, including scripting, directing, camerawork, sound, and post production. It is structured around a series of short production exercises, completed by small groups of students. Each student will produce or direct a short media project in the Winter Term.\nNOTE\u00a0\u00a0\u00a0 Production supplies $100. Priority will be given to students with the highest overall GPA on FILM courses, including those at the 100-level.\nLEARNING HOURS\u00a0\u00a0\u00a0 216 (36L;36Lb;24Oc;120P)",
+        "number": "250A",
+        "subject": "FILM",
+        "title": "Fundamentals of Media Production"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Prerequisite\u00a0 (A grade of B- in FILM 110) or (a GPA of 2.60 in FILM 104 and FILM 106) or (a GPA of 2.60 in BISC100 and FILM104) and (reg. in a FILM Plan, STSC or the Computer-Film (COFI) Specialization Plan).", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Spring", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Prerequisite\u00a0 (A grade of B- in FILM 110) or (a GPA of 2.60 in FILM 104 and FILM 106) or (a GPA of 2.60 in BISC100 and FILM104) and (reg. in a FILM Plan, STSC or the Computer-Film (COFI) Specialization Plan).",
+        "grading_basis": "Graded",
+        "typically_offered": "Spring",
         "units": "0.00"
     }
 }

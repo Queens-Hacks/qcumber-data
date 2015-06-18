@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This 6 week (3 hours/week) module will provide in-depth coverage of microscale transport phenomena motivated by the emerging fields of Microfluidics and Lab-on-a-Chip. During this course, students will intensify and expand their knowledge of the fundamentals of heat, mass, charge and momentum transfer with emphasise on microscale geometries. The difference of macro- and\r\nmicroscale transport phenomena and the limitation of classical mechanics will be highlighted by scaling analysis. Additionally, an introduction into the fundamentals of selected electrohydrodynamic phenomena will be given. (1.5 credit units).",
+        "number": "911",
+        "subject": "CHEE",
+        "title": "Microscale Transport Phenomena"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
+        "course_components": {
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "1.50"
+    }
+}

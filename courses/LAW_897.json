@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Graduate Paper (35-40 pages in length, about 12,000 words) under the supervision of a faculty member on a topic to be mutually agreed.", 
-        "number": "897", 
-        "subject": "LAW", 
+        "description": "Graduate Paper (35-40 pages in length, about 12,000 words) under the supervision of a faculty member on a topic to be mutually agreed.",
+        "number": "897",
+        "subject": "LAW",
         "title": "Graduate Paper"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
+        },
+        "grading_basis": "Pass/Fail",
         "units": "6.00"
     }
 }

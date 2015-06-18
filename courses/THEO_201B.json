@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "201B", 
-        "subject": "THEO", 
+        "description": "",
+        "number": "201B",
+        "subject": "THEO",
         "title": "Summer Internship II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Field Studies": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "12.00"
     }
 }

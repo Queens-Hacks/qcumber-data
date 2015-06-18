@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is for students with a limited background in German. The course concentrates on the basic language skills (listening, reading, writing and speaking) and introduces elements of German culture as recorded in its customs, history and literature.", 
-        "number": "102", 
-        "subject": "GRMN", 
+        "description": "This course is for students with a limited background in German. The course concentrates on the basic language skills (listening, reading, writing and speaking) and introduces elements of German culture as recorded in its customs, history and literature.",
+        "number": "102",
+        "subject": "GRMN",
         "title": "Beginner's German II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in GRMN101 or permission of the Department of Languages, Literatures and Cultures.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in GRMN101 or permission of the Department of Languages, Literatures and Cultures.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

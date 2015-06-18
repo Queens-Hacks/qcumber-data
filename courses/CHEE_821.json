@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This is a second course in process control techniques. Topics covered will include: frequency response methods for stability analysis and controller design, deadtime compensation (e.g., Smith predictor), feedforward/ cascade control, the Internal Model Control formulation, introduction to multivariable control, and interaction analysis using the concept of relative gain. Specific applications to chemical processes will be presented. (Offered jointly with CHEE-434, with additional lectures and assignments.)\u00a0 M. Guay or P.J. McLellan", 
-        "number": "821", 
-        "subject": "CHEE", 
+        "description": "This is a second course in process control techniques. Topics covered will include: frequency response methods for stability analysis and controller design, deadtime compensation (e.g., Smith predictor), feedforward/ cascade control, the Internal Model Control formulation, introduction to multivariable control, and interaction analysis using the concept of relative gain. Specific applications to chemical processes will be presented. (Offered jointly with CHEE-434, with additional lectures and assignments.)\u00a0 M. Guay or P.J. McLellan",
+        "number": "821",
+        "subject": "CHEE",
         "title": "Process Control II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

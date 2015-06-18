@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The application of thermodynamics and kinetics to the understanding of natural processes in the Earth Sciences. Distribution of the elements, and practical uses of isotopes and elemental tracers. Geochemical actions and transactions within, and among, the lithosphere, hydrosphere, atmosphere and biosphere, including the impact of human evolution and environmental geochemistry. Practical application of geochemistry to solving problems in natural systems will be emphasized. A practical involving problems, laboratory experience and field experience will be part of the course.", 
-        "number": "365", 
-        "subject": "GEOL", 
+        "description": "The application of thermodynamics and kinetics to the understanding of natural processes in the Earth Sciences. Distribution of the elements, and practical uses of isotopes and elemental tracers. Geochemical actions and transactions within, and among, the lithosphere, hydrosphere, atmosphere and biosphere, including the impact of human evolution and environmental geochemistry. Practical application of geochemistry to solving problems in natural systems will be emphasized. A practical involving problems, laboratory experience and field experience will be part of the course.",
+        "number": "365",
+        "subject": "GEOL",
         "title": "Geochemical Characterization of Earth Processes"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 CHEM112\u00a0 and GEOL232 and GEOL235 or permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 CHEM112\u00a0 and GEOL232 and GEOL235 or permission of the Department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A quantitative treatment of chemical phenomena and materials. Critical thinking and problem solving are emphasized. Topics include structure and molecular bonding, gases and condensed phases, and thermodynamics.\nNOTE\u00a0\u00a0\u00a0 Offered only as a distance course. Consult Continuing and Distance Studies.\nNOTE\u00a0\u00a0\u00a0 Not normally intended for on-campus degree plans and certificates.\nNOTE\u00a0\u00a0\u00a0 Not appropriate for pre and upper level courses that have a laboratory component.\nLEARNING HOURS\u00a0\u00a0\u00a0 123 (51O;72P)", 
-        "number": "113", 
-        "subject": "CHEM", 
-        "title": "General Chemistry I"
-    }, 
+        "description": "A quantitative treatment of chemical phenomena and materials. Critical thinking and problem solving are emphasized. Topics include atomic structure and molecular bonding, organic chemistry, polymers, proteins, and condensed phases.\nNOTE\u00a0\u00a0\u00a0 Offered only as a distance course. Consult Continuing and Distance Studies.\nNOTE\u00a0\u00a0\u00a0 Not normally intended for on-campus degree plans and certificates.\nNOTE\u00a0\u00a0\u00a0 Not appropriate for pre and upper level courses that have a laboratory component.\nLEARNING HOURS\u00a0\u00a0\u00a0 126 (54O;72P)",
+        "number": "113",
+        "subject": "CHEM",
+        "title": "General Chemistry I: From Atoms to Matter"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Distance Studies", 
+        },
+        "career": "Distance Studies",
         "course_components": {
             "Online": "Required"
-        }, 
-        "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 6.0 units from CHEM112 or (CHEM113 and CHEM114).", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Exclusion\u00a0\u00a0\u00a0 No more than 6.0 units from CHEM112 or (CHEM113 and CHEM114).",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

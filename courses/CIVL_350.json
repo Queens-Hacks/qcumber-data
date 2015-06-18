@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Topics in open channel flow including friction, specific energy, free-surface profiles, culverts and hydraulic-jump energy dissipaters. Lake dynamics and environmental hydraulics will be introduced. The basic underlying concepts of water resources and hydrology will be discussed. PPE will be required for this course at student's cost (see course materials for details).\u00a0", 
-        "number": "350", 
-        "subject": "CIVL", 
+        "description": "Topics in open channel flow including friction, specific energy, free-surface profiles, culverts and hydraulic-jump energy dissipaters. Lake dynamics and environmental hydraulics will be introduced. The basic underlying concepts of water resources and hydrology will be discussed. PPE will be required for this course at student's cost (see course materials for details).\u00a0",
+        "number": "350",
+        "subject": "CIVL",
         "title": "Hydraulics 2"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 30, 
-            "Eng Sci": 14, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 30,
+            "Eng Sci": 14,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL250 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL250 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.75"
     }
 }

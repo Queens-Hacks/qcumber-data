@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduction to the systematic construction of a compiler: grammars and languages, scanners, top-down and bottom-up parsing, runtime organization, symbol tables, internal representations; Polish notation, syntax trees, semantic routines, storage allocation, code generation, interpreters. Jim Cordy.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;48P)", 
-        "number": "458", 
-        "subject": "CISC", 
+        "description": "Introduction to the systematic construction of a compiler: grammars and languages, scanners, top-down and bottom-up parsing, runtime organization, symbol tables, internal representations; Polish notation, syntax trees, semantic routines, storage allocation, code generation, interpreters. Jim Cordy.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;48P)",
+        "number": "458",
+        "subject": "CISC",
         "title": "Programming Language Processors (S)"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC121 and CISC221 and CISC223", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC121 and CISC221 and CISC223",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

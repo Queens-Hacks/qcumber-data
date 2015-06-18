@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course surveys the main issues in the Economics of Technology and presents some of the seminal papers in the area. A major goal of this course is to develop an understanding of the nature of the forces driving competitive interaction between technology-based firms. Topics covered include: diffusion of innovations, technology strategy, managing R&D, patents, licensing, and the financial evaluation of new technologies.", 
-        "number": "983", 
-        "subject": "MGMT", 
+        "description": "This course surveys the main issues in the Economics of Technology and presents some of the seminal papers in the area. A major goal of this course is to develop an understanding of the nature of the forces driving competitive interaction between technology-based firms. Topics covered include: diffusion of innovations, technology strategy, managing R&D, patents, licensing, and the financial evaluation of new technologies.",
+        "number": "983",
+        "subject": "MGMT",
         "title": "Survey of Economics of Technology Survey"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

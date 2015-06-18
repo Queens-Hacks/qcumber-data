@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An exploration of human disease, illness, and injury, and the symptoms and treatments of medical conditions, with an evolutionary framework.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;24T;12O;24Oc;36P)", 
-        "number": "442", 
-        "subject": "BIOL", 
+        "description": "An exploration of human disease, illness, and injury, and the symptoms and treatments of medical conditions, with an evolutionary framework.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;20T;16G;12O;48P)",
+        "number": "442",
+        "subject": "BIOL",
         "title": "Evolutionary Medicine"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL206.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL206.",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

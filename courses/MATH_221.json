@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Double and triple integrals, including polar and spherical coordinates. Parameterized curves and line integrals. Gradient, divergence, and curl. Green's theorem. Parameterized surfaces and surface integrals. Stokes' and Gauss' Theorems.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 Some linear algebra.", 
-        "number": "221", 
-        "subject": "MATH", 
+        "description": "Double and triple integrals, including polar and spherical coordinates. Parameterized curves and line integrals. Gradient, divergence, and curl. Green's theorem. Parameterized surfaces and surface integrals. Stokes' and Gauss' Theorems.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 Some linear algebra.",
+        "number": "221",
+        "subject": "MATH",
         "title": "Vector Calculus"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 Some linear algebra.\r\nPrerequisite\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124 or MATH126.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from MATH221; MATH227; MATH280.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 Some linear algebra.\r\nPrerequisite\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124 or MATH126.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from MATH221; MATH227; MATH280.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

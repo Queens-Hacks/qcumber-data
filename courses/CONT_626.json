@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "626", 
-        "subject": "CONT", 
-        "title": "Religious Education - Pt. 3"
-    }, 
+        "description": "",
+        "number": "626",
+        "subject": "CONT",
+        "title": "Religious Education in Catholic Schools Specialist"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Non-Credit", 
+        },
+        "career": "Non-Credit",
         "course_components": {
             "Online": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "6.00"
     }
 }

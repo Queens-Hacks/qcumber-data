@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (4503)",
+    "availability": {
+        "class_curr": 5,
+        "class_max": 5,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "771",
+        "season": "Fall",
+        "solus_id": "4503",
+        "status": "Closed",
+        "subject": "THEO",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Holmes, Pamela"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

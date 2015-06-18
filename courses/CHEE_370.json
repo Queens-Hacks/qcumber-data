@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The sources and characteristics of liquid waste streams emanating from chemical and related industries are reviewed as the basis for developing appropriate abatement and treatment strategies. Treatment processes utilizing individual operations as well as integrated systems of physical, chemical and biological treatment are covered. Waste treatment process designs and sensitivity analyses of alternatives are undertaken with the help of Computer Aided Design software. Canadian guidelines, regulations and industrial case studies are presented.", 
-        "number": "370", 
-        "subject": "CHEE", 
+        "description": "The sources and characteristics of liquid waste streams emanating from chemical and related industries are reviewed as the basis for developing appropriate abatement and treatment strategies. Treatment processes utilizing individual operations as well as integrated systems of physical, chemical and biological treatment are covered. Waste treatment process designs and sensitivity analyses of alternatives are undertaken with the help of Computer Aided Design software. Canadian guidelines, regulations and industrial case studies are presented.",
+        "number": "370",
+        "subject": "CHEE",
         "title": "Waste Treatment Processes"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 25, 
-            "Eng Sci": 17, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 25,
+            "Eng Sci": 17,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "CHEE370 excludes CIVL470.\u00a0 Prerequisites of CHEE221 or MINE201 and registration in a BSCE Academic Program is required.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "CHEE370 excludes CIVL470.\u00a0 Prerequisites of CHEE221 or MINE201 and registration in a BSCE Academic Program is required.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

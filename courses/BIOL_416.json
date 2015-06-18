@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Principles of terrestrial ecosystem ecology: soils; plant-soil interactions; energy and water balance; carbon and nutrient cycling; species effects; landscape-level and whole earth biogeochemistry; global change.\u00a0 \r\nNOTE\u00a0\u00a0\u00a0 Overnight field trip: cost $50.", 
-        "number": "416", 
-        "subject": "BIOL", 
+        "description": "Principles of terrestrial ecosystem ecology: soils; plant-soil interactions; energy and water balance; carbon and nutrient cycling; species effects; landscape-level and whole earth biogeochemistry; global change.\u00a0 \nNOTE\u00a0\u00a0\u00a0 Overnight field trip: cost $50.\nLEARNING HOURS\u00a0\u00a0 124 (12L,24S;18Lb;12Pc;12G;12O;16Oc;18P)",
+        "number": "416",
+        "subject": "BIOL",
         "title": "Terrestrial Ecosystems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL303 or GPHY317.\r\nOne-Way exclusion\u00a0\u00a0\u00a0 May not be taken with or after BIOL510.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+            "Laboratory": "Required",
+            "Lecture / Seminar": "Required"
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL302 or BIOL303 or GPHY317.\nOne-Way exclusion\u00a0\u00a0\u00a0 May not be taken with or after BIOL510.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

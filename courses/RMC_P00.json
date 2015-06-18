@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "", 
-        "number": "P00", 
-        "subject": "RMC", 
+        "description": "",
+        "number": "P00",
+        "subject": "RMC",
         "title": "RMC Exchange Study Agreement"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "No Transcript Print", 
+        },
+        "grading_basis": "No Transcript Print",
         "units": "0.00"
     }
 }

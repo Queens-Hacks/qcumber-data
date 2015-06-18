@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics in condensed matter physics of current interest. Examples of such topics are: surface physics, magnetotransport properties, polymers and disordered solids, low temperature physics.", 
-        "number": "982", 
-        "subject": "PHYS", 
+        "description": "Topics in condensed matter physics of current interest. Examples of such topics are: surface physics, magnetotransport properties, polymers and disordered solids, low temperature physics.",
+        "number": "982",
+        "subject": "PHYS",
         "title": "Top. In Condensed Matter Phys."
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

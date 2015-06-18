@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Students will be assigned individual Research Topics.\u00a0 Students must work under the supervision of a faculty member.\u00a0 Grade will be based on the progress in arriving at a solution to the assigned problem.", 
-        "number": "491", 
-        "subject": "ELEC", 
+        "description": "Students will be assigned individual Research Topics.\u00a0 Students must work under the supervision of a faculty member.\u00a0 Grade will be based on the progress in arriving at a solution to the assigned problem.",
+        "number": "491",
+        "subject": "ELEC",
         "title": "Advanced ECE Thesis I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 54, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 18,
+            "Eng Sci": 54,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Laboratory": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "6.00"
     }
 }

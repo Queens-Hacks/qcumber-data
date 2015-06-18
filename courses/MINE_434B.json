@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "In this course a formal report is required, based on industrial and/or laboratory research. Emphasis is placed on critical treatment of the data obtained to produce useful conclusions. Standing is based on the work done and on the ability of individuals to complete various phases of the project according to schedule. Normally the report is prepared during a summer work period and completed during the fall term. Participation in the departmental seminar series once per month is mandatory.", 
-        "number": "434B", 
-        "subject": "MINE", 
+        "description": "In this course a formal report is required, based on industrial and/or laboratory research. Emphasis is placed on critical treatment of the data obtained to produce useful conclusions. Standing is based on the work done and on the ability of individuals to complete various phases of the project according to schedule. Normally the report is prepared during a summer work period and completed during the fall term. Participation in the departmental seminar series once per month is mandatory.",
+        "number": "434B",
+        "subject": "MINE",
         "title": "Project Report"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 24, 
-            "Eng Des": 24, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 24,
+            "Eng Des": 24,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Project": "Required"
-        }, 
-        "enrollment_requirement": "Must be registered in a BSCE program", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

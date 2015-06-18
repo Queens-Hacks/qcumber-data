@@ -1,0 +1,35 @@
+{
+    "_unique": "900-LEC (5787)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 100,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "900",
+        "course": "174",
+        "season": "Winter",
+        "solus_id": "5787",
+        "status": "Open",
+        "subject": "APSC",
+        "type": "LEC",
+        "year": "2016"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2016-06-10",
+            "term_start": "2016-02-22"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

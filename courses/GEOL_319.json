@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Geophysical methods (gravity, magnetic, electrical, and seismic) applied to engineering problems, including resource exploration and site investigation. Design of field programs considering physical principles, instrumentation, limitations, field procedures and data interpretation. Laboratory projects with geophysical equipment are undertaken.\nLEARNING HOURS\u00a0\u00a0\u00a0 121 (21L;18Lb;22T;12Oc;48P)", 
-        "number": "319", 
-        "subject": "GEOL", 
+        "description": "Geophysical methods (gravity, magnetic, electrical, and seismic) applied to engineering problems, including resource exploration and site investigation. Design of field programs considering physical principles, instrumentation, limitations, field procedures and data interpretation. Laboratory projects with geophysical equipment are undertaken.\nLEARNING HOURS\u00a0\u00a0\u00a0 121 (21L;18Lb;22T;12Oc;48P)",
+        "number": "319",
+        "subject": "GEOL",
         "title": "Applied Geophysics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL249 and MATH232, or permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL249 and MATH232, or permission of the Department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

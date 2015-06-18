@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "467", 
-        "subject": "CONT", 
+        "description": "",
+        "number": "467",
+        "subject": "CONT",
         "title": "Textiles And Clothing (B)"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Non-Credit", 
+        },
+        "career": "Non-Credit",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "6.00"
     }
 }

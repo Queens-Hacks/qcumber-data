@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students will gain fundamental knowledge of validity and reliability testing and practical skills to conduct such analyses.\u00a0 Topics on reliability testing include correlation, coefficients of variation, Intraclass correlation coefficients, Bland Altman Analysis, and Generalizability Theory.\u00a0 SPSS statistical software will be used.\u00a0 (1.0 credit units). PREREQUISITE: undergraduate statistics. EXCLUSION:\u00a0 RHBS 834/934*", 
-        "number": "826", 
-        "subject": "RHBS", 
+        "description": "Students will gain fundamental knowledge of validity and reliability testing and practical skills to conduct such analyses.\u00a0 Topics on reliability testing include correlation, coefficients of variation, Intraclass correlation coefficients, Bland Altman Analysis, and Generalizability Theory.\u00a0 SPSS statistical software will be used.\u00a0 (1.0 credit units). PREREQUISITE: undergraduate statistics. EXCLUSION:\u00a0 RHBS 834/934*",
+        "number": "826",
+        "subject": "RHBS",
         "title": "Validation and Reliability Testing"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "1.00"
     }
 }

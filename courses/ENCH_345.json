@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A detailed study of organic reactions and processes of industrial and economic importance, with application of the principles developed in ENCH 245 (CHEM 245). Case studies involving process development in the pharmaceutical industry are used extensively.", 
-        "number": "345", 
-        "subject": "ENCH", 
+        "description": "A detailed study of organic reactions and processes of industrial and economic importance, with application of the principles developed in ENCH 245 (CHEM 245). Case studies involving process development in the pharmaceutical industry are used extensively.",
+        "number": "345",
+        "subject": "ENCH",
         "title": "Applied Organic Chemistry II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 24, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 12, 
+            "Basic Sci": 24,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 12,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: ENCH 245 or CHEM 245 or permission of the department. Must also be registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: ENCH 245 or CHEM 245 or permission of the department. Must also be registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

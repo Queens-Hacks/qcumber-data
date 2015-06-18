@@ -1,0 +1,70 @@
+{
+    "_unique": "306-LAB (4825)",
+    "availability": {
+        "class_curr": 84,
+        "class_max": 75,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "306",
+        "course": "100B",
+        "season": "Winter",
+        "solus_id": "4825",
+        "status": "Closed",
+        "subject": "APSC",
+        "type": "LAB",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 4,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Clapham, Lynann"
+            ],
+            "location": "CHERNOFF RM206A",
+            "start_time": "14:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-12"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Clapham, Lynann"
+            ],
+            "location": "DUPUIS RM236",
+            "start_time": "14:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-12"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Clapham, Lynann"
+            ],
+            "location": "STIRLING RM406",
+            "start_time": "14:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-12"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Clapham, Lynann"
+            ],
+            "location": "STIRLING RM407",
+            "start_time": "14:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-12"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

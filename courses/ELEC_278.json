@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Fundamentals of Data Structures and Algorithms: arrays, linked lists, stacks, queues, deques, asymptotic notation, hash and scatter tables, recursion, trees and\r\nsearch trees, heaps and priority queues, sorting, and graphs. Advanced programming in the C language. Introduction to object oriented programming concepts in the context of data structures.", 
-        "number": "278", 
-        "subject": "ELEC", 
+        "description": "Fundamentals of Data Structures and Algorithms: arrays, linked lists, stacks, queues, deques, asymptotic notation, hash and scatter tables, recursion, trees and\r\nsearch trees, heaps and priority queues, sorting, and graphs. Advanced programming in the C language. Introduction to object oriented programming concepts in the context of data structures.",
+        "number": "278",
+        "subject": "ELEC",
         "title": "Fundamentals Of Information Structures"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 24, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 24,
             "Math": 12
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "EXCLUSION:\u00a0 CISC235.\u00a0 A prerequisite of APSC 142 and registration in a BSCE Academic Program is required.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "EXCLUSION:\u00a0 CISC235.\u00a0 A prerequisite of APSC 142 and registration in a BSCE Academic Program is required.",
+        "grading_basis": "Graded",
         "units": "4.00"
     }
 }

@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "An examination of an epidemiological research question chosen by the student with guidance from the supervisor. Project will involve review of the literature, development of a proposal, data collection and/or processing, data analysis, a written report and oral presentation. Students will be required to attend and report on seminars of their choosing from a number of venues across campus. \nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also complete the Introductory Animal Care Course and if required the appropriate Animal Use workshops through the Office of the University Veterinarian.", 
-        "number": "499A", 
-        "subject": "EPID", 
+        "description": "An examination of an epidemiological research question chosen by the student with guidance from the supervisor. Project will involve review of the literature, development of a proposal, data collection and/or processing, data analysis, a written report and oral presentation. Students will be required to attend and report on seminars of their choosing from a number of venues across campus. \nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also complete the Introductory Animal Care Course and if required the appropriate Animal Use workshops through the Office of the University Veterinarian.",
+        "number": "499A",
+        "subject": "EPID",
         "title": "Research Project in Epidemiology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "PREREQ\u00a0 Level 4 & reg in LISC SSP & (EPID 301/3.0 or HLTH 323/3.0) or permission\u00a0\u00a0\u00a0\u00a0 \r\nCOREQ\u00a0 EPID 401/3.0 or permission\r\nEXCL\u00a0 No more than 9.0 units from ANAT 499;CANC 499; EPID 499; LISC 499; MICRMICR 455; 499; NSCI 499; PATH 499; PHGY 499", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "PREREQ\u00a0 Level 4 & reg in LISC SSP & (EPID 301/3.0 or HLTH 323/3.0) or permission\u00a0\u00a0\u00a0\u00a0 \r\nCOREQ\u00a0 EPID 401/3.0 or permission\r\nEXCL\u00a0 No more than 9.0 units from ANAT 499;CANC 499; EPID 499; LISC 499; MICRMICR 455; 499; NSCI 499; PATH 499; PHGY 499",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "0.00"
     }
 }

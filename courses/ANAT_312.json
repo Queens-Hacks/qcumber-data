@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Study of the structure and function of the nervous system by lectures, hands-on laboratories, brain dissection, and readings. Topics include, but are not limited to, sensory and motor systems, brain imaging, and clinical examples.\r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $45.", 
-        "number": "312", 
-        "subject": "ANAT", 
+        "description": "Study of the structure and function of the nervous system by lectures, hands-on laboratories, brain dissection, and readings. Topics include, but are not limited to, sensory and motor systems, brain imaging, and clinical examples.",
+        "number": "312",
+        "subject": "ANAT",
         "title": "Functional Neuroanatomy"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (ANAT 215/3.0 and ANAT 216/3.0) or ANAT 309/3.0, or permission of the Department of Biomedical and Molecular Sciences.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (ANAT 215/3.0 and ANAT 216/3.0) or ANAT 309/3.0, or permission of the Department of Biomedical and Molecular Sciences.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

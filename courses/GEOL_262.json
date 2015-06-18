@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The basic mineralogy and petrology of mineral deposits are examined. The formation and classification of mineral deposits, considering such aspects as tectonic setting, age, rock composition, geometry, and mineralogy are investigated. Emphasis is placed on the processes by which mineral deposits are formed and transformed, and their influence on mining and production. Laboratory work integrates geological information from the scale of hand samples to regional maps as tools to assist with mine design, estimation of ore grade and evaluation of issues related to ore processing.", 
-        "number": "262", 
-        "subject": "GEOL", 
+        "description": "The basic mineralogy and petrology of mineral deposits are examined. The formation and classification of mineral deposits, considering such aspects as tectonic setting, age, rock composition, geometry, and mineralogy are investigated. Emphasis is placed on the processes by which mineral deposits are formed and transformed, and their influence on mining and production. Laboratory work integrates geological information from the scale of hand samples to regional maps as tools to assist with mine design, estimation of ore grade and evaluation of issues related to ore processing.\nLEARNING HOURS\u00a0\u00a0\u00a0 114 (36L;18Lb;60P)",
+        "number": "262",
+        "subject": "GEOL",
         "title": "Geological Aspects of Mineral Deposits"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL104\r\nOne-way Exclusion\u00a0\u00a0\u00a0 May not be taken with or after GEOL232 or GEOL362.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOL104\r\nOne-way Exclusion\u00a0\u00a0\u00a0 May not be taken with or after GEOL232 or GEOL362.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "A multi-day field trip that uses stratigraphic, sedimentological, and paleontological data to interpret rock successions in a paleoenvironmental and tectonic context. Enrolment is limited. NOTE: The course runs during the week of Canadian Thanksgiving. Students are responsible for the cost of transportation, accommodation and food during the trip. Please see the Departmental web page for more information.",
+        "number": "301",
+        "subject": "GEOE",
+        "title": "Field Studies in Geology"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 14,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 4,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Field Studies": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "1.50"
+    }
+}

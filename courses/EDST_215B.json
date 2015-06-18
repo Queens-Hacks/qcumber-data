@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Introduction to the principles and practices of museum education. In cooperation with our partner institution, the Agnes Etherington Art Centre, teacher candidates will explore guided viewing strategies for art, historical artifacts, and natural specimens. Design of studio/lab-based application activities, and curriculum planning relevant to a variety of institutional settings are emphasized.",
+        "number": "215B",
+        "subject": "EDST",
+        "title": "Museum Education"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

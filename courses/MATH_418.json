@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Time estimates for arithmetic and elementary number theory algorithms\u00a0(division algorithm, Euclidean algorithm, congruences), modular arithmetic, finite fields, quadratic residues. Simple cryptographic systems; public key, RSA. Primality and factoring: pseudoprimes, Pollard's rho-method, index calculus. Elliptic curve cryptography.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "418", 
-        "subject": "MATH", 
+        "description": "Time estimates for arithmetic and elementary number theory algorithms\u00a0(division algorithm, Euclidean algorithm, congruences), modular arithmetic, finite fields, quadratic residues. Simple cryptographic systems; public key, RSA. Primality and factoring: pseudoprimes, Pollard's rho-method, index calculus. Elliptic curve cryptography.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "418",
+        "subject": "MATH",
         "title": "Number Theory and Cryptography"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (MATH210 or MATH212 or MATH217) or (MATH211 with permission of the Department).", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (MATH210 or MATH212 or MATH217) or (MATH211 with permission of the Department).",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

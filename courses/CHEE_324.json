@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "Students will expand their knowledge of functional group interconversions and C-C bond forming reactions learned in ENCH 245, and apply retrosynthetic analysis to propose multi-step syntheses of organic target molecules. Selection of reagents, solvents and reaction conditions will be examined in the context of process safety, reaction yield, product isolation, and profitability. This will be followed by studies of target molecule recovery by extraction, recrystallization, distillation and chromatography. The design component of the course is a series of two-hour design challenges in which student teams generate solutions to process development problems. This includes proposing reaction sequences for producing a target molecule, conducting safety analyses of hazardous reactions, choosing from multiple synthetic routes, and recommending separation trains for product isolation. 0/12/0/10/20",
+        "number": "324",
+        "subject": "CHEE",
+        "title": "Organic Process Development"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 12,
+            "Comp St": 0,
+            "Eng Des": 20,
+            "Eng Sci": 10,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "3.50"
+    }
+}

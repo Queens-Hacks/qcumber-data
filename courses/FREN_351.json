@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A study of representative works by African and the Caribbean writers. Travaux pratiques include essays and tests. Given jointly with FREN 451/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "351", 
-        "subject": "FREN", 
+        "description": "A study of representative works by African and the Caribbean writers. Travaux pratiques include essays and tests.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "351",
+        "subject": "FREN",
         "title": "Ecrits de la Francophonie"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 FREN221 or (FREN212 and FREN220).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN351; FREN451.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (FREN230 and FREN241) or (FREN212 and FREN220) or FREN221.\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from FREN351 or FREN451",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

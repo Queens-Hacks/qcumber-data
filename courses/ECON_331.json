@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Uses the methods of economic analysis to examine the main features of the development of Canada before Confederation and the United States through the Civil War.", 
-        "number": "331", 
-        "subject": "ECON", 
+        "description": "Uses the methods of economic analysis to examine the main features of the development of Canada before Confederation and the United States through the Civil War.\nLEARNING HOURS\u00a0\u00a0 120 (36L;6G;78P)",
+        "number": "331",
+        "subject": "ECON",
         "title": "Economic History of North America to 1865"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "ECON212/3.0", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "ECON212/3.0",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

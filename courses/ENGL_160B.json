@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is designed to promote interest in and understanding of modern prose fiction by introducing students to a selection of the best novels and short stories of the 20th century. British, American, and Canadian authors are represented.\nNOTE\u00a0\u00a0 \u00a0Enrollment is limited to students not registered in an ENGL Plan, and preference is given to upper-year students. This course may not be used as a foundation for an ENGL Plan or a prerequisite for upper-year ENGL courses.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)", 
-        "number": "160B", 
-        "subject": "ENGL", 
+        "description": "This course is designed to promote interest in and understanding of modern prose fiction by introducing students to a selection of the best novels and short stories of the 20th century. British, American, and Canadian authors are represented.\nNOTE\u00a0\u00a0 \u00a0Enrolment is limited to students not registered in an ENGL Plan. This course cannot be counted toward an ENGL Plan nor used as a prerequisite for upper-year ENGL courses.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)",
+        "number": "160B",
+        "subject": "ENGL",
         "title": "Modern Prose Fiction"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "6.00"
     }
 }

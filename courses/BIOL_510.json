@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "RECOMMENDATION\u00a0\u00a0\u00a0 BIOL 302/3.0 and BIOL 303/3.0.", 
-        "number": "510", 
-        "subject": "BIOL", 
+        "description": "LEARNING HOURS\u00a0 120 (36S;12T;12G;36I;12O;12P)\nRECOMMENDATION\u00a0\u00a0\u00a0 BIOL 302/3.0 and BIOL 303/3.0.",
+        "number": "510",
+        "subject": "BIOL",
         "title": "Biogeochemistry and Global Change"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

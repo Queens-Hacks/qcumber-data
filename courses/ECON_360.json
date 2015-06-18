@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An analytical course covering topics in labour supply analysis, the economics of human capital, labour demand, the operation of labour markets, the economic behaviour and effect of unions, and selected aspects of wage structure.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "360", 
-        "subject": "ECON", 
+        "description": "An analytical course covering topics in labour supply analysis, the economics of human capital, labour demand, the operation of labour markets, the economic behaviour and effect of unions, and selected aspects of wage structure.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "360",
+        "subject": "ECON",
         "title": "Labour Economics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "ECON212", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "ECON212",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "334", 
-        "subject": "COMM", 
+        "description": "",
+        "number": "334",
+        "subject": "COMM",
         "title": "Indust Marketing & Procurement"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "(prerequisite of COMM333 and registered in a BCOM Academic Program and have a level > or equal to 3) or registered in a COMM-X Academic Plan.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "(prerequisite of COMM333 and registered in a BCOM Academic Program and have a level > or equal to 3) or registered in a COMM-X Academic Plan.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

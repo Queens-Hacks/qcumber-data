@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Methods and techniques for collecting, processing and analysing remote sensing data are examined. Special emphasis will be placed on airborne and satellite sensors operating in the visible and near-infrared regions of the spectrum, as well as airborne and spaceborne radar systems. Topics include image enhancement techniques, non-traditional image classification, hyperspectral data analysis and data integration for incorporation of remote sensing data products into Geographic Information Systems (GIS). Three term-hours.", 
-        "number": "842", 
-        "subject": "GPHY", 
+        "description": "Methods and techniques for collecting, processing and analysing remote sensing data are examined. Special emphasis will be placed on airborne and satellite sensors operating in the visible and near-infrared regions of the spectrum, as well as airborne and spaceborne radar systems. Topics include image enhancement techniques, non-traditional image classification, hyperspectral data analysis and data integration for incorporation of remote sensing data products into Geographic Information Systems (GIS). Three term-hours.",
+        "number": "842",
+        "subject": "GPHY",
         "title": "Remote Sensing & Image Process"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

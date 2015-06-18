@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Analysis of statically determinate structures such as trusses and plane frames, calculation of deflections by virtual work. Flexibility and stiffness methods for analyzing statically indeterminate structures. Computer applications of the above methods.\u00a0PPE will be required for this course at student's cost (see course materials for details).", 
-        "number": "330", 
-        "subject": "CIVL", 
+        "description": "Analysis of statically determinate structures such as trusses and plane frames, calculation of deflections by virtual work. Flexibility and stiffness methods for analyzing statically indeterminate structures. Computer applications of the above methods.\u00a0PPE will be required for this course at student's cost (see course materials for details).",
+        "number": "330",
+        "subject": "CIVL",
         "title": "Structural Theory I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 44, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 44,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL230 and CIVL231 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL230 and CIVL231 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.75"
     }
 }

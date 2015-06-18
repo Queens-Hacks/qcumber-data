@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "For students intending a medial or major concentration in Mathematics or Statistics. Provides a thorough introduction to linear algebra up to and including eigenvalues and eigenvectors.\nLEARNING HOURS\u00a0\u00a0\u00a0 264 (72L;24T;168P)\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.", 
-        "number": "110A", 
-        "subject": "MATH", 
+        "description": "For students intending a medial or major concentration in Mathematics or Statistics. Provides a thorough introduction to linear algebra up to and including eigenvalues and eigenvectors.\nLEARNING HOURS\u00a0\u00a0\u00a0 264 (72L;24T;168P)\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.",
+        "number": "110A",
+        "subject": "MATH",
         "title": "Linear Algebra"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 At least one 4U mathematics course.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH110; MATH111; MATH112", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 At least one 4U mathematics course.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH110; MATH111; MATH112",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "0.00"
     }
 }

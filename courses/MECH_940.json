@@ -1,24 +1,26 @@
 {
     "basic": {
-        "description": "This course is intended for those Ph.D. students who already have a good background in the fundamental topics related to their research and are interested in other areas not offered in existing graduate courses. Topics can be selected from the general areas of heat transfer, fluid mechanics and thermodynamics. The course will include lectures, open discussions and directed study. The course content for a student or group must be specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and presentations by each student. Three term hours, lectures.\u00a0 A.M. Birk", 
-        "number": "940", 
-        "subject": "MECH", 
-        "title": "Thermal-Fluids Engineering"
-    }, 
+        "description": "This course is limited to those PhD students who already have a good background in the fundamental and advanced topics related to their research and are interested in other areas not offered in existing graduate courses. Topics can be selected from the general areas of heat transfer, fluid mechanics and thermodynamics. The course will include lectures, open discussion and directed study. The course content for a student or group must specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and/or presentations and/or exams. Instructors: Various faculty members from within the Department of Mechanical and Materials Engineering. EXCLUSIONS: MECH-942*, MECH-943*, MECH-944*",
+        "number": "940",
+        "subject": "MECH",
+        "title": "Selected Topics in Thermal-Fluids Engineering"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

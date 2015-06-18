@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A year-long team design project based around an autonomous, programmable, robotic vehicle. Students explore different sensors and software strategies for vehicle control and navigation, in addition to wiring up sensor and motor circuits. The design goal is to configure and program a vehicle to take part in a year-end competition in which robots compete head-to-head on a pre-defined playfield under established competition rules. Mid-year and final project reports must be produced that document the experimentation, design, and testing. A final exam tests knowledge of sensors and software", 
-        "number": "299", 
-        "subject": "ELEC", 
-        "title": "Autonomous Robot Design Project"
-    }, 
+        "description": "A team design project based around an autonomous, programmable, robotic vehicle, following on from project activity in APSC 200. Students explore different sensors and software strategies for vehicle control and navigation, in addition to wiring up sensor and motor circuits. The design goal is to configure and program a vehicle to take part in a year-end competition in which robots compete head-to-head on a pre-defined playfield under established competition rules. A final project report must be produced that documents the experimentation, design, and testing. A final exam tests knowledge of sensors and software. (0/0/0/0/18)",
+        "number": "299",
+        "subject": "ELEC",
+        "title": "Mechatronics Project"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 18, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 18,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Laboratory": "Required"
-        }, 
-        "enrollment_requirement": "Prereq ELEC 221, ELEC 271. Coreq ELEC 252, ELEC 280", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prereq ELEC 221, ELEC 271. Coreq ELEC 252, ELEC 280",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "1.50"
     }
 }

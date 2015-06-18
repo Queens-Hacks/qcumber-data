@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A series of lectures and workshops illustrating modern teaching philosophy and technique specifically designed for teaching Anatomy in the Health Sciences.Fall Term.\u00a0 Drs. R.A. Easteal and L.W. MacKenzie.", 
-        "number": "834", 
-        "subject": "ANAT", 
+        "description": "A series of lectures and workshops illustrating modern teaching philosophy and technique specifically designed for teaching Anatomy in the Health Sciences.Fall Term.\u00a0 Drs. R.A. Easteal and L.W. MacKenzie.",
+        "number": "834",
+        "subject": "ANAT",
         "title": "Principles and Techniques in the Teaching of Anatomical Sciences"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

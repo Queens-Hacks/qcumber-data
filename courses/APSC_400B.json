@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Where appropriate, multidiscipline teams of engineering, commerce, law, and science students act as consultants to industrial and governmental clients. Projects include a phase of self directed problem definition and project scope definition in the fall term, followed by project execution in the winter term. Typical projects involve evaluation of technical alternatives (with an emphasis on health, safety, and environmental), preparation of detailed recommendations, and both market and financial analysis. Project topics vary widely and are provided by a diverse list of fee paying clients. The course includes seminars on project management. There are several meetings during the Fall term to organize groups and select projects, but regularly scheduled lectures do not begin until the Winter term. Teams interact regularly with clients at both a technical and a management level, and are also assigned an industrial project mentor. Students manage their own budget, travel arrangements etc. The course concludes with a comprehensive report and presentation at the client\u00bfs office. The course is managed by the Department of Chemical Engineering. Further information, including a list of projects, can be found at: http://team.appsci.queensu.ca/", 
-        "number": "400B", 
-        "subject": "APSC", 
+        "description": "Where appropriate, multidiscipline teams of engineering, commerce, law, and science students act as consultants to industrial and governmental clients. Projects include a phase of self directed problem definition and project scope definition in the fall term, followed by project execution in the winter term. Typical projects involve evaluation of technical alternatives (with an emphasis on health, safety, and environmental), preparation of detailed recommendations, and both market and financial analysis. Project topics vary widely and are provided by a diverse list of fee paying clients. The course includes seminars on project management. There are several meetings during the Fall term to organize groups and select projects, but regularly scheduled lectures do not begin until the Winter term. Teams interact regularly with clients at both a technical and a management level, and are also assigned an industrial project mentor. Students manage their own budget, travel arrangements etc. The course concludes with a comprehensive report and presentation at the client\u00bfs office. The course is managed by the Department of Chemical Engineering. Further information, including a list of projects, can be found at: http://team.appsci.queensu.ca/",
+        "number": "400B",
+        "subject": "APSC",
         "title": "Tech Eng And Mgmt Team"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 21, 
-            "Eng Des": 28, 
-            "Eng Sci": 29, 
+            "Basic Sci": 0,
+            "Comp St": 21,
+            "Eng Des": 28,
+            "Eng Sci": 29,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "6.50"
     }
 }

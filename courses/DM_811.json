@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Design for Manufacturability (DFM) involves a variety of systematic design approaches that ensure all elements of the product life-cycle from conception through to final disposal are addressed by the engineer during the product design process. In this course, the participants will develop an understanding of the various tools and techniques used to design high-quality products at the lowest possible cost. General topics to be covered in the course include: Design for Manufacture (DFM): Product life cycle; engineering design methods; general approaches to DFM; integrating design and manufacturing data; managing the engineering design process; organizational barriers to DFM. Design for Competitive Advantage: Design to cost; time-to-market; time-to-breakeven; design to value; mass customization. DFM and Quality Engineering: Customer needs and expectations; Quality Function Deployment (QFD); product and process FMEA (Failure Mode and Effects Analysis); Taguchi methods (TM). Design for X (DFX): Design for assembly (DFA); design for reliability; design for environment; design for human factors; software tools for DFM. (Lead Instructor: George Knopf, Western Ontario)", 
-        "number": "811", 
-        "subject": "DM", 
+        "description": "Design for Manufacturability (DFM) involves a variety of systematic design approaches that ensure all elements of the product life-cycle from conception through to final disposal are addressed by the engineer during the product design process. In this course, the participants will develop an understanding of the various tools and techniques used to design high-quality products at the lowest possible cost. General topics to be covered in the course include: Design for Manufacture (DFM): Product life cycle; engineering design methods; general approaches to DFM; integrating design and manufacturing data; managing the engineering design process; organizational barriers to DFM. Design for Competitive Advantage: Design to cost; time-to-market; time-to-breakeven; design to value; mass customization. DFM and Quality Engineering: Customer needs and expectations; Quality Function Deployment (QFD); product and process FMEA (Failure Mode and Effects Analysis); Taguchi methods (TM). Design for X (DFX): Design for assembly (DFA); design for reliability; design for environment; design for human factors; software tools for DFM. (Lead Instructor: George Knopf, Western Ontario)",
+        "number": "811",
+        "subject": "DM",
         "title": "Design For Manufacturability"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

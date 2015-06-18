@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An evolutionary approach to the study of animal behaviour. This course explores processes and patterns in behaviour, with emphasis on perception, communication, foraging, spacing, reproduction and social behaviour in a variety of animals. Methods of studying and analyzing behaviour are explored through laboratory exercises.", 
-        "number": "321", 
-        "subject": "BIOL", 
+        "description": "An evolutionary approach to the study of animal behaviour. This course explores processes and patterns in behaviour, with emphasis on perception, communication, foraging, spacing, reproduction and social behaviour in a variety of animals. Methods of studying and analyzing behaviour are explored through laboratory exercises.\nNOTE\u00a0\u00a0\u00a0 Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;12I;12O;24Oc;36P)",
+        "number": "321",
+        "subject": "BIOL",
         "title": "Animal Behaviour"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 BIOL202.\r\nCorequisite\u00a0\u00a0\u00a0\u00a0 6.0 units in BIOL at the 200 level.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 6.0 units in BIOL at the 200 level.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

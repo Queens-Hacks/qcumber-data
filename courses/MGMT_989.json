@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The aim of this course is to introduce students to the conduct of research.\u00a0 Immediately following MGMT-890/990, students complete a research proposal which is presented formally to faculty and graduate students.\u00a0 Under the supervision of a faculty member, students then devote the Spring and Summer semesters of their first year of studies to carrying out the research outlined in the proposal.\u00a0 Completion of the course requires a written research paper of publishable quality submitted by the end of the Summer Term, and an oral presentation to faculty and graduate students, early in the Fall of the second year of studies.", 
-        "number": "989", 
-        "subject": "MGMT", 
+        "description": "The aim of this course is to introduce students to the conduct of research.\u00a0 Immediately following MGMT-890/990, students complete a research proposal which is presented formally to faculty and graduate students.\u00a0 Under the supervision of a faculty member, students then devote the Spring and Summer semesters of their first year of studies to carrying out the research outlined in the proposal.\u00a0 Completion of the course requires a written research paper of publishable quality submitted by the end of the Summer Term, and an oral presentation to faculty and graduate students, early in the Fall of the second year of studies.",
+        "number": "989",
+        "subject": "MGMT",
         "title": "Research Project"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

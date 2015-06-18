@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course is concerned with the technical, economic and environmental aspects of conventional and novel methods of energy supply and use. Emphasis will be placed on the analysis and design of thermal systems. Topics include: electric utility demand and supply; the analysis of thermal power generation systems including combined cycle and cogeneration plants; emission control; alternative energy systems. A group project related to the design of a thermal system will form a significant portion of this course. NOTE: Limited enrollment.", 
-        "number": "430", 
-        "subject": "MECH", 
+        "description": "This course is concerned with the technical, economic and environmental aspects of conventional and novel methods of energy supply and use. Emphasis will be placed on the analysis and design of thermal systems. Topics include: electric utility demand and supply; the analysis of thermal power generation systems including combined cycle and cogeneration plants; emission control; alternative energy systems. A group project related to the design of a thermal system will form a significant portion of this course. NOTE: Limited enrollment.",
+        "number": "430",
+        "subject": "MECH",
         "title": "Thermal Systems Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 24, 
-            "Eng Sci": 24, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 24,
+            "Eng Sci": 24,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of MECH330 or permission of the instructor and registered in a BSCE Academic Program. Enrolment is limited.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of MECH330 or permission of the instructor and registered in a BSCE Academic Program. Enrolment is limited.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "4.00"
     }
 }

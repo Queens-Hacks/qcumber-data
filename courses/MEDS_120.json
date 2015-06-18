@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Aims of the Course The Mechanisms of Disease course will ensure that all students have the foundational knowledge of pathology, immunology, medical microbiology, and infectious disease necessary for the curriculum of subsequent terms of the M.D. program. The instructional design of the course will introduce the student to independent learning, small group learning and team based learning. Students will gain an enhanced understanding of mechanistic processes with an emphasis on how such comprehension can be applied to case based presentations for appropriate diagnosis and management", 
-        "number": "120", 
-        "subject": "MEDS", 
+        "description": "Aims of the Course The Mechanisms of Disease course will ensure that all students have the foundational knowledge of pathology, immunology, medical microbiology, and infectious disease necessary for the curriculum of subsequent terms of the M.D. program. The instructional design of the course will introduce the student to independent learning, small group learning and team based learning. Students will gain an enhanced understanding of mechanistic processes with an emphasis on how such comprehension can be applied to case based presentations for appropriate diagnosis and management",
+        "number": "120",
+        "subject": "MEDS",
         "title": "SF: Mechanisms Of Disease"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

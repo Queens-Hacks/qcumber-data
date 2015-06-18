@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course has two central purposes. The first is to provide students with a foundation of core organization and management theories. The second is to provide students with the opportunity to apply these theories toward addressing key challenges facing the current health care industry.", 
-        "number": "837", 
-        "subject": "MPA", 
+        "description": "This course has two central purposes. The first is to provide students with a foundation of core organization and management theories. The second is to provide students with the opportunity to apply these theories toward addressing key challenges facing the current health care industry.",
+        "number": "837",
+        "subject": "MPA",
         "title": "Management In Health Care"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

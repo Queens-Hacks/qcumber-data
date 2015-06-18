@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Comprehension of biological processes is essential to understanding how the human body functions. This course will provide foundational knowledge in the areas of biochemistry/metabolism, physiology and genetics, which will be built upon in subsequent terms of the M.D. program. Aims of the Course The Normal Human Function course will ensure that all students have the foundational knowledge of biochemistry, metabolism, nutrition, physiology and genetics necessary for the curriculum of subsequent terms of the M.D.program.The instructional design of the course will introduce students to independent learning, small group learning and team based learning. Students will gain an enhanced understanding of metabolic and physiological processes with an emphasis on how such comprehension can be applied to case based presentations for appropriate diagnosis and management. The aim of the genetics curriculum is to allow any physician to recognize the genetically at risk, to either initiate testing and management themselves,or to refer appropriately.", 
-        "number": "111", 
-        "subject": "MEDS", 
+        "description": "Comprehension of biological processes is essential to understanding how the human body functions. This course will provide foundational knowledge in the areas of biochemistry/metabolism, physiology and genetics, which will be built upon in subsequent terms of the M.D. program. Aims of the Course The Normal Human Function course will ensure that all students have the foundational knowledge of biochemistry, metabolism, nutrition, physiology and genetics necessary for the curriculum of subsequent terms of the M.D.program.The instructional design of the course will introduce students to independent learning, small group learning and team based learning. Students will gain an enhanced understanding of metabolic and physiological processes with an emphasis on how such comprehension can be applied to case based presentations for appropriate diagnosis and management. The aim of the genetics curriculum is to allow any physician to recognize the genetically at risk, to either initiate testing and management themselves,or to refer appropriately.",
+        "number": "111",
+        "subject": "MEDS",
         "title": "SF: Normal Human Function"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,24 +1,26 @@
 {
     "basic": {
-        "description": "", 
-        "number": "285", 
-        "subject": "FOCI", 
-        "title": "Teachers In Industry"
-    }, 
+        "description": "Teacher candidates will draw on the understandings of practicing teachers who have developed the confidence to question schooling/teaching practices and agendas from a social justice perspective. Additional issues to be considered include: the effects of social class, gender, and race on students' educational experiences. At the centre of this course is the link between theory and practice, what we do and what we think are not separate.",
+        "number": "285",
+        "subject": "FOCI",
+        "title": "Teaching and Learning Outside of Schools"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

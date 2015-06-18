@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Behaviour, analysis and design of pretensioned and post-tensioned concrete systems including simply-supported and continuous beams, and two-way slabs. Considerations of prestress losses, cracking and deflection. A design project is undertaken in this course. Three term-hours, winter; lectures and tutorials.", 
-        "number": "436", 
-        "subject": "CIVL", 
+        "description": "Behaviour, analysis and design of pretensioned and post-tensioned concrete systems including simply-supported and continuous beams, and two-way slabs. Considerations of prestress losses, cracking and deflection. A design project is undertaken in this course. Three term-hours, winter; lectures and tutorials.",
+        "number": "436",
+        "subject": "CIVL",
         "title": "Prestressed Concrete"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 24, 
-            "Eng Sci": 24, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 24,
+            "Eng Sci": 24,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL 430 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL 430 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

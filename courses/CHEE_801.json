@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "The statistical design of experiments and the analysis of data in process investigations are considered. Empirical modelling of process behaviour is studied. Applications of factorial and fractional factorial experimental designs in screening studies and methods of response surface exploration are examined. Traditional North American approaches to quality and productivity improvement are compared with those practiced in Japan. (Jointly offered with CHEE-418, with additional assignments.) P.J. McLellan or M. Guay", 
-        "number": "801", 
-        "subject": "CHEE", 
+        "description": "The statistical design of experiments and the analysis of data in process investigations are considered. Empirical modelling of process behaviour is studied. Applications of factorial and fractional factorial experimental designs in screening studies and methods of response surface exploration are examined. Traditional North American approaches to quality and productivity improvement are compared with those practiced in Japan. (Jointly offered with CHEE-418, with additional assignments.) P.J. McLellan or M. Guay",
+        "number": "801",
+        "subject": "CHEE",
         "title": "Strategies For Process Invest."
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

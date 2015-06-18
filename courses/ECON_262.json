@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A Canadian perspective on labour market theories, trends, policies and the analysis of differences by gender in labour demand, labour supply, and wages.", 
-        "number": "262", 
-        "subject": "ECON", 
+        "description": "A Canadian perspective on labour market theories, trends, policies and the analysis of differences by gender in labour demand, labour supply, and wages.\nLEARNING HOURS\u00a0\u00a0 120 (36L;6G;78P)",
+        "number": "262",
+        "subject": "ECON",
         "title": "Labour Market and Gender Differences"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "ECON110 OR ECON111", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "ECON110 OR ECON111",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

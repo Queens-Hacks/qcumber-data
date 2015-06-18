@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An examination of aspects of modern inorganic and organometallic chemistry. Topics will include metal-ligand bonding in organometallic complexes, applications of organometallics in organic synthesis, metal-metal bonding in dinuclear and polynuclear metal complexes, and may include reaction mechanisms of transition metal complexes, bioinorganic chemistry, and symmetry.", 
-        "number": "423", 
-        "subject": "ENCH", 
+        "description": "An examination of aspects of modern inorganic and organometallic chemistry. Topics will include metal-ligand bonding in organometallic complexes, applications of organometallics in organic synthesis, metal-metal bonding in dinuclear and polynuclear metal complexes, and may include reaction mechanisms of transition metal complexes, bioinorganic chemistry, and symmetry.",
+        "number": "423",
+        "subject": "ENCH",
         "title": "Topics In Inorg/Organomet Chem"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 36, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 36,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "CHEM312 (ENCH312)", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "CHEM312 (ENCH312)",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

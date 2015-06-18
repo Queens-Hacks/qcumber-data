@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Specialized topics in MIS research will be covered. The subject matter may vary from year to year depending on the interests of students and faculty.", 
-        "number": "975", 
-        "subject": "MGMT", 
+        "description": "Specialized topics in MIS research will be covered. The subject matter may vary from year to year depending on the interests of students and faculty.",
+        "number": "975",
+        "subject": "MGMT",
         "title": "Special Topics In MIS"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

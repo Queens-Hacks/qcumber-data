@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is for students registered at a university outside Canada who wish to do a term at Queen's to satisfy the requirements of their home university. The student will work with a professor who has agreed to act as a supervisor. The time frame and requirements for course completion will be agreed upon by the supervising professor at Queen's, and a faculty member of the university for which the student is fulfilling the work term requirement.", 
-        "number": "463", 
-        "subject": "MECH", 
+        "description": "This course is for students registered at a university outside Canada who wish to do a term at Queen's to satisfy the requirements of their home university. The student will work with a professor who has agreed to act as a supervisor. The time frame and requirements for course completion will be agreed upon by the supervising professor at Queen's, and a faculty member of the university for which the student is fulfilling the work term requirement.",
+        "number": "463",
+        "subject": "MECH",
         "title": "Eng Proj For Intl Students"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 24, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 24,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "enrollment_requirement": "Must be registered in a BSCE program", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "2.00"
     }
 }

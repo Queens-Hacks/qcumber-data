@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "Theory of convex sets and functions; separation theorems; primal-dual properties;\u00a0geometric treatment of optimization problems; algorithmic procedures for solving constrained optimization programs;\u00a0engineering and economic applications.",
+        "number": "434",
+        "subject": "MTHE",
+        "title": "Optimization Theory and Applications"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 15,
+            "Math": 15
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "3.50"
+    }
+}

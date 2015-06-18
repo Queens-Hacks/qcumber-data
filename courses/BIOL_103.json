@@ -1,25 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to the basic themes and concepts of modern biology spanning organizational levels from organisms to ecosystems in an evolutionary context.\nNOTE\u00a0\u00a0\u00a0 Lab Manual: estimated cost $13.\nLEARNING HOURS\u00a0\u00a0\u00a0 130 (36L;24Lb;24O;39P)", 
-        "number": "103", 
-        "subject": "BIOL", 
+        "description": "An introduction to the basic themes and concepts of modern biology spanning organizational levels from organisms to ecosystems in an evolutionary context.\r\nNOTE\u00a0\u00a0\u00a0 Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\r\nNOTE\u00a0\u00a0\u00a0 Also offered at the Bader International Study Centre, Herstmonceux. Learning Hours may vary.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 123 (36L;24Lb;24O;39P)\r\nRECOMMENDATION\u00a0\u00a0\u00a0 BIOL 102/3.0.",
+        "number": "103",
+        "subject": "BIOL",
         "title": "Introductory Biology of Organisms"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 45, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 45,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Distance Studies", 
+        },
+        "career": "Distance Studies",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL102", 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Individual directed reading course under the guidance of a faculty member in an area of the instructor's expertise.\u00a0 This course is normally reserved for Doctoral students. Half-course; Fall or Winter", 
-        "number": "997", 
-        "subject": "ARTH", 
+        "description": "Individual directed reading course under the guidance of a faculty member in an area of the instructor's expertise.\u00a0 This course is normally reserved for Doctoral students. Half-course; Fall or Winter",
+        "number": "997",
+        "subject": "ARTH",
         "title": "Directed Reading"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

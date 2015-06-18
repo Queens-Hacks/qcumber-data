@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An examination of major historical debates, schools of historical research and writing, and historical methodologies.\u00a0\u00a0 This course is required for all Ph.D. candidates and open only to Ph.D. candidates.\u00a0 This course is marked on a pass/fail basis.", 
-        "number": "901", 
-        "subject": "HIST", 
+        "description": "An examination of major historical debates, schools of historical research and writing, and historical methodologies.\u00a0\u00a0 This course is required for all Ph.D. candidates and open only to Ph.D. candidates.\u00a0 This course is marked on a pass/fail basis.",
+        "number": "901",
+        "subject": "HIST",
         "title": "Approaches To History"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Pass/Fail", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Pass/Fail",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

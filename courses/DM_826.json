@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The course covers the fundamentals of industrial energy management and the technical procedures required for assessing energy saving opportunities (ESOs) in equipment and systems found in almost every industrial facility. These procedures can be applied on existing equipment or systems and used for sizing and selecting new equipment. The required background in heat transfer, fluid mechanics, and thermodynamics to support the analysis and the assessment of the various ESOs is also covered.(Lead Instructor; Mohamed S. Hamed, McMaster)(ADMI course number DM0824)", 
-        "number": "826", 
-        "subject": "DM", 
+        "description": "The course covers the fundamentals of industrial energy management and the technical procedures required for assessing energy saving opportunities (ESOs) in equipment and systems found in almost every industrial facility. These procedures can be applied on existing equipment or systems and used for sizing and selecting new equipment. The required background in heat transfer, fluid mechanics, and thermodynamics to support the analysis and the assessment of the various ESOs is also covered.(Lead Instructor; Mohamed S. Hamed, McMaster)(ADMI course number DM0824)",
+        "number": "826",
+        "subject": "DM",
         "title": "Energy Efficien. In Indus Proc"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

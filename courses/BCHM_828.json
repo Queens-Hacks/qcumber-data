@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course is intended to provide the student with the opportunity to gain familiarity with their research field. Students will review the literature related to their proposed graduate research thesis project and write a series of essays on topics selected in consultation with their supervisor; these will be evaluated by a supervisory committee consisting of their supervisor and two other faculty members. They will also develop a written draft research proposal that will be presented to their supervisory committee and defended in a final oral examination. This course is not mandatory but is highly recommended to be taken by students in the first full term of the graduate program.\u00a0G.P. C\u00f4t\u00e9 (course coordinator).\u00a0", 
-        "number": "828", 
-        "subject": "BCHM", 
+        "description": "This course is intended to provide the student with the opportunity to gain familiarity with their research field. Students will review the literature related to their proposed graduate research thesis project and write a series of essays on topics selected in consultation with their supervisor; these will be evaluated by a supervisory committee consisting of their supervisor and two other faculty members. They will also develop a written draft research proposal that will be presented to their supervisory committee and defended in a final oral examination. This course is not mandatory but is highly recommended to be taken by students in the first full term of the graduate program.\u00a0G.P. C\u00f4t\u00e9 (course coordinator).\u00a0",
+        "number": "828",
+        "subject": "BCHM",
         "title": "Biochemistry Research Project"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "3.00"
     }
 }

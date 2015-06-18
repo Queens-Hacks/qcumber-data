@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Topics in open channel flow including friction, specific energy, free-surface profiles, culverts and hydraulic-jump energy dissipators. Turbomachinery including pump characteristics, pump selection and analysis of combinations of pumps and piping systems. Fluid measurement, lift and drag, cavitation and water hammer, dispersion and diffusion are also discussed. (0/5/0/10/33) ~ COURSE DELETED IN 2008/09 ~", 
-        "number": "355", 
-        "subject": "CIVL", 
+        "description": "Topics in open channel flow including friction, specific energy, free-surface profiles, culverts and hydraulic-jump energy dissipators. Turbomachinery including pump characteristics, pump selection and analysis of combinations of pumps and piping systems. Fluid measurement, lift and drag, cavitation and water hammer, dispersion and diffusion are also discussed. (0/5/0/10/33) ~ COURSE DELETED IN 2008/09 ~",
+        "number": "355",
+        "subject": "CIVL",
         "title": "Introd. Hydraulic Engineering"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 5, 
-            "Comp St": 0, 
-            "Eng Des": 33, 
-            "Eng Sci": 10, 
+            "Basic Sci": 5,
+            "Comp St": 0,
+            "Eng Des": 33,
+            "Eng Sci": 10,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL354 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL354 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

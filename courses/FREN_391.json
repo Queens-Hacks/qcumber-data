@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Focuses on a specific author or on a specific theme of Quebec literature. Topics will depend on the professor's interest and field of research. Travaux pratiques include essays and tests. Given jointly with FREN 491/3.0.", 
-        "number": "391", 
-        "subject": "FREN", 
+        "description": "Focuses on a specific author or on a specific theme of Quebec literature. Topics will depend on the professor's interest and field of research. Travaux pratiques include essays and tests.",
+        "number": "391",
+        "subject": "FREN",
         "title": "Auteurs et th\u00e8mes en litt\u00e9rature qu\u00e9b\u00e9coise"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 6.0 units from FREN212 or FREN220 or\u00a0 FREN221 and registration in a FREN plan.\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from FREN391; FREN491.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 (FREN230 and FREN241) or FREN221 or (FREN222 and FREN220).\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from FREN391 or FREN491.",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "An introductory course on wind-turbine operation and aerodynamics. Topics include: the Betz limit; the Blade Element Momentum method; characteristics of the atmospheric boundary layer; unsteady aerodynamic theory; gusts and blade aeroelasticity; blade noise and health effects; and wind-park siting and planning. Extension of some of these topics to small wind turbines, run-of-the-river water turbines and off-grid systems will also be presented. Students are expected to have sufficient experience with fluid dynamics equivalent to MECH 341. Those who have not taken such a course will need to prepare through self-study.",
+        "number": "481",
+        "subject": "MECH",
+        "title": "Wind Energy"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 42,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "3.50"
+    }
+}

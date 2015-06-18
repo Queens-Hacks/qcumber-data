@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "", 
-        "number": "221", 
-        "subject": "SPEC", 
+        "description": "",
+        "number": "221",
+        "subject": "SPEC",
         "title": "Linguistics & Teacher 2nd Lang"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "1.50"
     }
 }

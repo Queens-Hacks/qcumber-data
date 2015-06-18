@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The course examines the major philosophical traditions that have influenced the generation of nursing knowledge through empirical, interpretive and critical paradigms. It includes a critical analysis of world views, truth, theoretical perspectives, theories, and constructs within the discipline, with an emphasis on relationships between philosophy, theory, research and practice in the generation of nursing knowledge. Fall term.", 
-        "number": "901", 
-        "subject": "NURS", 
+        "description": "The course examines the major philosophical traditions that have influenced the generation of nursing knowledge through empirical, interpretive and critical paradigms. It includes a critical analysis of world views, truth, theoretical perspectives, theories, and constructs within the discipline, with an emphasis on relationships between philosophy, theory, research and practice in the generation of nursing knowledge. Fall term.",
+        "number": "901",
+        "subject": "NURS",
         "title": "Philosophy Of Nursing Science"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

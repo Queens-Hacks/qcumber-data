@@ -1,25 +1,27 @@
 {
     "basic": {
-        "description": "Lecture courses on selected topics in psychology offered periodically.\r\nNOTE\u00a0\u00a0\u00a0 Prerequisites vary depending on specific course content; consult instructor or Undergraduate Office in the Psychology Department.", 
-        "number": "398", 
-        "subject": "PSYC", 
+        "description": "Lecture courses on selected topics in psychology offered periodically.\r\nNOTE\u00a0\u00a0\u00a0 Prerequisites vary depending on specific course content; consult instructor or Undergraduate Office in the Psychology Department.",
+        "number": "398",
+        "subject": "PSYC",
         "title": "Selected Topics in Psychology I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 PSYC271", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 PSYC202 and 3.0 units from PSYC205; PSYC215; PSYC221 or COGS201",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

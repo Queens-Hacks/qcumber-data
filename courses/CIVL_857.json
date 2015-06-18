@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A course in the basics of river engineering including the study of alluvial process, the prediction and consequences of sediment transport, the design of measures to control erosion and accretion, and the design of dams, spillways and diversions. Hydraulic modelling of fluvial processes and engineering structures is addressed. Water quality including transport and mixing of conservative and non-conservative substances is discussed. Techniques for water quality monitoring, and control and bioengineering in a riverine environment are also addressed. Three term-hours.", 
-        "number": "857", 
-        "subject": "CIVL", 
+        "description": "A course in the basics of river engineering including the study of alluvial process, the prediction and consequences of sediment transport, the design of measures to control erosion and accretion, and the design of dams, spillways and diversions. Hydraulic modelling of fluvial processes and engineering structures is addressed. Water quality including transport and mixing of conservative and non-conservative substances is discussed. Techniques for water quality monitoring, and control and bioengineering in a riverine environment are also addressed. Three term-hours.",
+        "number": "857",
+        "subject": "CIVL",
         "title": "River Engineering"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

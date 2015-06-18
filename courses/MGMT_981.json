@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This is a seminar course. The specific topics covered may vary from year to year but will be representative of the major areas in which economics informs managerial decision-making. Recent publications and research studies are used both to draw together the theoretical knowledge acquired in earlier courses and to focus the student's attention on the application of this knowledge to business situations.", 
-        "number": "981", 
-        "subject": "MGMT", 
+        "description": "This is a seminar course. The specific topics covered may vary from year to year but will be representative of the major areas in which economics informs managerial decision-making. Recent publications and research studies are used both to draw together the theoretical knowledge acquired in earlier courses and to focus the student's attention on the application of this knowledge to business situations.",
+        "number": "981",
+        "subject": "MGMT",
         "title": "Adv. Top. In Managerial Econ."
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A twelve-week (minimum) practicum for candidates in the Aboriginal Teacher Education part-time, community-based program track. Candidates are placed in First Nations Federal or Provincial schools which follow Ontario curriculum guidelines.", 
-        "number": "195", 
-        "subject": "PRAC", 
+        "description": "A twelve-week (minimum) practicum for candidates in the Aboriginal Teacher Education part-time, community-based program track. Candidates are placed in First Nations Federal or Provincial schools which follow Ontario curriculum guidelines.",
+        "number": "195",
+        "subject": "PRAC",
         "title": "Practicum(Aboriginal Teach Ed)"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Pass/Fail", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Pass/Fail",
         "units": "6.00"
     }
 }

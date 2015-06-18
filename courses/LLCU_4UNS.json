@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "", 
-        "number": "4UNS", 
-        "subject": "LLCU", 
+        "description": "",
+        "number": "4UNS",
+        "subject": "LLCU",
         "title": "Unspecified - 400 Level"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Distance Studies", 
+        },
+        "career": "Distance Studies",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Non-Graded Component", 
+        },
+        "grading_basis": "Non-Graded Component",
         "units": "3.00"
     }
 }

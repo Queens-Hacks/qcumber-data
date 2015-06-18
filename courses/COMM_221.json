@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "The focus is on financial decisions of the firm and the consumer. The two main tasks of financial management, investment choices and financing choices, are examined with emphasis on separation of the investment decision and the owners' consumption decisions, on net present value in capital budgeting, and on capital structure. The course examines choices of portfolios by consumers and how these choices lead to equilibrium opportunity rates.", 
-        "number": "221", 
-        "subject": "COMM", 
+        "description": "The focus is on financial decisions of the firm and the consumer. The two main tasks of financial management, investment choices and financing choices, are examined with emphasis on separation of the investment decision and the owners' consumption decisions, on net present value in capital budgeting, and on capital structure. The course examines choices of portfolios by consumers and how these choices lead to equilibrium opportunity rates.",
+        "number": "221",
+        "subject": "COMM",
         "title": "Introduction To Finance"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "COMM 221",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

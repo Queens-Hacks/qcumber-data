@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "399", 
-        "subject": "POLS", 
+        "description": "",
+        "number": "399",
+        "subject": "POLS",
         "title": "Topics In Political Studies"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "(POLS2### AND POLS1###) OR POLS3### OR POLS4###", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "enrollment_requirement": "(POLS2### AND POLS1###) OR POLS3### OR POLS4###",
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "3.00"
     }
 }

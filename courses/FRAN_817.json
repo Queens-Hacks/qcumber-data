@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Principes de la pens\u00e9e algorithmique, possibilit\u00e9s et limites des outils informatiques pour l'analyse textuelle; cons\u00e9quences de la diversit\u00e9 des structures textuelles pour l'analyse informatis\u00e9e; interface entre mod\u00e8les linguistiques, litt\u00e9raires et informatiques. N'exige pas de formation en informatique. Travaux pratiques. Ne sera pas donn\u00e9 en 2010-2011.", 
-        "number": "817", 
-        "subject": "FRAN", 
+        "description": "Principes de la pens\u00e9e algorithmique, possibilit\u00e9s et limites des outils informatiques pour l'analyse textuelle; cons\u00e9quences de la diversit\u00e9 des structures textuelles pour l'analyse informatis\u00e9e; interface entre mod\u00e8les linguistiques, litt\u00e9raires et informatiques. N'exige pas de formation en informatique. Travaux pratiques. Ne sera pas donn\u00e9 en 2010-2011.",
+        "number": "817",
+        "subject": "FRAN",
         "title": "L'analyse iformatis\u00e9e des textes"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "An investigation in a selected area of physiology. The project involves experimental design, data collection and analysis, submission of\u00a0written reports, and oral presentations. Students attend seminars/tutorials on related topics.\r\nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also complete the Introductory Animal Care Course and if required the appropriate Animal Use workshops through the Office of the University Veterinarian.", 
-        "number": "499A", 
-        "subject": "PHGY", 
+        "description": "An investigation in a selected area of physiology. The project involves experimental design, data collection and analysis, submission of\u00a0written reports, and oral presentations. Students attend seminars/tutorials on related topics.\r\nNOTE\u00a0\u00a0 \u00a0Students whose research requires the care and/or handling of animals must also complete the Introductory Animal Care Course and if required the appropriate Animal Use workshops through the Office of the University Veterinarian.",
+        "number": "499A",
+        "subject": "PHGY",
         "title": "Research Project in Physiology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 Level 4 in LISC specialization Plan & perm of the Dept\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 9.0 units from ANAT499/9.0; CANC499/9.0; EPID499/9.0; LISC499/9.0; MICR455/6.0; MICR499/9.0; NSCI499/9.0; PATH 4999; PHGY499", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 Level 4 in LISC specialization Plan & perm of the Dept\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 9.0 units from ANAT499/9.0; CANC499/9.0; EPID499/9.0; LISC499/9.0; MICR455/6.0; MICR499/9.0; NSCI499/9.0; PATH 4999; PHGY499",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "0.00"
     }
 }

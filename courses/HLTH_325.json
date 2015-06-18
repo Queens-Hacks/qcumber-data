@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides an in-depth examination of the epidemiology of physical activity, fitness and health. The course builds upon basic epidemiological methods and explores the relationship between physical activity and several health outcomes, including coronary heart disease, stroke, metabolic syndrome, type 2 diabetes and cancer.", 
-        "number": "325", 
-        "subject": "HLTH", 
+        "description": "This course provides an in-depth examination of the epidemiology of physical activity, fitness and health. The course builds upon basic epidemiological methods and explores the relationship between physical activity and several health outcomes, including coronary heart disease, stroke, metabolic syndrome, type 2 diabetes and cancer.",
+        "number": "325",
+        "subject": "HLTH",
         "title": "Epidemiology of Physical Activity, Fitness and Health"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 HLTH 323/3.0 & registration in a HLTH, KINE or PHED plan.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from HLTH 325/3.0; KNPE 255/3.0 (formerly PHED 255/3.0)", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 HLTH 323/3.0 & registration in a HLTH, KINE or PHED plan.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from HLTH 325/3.0; KNPE 255/3.0 (formerly PHED 255/3.0)",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

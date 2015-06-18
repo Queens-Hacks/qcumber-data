@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An examination of the development and present state of knowledge in selected areas in life sciences and related areas. Research projects involve experimental design, data collection and analysis, written report, and oral presentation. Students will be required to attend seminars and tutorials on topics related to research.\r\nNOTE\u00a0\u00a0\u00a0 Students whose research requires the care and/or handling of animals must also complete the Introductory Animal Care Course and if required the appropriate Animal Use workshops through the Office of the University Veterinarian.", 
-        "number": "499", 
-        "subject": "LISC", 
+        "description": "An examination of the development and present state of knowledge in selected areas in life sciences and related areas. Research projects involve experimental design, data collection and analysis, written report, and oral presentation. Students will be required to attend seminars and tutorials on topics related to research.\r\nNOTE\u00a0\u00a0\u00a0 Students whose research requires the care and/or handling of animals must also complete the Introductory Animal Care Course and if required the appropriate Animal Use workshops through the Office of the University Veterinarian.",
+        "number": "499",
+        "subject": "LISC",
         "title": "Research Project in Life Sciences"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 Level 4 in the LISC Specialization & a GPA of 2.5 & perm of the Associate Dean of LISC & Biochemistry.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 9.0 units from ANAT499; CANC499; EPID499; LISC499; MICR455; MICR499; NSCI499; PATH499; PHAR499 ; PHGY499.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 Level 4 in the LISC Specialization & a GPA of 2.5 & perm of the Associate Dean of LISC & Biochemistry.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 9.0 units from ANAT499; CANC499; EPID499; LISC499; MICR455; MICR499; NSCI499; PATH499; PHAR499 ; PHGY499.",
+        "grading_basis": "Graded",
         "units": "9.00"
     }
 }

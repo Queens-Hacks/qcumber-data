@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Principles and applications of space-based systems for geo-spatial data acquisition with particular focus on Global Navigation Satellite Systems and Geodetic Satellite Missions. Applications for small to mid-scale engineering problems and larger scale Earth monitoring systems. \r\nPREREQUISITE: Permission of the instructor.",
+        "number": "884",
+        "subject": "GEOL",
+        "title": "Satellite Positioning"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
+        "course_components": {
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

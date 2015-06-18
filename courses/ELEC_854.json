@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Investigation of the design and performance of wireless circuits and systems at microwave and millimeter-wave frequencies.\u00a0 Topics include:\u00a0 communications transceivers, millimeter-wave imaging systems, RFID, radar systems, transmission lines and passive circuits, resonators, microstrip and lumped element low-pass and bandpass filters, amplifier noise and linearity, diode and transistor mixers, LC and relaxation oscillators, frequency multipliers and dividers, phase shifters, FSK QPSK and GMSK modulators and demodulators.\u00a0 Three term hours; lectures. C. Saavedra.", 
-        "number": "854", 
-        "subject": "ELEC", 
+        "description": "Investigation of the design and performance of wireless circuits and systems at microwave and millimeter-wave frequencies.\u00a0 Topics include:\u00a0 communications transceivers, millimeter-wave imaging systems, RFID, radar systems, transmission lines and passive circuits, resonators, microstrip and lumped element low-pass and bandpass filters, amplifier noise and linearity, diode and transistor mixers, LC and relaxation oscillators, frequency multipliers and dividers, phase shifters, FSK QPSK and GMSK modulators and demodulators.\u00a0 Three term hours; lectures. C. Saavedra.",
+        "number": "854",
+        "subject": "ELEC",
         "title": "Microwave Circuits & Systems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

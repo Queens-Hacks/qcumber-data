@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The purpose of the School and Classroom Leadership course is to provide a platform to examine current initiatives to support the learning and achievement of all students.", 
-        "number": "170B", 
-        "subject": "PROF", 
+        "description": "The purpose of the School and Classroom Leadership course is to provide a platform to examine current initiatives to support the learning and achievement of all students. (e.g. financial literacy)",
+        "number": "170B",
+        "subject": "PROF",
         "title": "School and Classroom Leadership: In Pursuit of School Effectiveness"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Pass/Fail", 
-        "units": "0.00"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Pass/Fail",
+        "units": "3.00"
     }
 }

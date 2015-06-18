@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "A research seminar on the development of curriculum as a field of study. It considers the influence of measurement, psychology, philosophy, and literary theory on curriculum during the 20<sup>th</sup> century and into the present. Attention is given to the intended curriculum, the enacted curriculum, the learned curriculum, and the interactions among them. The course encourages a critical approach to curriculum issues and practice. Fall; P. Chin.", 
-        "number": "910", 
-        "subject": "EDUC", 
+        "description": "A research seminar on the development of curriculum as a field of study. It considers the influence of measurement, psychology, philosophy, and literary theory on curriculum during the 20<sup>th</sup> century and into the present. Attention is given to the intended curriculum, the enacted curriculum, the learned curriculum, and the interactions among them. The course encourages a critical approach to curriculum issues and practice. Fall; P. Chin.",
+        "number": "910",
+        "subject": "EDUC",
         "title": "The Traditions Of Curriculum"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

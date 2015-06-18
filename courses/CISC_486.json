@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to 'engines' used in networked 3-dimensional games. Topics include game-engine architecture and components providing 3-dimensional rendering, physics simulation, sound, artificial intelligence and networking services.", 
-        "number": "486", 
-        "subject": "CISC", 
+        "description": "An introduction to 'engines' used in networked 3-dimensional games. Topics include game-engine architecture and components providing 3-dimensional rendering, physics simulation, sound, artificial intelligence and networking services.\nLEARNING HOURS\u00a0\u00a0\u00a0 117 (33L;48G;36P)",
+        "number": "486",
+        "subject": "CISC",
         "title": "Game Engine Development"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 CISC226 and CISC326 and CISC324 and MATH111 and PHYS106.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 CISC226 and CISC326 and CISC324 and (MATH111 or MATH110 or MATH112).",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

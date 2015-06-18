@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the basic principles, techniques and applications of Geographic Information Science. Students will learn concepts of Global Positioning Systems (GPS), georeferencing, vector and raster based models and the nature of geospatial data.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Pc;60P)", 
-        "number": "243", 
-        "subject": "GPHY", 
+        "description": "An introduction to the basic principles, techniques and applications of Geographic Information Science. Students will learn concepts of Global Positioning Systems (GPS), georeferencing, vector and raster based models and the nature of geospatial data.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Pc;60P)",
+        "number": "243",
+        "subject": "GPHY",
         "title": "Geographic Information Science"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Practicum": "Required"
-        }, 
-        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (GPHY 101/3.0 and GPHY 102/3.0) or (BIOL 102/3.0 and BIOL 103/3.0 or (GEOL 104/3.0 and GEOL 107/3.0) or permission of the Department.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from GPHY 243/3.0; GEOL 463/3.0.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (GPHY 101/3.0 and GPHY 102/3.0) or (BIOL 102/3.0 and BIOL 103/3.0 or (GEOL 104/3.0 and GEOL 107/3.0) or permission of the Department.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from GPHY 243/3.0; GEOL 463/3.0.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

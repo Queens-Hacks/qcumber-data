@@ -1,25 +1,26 @@
 {
     "basic": {
-        "description": "An in-depth look at the ecology and evolution of freshwater aquatic ecosystems, considering the role of populations, interspecific interactions, and the flow of energy and matter. There will be an emphasis on linking ecological theory with empirical evidence from aquatic systems. Topics will include dispersal and colonization, ecological genetics, resource competition, predator-prey interaction, evolution of life-history strategies, habitat coupling, and biogeochemical cycling.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 BIOL 335/3.0.", 
-        "number": "410", 
-        "subject": "BIOL", 
+        "description": "An in-depth look at the ecology and evolution of freshwater aquatic ecosystems, considering the role of populations, interspecific interactions, and the flow of energy and matter. There will be an emphasis on linking ecological theory with empirical evidence from aquatic systems. Topics will include dispersal and colonization, ecological genetics, resource competition, predator-prey interaction, evolution of life-history strategies, habitat coupling, and biogeochemical cycling.\nLEARNING HOURS\u00a0\u00a0 120 (24L;12S;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 BIOL 335/3.0.",
+        "number": "410",
+        "subject": "BIOL",
         "title": "Ecology of Lakes and Streams"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 BIOL335.\r\nPrerequisite\u00a0\u00a0\u00a0 BIOL302 or BIOL303.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+            "Lecture": "Required",
+            "Seminar": "Required"
+        },
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 BIOL335.\r\nPrerequisite\u00a0\u00a0\u00a0 BIOL302 or BIOL303.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,24 +1,26 @@
 {
     "basic": {
-        "description": "This course is intended for PhD students who already have a good background in the fundamental and advanced topics related to their research and are interested in other areas not offered in existing graduate courses. Topics will be selected from the general areas of biomechanical engineering. The course will include lectures, open discussions and directed study. The course content for a student or group will be specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and presentations by each student.", 
-        "number": "943", 
-        "subject": "MECH", 
-        "title": "Topics In Biomechanical Eng."
-    }, 
+        "description": "This course is limited to PhD students who already have a good background in the fundamental and advanced topics related to their research and are interested in other areas not offered in existing graduate courses. Topics will be selected from the general areas of biomechanical engineering. The course will include lectures, open discussions and directed study. The course content for a student or group must specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and/or presentations and/or exams. Instructors: Various faculty members from within the Department of Mechanical and Materials Engineering. EXCLUSIONS: MECH-940*, MECH-942*, MECH-944*",
+        "number": "943",
+        "subject": "MECH",
+        "title": "Selected Topics in Biomechanical Engineering"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Studies in literature from a specific nation or region of the postcolonial world (such as South Africa, West Africa, Australia, the Caribbean, South Asia). Content will vary, but the aim will be to explore the cultural and historical contexts that inform literary production in the particular nation or region under study.", 
-        "number": "382B", 
-        "subject": "ENGL", 
+        "description": "Studies in literature from a specific nation or region of the postcolonial world (such as South Africa, West Africa, Australia, the Caribbean, South Asia). Content will vary, but the aim will be to explore the cultural and historical contexts that inform literary production in the particular nation or region under study.",
+        "number": "382B",
+        "subject": "ENGL",
         "title": "Postcolonial Literature in Context"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+            "Lecture": "Required"
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "6.00"
     }
 }

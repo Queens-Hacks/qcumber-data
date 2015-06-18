@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Research courses given at either the Fields Institute in Toronto, or the Centre de recherches math\u00e9matiques (CRM) in Montreal, can be used to discharge the course requirements for master's or doctoral degrees.\u00a0 Such credit must be applied for in advance with the Coordinator of Graduate Studies, with the agreement of the supervisor. Grades are assigned on a PASS - FAIL basis.", 
-        "number": "901", 
-        "subject": "MATH", 
+        "description": "Research courses given at either the Fields Institute in Toronto, or the Centre de recherches math\u00e9matiques (CRM) in Montreal, can be used to discharge the course requirements for master's or doctoral degrees.\u00a0 Such credit must be applied for in advance with the Coordinator of Graduate Studies, with the agreement of the supervisor. Grades are assigned on a PASS - FAIL basis.",
+        "number": "901",
+        "subject": "MATH",
         "title": "Fields Or Crm Course"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "6.00"
     }
 }

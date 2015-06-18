@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Theories and application of rock mechanics principles in underground and open pit mine design are discussed. General areas of concentration include assessment of elastic for rock; the determination and influence of in-situ stress on excavation stability; evaluation of ground movement, subsidence and convergence; review of rock slope stability factors and mitigation techniques for stabilization; and assessment of contemporary and innovative measures for ground support provision in underground mines.", 
-        "number": "818", 
-        "subject": "MINE", 
+        "description": "Theories and application of rock mechanics principles in underground and open pit mine design are discussed. General areas of concentration include assessment of elastic for rock; the determination and influence of in-situ stress on excavation stability; evaluation of ground movement, subsidence and convergence; review of rock slope stability factors and mitigation techniques for stabilization; and assessment of contemporary and innovative measures for ground support provision in underground mines.",
+        "number": "818",
+        "subject": "MINE",
         "title": "Rock Mechanics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

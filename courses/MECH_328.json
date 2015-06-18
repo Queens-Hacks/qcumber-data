@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course covers the kinematics and dynamics of rigid bodies in two and three dimensions, as well as an introduction to vibrations. Topics in dynamics include: mathematically rigorous kinematic analysis, Newton's laws, energy methods, impulse and momentum methods, mass moments of inertia, and gyroscopic motion. Topics in vibrations include: free and forced vibration of single-degree-of-freedom systems, undamped and damped systems, equivalent single degree of freedom system of continuous elements/systems using energy equivalence and equation of motion.", 
-        "number": "328", 
-        "subject": "MECH", 
+        "description": "This course covers the kinematics and dynamics of rigid bodies in two and three dimensions, as well as an introduction to vibrations. Topics in dynamics include: mathematically rigorous kinematic analysis, Newton's laws, energy methods, impulse and momentum methods, mass moments of inertia, and gyroscopic motion. Topics in vibrations include: free and forced vibration of single-degree-of-freedom systems, undamped and damped systems, equivalent single degree of freedom system of continuous elements/systems using energy equivalence and equation of motion.",
+        "number": "328",
+        "subject": "MECH",
         "title": "Dynamics And Vibration"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 11, 
-            "Comp St": 0, 
-            "Eng Des": 14, 
-            "Eng Sci": 17, 
+            "Basic Sci": 11,
+            "Comp St": 0,
+            "Eng Des": 14,
+            "Eng Sci": 17,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of MECH228 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of MECH228 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The demonstration of the basic techniques of the engineering physicist in the measurement of electric, magnetic, thermal and mechanical properties. The emphasis is on correct measurement techniques, treatment of results and the presentation of data. Error and uncertainties in experimental measurement, the propagation of errors. Probability and the Binomial, Poisson and Gaussian distribution functions, fitting of Poisson and Gaussian distributions to a sample population. Linear least squares fit, chi-squared.\u00a0", 
-        "number": "251B", 
-        "subject": "ENPH", 
+        "description": "The demonstration of the basic techniques of the engineering physicist in the measurement of electric, magnetic, thermal and mechanical properties. The emphasis is on correct measurement techniques, treatment of results and the presentation of data. Error and uncertainties in experimental measurement, the propagation of errors. Probability and the Binomial, Poisson and Gaussian distribution functions, fitting of Poisson and Gaussian distributions to a sample population. Linear least squares fit, chi-squared.\u00a0",
+        "number": "251B",
+        "subject": "ENPH",
         "title": "Engineering Phys Lab And Stats"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 8, 
-            "Comp St": 6, 
-            "Eng Des": 0, 
-            "Eng Sci": 28, 
+            "Basic Sci": 8,
+            "Comp St": 6,
+            "Eng Des": 0,
+            "Eng Sci": 28,
             "Math": 8
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "4.25"
     }
 }

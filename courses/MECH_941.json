@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction; Reynolds averaging; turbulent transport equations; turbulence modelling; statistics and dynamics of turbulence; turbulent diffusion; structure of turbulent flows; numerical and experimental methods. Three term-hours; lectures. A. Pollard.", 
-        "number": "941", 
-        "subject": "MECH", 
+        "description": "Introduction; Reynolds averaging; turbulent transport equations; turbulence modelling; statistics and dynamics of turbulence; turbulent diffusion; structure of turbulent flows; numerical and experimental methods. Three term-hours; lectures. A. Pollard.",
+        "number": "941",
+        "subject": "MECH",
         "title": "Turbulent Flow- Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

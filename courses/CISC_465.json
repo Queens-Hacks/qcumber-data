@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Syntax and semantics. Classification of programming languages. The language of while programs. The typed lambda calculus. Recursive definitions and domain theory.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (18G;12I;90P)", 
-        "number": "465", 
-        "subject": "CISC", 
+        "description": "Syntax and semantics. Classification of programming languages. The language of while programs. The typed lambda calculus. Recursive definitions and domain theory.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (18G;12I;90P)",
+        "number": "465",
+        "subject": "CISC",
         "title": "Foundations of Programming Languages"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Reading": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC204 and CISC223 and CISC260", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC204 and CISC223 and CISC260",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

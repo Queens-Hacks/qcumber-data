@@ -1,0 +1,59 @@
+{
+    "_unique": "001-LEC (3754)",
+    "availability": {
+        "class_curr": 64,
+        "class_max": 95,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "480",
+        "season": "Winter",
+        "solus_id": "3754",
+        "status": "Open",
+        "subject": "MECH",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Piomelli, Ugo"
+            ],
+            "location": "JEFFERY RM128",
+            "start_time": "10:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "12:30:00",
+            "instructors": [
+                "Piomelli, Ugo"
+            ],
+            "location": "JEFFERY RM128",
+            "start_time": "11:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Piomelli, Ugo"
+            ],
+            "location": "JEFFERY RM128",
+            "start_time": "13:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

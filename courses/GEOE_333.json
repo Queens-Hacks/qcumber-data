@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the principles of geomorphology relevant go Geological Sciences and Geological Engineering. An emphasis is made on the evaluation of terrain features using analog and digital imagery using traditional and digital (GIS) methods. Terrain analysis using computational\u00a0 methods, generation of surface models from LiDAR and imagery, and integration into simulations.", 
-        "number": "333", 
-        "subject": "GEOE", 
+        "description": "An introduction to the principles of geomorphology relevant go Geological Sciences and Geological Engineering. An emphasis is made on the evaluation of terrain features using analog and digital imagery using traditional and digital (GIS) methods. Terrain analysis using computational\u00a0 methods, generation of surface models from LiDAR and imagery, and integration into simulations.",
+        "number": "333",
+        "subject": "GEOE",
         "title": "Terrain Evaluation"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 12, 
-            "Comp St": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 24, 
+            "Basic Sci": 12,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 24,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: APSC 151 or permission of the department. Must also be registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: APSC 151 or permission of the department. Must also be registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.50"
     }
 }

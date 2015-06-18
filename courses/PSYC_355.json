@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Theory and research in animal cognition from a comparative perspective. Topics include memory, spatial cognition, timing and counting, social learning, tool use, communication, language, and theory of mind. For each of these topics, comparisons among animal species will be made, including comparisons to humans (particularly infants and children).", 
-        "number": "355", 
-        "subject": "PSYC", 
+        "description": "Theory and research in animal cognition from a comparative perspective. Topics include memory, spatial cognition, timing and counting, social learning, tool use, communication, language, and theory of mind. For each of these topics, comparisons among animal species will be made, including comparisons to humans (particularly infants and children).",
+        "number": "355",
+        "subject": "PSYC",
         "title": "Comparative Cognition"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PSYC100", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PSYC100",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

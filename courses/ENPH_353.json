@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Selected experiments in electron physics, quantum physics, nuclear physics and optics illustrating the development of modern physics concepts. The lectures cover methods of measurement of a wide range of quantities, with emphasis on instrumentation and equipment used in current physics and engineering practice. The laboratory work introduces advanced measurement techniques and important concepts in modern physics.", 
-        "number": "353", 
-        "subject": "ENPH", 
+        "description": "Selected experiments in electron physics, quantum physics, nuclear physics and optics illustrating the development of modern physics concepts. The lectures cover methods of measurement of a wide range of quantities, with emphasis on instrumentation and equipment used in current physics and engineering practice. The laboratory work introduces advanced measurement techniques and important concepts in modern physics.",
+        "number": "353",
+        "subject": "ENPH",
         "title": "Engineering Physics Laboratory II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 8, 
-            "Comp St": 8, 
-            "Eng Des": 0, 
-            "Eng Sci": 14, 
+            "Basic Sci": 8,
+            "Comp St": 8,
+            "Eng Des": 0,
+            "Eng Sci": 14,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites: ENPH (PHYS) 251 or 253. Exclusions ENPH351 (PHYS351)", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisites: ENPH (PHYS) 251 or 253. Exclusions ENPH351 (PHYS351)",
+        "grading_basis": "Graded",
         "units": "2.50"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction to schools, teaching, and curriculum in their historical, political, social and philosophical context.\u00a0 Exploration of policy, practice and professional portfolios, with an emphasis on reflective and critical thinking.", 
-        "number": "110", 
-        "subject": "PROF", 
-        "title": "Intro To Teaching (Pj/Is)"
-    }, 
+        "description": "Introduction to schools, teaching, and curriculum in their historical, political, social and philosophical context.\u00a0 Exploration of policy, practice and professional portfolios, with an emphasis on reflective and critical thinking.",
+        "number": "110",
+        "subject": "PROF",
+        "title": "Self As Teacher"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Must be registered in a Concurrent Education Academic Plan and have a level equal to 1.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
-        "units": "1.50"
+        },
+        "enrollment_requirement": "Must be registered in a Concurrent Education Academic Plan and have a level equal to 1.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
+        "units": "3.00"
     }
 }

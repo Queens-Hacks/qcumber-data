@@ -1,28 +1,28 @@
 {
     "basic": {
-        "description": "This course introduces the circuit analysis techniques which are used in subsequent courses in electronics, power, and signals and systems. Circuits containing resistance, capacitance, inductance, and independent and dependent voltage and current sources will be studied. Emphasis is placed on DC, AC, and transient analysis techniques.", 
-        "number": "221", 
-        "subject": "ELEC", 
+        "description": "This course introduces the circuit analysis techniques which are used in subsequent courses in electronics, power, and signals and systems. Circuits containing resistance, capacitance, inductance, and independent and dependent voltage and current sources will be studied. Emphasis is placed on DC, AC, and transient analysis techniques.",
+        "number": "221",
+        "subject": "ELEC",
         "title": "Electric Circuits"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 51, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 51,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequiste of APSC111, APSC171, APSC172 and APSC174 and a corequisite of (MTHE 235 or MTHE 237 or MTHE 225 or MTHE 232) and registered in a BSCE Acdemic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequiste of APSC111, APSC171, APSC172 and APSC174 and a corequisite of (MTHE 235 or MTHE 237 or MTHE 225 or MTHE 232) and registered in a BSCE Acdemic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "4.25"
     }
 }

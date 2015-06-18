@@ -1,0 +1,35 @@
+{
+    "_unique": "036-TUT (5681)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 22,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "036",
+        "course": "122A",
+        "season": "Fall",
+        "solus_id": "5681",
+        "status": "Open",
+        "subject": "SOCY",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

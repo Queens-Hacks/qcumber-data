@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "A second course in fluid mechanics covering the differential form of conservation laws, boundary layer and external flows, compressible flows and the operation of rotational fluid machinery. On completion of the course students will be able to: Apply control volume analysis to mass, momentum and energy conservation; Apply differential form of mass and momentum conservation to the concept of flow field and its properties, including Navier Stokes equations; Apply stream function and velocity potential to the analysis of two-dimensional inviscid flows, and use the superposition principle to build complex flow fields from building block ingredients; Calculate drag and lift on solid bodies such as airfoils; Explain boundary layer flows, including the concept of various boundary layer thicknesses, shape factor, flow separation and the difference between laminar and turbulent boundary layers; Explain compressible flow features based on one-dimensional compressible subsonic and supersonic flows, with and without normal shock waves; Calculate design parameters of rotational fluid machinery, including centrifugal pumps and wind turbines.", 
-        "number": "341", 
-        "subject": "MECH", 
+        "description": "A second course in fluid mechanics covering the differential form of conservation laws, boundary layer and external flows, compressible flows and the operation of rotational fluid machinery. On completion of the course students will be able to: Apply control volume analysis to mass, momentum and energy conservation; Apply differential form of mass and momentum conservation to the concept of flow field and its properties, including Navier Stokes equations; Apply stream function and velocity potential to the analysis of two-dimensional inviscid flows, and use the superposition principle to build complex flow fields from building block ingredients; Calculate drag and lift on solid bodies such as airfoils; Explain boundary layer flows, including the concept of various boundary layer thicknesses, shape factor, flow separation and the difference between laminar and turbulent boundary layers; Explain compressible flow features based on one-dimensional compressible subsonic and supersonic flows, with and without normal shock waves; Calculate design parameters of rotational fluid machinery, including centrifugal pumps and wind turbines.",
+        "number": "341",
+        "subject": "MECH",
         "title": "Fluid Mechanics II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 31, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 31,
             "Math": 11
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of MECH241 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of MECH241 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

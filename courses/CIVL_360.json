@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students will develop and employ Engineering Design and Practice skills to resolve a complex, open-ended design task.\u00a0 This will involve the iterative application of Civil Engineering technical knowledge to identify and evaluate design options.\u00a0 The economic, environmental and societal implications of the preferred solution(s) will be assessed.\u00a0 Students will select, detail and communicate their final design in a logical, traceable and defendable manner.\u00a0 Ethical, legal and other relevant professional issues will be studied and discussed through case studies.\u00a0 Students will also develop and enhance written, graphical and oral communications skills.", 
-        "number": "360", 
-        "subject": "CIVL", 
+        "description": "Students will develop and employ Engineering Design and Practice skills to resolve a complex, open-ended design task.\u00a0 This will involve the iterative application of Civil Engineering technical knowledge to identify and evaluate design options.\u00a0 The economic, environmental and societal implications of the preferred solution(s) will be assessed.\u00a0 Students will select, detail and communicate their final design in a logical, traceable and defendable manner.\u00a0 Ethical, legal and other relevant professional issues will be studied and discussed through case studies.\u00a0 Students will also develop and enhance written, graphical and oral communications skills.",
+        "number": "360",
+        "subject": "CIVL",
         "title": "Civil Engineering Design and Practice III"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 12, 
-            "Eng Des": 36, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 12,
+            "Eng Des": 36,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "4.00"
     }
 }

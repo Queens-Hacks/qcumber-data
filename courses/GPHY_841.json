@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A review of procedures used in support of the measurement of energy, mass and trace gas fluxes between the surface and the atmosphere in the context of Earth System Science. Particular attention is paid to techniques for measuring air temperature, humidity, and wind profiles, evaporation, heat transfer in the soil and lower atmosphere, trace gas exchange (carbon dioxide and methane), and the relevant ecophysiological parameters, e.g., stomatal resistance and leaf area index. Three term-hours", 
-        "number": "841", 
-        "subject": "GPHY", 
+        "description": "A review of procedures used in support of the measurement of energy, mass and trace gas fluxes between the surface and the atmosphere in the context of Earth System Science. Particular attention is paid to techniques for measuring air temperature, humidity, and wind profiles, evaporation, heat transfer in the soil and lower atmosphere, trace gas exchange (carbon dioxide and methane), and the relevant ecophysiological parameters, e.g., stomatal resistance and leaf area index. Three term-hours",
+        "number": "841",
+        "subject": "GPHY",
         "title": "Measurement In Climatology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

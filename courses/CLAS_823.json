@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course focuses on art in ancient Greece, emphasizing the post-Bronze Age. Classification and development of various styles in art from the so-called Dark Age to the Hellenistic period. A.M. Foley", 
-        "number": "823", 
-        "subject": "CLAS", 
+        "description": "This course focuses on art in ancient Greece, emphasizing the post-Bronze Age. Classification and development of various styles in art from the so-called Dark Age to the Hellenistic period. A.M. Foley",
+        "number": "823",
+        "subject": "CLAS",
         "title": "Greek Archaeology II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Advanced theory and techniques for acquisition, processing and interpretation of geophysical data. Students solve a geophysical problem from the initial idea through strategy development, data acquisition, processing, to interpretation, communication and deliverables. Design projects will exploit seismic, gravity, magnetic, electromagnetic, geodetic and GPR techniques but the emphasis is on problem solving using integrated data from multiple methods/sources. Target areas include oil/gas/mineral exploration, near-surface prospecting and site investigation.\u00a0 Processing will use both available and student designed software.", 
-        "number": "439", 
-        "subject": "GEOE", 
+        "description": "Advanced theory and techniques for acquisition, processing and interpretation of geophysical data. Students solve a geophysical problem from the initial idea through strategy development, data acquisition, processing, to interpretation, communication and deliverables. Design projects will exploit seismic, gravity, magnetic, electromagnetic, geodetic and GPR techniques but the emphasis is on problem solving using integrated data from multiple methods/sources. Target areas include oil/gas/mineral exploration, near-surface prospecting and site investigation.\u00a0 Processing will use both available and student designed software.",
+        "number": "439",
+        "subject": "GEOE",
         "title": "Advanced Applied Geophysics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 24, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 24,
             "Math": 12
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: MTHE 232, GEOE 249, GEOE 319 or permission of instructor Must also be registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: MTHE 232, GEOE 249, GEOE 319 or permission of instructor Must also be registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

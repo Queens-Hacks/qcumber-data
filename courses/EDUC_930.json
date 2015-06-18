@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "A seminar course that introduces students to critical social theories, current approaches to cultural analysis, theories of identity, sub-cultural positionings, to the practice and implications of social/cultural theories and global issues. Fall; A. Sharkawy.", 
-        "number": "930", 
-        "subject": "EDUC", 
+        "description": "A seminar course that introduces students to critical social theories, current approaches to cultural analysis, theories of identity, sub-cultural positionings, to the practice and implications of social/cultural theories and global issues. Fall; A. Sharkawy.",
+        "number": "930",
+        "subject": "EDUC",
         "title": "Culture & Global Studies in Education"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

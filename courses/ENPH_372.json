@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Temperature, equations of state, internal energy, first and second laws, entropy and response functions. Application to heat engines and refrigerators. Free energies, Legendre transformations, changes of phase. Introduction to the Boltzmann factor and statistical mechanics.", 
-        "number": "372", 
-        "subject": "ENPH", 
+        "description": "Temperature, equations of state, internal energy, first and second laws, entropy and response functions. Application to heat engines and refrigerators. Free energies, Legendre transformations, changes of phase. Introduction to the Boltzmann factor and statistical mechanics.",
+        "number": "372",
+        "subject": "ENPH",
         "title": "Thermodynamics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 31, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 11, 
+            "Basic Sci": 31,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 11,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite: ENPH (PHYS) 242\r\nExclusion: ENPH (PHYS) 274", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite: ENPH (PHYS) 242\r\nExclusion: ENPH (PHYS) 274",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

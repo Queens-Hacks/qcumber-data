@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Fundamental properties of the nervous system. Emphasis placed on the properties of neurons and neural circuits that underlie behaviour and cognitive functions within selected neural systems, such as sensory, motor, reward, and autonomic systems. Tutorials introduce techniques and neurological problems that illustrate principles of neural function.", 
-        "number": "324", 
-        "subject": "NSCI", 
+        "description": "Fundamental properties of the nervous system. Emphasis placed on the properties of neurons and neural circuits that underlie behaviour and cognitive functions within selected neural systems, such as sensory, motor, reward, and autonomic systems. Tutorials introduce techniques and neurological problems that illustrate principles of neural function.",
+        "number": "324",
+        "subject": "NSCI",
         "title": "Systems Neuroscience"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0 or BIOL339 or PSYC 271/3.0, or permission of the course coordinator.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0 or BIOL339 or PSYC 271/3.0, or permission of the course coordinator.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

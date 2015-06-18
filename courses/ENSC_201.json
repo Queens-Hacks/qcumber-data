@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction to global issues and problems in environmental toxicology. Possible topics include waste disposal, pesticides, chemical warfare, pulp and paper mills and genetically modified foods. This course will be of interest to students with either a science or a humanities background.\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $20.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;12T;84P)", 
-        "number": "201", 
-        "subject": "ENSC", 
+        "description": "Introduction to global issues and problems in environmental toxicology. Possible topics include waste disposal, pesticides, chemical warfare, pulp and paper mills and genetically modified foods. This course will be of interest to students with either a science or a humanities background.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;12T;84P)",
+        "number": "201",
+        "subject": "ENSC",
         "title": "Environmental Toxicology and Chemical Risks"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

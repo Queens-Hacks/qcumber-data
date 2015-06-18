@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "Gemstones have played an important role in society throughout history. The role of gemstones and other precious materials will be illustrated through the study of works of art and popular literature. The physical properties that make gems attractive are explained. Gemstone marketing and ethical considerations of mining methods will be explored.", 
-        "number": "102", 
-        "subject": "GEOL", 
+        "description": "Gemstones have played an important role in society throughout history. The role of gemstones and other precious materials will be illustrated through the study of works of art and popular literature. The physical properties that make gems attractive are explained. Gemstone marketing and ethical considerations of mining methods will be explored.\r\nLEARNING HOURS\u00a0 120 (24L;12T;36O;48P)",
+        "number": "102",
+        "subject": "GEOL",
         "title": "Gemstones:\u00a0 Their Art, History and Science"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

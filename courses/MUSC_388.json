@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A study of art music in Canada since 1930 with an emphasis on specific composers and their works.", 
-        "number": "388", 
-        "subject": "MUSC", 
+        "description": "A study of art music in Canada since 1930 with an emphasis on specific composers and their works.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12O;72P)",
+        "number": "388",
+        "subject": "MUSC",
         "title": "Canadian Music since 1930"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 MUSC103 and (MUSC203 or MUSC204 or MUSC205)\r\nCorequisite\u00a0\u00a0\u00a0 MUSC293 or MUSC291 or permission of the School.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 MUSC103 and (MUSC203 or MUSC204 or MUSC205)\r\nCorequisite\u00a0\u00a0\u00a0 MUSC293 or MUSC291 or permission of the School.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

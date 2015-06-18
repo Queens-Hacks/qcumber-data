@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is provided for those students who have an interest in deepening their knowledge through independent study in a particular specialized area not available in the regular course offerings. This advanced study will be conducted under the supervision of, and in active consultation with, an appropriate faculty member of the School. Periodic reporting, written assignments, and oral examinations normally will be part of the learning experience. Students wishing to enroll in this elective should have high academic standing in at least three courses in the general area of this specialization, and must submit their study proposal in writing to the Academic Director.", 
-        "number": "902", 
-        "subject": "MGBL", 
+        "description": "This course is provided for those students who have an interest in deepening their knowledge through independent study in a particular specialized area not available in the regular course offerings. This advanced study will be conducted under the supervision of, and in active consultation with, an appropriate faculty member of the School. Periodic reporting, written assignments, and oral examinations normally will be part of the learning experience. Students wishing to enroll in this elective should have high academic standing in at least three courses in the general area of this specialization, and must submit their study proposal in writing to the Academic Director.",
+        "number": "902",
+        "subject": "MGBL",
         "title": "Independent Study"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

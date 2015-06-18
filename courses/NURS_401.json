@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Explores current issues in nursing and in delivery of health care which affect the new graduate. Topics include legal, ethical and quality-of-work issues, and career planning.\u00a09 units (3 credits) course weight.", 
-        "number": "401", 
-        "subject": "NURS", 
+        "description": "Explores current issues in nursing and in delivery of health care which affect the new graduate. Topics include legal, ethical and quality-of-work issues, and career planning.\u00a09 units (3 credits) course weight.",
+        "number": "401",
+        "subject": "NURS",
         "title": "Cur Issues In Nur & Hlth Care"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "(NURS305 AND NURS340) OR (NURS305 AND NURS315) OR (NURS305 AND NURS316) OR (NURS305 AND NURS324) OR (NURS305 AND NURS325) OR (NURS305 AND NURS345) OR (NURS301 AND NURS407) OR (NURS301 AND NURS408) OR (NURS301 AND NURS409)", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "(NURS305 AND NURS340) OR (NURS305 AND NURS315) OR (NURS305 AND NURS316) OR (NURS305 AND NURS324) OR (NURS305 AND NURS325) OR (NURS305 AND NURS345) OR (NURS301 AND NURS407) OR (NURS301 AND NURS408) OR (NURS301 AND NURS409)",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

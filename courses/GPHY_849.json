@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The goal of this course is to provide an in-depth discussion on topics related to geographic information science and explore innovative GIS applications. Topics may include some, or all of the following: (i) GIS database models and structures, design, and implementation, (ii) data visualization, generalization, and representation, (iii) data mining, (iv) cognition, (v) spatial analysis, (vi) internet mapping, (vii) uncertainty and error analysis, and (viii) societal issues. Three term hours.", 
-        "number": "849", 
-        "subject": "GPHY", 
+        "description": "The goal of this course is to provide an in-depth discussion on topics related to geographic information science and explore innovative GIS applications. Topics may include some, or all of the following: (i) GIS database models and structures, design, and implementation, (ii) data visualization, generalization, and representation, (iii) data mining, (iv) cognition, (v) spatial analysis, (vi) internet mapping, (vii) uncertainty and error analysis, and (viii) societal issues. Three term hours.",
+        "number": "849",
+        "subject": "GPHY",
         "title": "Seminar In Gphy. Info Science"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

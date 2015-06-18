@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Optimization of functions of several variables, restricted by equality and inequality constraints, with applications. Linear programming, including convexity, simplex algorithm, duality, sensitivity analysis. Techniques of unconstrained optimization. Constrained optimization, including Lagrangian, Kuhn-Tucker conditions, convexity, duality, numerical techniques. Given jointly with MATH 834/3.0.", 
-        "number": "434", 
-        "subject": "MATH", 
-        "title": "Linear and Nonlinear Optimization"
-    }, 
+        "description": "Theory of convex sets and functions; separation theorems; primal-duel properties; geometric treatment of optimization problems; algorithmic procedures for solving constrained optimization programs; engineering and economic applications.",
+        "number": "434",
+        "subject": "MATH",
+        "title": "Optimization Theory and Applications"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (MATH221 or MATH280) and (MATH110 or MATH111 or MATH112).", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (MATH221 or MATH280) and (MATH110 or MATH111 or MATH112).",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

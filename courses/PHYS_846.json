@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course provides an introduction to the physics of stellar atmospheres, including bulk stellar properties, concepts of local thermodynamic equilibrium, excitation and ionization equilibria, radiative energy transport, convective instability, continuous opacity, model stellar atmospheres, and stellar continua. This is followed by a development of the basic tools of quantitative spectroscopy, including concepts of line opacity and line profiles, contribution functions, hydrogen line profiles, stellar abundance determinations, and microscopic and macroscopic velocity fields. The course concludes with a discussion of special topics such as stellar magnetic fields, non-LTE, stellar winds, stellar pulsation, and stellar activity including chromospheres and coronae.\u00a0", 
-        "number": "846", 
-        "subject": "PHYS", 
+        "description": "This course provides an introduction to the physics of stellar atmospheres, including bulk stellar properties, concepts of local thermodynamic equilibrium, excitation and ionization equilibria, radiative energy transport, convective instability, continuous opacity, model stellar atmospheres, and stellar continua. This is followed by a development of the basic tools of quantitative spectroscopy, including concepts of line opacity and line profiles, contribution functions, hydrogen line profiles, stellar abundance determinations, and microscopic and macroscopic velocity fields. The course concludes with a discussion of special topics such as stellar magnetic fields, non-LTE, stellar winds, stellar pulsation, and stellar activity including chromospheres and coronae.\u00a0",
+        "number": "846",
+        "subject": "PHYS",
         "title": "Stellar Atmospheres"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "1.50"
     }
 }

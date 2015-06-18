@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive review of the application of advanced statistical analysis in aging research. Topics include assessment of the validity and treatment of results in scientific literature, sampling variability, confidence intervals, hypothesis testing, univariate analysis, analysis of variance, regression models and non-parametric statistics. Emphasis will be placed on appropriate interpretation and appraisal of statistical information.",
+        "number": "902",
+        "subject": "AGHE",
+        "title": "Statistical Methods for Aging Research"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
+        "course_components": {
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

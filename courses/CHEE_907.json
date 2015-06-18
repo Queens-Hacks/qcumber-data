@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Selected topics in chemical engineering including chemical reaction engineering, combustion, biochemical engineering, process control, environmental engineering, applied statistics, polymer reaction engineering, polymer processing, fluidization and turbulence. Only topics not covered in other graduate courses will be included. Topics will vary depending on the instructor(s).\r\n \nGas-Solid Reactions\r\nThis course will focus on thermodynamics and kinetics for gas-solid reactions. The main focus of the course will be understanding what information quantum chemistry (density functional theory or DFT) computations yield and how to build thermodynamic functions and kinetic models using DFT-generated energetics. Three term-hours; K. Karan.", 
-        "number": "907", 
-        "subject": "CHEE", 
+        "description": "Selected topics in chemical engineering including chemical reaction engineering, combustion, biochemical engineering, process control, environmental engineering, applied statistics, polymer reaction engineering, polymer processing, fluidization and turbulence. Only topics not covered in other graduate courses will be included. Topics will vary depending on the instructor(s).\r\n \nGas-Solid Reactions\r\nThis course will focus on thermodynamics and kinetics for gas-solid reactions. The main focus of the course will be understanding what information quantum chemistry (density functional theory or DFT) computations yield and how to build thermodynamic functions and kinetic models using DFT-generated energetics. Three term-hours; K. Karan.",
+        "number": "907",
+        "subject": "CHEE",
         "title": "Current Topics in Chemical Engineering"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "units": "3.00"
+        },
+        "grading_basis": "Graded",
+        "units": "1.50"
     }
 }

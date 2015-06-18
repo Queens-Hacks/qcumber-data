@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "A study of plays and performance in Canada, concentrating on works since the 1960s. Attention will be paid to experiments by companies and individual playwrights. Texts will be read in English.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "306", 
-        "subject": "DRAM", 
+        "description": "A study of plays and performance in Canada, concentrating on works since the 1960s. Attention will be paid to experiments by companies and individual playwrights. Texts will be read in English.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "306",
+        "subject": "DRAM",
         "title": "Canadian Drama"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 and (registration in a DRAM Major or Medial Plan, or COCA-CODR Sub-Plan, or STSC Specialization Plan) and (a GPA of 2.6 in DRAM) or permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 3 and (registration in a DRAM Major or Medial Plan, or COCA-CODR Sub-Plan, or STSC Specialization Plan) and (a GPA of 2.6 in DRAM) or permission of the Department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

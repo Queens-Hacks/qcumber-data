@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A credit/non-credit practicum for 36 hours of extra-curricular work in drama related fields, including departmental productions.\nLEARNING HOURS\u00a0\u00a0\u00a0 48 (6I;42P)", 
-        "number": "247", 
-        "subject": "DRAM", 
+        "description": "A credit/non-credit practicum for 48 hours of extra-curricular work in drama related fields, including departmental productions.\nLEARNING HOURS\u00a0\u00a0\u00a0 48 (6I;42P)",
+        "number": "247",
+        "subject": "DRAM",
         "title": "Drama Practicum"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of B- in 6.0 units from (DRAM100;DRAM181;BISC100;BISC101) or permission of the Department.\r\nCorequisite\u00a0\u00a0\u00a0 DRAM240", 
-        "grading_basis": "Pass/Fail", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of B- in 6.0 units from (DRAM100;DRAM181;BISC100;BISC101) or permission of the Department.\r\nCorequisite\u00a0\u00a0\u00a0 DRAM240",
+        "grading_basis": "Pass/Fail",
         "units": "1.50"
     }
 }

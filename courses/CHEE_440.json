@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduction to pharmaceutics and the industrial manufacture of pharmaceutical dosage forms. Topics include the design and preparation of a successful dosage form with respect to the route of administration, and large scale manufacture in a sterile and clean environment. Aspects of chemical kinetics, physical chemistry, physiology, cell biology, mass and heat transfer, and fluid dynamics will be\r\ndescribed as they relate to the manufacture of effective dosage forms.", 
-        "number": "440", 
-        "subject": "CHEE", 
+        "description": "Introduction to pharmaceutics and the industrial manufacture of pharmaceutical dosage forms. Topics include the design and preparation of a successful dosage form with respect to the route of administration, and large scale manufacture in a sterile and clean environment. Aspects of chemical kinetics, physical chemistry, physiology, cell biology, mass and heat transfer, and fluid dynamics will be\r\ndescribed as they relate to the manufacture of effective dosage forms.",
+        "number": "440",
+        "subject": "CHEE",
         "title": "Pharmaceutical Technology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 12, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 30, 
+            "Basic Sci": 12,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 30,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Must be registered in a BSCE program", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

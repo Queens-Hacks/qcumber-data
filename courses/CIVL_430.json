@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Flexural design of reinforced concrete beams including singly reinforced sections, doubly reinforced sections, T-sections, and one-way slabs. Control of cracking in reinforced concrete beams as specified for design. Design of continuous beams and one-way slabs; short and slender columns; footings and retaining walls. A design project is undertaken in this course. PPE will be required for this course at student\u00bfs cost (see course materials for details).", 
-        "number": "430", 
-        "subject": "CIVL", 
+        "description": "Flexural design of reinforced concrete beams including singly reinforced sections, doubly reinforced sections, T-sections, and one-way slabs. Control of cracking in reinforced concrete beams as specified for design. Design of continuous beams and one-way slabs; short and slender columns; footings and retaining walls. A design project is undertaken in this course. PPE will be required for this course at student\u00bfs cost (see course materials for details).",
+        "number": "430",
+        "subject": "CIVL",
         "title": "Reinforced Concrete Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 33, 
-            "Eng Sci": 11, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 33,
+            "Eng Sci": 11,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequiste of (CIVL 215 and CIVL330 and CIVL331) and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequiste of (CIVL 215 and CIVL330 and CIVL331) and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.75"
     }
 }

@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "Introduces students to gerontological nursing and addresses theories and myths of aging, developmental and normal changes with aging, common health risks and health challenges for the elderly. Focus will be on the major health risks and challenges with aging and discussion of social, legal, and ethical issues in gerontological nursing.\u00a09 units (3 credits) course weight.", 
-        "number": "209", 
-        "subject": "NURS", 
+        "description": "Introduces students to gerontological nursing and addresses theories and myths of aging, developmental and normal changes with aging, common health risks and health challenges for the elderly. Focus will be on the major health risks and challenges with aging and discussion of social, legal, and ethical issues in gerontological nursing.\u00a09 units (3 credits) course weight.",
+        "number": "209",
+        "subject": "NURS",
         "title": "Gerontological Nursing"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "level 2 or higher",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

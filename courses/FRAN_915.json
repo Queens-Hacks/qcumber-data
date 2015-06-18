@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "\u00c9tude du livre en France depuis l'apparition de l'imprimerie jusqu'au d\u00e9veloppement du support num\u00e9rique. \u00c9tude de la production technique, des m\u00e9tiers de promotion et de diffusion, des agents de la r\u00e9ception du livre. Ne sera pas donn\u00e9 en 2010-2011.", 
-        "number": "915", 
-        "subject": "FRAN", 
+        "description": "\u00c9tude du livre en France depuis l'apparition de l'imprimerie jusqu'au d\u00e9veloppement du support num\u00e9rique. \u00c9tude de la production technique, des m\u00e9tiers de promotion et de diffusion, des agents de la r\u00e9ception du livre. Ne sera pas donn\u00e9 en 2010-2011.",
+        "number": "915",
+        "subject": "FRAN",
         "title": "Histoire du livre (XVIe-XXe si\u00e8cle)"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

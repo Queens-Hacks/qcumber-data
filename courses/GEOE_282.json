@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An earth-system engineering perspective on the nature, acquisition and utilization of energy, mineral and water resources, with particular emphasis on the environmental considerations in their extraction, processing, and use. Criteria for designing resource exploration programs are examined. Practical exercises, projects and seminars (team and individual) deal with these issues, and include the design of risk-management plans, environmental life-cycle assessments, sustainable systems and ore-reserve estimations.", 
-        "number": "282", 
-        "subject": "GEOE", 
+        "description": "An earth-system engineering perspective on the nature, acquisition and utilization of energy, mineral and water resources, with particular emphasis on the environmental considerations in their extraction, processing, and use. Criteria for designing resource exploration programs are examined. Practical exercises, projects and seminars (team and individual) deal with these issues, and include the design of risk-management plans, environmental life-cycle assessments, sustainable systems and ore-reserve estimations.",
+        "number": "282",
+        "subject": "GEOE",
         "title": "Earth Systems: Resources & Environment"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 12, 
-            "Eng Des": 12, 
-            "Eng Sci": 18, 
+            "Basic Sci": 0,
+            "Comp St": 12,
+            "Eng Des": 12,
+            "Eng Sci": 18,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: GEOE 232 or GEOL 232 and GEOE 221 or GEOL 211 or permission of the department. Must also be registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: GEOE 232 or GEOL 232 and GEOE 221 or GEOL 211 or permission of the department. Must also be registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Vertebrate biodiversity including characteristics and adaptations of the major classes of the living vertebrates; major environmental and geological changes associated with vertebrate evolution.\r\nNOTE\u00a0\u00a0 \u00a0Field trip: estimated cost $35.", 
-        "number": "323", 
-        "subject": "BIOL", 
+        "description": "Vertebrate biodiversity including characteristics and adaptations of the major classes of the living vertebrates; major environmental and geological changes associated with vertebrate evolution.\nNOTE\u00a0\u00a0 \u00a0Field trip: estimated cost $35.\nLEARNING HOURS\u00a0\u00a0 120 (36L;12Lb;72P)",
+        "number": "323",
+        "subject": "BIOL",
         "title": "Vertebrate Diversity and Evolution"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 BIOL201 and BIOL202 and BIOL206.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 BIOL201 and BIOL202 and BIOL206.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

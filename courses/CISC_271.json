@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduction to scientific computing:\u00a0floating point arithmetic, algorithm design, error analysis, ill-conditioning.\u00a0Zero-finding. Linear equations. Interpolation. Integration. Least-squares fitting.\u00a0Effective use of library programs, with discussion of their limitations and some aspects of their design and implementation.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12Lb;72P)", 
-        "number": "271", 
-        "subject": "CISC", 
+        "description": "Introduction to scientific computing: algorithm design, error analysis, ill-conditioning. Linear equations. Least-squares fitting. Non-linear equations. Effective use of library programs, with discussion of their limitations and some aspects of their design and implementation.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12Lb;72P)",
+        "number": "271",
+        "subject": "CISC",
         "title": "Scientific Computing"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (CISC101 or CISC121) and MATH111 and (MATH120 or MATH121 or MATH122 or [MATH123 and MATH124] or MATH126).\r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC271; MATH272; PHYS313.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (CISC101 or CISC121) and (MATH111 or MATH112 or MATH110) and (MATH120 or MATH121 or MATH122 or [MATH123 and MATH124] or MATH126).\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC271; MATH272; PHYS313.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

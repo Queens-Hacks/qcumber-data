@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to concepts and novel technologies used in computer-integrated surgery, including image based navigation, medical robotics and virtual reality. Concepts and techniques learned in class will be applied in a hands-on surgery session where students perform minimally invasive surgery with virtual-reality navigation tools.\nNOTE\u00a0\u00a0\u00a0 MATH P06/3.0 or one Mathematics 4U level courses is required.\nNOTE\u00a0\u00a0\u00a0 Not available for credit towards a BCMP/BCMPH program. Computing students should take CISC 330/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "329", 
-        "subject": "COMP", 
+        "description": "An introduction to concepts and novel technologies used in computer-integrated surgery, including image based navigation, medical robotics and virtual reality. Concepts and techniques learned in class will be applied in a hands-on surgery session where students perform minimally invasive surgery with virtual-reality navigation tools.\nNOTE\u00a0\u00a0\u00a0 MATH P06/3.0 or one Mathematics 4U level courses is required.\nNOTE\u00a0\u00a0\u00a0 Not available for credit towards a BCMP/BCMPH program. Computing students should take CISC 330/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "329",
+        "subject": "COMP",
         "title": "Introduction to Computer-Integrated Surgery"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite Second year standing\r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC 330; COMP 329; COMP 230.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Prerequisite Second year standing\r\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC 330; COMP 329; COMP 230.",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

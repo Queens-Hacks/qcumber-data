@@ -1,24 +1,27 @@
 {
     "basic": {
-        "description": "This theory course introduces\u00a0 the student family-centred maternal and child nursing.\u00a0 A systems-based conceptualization of the family and a family conceptual and assessment model is used to examine social, psychological and cultural influences on the family in contemporary society.\u00a0 This course focuses on nursing care of the family during the normal childbearing cycle and nursing care of the family with children.\u00a0 Discussion includes nursing care of the family during pregnancy, labour, birth and postpartum, as well as prevention and care of selected health alterations in children. Fall or Winter Term:\u00a0 6 hours lecture per week; 18 units (6 credits) course weight.", 
-        "number": "370", 
-        "subject": "NURS", 
+        "description": "This theory course introduces\u00a0 the student family-centred maternal and child nursing.\u00a0 A systems-based conceptualization of the family and a family conceptual and assessment model is used to examine social, psychological and cultural influences on the family in contemporary society.\u00a0 This course focuses on nursing care of the family during the normal childbearing cycle and nursing care of the family with children.\u00a0 Discussion includes nursing care of the family during pregnancy, labour, birth and postpartum, as well as prevention and care of selected health alterations in children. Fall or Winter Term:\u00a0 6 hours lecture per week; 18 units (6 credits) course weight.",
+        "number": "370",
+        "subject": "NURS",
         "title": "Family Ctrd Maternal Child Nur"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "level 3 or higher",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "6.00"
     }
 }

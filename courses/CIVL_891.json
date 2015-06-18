@@ -1,23 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "891", 
-        "subject": "CIVL", 
-        "title": "Differential Equations"
-    }, 
+        "description": "This course presents approaches to analyze and model drinking water quality and discolouration in distribution systems. The course covers approaches in aquatic chemistry for the testing of drinking water. Transport processes and advanced topics in discolouration of drinking water are examined with emphasis on the measurement and modelling of the growth and mobilization of cohesive layers in pipes.",
+        "number": "891",
+        "subject": "CIVL",
+        "title": "Water Quality and Discolouration in Drinking Water Distribution Systems"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
-            "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

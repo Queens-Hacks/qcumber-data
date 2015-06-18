@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Basic concepts, generalized control volume analysis and balance equations. Constitutive equations, kinetic models, thermodynamic considerations, and prediction equations for transport properties. Coupled transport processes: Onsager's theory; forced diffusion; and thermo-chemical, thermo-electric, and electro-chemical effects. Special phenomena in biological and macromolecular systems. Phenomena at surfaces. Effects of flow and chemical reaction. Analogies between energy, material and momentum transport. Examples in the analysis of complex problems.\u00a0 E.W. Grandmaison", 
-        "number": "803", 
-        "subject": "CHEE", 
+        "description": "Basic concepts, generalized control volume analysis and balance equations. Constitutive equations, kinetic models, thermodynamic considerations, and prediction equations for transport properties. Coupled transport processes: Onsager's theory; forced diffusion; and thermo-chemical, thermo-electric, and electro-chemical effects. Special phenomena in biological and macromolecular systems. Phenomena at surfaces. Effects of flow and chemical reaction. Analogies between energy, material and momentum transport. Examples in the analysis of complex problems.\u00a0 E.W. Grandmaison",
+        "number": "803",
+        "subject": "CHEE",
         "title": "Transport Phenomena"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

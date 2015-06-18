@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Students whose proposed research lies outside the realm (thematic or regional) of regular and cognate course offerings may choose this option. In consultation with a willing supervisor, students must develop a unifying title, course description, and reading list of 2-4 key texts for each of 5-6 set topics leading toward an agreed upon set of assignments.", 
-        "number": "890", 
-        "subject": "DEVS", 
-        "title": "Directed Readings"
-    }, 
+        "description": "Students whose proposed research lies outside the realm (thematic or regional) of regular and cognate course offerings may choose this option. In consultation with a willing supervisor, students must develop a unifying title, course description, and reading list of 2-4 key texts for each of 5-6 set topics leading toward an agreed upon set of assignments.",
+        "number": "890",
+        "subject": "DEVS",
+        "title": "Waterscapes in South Asia"
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

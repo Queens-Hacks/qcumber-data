@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics in general relativity of current interest. Examples of such topics are: the development of singularities, gravitational entropy, neutrino trapping, signatures of gravitational waves.", 
-        "number": "926", 
-        "subject": "PHYS", 
+        "description": "Topics in general relativity of current interest. Examples of such topics are: the development of singularities, gravitational entropy, neutrino trapping, signatures of gravitational waves.",
+        "number": "926",
+        "subject": "PHYS",
         "title": "Advanced Gravitation Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

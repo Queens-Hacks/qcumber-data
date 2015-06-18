@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Biochemical Engineering involves the application of Chemical Engineering principles and approaches to biologically-based systems and processes. Biochemical Engineering is central to the area of environmental engineering, and to biotechnology processes which produce pharmaceuticals, fine chemicals and genetically engineered products. The course involves a systematic and quantitative description of medium formulation and sterilization, microbial kinetics and bioreactor design, product isolation and purification, and examples of current industrial practices and processes.", 
-        "number": "380", 
-        "subject": "CHEE", 
+        "description": "Biochemical Engineering involves the application of Chemical Engineering principles and approaches to biologically-based systems and processes. Biochemical Engineering is central to the area of environmental engineering, and to biotechnology processes which produce pharmaceuticals, fine chemicals and genetically engineered products. The course involves a systematic and quantitative description of medium formulation and sterilization, microbial kinetics and bioreactor design, product isolation and purification, and examples of current industrial practices and processes.",
+        "number": "380",
+        "subject": "CHEE",
         "title": "Biochemical Engineering"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 30, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 30,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

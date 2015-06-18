@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Configuration space, generalized coordinates, Euler-Lagrange equations. Forces: dissipative, potential. Simple mechanical control systems: modeling, linearization about equilibrium points, linear controllability tests; equivalence with kinematic systems and trajectory generation.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)", 
-        "number": "439", 
-        "subject": "MATH", 
+        "description": "Geometric modeling, including configuration space, tangent bundle, kinetic energy, inertia, and force. Euler-Lagrange equations using affine connections. The last part of the course develops one of the following three applications: mechanical systems with nonholonomic constraints; control theory for mechanical systems; equilibria and stability.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)",
+        "number": "439",
+        "subject": "MATH",
         "title": "Lagrangian Mechanics, Dynamics, and Control"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (MATH231 or MATH237) and (MATH280 or MATH281), or permission of the Department.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (MATH231 or MATH237) and (MATH280 or MATH281), or permission of the Department.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

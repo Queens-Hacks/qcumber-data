@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This colloquium-style course provides students with a foundation in various methods of practice-based discovery, primarily quantitative, used by health promotion researchers. Topics include ethics, study design, sampling, measurement, evaluation, and data analysis. The course is tailored each semester according to students\u00bf thesis needs. Offered jointly with EPID-830*.", 
-        "number": "830", 
-        "subject": "KHS", 
+        "description": "This colloquium-style course provides students with a foundation in various methods of practice-based discovery, primarily quantitative, used by health promotion researchers. Topics include ethics, study design, sampling, measurement, evaluation, and data analysis. The course is tailored each semester according to students\u00bf thesis needs. Offered jointly with EPID-830*.",
+        "number": "830",
+        "subject": "KHS",
         "title": "Health Promotion Research Sem."
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

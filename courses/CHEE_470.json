@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course will consolidate the necessary skills essential to carrying out a comprehensive industrial process design including a technical and financial analysis. The simulation software, and the scope of the design problem will be introduced during extra classes in the first week. Class workshops will deal with such diverse topics as health, safety and environmental compliance, optimization techniques and capital cost estimation. The students will develop a competency in the use of and a recognition of the limitations of \u00bfState-of-the-Art\u00bf simulation software. In addition to the process design, which will represent current technology, a capital cost estimate will be prepared as part of a rigorous assessment of the profitability of the project. In lieu of a final exam, student groups will be expected to prepare a formal design report and make a formal presentation. (0/0/0/0/75)", 
-        "number": "470", 
-        "subject": "CHEE", 
+        "description": "This course will consolidate the necessary skills essential to carrying out a comprehensive industrial process design including a technical and financial analysis. The simulation software, and the scope of the design problem will be introduced during extra classes in the first week. Class workshops will deal with such diverse topics as health, safety and environmental compliance, optimization techniques and capital cost estimation. The students will develop a competency in the use of and a recognition of the limitations of \u00bfState-of-the-Art\u00bf simulation software. In addition to the process design, which will represent current technology, a capital cost estimate will be prepared as part of a rigorous assessment of the profitability of the project. In lieu of a final exam, student groups will be expected to prepare a formal design report and make a formal presentation. (0/0/0/0/75)",
+        "number": "470",
+        "subject": "CHEE",
         "title": "Design Of Manuf Process"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 75, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 75,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Prerequisite of CHEE223 and CHEE311 and CHEE330 and (CHEE331 or CHEE332 or CHEE 333) and CHEE321, or permission of the instructor.\u00a0 Must be registered in a BSCE academic program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Prerequisite of CHEE223 and CHEE311 and CHEE330 and (CHEE331 or CHEE332 or CHEE 333) and CHEE321, or permission of the instructor.\u00a0 Must be registered in a BSCE academic program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "6.25"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A laboratory-based course designed to explore in greater depth a sub-group of the techniques studied in PHGY-840* and involving at least two full weeks of intensive laboratory work.\u00a0 The techniques will be chosen to complement the student's graduate research. R.J. MacLeod. PREREQUISITE: PHGY-840* or BMED-842*.\u00a0 EXCLUSION: PHGY-841*", 
-        "number": "843", 
-        "subject": "BMED", 
+        "description": "A laboratory-based course designed to explore in greater depth a sub-group of the techniques studied in PHGY-840* and involving at least two full weeks of intensive laboratory work.\u00a0 The techniques will be chosen to complement the student's graduate research. R.J. MacLeod. PREREQUISITE: PHGY-840* or BMED-842*.\u00a0 EXCLUSION: PHGY-841*",
+        "number": "843",
+        "subject": "BMED",
         "title": "Advanced Techniques in Digestive Sciences II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

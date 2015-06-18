@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Research practicum under the supervision of a Biology faculty member. The course will involve a combination of research in the host laboratory, attendance of BIOL 537 or other seminars in the Department, and literature research to present as a major paper and seminar.\r\nNOTE\u00a0\u00a0\u00a0 Students will normally be enrolled in the fourth year of their Program, having completed the third year core requirements of their Plan.", 
-        "number": "540", 
-        "subject": "BIOL", 
+        "description": "Research practicum under the supervision of a Biology faculty member. The course will involve a combination of research in the host laboratory, attendance of BIOL 537 or other seminars in the Department, and literature research to present as a major paper and seminar.\r\nNOTE\u00a0\u00a0\u00a0 Students will normally be enrolled in the fourth year of their Program, having completed the third year core requirements of their Plan.",
+        "number": "540",
+        "subject": "BIOL",
         "title": "Research Mentorship in Biology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "6.00"
     }
 }

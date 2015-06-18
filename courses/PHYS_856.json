@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction to: magnetic measurements, classes of magnetic materials, domain theory, permanent magnets, electromagnets, calculations of magnetic fields and forces, solenoid and superconducting coils, eddy currents. Followed by selected review and design topics covering magnetic devices and engineering from: magnetic recording, magnetic disks, magnetic bubbles, magnetic thin film memories, magnetic separation, magnetic amplifiers, magnetic levitation.", 
-        "number": "856", 
-        "subject": "PHYS", 
+        "description": "Introduction to: magnetic measurements, classes of magnetic materials, domain theory, permanent magnets, electromagnets, calculations of magnetic fields and forces, solenoid and superconducting coils, eddy currents. Followed by selected review and design topics covering magnetic devices and engineering from: magnetic recording, magnetic disks, magnetic bubbles, magnetic thin film memories, magnetic separation, magnetic amplifiers, magnetic levitation.",
+        "number": "856",
+        "subject": "PHYS",
         "title": "Magnetics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduces the theory and application of survival analysis: survival distributions and their applications, parametric and nonparametric methods, proportional hazards models, counting process and proportional hazards regression, planning and designing clinical trials. (Offered jointly with STAT-486*.) Three term-hours, winter; lectures.", 
-        "number": "886", 
-        "subject": "STAT", 
+        "description": "Introduces the theory and application of survival analysis: survival distributions and their applications, parametric and nonparametric methods, proportional hazards models, counting process and proportional hazards regression, planning and designing clinical trials. (Offered jointly with STAT-486*.) Three term-hours, winter; lectures.",
+        "number": "886",
+        "subject": "STAT",
         "title": "Survival Analysis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

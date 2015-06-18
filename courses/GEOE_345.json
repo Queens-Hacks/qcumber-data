@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The course provides involves a team approach to tackling current geological engineering problems and developing innovative solutions. Critical site investigation and site selection decisions are proposed, undertaken and tested with consideration of downstream engineering issues and constraints. The course relies on student consultation with guest participants, most of whom are practicing professional engineers. Additionaly, topics such as professional liability and ethics, environmental legislation, and the Occupational Health and Safety Act are presented and discussed. In addition, formalized design tools including FMEA, QRA will be utilized. Course includes a field exercise in modern engineering investigation methods.", 
-        "number": "345", 
-        "subject": "GEOE", 
+        "description": "The course provides involves a team approach to tackling current geological engineering problems and developing innovative solutions. Critical site investigation and site selection decisions are proposed, undertaken and tested with consideration of downstream engineering issues and constraints. The course relies on student consultation with guest participants, most of whom are practicing professional engineers. Additionaly, topics such as professional liability and ethics, environmental legislation, and the Occupational Health and Safety Act are presented and discussed. In addition, formalized design tools including FMEA, QRA will be utilized. Course includes a field exercise in modern engineering investigation methods.",
+        "number": "345",
+        "subject": "GEOE",
         "title": "Site Invest & Geol Eng. Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 12, 
-            "Eng Des": 36, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 12,
+            "Eng Des": 36,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: Completion of 2nd year Geological Engineering or permission of the department. \r\nEXCLUSION: GEOL 445 or GEOE 445", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: Completion of 2nd year Geological Engineering or permission of the department. \r\nEXCLUSION: GEOL 445 or GEOE 445",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.00"
     }
 }

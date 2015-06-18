@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The origin, migration and accumulation of petroleum resources, emphasizing typical reservoir styles, potential reservoir lithologies, methods of exploration and basic concepts of formation evaluation. Concepts and applications equip students with the basic principles necessary to undertake petroleum industry exploration and production. Laboratory exercises include a major exploration design problem and presentation. Offered next in 2013-2014, and every second year thereafter.", 
-        "number": "418", 
-        "subject": "GEOE", 
+        "description": "The origin, migration and accumulation of petroleum resources, emphasizing typical reservoir styles, potential reservoir lithologies, methods of exploration and basic concepts of formation evaluation. Concepts and applications equip students with the basic principles necessary to undertake petroleum industry exploration and production. Laboratory exercises include a major exploration design problem and presentation. Offered next in 2013-2014, and every second year thereafter.",
+        "number": "418",
+        "subject": "GEOE",
         "title": "Petroleum Geology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 24, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 30, 
+            "Basic Sci": 24,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 30,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: GEOE 238 or GEOL 238 and must also be registered in BSCE.\nCOREQ. GEOE321", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: GEOE 238 or GEOL 238 and must also be registered in BSCE.\nCOREQ. GEOE321",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "4.50"
     }
 }

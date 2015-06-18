@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Topics include models for dynamical systems, classification of differential equations, methods for solving differential equations, systems of equations and connections with Linear Algebra, stability of dynamical systems and Lyapunov's method, the Laplace Transform method, and numerical and computer methods.", 
-        "number": "237", 
-        "subject": "MTHE", 
+        "description": "Topics include models for dynamical systems, classification of differential equations, methods for solving differential equations, systems of equations and connections with Linear Algebra, stability of dynamical systems and Lyapunov's method, the Laplace Transform method, and numerical and computer methods.",
+        "number": "237",
+        "subject": "MTHE",
         "title": "Differential Equations for Engineering Science"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 11, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 10, 
+            "Basic Sci": 11,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 10,
             "Math": 18
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: APSC 171, APSC 172, APSC 174 and registered in BSCE.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "enrollment_requirement": "PREREQ: APSC 171, APSC 172, APSC 174 and registered in BSCE.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.25"
     }
 }

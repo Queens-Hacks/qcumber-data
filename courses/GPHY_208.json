@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Physical and chemical processes at the earth's surface that result in the development of landscapes and their soils. Topics include soil formation and weathering, erosion, and deposition by water, wind, and ice.\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $25.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;48P)", 
-        "number": "208", 
-        "subject": "GPHY", 
+        "description": "Physical and chemical processes at the earth's surface that result in the development of landscapes and their soils. Topics include soil formation and weathering, erosion, and deposition by water, wind, and ice.\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $25.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;48P)",
+        "number": "208",
+        "subject": "GPHY",
         "title": "Principles of Geomorphology and Pedology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "GPHY100 OR GPHY102 OR GPHY1U##", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "GPHY100 OR GPHY102 OR GPHY1U##",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

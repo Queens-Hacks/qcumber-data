@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "433", 
-        "subject": "BCHM", 
+        "description": "",
+        "number": "433",
+        "subject": "BCHM",
         "title": "Biochemistry Of The Cell"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "BCHM310 OR (BCHM315 AND BCHM316) OR (BCHM315 AND BCHM317)", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "BCHM310 OR (BCHM315 AND BCHM316) OR (BCHM315 AND BCHM317)",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

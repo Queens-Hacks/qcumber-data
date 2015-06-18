@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduction to the fundamentals and principles of chemical engineering, with applications to chemical and biochemical processes, via an analysis of processing units including distillation, crystallization and combustion. Specific topics include conservation equations for mass and energy, process flow diagrams, material and energy balances, chemical reaction fundamentals, and applications of the First Law of Thermodynamics.", 
-        "number": "221", 
-        "subject": "CHEE", 
+        "description": "Introduction to the fundamentals and principles of chemical engineering, with applications to chemical and biochemical processes, via an analysis of processing units including distillation, crystallization and combustion. Specific topics include conservation equations for mass and energy, process flow diagrams, material and energy balances, chemical reaction fundamentals, and applications of the First Law of Thermodynamics.",
+        "number": "221",
+        "subject": "CHEE",
         "title": "Chemical Processes And Systems"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 42, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 42,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "APSC111, APSC131, APSC132, APSC172, or permission of the department. Must be registered in a BSCE academic program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "APSC111, APSC131, APSC132, APSC172, or permission of the department. Must be registered in a BSCE academic program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

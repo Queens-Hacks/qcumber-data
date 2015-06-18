@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The course provides participants with the fundamentals necessary to understand and appreciate investigation methods into engineering failures.\u00a0 Topics to be considered include: - the definition of potential sources of failure in engineered materials- understanding failures due to natural causes, fire, impacts, design, manufacture and service conditions- procedures for investigation of structural, materials, environmental, service and design-related failures- introduction to principles of materials selection for prevention of mechanical failures- characterization techniques used to assess materials structure and chemistry- demonstration of fundamental principles through real case studies to understand liabilities and legal issues (Lead Instructor - Doug Perovic, Toronto)", 
-        "number": "821", 
-        "subject": "DM", 
+        "description": "The course provides participants with the fundamentals necessary to understand and appreciate investigation methods into engineering failures.\u00a0 Topics to be considered include: - the definition of potential sources of failure in engineered materials- understanding failures due to natural causes, fire, impacts, design, manufacture and service conditions- procedures for investigation of structural, materials, environmental, service and design-related failures- introduction to principles of materials selection for prevention of mechanical failures- characterization techniques used to assess materials structure and chemistry- demonstration of fundamental principles through real case studies to understand liabilities and legal issues (Lead Instructor - Doug Perovic, Toronto)",
+        "number": "821",
+        "subject": "DM",
         "title": "Forensic Engineering & Failure"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

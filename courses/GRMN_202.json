@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A systematic review of grammatical structures with the aim of enhancing students\u00bf linguistic competence with particular emphasis on written communication.", 
-        "number": "202", 
-        "subject": "GRMN", 
+        "description": "A systematic review of grammatical structures with the aim of enhancing students\u00bf linguistic competence with particular emphasis on written communication.",
+        "number": "202",
+        "subject": "GRMN",
         "title": "Intermediate German II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in GRMN 201 or permission of the Department of Languages, Literatures and Cultures.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A grade of C in GRMN 201 or permission of the Department of Languages, Literatures and Cultures.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

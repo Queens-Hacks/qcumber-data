@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Modeling will be presented in the context of biological examples drawn from ecology and evolution, including life history evolution, sexual selection, evolutionary epidemiology and medicine, and ecological interactions. Techniques will be drawn from dynamical systems, probability, optimization, and game theory with emphasis put on how to formulate and analyze models.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 MATH 110/6.0 or MATH 111/6.0.", 
-        "number": "300", 
-        "subject": "BIOM", 
+        "description": "Modeling will be presented in the context of biological examples drawn from ecology and evolution, including life history evolution, sexual selection, evolutionary epidemiology and medicine, and ecological interactions. Techniques will be drawn from dynamical systems, probability, optimization, and game theory with emphasis put on how to formulate and analyze models.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 MATH 110/6.0 or MATH 111/6.0.",
+        "number": "300",
+        "subject": "BIOM",
         "title": "Modeling Techniques in Biology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 12, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 12,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 36
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 MATH110 or MATH111.\r\nPrerequisites\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 MATH110 or MATH111.\r\nPrerequisites\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

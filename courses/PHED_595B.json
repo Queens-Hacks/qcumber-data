@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An independent study involving a research proposal and project on an approved topic in the area of health enhancement, disease prevention, and human performance. The research proposal will be completed in the fall term and research project in the winter term. Students must arrange for a full-time faculty advisor in the School of Kinesiology and Health\u00a0Studies.", 
-        "number": "595B", 
-        "subject": "PHED", 
+        "description": "An independent study involving a research proposal and project on an approved topic in the area of health enhancement, disease prevention, and human performance. The research proposal will be completed in the fall term and research project in the winter term. Students must arrange for a full-time faculty advisor in the School of Kinesiology and Health\u00a0Studies.",
+        "number": "595B",
+        "subject": "PHED",
         "title": "Honours Thesis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "6.00"
     }
 }

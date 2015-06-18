@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Introduction and extension of learning to connect practicum experiences with on-campus learning and to develop the process of constructing and documenting professional knowledge. This course emphasizes understanding and improving learning and teaching and associated classroom practices.",
+        "number": "411B",
+        "subject": "PROF",
+        "title": "Theory and Professional Practice (IS)"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "1.50"
+    }
+}

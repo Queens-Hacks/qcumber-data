@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Topics include: biosynthesis of biologically based products: properties of biologically active materials including enzymes, polynucleotides and polypeptides; enzyme reaction kinetics; cell and tissue growth and production kinetics; cell and tissue culture engineering; diffusion and reaction involved immobilized cells and enzymes; bioprocess instrumentation. The course project will require the design of a biological reactor or downstream unit operation, or the specification of instrumentation for a particular bioprocess.", 
-        "number": "450", 
-        "subject": "CHEE", 
+        "description": "Topics include: biosynthesis of biologically based products: properties of biologically active materials including enzymes, polynucleotides and polypeptides; enzyme reaction kinetics; cell and tissue growth and production kinetics; cell and tissue culture engineering; diffusion and reaction involved immobilized cells and enzymes; bioprocess instrumentation. The course project will require the design of a biological reactor or downstream unit operation, or the specification of instrumentation for a particular bioprocess.",
+        "number": "450",
+        "subject": "CHEE",
         "title": "Engineering Biology"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 30, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 30,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of ENCH245 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of ENCH245 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

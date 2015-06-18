@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course critically examines the theoretical foundations and processes of working with communities through community development in order to enable occupation at the community level. Theories of community development, the process of engaging with communities, and skills required for community development will be explored as they pertain to occupational therapy. This course lays the theoretical foundation for the community development fieldwork placement, OT-862. Co-requisite: OT-862 or permission of the course coordinator; Prerequisites: OT-841*, OT-851, OT-852* and OT-854* or permission of the course coordinator.", 
-        "number": "861", 
-        "subject": "OT", 
+        "description": "This course critically examines the theoretical foundations and processes of working with communities through community development in order to enable occupation at the community level. Theories of community development, the process of engaging with communities, and skills required for community development will be explored as they pertain to occupational therapy. This course lays the theoretical foundation for the community development fieldwork placement, OT-862. Co-requisite: OT-862 or permission of the course coordinator; Prerequisites: OT-841*, OT-851, OT-852* and OT-854* or permission of the course coordinator.",
+        "number": "861",
+        "subject": "OT",
         "title": "Applied Community Development"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
-            "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "OT 861: (Coreq of 862 or permissions of course coordinator) an (Prereqs of OT841 & OT851 & OT852 & OT854 or permission of course coordinator).", 
-        "grading_basis": "Graded", 
+            "Lecture": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "OT 861: (Coreq of 862 or permissions of course coordinator) an (Prereqs of OT841 & OT851 & OT852 & OT854 or permission of course coordinator).",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

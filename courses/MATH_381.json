@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A historical perspective on mathematical ideas focusing on a selection of important and accessible theorems. A project is required.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12G;72P)", 
-        "number": "381", 
-        "subject": "MATH", 
+        "description": "A historical perspective on mathematical ideas focusing on a selection of important and accessible theorems. A project is required.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12G;72P)",
+        "number": "381",
+        "subject": "MATH",
         "title": "Mathematics with a Historical Perspective"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH110 or MATH111) and (MATH121 or MATH126 or MATH120).", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH110 or MATH111 or MATH212) and (MATH121 or MATH126 or MATH120).",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

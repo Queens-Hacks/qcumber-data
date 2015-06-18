@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Extension of classical mechanics and engineering applications. Plane dynamics,\r\nrelative motion and forces in moving and accelerated reference frames. Introduction to general three-dimensional motion of a rigid body, inertia tensor and steady-state\r\nprecession. The laws of conservation of mass, momentum and energy.", 
-        "number": "225", 
-        "subject": "ENPH", 
+        "description": "Extension of classical mechanics and engineering applications. Plane dynamics,\r\nrelative motion and forces in moving and accelerated reference frames. Introduction to general three-dimensional motion of a rigid body, inertia tensor and steady-state\r\nprecession. The laws of conservation of mass, momentum and energy.",
+        "number": "225",
+        "subject": "ENPH",
         "title": "Mechanics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 42, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 42,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of APSC111 and APSC112 and APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite of APSC111 and APSC112 and APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

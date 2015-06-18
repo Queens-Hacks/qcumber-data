@@ -1,25 +1,26 @@
 {
     "basic": {
-        "description": "This is a project-based design course where methods of applied mathematics are used to solve a complex open-ended engineering problem.\u00a0 The projects involve using system theoretic methods for modelling, analysis, and design applied to engineering problems arising in a variety of engineering disciplines.\u00a0 Students will work in teams and employ design processes to arrive at a solution.\u00a0 The course will include elements of communications, economic analysis, impacts of engineering, professionalism, and engineering ethics.", 
-        "number": "393", 
-        "subject": "MTHE", 
+        "description": "This is a project-based design course where methods of applied mathematics are used to solve a complex open-ended engineering problem.\u00a0 The projects involve using system theoretic methods for modelling, analysis, and design applied to engineering problems arising in a variety of engineering disciplines.\u00a0 Students will work in teams and employ design processes to arrive at a solution.\u00a0 The course will include elements of communications, economic analysis, impacts of engineering, professionalism, and engineering ethics.",
+        "number": "393",
+        "subject": "MTHE",
         "title": "Engineering Design and Practice for Mathematics and Engineering"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 12, 
-            "Eng Des": 36, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 12,
+            "Eng Des": 36,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PreRequisite of\u00a0 APSC 200", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "PreRequisite of\u00a0 APSC 200",
+        "grading_basis": "Graded",
         "units": "4.00"
     }
 }

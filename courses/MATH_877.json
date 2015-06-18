@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Fundamentals of the theoretical and practical (algorithmic) aspects of lossless and lossy data compression. Topics include: adaptive Huffman coding, arithmetic coding, the fundamental performance limits of universal lossless coding, Lempel-Ziv and related dictionary based methods, the Burrows-Wheeler transform, elements of Kolmogorov complexity theory, rate-distortion theory, scalar and vector quantization, applications to speech and image coding. Offered jointly with MATH-477*).", 
-        "number": "877", 
-        "subject": "MATH", 
+        "description": "Fundamentals of the theoretical and practical (algorithmic) aspects of lossless and lossy data compression. Topics include: adaptive Huffman coding, arithmetic coding, the fundamental performance limits of universal lossless coding, Lempel-Ziv and related dictionary based methods, the Burrows-Wheeler transform, elements of Kolmogorov complexity theory, rate-distortion theory, scalar and vector quantization, applications to speech and image coding. Offered jointly with MATH-477*).",
+        "number": "877",
+        "subject": "MATH",
         "title": "Data Compression And Source Co"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

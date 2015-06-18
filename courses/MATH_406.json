@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Construction and properties of finite fields. Polynomials, vector spaces, block codes over finite fields. Hamming distance and other code parameters. Bounds relating code parameters. Cyclic codes and their structure as ideals. Weight distribution. Special codes and their relation to designs and projective planes. Decoding algorithms.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "406", 
-        "subject": "MATH", 
+        "description": "Construction and properties of finite fields. Polynomials, vector spaces, block codes over finite fields. Hamming distance and other code parameters. Bounds relating code parameters. Cyclic codes and their structure as ideals. Weight distribution. Special codes and their relation to designs and projective planes. Decoding algorithms.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "406",
+        "subject": "MATH",
         "title": "Introduction to Coding Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH210 or MATH212.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH210 or MATH212.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

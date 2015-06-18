@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to comparative literary studies as currently practised, with particular emphasis on the relevance to such studies of contemporary theories of literature and criticism. This course will be given jointly with CLAS-850*, GRMN-902*, SPAN-806*, FRAN-950*.", 
-        "number": "950", 
-        "subject": "ENGL", 
+        "description": "An introduction to comparative literary studies as currently practised, with particular emphasis on the relevance to such studies of contemporary theories of literature and criticism. This course will be given jointly with CLAS-850*, GRMN-902*, SPAN-806*, FRAN-950*.",
+        "number": "950",
+        "subject": "ENGL",
         "title": "Comparative Literature I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

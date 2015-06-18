@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Research projects in the physiological, biological, genetic and molecular basis of disease. Students will review the literature related to their proposed graduate research thesis project and write a series of essays on topics selected in consultation with a supervisory committee consisting of their supervisor and two other faculty. They will also develop a written draft research proposal that will be presented to their supervisory committee and defended in a final oral examination. To be taken by all students in the first full term of the graduate program. P.Greer (course coordinator).", 
-        "number": "827", 
-        "subject": "PATH", 
+        "description": "Research projects in the physiological, biological, genetic and molecular basis of disease. Students will review the literature related to their proposed graduate research thesis project and write a series of essays on topics selected in consultation with a supervisory committee consisting of their supervisor and two other faculty. They will also develop a written draft research proposal that will be presented to their supervisory committee and defended in a final oral examination. To be taken by all students in the first full term of the graduate program. P.Greer (course coordinator).",
+        "number": "827",
+        "subject": "PATH",
         "title": "Research Project In Patholgy"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "3.00"
     }
 }

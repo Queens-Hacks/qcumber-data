@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This module studies astrophysical situations in which Newtonian dynamics fails at the local scale. Topics include:\u00a0 Neutron Stars: Origin, current understanding of their structure, interaction with their environment and the importance of binary pulsars in verifying the status of general relativity.\u00a0 Black Holes: Origin, current understanding of their uniqueness properties in the static and stationary cases, interaction with their environment and the importance of black holes in a cosmological context.", 
-        "number": "848", 
-        "subject": "PHYS", 
+        "description": "This module studies astrophysical situations in which Newtonian dynamics fails at the local scale. Topics include:\u00a0 Neutron Stars: Origin, current understanding of their structure, interaction with their environment and the importance of binary pulsars in verifying the status of general relativity.\u00a0 Black Holes: Origin, current understanding of their uniqueness properties in the static and stationary cases, interaction with their environment and the importance of black holes in a cosmological context.",
+        "number": "848",
+        "subject": "PHYS",
         "title": "High Density Astrophysics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "1.50"
     }
 }

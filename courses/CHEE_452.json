@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the area of mass, momentum and heat transfer processes in physiological systems. In this course the student will appreciate the role of transport phenomena in the function of organs and organ systems in the body, and develop the skills necessary to analyze models of biological transport processes in the context of the design of biomedical devices. 0/0/0/30/12",
+        "number": "452",
+        "subject": "CHEE",
+        "title": "Transport Phenomena in Physiological Systems"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 30,
+            "Math": 0
+        },
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required",
+            "Tutorial": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "3.50"
+    }
+}

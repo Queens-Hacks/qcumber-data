@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This seminar course addresses foundational theory, concepts and contemporary issues in the field of rehabilitation, including strategies and concerns related to scientific study of the field. The course is informed by the International Classification of Functioning, Disability and Health, and highlights national and international policy and research relative to impairment and functional activity. Three term hours: Fall", 
-        "number": "804", 
-        "subject": "RHBS", 
+        "description": "This seminar course addresses foundational theory, concepts and contemporary issues in the field of rehabilitation, including strategies and concerns related to scientific study of the field. The course is informed by the International Classification of Functioning, Disability and Health, and highlights national and international policy and research relative to impairment and functional activity. Three term hours: Fall",
+        "number": "804",
+        "subject": "RHBS",
         "title": "Rehabilitation Science"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

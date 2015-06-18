@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Gross and functional anatomy of the back, body wall, upper and lower limbs, including blood supply and neural controls.\r\nNOTE\u00a0\u00a0\u00a0 Laboratory consumables: estimated cost $15.", 
-        "number": "315", 
-        "subject": "ANAT", 
+        "description": "Gross and functional anatomy of the back, body wall, upper and lower limbs, including blood supply and neural controls.",
+        "number": "315",
+        "subject": "ANAT",
         "title": "The Human Musculoskeletal System"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (BIOL102 and BIOL103) or (BIOL201 and BIOL202) or (KNPE153 or PHED153) or permission of the Department of Biomedical and Molecular Sciences.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (BIOL102 and BIOL103) or (BIOL201 and BIOL202) or (KNPE153 or PHED153) or permission of the Department of Biomedical and Molecular Sciences.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

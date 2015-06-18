@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Practical work in selected areas of performance. \r\nNOTE\u00a0\u00a0\u00a0 Not offered every year. Prerequisites vary depending on specific course content; consult Department.", 
-        "number": "439", 
-        "subject": "DRAM", 
+        "description": "Practical work in selected areas of performance. \r\nNOTE\u00a0\u00a0\u00a0 Not offered every year. Prerequisites vary depending on specific course content; consult Department.",
+        "number": "439",
+        "subject": "DRAM",
         "title": "Special Topics Performance III"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Practicum": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "DRAM419", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "DRAM419",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

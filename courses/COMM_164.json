@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "164", 
-        "subject": "COMM", 
+        "description": "",
+        "number": "164",
+        "subject": "COMM",
         "title": "Business Decision Models"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "(Prerequisite of COMM163 and registered in a BCOM Academic Program) or registered in a COMM-X Academic Plan.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "(Prerequisite of COMM163 and registered in a BCOM Academic Program) or registered in a COMM-X Academic Plan.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

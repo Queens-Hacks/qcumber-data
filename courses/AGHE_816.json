@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "The focus of this course is an overview of basic pharmacokinetic and pharmacodynamic processes and how these are altered with advancing age. An emphasis is placed on assessment of risk, commonly prescribed medications in the elderly population, and strategies to optimize polypharmacy and medication-related problems.",
+        "number": "816",
+        "subject": "AGHE",
+        "title": "Pharmacology and Aging"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
+        "course_components": {
+            "Seminar": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

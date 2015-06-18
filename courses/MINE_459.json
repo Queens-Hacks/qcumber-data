@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course aims to impart the analytical foundations and engineering insights necessary for the reliability analysis, maintenance, and risk assessment of industrial plants and equipment. Case studies are used throughout the course. Topics addressed include: reliability and failure analysis (FMECA, HAZOP); maintenance planning policies and life cycle behaviour; organization of maintenance operations; maintenance management and information systems; condition-based maintenance (CBM); reliability centred maintenance (RCM) and RCMII; reliability growth management in design and test.", 
-        "number": "459", 
-        "subject": "MINE", 
+        "description": "This course aims to impart the analytical foundations and engineering insights necessary for the reliability analysis, maintenance, and risk assessment of industrial plants and equipment. Case studies are used throughout the course. Topics addressed include: reliability and failure analysis (FMECA, HAZOP); maintenance planning policies and life cycle behaviour; organization of maintenance operations; maintenance management and information systems; condition-based maintenance (CBM); reliability centred maintenance (RCM) and RCMII; reliability growth management in design and test.",
+        "number": "459",
+        "subject": "MINE",
         "title": "Reliability Maintenance Risk"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 12, 
-            "Eng Sci": 36, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 12,
+            "Eng Sci": 36,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Must be registered in a BSCE program", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
         "units": "4.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course, building on the skills developed in SOCY-901, will focus on the development of contemporary sociological theories to deal with specific problem areas. Precise topics will vary from year to year in response to student interest and need. Three term-hours; winter, R. Day.", 
-        "number": "911", 
-        "subject": "SOCY", 
+        "description": "This course, building on the skills developed in SOCY-901, will focus on the development of contemporary sociological theories to deal with specific problem areas. Precise topics will vary from year to year in response to student interest and need. Three term-hours; winter, R. Day.",
+        "number": "911",
+        "subject": "SOCY",
         "title": "Contemp. Sociological Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

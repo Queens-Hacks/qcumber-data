@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course will serve as an introduction to altering protein structure and function, including catalysis, using rational design and directed evolution (or \"irrational\") approaches. Basic principles will be discussed in the context of examples selected from the literature. Not offered 2010-2011.", 
-        "number": "915", 
-        "subject": "CHEM", 
+        "description": "This course will serve as an introduction to altering protein structure and function, including catalysis, using rational design and directed evolution (or \"irrational\") approaches. Basic principles will be discussed in the context of examples selected from the literature. Not offered 2010-2011.",
+        "number": "915",
+        "subject": "CHEM",
         "title": "Biosynthesis of Natural Products"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "1.50"
     }
 }

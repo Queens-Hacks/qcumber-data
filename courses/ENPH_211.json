@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course stresses the creation of physical models for real systems. Applications of vibrational motion are developed and a basic description of the properties of elastic media given. The methods required to predict the performance of physical or engineering systems are demonstrated using examples drawn from various fields of science and engineering with emphasis on mechanics and vibrations, waves and optics.", 
-        "number": "211", 
-        "subject": "ENPH", 
+        "description": "This course stresses the creation of physical models for real systems. Applications of vibrational motion are developed and a basic description of the properties of elastic media given. The methods required to predict the performance of physical or engineering systems are demonstrated using examples drawn from various fields of science and engineering with emphasis on mechanics and vibrations, waves and optics.",
+        "number": "211",
+        "subject": "ENPH",
         "title": "Applied Physics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 11, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 31, 
+            "Basic Sci": 11,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 31,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQ: Must be registered in BSCE\r\nCOREQ: ENPH 225", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "PREREQ: Must be registered in BSCE\r\nCOREQ: ENPH 225",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.50"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An examination of the basic phenomena of semiconductor physics and their application in diodes, transistors, optical detectors, and lasers. The laboratory illustrates the use of semiconductor devices in electronic circuits. (0/10/2/28/8)~ COURSE DELETED IN 2008/09 ~", 
-        "number": "335", 
-        "subject": "PHYS", 
+        "description": "An examination of the basic phenomena of semiconductor physics and their application in diodes, transistors, optical detectors, and lasers. The laboratory illustrates the use of semiconductor devices in electronic circuits. (0/10/2/28/8)~ COURSE DELETED IN 2008/09 ~",
+        "number": "335",
+        "subject": "PHYS",
         "title": "Semiconductor Physics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PHYS231 OR PHYS235 OR PHYS239", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PHYS231 OR PHYS235 OR PHYS239",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "", 
-        "number": "322", 
-        "subject": "LISC", 
+        "description": "",
+        "number": "322",
+        "subject": "LISC",
         "title": "Fundamentals Of Neuroscience"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PHGY212 OR PHGY210 OR PHGY214 OR BIOL338 OR PSYC271", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PHGY212 OR PHGY210 OR PHGY214 OR BIOL338 OR PSYC271",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

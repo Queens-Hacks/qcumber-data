@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to the theory, methods, and practical issues in assessing, accessing, and maintaining data sources and database systems and related tools for the manipulation and analysis of data. Students will learn concepts of database management and computer programming and will apply these concepts to the preparation, manipulation, analysis, and presentation of spatial and tabular data.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;24Pc;24G;24O;24P)", 
-        "number": "244", 
-        "subject": "GPHY", 
+        "description": "An introduction to the theory, methods, and practical issues in assessing, accessing, and maintaining data sources and database systems and related tools for the manipulation and analysis of data. Students will learn concepts of database management and computer programming and will apply these concepts to the preparation, manipulation, analysis, and presentation of spatial and tabular data.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24L;24Pc;24G;24O;24P)",
+        "number": "244",
+        "subject": "GPHY",
         "title": "Data Collection, Management and Analysis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (GPHY 101/3.0 and GPHY 102/3.0) or (BIOL 102/3.0 and BIOL 103/3.0 or (GEOL 104/3.0 and GEOL 107/3.0) or permission of the Department.", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 (GPHY 101/3.0 and GPHY 102/3.0) or (BIOL 102/3.0 and BIOL 103/3.0 or (GEOL 104/3.0 and GEOL 107/3.0) or permission of the Department.",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

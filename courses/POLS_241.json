@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An examination of how and why societies change and the context in which transformation occurs.", 
-        "number": "241", 
-        "subject": "POLS", 
+        "description": "An examination of how and why societies change and the context in which transformation occurs.",
+        "number": "241",
+        "subject": "POLS",
         "title": "Comparative Politics: Transformations"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite: POLS 110", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite: POLS 110",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,0 +1,35 @@
+{
+    "_unique": "001-LEC (3522)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 65,
+        "wait_curr": 0,
+        "wait_max": 6
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "312",
+        "season": "Fall",
+        "solus_id": "3522",
+        "status": "Open",
+        "subject": "CHEM",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

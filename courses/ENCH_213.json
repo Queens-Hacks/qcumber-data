@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduction to analytical chemical methods and science. Topics include statistical analysis of data, titrations and equilibrium theory, spectrophotometry and instrumental elemental analysis. \r\nNOTE: Laboratory consumables: estimated cost $20.", 
-        "number": "213", 
-        "subject": "ENCH", 
+        "description": "Introduction to analytical chemical methods and science. Topics include statistical analysis of data, titrations and equilibrium theory, spectrophotometry and instrumental elemental analysis. \r\nNOTE: Laboratory consumables: estimated cost $20.",
+        "number": "213",
+        "subject": "ENCH",
         "title": "Intro To Chemical Analysis"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 40, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 14, 
+            "Basic Sci": 40,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 14,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "APSC 131 and APSC 132", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "APSC 131 and APSC 132",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "4.50"
     }
 }

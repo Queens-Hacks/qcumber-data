@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Statistical methods for analyzing and interpreting process data are discussed, with special emphasis on techniques for continuous improvement of process operations. Topics include: role of data in assessing process operation, identifying major problems, graphical and numerical summaries, principles of valid inference, probability distributions for discrete and continuous data, process capability, comparing process performance to target values, comparing performances of two processes, control charts, and an introduction to linear regression analysis.\u00a0 \r\nEXCLUSIONS: STAT 263, STAT 268, STAT 269, MTHE 367, STAT 367", 
-        "number": "209", 
-        "subject": "CHEE", 
+        "description": "Statistical methods for analyzing and interpreting process data are discussed, with special emphasis on techniques for continuous improvement of process operations. Topics include: role of data in assessing process operation, identifying major problems, graphical and numerical summaries, principles of valid inference, probability distributions for discrete and continuous data, process capability, comparing process performance to target values, comparing performances of two processes, control charts, and an introduction to linear regression analysis.\u00a0 \r\nEXCLUSIONS: STAT 263, STAT 268, STAT 269, MTHE 367, STAT 367",
+        "number": "209",
+        "subject": "CHEE",
         "title": "Analysis Of Process Data"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 15, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 15,
             "Math": 27
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "APSC 171, APSC 172, APSC 174.\u00a0 Must be registered in a BSCE Academic Program.\r\nExclusion STAT 263, STAT 268, STAT 269, MTHE 367 (STAT 367).", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "APSC 171, APSC 172, APSC 174.\u00a0 Must be registered in a BSCE Academic Program.\r\nExclusion STAT 263, STAT 268, STAT 269, MTHE 367 (STAT 367).",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

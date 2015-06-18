@@ -1,28 +1,28 @@
 {
     "basic": {
-        "description": "Concept of computational design including the choice of the objective function, equality and inequality constraints, and analysis methods; one-dimensional search methods, sensitivity analysis, and the steepest descent method. The principles of the finite element method and its application to stress analysis of mechanical components. NOTE: Enrollment is limited.", 
-        "number": "465", 
-        "subject": "MECH", 
+        "description": "Concept of computational design including the choice of the objective function, equality and inequality constraints, and analysis methods; one-dimensional search methods, sensitivity analysis, and the steepest descent method. The principles of the finite element method and its application to stress analysis of mechanical components. NOTE: Enrollment is limited.",
+        "number": "465",
+        "subject": "MECH",
         "title": "Computer Aided Design"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 31, 
-            "Eng Sci": 11, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 31,
+            "Eng Sci": 11,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Must be registered in a BSCE program", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Must be registered in a BSCE program",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

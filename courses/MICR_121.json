@@ -1,28 +1,28 @@
 {
     "basic": {
-        "description": "This course provides the student with a foundation in the subdisciplines of bacteriology, virology, parasitology, and immunology. The course is designed to examine common infectious diseases through a body-systems approach. Laboratory and tutorial sessions emphasize diagnostic microbiology.", 
-        "number": "121", 
-        "subject": "MICR", 
+        "description": "This course provides the student with a foundation in the subdisciplines of bacteriology, virology, parasitology, and immunology. The course is designed to examine common infectious diseases through a body-systems approach. Laboratory and tutorial sessions emphasize diagnostic microbiology.",
+        "number": "121",
+        "subject": "MICR",
         "title": "Microbiology for Nursing Students"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 BCHM 102/3.0.\r\nONE-WAY EXCLUSION\u00a0\u00a0\u00a0 May not be taken with or after: MICR 125/3.0; MICR at the 200-level or above.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 BCHM 102/3.0.\r\nONE-WAY EXCLUSION\u00a0\u00a0\u00a0 May not be taken with or after: MICR 125/3.0; MICR at the 200-level or above.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

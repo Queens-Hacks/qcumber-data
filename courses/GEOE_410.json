@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A one week intensive field course with associated discussions and project work during the term. Design and application of field data collection methods in exploration and mining projects, underground and surface mine works and for site remediation.\u00a0 The key geological engineering and design issues associated with each project are examined, from preliminary engineering design through engineering control of construction through long-term monitoring and maintenance. Students evaluate current design issues and develop engineering design solutions which are presented in the form of engineering reports and presentations.", 
-        "number": "410", 
-        "subject": "GEOE", 
+        "description": "A one week intensive field course with associated discussions and project work during the term. Design and application of field data collection methods in exploration and mining projects, underground and surface mine works and for site remediation.\u00a0 The key geological engineering and design issues associated with each project are examined, from preliminary engineering design through engineering control of construction through long-term monitoring and maintenance. Students evaluate current design issues and develop engineering design solutions which are presented in the form of engineering reports and presentations.",
+        "number": "410",
+        "subject": "GEOE",
         "title": "Geological Engineering Field School"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 24, 
-            "Eng Sci": 24, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 24,
+            "Eng Sci": 24,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Field Studies": "Required"
-        }, 
-        "enrollment_requirement": "GEOE 300 (GEOL 310), GEOE 345 (GEOL 345), permission of instructor", 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "GEOE 300 (GEOL 310), GEOE 345 (GEOL 345), permission of instructor",
+        "grading_basis": "Graded",
         "units": "4.00"
     }
 }

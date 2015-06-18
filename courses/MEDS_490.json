@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "", 
-        "number": "490", 
-        "subject": "MEDS", 
+        "description": "",
+        "number": "490",
+        "subject": "MEDS",
         "title": "Medical Electives 3"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
+        },
+        "grading_basis": "Pass/Fail",
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is limited to Master\u00bfs students who already have a good background in the fundamental topics related to their areas of study and are interested in other areas not offered in existing graduate courses. Topics will be related to the structure, properties, processing and/or performance of materials. The course will include lectures, open discussions and directed study. The course content for a student or group will be specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and/or presentations and/or exams. Instructors: Various faculty members from within the Department of Mechanical and Materials Engineering\r\nExclusions: MECH-840*, MECH-842*, MECH-843*", 
-        "number": "844", 
-        "subject": "MECH", 
+        "description": "This course is limited to Master\u00bfs students who already have a good background in the fundamental topics related to their areas of study and are interested in other areas not offered in existing graduate courses. Topics will be related to the structure, properties, processing and/or performance of materials. The course will include lectures, open discussions and directed study. The course content for a student or group will be specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and/or presentations and/or exams. Instructors: Various faculty members from within the Department of Mechanical and Materials Engineering\r\nExclusions: MECH-840*, MECH-842*, MECH-843*",
+        "number": "844",
+        "subject": "MECH",
         "title": "Selected Topics in Materials Engineering"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

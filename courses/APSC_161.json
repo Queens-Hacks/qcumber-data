@@ -1,28 +1,28 @@
 {
     "basic": {
-        "description": "The principal objective of this course is to develop the ability to visualize and communicate three dimensional shapes. Standard engineering methods are covered.", 
-        "number": "161", 
-        "subject": "APSC", 
+        "description": "The principal objectives of the course are (1) to develop the student's ability to visualize and communicate three-dimensional shapes and (2) to acquire the skills needed to use computer-aided design software. Topics covered are orthographic projection, isometric sketching, auxiliary and section views as well as dimensioning and working drawings.\u00a0 Computer-aided design software is used to create solid models of the parts and assemblies as well as to generate dimensioned drawings.\u00a0 Students apply their learning in a project where they design their own version of a consumer product. Students learn by hands-on exercises in free-hand sketching and computer-based drawing.",
+        "number": "161",
+        "subject": "APSC",
         "title": "Engineering Graphics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 5, 
-            "Eng Sci": 37, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 5,
+            "Eng Sci": 37,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

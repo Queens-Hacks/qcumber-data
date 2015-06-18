@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Elementary mathematical material will be used to explore different ways of discovering results and mastering concepts.\u00a0Topics will come from number theory, geometry, analysis, probability theory, and linear algebra. Much class time will be used for problem solving and presentations by students.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
-        "number": "382", 
-        "subject": "MATH", 
+        "description": "Elementary mathematical material will be used to explore different ways of discovering results and mastering concepts.\u00a0Topics will come from number theory, geometry, analysis, probability theory, and linear algebra. Much class time will be used for problem solving and presentations by students.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "382",
+        "subject": "MATH",
         "title": "Mathematical Explorations"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH221 or MATH231 or MATH232 or MATH280) and (MATH210 or MATH211).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from IDIS303; MATH382.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (MATH221 or MATH231 or MATH232 or MATH280) and (MATH210 or MATH211).\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from IDIS303; MATH382.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

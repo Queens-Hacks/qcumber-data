@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "(Technological Education Internship students only). Introduction to the process of constructing and documenting professional knowledge acquired by the students' classroom experience.\u00a0", 
-        "number": "192", 
-        "subject": "PROF", 
+        "description": "(Technological Education Internship students only). Introduction to the process of constructing and documenting professional knowledge acquired by the students' classroom experience.\u00a0",
+        "number": "192",
+        "subject": "PROF",
         "title": "Theory & Prof Practice, Pt 1"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "0.78"
     }
 }

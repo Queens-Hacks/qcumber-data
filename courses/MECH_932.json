@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is, basically, a continuation of MECH-931* but may be taken by any student who has had adequate preparation. Among the main topics considered are: Analysis of laminar and turbulent free convective flows; local similarity methods in heat transfer; heat transfer with film condensation; prediction of turbulent Prandtl numbers; mixed (or combined) convection; combined heat and mass transfer; heat transfer in compressible flows. Three term hours, lectures. P.H. Oosthuizen", 
-        "number": "932", 
-        "subject": "MECH", 
+        "description": "This course is, basically, a continuation of MECH-931* but may be taken by any student who has had adequate preparation. Among the main topics considered are: Analysis of laminar and turbulent free convective flows; local similarity methods in heat transfer; heat transfer with film condensation; prediction of turbulent Prandtl numbers; mixed (or combined) convection; combined heat and mass transfer; heat transfer in compressible flows. Three term hours, lectures. P.H. Oosthuizen",
+        "number": "932",
+        "subject": "MECH",
         "title": "Adv Top. In Convect Heat Trans"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

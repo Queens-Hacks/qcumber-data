@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Elaborating on the themes in Introduction to Accounting Research Markets this course will examine in detail cutting edge research in financial accounting.", 
-        "number": "910", 
-        "subject": "MGMT", 
+        "description": "Elaborating on the themes in Introduction to Accounting Research Markets this course will examine in detail cutting edge research in financial accounting.",
+        "number": "910",
+        "subject": "MGMT",
         "title": "Accounting I - Financial Accounting Research"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

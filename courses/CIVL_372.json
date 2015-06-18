@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "This course introduces general concepts of water/wastewater engineering for the protection of human and ecosystem health, and focuses on the fundamental design and operation of unit operations and processes for provision of safe drinking water and the treatment and disposal of wastewaters and accumulated solids to meet source water protection regulations and requirements. Topics include water quality problems; reactors and reactions; the quality of water supplies and the characteristics of wastewater; the chemical, physical and/or biological treatment of drinking water and wastewater; and biosolids stabilization and management. Alternative and innovative urban water management strategies will be discussed\u00a0 and emerging issues for water managers will be introduced. The laboratories will illustrate standard and advanced analytical methods and data analysis for design of some of these systems. PPE will be required for this course at the student's cost.", 
-        "number": "372", 
-        "subject": "CIVL", 
+        "description": "This course introduces general concepts of water/wastewater engineering for the protection of human and ecosystem health, and focuses on the fundamental design and operation of unit operations and processes for provision of safe drinking water and the treatment and disposal of wastewaters and accumulated solids to meet source water protection regulations and requirements. Topics include water quality problems; reactors and reactions; the quality of water supplies and the characteristics of wastewater; the chemical, physical and/or biological treatment of drinking water and wastewater; and biosolids stabilization and management. Alternative and innovative urban water management strategies will be discussed\u00a0 and emerging issues for water managers will be introduced. The laboratories will illustrate standard and advanced analytical methods and data analysis for design of some of these systems. PPE will be required for this course at the student's cost.",
+        "number": "372",
+        "subject": "CIVL",
         "title": "Water and Wastewater"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 12, 
-            "Comp St": 0, 
-            "Eng Des": 16, 
-            "Eng Sci": 20, 
+            "Basic Sci": 12,
+            "Comp St": 0,
+            "Eng Des": 16,
+            "Eng Sci": 20,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "enrollment_requirement": "PREREQUISITE: CIVL 210 or CHEM 211 or ENCH 211",
+        "grading_basis": "Graded",
         "units": "4.00"
     }
 }

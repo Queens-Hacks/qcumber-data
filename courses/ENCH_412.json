@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The fundamentals of statistical mechanics with applications to thermodynamic properties of gases, liquids and solids and to chemical equilibrium in dilute gases. Offered alternating years with ENCH 413 (CHEM 413).", 
-        "number": "412", 
-        "subject": "ENCH", 
+        "description": "The fundamentals of statistical mechanics with applications to thermodynamic properties of gases, liquids and solids and to chemical equilibrium in dilute gases. Offered alternating years with ENCH 413 (CHEM 413).",
+        "number": "412",
+        "subject": "ENCH",
         "title": "Statistical Mechanics"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 36, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 36,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prereq: ENCH 346 or CHEM 346 and registered in BSCE\nExclusion: CHEM 435", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prereq: ENCH 346 or CHEM 346 and registered in BSCE\nExclusion: CHEM 435",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

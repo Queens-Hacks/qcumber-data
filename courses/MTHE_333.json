@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This laboratory introduces the use of motion control devices such as optical encoders, pulse width amplifiers and armature controlled DC servo motors. The experiments complement the analytical and theoretical work on control taken in other third year courses. Students design and implement proportional, proportional-derivative, and proportional-integral-derivative controllers.", 
-        "number": "333", 
-        "subject": "MTHE", 
+        "description": "This laboratory introduces the use of motion control devices such as optical encoders, pulse width amplifiers and armature controlled DC servo motors. The experiments complement the analytical and theoretical work on control taken in other third year courses. Students design and implement proportional, proportional-derivative, and proportional-integral-derivative controllers.",
+        "number": "333",
+        "subject": "MTHE",
         "title": "Control-Robotics Lab I"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 8, 
-            "Eng Sci": 4, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 8,
+            "Eng Sci": 4,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Laboratory": "Required"
-        }, 
-        "enrollment_requirement": "COREQ: MTHE 332\r\nMust be registered in BSCE", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "COREQ: MTHE 332\r\nMust be registered in BSCE",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "1.00"
     }
 }

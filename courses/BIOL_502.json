@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "LEARNING HOURS\u00a0\u00a0\u00a0 120 (36S;84P)", 
-        "number": "502", 
-        "subject": "BIOL", 
+        "description": "LEARNING HOURS\u00a0\u00a0\u00a0 120 (36S;84P)",
+        "number": "502",
+        "subject": "BIOL",
         "title": "Plant Cell Responses to Environmental Stress"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL330 or BIOL334 or BIOL234 or BIOL341 or BIOL430.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BIOL330 or BIOL334 or BIOL234 or BIOL341 or BIOL430.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

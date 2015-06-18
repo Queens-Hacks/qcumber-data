@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "In this course teacher candidates will study the history and practices of approaches to environmental education. This includes a critical examination of the ways that policy and practice shape the environmental awareness of individuals and society overall. Candidates will be encouraged to develop their approach to environmental education and the environment.",
+        "number": "243",
+        "subject": "EDST",
+        "title": "Understanding Environmental Education"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
+        "course_components": {
+            "Lecture": "Required"
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

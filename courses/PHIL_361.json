@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "From propositional calculus to\u00a0first-order monadic predicate calculus. Symbolization, rules of inference, derivation and refutation of arguments.\r\nNOTE\u00a0\u00a0\u00a0 Also offered as a distance course. Consult Continuing and Distance Studies.", 
-        "number": "361", 
-        "subject": "PHIL", 
+        "description": "From propositional calculus to\u00a0first-order monadic predicate calculus. Symbolization, rules of inference, derivation and refutation of arguments.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
+        "number": "361",
+        "subject": "PHIL",
         "title": "Introduction to Logic"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 A GPA of 2.0 in 6.0 PHIL.\r\nOne-Way exclusion\u00a0\u00a0\u00a0 May not be taken with or after CISC204.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 A GPA of 2.0 in 6.0 PHIL.\r\nOne-Way exclusion\u00a0\u00a0\u00a0 May not be taken with or after CISC204.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

@@ -1,25 +1,24 @@
 {
     "basic": {
-        "description": "This course will develop an appreciation of the role of the manager and business in society. It will discuss Canadian and global trends and issues - political, economic, technological, and ethical - that affect business and management. The course will introduce the student to the nature of the modern corporate enterprise, large and small, and begin the building of business analysis skills.", 
-        "number": "200", 
-        "subject": "COMM", 
+        "description": "This course will develop an appreciation of the role of the manager and business in society. It will discuss Canadian and global trends and issues - political, economic, technological, and ethical - that affect business and management. The course will introduce the student to the nature of the modern corporate enterprise, large and small, and begin the building of business analysis skills.",
+        "number": "200",
+        "subject": "COMM",
         "title": "Business Fundamentals"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Distance Studies",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or above.\r\nExclusion: COMM200 excludes COMM103.\r\nNOTE\u00a0\u00a0\u00a0 This course is not open to students enrolled in the Commerce Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 2 or above.\r\nExclusion: COMM200 excludes COMM103.\r\nNOTE\u00a0\u00a0\u00a0 This course is not open to students enrolled in the Commerce Program.",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }

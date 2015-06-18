@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Research in a particular area of French literature or language under the supervision of a professor.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24I;96P)", 
-        "number": "502", 
-        "subject": "FREN", 
+        "description": "Research in a particular area of French literature or language under the supervision of a professor.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (24I;96P)",
+        "number": "502",
+        "subject": "FREN",
         "title": "Recherches dirig\u00e9es II"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
             "Individual Study": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Summer", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Summer",
         "units": "3.00"
     }
 }

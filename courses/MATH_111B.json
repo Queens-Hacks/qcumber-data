@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to matrices and linear algebra. Emphasis on applications to biological and economic systems and to computer applications. Topics covered will include systems of equations, eigenvalues, recursions, orthogonality, regression analysis, and geometric transformations.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.", 
-        "number": "111B", 
-        "subject": "MATH", 
+        "description": "An introduction to matrices and linear algebra. Emphasis on applications to biological and economic systems and to computer applications. Topics covered will include systems of equations, eigenvalues, recursions, orthogonality, regression analysis, and geometric transformations.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.",
+        "number": "111B",
+        "subject": "MATH",
         "title": "Linear Algebra"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 At least one 4U mathematics course.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH110; MATH111; MATH112", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall, Winter", 
+        },
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 At least one 4U mathematics course.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH110; MATH111; MATH112",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall, Winter",
         "units": "6.00"
     }
 }

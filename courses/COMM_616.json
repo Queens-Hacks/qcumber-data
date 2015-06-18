@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is designed to provide students pursuing a professional accounting career with background in the more complex areas of financial accounting including long-term investments, derivative securities, business combinations, consolidated financial statements, foreign currency translation and not-for-profit organizations.", 
-        "number": "616", 
-        "subject": "COMM", 
+        "description": "This course is designed to provide students pursuing a professional accounting career with background in the more complex areas of financial accounting including long-term investments, derivative securities, business combinations, consolidated financial statements, foreign currency translation and not-for-profit organizations.",
+        "number": "616",
+        "subject": "COMM",
         "title": "Advanced Financial Accounting"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Non-Credit", 
+        },
+        "career": "Non-Credit",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Spring", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Spring",
         "units": "3.00"
     }
 }

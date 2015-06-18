@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Image acquisition and representation, histogramming, spatial- and frequency-domain filtering, edge detection, motion segmentation, color indexing, blob detection, interest operators, feature extraction, camera models and calibration, epipolar geometry and stereovision. The lab and assignments will emphasize practical examples of machine vision techniques to industrial and mechatronic applications.", 
-        "number": "474", 
-        "subject": "ELEC", 
+        "description": "Image acquisition and representation, histogramming, spatial- and frequency-domain filtering, edge detection, motion segmentation, color indexing, blob detection, interest operators, feature extraction, camera models and calibration, epipolar geometry and stereovision. The lab and assignments will emphasize practical examples of machine vision techniques to industrial and mechatronic applications.",
+        "number": "474",
+        "subject": "ELEC",
         "title": "Machine Vision"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 42, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 42,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
+            "Laboratory": "Required",
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "ELEC 474 Requirement: ELEC 278 or CISC 235.\u00a0\u00a0 Exclusion CISC", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "enrollment_requirement": "ELEC 474 Requirement: ELEC 278 or CISC 235.\u00a0\u00a0 Exclusion CISC",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.50"
     }
 }

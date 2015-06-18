@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The spread of industrialization and economic development in Europe and areas beyond in the late 19th and early 20th centuries. The geographic focus may differ from year to year but Germany, Russia and Japan are usually included.", 
-        "number": "232", 
-        "subject": "ECON", 
+        "description": "The spread of industrialization and economic development in Europe and areas beyond in the late 19th and early 20th centuries. The geographic focus may differ from year to year but Germany, Russia and Japan are usually included.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;6G;78P)\nPREREQUISITE\u00a0\u00a0\u00a0 ECON 110/6.0 or ECON 111/3.0.",
+        "number": "232",
+        "subject": "ECON",
         "title": "The Diffusion of Modern Economic Growth"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "enrollment_requirement": "ECON110/6.0 OR ECON111/3.0", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "ECON110/6.0 OR ECON111/3.0",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.00"
     }
 }

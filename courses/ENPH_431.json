@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to electromagnetic theory and some of its applications. Topics are: Maxwell's equations, properties of waves in free space, dielectrics, conductors and ionized media, reflection and refraction at the surfaces of various media, radiation of electromagnetic waves, antennae, wave-guides, and optical fibers.", 
-        "number": "431", 
-        "subject": "ENPH", 
+        "description": "An introduction to electromagnetic theory and some of its applications. Topics are: Maxwell's equations, properties of waves in free space, dielectrics, conductors and ionized media, reflection and refraction at the surfaces of various media, radiation of electromagnetic waves, antennae, wave-guides, and optical fibers.",
+        "number": "431",
+        "subject": "ENPH",
         "title": "Electromagnetic Theory"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "grading_basis": "Graded", 
+        },
+        "grading_basis": "Graded",
         "units": "3.50"
     }
 }

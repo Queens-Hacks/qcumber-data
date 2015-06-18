@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "The fundamental hydraulic processes affecting coastal engineering and water reservoir operation are discussed. Topics include wave theory, wave measurement, wave record analysis, wave transformation, seiches, tides, storm surges, turbulent mixing and transport of pollutants. Student projects are assigned on computational water reservoir modelling, analysis of field data and reservoir operation as well as the design of breakwaters and ocean structures and the use of hydraulic and numerical coastal models.\u00a0 PPE will be required for this course at student\u00bfs cost (see course materials for details).", 
-        "number": "451", 
-        "subject": "CIVL", 
+        "description": "The fundamental hydraulic processes affecting coastal engineering and water reservoir operation are discussed. Topics include wave theory, wave measurement, wave record analysis, wave transformation, seiches, tides, storm surges, turbulent mixing and transport of pollutants. Student projects are assigned on computational water reservoir modelling, analysis of field data and reservoir operation as well as the design of breakwaters and ocean structures and the use of hydraulic and numerical coastal models.\u00a0 PPE will be required for this course at student\u00bfs cost (see course materials for details).",
+        "number": "451",
+        "subject": "CIVL",
         "title": "Lake, Reservoir and Coastal"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 22, 
-            "Eng Sci": 22, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 22,
+            "Eng Sci": 22,
             "Math": 0
-        }, 
-        "career": "Undergraduate", 
+        },
+        "career": "Undergraduate",
         "course_components": {
-            "Laboratory": "Required", 
-            "Lecture": "Required", 
+            "Laboratory": "Required",
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "enrollment_requirement": "Prerequisite of CIVL350 and registered in a BSCE Academic Program.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Winter", 
+        },
+        "enrollment_requirement": "Prerequisite of CIVL350 and registered in a BSCE Academic Program.",
+        "grading_basis": "Graded",
+        "typically_offered": "Winter",
         "units": "3.75"
     }
 }

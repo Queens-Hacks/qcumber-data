@@ -1,28 +1,28 @@
 {
     "basic": {
-        "description": "Course material will focus on the molecular basis for virus pathogenesis including host immune responses to virus infection, and viral countermeasures. Emphasis will be on viral infections that result in gastrointestinal, haematological, neurological, and respiratory diseases. Tutorials will focus on discussion of current and seminal literature.", 
-        "number": "452", 
-        "subject": "MICR", 
+        "description": "Course material will focus on the molecular basis for virus pathogenesis including host immune responses to virus infection, and viral countermeasures. Emphasis will be on viral infections that result in gastrointestinal, haematological, neurological, and respiratory diseases. Tutorials will focus on discussion of current and seminal literature.",
+        "number": "452",
+        "subject": "MICR",
         "title": "Viral Infection and Immunity"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Undergraduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required", 
+            "Lecture": "Required",
             "Tutorial": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 MICR 221/3.0 and MICR 360/3.0 and (Level 4 and registration in the LISC Major or Specialization Plan) and (a GPA of 2.5) or permission of the course coordinator.", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 MICR 221/3.0 and MICR 360/3.0 and (Level 4 and registration in the LISC Major or Specialization Plan) and (a GPA of 2.5) or permission of the course coordinator.",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

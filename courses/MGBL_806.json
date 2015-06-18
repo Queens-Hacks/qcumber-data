@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This non-credit, required course is made up of two components: Communication Skills and Career Development. Key elements of the Communication Skills Workshop piece include: building a communication strategy, audience analysis including cross-cultural considerations, persuasive communication techniques, presentation delivery (volume, tone, pace, register, stress, intonation), non-verbal communication (posture, stance, gestures), effective use of visuals and graphics. Key elements of the Career Development Workshops include job acquisition strategy (each student would be trained to build, maintain and operationalize one), Career Development Seminars and activities (a set of events scheduled throughout the program year), and career coaching (available to all students throughout the program year).", 
-        "number": "806", 
-        "subject": "MGBL", 
+        "description": "This non-credit, required course is made up of two components: Communication Skills and Career Development. Key elements of the Communication Skills Workshop piece include: building a communication strategy, audience analysis including cross-cultural considerations, persuasive communication techniques, presentation delivery (volume, tone, pace, register, stress, intonation), non-verbal communication (posture, stance, gestures), effective use of visuals and graphics. Key elements of the Career Development Workshops include job acquisition strategy (each student would be trained to build, maintain and operationalize one), Career Development Seminars and activities (a set of events scheduled throughout the program year), and career coaching (available to all students throughout the program year).",
+        "number": "806",
+        "subject": "MGBL",
         "title": "Professional Skills Development Workshop"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Pass/Fail", 
+        },
+        "grading_basis": "Pass/Fail",
         "units": "0.00"
     }
 }

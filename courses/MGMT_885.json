@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This is a seminar course in which recent publications and studies will be used to highlight various key issues in managerial economics and policy. The specific topics covered may vary from year to year but will be representative of the major areas in which economics informs managerial decision-making. (Crossed with MGMT-985*)", 
-        "number": "885", 
-        "subject": "MGMT", 
+        "description": "This is a seminar course in which recent publications and studies will be used to highlight various key issues in managerial economics and policy. The specific topics covered may vary from year to year but will be representative of the major areas in which economics informs managerial decision-making. (Crossed with MGMT-985*)",
+        "number": "885",
+        "subject": "MGMT",
         "title": "Managerial Econ & Pol. Seminar"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "career": "Graduate", 
+        },
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "3.00"
     }
 }

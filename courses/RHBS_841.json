@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students will learn the fundamentals of electrical signal acquisition, processing and interpretation for biomechanics and neuromuscular physiology applications.\u00a0 Laboratory exercises involving electromyography data acquisition and analysis will be used to illustrate key principles.\u00a0\u00a0 (1.0 credit units). EXCLUSION:\u00a0 KHS 851*, KHS 857*", 
-        "number": "841", 
-        "subject": "RHBS", 
+        "description": "Students will learn the fundamentals of electrical signal acquisition, processing and interpretation for biomechanics and neuromuscular physiology applications.\u00a0 Laboratory exercises involving electromyography data acquisition and analysis will be used to illustrate key principles.\u00a0\u00a0 (1.0 credit units). EXCLUSION:\u00a0 KHS 851*, KHS 857*",
+        "number": "841",
+        "subject": "RHBS",
         "title": "Instrumentation and Electromyography"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
         "units": "1.00"
     }
 }

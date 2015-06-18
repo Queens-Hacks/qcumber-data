@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to modern mass spectrometry. Instruments and the various methods of forming or introducing ions into the gas phase will be discussed and mass spectra will be interpreted.\u00a0\u00a0Fall;\u00a0D. Beauchemin.", 
-        "number": "840", 
-        "subject": "CHEM", 
+        "description": "An introduction to modern mass spectrometry. Instruments and the various methods of forming or introducing ions into the gas phase will be discussed and mass spectra will be interpreted.\u00a0\u00a0Fall;\u00a0D. Beauchemin.",
+        "number": "840",
+        "subject": "CHEM",
         "title": "Modern Mass Spectrometry"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Lecture": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "grading_basis": "Graded", 
-        "typically_offered": "Fall", 
+        },
+        "drop_consent": "Department Consent Required",
+        "grading_basis": "Graded",
+        "typically_offered": "Fall",
         "units": "1.50"
     }
 }

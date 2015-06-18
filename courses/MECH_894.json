@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Students work on a one-term (typically summer) internship at a sponsoring company site. The internship involves the student continuing with the same project work started in MECH-892 and continued throughout MECH-893*. The work will typically be conducted exclusively at the supporting partner company site. Course evaluation is based on a final written report (typically 40-50 pages) and an end of term project seminar presentation. Instructors: Various faculty members from within the Department of Mechanical and Materials Engineering. Prerequisites: MECH-893* \u00bf Industry-Linked Project (Part 2)", 
-        "number": "894", 
-        "subject": "MECH", 
+        "description": "Students work on a one-term (typically summer) internship at a sponsoring company site. The internship involves the student continuing with the same project work started in MECH-892 and continued throughout MECH-893*. The work will typically be conducted exclusively at the supporting partner company site. Course evaluation is based on a final written report (typically 40-50 pages) and an end of term project seminar presentation. Instructors: Various faculty members from within the Department of Mechanical and Materials Engineering. Prerequisites: MECH-893* \u00bf Industry-Linked Project (Part 2)",
+        "number": "894",
+        "subject": "MECH",
         "title": "Intership"
-    }, 
+    },
     "extra": {
         "CEAB": {
-            "Basic Sci": 0, 
-            "Comp St": 0, 
-            "Eng Des": 0, 
-            "Eng Sci": 0, 
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
             "Math": 0
-        }, 
-        "add_consent": "Department Consent Required", 
-        "career": "Graduate", 
+        },
+        "add_consent": "Department Consent Required",
+        "career": "Graduate",
         "course_components": {
             "Seminar": "Required"
-        }, 
-        "drop_consent": "Department Consent Required", 
-        "enrollment_requirement": "MECH 894: Prerequisite of MECH 893", 
-        "grading_basis": "Graded", 
+        },
+        "drop_consent": "Department Consent Required",
+        "enrollment_requirement": "MECH 894: Prerequisite of MECH 893",
+        "grading_basis": "Graded",
         "units": "3.00"
     }
 }
