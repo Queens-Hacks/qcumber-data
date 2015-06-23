@@ -1,11 +1,5 @@
 {
     "_unique": "001-ONL (8286)",
-    "availability": {
-        "class_curr": 17,
-        "class_max": 18,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "539B",
@@ -26,10 +20,5 @@
             "term_end": "2015-02-13",
             "term_start": "2015-01-01"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Continuing Educ- Fall/Winter"
-    }
+    ]
 }

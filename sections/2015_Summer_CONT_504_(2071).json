@@ -1,11 +1,5 @@
 {
     "_unique": "099-ONL (2071)",
-    "availability": {
-        "class_curr": 62,
-        "class_max": 65,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "099",
         "course": "504",
@@ -269,10 +263,5 @@
             "term_end": "2015-05-27",
             "term_start": "2015-05-25"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Continuing Educ - Inter OS"
-    }
+    ]
 }

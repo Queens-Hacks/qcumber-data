@@ -1,11 +1,5 @@
 {
     "_unique": "102-LEC (5691)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 1,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "102",
         "course": "103",
@@ -18,18 +12,13 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 5,
+            "end_time": "11:30:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "location": "CHERNOFF AUD",
+            "start_time": "10:30:00",
             "term_end": "2016-04-01",
             "term_start": "2016-01-04"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

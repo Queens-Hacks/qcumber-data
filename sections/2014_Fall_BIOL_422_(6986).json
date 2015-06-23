@@ -1,11 +1,5 @@
 {
     "_unique": "002-LAB (6986)",
-    "availability": {
-        "class_curr": 23,
-        "class_max": 24,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "002",
         "course": "422",
@@ -28,10 +22,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

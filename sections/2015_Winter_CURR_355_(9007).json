@@ -1,11 +1,5 @@
 {
     "_unique": "700-LEC (9007)",
-    "availability": {
-        "class_curr": 21,
-        "class_max": 30,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "700",
         "course": "355",
@@ -39,10 +33,5 @@
             "term_end": "2015-04-26",
             "term_start": "2015-04-24"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Fort Frances, ON",
-        "session": "Education Regular"
-    }
+    ]
 }

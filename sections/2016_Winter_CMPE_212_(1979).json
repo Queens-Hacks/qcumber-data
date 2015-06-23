@@ -1,11 +1,5 @@
 {
     "_unique": "002-LAB (1979)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 35,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "002",
         "course": "212",
@@ -18,18 +12,15 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [
+                "McLeod, Alan D"
+            ],
+            "location": "JEFFERY RM155",
+            "start_time": "14:30:00",
             "term_end": "2016-04-01",
             "term_start": "2016-01-04"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

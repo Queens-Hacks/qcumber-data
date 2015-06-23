@@ -1,11 +1,5 @@
 {
     "_unique": "003-TUT (1283)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 25,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "003",
         "course": "135B",
@@ -26,10 +20,5 @@
             "term_end": "2016-04-01",
             "term_start": "2016-01-04"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Law Regular"
-    }
+    ]
 }

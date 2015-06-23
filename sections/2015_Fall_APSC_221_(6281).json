@@ -1,11 +1,5 @@
 {
     "_unique": "800-LEC (6281)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 400,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "800",
         "course": "221",
@@ -18,18 +12,13 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 3,
+            "end_time": "21:30:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "location": "BIOSCI AUD",
+            "start_time": "18:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

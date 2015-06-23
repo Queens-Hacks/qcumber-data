@@ -1,11 +1,5 @@
 {
     "_unique": "001-SEM (6874)",
-    "availability": {
-        "class_curr": 13,
-        "class_max": 16,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "391A",
@@ -28,10 +22,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

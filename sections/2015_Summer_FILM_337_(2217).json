@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (2217)",
-    "availability": {
-        "class_curr": 6,
-        "class_max": 15,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "337",
@@ -28,10 +22,5 @@
             "term_end": "2015-06-18",
             "term_start": "2015-05-11"
         }
-    ],
-    "details": {
-        "campus": "Bader International Study Ctr",
-        "location": "East Sussex, UK",
-        "session": "May-June BISC"
-    }
+    ]
 }

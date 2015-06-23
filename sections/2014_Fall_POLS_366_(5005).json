@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (5005)",
-    "availability": {
-        "class_curr": 60,
-        "class_max": 60,
-        "wait_curr": 4,
-        "wait_max": 6
-    },
     "basic": {
         "class_num": "001",
         "course": "366",
@@ -39,10 +33,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

@@ -1,11 +1,5 @@
 {
     "_unique": "006-ONL (1347)",
-    "availability": {
-        "class_curr": 15,
-        "class_max": 17,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "006",
         "course": "504",
@@ -26,10 +20,5 @@
             "term_end": "2015-06-12",
             "term_start": "2015-04-13"
         }
-    ],
-    "details": {
-        "campus": "Kingston (Main), ON",
-        "location": "Graded",
-        "session": "Continuing Educ - Spring OL"
-    }
+    ]
 }

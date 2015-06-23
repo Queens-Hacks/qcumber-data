@@ -1,11 +1,5 @@
 {
     "_unique": "001-SEM (8047)",
-    "availability": {
-        "class_curr": 10,
-        "class_max": 16,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "850",
@@ -50,10 +44,5 @@
             "term_end": "2014-11-17",
             "term_start": "2014-11-17"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

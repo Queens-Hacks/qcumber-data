@@ -1,11 +1,5 @@
 {
     "_unique": "201-LEC (8344)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 100,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "201",
         "course": "310A",
@@ -26,10 +20,5 @@
             "term_end": "2015-12-09",
             "term_start": "2015-09-10"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Peterborough, ON",
-        "session": "Education Regular"
-    }
+    ]
 }

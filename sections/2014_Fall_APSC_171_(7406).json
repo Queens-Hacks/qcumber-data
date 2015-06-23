@@ -1,11 +1,5 @@
 {
     "_unique": "222-TUT (7406)",
-    "availability": {
-        "class_curr": 72,
-        "class_max": 72,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "222",
         "course": "171",
@@ -26,10 +20,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-15"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

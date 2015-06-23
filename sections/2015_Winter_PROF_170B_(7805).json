@@ -1,11 +1,5 @@
 {
     "_unique": "001-SEM (7805)",
-    "availability": {
-        "class_curr": 721,
-        "class_max": 750,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "170B",
@@ -61,10 +55,5 @@
             "term_end": "2015-01-13",
             "term_start": "2015-01-13"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
-        "session": "Education Regular"
-    }
+    ]
 }

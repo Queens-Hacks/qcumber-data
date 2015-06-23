@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (1038)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 100,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "506",
@@ -62,10 +56,5 @@
             "term_end": "2016-07-27",
             "term_start": "2016-07-04"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
-        "session": "Education Regular 2"
-    }
+    ]
 }

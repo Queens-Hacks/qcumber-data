@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (7985)",
-    "availability": {
-        "class_curr": 157,
-        "class_max": 163,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "981",
@@ -28,10 +22,5 @@
             "term_end": "2015-02-10",
             "term_start": "2015-02-07"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

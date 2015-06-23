@@ -1,0 +1,24 @@
+{
+    "_unique": "011-TUT (4561)",
+    "basic": {
+        "class_num": "011",
+        "course": "120A",
+        "season": "Fall",
+        "solus_id": "4561",
+        "status": "Open",
+        "subject": "ARTH",
+        "type": "TUT",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "15:30:00",
+            "instructors": [],
+            "location": "MACINTOSH-CORRY RM E202",
+            "start_time": "14:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ]
+}

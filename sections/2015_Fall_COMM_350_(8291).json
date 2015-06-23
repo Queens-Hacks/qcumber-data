@@ -1,11 +1,5 @@
 {
     "_unique": "002-LEC (8291)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 55,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "002",
         "course": "350",
@@ -18,18 +12,26 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Sephton, Peter S"
+            ],
+            "location": "GOODES RM 103",
+            "start_time": "10:00:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "10:00:00",
+            "instructors": [
+                "Sephton, Peter S"
+            ],
+            "location": "GOODES RM 103",
+            "start_time": "08:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

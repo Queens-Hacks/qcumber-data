@@ -1,11 +1,5 @@
 {
     "_unique": "003-LAB (5878)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 43,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "003",
         "course": "310",
@@ -18,18 +12,13 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 5,
+            "end_time": "17:30:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "location": "BEAMISH-MUNRO RM314",
+            "start_time": "14:30:00",
             "term_end": "2015-12-04",
-            "term_start": "2015-09-14"
+            "term_start": "2015-09-28"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

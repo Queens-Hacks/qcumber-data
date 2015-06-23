@@ -1,11 +1,5 @@
 {
     "_unique": "003-PRA (5310)",
-    "availability": {
-        "class_curr": 20,
-        "class_max": 20,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "003",
         "course": "243",
@@ -28,10 +22,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

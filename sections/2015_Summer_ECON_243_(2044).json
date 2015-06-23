@@ -1,11 +1,5 @@
 {
     "_unique": "700-ONL (2044)",
-    "availability": {
-        "class_curr": 35,
-        "class_max": 95,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "700",
         "course": "243",
@@ -28,10 +22,5 @@
             "term_end": "2015-07-24",
             "term_start": "2015-05-04"
         }
-    ],
-    "details": {
-        "campus": "Kingston (Main), ON",
-        "location": "Graded",
-        "session": "May-July 12 Week"
-    }
+    ]
 }

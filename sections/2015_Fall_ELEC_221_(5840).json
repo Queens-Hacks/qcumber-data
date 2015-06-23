@@ -1,11 +1,5 @@
 {
     "_unique": "009-LAB (5840)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 40,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "009",
         "course": "221",
@@ -18,18 +12,58 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 2,
+            "end_time": "21:30:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "location": "BEAMISH-MUNRO RM314",
+            "start_time": "18:30:00",
+            "term_end": "2015-09-27",
+            "term_start": "2015-09-21"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM314",
+            "start_time": "18:30:00",
+            "term_end": "2015-10-11",
+            "term_start": "2015-10-05"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM314",
+            "start_time": "18:30:00",
+            "term_end": "2015-10-25",
+            "term_start": "2015-10-19"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM314",
+            "start_time": "18:30:00",
+            "term_end": "2015-11-08",
+            "term_start": "2015-11-02"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM314",
+            "start_time": "18:30:00",
+            "term_end": "2015-11-22",
+            "term_start": "2015-11-16"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM314",
+            "start_time": "18:30:00",
             "term_end": "2015-12-04",
-            "term_start": "2015-09-14"
+            "term_start": "2015-11-30"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

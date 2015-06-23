@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (2183)",
-    "availability": {
-        "class_curr": 1,
-        "class_max": 5,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "826",
@@ -35,10 +29,5 @@
             "term_end": "2015-05-10",
             "term_start": "2015-05-07"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "May-June 6 Week"
-    }
+    ]
 }

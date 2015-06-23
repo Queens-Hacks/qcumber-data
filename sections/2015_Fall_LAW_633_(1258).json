@@ -1,17 +1,11 @@
 {
     "_unique": "001-LEC (1258)",
-    "availability": {
-        "class_curr": 106,
-        "class_max": 105,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "633",
         "season": "Fall",
         "solus_id": "1258",
-        "status": "Closed",
+        "status": "Open",
         "subject": "LAW",
         "type": "LEC",
         "year": "2015"
@@ -50,10 +44,5 @@
             "term_end": "2015-09-25",
             "term_start": "2015-09-25"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Law Regular"
-    }
+    ]
 }

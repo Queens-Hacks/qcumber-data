@@ -1,11 +1,5 @@
 {
     "_unique": "002-LAB (5204)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 45,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "002",
         "course": "273",
@@ -18,18 +12,130 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 3,
+            "end_time": "21:30:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2016-04-01",
+            "location": "BEAMISH-MUNRO RM212",
+            "start_time": "18:30:00",
+            "term_end": "2016-01-10",
             "term_start": "2016-01-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM212",
+            "start_time": "18:30:00",
+            "term_end": "2016-01-24",
+            "term_start": "2016-01-18"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM212",
+            "start_time": "18:30:00",
+            "term_end": "2016-02-07",
+            "term_start": "2016-02-01"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM212",
+            "start_time": "18:30:00",
+            "term_end": "2016-02-21",
+            "term_start": "2016-02-15"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM212",
+            "start_time": "18:30:00",
+            "term_end": "2016-03-06",
+            "term_start": "2016-02-29"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM212",
+            "start_time": "18:30:00",
+            "term_end": "2016-03-20",
+            "term_start": "2016-03-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM212",
+            "start_time": "18:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-03-28"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM214",
+            "start_time": "18:30:00",
+            "term_end": "2016-01-10",
+            "term_start": "2016-01-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM214",
+            "start_time": "18:30:00",
+            "term_end": "2016-01-24",
+            "term_start": "2016-01-18"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM214",
+            "start_time": "18:30:00",
+            "term_end": "2016-02-07",
+            "term_start": "2016-02-01"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM214",
+            "start_time": "18:30:00",
+            "term_end": "2016-02-21",
+            "term_start": "2016-02-15"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM214",
+            "start_time": "18:30:00",
+            "term_end": "2016-03-06",
+            "term_start": "2016-02-29"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM214",
+            "start_time": "18:30:00",
+            "term_end": "2016-03-20",
+            "term_start": "2016-03-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "21:30:00",
+            "instructors": [],
+            "location": "BEAMISH-MUNRO RM214",
+            "start_time": "18:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-03-28"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

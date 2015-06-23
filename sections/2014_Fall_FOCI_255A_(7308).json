@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (7308)",
-    "availability": {
-        "class_curr": 91,
-        "class_max": 90,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "255A",
@@ -83,10 +77,5 @@
             "term_end": "2014-12-17",
             "term_start": "2014-12-17"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
-        "session": "Education Regular"
-    }
+    ]
 }

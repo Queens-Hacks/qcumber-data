@@ -1,0 +1,24 @@
+{
+    "_unique": "001-LEC (8409)",
+    "basic": {
+        "class_num": "001",
+        "course": "234A",
+        "season": "Fall",
+        "solus_id": "8409",
+        "status": "Closed",
+        "subject": "MEDS",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-18",
+            "term_start": "2015-08-31"
+        }
+    ]
+}

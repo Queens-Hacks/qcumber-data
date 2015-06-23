@@ -1,11 +1,5 @@
 {
     "_unique": "001-PRJ (5203)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 65,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "454",
@@ -18,18 +12,130 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 5,
+            "end_time": "11:30:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "location": "STIRLING RM503",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM504",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM505",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM506",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM507",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM508",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM509",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM503",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM504",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM505",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM506",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM507",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM508",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM509",
+            "start_time": "08:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

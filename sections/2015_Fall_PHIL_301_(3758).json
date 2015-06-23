@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (3758)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 100,
-        "wait_curr": 0,
-        "wait_max": 10
-    },
     "basic": {
         "class_num": "001",
         "course": "301",
@@ -18,18 +12,26 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 2,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Gordon-Solmon, Kerah"
+            ],
+            "location": "BOTTER RM B143",
+            "start_time": "16:00:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "16:00:00",
+            "instructors": [
+                "Gordon-Solmon, Kerah"
+            ],
+            "location": "BOTTER RM B143",
+            "start_time": "14:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

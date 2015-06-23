@@ -1,0 +1,48 @@
+{
+    "_unique": "001-SEM (8388)",
+    "basic": {
+        "class_num": "001",
+        "course": "910",
+        "season": "Fall",
+        "solus_id": "8388",
+        "status": "Open",
+        "subject": "CHEE",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "09:30:00",
+            "instructors": [
+                "Docoslis, Aristides"
+            ],
+            "location": "JEFFERY RM319",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-10-26"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Docoslis, Aristides"
+            ],
+            "location": "JEFFERY RM319",
+            "start_time": "10:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-10-26"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Docoslis, Aristides"
+            ],
+            "location": "JEFFERY RM319",
+            "start_time": "09:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-10-26"
+        }
+    ]
+}

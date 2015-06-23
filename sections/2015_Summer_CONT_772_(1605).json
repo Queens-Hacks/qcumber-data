@@ -1,11 +1,5 @@
 {
     "_unique": "001-ONL (1605)",
-    "availability": {
-        "class_curr": 2,
-        "class_max": 15,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "772",
@@ -26,10 +20,5 @@
             "term_end": "2015-08-14",
             "term_start": "2015-06-29"
         }
-    ],
-    "details": {
-        "campus": "Kingston (Main), ON",
-        "location": "Graded",
-        "session": "Continuing Educ - Summer OL"
-    }
+    ]
 }

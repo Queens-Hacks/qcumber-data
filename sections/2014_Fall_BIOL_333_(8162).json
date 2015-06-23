@@ -1,11 +1,5 @@
 {
     "_unique": "002-TUT (8162)",
-    "availability": {
-        "class_curr": 45,
-        "class_max": 110,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "002",
         "course": "333",
@@ -26,10 +20,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

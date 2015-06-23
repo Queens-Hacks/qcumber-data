@@ -1,11 +1,5 @@
 {
     "_unique": "006-TUT (4863)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 22,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "006",
         "course": "254",
@@ -18,18 +12,15 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 5,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Fischer, Steve"
+            ],
+            "location": "KINES & HLTH RM202",
+            "start_time": "13:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

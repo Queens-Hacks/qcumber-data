@@ -1,11 +1,5 @@
 {
     "_unique": "700-LEC (7606)",
-    "availability": {
-        "class_curr": 192,
-        "class_max": 600,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "700",
         "course": "240",
@@ -28,10 +22,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Kingston (Main), ON",
-        "location": "Graded",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

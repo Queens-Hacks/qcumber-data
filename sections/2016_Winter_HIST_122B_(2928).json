@@ -1,11 +1,5 @@
 {
     "_unique": "004-SEM (2928)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 35,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "004",
         "course": "122B",
@@ -18,18 +12,15 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 5,
+            "end_time": "13:00:00",
+            "instructors": [
+                "Jansen, Dinah Leigh"
+            ],
+            "location": "MACINTOSH-CORRY RM E202",
+            "start_time": "11:30:00",
             "term_end": "2016-04-01",
             "term_start": "2016-01-04"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

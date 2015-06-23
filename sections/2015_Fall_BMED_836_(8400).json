@@ -1,0 +1,44 @@
+{
+    "_unique": "001-SEM (8400)",
+    "basic": {
+        "class_num": "001",
+        "course": "836",
+        "season": "Fall",
+        "solus_id": "8400",
+        "status": "Open",
+        "subject": "BMED",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "BOTTER RM B148",
+            "start_time": "10:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [],
+            "location": "BOTTER RM B148",
+            "start_time": "09:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "09:30:00",
+            "instructors": [
+                "Poole, Raymond Keith"
+            ],
+            "location": "BOTTER RM B148",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ]
+}

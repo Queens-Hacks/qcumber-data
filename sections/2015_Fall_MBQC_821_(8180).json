@@ -1,17 +1,11 @@
 {
     "_unique": "001-LEC (8180)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 176,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "821",
         "season": "Fall",
         "solus_id": "8180",
-        "status": "Open",
+        "status": "Closed",
         "subject": "MBQC",
         "type": "LEC",
         "year": "2015"
@@ -26,10 +20,5 @@
             "term_end": "2015-11-14",
             "term_start": "2015-09-05"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

@@ -1,11 +1,5 @@
 {
     "_unique": "011-TUT (6704)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 5,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "011",
         "course": "102",
@@ -18,18 +12,13 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 2,
+            "end_time": "16:30:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "location": "MILLER RM100A",
+            "start_time": "15:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

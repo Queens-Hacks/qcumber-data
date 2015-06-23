@@ -1,11 +1,5 @@
 {
     "_unique": "028-LAB (1693)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 20,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "028",
         "course": "102",
@@ -18,18 +12,13 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 4,
+            "end_time": "10:00:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "location": "BIOSCI RM2319",
+            "start_time": "08:30:00",
             "term_end": "2015-12-04",
-            "term_start": "2015-09-14"
+            "term_start": "2015-09-21"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

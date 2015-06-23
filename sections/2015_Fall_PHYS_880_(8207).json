@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (8207)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 10,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "880",
@@ -18,18 +12,15 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 1,
+            "end_time": "12:30:00",
+            "instructors": [
+                "Dignam, Marc"
+            ],
+            "location": "STIRLING RM414",
+            "start_time": "11:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

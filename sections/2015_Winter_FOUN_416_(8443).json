@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (8443)",
-    "availability": {
-        "class_curr": 43,
-        "class_max": 50,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "416",
@@ -83,10 +77,5 @@
             "term_end": "2015-01-13",
             "term_start": "2015-01-13"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
-        "session": "Education Regular"
-    }
+    ]
 }

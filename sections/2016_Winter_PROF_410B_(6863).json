@@ -1,11 +1,5 @@
 {
     "_unique": "004-LEC (6863)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 20,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "004",
         "course": "410B",
@@ -35,10 +29,5 @@
             "term_end": "2016-04-29",
             "term_start": "2016-04-11"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
-        "session": "Education Regular"
-    }
+    ]
 }

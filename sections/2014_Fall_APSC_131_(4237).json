@@ -1,11 +1,5 @@
 {
     "_unique": "216-TUT (4237)",
-    "availability": {
-        "class_curr": 53,
-        "class_max": 51,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "216",
         "course": "131",
@@ -26,10 +20,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

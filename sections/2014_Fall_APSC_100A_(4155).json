@@ -1,11 +1,5 @@
 {
     "_unique": "101-LEC (4155)",
-    "availability": {
-        "class_curr": 186,
-        "class_max": 206,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "101",
         "course": "100A",
@@ -48,10 +42,5 @@
             "term_end": "2014-09-17",
             "term_start": "2014-09-15"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

@@ -1,11 +1,5 @@
 {
     "_unique": "901-TUT (5745)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 100,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "901",
         "course": "132",
@@ -18,18 +12,22 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 3,
+            "end_time": "10:30:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2016-06-10",
+            "location": "MACINTOSH-CORRY RM B201",
+            "start_time": "09:30:00",
+            "term_end": "2016-04-01",
             "term_start": "2016-02-22"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [],
+            "location": "MACINTOSH-CORRY RM B201",
+            "start_time": "09:30:00",
+            "term_end": "2016-06-10",
+            "term_start": "2016-05-02"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

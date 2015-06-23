@@ -1,11 +1,5 @@
 {
     "_unique": "001-THE (4992)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 25,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "520B",
@@ -26,10 +20,5 @@
             "term_end": "2016-04-01",
             "term_start": "2016-01-04"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

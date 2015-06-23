@@ -1,11 +1,5 @@
 {
     "_unique": "002-ONL (7004)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 18,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "002",
         "course": "564",
@@ -26,10 +20,5 @@
             "term_end": "2016-04-08",
             "term_start": "2016-01-25"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Continuing Education - Regular"
-    }
+    ]
 }

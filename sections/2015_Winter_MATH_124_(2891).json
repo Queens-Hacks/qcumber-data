@@ -1,0 +1,24 @@
+{
+    "_unique": "004-TUT (2891)",
+    "basic": {
+        "class_num": "004",
+        "course": "124",
+        "season": "Winter",
+        "solus_id": "2891",
+        "status": "Open",
+        "subject": "MATH",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "18:30:00",
+            "instructors": [],
+            "location": "JEFFERY RM225",
+            "start_time": "17:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ]
+}

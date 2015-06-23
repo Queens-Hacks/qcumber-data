@@ -1,11 +1,5 @@
 {
     "_unique": "007-LAB (3432)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 38,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "007",
         "course": "112A",
@@ -26,10 +20,5 @@
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

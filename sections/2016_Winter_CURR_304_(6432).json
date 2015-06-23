@@ -1,11 +1,5 @@
 {
     "_unique": "001-LEC (6432)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 40,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "001",
         "course": "304",
@@ -18,27 +12,48 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 4,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Christie, Catherine E"
+            ],
+            "location": "DUNCAN MCARTHUR RM A333",
+            "start_time": "08:30:00",
             "term_end": "2016-02-12",
             "term_start": "2016-01-04"
         },
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 2,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Christie, Catherine E"
+            ],
+            "location": "DUNCAN MCARTHUR RM A333",
+            "start_time": "08:30:00",
+            "term_end": "2016-02-12",
+            "term_start": "2016-01-04"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Christie, Catherine E"
+            ],
+            "location": "DUNCAN MCARTHUR RM A333",
+            "start_time": "08:30:00",
+            "term_end": "2016-04-29",
+            "term_start": "2016-04-11"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Christie, Catherine E"
+            ],
+            "location": "DUNCAN MCARTHUR RM A333",
+            "start_time": "08:30:00",
             "term_end": "2016-04-29",
             "term_start": "2016-04-11"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
-        "session": "Education Regular"
-    }
+    ]
 }

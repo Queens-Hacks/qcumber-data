@@ -1,11 +1,5 @@
 {
     "_unique": "043-TUT (6102)",
-    "availability": {
-        "class_curr": 15,
-        "class_max": 22,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "043",
         "course": "122A",
@@ -26,10 +20,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

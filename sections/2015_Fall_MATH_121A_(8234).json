@@ -1,0 +1,26 @@
+{
+    "_unique": "019-LDI (8234)",
+    "basic": {
+        "class_num": "019",
+        "course": "121A",
+        "season": "Fall",
+        "solus_id": "8234",
+        "status": "Open",
+        "subject": "MATH",
+        "type": "LDI",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "09:30:00",
+            "instructors": [
+                "Ableson, Alan"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ]
+}

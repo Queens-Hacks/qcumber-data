@@ -1,0 +1,24 @@
+{
+    "_unique": "009-TUT (2645)",
+    "basic": {
+        "class_num": "009",
+        "course": "121A",
+        "season": "Fall",
+        "solus_id": "2645",
+        "status": "Open",
+        "subject": "MATH",
+        "type": "TUT",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "15:30:00",
+            "instructors": [],
+            "location": "JEFFERY RM225",
+            "start_time": "14:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ]
+}

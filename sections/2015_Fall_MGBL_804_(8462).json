@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8462)",
+    "basic": {
+        "class_num": "001",
+        "course": "804",
+        "season": "Fall",
+        "solus_id": "8462",
+        "status": "Open",
+        "subject": "MGBL",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Goerzen, Anthony"
+            ],
+            "location": "GOODES RM308",
+            "start_time": null,
+            "term_end": "2015-10-23",
+            "term_start": "2015-09-10"
+        }
+    ]
+}

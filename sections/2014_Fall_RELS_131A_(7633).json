@@ -1,0 +1,26 @@
+{
+    "_unique": "701-TUT (7633)",
+    "basic": {
+        "class_num": "701",
+        "course": "131A",
+        "season": "Fall",
+        "solus_id": "7633",
+        "status": "Open",
+        "subject": "RELS",
+        "type": "TUT",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "LaGrone, Danielle"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ]
+}

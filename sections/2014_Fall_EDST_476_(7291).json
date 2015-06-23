@@ -1,11 +1,5 @@
 {
     "_unique": "002-LEC (7291)",
-    "availability": {
-        "class_curr": 37,
-        "class_max": 40,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "002",
         "course": "476",
@@ -171,10 +165,5 @@
             "term_end": "2014-12-15",
             "term_start": "2014-12-15"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
-        "session": "Education Regular"
-    }
+    ]
 }

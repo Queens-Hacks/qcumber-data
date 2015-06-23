@@ -1,6 +1,6 @@
 {
     "basic": {
-        "description": "An introduction to matrices and linear algebra. Emphasis on applications to biological and economic systems and to computer applications. Topics covered will include systems of equations, eigenvalues, recursions, orthogonality, regression analysis, and geometric transformations.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.",
+        "description": "An introduction to matrices and linear algebra. Emphasis on applications to biological and economic systems and to computer applications. Topics covered will include systems of equations, eigenvalues, recursions, orthogonality, regression analysis, and geometric transformations.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)\r\nRECOMMENDATION\u00a0\u00a0\u00a0 At least one 4U mathematics course.",
         "number": "111B",
         "subject": "MATH",
         "title": "Linear Algebra"
@@ -15,8 +15,7 @@
         },
         "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required",
-            "Tutorial": "Required"
+            "Lecture": "Required"
         },
         "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 At least one 4U mathematics course.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH110; MATH111; MATH112",
         "grading_basis": "Graded",

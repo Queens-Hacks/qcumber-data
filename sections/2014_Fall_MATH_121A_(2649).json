@@ -1,0 +1,24 @@
+{
+    "_unique": "011-TUT (2649)",
+    "basic": {
+        "class_num": "011",
+        "course": "121A",
+        "season": "Fall",
+        "solus_id": "2649",
+        "status": "Open",
+        "subject": "MATH",
+        "type": "TUT",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "15:30:00",
+            "instructors": [],
+            "location": "STIRLING RM414",
+            "start_time": "14:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ]
+}

@@ -1,11 +1,5 @@
 {
     "_unique": "011-TUT (8682)",
-    "availability": {
-        "class_curr": 12,
-        "class_max": 30,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "011",
         "course": "215",
@@ -26,10 +20,5 @@
             "term_end": "2015-04-02",
             "term_start": "2015-01-05"
         }
-    ],
-    "details": {
-        "campus": "Bader International Study Ctr",
-        "location": "East Sussex, UK",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

@@ -1,0 +1,24 @@
+{
+    "_unique": "001-LEC (2237)",
+    "basic": {
+        "class_num": "001",
+        "course": "278",
+        "season": "Summer",
+        "solus_id": "2237",
+        "status": "Open",
+        "subject": "ENGL",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-06-18",
+            "term_start": "2015-05-11"
+        }
+    ]
+}

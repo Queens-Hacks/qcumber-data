@@ -1,11 +1,5 @@
 {
     "_unique": "003-ONL (7768)",
-    "availability": {
-        "class_curr": 17,
-        "class_max": 18,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "003",
         "course": "563",
@@ -26,10 +20,5 @@
             "term_end": "2014-12-05",
             "term_start": "2014-09-29"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Continuing Education - Regular"
-    }
+    ]
 }

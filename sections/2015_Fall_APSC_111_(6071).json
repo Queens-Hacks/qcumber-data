@@ -1,11 +1,5 @@
 {
     "_unique": "102-LEC (6071)",
-    "availability": {
-        "class_curr": 0,
-        "class_max": 240,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "102",
         "course": "111",
@@ -18,18 +12,37 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 2,
+            "end_time": "13:30:00",
+            "instructors": [
+                "Topper, Anne"
+            ],
+            "location": "STIRLING AUD",
+            "start_time": "12:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "12:30:00",
+            "instructors": [
+                "Topper, Anne"
+            ],
+            "location": "STIRLING AUD",
+            "start_time": "11:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Topper, Anne"
+            ],
+            "location": "STIRLING AUD",
+            "start_time": "13:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-09-14"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

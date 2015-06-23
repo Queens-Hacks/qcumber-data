@@ -1,11 +1,5 @@
 {
     "_unique": "004-TUT (3548)",
-    "availability": {
-        "class_curr": 25,
-        "class_max": 40,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "004",
         "course": "101",
@@ -61,10 +55,5 @@
             "term_end": "2014-12-11",
             "term_start": "2014-12-11"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
-        "session": "Education Regular"
-    }
+    ]
 }

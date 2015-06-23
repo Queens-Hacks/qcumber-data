@@ -1,11 +1,5 @@
 {
     "_unique": "006-LAB (7523)",
-    "availability": {
-        "class_curr": 15,
-        "class_max": 20,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "006",
         "course": "100A",
@@ -26,10 +20,5 @@
             "term_end": "2014-11-28",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }

@@ -1,11 +1,5 @@
 {
     "_unique": "321-LAB (7383)",
-    "availability": {
-        "class_curr": 36,
-        "class_max": 50,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
     "basic": {
         "class_num": "321",
         "course": "151",
@@ -46,10 +40,5 @@
             "term_end": "2014-09-12",
             "term_start": "2014-09-08"
         }
-    ],
-    "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
-        "session": "Regular Academic Session"
-    }
+    ]
 }
