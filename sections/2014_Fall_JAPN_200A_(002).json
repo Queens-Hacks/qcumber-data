@@ -1,0 +1,37 @@
+{
+    "_unique": "002-TUT (5845)",
+    "availability": {
+        "class_curr": 15,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "5845",
+        "course": "200A",
+        "season": "Fall",
+        "solus_id": "002",
+        "status": "Open",
+        "subject": "JAPN",
+        "type": "TUT",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Takeuchi-Aoki, Keiko"
+            ],
+            "location": "KINGSTON RM210",
+            "start_time": "10:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

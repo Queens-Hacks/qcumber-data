@@ -1,0 +1,125 @@
+{
+    "_unique": "002-LAB (3205)",
+    "availability": {
+        "class_curr": 52,
+        "class_max": 60,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "3205",
+        "course": "107",
+        "season": "Fall",
+        "solus_id": "002",
+        "status": "Open",
+        "subject": "GEOL",
+        "type": "LAB",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM105",
+            "start_time": "18:30:00",
+            "term_end": "2014-09-25",
+            "term_start": "2014-09-22"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM105",
+            "start_time": "18:30:00",
+            "term_end": "2014-10-23",
+            "term_start": "2014-10-20"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM105",
+            "start_time": "18:30:00",
+            "term_end": "2014-11-13",
+            "term_start": "2014-11-10"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM102",
+            "start_time": "18:30:00",
+            "term_end": "2014-09-25",
+            "term_start": "2014-09-22"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM102",
+            "start_time": "18:30:00",
+            "term_end": "2014-10-23",
+            "term_start": "2014-10-20"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM102",
+            "start_time": "18:30:00",
+            "term_end": "2014-11-13",
+            "term_start": "2014-11-10"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM106",
+            "start_time": "18:30:00",
+            "term_end": "2014-09-25",
+            "term_start": "2014-09-22"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM106",
+            "start_time": "18:30:00",
+            "term_end": "2014-10-23",
+            "term_start": "2014-10-20"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Narbonne, Guy M"
+            ],
+            "location": "MILLER RM106",
+            "start_time": "18:30:00",
+            "term_end": "2014-11-13",
+            "term_start": "2014-11-10"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "_unique": "005-LEC (1299)",
+    "availability": {
+        "class_curr": 81,
+        "class_max": 80,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "1299",
+        "course": "112",
+        "season": "Winter",
+        "solus_id": "005",
+        "status": "Closed",
+        "subject": "COMM",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Hou, Yu"
+            ],
+            "location": "GOODES RM141",
+            "start_time": "13:00:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "13:00:00",
+            "instructors": [],
+            "location": "GOODES RM141",
+            "start_time": "11:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

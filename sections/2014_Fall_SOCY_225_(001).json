@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (6128)",
+    "availability": {
+        "class_curr": 86,
+        "class_max": 150,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "6128",
+        "course": "225",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "SOCY",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "11:30:00",
+            "instructors": [
+                "DaCosta, Alexandre"
+            ],
+            "location": "STIRLING RM B",
+            "start_time": "10:00:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "10:00:00",
+            "instructors": [
+                "DaCosta, Alexandre"
+            ],
+            "location": "MACDONALD RM1",
+            "start_time": "08:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

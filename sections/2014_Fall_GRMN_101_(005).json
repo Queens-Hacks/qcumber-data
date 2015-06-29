@@ -1,0 +1,37 @@
+{
+    "_unique": "005-LEC (5821)",
+    "availability": {
+        "class_curr": 27,
+        "class_max": 35,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "5821",
+        "course": "101",
+        "season": "Fall",
+        "solus_id": "005",
+        "status": "Open",
+        "subject": "GRMN",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Maliszewska, Margaret"
+            ],
+            "location": "KINGSTON RM304",
+            "start_time": "18:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

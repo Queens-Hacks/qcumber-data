@@ -1,0 +1,35 @@
+{
+    "_unique": "007-ONL (1721)",
+    "availability": {
+        "class_curr": 16,
+        "class_max": 16,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "1721",
+        "course": "504",
+        "season": "Summer",
+        "solus_id": "007",
+        "status": "Closed",
+        "subject": "CONT",
+        "type": "ONL",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-08-14",
+            "term_start": "2015-06-29"
+        }
+    ],
+    "details": {
+        "campus": "Kingston (Main), ON",
+        "location": "Graded",
+        "session": "Continuing Educ - Summer OL"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (8309)",
+    "availability": {
+        "class_curr": 7,
+        "class_max": 15,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "8309",
+        "course": "895",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "MATH",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "13:00:00",
+            "instructors": [
+                "Takahara, Glen"
+            ],
+            "location": "JEFFERY RM116",
+            "start_time": "11:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Takahara, Glen"
+            ],
+            "location": "JEFFERY RM116",
+            "start_time": "13:00:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

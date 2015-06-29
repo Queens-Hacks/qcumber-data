@@ -1,0 +1,37 @@
+{
+    "_unique": "002-LEC (8410)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 30,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "8410",
+        "course": "100A",
+        "season": "Fall",
+        "solus_id": "002",
+        "status": "Open",
+        "subject": "ARAB",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Durkawi, Ayah"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Bader International Study Ctr",
+        "location": "East Sussex, UK",
+        "session": "Regular Academic Session"
+    }
+}

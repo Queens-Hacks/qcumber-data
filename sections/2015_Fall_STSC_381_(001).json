@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (5604)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 30,
+        "wait_curr": 0,
+        "wait_max": 3
+    },
+    "basic": {
+        "class_num": "5604",
+        "course": "381",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "STSC",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Zaiontz, Keren"
+            ],
+            "location": "IBCPA RM118",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Zaiontz, Keren"
+            ],
+            "location": "IBCPA RM336",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

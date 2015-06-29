@@ -1,0 +1,37 @@
+{
+    "_unique": "002-LAB (6937)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 14,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "6937",
+        "course": "331",
+        "season": "Fall",
+        "solus_id": "002",
+        "status": "Open",
+        "subject": "MINE",
+        "type": "LAB",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Kelebek, Sadan"
+            ],
+            "location": "GOODWIN RM120",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

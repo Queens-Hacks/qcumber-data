@@ -1,0 +1,44 @@
+{
+    "_unique": "212-TUT (4759)",
+    "availability": {
+        "class_curr": 58,
+        "class_max": 54,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "4759",
+        "course": "112",
+        "season": "Winter",
+        "solus_id": "212",
+        "status": "Closed",
+        "subject": "APSC",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "STIRLING RM401",
+            "start_time": "10:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-12"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "JEFFERY RM116",
+            "start_time": "10:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-12"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

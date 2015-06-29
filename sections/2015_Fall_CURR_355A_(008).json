@@ -1,0 +1,44 @@
+{
+    "_unique": "008-LEC (5266)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 40,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "5266",
+        "course": "355A",
+        "season": "Fall",
+        "solus_id": "008",
+        "status": "Open",
+        "subject": "CURR",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-10-09",
+            "term_start": "2015-09-02"
+        },
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-18",
+            "term_start": "2015-11-23"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Education Regular"
+    }
+}

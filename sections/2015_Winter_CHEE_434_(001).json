@@ -1,0 +1,59 @@
+{
+    "_unique": "001-LEC (2605)",
+    "availability": {
+        "class_curr": 16,
+        "class_max": 30,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2605",
+        "course": "434",
+        "season": "Winter",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "CHEE",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "13:30:00",
+            "instructors": [
+                "Guay, Martin"
+            ],
+            "location": "DUPUIS RM311",
+            "start_time": "12:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "12:30:00",
+            "instructors": [
+                "Guay, Martin"
+            ],
+            "location": "DUPUIS RM311",
+            "start_time": "11:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Guay, Martin"
+            ],
+            "location": "DUPUIS RM311",
+            "start_time": "13:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

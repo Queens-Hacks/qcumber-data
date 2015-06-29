@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LAB (3291)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 70,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "3291",
+        "course": "178A",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "MUSC",
+        "type": "LAB",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "16:00:00",
+            "instructors": [
+                "Tremblay, Dan"
+            ],
+            "location": "IBCPA RM 105",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "16:00:00",
+            "instructors": [
+                "Tremblay, Dan"
+            ],
+            "location": "IBCPA RM 105",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

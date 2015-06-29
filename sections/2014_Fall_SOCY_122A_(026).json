@@ -1,0 +1,35 @@
+{
+    "_unique": "026-TUT (6020)",
+    "availability": {
+        "class_curr": 22,
+        "class_max": 22,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "6020",
+        "course": "122A",
+        "season": "Fall",
+        "solus_id": "026",
+        "status": "Closed",
+        "subject": "SOCY",
+        "type": "TUT",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "BOTTER RM B148",
+            "start_time": "10:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

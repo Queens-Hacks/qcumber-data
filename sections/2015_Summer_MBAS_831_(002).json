@@ -1,0 +1,37 @@
+{
+    "_unique": "002-LEC (2119)",
+    "availability": {
+        "class_curr": 30,
+        "class_max": 40,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2119",
+        "course": "831",
+        "season": "Summer",
+        "solus_id": "002",
+        "status": "Open",
+        "subject": "MBAS",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Hamilton, Jim"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-06-23",
+            "term_start": "2015-05-25"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

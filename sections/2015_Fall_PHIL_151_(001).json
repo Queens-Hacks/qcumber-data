@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (8499)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 30,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "8499",
+        "course": "151",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "PHIL",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Litwack, Eric"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Bader International Study Ctr",
+        "location": "East Sussex, UK",
+        "session": "Regular Academic Session"
+    }
+}

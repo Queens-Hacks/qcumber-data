@@ -1,0 +1,278 @@
+{
+    "_unique": "099-ONL (2071)",
+    "availability": {
+        "class_curr": 62,
+        "class_max": 65,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2071",
+        "course": "504",
+        "season": "Summer",
+        "solus_id": "099",
+        "status": "Open",
+        "subject": "CONT",
+        "type": "ONL",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 7,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A234",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-29",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 6,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A234",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-29",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A234",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-29",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A234",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-29",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A234",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-29",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A234",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-29",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A234",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-29",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A232",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A232",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A232",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A236",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A236",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A236",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A239",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A239",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A239",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-11",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-11",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-11",
+            "term_start": "2015-05-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-13"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-13"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-13"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A237",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-19",
+            "term_start": "2015-05-11"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A237",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-19",
+            "term_start": "2015-05-11"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A237",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-19",
+            "term_start": "2015-05-11"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A237",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-25"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A237",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-25"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A237",
+            "start_time": "08:00:00",
+            "term_end": "2015-05-27",
+            "term_start": "2015-05-25"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Continuing Educ - Inter OS"
+    }
+}

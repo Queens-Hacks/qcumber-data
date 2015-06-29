@@ -1,0 +1,35 @@
+{
+    "_unique": "015-TUT (4951)",
+    "availability": {
+        "class_curr": 20,
+        "class_max": 25,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "4951",
+        "course": "110A",
+        "season": "Fall",
+        "solus_id": "015",
+        "status": "Open",
+        "subject": "POLS",
+        "type": "TUT",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "17:30:00",
+            "instructors": [],
+            "location": "BOTTER RM B148",
+            "start_time": "16:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "_unique": "003-TUT (8261)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 25,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "8261",
+        "course": "385",
+        "season": "Fall",
+        "solus_id": "003",
+        "status": "Open",
+        "subject": "POLS",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "11:30:00",
+            "instructors": [],
+            "location": "JEFFERY RM157",
+            "start_time": "10:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

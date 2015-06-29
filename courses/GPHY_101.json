@@ -1,6 +1,6 @@
 {
     "basic": {
-        "description": "The fundamentals of human geography including the meanings of place, the impacts of globalization, multiculturalism, population change and movement, environmental history and politics, cultural geography, issues of uneven resource distribution, the role of colonialism in the modern shape of the world, agricultural geography, and urban geography.\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $30.",
+        "description": "The fundamentals of human geography including the meanings of place, the impacts of globalization, multiculturalism, population change and movement, environmental history and politics, cultural geography, issues of uneven resource distribution, the role of colonialism in the modern shape of the world, agricultural geography, and urban geography.\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $30.\nLEARNING HOURS\u00a0\u00a0 114 (18S;48O;48P)",
         "number": "101",
         "subject": "GPHY",
         "title": "Human Geography"
@@ -15,8 +15,7 @@
         },
         "career": "Undergraduate",
         "course_components": {
-            "Lecture": "Required",
-            "Tutorial": "Required"
+            "Lecture": "Required"
         },
         "grading_basis": "Graded",
         "units": "3.00"

@@ -1,0 +1,37 @@
+{
+    "_unique": "002-CLN (5915)",
+    "availability": {
+        "class_curr": 31,
+        "class_max": 56,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "5915",
+        "course": "206",
+        "season": "Fall",
+        "solus_id": "002",
+        "status": "Open",
+        "subject": "NURS",
+        "type": "CLN",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "15:00:00",
+            "instructors": [
+                "Suurdt, Jeanette"
+            ],
+            "location": "TBA",
+            "start_time": "07:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

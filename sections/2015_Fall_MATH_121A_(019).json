@@ -1,0 +1,37 @@
+{
+    "_unique": "019-LDI (8234)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 212,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "8234",
+        "course": "121A",
+        "season": "Fall",
+        "solus_id": "019",
+        "status": "Open",
+        "subject": "MATH",
+        "type": "LDI",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "09:30:00",
+            "instructors": [
+                "Ableson, Alan"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

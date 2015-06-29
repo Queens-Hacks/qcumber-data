@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (5456)",
+    "availability": {
+        "class_curr": 91,
+        "class_max": 112,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "5456",
+        "course": "333",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "HLTH",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Adams, Mary Louise"
+            ],
+            "location": "MILLER RM201",
+            "start_time": "08:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

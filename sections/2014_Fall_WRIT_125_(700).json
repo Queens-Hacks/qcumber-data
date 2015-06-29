@@ -1,0 +1,37 @@
+{
+    "_unique": "700-ONL (7641)",
+    "availability": {
+        "class_curr": 184,
+        "class_max": 200,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "7641",
+        "course": "125",
+        "season": "Fall",
+        "solus_id": "700",
+        "status": "Open",
+        "subject": "WRIT",
+        "type": "ONL",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Prinsen, Jean"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Kingston (Main), ON",
+        "location": "Graded",
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LAB (2119)",
+    "availability": {
+        "class_curr": 56,
+        "class_max": 120,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2119",
+        "course": "460B",
+        "season": "Winter",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "MUSC",
+        "type": "LAB",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "20:30:00",
+            "instructors": [
+                "Simkins, Darrell"
+            ],
+            "location": "IBCPA RM 105",
+            "start_time": "19:00:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "20:30:00",
+            "instructors": [
+                "Sirett, Mark"
+            ],
+            "location": "IBCPA RM 105",
+            "start_time": "19:00:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

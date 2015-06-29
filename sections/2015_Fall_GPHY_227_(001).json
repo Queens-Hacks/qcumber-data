@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (2828)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 206,
+        "wait_curr": 0,
+        "wait_max": 20
+    },
+    "basic": {
+        "class_num": "2828",
+        "course": "227",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "GPHY",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 4,
+            "end_time": "09:30:00",
+            "instructors": [
+                "Donald, Betsy J"
+            ],
+            "location": "ELLIS AUD",
+            "start_time": "08:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "006-SEM (3006)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 35,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "3006",
+        "course": "121A",
+        "season": "Fall",
+        "solus_id": "006",
+        "status": "Open",
+        "subject": "HIST",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Kelly, Connor"
+            ],
+            "location": "ELLIS RM218",
+            "start_time": "16:00:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

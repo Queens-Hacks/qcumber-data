@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LAB (3313)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 120,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "3313",
+        "course": "260A",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "MUSC",
+        "type": "LAB",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 4,
+            "end_time": "22:00:00",
+            "instructors": [
+                "Simkins, Darrell"
+            ],
+            "location": "IBCPA RM 105",
+            "start_time": "19:00:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

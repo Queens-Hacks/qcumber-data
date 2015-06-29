@@ -1,0 +1,37 @@
+{
+    "_unique": "002-LEC (2115)",
+    "availability": {
+        "class_curr": 30,
+        "class_max": 40,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2115",
+        "course": "801",
+        "season": "Summer",
+        "solus_id": "002",
+        "status": "Open",
+        "subject": "MBAS",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "De Bettignies, Jean-Etienne"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-07-23",
+            "term_start": "2015-07-06"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

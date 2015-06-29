@@ -1,0 +1,37 @@
+{
+    "_unique": "003-TUT (5367)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 50,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "5367",
+        "course": "205",
+        "season": "Fall",
+        "solus_id": "003",
+        "status": "Open",
+        "subject": "PSYC",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 4,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Olmstead, Mary Cella"
+            ],
+            "location": "ELLIS RM333",
+            "start_time": "13:00:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "_unique": "001-LEC (7166)",
+    "availability": {
+        "class_curr": 7,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "7166",
+        "course": "898",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "EDUC",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

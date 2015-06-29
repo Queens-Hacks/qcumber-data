@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LSM (7176)",
+    "availability": {
+        "class_curr": 34,
+        "class_max": 50,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "7176",
+        "course": "326",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "RELS",
+        "type": "LSM",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Karabela, Mehmet"
+            ],
+            "location": "MACDONALD RM2",
+            "start_time": "08:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

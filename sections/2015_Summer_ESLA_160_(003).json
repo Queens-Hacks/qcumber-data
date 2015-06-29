@@ -1,0 +1,44 @@
+{
+    "_unique": "003-LEC (2355)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2355",
+        "course": "160",
+        "season": "Summer",
+        "solus_id": "003",
+        "status": "Open",
+        "subject": "ESLA",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "12:00:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM B242",
+            "start_time": "08:00:00",
+            "term_end": "2015-08-28",
+            "term_start": "2015-07-02"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A343",
+            "start_time": "13:00:00",
+            "term_end": "2015-08-28",
+            "term_start": "2015-07-02"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_unique": "001-IND (2563)",
+    "availability": {
+        "class_curr": 9,
+        "class_max": 50,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2563",
+        "course": "406B",
+        "season": "Winter",
+        "solus_id": "001",
+        "status": "Open",
+        "subject": "CHEE",
+        "type": "IND",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Poirier, David J"
+            ],
+            "location": "MACINTOSH-CORRY RM E229",
+            "start_time": "09:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Poirier, David J"
+            ],
+            "location": "STIRLING RM412A",
+            "start_time": "12:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

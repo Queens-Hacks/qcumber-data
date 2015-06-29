@@ -1,0 +1,37 @@
+{
+    "_unique": "002-TUT (4805)",
+    "availability": {
+        "class_curr": 91,
+        "class_max": 109,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "4805",
+        "course": "344",
+        "season": "Fall",
+        "solus_id": "002",
+        "status": "Open",
+        "subject": "PHYS",
+        "type": "TUT",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "16:30:00",
+            "instructors": [
+                "Gooding, Robert James"
+            ],
+            "location": "STIRLING RM C",
+            "start_time": "15:30:00",
+            "term_end": "2014-11-28",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

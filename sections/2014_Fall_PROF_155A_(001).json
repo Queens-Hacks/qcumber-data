@@ -1,0 +1,103 @@
+{
+    "_unique": "001-LEC (3536)",
+    "availability": {
+        "class_curr": 322,
+        "class_max": 315,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "3536",
+        "course": "155A",
+        "season": "Fall",
+        "solus_id": "001",
+        "status": "Closed",
+        "subject": "PROF",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "11:50:00",
+            "instructors": [
+                "Roblin, Nancy E"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "10:50:00",
+            "term_end": "2014-10-01",
+            "term_start": "2014-09-03"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:50:00",
+            "instructors": [
+                "Roblin, Nancy E"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "10:50:00",
+            "term_end": "2014-10-01",
+            "term_start": "2014-09-03"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:50:00",
+            "instructors": [
+                "Klinger, Don Albert"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "10:50:00",
+            "term_end": "2014-12-05",
+            "term_start": "2014-11-24"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:50:00",
+            "instructors": [
+                "Klinger, Don Albert"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "10:50:00",
+            "term_end": "2014-12-05",
+            "term_start": "2014-11-24"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "11:50:00",
+            "instructors": [
+                "Klinger, Don Albert"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "10:50:00",
+            "term_end": "2014-12-12",
+            "term_start": "2014-12-12"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "11:50:00",
+            "instructors": [
+                "Roblin, Nancy E"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "10:50:00",
+            "term_end": "2014-10-08",
+            "term_start": "2014-10-08"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "12:50:00",
+            "instructors": [
+                "Klinger, Don Albert"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "10:50:00",
+            "term_end": "2014-12-17",
+            "term_start": "2014-12-17"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Education Regular"
+    }
+}

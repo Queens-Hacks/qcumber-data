@@ -1,0 +1,35 @@
+{
+    "_unique": "700-ONL (2066)",
+    "availability": {
+        "class_curr": 136,
+        "class_max": 125,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2066",
+        "course": "120",
+        "season": "Summer",
+        "solus_id": "700",
+        "status": "Closed",
+        "subject": "WRIT",
+        "type": "ONL",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-08-12",
+            "term_start": "2015-07-02"
+        }
+    ],
+    "details": {
+        "campus": "Kingston (Main), ON",
+        "location": "Graded",
+        "session": "July-Aug 6 Week"
+    }
+}

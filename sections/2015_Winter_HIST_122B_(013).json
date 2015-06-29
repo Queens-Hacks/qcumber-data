@@ -1,0 +1,37 @@
+{
+    "_unique": "013-SEM (7602)",
+    "availability": {
+        "class_curr": 22,
+        "class_max": 28,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "7602",
+        "course": "122B",
+        "season": "Winter",
+        "solus_id": "013",
+        "status": "Open",
+        "subject": "HIST",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Quirk, Andrew James"
+            ],
+            "location": "JOHN WATSON RM401",
+            "start_time": "09:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

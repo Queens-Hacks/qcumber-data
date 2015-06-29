@@ -1,0 +1,92 @@
+{
+    "_unique": "008-LEC (2331)",
+    "availability": {
+        "class_curr": 19,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "2331",
+        "course": "191A",
+        "season": "Fall",
+        "solus_id": "008",
+        "status": "Open",
+        "subject": "PROF",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Deluca, Christopher"
+            ],
+            "location": "DUNCAN MCARTHUR\u00a0 RM A313N",
+            "start_time": "09:00:00",
+            "term_end": "2014-09-26",
+            "term_start": "2014-09-12"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Deluca, Christopher"
+            ],
+            "location": "DUNCAN MCARTHUR\u00a0 RM A313N",
+            "start_time": "09:00:00",
+            "term_end": "2014-10-10",
+            "term_start": "2014-10-10"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Deluca, Christopher"
+            ],
+            "location": "DUNCAN MCARTHUR\u00a0 RM A313N",
+            "start_time": "09:00:00",
+            "term_end": "2014-12-12",
+            "term_start": "2014-11-28"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Deluca, Christopher"
+            ],
+            "location": "DUNCAN MCARTHUR RM A313S",
+            "start_time": "09:00:00",
+            "term_end": "2014-09-26",
+            "term_start": "2014-09-12"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Deluca, Christopher"
+            ],
+            "location": "DUNCAN MCARTHUR RM A313S",
+            "start_time": "09:00:00",
+            "term_end": "2014-10-10",
+            "term_start": "2014-10-10"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Deluca, Christopher"
+            ],
+            "location": "DUNCAN MCARTHUR RM A313S",
+            "start_time": "09:00:00",
+            "term_end": "2014-12-12",
+            "term_start": "2014-11-28"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Education Regular"
+    }
+}
