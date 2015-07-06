@@ -1,0 +1,35 @@
+{
+    "_unique": "007-TUT (2703)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "007",
+        "course": "212",
+        "season": "Fall",
+        "solus_id": "2703",
+        "status": "Open",
+        "subject": "GNDS",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 4,
+            "end_time": "12:30:00",
+            "instructors": [],
+            "location": "MCLAUGHLIN RM302",
+            "start_time": "11:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

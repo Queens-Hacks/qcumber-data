@@ -1,0 +1,37 @@
+{
+    "_unique": "002-SEM (1456)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 40,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "002",
+        "course": "450",
+        "season": "Winter",
+        "solus_id": "1456",
+        "status": "Open",
+        "subject": "MICR",
+        "type": "SEM",
+        "year": "2016"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Carstens, Eric B"
+            ],
+            "location": "CHERNOFF RM117",
+            "start_time": "08:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-01-04"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

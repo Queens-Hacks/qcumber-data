@@ -1,0 +1,114 @@
+{
+    "_unique": "009-LEC (7423)",
+    "availability": {
+        "class_curr": 45,
+        "class_max": 40,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "009",
+        "course": "387A",
+        "season": "Fall",
+        "solus_id": "7423",
+        "status": "Closed",
+        "subject": "CURR",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Ogden, Holly Christine"
+            ],
+            "location": "DUNCAN MCARTHUR RM A239",
+            "start_time": "08:30:00",
+            "term_end": "2014-10-10",
+            "term_start": "2014-09-03"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Ogden, Holly Christine"
+            ],
+            "location": "DUNCAN MCARTHUR RM A239",
+            "start_time": "08:30:00",
+            "term_end": "2014-12-03",
+            "term_start": "2014-11-24"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Ogden, Holly Christine"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "08:30:00",
+            "term_end": "2014-10-10",
+            "term_start": "2014-09-10"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Ogden, Holly Christine"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "08:30:00",
+            "term_end": "2014-12-03",
+            "term_start": "2014-11-24"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Ogden, Holly Christine"
+            ],
+            "location": "DUNCAN MCARTHUR RM A335",
+            "start_time": "08:30:00",
+            "term_end": "2014-09-24",
+            "term_start": "2014-09-24"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Ogden, Holly Christine"
+            ],
+            "location": "DUNCAN MCARTHUR RM A234",
+            "start_time": "08:30:00",
+            "term_end": "2014-11-26",
+            "term_start": "2014-11-26"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Ogden, Holly Christine"
+            ],
+            "location": "DUNCAN MCARTHUR RM A239",
+            "start_time": "08:30:00",
+            "term_end": "2014-12-17",
+            "term_start": "2014-12-17"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Ogden, Holly Christine"
+            ],
+            "location": "DUNCAN MCARTHUR RM B101",
+            "start_time": "08:30:00",
+            "term_end": "2014-12-17",
+            "term_start": "2014-12-17"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Education Regular"
+    }
+}

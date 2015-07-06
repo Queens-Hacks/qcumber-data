@@ -1,0 +1,37 @@
+{
+    "_unique": "003-TUT (2754)",
+    "availability": {
+        "class_curr": 55,
+        "class_max": 74,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "003",
+        "course": "311",
+        "season": "Fall",
+        "solus_id": "2754",
+        "status": "Open",
+        "subject": "CHEE",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "13:30:00",
+            "instructors": [
+                "Meunier, Louise"
+            ],
+            "location": "KINES & HLTH RM101",
+            "start_time": "12:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (2350)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 450,
+        "wait_curr": 0,
+        "wait_max": 45
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "111",
+        "season": "Fall",
+        "solus_id": "2350",
+        "status": "Open",
+        "subject": "ECON",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "21:30:00",
+            "instructors": [
+                "Berkok, Ugurhan"
+            ],
+            "location": "BIOSCI AUD",
+            "start_time": "18:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

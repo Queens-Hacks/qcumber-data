@@ -1,0 +1,59 @@
+{
+    "_unique": "001-LEC (5979)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 45,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "408",
+        "season": "Fall",
+        "solus_id": "5979",
+        "status": "Open",
+        "subject": "ELEC",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Morin, Evelyn Louise"
+            ],
+            "location": "WALTER LIGHT RM212",
+            "start_time": "13:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "13:30:00",
+            "instructors": [
+                "Morin, Evelyn Louise"
+            ],
+            "location": "WALTER LIGHT RM212",
+            "start_time": "12:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "12:30:00",
+            "instructors": [
+                "Morin, Evelyn Louise"
+            ],
+            "location": "WALTER LIGHT RM212",
+            "start_time": "11:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

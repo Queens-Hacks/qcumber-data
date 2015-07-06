@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (6046)",
+    "availability": {
+        "class_curr": 17,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "345",
+        "season": "Winter",
+        "solus_id": "6046",
+        "status": "Open",
+        "subject": "GPHY",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Chen, Dongmei"
+            ],
+            "location": "MACINTOSH-CORRY RM E223",
+            "start_time": "09:30:00",
+            "term_end": "2015-03-03",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

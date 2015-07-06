@@ -1,0 +1,35 @@
+{
+    "_unique": "001-SEM (8650)",
+    "availability": {
+        "class_curr": 9,
+        "class_max": 10,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "884",
+        "season": "Winter",
+        "solus_id": "8650",
+        "status": "Open",
+        "subject": "CHEE",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "16:30:00",
+            "instructors": [],
+            "location": "TBA",
+            "start_time": "13:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-02-25"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

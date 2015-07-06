@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (4661)",
+    "availability": {
+        "class_curr": 119,
+        "class_max": 425,
+        "wait_curr": 0,
+        "wait_max": 42
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "251",
+        "season": "Fall",
+        "solus_id": "4661",
+        "status": "Open",
+        "subject": "PSYC",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Kelley, Elizabeth Anne"
+            ],
+            "location": "BIOSCI AUD",
+            "start_time": "16:00:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "16:00:00",
+            "instructors": [
+                "Kelley, Elizabeth Anne"
+            ],
+            "location": "BIOSCI AUD",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

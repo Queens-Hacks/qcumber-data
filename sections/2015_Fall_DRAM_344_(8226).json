@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (8226)",
+    "availability": {
+        "class_curr": 2,
+        "class_max": 18,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "344",
+        "season": "Fall",
+        "solus_id": "8226",
+        "status": "Open",
+        "subject": "DRAM",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Rewa, Natalie"
+            ],
+            "location": "MACINTOSH-CORRY RM A416",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

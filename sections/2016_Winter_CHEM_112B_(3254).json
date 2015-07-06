@@ -1,0 +1,35 @@
+{
+    "_unique": "008-LAB (3254)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 38,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "008",
+        "course": "112B",
+        "season": "Winter",
+        "solus_id": "3254",
+        "status": "Open",
+        "subject": "CHEM",
+        "type": "LAB",
+        "year": "2016"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "17:30:00",
+            "instructors": [],
+            "location": "CHERNOFF RM213",
+            "start_time": "14:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-01-04"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

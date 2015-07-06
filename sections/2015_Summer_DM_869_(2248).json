@@ -1,0 +1,35 @@
+{
+    "_unique": "001-SEM (2248)",
+    "availability": {
+        "class_curr": 2,
+        "class_max": 10,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "869",
+        "season": "Summer",
+        "solus_id": "2248",
+        "status": "Open",
+        "subject": "DM",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-05-24",
+            "term_start": "2015-05-22"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "May-June 6 Week"
+    }
+}

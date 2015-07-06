@@ -1,0 +1,37 @@
+{
+    "_unique": "002-SEM (2998)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 35,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "002",
+        "course": "121A",
+        "season": "Fall",
+        "solus_id": "2998",
+        "status": "Open",
+        "subject": "HIST",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "13:00:00",
+            "instructors": [
+                "Bailey, Richard G"
+            ],
+            "location": "JEFFERY RM102",
+            "start_time": "11:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

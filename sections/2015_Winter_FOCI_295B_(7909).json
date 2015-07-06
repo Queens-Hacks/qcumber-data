@@ -1,0 +1,48 @@
+{
+    "_unique": "002-LEC (7909)",
+    "availability": {
+        "class_curr": 39,
+        "class_max": 40,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "002",
+        "course": "295B",
+        "season": "Winter",
+        "solus_id": "7909",
+        "status": "Open",
+        "subject": "FOCI",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "17:50:00",
+            "instructors": [
+                "Hutchinson, Nancy Lynn"
+            ],
+            "location": "DUNCAN MCARTHUR RM A232",
+            "start_time": "15:50:00",
+            "term_end": "2015-02-13",
+            "term_start": "2015-01-05"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "17:50:00",
+            "instructors": [
+                "Hutchinson, Nancy Lynn"
+            ],
+            "location": "DUNCAN MCARTHUR RM A232",
+            "start_time": "15:50:00",
+            "term_end": "2015-04-30",
+            "term_start": "2015-04-13"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Education Regular"
+    }
+}

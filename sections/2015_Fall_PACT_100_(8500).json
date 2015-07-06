@@ -1,0 +1,48 @@
+{
+    "_unique": "002-SEM (8500)",
+    "availability": {
+        "class_curr": 57,
+        "class_max": 55,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "002",
+        "course": "100",
+        "season": "Fall",
+        "solus_id": "8500",
+        "status": "Closed",
+        "subject": "PACT",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Torcolacci, Melody"
+            ],
+            "location": "KINES & HLTH RM101",
+            "start_time": "09:30:00",
+            "term_end": "2015-10-09",
+            "term_start": "2015-09-14"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "10:30:00",
+            "instructors": [
+                "Torcolacci, Melody"
+            ],
+            "location": "KINES & HLTH RM101",
+            "start_time": "08:30:00",
+            "term_end": "2015-10-09",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

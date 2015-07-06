@@ -1,0 +1,59 @@
+{
+    "_unique": "001-LEC (6407)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 70,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "482",
+        "season": "Winter",
+        "solus_id": "6407",
+        "status": "Open",
+        "subject": "MECH",
+        "type": "LEC",
+        "year": "2016"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Mechefske, Christopher K"
+            ],
+            "location": "MCLAUGHLIN RM315",
+            "start_time": "16:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-01-04"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "16:30:00",
+            "instructors": [
+                "Mechefske, Christopher K"
+            ],
+            "location": "MCLAUGHLIN RM315",
+            "start_time": "15:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-01-04"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "13:30:00",
+            "instructors": [
+                "Mechefske, Christopher K"
+            ],
+            "location": "JEFFERY RM234",
+            "start_time": "12:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-01-04"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

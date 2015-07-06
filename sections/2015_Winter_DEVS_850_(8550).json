@@ -1,0 +1,70 @@
+{
+    "_unique": "001-SEM (8550)",
+    "availability": {
+        "class_curr": 10,
+        "class_max": 16,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "850",
+        "season": "Winter",
+        "solus_id": "8550",
+        "status": "Open",
+        "subject": "DEVS",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Taylor, Marcus"
+            ],
+            "location": "MACINTOSH-CORRY RM C420",
+            "start_time": "12:30:00",
+            "term_end": "2015-01-12",
+            "term_start": "2015-01-12"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Taylor, Marcus"
+            ],
+            "location": "MACINTOSH-CORRY RM C420",
+            "start_time": "12:30:00",
+            "term_end": "2015-02-09",
+            "term_start": "2015-02-09"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Taylor, Marcus"
+            ],
+            "location": "MACINTOSH-CORRY RM C420",
+            "start_time": "12:30:00",
+            "term_end": "2015-03-09",
+            "term_start": "2015-03-09"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Taylor, Marcus"
+            ],
+            "location": "MACINTOSH-CORRY RM C420",
+            "start_time": "12:30:00",
+            "term_end": "2015-04-13",
+            "term_start": "2015-04-13"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

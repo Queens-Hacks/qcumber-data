@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (6711)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 55,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "407",
+        "season": "Winter",
+        "solus_id": "6711",
+        "status": "Open",
+        "subject": "COMM",
+        "type": "LEC",
+        "year": "2016"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "17:30:00",
+            "instructors": [
+                "Swift, Jamie"
+            ],
+            "location": "GOODES RM 103",
+            "start_time": "16:00:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-01-04"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "16:00:00",
+            "instructors": [
+                "Swift, Jamie"
+            ],
+            "location": "GOODES RM 103",
+            "start_time": "14:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-01-04"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

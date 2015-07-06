@@ -1,0 +1,37 @@
+{
+    "_unique": "002-TUT (7077)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 50,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "002",
+        "course": "465",
+        "season": "Fall",
+        "solus_id": "7077",
+        "status": "Open",
+        "subject": "MECH",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 2,
+            "end_time": "18:30:00",
+            "instructors": [
+                "Kim, Il Yong"
+            ],
+            "location": "BEAMISH-MUNRO RM213",
+            "start_time": "17:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

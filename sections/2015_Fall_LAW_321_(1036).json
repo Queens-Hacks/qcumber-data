@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (1036)",
+    "availability": {
+        "class_curr": 34,
+        "class_max": 48,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "321",
+        "season": "Fall",
+        "solus_id": "1036",
+        "status": "Open",
+        "subject": "LAW",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 3,
+            "end_time": "13:30:00",
+            "instructors": [
+                "McCormack, Nancy C"
+            ],
+            "location": "MACDONALD RM202",
+            "start_time": "11:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Law Regular"
+    }
+}

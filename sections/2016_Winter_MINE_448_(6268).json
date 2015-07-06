@@ -1,0 +1,35 @@
+{
+    "_unique": "004-LAB (6268)",
+    "availability": {
+        "class_curr": 41,
+        "class_max": 66,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "004",
+        "course": "448",
+        "season": "Winter",
+        "solus_id": "6268",
+        "status": "Open",
+        "subject": "MINE",
+        "type": "LAB",
+        "year": "2016"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2016-04-01",
+            "term_start": "2016-01-04"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

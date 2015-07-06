@@ -1,0 +1,48 @@
+{
+    "_unique": "001-SEM (8270)",
+    "availability": {
+        "class_curr": 37,
+        "class_max": 45,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "893",
+        "season": "Fall",
+        "solus_id": "8270",
+        "status": "Open",
+        "subject": "MIR",
+        "type": "SEM",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 4,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Pohl, Vincent"
+            ],
+            "location": "MACDONALD RM4",
+            "start_time": "10:00:00",
+            "term_end": "2014-10-10",
+            "term_start": "2014-09-08"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "11:30:00",
+            "instructors": [
+                "Pohl, Vincent"
+            ],
+            "location": "MACDONALD RM4",
+            "start_time": "10:00:00",
+            "term_end": "2014-10-10",
+            "term_start": "2014-09-08"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

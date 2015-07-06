@@ -1,0 +1,37 @@
+{
+    "_unique": "002-TUT (2925)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 136,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "002",
+        "course": "227",
+        "season": "Fall",
+        "solus_id": "2925",
+        "status": "Open",
+        "subject": "GPHY",
+        "type": "TUT",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "16:00:00",
+            "instructors": [
+                "Donald, Betsy J"
+            ],
+            "location": "ELLIS RM321",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

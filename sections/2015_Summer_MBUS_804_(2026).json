@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (2026)",
+    "availability": {
+        "class_curr": 114,
+        "class_max": 118,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "804",
+        "season": "Summer",
+        "solus_id": "2026",
+        "status": "Open",
+        "subject": "MBUS",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Richardson, Peter R"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-08-10",
+            "term_start": "2015-05-22"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

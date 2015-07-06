@@ -1,0 +1,114 @@
+{
+    "_unique": "001-LEC (8264)",
+    "availability": {
+        "class_curr": 37,
+        "class_max": 50,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "897A",
+        "season": "Fall",
+        "solus_id": "8264",
+        "status": "Open",
+        "subject": "MIR",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 6,
+            "end_time": "00:00:00",
+            "instructors": [
+                "Fisk, Glenda"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2014-09-06",
+            "term_start": "2014-09-05"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "00:00:00",
+            "instructors": [
+                "Fisk, Glenda"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2014-09-06",
+            "term_start": "2014-09-05"
+        },
+        {
+            "day_of_week": 6,
+            "end_time": "00:00:00",
+            "instructors": [
+                "Fisk, Glenda"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2014-09-27",
+            "term_start": "2014-09-26"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "00:00:00",
+            "instructors": [
+                "Fisk, Glenda"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2014-09-27",
+            "term_start": "2014-09-26"
+        },
+        {
+            "day_of_week": 6,
+            "end_time": "00:00:00",
+            "instructors": [
+                "Fisk, Glenda"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2014-10-25",
+            "term_start": "2014-10-24"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "00:00:00",
+            "instructors": [
+                "Fisk, Glenda"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2014-10-25",
+            "term_start": "2014-10-24"
+        },
+        {
+            "day_of_week": 6,
+            "end_time": "00:00:00",
+            "instructors": [
+                "Fisk, Glenda"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2014-11-22",
+            "term_start": "2014-11-21"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "00:00:00",
+            "instructors": [
+                "Fisk, Glenda"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2014-11-22",
+            "term_start": "2014-11-21"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

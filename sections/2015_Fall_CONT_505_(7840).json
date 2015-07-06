@@ -1,0 +1,35 @@
+{
+    "_unique": "003-ONL (7840)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 15,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "003",
+        "course": "505",
+        "season": "Fall",
+        "solus_id": "7840",
+        "status": "Open",
+        "subject": "CONT",
+        "type": "ONL",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-28"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Continuing Education - Regular"
+    }
+}

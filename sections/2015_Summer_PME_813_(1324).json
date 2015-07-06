@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (1324)",
+    "availability": {
+        "class_curr": 3,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "813",
+        "season": "Summer",
+        "solus_id": "1324",
+        "status": "Open",
+        "subject": "PME",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "Cooper, Amanda"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-08-19",
+            "term_start": "2015-07-02"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "M.Ed. Summer"
+    }
+}

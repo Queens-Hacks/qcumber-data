@@ -1,0 +1,46 @@
+{
+    "_unique": "200-PRA (5277)",
+    "availability": {
+        "class_curr": 56,
+        "class_max": 100,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "200",
+        "course": "311A",
+        "season": "Fall",
+        "solus_id": "5277",
+        "status": "Open",
+        "subject": "PRAC",
+        "type": "PRA",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [
+                "White, Anne F"
+            ],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-10-09",
+            "term_start": "2015-09-02"
+        },
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2015-12-18",
+            "term_start": "2015-11-23"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Peterborough, ON",
+        "session": "Education Regular"
+    }
+}

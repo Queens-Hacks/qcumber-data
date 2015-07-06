@@ -1,0 +1,35 @@
+{
+    "_unique": "001-SEM (8984)",
+    "availability": {
+        "class_curr": 19,
+        "class_max": 30,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "894",
+        "season": "Winter",
+        "solus_id": "8984",
+        "status": "Open",
+        "subject": "BMED",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 4,
+            "end_time": "17:30:00",
+            "instructors": [],
+            "location": "TBA",
+            "start_time": "14:30:00",
+            "term_end": "2015-04-02",
+            "term_start": "2015-01-05"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}

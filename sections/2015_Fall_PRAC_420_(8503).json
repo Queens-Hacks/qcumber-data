@@ -1,0 +1,81 @@
+{
+    "_unique": "500-PRA (8503)",
+    "availability": {
+        "class_curr": 294,
+        "class_max": 250,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "500",
+        "course": "420",
+        "season": "Fall",
+        "solus_id": "8503",
+        "status": "Closed",
+        "subject": "PRAC",
+        "type": "PRA",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "00:00:00",
+            "instructors": [
+                "O'Neil, Tammy"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2015-10-30",
+            "term_start": "2015-10-13"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "00:00:00",
+            "instructors": [
+                "O'Neil, Tammy"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2015-10-30",
+            "term_start": "2015-10-13"
+        },
+        {
+            "day_of_week": 3,
+            "end_time": "00:00:00",
+            "instructors": [
+                "O'Neil, Tammy"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2015-10-30",
+            "term_start": "2015-10-13"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "00:00:00",
+            "instructors": [
+                "O'Neil, Tammy"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2015-10-30",
+            "term_start": "2015-10-13"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "00:00:00",
+            "instructors": [
+                "O'Neil, Tammy"
+            ],
+            "location": "TBA",
+            "start_time": "00:00:00",
+            "term_end": "2015-10-30",
+            "term_start": "2015-10-13"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Education Regular"
+    }
+}

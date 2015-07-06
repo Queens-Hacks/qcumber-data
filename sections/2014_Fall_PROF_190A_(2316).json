@@ -1,0 +1,70 @@
+{
+    "_unique": "009-LEC (2316)",
+    "availability": {
+        "class_curr": 17,
+        "class_max": 25,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "009",
+        "course": "190A",
+        "season": "Fall",
+        "solus_id": "2316",
+        "status": "Open",
+        "subject": "PROF",
+        "type": "LEC",
+        "year": "2014"
+    },
+    "classes": [
+        {
+            "day_of_week": 5,
+            "end_time": "15:00:00",
+            "instructors": [
+                "Christou, Aglaia Glenda"
+            ],
+            "location": "DUNCAN MCARTHUR RM A207N",
+            "start_time": "13:30:00",
+            "term_end": "2014-10-10",
+            "term_start": "2014-09-03"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "15:00:00",
+            "instructors": [
+                "Christou, Aglaia Glenda"
+            ],
+            "location": "DUNCAN MCARTHUR RM A207N",
+            "start_time": "13:30:00",
+            "term_end": "2014-12-12",
+            "term_start": "2014-11-24"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "15:00:00",
+            "instructors": [
+                "Christou, Aglaia Glenda"
+            ],
+            "location": "DUNCAN MCARTHUR RM A207S",
+            "start_time": "13:30:00",
+            "term_end": "2014-10-10",
+            "term_start": "2014-09-03"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "15:00:00",
+            "instructors": [
+                "Christou, Aglaia Glenda"
+            ],
+            "location": "DUNCAN MCARTHUR RM A207S",
+            "start_time": "13:30:00",
+            "term_end": "2014-12-12",
+            "term_start": "2014-11-24"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Education Regular"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (3737)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 32,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "340A",
+        "season": "Fall",
+        "solus_id": "3737",
+        "status": "Open",
+        "subject": "MUSC",
+        "type": "SEM",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "16:00:00",
+            "instructors": [
+                "Freeman, Peter"
+            ],
+            "location": "HARRISON-LECAINE RM124",
+            "start_time": "14:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (Main), ON",
+        "session": "Regular Academic Session"
+    }
+}
