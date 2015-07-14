@@ -18,13 +18,24 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 4,
+            "end_time": "15:30:00",
             "instructors": [
                 "Chin, jane"
             ],
             "location": "DUNCAN MCARTHUR RM A241",
-            "start_time": null,
+            "start_time": "13:30:00",
+            "term_end": "2016-02-12",
+            "term_start": "2016-01-04"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "15:30:00",
+            "instructors": [
+                "Chin, jane"
+            ],
+            "location": "DUNCAN MCARTHUR RM A241",
+            "start_time": "13:30:00",
             "term_end": "2016-02-12",
             "term_start": "2016-01-04"
         },

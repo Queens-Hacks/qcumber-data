@@ -1,8 +1,8 @@
 {
     "_unique": "002-TUT (6383)",
     "availability": {
-        "class_curr": 0,
-        "class_max": 90,
+        "class_curr": 27,
+        "class_max": 130,
         "wait_curr": 0,
         "wait_max": 0
     },
@@ -23,7 +23,7 @@
             "instructors": [
                 "Jeswiet, Jacob"
             ],
-            "location": "BOTTER RM B147",
+            "location": "STIRLING RM B",
             "start_time": "16:30:00",
             "term_end": "2016-04-01",
             "term_start": "2016-01-04"

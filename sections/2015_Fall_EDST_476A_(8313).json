@@ -18,18 +18,53 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-12-18",
+            "day_of_week": 4,
+            "end_time": "15:30:00",
+            "instructors": [
+                "Martin, Andrea K"
+            ],
+            "location": "DUNCAN MCARTHUR RM A227E",
+            "start_time": "13:30:00",
+            "term_end": "2015-10-09",
             "term_start": "2015-09-02"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "15:30:00",
+            "instructors": [
+                "Martin, Andrea K"
+            ],
+            "location": "DUNCAN MCARTHUR RM A227W",
+            "start_time": "13:30:00",
+            "term_end": "2015-10-09",
+            "term_start": "2015-09-02"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "15:30:00",
+            "instructors": [
+                "Martin, Andrea K"
+            ],
+            "location": "DUNCAN MCARTHUR RM A227E",
+            "start_time": "13:30:00",
+            "term_end": "2015-12-18",
+            "term_start": "2015-11-23"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "15:30:00",
+            "instructors": [
+                "Martin, Andrea K"
+            ],
+            "location": "DUNCAN MCARTHUR RM A227W",
+            "start_time": "13:30:00",
+            "term_end": "2015-12-18",
+            "term_start": "2015-11-23"
         }
     ],
     "details": {
         "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "location": "Kingston (West), ON",
         "session": "Education Regular"
     }
 }

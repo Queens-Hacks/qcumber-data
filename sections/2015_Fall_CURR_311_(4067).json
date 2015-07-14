@@ -2,7 +2,7 @@
     "_unique": "001-LEC (4067)",
     "availability": {
         "class_curr": 16,
-        "class_max": 0,
+        "class_max": 40,
         "wait_curr": 0,
         "wait_max": 0
     },
@@ -11,7 +11,7 @@
         "course": "311",
         "season": "Fall",
         "solus_id": "4067",
-        "status": "Closed",
+        "status": "Open",
         "subject": "CURR",
         "type": "LEC",
         "year": "2015"

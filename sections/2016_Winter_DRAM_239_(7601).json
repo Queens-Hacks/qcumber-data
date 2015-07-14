@@ -1,10 +1,10 @@
 {
-    "_unique": "001-PRA (7601)",
+    "_unique": "001-SEM (7601)",
     "availability": {
-        "class_curr": 0,
-        "class_max": 18,
+        "class_curr": 2,
+        "class_max": 50,
         "wait_curr": 0,
-        "wait_max": 0
+        "wait_max": 2
     },
     "basic": {
         "class_num": "001",
@@ -13,7 +13,7 @@
         "solus_id": "7601",
         "status": "Open",
         "subject": "DRAM",
-        "type": "PRA",
+        "type": "SEM",
         "year": "2016"
     },
     "classes": [

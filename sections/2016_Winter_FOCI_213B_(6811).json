@@ -20,7 +20,9 @@
         {
             "day_of_week": 3,
             "end_time": "17:50:00",
-            "instructors": [],
+            "instructors": [
+                "Holtermann, Ena"
+            ],
             "location": "DUNCAN MCARTHUR RM B180",
             "start_time": "15:50:00",
             "term_end": "2016-02-12",
@@ -29,7 +31,9 @@
         {
             "day_of_week": 3,
             "end_time": "17:50:00",
-            "instructors": [],
+            "instructors": [
+                "Holtermann, Ena"
+            ],
             "location": "DUNCAN MCARTHUR RM B180",
             "start_time": "15:50:00",
             "term_end": "2016-04-29",

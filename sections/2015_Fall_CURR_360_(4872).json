@@ -18,20 +18,46 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 2,
+            "end_time": "21:00:00",
+            "instructors": [
+                "Holtermann, Ena"
+            ],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "19:00:00",
             "term_end": "2015-10-09",
             "term_start": "2015-09-02"
         },
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
+            "day_of_week": 4,
+            "end_time": "17:50:00",
+            "instructors": [
+                "Holtermann, Ena"
+            ],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "15:50:00",
+            "term_end": "2015-12-18",
+            "term_start": "2015-11-23"
+        },
+        {
+            "day_of_week": 4,
+            "end_time": "17:50:00",
+            "instructors": [
+                "Holtermann, Ena"
+            ],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "15:50:00",
+            "term_end": "2015-10-09",
+            "term_start": "2015-09-02"
+        },
+        {
+            "day_of_week": 2,
+            "end_time": "21:00:00",
+            "instructors": [
+                "Holtermann, Ena"
+            ],
+            "location": "DUNCAN MCARTHUR RM B180",
+            "start_time": "19:00:00",
             "term_end": "2015-12-18",
             "term_start": "2015-11-23"
         }

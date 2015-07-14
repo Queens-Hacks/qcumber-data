@@ -13,10 +13,12 @@
             "Eng Sci": 0,
             "Math": 0
         },
+        "add_consent": "Department Consent Required",
         "career": "Undergraduate",
         "course_components": {
             "Individual Study": "Required"
         },
+        "drop_consent": "Department Consent Required",
         "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Level 4 in a CLST,CLAS,GREK, or LATN Plan.",
         "grading_basis": "Graded",
         "units": "3.00"

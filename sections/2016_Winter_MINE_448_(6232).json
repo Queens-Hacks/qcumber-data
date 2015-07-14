@@ -1,7 +1,7 @@
 {
     "_unique": "003-TUT (6232)",
     "availability": {
-        "class_curr": 41,
+        "class_curr": 45,
         "class_max": 66,
         "wait_curr": 0,
         "wait_max": 0
@@ -20,7 +20,9 @@
         {
             "day_of_week": null,
             "end_time": null,
-            "instructors": [],
+            "instructors": [
+                "McKinnon, Stephen D"
+            ],
             "location": "TBA",
             "start_time": null,
             "term_end": "2016-04-01",

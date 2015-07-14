@@ -18,13 +18,40 @@
     },
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": 1,
+            "end_time": "17:50:00",
             "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-12-18",
+            "location": "DUNCAN MCARTHUR RM A317N",
+            "start_time": "15:50:00",
+            "term_end": "2015-10-09",
             "term_start": "2015-09-02"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "17:50:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR ROOM A317S",
+            "start_time": "15:50:00",
+            "term_end": "2015-10-09",
+            "term_start": "2015-09-02"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "17:50:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR RM A317N",
+            "start_time": "15:50:00",
+            "term_end": "2015-12-18",
+            "term_start": "2015-11-23"
+        },
+        {
+            "day_of_week": 1,
+            "end_time": "17:50:00",
+            "instructors": [],
+            "location": "DUNCAN MCARTHUR ROOM A317S",
+            "start_time": "15:50:00",
+            "term_end": "2015-12-18",
+            "term_start": "2015-11-23"
         }
     ],
     "details": {

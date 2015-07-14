@@ -1,5 +1,5 @@
 {
-    "_unique": "002-LEC (8333)",
+    "_unique": "001-LEC (8333)",
     "availability": {
         "class_curr": 0,
         "class_max": 35,
@@ -7,7 +7,7 @@
         "wait_max": 0
     },
     "basic": {
-        "class_num": "002",
+        "class_num": "001",
         "course": "255A",
         "season": "Fall",
         "solus_id": "8333",
@@ -23,7 +23,7 @@
             "instructors": [
                 "Chin, jane"
             ],
-            "location": "DUNCAN MCARTHUR RM A242",
+            "location": "DUNCAN MCARTHUR RM A234",
             "start_time": "10:50:00",
             "term_end": "2015-10-09",
             "term_start": "2015-09-02"
@@ -34,7 +34,7 @@
             "instructors": [
                 "Chin, jane"
             ],
-            "location": "DUNCAN MCARTHUR RM A242",
+            "location": "DUNCAN MCARTHUR RM A234",
             "start_time": "10:50:00",
             "term_end": "2015-12-18",
             "term_start": "2015-11-23"

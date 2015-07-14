@@ -1,7 +1,7 @@
 {
     "_unique": "001-LAB (6963)",
     "availability": {
-        "class_curr": 0,
+        "class_curr": 1,
         "class_max": 15,
         "wait_curr": 0,
         "wait_max": 3
@@ -21,26 +21,15 @@
             "day_of_week": 3,
             "end_time": "14:30:00",
             "instructors": [
-                "Rettig, Ted"
+                "Dhaliwal, Sarindar"
             ],
-            "location": "ONTARIO RM114",
+            "location": "ONTARIO RM405",
             "start_time": "11:30:00",
-            "term_end": "2016-04-01",
-            "term_start": "2016-02-22"
+            "term_end": "2016-02-12",
+            "term_start": "2016-01-04"
         },
         {
-            "day_of_week": 1,
-            "end_time": "14:30:00",
-            "instructors": [
-                "Rettig, Ted"
-            ],
-            "location": "ONTARIO RM114",
-            "start_time": "11:30:00",
-            "term_end": "2016-04-01",
-            "term_start": "2016-02-22"
-        },
-        {
-            "day_of_week": 3,
+            "day_of_week": 2,
             "end_time": "14:30:00",
             "instructors": [
                 "Dhaliwal, Sarindar"
@@ -51,7 +40,7 @@
             "term_start": "2016-01-04"
         },
         {
-            "day_of_week": 2,
+            "day_of_week": 1,
             "end_time": "14:30:00",
             "instructors": [
                 "Dhaliwal, Sarindar"
@@ -69,11 +58,33 @@
             ],
             "location": "ONTARIO RM405",
             "start_time": "14:30:00",
-            "term_end": "2016-02-12",
+            "term_end": "2016-04-01",
             "term_start": "2016-01-04"
         },
         {
+            "day_of_week": 3,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Rettig, Ted"
+            ],
+            "location": "ONTARIO RM114",
+            "start_time": "11:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-02-22"
+        },
+        {
             "day_of_week": 2,
+            "end_time": "14:30:00",
+            "instructors": [
+                "Rettig, Ted"
+            ],
+            "location": "ONTARIO RM114",
+            "start_time": "11:30:00",
+            "term_end": "2016-04-01",
+            "term_start": "2016-02-22"
+        },
+        {
+            "day_of_week": 1,
             "end_time": "14:30:00",
             "instructors": [
                 "Rettig, Ted"

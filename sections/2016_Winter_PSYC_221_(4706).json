@@ -1,7 +1,7 @@
 {
     "_unique": "001-LEC (4706)",
     "availability": {
-        "class_curr": 1,
+        "class_curr": 13,
         "class_max": 247,
         "wait_curr": 0,
         "wait_max": 24
@@ -20,9 +20,7 @@
         {
             "day_of_week": 2,
             "end_time": "10:00:00",
-            "instructors": [
-                "Mewhort, Douglas"
-            ],
+            "instructors": [],
             "location": "ELLIS AUD",
             "start_time": "08:30:00",
             "term_end": "2016-04-01",
@@ -31,9 +29,7 @@
         {
             "day_of_week": 5,
             "end_time": "11:30:00",
-            "instructors": [
-                "Mewhort, Douglas"
-            ],
+            "instructors": [],
             "location": "ELLIS AUD",
             "start_time": "10:00:00",
             "term_end": "2016-04-01",
