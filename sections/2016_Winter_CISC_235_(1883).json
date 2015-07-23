@@ -1,7 +1,7 @@
 {
     "_unique": "002-LAB (1883)",
     "availability": {
-        "class_curr": 0,
+        "class_curr": 10,
         "class_max": 45,
         "wait_curr": 0,
         "wait_max": 4
@@ -18,7 +18,7 @@
     },
     "classes": [
         {
-            "day_of_week": 2,
+            "day_of_week": 3,
             "end_time": "16:30:00",
             "instructors": [],
             "location": "GOODWIN RM248",

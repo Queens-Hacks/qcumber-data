@@ -1,7 +1,7 @@
 {
     "_unique": "004-PRA (2816)",
     "availability": {
-        "class_curr": 0,
+        "class_curr": 9,
         "class_max": 30,
         "wait_curr": 0,
         "wait_max": 3
@@ -19,10 +19,10 @@
     "classes": [
         {
             "day_of_week": 3,
-            "end_time": "14:30:00",
+            "end_time": "16:00:00",
             "instructors": [],
             "location": "MACINTOSH-CORRY RM E202",
-            "start_time": "13:00:00",
+            "start_time": "14:30:00",
             "term_end": "2016-04-01",
             "term_start": "2016-01-04"
         }

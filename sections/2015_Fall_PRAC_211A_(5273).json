@@ -20,20 +20,13 @@
         {
             "day_of_week": null,
             "end_time": null,
-            "instructors": [],
+            "instructors": [
+                "White, Anne F"
+            ],
             "location": "TBA",
             "start_time": null,
-            "term_end": "2015-10-09",
-            "term_start": "2015-09-02"
-        },
-        {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-12-18",
-            "term_start": "2015-11-23"
+            "term_end": "2015-12-09",
+            "term_start": "2015-09-10"
         }
     ],
     "details": {

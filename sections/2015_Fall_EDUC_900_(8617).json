@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (8617)",
+    "availability": {
+        "class_curr": 3,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "900",
+        "season": "Fall",
+        "solus_id": "8617",
+        "status": "Open",
+        "subject": "EDUC",
+        "type": "LEC",
+        "year": "2015"
+    },
+    "classes": [
+        {
+            "day_of_week": 1,
+            "end_time": "15:00:00",
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ],
+            "location": "DUNCAN MCARTHUR RM B144",
+            "start_time": "12:00:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-09-14"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "Regular Academic Session"
+    }
+}

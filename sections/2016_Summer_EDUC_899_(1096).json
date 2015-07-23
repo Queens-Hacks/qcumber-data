@@ -2,7 +2,7 @@
     "_unique": "002-LEC (1096)",
     "availability": {
         "class_curr": 0,
-        "class_max": 0,
+        "class_max": 20,
         "wait_curr": 0,
         "wait_max": 0
     },
@@ -11,7 +11,7 @@
         "course": "899",
         "season": "Summer",
         "solus_id": "1096",
-        "status": "Closed",
+        "status": "Open",
         "subject": "EDUC",
         "type": "LEC",
         "year": "2016"

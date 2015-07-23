@@ -1,8 +1,8 @@
 {
     "_unique": "008-TUT (1857)",
     "availability": {
-        "class_curr": 6,
-        "class_max": 20,
+        "class_curr": 23,
+        "class_max": 23,
         "wait_curr": 0,
         "wait_max": 2
     },
@@ -11,7 +11,7 @@
         "course": "321",
         "season": "Fall",
         "solus_id": "1857",
-        "status": "Open",
+        "status": "Closed",
         "subject": "BIOL",
         "type": "TUT",
         "year": "2015"

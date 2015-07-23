@@ -1,7 +1,7 @@
 {
     "_unique": "204-STD (6251)",
     "availability": {
-        "class_curr": 51,
+        "class_curr": 55,
         "class_max": 55,
         "wait_curr": 0,
         "wait_max": 0
@@ -11,7 +11,7 @@
         "course": "200",
         "season": "Fall",
         "solus_id": "6251",
-        "status": "Open",
+        "status": "Closed",
         "subject": "APSC",
         "type": "STD",
         "year": "2015"
@@ -124,6 +124,15 @@
             "start_time": "11:30:00",
             "term_end": "2015-12-04",
             "term_start": "2015-10-26"
+        },
+        {
+            "day_of_week": 5,
+            "end_time": "13:00:00",
+            "instructors": [],
+            "location": "STIRLING RM414",
+            "start_time": "11:30:00",
+            "term_end": "2015-12-04",
+            "term_start": "2015-10-30"
         }
     ],
     "details": {

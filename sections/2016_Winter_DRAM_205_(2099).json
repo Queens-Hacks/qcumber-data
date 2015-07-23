@@ -1,7 +1,7 @@
 {
     "_unique": "001-BLN (2099)",
     "availability": {
-        "class_curr": 7,
+        "class_curr": 67,
         "class_max": 150,
         "wait_curr": 0,
         "wait_max": 15
@@ -30,8 +30,8 @@
         }
     ],
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Kingston (Main), ON",
+        "location": "Graded",
         "session": "Regular Academic Session"
     }
 }

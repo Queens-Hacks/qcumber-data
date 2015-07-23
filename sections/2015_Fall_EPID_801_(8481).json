@@ -1,7 +1,7 @@
 {
     "_unique": "001-LEC (8481)",
     "availability": {
-        "class_curr": 0,
+        "class_curr": 40,
         "class_max": 60,
         "wait_curr": 0,
         "wait_max": 0
@@ -17,17 +17,6 @@
         "year": "2015"
     },
     "classes": [
-        {
-            "day_of_week": 3,
-            "end_time": "18:00:00",
-            "instructors": [
-                "Aronson, Kristan J"
-            ],
-            "location": "ELLIS RM333",
-            "start_time": "16:00:00",
-            "term_end": "2015-12-15",
-            "term_start": "2015-09-14"
-        },
         {
             "day_of_week": 2,
             "end_time": "15:00:00",

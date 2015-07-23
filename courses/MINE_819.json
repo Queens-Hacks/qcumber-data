@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course introduces numerical modelling methods used in mining geomechanics. The basic theory and use of finite difference, finite element, boundary element continuum and discrete particle discontinuum codes will be reviewed with the objective of providing an understanding of the mathematical basis for each method, and their major differences. The emphasis will be on building and interpreting models",
+        "number": "819",
+        "subject": "MINE",
+        "title": "Numerical modelling in mining geomechanics"
+    },
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0,
+            "Comp St": 0,
+            "Eng Des": 0,
+            "Eng Sci": 0,
+            "Math": 0
+        },
+        "career": "Graduate",
+        "course_components": {
+            "Lecture": "Required"
+        },
+        "grading_basis": "Graded",
+        "units": "3.00"
+    }
+}

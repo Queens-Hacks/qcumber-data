@@ -1,0 +1,35 @@
+{
+    "_unique": "001-SEM (1226)",
+    "availability": {
+        "class_curr": 0,
+        "class_max": 20,
+        "wait_curr": 0,
+        "wait_max": 0
+    },
+    "basic": {
+        "class_num": "001",
+        "course": "813",
+        "season": "Summer",
+        "solus_id": "1226",
+        "status": "Open",
+        "subject": "GDPI",
+        "type": "SEM",
+        "year": "2016"
+    },
+    "classes": [
+        {
+            "day_of_week": null,
+            "end_time": null,
+            "instructors": [],
+            "location": "TBA",
+            "start_time": null,
+            "term_end": "2016-08-19",
+            "term_start": "2016-07-04"
+        }
+    ],
+    "details": {
+        "campus": "Main",
+        "location": "Kingston (West), ON",
+        "session": "M.Ed. Summer"
+    }
+}

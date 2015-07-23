@@ -1,7 +1,7 @@
 {
     "_unique": "001-SEM (8278)",
     "availability": {
-        "class_curr": 6,
+        "class_curr": 14,
         "class_max": 46,
         "wait_curr": 0,
         "wait_max": 0
@@ -20,7 +20,9 @@
         {
             "day_of_week": 2,
             "end_time": "14:30:00",
-            "instructors": [],
+            "instructors": [
+                "Mosurinjohn, Sharday Catherine"
+            ],
             "location": "MACINTOSH-CORRY RM E229",
             "start_time": "11:30:00",
             "term_end": "2015-12-04",

@@ -2,7 +2,7 @@
     "_unique": "201-LEC (8344)",
     "availability": {
         "class_curr": 62,
-        "class_max": 100,
+        "class_max": 90,
         "wait_curr": 0,
         "wait_max": 0
     },
@@ -20,7 +20,9 @@
         {
             "day_of_week": 3,
             "end_time": "20:50:00",
-            "instructors": [],
+            "instructors": [
+                "White, Anne F"
+            ],
             "location": "TBA",
             "start_time": "19:00:00",
             "term_end": "2015-12-09",

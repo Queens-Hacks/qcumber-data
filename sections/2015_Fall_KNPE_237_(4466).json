@@ -1,7 +1,7 @@
 {
     "_unique": "001-LEC (4466)",
     "availability": {
-        "class_curr": 50,
+        "class_curr": 67,
         "class_max": 90,
         "wait_curr": 0,
         "wait_max": 9
@@ -20,7 +20,9 @@
         {
             "day_of_week": 2,
             "end_time": "16:00:00",
-            "instructors": [],
+            "instructors": [
+                "Martin, Luc J"
+            ],
             "location": "KINES & HLTH RM101",
             "start_time": "14:30:00",
             "term_end": "2015-12-04",
@@ -29,7 +31,9 @@
         {
             "day_of_week": 5,
             "end_time": "17:30:00",
-            "instructors": [],
+            "instructors": [
+                "Martin, Luc J"
+            ],
             "location": "KINES & HLTH RM101",
             "start_time": "16:00:00",
             "term_end": "2015-12-04",
