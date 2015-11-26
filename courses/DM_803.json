@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course will deal with the major components of Intelligent Machining:1. Predictive modeling of machining processes- - Prediction of process variables such as forces, torque's, power and tool wear- Simulation of machining dynamics for chatter prediction2. Sensors- Review of sensing techniques- Signal processing methodologies for monitoring cutting processes- Examples, including tool breakage, tool wear and chatter monitoring3. Process Controls- Various approaches for process control in machining applications- interface with position control- state-of-the-art open architecture control(Lead Instructor: Mohammed Elbestawi, McMaster)",
-        "number": "803",
-        "subject": "DM",
+        "description": "This course will deal with the major components of Intelligent Machining:1. Predictive modeling of machining processes- - Prediction of process variables such as forces, torque's, power and tool wear- Simulation of machining dynamics for chatter prediction2. Sensors- Review of sensing techniques- Signal processing methodologies for monitoring cutting processes- Examples, including tool breakage, tool wear and chatter monitoring3. Process Controls- Various approaches for process control in machining applications- interface with position control- state-of-the-art open architecture control(Lead Instructor: Mohammed Elbestawi, McMaster)", 
+        "number": "803", 
+        "subject": "DM", 
         "title": "Advanced Machining Systems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

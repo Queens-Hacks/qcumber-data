@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is a foundation course in health and social planning,\u00a0 Within the context of community planning, topics are drawn from international scholarly research, planning theory, and practice-based interventions in public health, human service delivery, program management, policy studies, housing, and community development.\u00a0 PREREQUISITE: Permission of Instructor.",
-        "number": "870",
-        "subject": "SURP",
+        "description": "This course is a foundation course in health and social planning,\u00a0 Within the context of community planning, topics are drawn from international scholarly research, planning theory, and practice-based interventions in public health, human service delivery, program management, policy studies, housing, and community development.\u00a0 PREREQUISITE: Permission of Instructor.", 
+        "number": "870", 
+        "subject": "SURP", 
         "title": "Health and Social Planning"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

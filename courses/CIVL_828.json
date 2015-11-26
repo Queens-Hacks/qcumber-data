@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is intended to provide structural engineers with an in-depth understanding of the performance of reinforced, prestressed and composite concrete-steel structures under service conditions, including both the short and long term performances.\u00a0 The course deals with the effects of creep and shrinkage of concrete, relaxation of prestressing steel, temperature, and settlement of supports on deflections, cracking and internal forces.\u00a0 The displacement and force methods of analysis are used to account for these affects in calculating the deformations and time dependent forces and moments.\u00a0 The course also covers the effects of construction and loading in different stages.\u00a0 The course deals only with service conditions and doesn\u00bft deal with concrete structures at the ultimate stage or at failure.\u00a0 Lecture based, 3 hrs/week.",
-        "number": "828",
-        "subject": "CIVL",
+        "description": "This course is intended to provide structural engineers with an in-depth understanding of the performance of reinforced, prestressed and composite concrete-steel structures under service conditions, including both the short and long term performances.\u00a0 The course deals with the effects of creep and shrinkage of concrete, relaxation of prestressing steel, temperature, and settlement of supports on deflections, cracking and internal forces.\u00a0 The displacement and force methods of analysis are used to account for these affects in calculating the deformations and time dependent forces and moments.\u00a0 The course also covers the effects of construction and loading in different stages.\u00a0 The course deals only with service conditions and doesn\u00bft deal with concrete structures at the ultimate stage or at failure.\u00a0 Lecture based, 3 hrs/week.", 
+        "number": "828", 
+        "subject": "CIVL", 
         "title": "Seviceability Of Concr Struct"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

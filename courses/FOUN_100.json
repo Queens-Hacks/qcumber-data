@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course introduces teacher candidates to the psychological foundations of education.\u00a0 It involves readings, lectures, group activities and presentations. Topics covered will include theories that relate to classroom teaching and an exploration of mental health issues as well as the role of educators in supporting student's mental health.",
-        "number": "100",
-        "subject": "FOUN",
+        "description": "This course introduces teacher candidates to the psychological foundations of education.\u00a0 It involves readings, lectures, group activities and presentations. Topics covered will include theories that relate to classroom teaching and an exploration of mental health issues as well as the role of educators in supporting student's mental health.", 
+        "number": "100", 
+        "subject": "FOUN", 
         "title": "Psychological Foundations of Education"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "1.00"
     }
 }

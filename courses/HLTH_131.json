@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "",
-        "number": "131",
-        "subject": "HLTH",
+        "description": "", 
+        "number": "131", 
+        "subject": "HLTH", 
         "title": "Basic Human Nutrition"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITE\u00a0 2nd yr standing\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from HLTH 131/3.0; HLTH 230/3.0; NURS 100/3.0.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Biology",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0 2nd yr standing\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from HLTH 131/3.0; HLTH 230/3.0; NURS 100/3.0.\r\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Biology", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

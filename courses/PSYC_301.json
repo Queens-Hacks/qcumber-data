@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Statistical inference (continuation of PSYC 202/PSYC 203) and laboratory projects. The course covers critical thinking about research and statistics and three types of statistical analyses: tests of categorization, comparisons of means, and association.\nNOTE\u00a0\u00a0\u00a0 Enrollment is limited. Restricted to students in a PSYC Major Plan.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;12G;12O;24P)",
-        "number": "301",
-        "subject": "PSYC",
+        "description": "Statistical inference (continuation of PSYC 202/PSYC 203) and laboratory projects. The course covers critical thinking about research and statistics and three types of statistical analyses: tests of categorization, comparisons of means, and association.\nNOTE\u00a0\u00a0\u00a0 Enrollment is limited. Restricted to students in a PSYC Major Plan.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;12G;12O;24P)", 
+        "number": "301", 
+        "subject": "PSYC", 
         "title": "Advanced Statistical Inference"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 [a GPA of 1.90 in (PSYC202 or a STAT_option) and PSYC203] and (a GPA of 2.60 in PSYC at the 100- and 200-level) and (registration in a PSYC Major Plan).\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from PSYC300; PSYC301; PSYC302",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 [a GPA of 1.90 in (PSYC202 or a STAT_option) and PSYC203] and (a GPA of 2.60 in PSYC at the 100- and 200-level) and (registration in a PSYC Major Plan).\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from PSYC300; PSYC301; PSYC302", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

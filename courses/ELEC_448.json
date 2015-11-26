@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Robotics is an interdisciplinary subject concerning areas of mechanics, electronics, information theory, control systems\u00a0and automation. This course provides an introduction to robotics and covers fundamental aspects of modeling and control of robot manipulators. Topics include history and application of robotics\u00a0in industry, rigid body kinematics, manipulator\u00a0forward, inverse and differential\u00a0kinematics, workspace, singularity, redundancy,\u00a0manipulator dynamics, trajectory generation, actuators, sensors, and manipulator position and contact force control strategies. Applications studied using MATLAB/Simulink software simulation and laboratory experiments.",
-        "number": "448",
-        "subject": "ELEC",
+        "description": "Robotics is an interdisciplinary subject concerning areas of mechanics, electronics, information theory, control systems\u00a0and automation. This course provides an introduction to robotics and covers fundamental aspects of modeling and control of robot manipulators. Topics include history and application of robotics\u00a0in industry, rigid body kinematics, manipulator\u00a0forward, inverse and differential\u00a0kinematics, workspace, singularity, redundancy,\u00a0manipulator dynamics, trajectory generation, actuators, sensors, and manipulator position and contact force control strategies. Applications studied using MATLAB/Simulink software simulation and laboratory experiments.", 
+        "number": "448", 
+        "subject": "ELEC", 
         "title": "Introduction To Robotics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 26,
-            "Eng Sci": 16,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 26, 
+            "Eng Sci": 16, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "COREQUISITE:\u00a0 ELEC 443 or MTHE 332 (MATH 332) or MECH 350. Must be registration in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "COREQUISITE:\u00a0 ELEC 443 or MTHE 332 (MATH 332) or MECH 350. Must be registration in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

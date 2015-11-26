@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to the properties of insulators, semiconductors and metals. Topics include: crystal structure, X-ray and neutron scattering, the reciprocal lattice, phonons, electronic energy bands, and the thermal, magnetic, optical and transport properties of solids.",
-        "number": "480",
-        "subject": "ENPH",
+        "description": "An introduction to the properties of insulators, semiconductors and metals. Topics include: crystal structure, X-ray and neutron scattering, the reciprocal lattice, phonons, electronic energy bands, and the thermal, magnetic, optical and transport properties of solids.", 
+        "number": "480", 
+        "subject": "ENPH", 
         "title": "Solid State Physics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 31,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 11,
+            "Basic Sci": 31, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 11, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITE: ENPH 239 (PHYS 239, ENPH 345 (PHYS 345)\r\nEXCLUSIONS:\u00a0\u00a0 ENPH380 (PHYS380), ENPH481(PHY481).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITE: ENPH 239 (PHYS 239, ENPH 345 (PHYS 345)\r\nEXCLUSIONS:\u00a0\u00a0 ENPH380 (PHYS380), ENPH481(PHY481).", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

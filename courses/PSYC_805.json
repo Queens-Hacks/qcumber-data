@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "These courses constitute an introduction to the practical aspects of clinical assessment. In PSYC-805* students are given skills training and practice in the use of tests of adult intelligence, memory and vocational counseling. In PSYC-806* the emphasis is on tests of children's intelligence, learning and affect. Fall and winter (2 hrs)",
-        "number": "805",
-        "subject": "PSYC",
+        "description": "These courses constitute an introduction to the practical aspects of clinical assessment. In PSYC-805* students are given skills training and practice in the use of tests of adult intelligence, memory and vocational counseling. In PSYC-806* the emphasis is on tests of children's intelligence, learning and affect. Fall and winter (2 hrs)", 
+        "number": "805", 
+        "subject": "PSYC", 
         "title": "Introductory Assessment"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

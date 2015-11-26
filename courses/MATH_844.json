@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Calculus on manifolds; transversality; Sard's Theorem; immersions and submersions; intersection theory; Jordan curve theorem; Lefschetz fixed point theorem; Poincar\u00e9-Hopf Theorem. (Offered jointly with MATH-444*.)\u00a0 Three term-hours, winter; lectures.",
-        "number": "844",
-        "subject": "MATH",
+        "description": "Calculus on manifolds; transversality; Sard's Theorem; immersions and submersions; intersection theory; Jordan curve theorem; Lefschetz fixed point theorem; Poincar\u00e9-Hopf Theorem. (Offered jointly with MATH-444*.)\u00a0 Three term-hours, winter; lectures.", 
+        "number": "844", 
+        "subject": "MATH", 
         "title": "Differentiable Manifolds"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Explores the theories and philosophies that have shaped the field of curriculum since the late 19th Century. Focuses on understanding the complex contexts of education, schooling, learning and teaching. Deepens awareness of the connections between the theories of curriculum and its manifestation through various teaching and learning practices. Winter; A. Hill.",
-        "number": "802",
-        "subject": "EDUC",
+        "description": "Explores the theories and philosophies that have shaped the field of curriculum since the late 19th Century. Focuses on understanding the complex contexts of education, schooling, learning and teaching. Deepens awareness of the connections between the theories of curriculum and its manifestation through various teaching and learning practices. Winter; A. Hill.", 
+        "number": "802", 
+        "subject": "EDUC", 
         "title": "Curriculum Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,37 +1,37 @@
 {
-    "_unique": "001-LEC (8525)",
+    "_unique": "001-LEC (8525)", 
     "availability": {
-        "class_curr": 83,
-        "class_max": 90,
-        "wait_curr": 0,
+        "class_curr": 81, 
+        "class_max": 90, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "811",
-        "season": "Fall",
-        "solus_id": "8525",
-        "status": "Open",
-        "subject": "MBUS",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "811", 
+        "season": "Fall", 
+        "solus_id": "8525", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Moore, John C"
-            ],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-11-07",
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-11-07", 
             "term_start": "2015-09-11"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

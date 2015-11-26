@@ -1,48 +1,48 @@
 {
-    "_unique": "321-LAB (6401)",
+    "_unique": "321-LAB (6401)", 
     "availability": {
-        "class_curr": 81,
-        "class_max": 82,
-        "wait_curr": 0,
+        "class_curr": 80, 
+        "class_max": 82, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "321",
-        "course": "161",
-        "season": "Fall",
-        "solus_id": "6401",
-        "status": "Open",
-        "subject": "APSC",
-        "type": "LAB",
+        "class_num": "321", 
+        "course": "161", 
+        "season": "Fall", 
+        "solus_id": "6401", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "14:30:00",
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Zak, Gennady"
-            ],
-            "location": "BEAMISH-MUNRO RM212",
-            "start_time": "11:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "14:30:00",
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Zak, Gennady"
-            ],
-            "location": "BEAMISH-MUNRO RM214",
-            "start_time": "11:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

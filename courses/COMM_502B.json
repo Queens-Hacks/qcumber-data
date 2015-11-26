@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Students selecting this course may elect to do a project on either an individual or small-group basis. The individual project is a course in the methods of business research and students work on a problem or project under the supervision of a faculty member of the School. Students must submit their study proposal in writing to the Program Chair. In the case of team projects, the students form into groups usually of not more than 6 persons and analyze the activities of a cooperating business firm. The group is expected to present a report of their findings and recommendations to the management of the subject firm. This course may extend through the full academic year (but may be done in less), but in all cases the work will be equivalent to the weight of 1.0 credit for each student whether undertaken as an individual or a group project.",
-        "number": "502B",
-        "subject": "COMM",
+        "description": "Students selecting this course may elect to do a project on either an individual or small-group basis. The individual project is a course in the methods of business research and students work on a problem or project under the supervision of a faculty member of the School. Students must submit their study proposal in writing to the Program Chair. In the case of team projects, the students form into groups usually of not more than 6 persons and analyze the activities of a cooperating business firm. The group is expected to present a report of their findings and recommendations to the management of the subject firm. This course may extend through the full academic year (but may be done in less), but in all cases the work will be equivalent to the weight of 1.0 credit for each student whether undertaken as an individual or a group project.", 
+        "number": "502B", 
+        "subject": "COMM", 
         "title": "Business Problems And Projects"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

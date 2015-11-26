@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course covers the modeling and control techniques for switching power converters. Small signal models and large signal models will be presented. Peak current mode control and average current mode control for switching power converters will be investigated. System stability issues when several power supplies are connected together are investigated and solutions are presented and analyzed. Digital control techniques, using FPGA or DSP, will be investigated and analyzed. Conventional fuzzy logic control and improved version of fuzzy logic control will be analyzed in detail. Sliding mode control and sliding mode like control will be analyzed. Digital control techniques for AC-DC converter with power factor correction will be analyzed. It is expected the students will do a project based one or more of the above mentioned techniques. Three term-hours, lectures, fall.\u00a0 Y.F. Liu.\u00a0",
-        "number": "832",
-        "subject": "ELEC",
+        "description": "This course covers the modeling and control techniques for switching power converters. Small signal models and large signal models will be presented. Peak current mode control and average current mode control for switching power converters will be investigated. System stability issues when several power supplies are connected together are investigated and solutions are presented and analyzed. Digital control techniques, using FPGA or DSP, will be investigated and analyzed. Conventional fuzzy logic control and improved version of fuzzy logic control will be analyzed in detail. Sliding mode control and sliding mode like control will be analyzed. Digital control techniques for AC-DC converter with power factor correction will be analyzed. It is expected the students will do a project based one or more of the above mentioned techniques. Three term-hours, lectures, fall.\u00a0 Y.F. Liu.\u00a0", 
+        "number": "832", 
+        "subject": "ELEC", 
         "title": "Switching Power Converters"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

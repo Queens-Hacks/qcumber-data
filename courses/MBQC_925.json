@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "",
-        "number": "925",
-        "subject": "MBQC",
+        "description": "", 
+        "number": "925", 
+        "subject": "MBQC", 
         "title": "Cornell Management Simulation"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
-        "units": "3.36"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.90"
     }
 }

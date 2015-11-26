@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students learn essential research skills such as preparation and critical review of a research proposal, basic theory of physiological instrumentation, histology, and other state-of-art techniques. S. Iscoe.\u00a0 EXCLUSION: PHGY-884*",
-        "number": "884",
-        "subject": "BMED",
+        "description": "Students learn essential research skills such as preparation and critical review of a research proposal, basic theory of physiological instrumentation, histology, and other state-of-art techniques. S. Iscoe.\u00a0 EXCLUSION: PHGY-884*", 
+        "number": "884", 
+        "subject": "BMED", 
         "title": "Essential Research Skills"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

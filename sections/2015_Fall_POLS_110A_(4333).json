@@ -1,35 +1,35 @@
 {
-    "_unique": "032-TUT (4333)",
+    "_unique": "032-TUT (4333)", 
     "availability": {
-        "class_curr": 17,
-        "class_max": 25,
-        "wait_curr": 0,
+        "class_curr": 24, 
+        "class_max": 25, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "032",
-        "course": "110A",
-        "season": "Fall",
-        "solus_id": "4333",
-        "status": "Open",
-        "subject": "POLS",
-        "type": "TUT",
+        "class_num": "032", 
+        "course": "110A", 
+        "season": "Fall", 
+        "solus_id": "4333", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "16:30:00",
-            "instructors": [],
-            "location": "MACINTOSH-CORRY RM C508",
-            "start_time": "15:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM C508", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

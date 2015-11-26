@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to the interrelationships between physical activity, fitness and health. Current techniques for the measurement of health related fitness components, evaluation of diet, weight loss principles, psychological aspects of fitness and suitable activities for fitness development. Concepts related to prescription of physical activity and exercise counselling are introduced.",
-        "number": "255",
-        "subject": "PHED",
+        "description": "An introduction to the interrelationships between physical activity, fitness and health. Current techniques for the measurement of health related fitness components, evaluation of diet, weight loss principles, psychological aspects of fitness and suitable activities for fitness development. Concepts related to prescription of physical activity and exercise counselling are introduced.", 
+        "number": "255", 
+        "subject": "PHED", 
         "title": "Physical Activity\u00a0 Fitness & H"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PHED155",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PHED155", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "An advanced course in relativistic electrodynamics, intended for students in subatomic physics and astrophysics. Topics include the covariant formulation of Maxwell's equations, relativistic motionof charged particles in electromagnetic fields and the resultant radiated fields, synchrotron radiation, Cerenkov radiation, and the inverse Compton effect are discussed. Additionally, the course may offer a brief treatment of magnetohydrodynamics. Applications to problems in astrophysics and high energy particle physics will be discussed.",
-        "number": "832",
-        "subject": "PHYS",
+        "description": "An advanced course in relativistic electrodynamics, intended for students in subatomic physics and astrophysics. Topics include the covariant formulation of Maxwell's equations, relativistic motionof charged particles in electromagnetic fields and the resultant radiated fields, synchrotron radiation, Cerenkov radiation, and the inverse Compton effect are discussed. Additionally, the course may offer a brief treatment of magnetohydrodynamics. Applications to problems in astrophysics and high energy particle physics will be discussed.", 
+        "number": "832", 
+        "subject": "PHYS", 
         "title": "Classical Electrodynamics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

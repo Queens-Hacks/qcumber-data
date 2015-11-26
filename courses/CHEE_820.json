@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Today, due to advances in computers, massive amounts of data are collected. These data are very difficult to be analyzed with classical statistical techniques due to the large number of variables and the interrelated nature among these variables. Multivariate statistical methods are employed for the analysis of these data in a wide spectrum of sciences such as Business Economics, Sociology, Chemical Engineering, Biology, and Medicine among others. The course will cover topics of basic Multivariate Analysis such as multivariate mean and variance analysis, T-Hotelling, Multinormal and Wishart distributions, and multivariate linear regression. Emphasis will be given in two advanced multivariate methods: Principal Component Analysis and Partial Least Squares. PCA and PLS are considered among the best statistical methods to analyze multivariate data and extract the information that is contained in them. In depth analysis of these techniques will be provided both from a theoretical and a practical point of view. The aim of the course is to provide the statistical depth and understanding of these multivariate techniques for their successful application in data analysis, and their extension in the areas of Process Monitoring, Product Development, and Image Analysis. Participants need to have knowledge of basic statistics (probability, hypothesis testing) and matrix algebra and are encouraged to bring their own data sets. This is the best way for participants to relate the new statistical techniques into their own work experience. Three term-hours; P. Nomikos",
-        "number": "820",
-        "subject": "CHEE",
+        "description": "Today, due to advances in computers, massive amounts of data are collected. These data are very difficult to be analyzed with classical statistical techniques due to the large number of variables and the interrelated nature among these variables. Multivariate statistical methods are employed for the analysis of these data in a wide spectrum of sciences such as Business Economics, Sociology, Chemical Engineering, Biology, and Medicine among others. The course will cover topics of basic Multivariate Analysis such as multivariate mean and variance analysis, T-Hotelling, Multinormal and Wishart distributions, and multivariate linear regression. Emphasis will be given in two advanced multivariate methods: Principal Component Analysis and Partial Least Squares. PCA and PLS are considered among the best statistical methods to analyze multivariate data and extract the information that is contained in them. In depth analysis of these techniques will be provided both from a theoretical and a practical point of view. The aim of the course is to provide the statistical depth and understanding of these multivariate techniques for their successful application in data analysis, and their extension in the areas of Process Monitoring, Product Development, and Image Analysis. Participants need to have knowledge of basic statistics (probability, hypothesis testing) and matrix algebra and are encouraged to bring their own data sets. This is the best way for participants to relate the new statistical techniques into their own work experience. Three term-hours; P. Nomikos", 
+        "number": "820", 
+        "subject": "CHEE", 
         "title": "Topics In Advanced Process Control"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

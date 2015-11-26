@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course will provide an overview and hands on experience of the most important computational approaches in Neuroscience. The main topics covered include single cell and neural network modelling, Bayesian approaches, State Space modelling and Optimal Control Theory. More specific modelling approaches will also be discussed as well as some widely used computational data analysis methods.",
-        "number": "850",
-        "subject": "NSCI",
+        "description": "This course will provide an overview and hands on experience of the most important computational approaches in Neuroscience. The main topics covered include single cell and neural network modelling, Bayesian approaches, State Space modelling and Optimal Control Theory. More specific modelling approaches will also be discussed as well as some widely used computational data analysis methods.", 
+        "number": "850", 
+        "subject": "NSCI", 
         "title": "Computational Neuroscience"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

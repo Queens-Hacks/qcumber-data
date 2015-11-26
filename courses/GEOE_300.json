@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An intensive two-week course taken immediately after final examinations in second year.\u00a0 Teams of students apply geological field methods and geological engineering assessment techniques learned during second year, as the\u00a0 basis for an engineering assessment of overburden and bedrock for a suite of specific engineering design outcomes.\u00a0 These outcomes include mineral resource evaluation, mine design, geotechnical stability and environmental baseline assessment related to future engineering works.\u00a0 In addition the students are expected to optimize the design of their own site investigation program to maximize the practical value of information obtained.\u00a0 A final site investigation and engineering report, including design solutions for the aforementioned problems, is presented and defended.\u00a0 Field safety regulations and safe practice are emphasized.",
-        "number": "300",
-        "subject": "GEOE",
+        "description": "An intensive two-week course taken immediately after final examinations in second year.\u00a0 Teams of students apply geological field methods and geological engineering assessment techniques learned during second year, as the\u00a0 basis for an engineering assessment of overburden and bedrock for a suite of specific engineering design outcomes.\u00a0 These outcomes include mineral resource evaluation, mine design, geotechnical stability and environmental baseline assessment related to future engineering works.\u00a0 In addition the students are expected to optimize the design of their own site investigation program to maximize the practical value of information obtained.\u00a0 A final site investigation and engineering report, including design solutions for the aforementioned problems, is presented and defended.\u00a0 Field safety regulations and safe practice are emphasized.", 
+        "number": "300", 
+        "subject": "GEOE", 
         "title": "Geological Engineering Field School"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 45,
-            "Eng Sci": 15,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 45, 
+            "Eng Sci": 15, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Field Studies": "Required"
-        },
-        "enrollment_requirement": "Prerequisites: GEOE 221 (GEOL 211) and GEOE 235 (GEOL 235), or permission of the instructor.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites: GEOE 221 (GEOL 211) and GEOE 235 (GEOL 235), or permission of the instructor.", 
+        "grading_basis": "Graded", 
         "units": "5.00"
     }
 }

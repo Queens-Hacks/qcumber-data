@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A study of the anatomy, pharmacology and physiology of the cardiovascular system based on lectures, seminars, laboratories and selected readings (same as PHAR-854 and PHGY-854). Topics include structure-function of the heart and blood vessels, mechanisms of signal transduction, drug effects on second messenger systems, the cardiac pump, integrated cardiovascular control, arterial oxygen transport, control of blood pressure and hypertension. Offered jointly with LISC-454. Additional work prescribed for graduate students.\u00a0 Enrolment limited. Fall term; lectures, seminars and laboratories. M. Adams\u00a0 PREREQUISITE: OR COREQUISITES: ANAT-311, ANAT-309*, PHAR-340/450 and PHGY-312 or their equivalent.\u00a0\u00a0 EXCLUSIONS: ANAT-854*, PHAR-854*, PHGY-854*, LISC-454*.",
-        "number": "854",
-        "subject": "BMED",
+        "description": "A study of the anatomy, pharmacology and physiology of the cardiovascular system based on lectures, seminars, laboratories and selected readings (same as PHAR-854 and PHGY-854). Topics include structure-function of the heart and blood vessels, mechanisms of signal transduction, drug effects on second messenger systems, the cardiac pump, integrated cardiovascular control, arterial oxygen transport, control of blood pressure and hypertension. Offered jointly with LISC-454. Additional work prescribed for graduate students.\u00a0 Enrolment limited. Fall term; lectures, seminars and laboratories. M. Adams\u00a0 PREREQUISITE: OR COREQUISITES: ANAT-311, ANAT-309*, PHAR-340/450 and PHGY-312 or their equivalent.\u00a0\u00a0 EXCLUSIONS: ANAT-854*, PHAR-854*, PHGY-854*, LISC-454*.", 
+        "number": "854", 
+        "subject": "BMED", 
         "title": "Cardiovascular Sciences"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

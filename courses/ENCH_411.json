@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A discussion of recent advances in analytical chemistry and its applications to the environmental, materials and biomedical fields. At least four topics will be covered from sample preparation, separation methods, multidimensional chromatography, elemental spectroscopy, mass spectroscopy, and surface analysis methods. Additional topics will be selected from the current literature.",
-        "number": "411",
-        "subject": "ENCH",
+        "description": "A discussion of recent advances in analytical chemistry and its applications to the environmental, materials and biomedical fields. At least four topics will be covered from sample preparation, separation methods, multidimensional chromatography, elemental spectroscopy, mass spectroscopy, and surface analysis methods. Additional topics will be selected from the current literature.", 
+        "number": "411", 
+        "subject": "ENCH", 
         "title": "Adv. Analytical Chem"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 36,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: ENCH 321 or CHEM 321 and registered in BSCE",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: ENCH 321 or CHEM 321 and registered in BSCE", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

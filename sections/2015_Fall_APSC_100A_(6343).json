@@ -1,35 +1,35 @@
 {
-    "_unique": "328-LAB (6343)",
+    "_unique": "328-LAB (6343)", 
     "availability": {
-        "class_curr": 73,
-        "class_max": 83,
-        "wait_curr": 0,
+        "class_curr": 72, 
+        "class_max": 83, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "328",
-        "course": "100A",
-        "season": "Fall",
-        "solus_id": "6343",
-        "status": "Open",
-        "subject": "APSC",
-        "type": "LAB",
+        "class_num": "328", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "6343", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-12-04",
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

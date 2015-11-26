@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course will focus on fundamental tools of modern macroeconomic analysis. Specifically, recursive methods and their uses in stochastic applied general equilibrium theory. These uses include applications of both life-cycle and infinite horizon frameworks to savings and consumption, economic growth, fluctuations, and financial markets. Intended for Ph.D. students.",
-        "number": "816",
-        "subject": "ECON",
+        "description": "This course will focus on fundamental tools of modern macroeconomic analysis. Specifically, recursive methods and their uses in stochastic applied general equilibrium theory. These uses include applications of both life-cycle and infinite horizon frameworks to savings and consumption, economic growth, fluctuations, and financial markets. Intended for Ph.D. students.", 
+        "number": "816", 
+        "subject": "ECON", 
         "title": "Adv. Macroeconomic Theory I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

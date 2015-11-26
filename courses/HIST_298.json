@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A survey of Chinese history, thought, and material culture from the time of the first establishment of the unified Empire in 221 B.C.E. to the last Emperor's abdication in 1912. A variety of recent reconstructions of parts of China's imperial past will also be discussed.",
-        "number": "298",
-        "subject": "HIST",
+        "description": "A survey of Chinese history, thought, and material culture from the time of the first establishment of the unified Empire in 221 B.C.E. to the last Emperor's abdication in 1912. A variety of recent reconstructions of parts of China's imperial past will also be discussed.", 
+        "number": "298", 
+        "subject": "HIST", 
         "title": "Imperial China"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 2 or above.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

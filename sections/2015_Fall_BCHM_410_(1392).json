@@ -1,53 +1,53 @@
 {
-    "_unique": "001-LEC (1392)",
+    "_unique": "001-LEC (1392)", 
     "availability": {
-        "class_curr": 46,
-        "class_max": 85,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
+        "class_curr": 44, 
+        "class_max": 85, 
+        "wait_curr": 0, 
+        "wait_max": 7
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "410",
-        "season": "Fall",
-        "solus_id": "1392",
-        "status": "Open",
-        "subject": "BCHM",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "410", 
+        "season": "Fall", 
+        "solus_id": "1392", 
+        "status": "Open", 
+        "subject": "BCHM", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "10:30:00",
-            "instructors": [],
-            "location": "BIOSCI RM1102",
-            "start_time": "09:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM1102", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "09:30:00",
-            "instructors": [],
-            "location": "BIOSCI RM1102",
-            "start_time": "08:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 4, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM1102", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "11:30:00",
-            "instructors": [],
-            "location": "BIOSCI RM1102",
-            "start_time": "10:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM1102", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

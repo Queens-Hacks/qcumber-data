@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course will introduce students to the breadth of the field of \"design methods\". While there are many methods of design; not all of them work well in every case. The goal of the course is to give students an appreciation for different design methods, an understanding of how different design methods can yield very different results, and how to select appropriate methods for specific cases. Topics include:- The role of design methods in product development and engineering- The coupling between industrial design, engineering design, and product development- Generic design processes, stages & gates- Design problem analysis & requirements engineering- The House of Quality- Methods for design problem solving- Design for Manufacture & Assembly, Life-Cycle Analysis, and Sustainability- Principles & Aphorisms of Designing- Axiomatic Design and Design Optimization(Lead Instructor: Ron Venter, Toronto)",
-        "number": "816",
-        "subject": "DM",
+        "description": "This course will introduce students to the breadth of the field of \"design methods\". While there are many methods of design; not all of them work well in every case. The goal of the course is to give students an appreciation for different design methods, an understanding of how different design methods can yield very different results, and how to select appropriate methods for specific cases. Topics include:- The role of design methods in product development and engineering- The coupling between industrial design, engineering design, and product development- Generic design processes, stages & gates- Design problem analysis & requirements engineering- The House of Quality- Methods for design problem solving- Design for Manufacture & Assembly, Life-Cycle Analysis, and Sustainability- Principles & Aphorisms of Designing- Axiomatic Design and Design Optimization(Lead Instructor: Ron Venter, Toronto)", 
+        "number": "816", 
+        "subject": "DM", 
         "title": "Design Methodologies Dm1016"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

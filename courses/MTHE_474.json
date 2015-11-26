@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics include: information measures, entropy, mutual information, modeling of information sources, lossless data\u00a0compression, block encoding, variable-length encoding, Kraft inequality, fundamentals of channel coding, channel\u00a0capacity, rate-distortion theory, lossy data compression, rate-distortion theorem.",
-        "number": "474",
-        "subject": "MTHE",
+        "description": "Topics include: information measures, entropy, mutual information, modeling of information sources, lossless data\u00a0compression, block encoding, variable-length encoding, Kraft inequality, fundamentals of channel coding, channel\u00a0capacity, rate-distortion theory, lossy data compression, rate-distortion theorem.", 
+        "number": "474", 
+        "subject": "MTHE", 
         "title": "Information Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 10,
-            "Eng Sci": 17,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 10, 
+            "Eng Sci": 17, 
             "Math": 9
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MTHE 351 or STAT 351 and MTHE 332 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 351 or STAT 351 and MTHE 332 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

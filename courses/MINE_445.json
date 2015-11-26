@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The material of MINE 341 is applied to the design of an open pit mine. Special attention is given to the selection of equipment and the use of computers in strategic and detailed mine planning and scheduling. The course uses commercial mine planning software to enable small groups of students (2-4) to complete mine designs starting with topography maps, drill information, and mineral inventory block models. Several real deposit databases are used including gold, copper, copper/molybdenum, copper/zinc. The deposits are evaluated, feasibility assessed, and production decisions discussed.",
-        "number": "445",
-        "subject": "MINE",
+        "description": "The material of MINE 341 is applied to the design of an open pit mine. Special attention is given to the selection of equipment and the use of computers in strategic and detailed mine planning and scheduling. The course uses commercial mine planning software to enable small groups of students (2-4) to complete mine designs starting with topography maps, drill information, and mineral inventory block models. Several real deposit databases are used including gold, copper, copper/molybdenum, copper/zinc. The deposits are evaluated, feasibility assessed, and production decisions discussed.", 
+        "number": "445", 
+        "subject": "MINE", 
         "title": "Open Pit Mine Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 20,
-            "Eng Des": 46,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 20, 
+            "Eng Des": 46, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite: Completion of all 2nd year course and MINE341 and\u00a0 ( MINE 326 or MINE467) and registered in a BSCE Academic Program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: Mine 330 and MINE 341, and either MINE 326 or MINE 467, or permission of the instructor. Must be registered in a BSCE Academic Program", 
+        "grading_basis": "Graded", 
         "units": "5.50"
     }
 }

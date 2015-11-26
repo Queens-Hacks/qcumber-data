@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The study of public goods, redistribution of income, and taxation, with emphasis on efficiency and equality as criteria for decision-making in the public sector.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;6O;78P)",
-        "number": "440",
-        "subject": "ECON",
+        "description": "The study of public goods, redistribution of income, and taxation, with emphasis on efficiency and equality as criteria for decision-making in the public sector.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;6O;78P)", 
+        "number": "440", 
+        "subject": "ECON", 
         "title": "Public Economics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "ECON310",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "ECON310", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

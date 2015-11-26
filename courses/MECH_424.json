@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course deals with sustainable product design and manufacture. Topics include: product Life Cycle Analysis issues; Streamlined Life Cycle Analysis and international Life Cycle Analysis standards; Energy, Global Warming Potential, Green House Gas and carbon emission issues (including energy needs in product design and manufacturing); Carbon footprint, basic chemistry of carbon emissions, international standards for carbon emission signatures. Design topics include: product design for manufacture and assembly, design for disassembly and design for environment. Product end-of-life considerations include: recycling, remanufacture and reuse. Students will complete several open ended projects. Guest speakers will be included where possible.",
-        "number": "424",
-        "subject": "MECH",
+        "description": "This course deals with sustainable product design and manufacture. Topics include: product Life Cycle Analysis issues; Streamlined Life Cycle Analysis and international Life Cycle Analysis standards; Energy, Global Warming Potential, Green House Gas and carbon emission issues (including energy needs in product design and manufacturing); Carbon footprint, basic chemistry of carbon emissions, international standards for carbon emission signatures. Design topics include: product design for manufacture and assembly, design for disassembly and design for environment. Product end-of-life considerations include: recycling, remanufacture and reuse. Students will complete several open ended projects. Guest speakers will be included where possible.", 
+        "number": "424", 
+        "subject": "MECH", 
         "title": "Sustainable Product Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 42,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 42, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MECH 323 or permission of the instructor. Must be registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: MECH 323 or permission of the instructor. Must be registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

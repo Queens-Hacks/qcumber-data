@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This course covers core topics in discrete and continuous time modern control theory: controllability, observability and minimal realizations; Lyapunov stability; the linear quadradic regulator and design of robust controllers; state estimation via Luenberger and deterministic Kalman-Bucy filters. Laboratory experiments illustrate design considerations in implementing the lecture material. Students are required to identify a high order under-actuated torsion disc system; perform model verification experiments; design and implement robust linear feedback controllers; design and implement nonlinear sliding mode controllers; study implementation issues for observers and Kalman-Bucy filters; depending on instructor, some nonlinear control strategies may be implemented.\u00a0\u00a0(Offered jointly with MATH-430*.) Three term hours, fall; lectures.",
-        "number": "830",
-        "subject": "MATH",
+        "description": "This course covers core topics in discrete and continuous time modern control theory: controllability, observability and minimal realizations; Lyapunov stability; the linear quadradic regulator and design of robust controllers; state estimation via Luenberger and deterministic Kalman-Bucy filters. Laboratory experiments illustrate design considerations in implementing the lecture material. Students are required to identify a high order under-actuated torsion disc system; perform model verification experiments; design and implement robust linear feedback controllers; design and implement nonlinear sliding mode controllers; study implementation issues for observers and Kalman-Bucy filters; depending on instructor, some nonlinear control strategies may be implemented.\u00a0\u00a0(Offered jointly with MATH-430*.) Three term hours, fall; lectures.", 
+        "number": "830", 
+        "subject": "MATH", 
         "title": "Modern Control Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Introduces descriptive and inferential statistics and data analysis strategies.\u00a0\u00a0 Topics include probability, correlation/regression, experimental design and analysis of variance.\u00a0\u00a0 Online learning and weekly laboratories provide practice in computation, interpretation and communication of statistical findings, and large class review sessions and individual drop in assistance ensure mastery.\u00a0\u00a0 Applications appropriate to different fields of study will be explored.\nNOTE\u00a0\u00a0\u00a0 Students can also fulfill the statistics requirements of a SOCY plan by taking any one of the courses listed as exclusions below in place of SOCY 211/3.0",
-        "number": "211",
-        "subject": "SOCY",
+        "description": "Introduces descriptive and inferential statistics and data analysis strategies.\u00a0\u00a0 Topics include probability, correlation/regression, experimental design and analysis of variance.\u00a0\u00a0 Online learning and weekly laboratories provide practice in computation, interpretation and communication of statistical findings, and large class review sessions and individual drop in assistance ensure mastery.\u00a0\u00a0 Applications appropriate to different fields of study will be explored.\nNOTE\u00a0\u00a0\u00a0 Students can also fulfill the statistics requirements of a SOCY plan by taking any one of the courses listed as exclusions below in place of SOCY 211/3.0", 
+        "number": "211", 
+        "subject": "SOCY", 
         "title": "Introduction to Statistics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A grade of C- in SOCY 122/6.0.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from STAT 261/3.0; STAT 263/3.0; STAT 267/3.0; STAT 367/3.0; COMM 162/3.0; ECON 250/3.0; PSYC 202/3.0; SOCY 211/3.0; BIOL 243/3.0; CHEE 209/3.0; GPHY 247/3.0; KNPE 251/3.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 A grade of C- in SOCY 122/6.0.\r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from STAT 261/3.0; STAT 263/3.0; STAT 267/3.0; STAT 367/3.0; COMM 162/3.0; ECON 250/3.0; PSYC 202/3.0; SOCY 211/3.0; BIOL 243/3.0; CHEE 209/3.0; GPHY 247/3.0; KNPE 251/3.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

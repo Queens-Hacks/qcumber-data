@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Quantum mechanical treatment of two and three dimensional systems. The hydrogen atom. Spin. Many-electron atoms and the periodic table. Introduction to perturbation theory and Fermi's golden rule. Introduction to nuclear and particle physics.",
-        "number": "345",
-        "subject": "ENPH",
+        "description": "Quantum mechanical treatment of two and three dimensional systems. The hydrogen atom. Spin. Many-electron atoms and the periodic table. Introduction to perturbation theory and Fermi's golden rule. Introduction to nuclear and particle physics.", 
+        "number": "345", 
+        "subject": "ENPH", 
         "title": "Quantum Physics Of Atoms"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 20,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 11,
+            "Basic Sci": 20, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 11, 
             "Math": 11
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: ENPH 344 or PHYS 344 or registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: ENPH 344 or PHYS 344 or registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

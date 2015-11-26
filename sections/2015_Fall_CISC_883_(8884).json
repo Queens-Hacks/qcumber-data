@@ -1,0 +1,37 @@
+{
+    "_unique": "001-RSC (8884)", 
+    "availability": {
+        "class_curr": 7, 
+        "class_max": 25, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "001", 
+        "course": "883", 
+        "season": "Fall", 
+        "solus_id": "8884", 
+        "status": "Open", 
+        "subject": "CISC", 
+        "type": "RSC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Mustafa Kamel Selim, Gehan"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

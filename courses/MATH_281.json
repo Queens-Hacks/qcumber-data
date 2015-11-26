@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Taylor's theorem, optimization, implicit and inverse function theorems. Elementary topology of Euclidean spaces. Sequences and series of numbers and functions. Pointwise and uniform convergence. Power series.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)",
-        "number": "281",
-        "subject": "MATH",
+        "description": "Taylor's theorem, optimization, implicit and inverse function theorems. Elementary topology of Euclidean spaces. Sequences and series of numbers and functions. Pointwise and uniform convergence. Power series.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;12T;84P)", 
+        "number": "281", 
+        "subject": "MATH", 
         "title": "Introduction to Real Analysis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

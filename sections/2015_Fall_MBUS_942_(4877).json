@@ -1,37 +1,37 @@
 {
-    "_unique": "001-LEC (4877)",
+    "_unique": "001-LEC (4877)", 
     "availability": {
-        "class_curr": 0,
-        "class_max": 83,
-        "wait_curr": 0,
+        "class_curr": 24, 
+        "class_max": 83, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "942",
-        "season": "Fall",
-        "solus_id": "4877",
-        "status": "Open",
-        "subject": "MBUS",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "942", 
+        "season": "Fall", 
+        "solus_id": "4877", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Brohman, Kathryn"
-            ],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-11-27",
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-11-27", 
             "term_start": "2015-11-23"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

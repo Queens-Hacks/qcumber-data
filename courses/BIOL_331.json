@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course will explore the structure of genomes and the nature and origin of gene families as well as large scale functional genomics methods for analysis of novel gene function.\nLEARNING HOURS\u00a0\u00a0\u00a0 124 (36L;12T;40O;36P)",
-        "number": "331",
-        "subject": "BIOL",
+        "description": "This course will explore the structure of genomes and the nature and origin of gene families as well as large scale functional genomics methods for analysis of novel gene function.\nLEARNING HOURS\u00a0\u00a0\u00a0 124 (36L;12T;40O;36P)", 
+        "number": "331", 
+        "subject": "BIOL", 
         "title": "Analytical Genomics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "BIOL205",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "BIOL205", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

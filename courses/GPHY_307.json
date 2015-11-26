@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Two weeks of field work plus written assignments in an aspect of physical geography, to be undertaken when a formal field course is offered.\r\nNOTE\u00a0\u00a0 \u00a0Field trips: estimated cost $400, depending on the location.",
-        "number": "307",
-        "subject": "GPHY",
+        "description": "Two weeks of field work plus written assignments in an aspect of physical geography, to be undertaken when a formal field course is offered.\r\nNOTE\u00a0\u00a0 \u00a0Field trips: estimated cost $400, depending on the location.", 
+        "number": "307", 
+        "subject": "GPHY", 
         "title": "Field Studies in Physical Geography"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Field Studies": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of GPHY208 and GPHY209 or permission of the Department.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of GPHY208 and GPHY209 or permission of the Department.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

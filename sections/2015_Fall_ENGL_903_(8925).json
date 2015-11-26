@@ -1,0 +1,35 @@
+{
+    "_unique": "001-LEC (8925)", 
+    "availability": {
+        "class_curr": 24, 
+        "class_max": 35, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "001", 
+        "course": "903", 
+        "season": "Fall", 
+        "solus_id": "8925", 
+        "status": "Open", 
+        "subject": "ENGL", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "JOHN WATSON RM517", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

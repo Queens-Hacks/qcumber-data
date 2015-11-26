@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "For students with no (or a minimal) background in French.",
-        "number": "P16",
-        "subject": "FREN",
+        "description": "For students with no (or a minimal) background in French.", 
+        "number": "P16", 
+        "subject": "FREN", 
         "title": "Communication et culture I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Online": "Required"
-        },
-        "enrollment_requirement": "One-way exclusion\u00a0\u00a0\u00a0 May not be taken with or after: FREN P10; FREN P11, P12; P16;\u00a0 P17; 100; 101; 102; 110; 118; 219; 320.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "One-way exclusion\u00a0\u00a0\u00a0 May not be taken with or after: FREN P10; FREN P11, P12; P16;\u00a0 P17; 100; 101; 102; 110; 118; 219; 320.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course examines the development of information systems from the organizational, team and individual perspectives. Proprietary, inter-organizational and open domains of the development of business applications and IT architecture are covered. Topics include IS development practices, IS project management, IS maintenance, and IS sourcing with a focus on how individual characteristics, team dynamics, and organizational factors influence information systems design, development and implementation.",
-        "number": "972",
-        "subject": "MGMT",
+        "description": "This course examines the development of information systems from the organizational, team and individual perspectives. Proprietary, inter-organizational and open domains of the development of business applications and IT architecture are covered. Topics include IS development practices, IS project management, IS maintenance, and IS sourcing with a focus on how individual characteristics, team dynamics, and organizational factors influence information systems design, development and implementation.", 
+        "number": "972", 
+        "subject": "MGMT", 
         "title": "Advanced Topics in the Design, Development and Implementation of Information Systems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

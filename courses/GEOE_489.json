@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Characterization, processing and interpretation of exploration seismic digital data for the oil and gas, and mineral industries. Vector waves; Green functions and diffraction; attenuation, anisotropy and poroelasticity of earth materials; geometrical rays; resolution limits and survey design; processing sequence design, data optimization, depth-model building of earth systems. Theory and practice of pre and post-stack migration, limitations and advantages; examples of partially and fully processed data, consequences of different processing design decisions. (5/0/0/30/7)~ COURSE DELETED IN 2009/10 ~",
-        "number": "489",
-        "subject": "GEOE",
+        "description": "Characterization, processing and interpretation of exploration seismic digital data for the oil and gas, and mineral industries. Vector waves; Green functions and diffraction; attenuation, anisotropy and poroelasticity of earth materials; geometrical rays; resolution limits and survey design; processing sequence design, data optimization, depth-model building of earth systems. Theory and practice of pre and post-stack migration, limitations and advantages; examples of partially and fully processed data, consequences of different processing design decisions. (5/0/0/30/7)~ COURSE DELETED IN 2009/10 ~", 
+        "number": "489", 
+        "subject": "GEOE", 
         "title": "Appl Geoph: Seismic Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 7,
-            "Eng Sci": 30,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 7, 
+            "Eng Sci": 30, 
             "Math": 5
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "(MATH227 AND MATH334) OR (MATH227 AND GEOL319) OR (MATH227 AND MATH338) OR (MATH227 AND GEOL319)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "(MATH227 AND MATH334) OR (MATH227 AND GEOL319) OR (MATH227 AND MATH338) OR (MATH227 AND GEOL319)", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

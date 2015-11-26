@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The basic mechanisms of mass transport and phase transformations in materials are developed from thermodynamic and kinetic principles.\u00a0 Topics include phase equilibria, diffusion, solidification and solid-state transformations.\u00a0 The application of these phenomena to materials processing methods, such as casting, forming, heat treatment and sintering is described.\u00a0",
-        "number": "370",
-        "subject": "MECH",
+        "description": "The basic mechanisms of mass transport and phase transformations in materials are developed from thermodynamic and kinetic principles.\u00a0 Topics include phase equilibria, diffusion, solidification and solid-state transformations.\u00a0 The application of these phenomena to materials processing methods, such as casting, forming, heat treatment and sintering is described.\u00a0", 
+        "number": "370", 
+        "subject": "MECH", 
         "title": "Prin Of Materials Processing"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 18,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 24,
+            "Basic Sci": 18, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MECH270 or MECH271 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH270 or MECH271 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

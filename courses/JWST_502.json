@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Directed reading on topics in Jewish Studies not covered in other courses available to the student.",
-        "number": "502",
-        "subject": "JWST",
+        "description": "Directed reading on topics in Jewish Studies not covered in other courses available to the student.", 
+        "number": "502", 
+        "subject": "JWST", 
         "title": "Directed Reading in Jewish Studies II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Chamber music experience for qualified instrumentalists and singers. Credit attained only with regular attendance, active participation, and ample preparation.\nNOTE\u00a0\u00a0\u00a0 Placement is made at the discretion of the School of Music.",
-        "number": "463B",
-        "subject": "MUSC",
+        "description": "Chamber music experience for qualified instrumentalists and singers. Credit attained only with regular attendance, active participation, and ample preparation.\nNOTE\u00a0\u00a0\u00a0 Placement is made at the discretion of the School of Music.", 
+        "number": "463B", 
+        "subject": "MUSC", 
         "title": "Unspecified Chamber Ensemble"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "1.50"
     }
 }

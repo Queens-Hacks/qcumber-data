@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students will be assigned individual research topics. Students must work under the supervision of a faculty member. Grade will be based on the progress in arriving at a solution to the assigned problem.",
-        "number": "456",
-        "subject": "ENPH",
+        "description": "Students will be assigned individual research topics. Students must work under the supervision of a faculty member. Grade will be based on the progress in arriving at a solution to the assigned problem.", 
+        "number": "456", 
+        "subject": "ENPH", 
         "title": "Advanced Engineering Physics Thesis I:"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 10,
-            "Eng Sci": 14,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 10, 
+            "Eng Sci": 14, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "2.00"
     }
 }

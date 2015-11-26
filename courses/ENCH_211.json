@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to chemistry of main group inorganic and organic compounds with the use of fundamental quantum mechanics, molecular orbital diagrams and Lewis structures to describe the structure and bonding. The stereochemistry and chirality of organic compounds, solid-state inorganic chemistry, and descriptive chemistry of compounds of the main group elements will be covered. The laboratory will introduce skills in inorganic and organic synthesis. \r\nNOTE: Laboratory consumables: estimated cost $20.",
-        "number": "211",
-        "subject": "ENCH",
+        "description": "An introduction to chemistry of main group inorganic and organic compounds with the use of fundamental quantum mechanics, molecular orbital diagrams and Lewis structures to describe the structure and bonding. The stereochemistry and chirality of organic compounds, solid-state inorganic chemistry, and descriptive chemistry of compounds of the main group elements will be covered. The laboratory will introduce skills in inorganic and organic synthesis. \r\nNOTE: Laboratory consumables: estimated cost $20.", 
+        "number": "211", 
+        "subject": "ENCH", 
         "title": "Main Group Chemistry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 54,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 54, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite: APSC 131 and APSC 132",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: APSC 131 and APSC 132", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

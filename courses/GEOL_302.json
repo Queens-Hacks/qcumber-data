@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An independent study of the general links between tectonics and the nature of the sedimentary record in a variety of carbonate and siliciclastic depositional environments.\nNOTE\u00a0\u00a0\u00a0 This course is intended to provide an option for students in lieu of GEOL 301/1.5.\nLEARNING HOURS\u00a0\u00a0\u00a0 60 (10I;50P)",
-        "number": "302",
-        "subject": "GEOL",
+        "description": "An independent study of the general links between tectonics and the nature of the sedimentary record in a variety of carbonate and siliciclastic depositional environments.\nNOTE\u00a0\u00a0\u00a0 This course is intended to provide an option for students in lieu of GEOL 301/1.5.\nLEARNING HOURS\u00a0\u00a0\u00a0 60 (10I;50P)", 
+        "number": "302", 
+        "subject": "GEOL", 
         "title": "Problems in Sedimentary Geology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

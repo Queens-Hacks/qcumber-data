@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The demonstration of the basic techniques of the engineering physicist in the measurement of electric, magnetic and mechanical properties. The emphasis is on correct measurement techniques, error analysis, treatment of results and the presentation of data.",
-        "number": "253",
-        "subject": "ENPH",
+        "description": "The demonstration of the basic techniques of the engineering physicist in the measurement of electric, magnetic and mechanical properties. The emphasis is on correct measurement techniques, error analysis, treatment of results and the presentation of data.", 
+        "number": "253", 
+        "subject": "ENPH", 
         "title": "Engineering Physics Laboratory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 15,
-            "Comp St": 12,
-            "Eng Des": 0,
-            "Eng Sci": 15,
+            "Basic Sci": 15, 
+            "Comp St": 12, 
+            "Eng Des": 0, 
+            "Eng Sci": 15, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "enrollment_requirement": "Coreq: ENPH 252\u00a0 ENPH 211, ENPH 225, ENPH 239",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Coreq: ENPH 252\u00a0 ENPH 211, ENPH 225, ENPH 239", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Topics will include: Derivation of equations of motion for incompressible fluids; exact solutions for laminar flows; stability and transition; introduction to turbulence, including turbulent boundary layers, jets, wakes and mixing layers; drag reduction; introduction to the modelling of turbulence.",
-        "number": "441",
-        "subject": "MECH",
+        "description": "Topics will include: Derivation of equations of motion for incompressible fluids; exact solutions for laminar flows; stability and transition; introduction to turbulence, including turbulent boundary layers, jets, wakes and mixing layers; drag reduction; introduction to the modelling of turbulence.", 
+        "number": "441", 
+        "subject": "MECH", 
         "title": "Fluid Mechanics III"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 42,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MECH341 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH341 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

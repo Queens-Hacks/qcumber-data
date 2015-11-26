@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The application of quantum mechanics to the structures and internal motions of molecules. The foundations of electronic, vibrational, rotational and NMR spectroscopy will be discussed together with their applications. Winter Term.",
-        "number": "322",
-        "subject": "ENCH",
+        "description": "The application of quantum mechanics to the structures and internal motions of molecules. The foundations of electronic, vibrational, rotational and NMR spectroscopy will be discussed together with their applications. Winter Term.", 
+        "number": "322", 
+        "subject": "ENCH", 
         "title": "Chem Bond: Comp & Spectro."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 42,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 42, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: ENCH 346 (CHEM 346) and registered in BSCE",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: ENCH 346 (CHEM 346) and registered in BSCE", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

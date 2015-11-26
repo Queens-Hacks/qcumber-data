@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction to marine science. Topics include: ocean basins and their sediments; seawater chemistry/biochemistry; ocean waves, tides and currents; ocean-atmosphere interaction; polar to tropical organism communities; marine resources; environmental concerns; global change.\nLEARNING HOURS\u00a0\u00a0\u00a0 114 (36L;12Pc;12O;48P)",
-        "number": "200",
-        "subject": "GEOL",
+        "description": "Introduction to marine science. Topics include: ocean basins and their sediments; seawater chemistry/biochemistry; ocean waves, tides and currents; ocean-atmosphere interaction; polar to tropical organism communities; marine resources; environmental concerns; global change.\nLEARNING HOURS\u00a0\u00a0\u00a0 114 (36L;12Pc;12O;48P)", 
+        "number": "200", 
+        "subject": "GEOL", 
         "title": "Oceanography"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHYS 104 or PHYS 106 or PHYS 107 or PHYS117 or CHEM 112 or CHEM 116 or BIOL 102 or BIOL 103 or GEOL 104 or GEOL 106 or GEOL 107.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHYS 104 or PHYS 106 or PHYS 107 or PHYS117 or CHEM 112 or CHEM 116 or BIOL 102 or BIOL 103 or GEOL 104 or GEOL 106 or GEOL 107.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

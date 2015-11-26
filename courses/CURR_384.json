@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Provides opportunities for teacher candidates to explore some of the topics briefly introduced in CURR 355 and CURR 383, but in much more detail. Topics include theoretical and practical issues regarding:\u00a0 i. literacy and numeracy teaching and learning in Kindergarten classrooms; ii. adolescent literacy and numeracy; iii. supporting students who struggle with literacy and numeracy competency and iv. literacy/numeracy connections that support learning.",
-        "number": "384",
-        "subject": "CURR",
+        "description": "Provides opportunities for teacher candidates to explore some of the topics briefly introduced in CURR 355 and CURR 383, but in much more detail. Topics include theoretical and practical issues regarding:\u00a0 i. literacy and numeracy teaching and learning in Kindergarten classrooms; ii. adolescent literacy and numeracy; iii. supporting students who struggle with literacy and numeracy competency and iv. literacy/numeracy connections that support learning.", 
+        "number": "384", 
+        "subject": "CURR", 
         "title": "Literacy and Numeracy"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

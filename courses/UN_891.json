@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "UNENE course number = UN 0901A nuclear reactor presents a unique environment in which materials must perform. In addition to the high temperatures and stresses to which materials are subjected in conventional applications, nuclear materials are subjected to various kinds of radiation which affect their performance, and often this dictates a requirement for a unique property (for example, a low cross section for thermal neutron absorption) that is not relevant in conventional applications. The effects of the radiation may be direct (e.g., the displacement of atoms from their normal positions by fast neutrons or fission fragments), or indirect (e.g., a more aggressive chemical environment caused by radiolytic decomposition). This course describes materials typically used in nuclear environments, the unique conditions to which they are subjected, the basic physical phenomena that affect their performance and the resulting design criteria for reactor components made from these materials. Queen\u00bfs University/R. Holt",
-        "number": "891",
-        "subject": "UN",
+        "description": "UNENE course number = UN 0901A nuclear reactor presents a unique environment in which materials must perform. In addition to the high temperatures and stresses to which materials are subjected in conventional applications, nuclear materials are subjected to various kinds of radiation which affect their performance, and often this dictates a requirement for a unique property (for example, a low cross section for thermal neutron absorption) that is not relevant in conventional applications. The effects of the radiation may be direct (e.g., the displacement of atoms from their normal positions by fast neutrons or fission fragments), or indirect (e.g., a more aggressive chemical environment caused by radiolytic decomposition). This course describes materials typically used in nuclear environments, the unique conditions to which they are subjected, the basic physical phenomena that affect their performance and the resulting design criteria for reactor components made from these materials. Queen\u00bfs University/R. Holt", 
+        "number": "891", 
+        "subject": "UN", 
         "title": "Nuclear Materials"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

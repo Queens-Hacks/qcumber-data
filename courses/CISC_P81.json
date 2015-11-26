@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Computers are changing our lives; this is a course for any student interested in learning about computing. It surveys many fields of computing science, presents case studies of fascinating examples of computers in use in diverse areas, from searching the world-wide web to medicine, and discusses the possibilities, limitations, and risks of computers.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
-        "number": "P81",
-        "subject": "CISC",
+        "description": "Computers are changing our lives; this is a course for any student interested in learning about computing. It surveys many fields of computing science, presents case studies of fascinating examples of computers in use in diverse areas, from searching the world-wide web to medicine, and discusses the possibilities, limitations, and risks of computers.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "P81", 
+        "subject": "CISC", 
         "title": "Computers: Applications and Implications"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "One-way exclusion\u00a0\u00a0\u00a0 May not be taken with or after CISC124.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "One-way exclusion\u00a0\u00a0\u00a0 May not be taken with or after CISC124.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

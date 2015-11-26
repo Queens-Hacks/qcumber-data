@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "(Technological Education Internship candidates only). The Ontario College of Teachers requires that teachers gaining certification in technological education demonstrate \"proof of... competence in the area... of technological studies selected as an option in the program of professional education\". Technological competence is demonstrated by completing an individualized program, typically in the form of projects, which permits each candidate to broaden and deepen their range of skills. Workshops, placements, upgrading courses and other such venues can also be negotiated with the course instructor. An introduction to (a) the Technology Skills Profile used to track the range and level of skills and (b) individual requirements/program for completion of the Technology Skills Profile.\u00a0Course expectations reflect the Standards of Practice for the teaching profession described by the Ontario College of Teachers. \u00a0",
-        "number": "212",
-        "subject": "FOCI",
+        "description": "(Technological Education Internship candidates only). The Ontario College of Teachers requires that teachers gaining certification in technological education demonstrate \"proof of... competence in the area... of technological studies selected as an option in the program of professional education\". Technological competence is demonstrated by completing an individualized program, typically in the form of projects, which permits each candidate to broaden and deepen their range of skills. Workshops, placements, upgrading courses and other such venues can also be negotiated with the course instructor. An introduction to (a) the Technology Skills Profile used to track the range and level of skills and (b) individual requirements/program for completion of the Technology Skills Profile.\u00a0Course expectations reflect the Standards of Practice for the teaching profession described by the Ontario College of Teachers. \u00a0", 
+        "number": "212", 
+        "subject": "FOCI", 
         "title": "Broad-Based Tech Ed, Pt 1"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "0.72"
     }
 }

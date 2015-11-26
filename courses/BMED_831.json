@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "For those with no histology background, an outline of basic vertebrate tissues. Extra assignments will be given to graduate students. Fall term. Lectures and laboratories in common with ANAT-309 in Fall Term. F.W.K. Kan EXCLUSION: ANAT-311, ANAT-309 , ANAT-831*",
-        "number": "831",
-        "subject": "BMED",
+        "description": "For those with no histology background, an outline of basic vertebrate tissues. Extra assignments will be given to graduate students. Fall term. Lectures and laboratories in common with ANAT-309 in Fall Term. F.W.K. Kan EXCLUSION: ANAT-311, ANAT-309 , ANAT-831*", 
+        "number": "831", 
+        "subject": "BMED", 
         "title": "Cell Structure and Basic Tissues"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

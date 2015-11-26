@@ -1,35 +1,35 @@
 {
-    "_unique": "003-LAB (3718)",
+    "_unique": "003-LAB (3718)", 
     "availability": {
-        "class_curr": 100,
-        "class_max": 107,
-        "wait_curr": 0,
+        "class_curr": 98, 
+        "class_max": 107, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "460A",
-        "season": "Fall",
-        "solus_id": "3718",
-        "status": "Open",
-        "subject": "CIVL",
-        "type": "LAB",
+        "class_num": "003", 
+        "course": "460A", 
+        "season": "Fall", 
+        "solus_id": "3718", 
+        "status": "Open", 
+        "subject": "CIVL", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-12-04",
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

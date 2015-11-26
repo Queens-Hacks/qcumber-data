@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "The objective of this course is to achieve a knowledge and understanding of a wide variety of manufacturing processes involving plastics and metals. This course forms the basis for improved product and machine design, and will assist the mechanical engineer to function in the areas of design, manufacturing and general engineering. Training in the use of machine and welding tools found in a modern job shop is a required activity practiced in the machine tool laboratory. Note: It is highly advised that MME students take MECH 270 concurrently with this course.",
-        "number": "213",
-        "subject": "MECH",
+        "description": "The objective of this course is to achieve a knowledge and understanding of a wide variety of manufacturing processes involving plastics and metals. This course forms the basis for improved product and machine design, and will assist the mechanical engineer to function in the areas of design, manufacturing and general engineering. Training in the use of machine and welding tools found in a modern job shop is a required activity practiced in the machine tool laboratory. Note: It is highly advised that MME students take MECH 270 concurrently with this course.", 
+        "number": "213", 
+        "subject": "MECH", 
         "title": "Manufacturing Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 18,
-            "Eng Sci": 36,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 36, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

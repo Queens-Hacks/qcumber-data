@@ -1,35 +1,35 @@
 {
-    "_unique": "003-TUT (1404)",
+    "_unique": "003-TUT (1404)", 
     "availability": {
-        "class_curr": 49,
-        "class_max": 63,
-        "wait_curr": 0,
+        "class_curr": 62, 
+        "class_max": 63, 
+        "wait_curr": 1, 
         "wait_max": 6
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "218",
-        "season": "Winter",
-        "solus_id": "1404",
-        "status": "Open",
-        "subject": "BCHM",
-        "type": "TUT",
+        "class_num": "003", 
+        "course": "218", 
+        "season": "Winter", 
+        "solus_id": "1404", 
+        "status": "Open", 
+        "subject": "BCHM", 
+        "type": "TUT", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "09:30:00",
-            "instructors": [],
-            "location": "JEFFERY RM225",
-            "start_time": "08:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 1, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM225", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

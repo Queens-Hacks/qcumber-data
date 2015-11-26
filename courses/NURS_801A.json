@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A course for all graduate students focussing on issues in the conduct of research. The course includes presentations by visiting scientists, faculty, and current students as well as lectures and discussions. Assessment will be based on satisfactory completion of course requirements (Pass/Fail).",
-        "number": "801A",
-        "subject": "NURS",
+        "description": "A course for all graduate students focussing on issues in the conduct of research. The course includes presentations by visiting scientists, faculty, and current students as well as lectures and discussions. Assessment will be based on satisfactory completion of course requirements (Pass/Fail).", 
+        "number": "801A", 
+        "subject": "NURS", 
         "title": "Topics In Nursing Research A"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Pass/Fail",
+        }, 
+        "grading_basis": "Pass/Fail", 
         "units": "0.00"
     }
 }

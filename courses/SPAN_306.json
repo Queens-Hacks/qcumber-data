@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A study of selected works by Spanish American writers such as Horacio Quiroga, Gabriel Garc\u00eda M\u00e1rquez, Jorge Luis Borges, Juan Rulfo, Julio Cort\u00e1zar and Reinaldo Arenas.",
-        "number": "306",
-        "subject": "SPAN",
+        "description": "A study of selected works by Spanish American writers such as Horacio Quiroga, Gabriel Garc\u00eda M\u00e1rquez, Jorge Luis Borges, Juan Rulfo, Julio Cort\u00e1zar and Reinaldo Arenas.", 
+        "number": "306", 
+        "subject": "SPAN", 
         "title": "La narrativa hispanoamericana del siglo 20"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 SPAN251 or SPAN352.\r\nCorequisites\u00a0\u00a0\u00a0 (SPAN301 and SPAN302) or (SPAN303 and SPAN304).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 SPAN251 or SPAN352.\r\nCorequisites\u00a0\u00a0\u00a0 (SPAN301 and SPAN302) or (SPAN303 and SPAN304).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

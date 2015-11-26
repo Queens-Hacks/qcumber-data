@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course will provide students with a detailed discussion of the key types of fixed income instruments available to investors and companies, and a discussion of the fixed income markets. Topics will include among others; traditional bond characteristics such as callable, retractable and convertible options; bond yield determinants; bond pricing considerations the term structure of interest rates; interest rate risk and reinvestment risk; assessing credit risk; valuing fixed income instruments with embedded options; loan sales; structured products; and, mortgage- and asset- backed securities.",
-        "number": "829",
-        "subject": "MFIN",
+        "description": "This course will provide students with a detailed discussion of the key types of fixed income instruments available to investors and companies, and a discussion of the fixed income markets. Topics will include among others; traditional bond characteristics such as callable, retractable and convertible options; bond yield determinants; bond pricing considerations the term structure of interest rates; interest rate risk and reinvestment risk; assessing credit risk; valuing fixed income instruments with embedded options; loan sales; structured products; and, mortgage- and asset- backed securities.", 
+        "number": "829", 
+        "subject": "MFIN", 
         "title": "Fixed Income Instruments and Markets"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

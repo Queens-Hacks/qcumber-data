@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course introduces the basics of numerical analysis and the use of computer software (MATLAB) for civil engineering analysis. Error analysis, numerical differentiation and integration, root finding, derivation and numerical solution of partial differential equations using finite difference methods, and optimization are among the topics covered. All problems emphasize engineering applications.",
-        "number": "222",
-        "subject": "CIVL",
+        "description": "This course introduces the basics of numerical analysis and the use of computer software (MATLAB) for civil engineering analysis. Error analysis, numerical differentiation and integration, root finding, derivation and numerical solution of partial differential equations using finite difference methods, and optimization are among the topics covered. All problems emphasize engineering applications.", 
+        "number": "222", 
+        "subject": "CIVL", 
         "title": "Numerical Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 15,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 15, 
             "Math": 45
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITES: MTHE 224 or MTHE 225 or MTHE 226 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITES: MTHE 224 or MTHE 225 or MTHE 226 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "5.00"
     }
 }

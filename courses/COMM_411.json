@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course focuses on the analysis of financial information, particularly the information contained in firms\u00bf financial statements, for making investment decisions. The primary focus is on determining the value of equity shares. The course begins with a comparison of various valuation models used in practice, and develops a comprehensive valuation model based on accrual accounting numbers. This is followed by a detailed analysis of balance sheets and income statements, profitability and sustainable growth, accounting quality, and forecasting financial statement data.",
-        "number": "411",
-        "subject": "COMM",
+        "description": "This course focuses on the analysis of financial information, particularly the information contained in firms\u00bf financial statements, for making investment decisions. The primary focus is on determining the value of equity shares. The course begins with a comparison of various valuation models used in practice, and develops a comprehensive valuation model based on accrual accounting numbers. This is followed by a detailed analysis of balance sheets and income statements, profitability and sustainable growth, accounting quality, and forecasting financial statement data.", 
+        "number": "411", 
+        "subject": "COMM", 
         "title": "Fin Acct Anal\u00a0 Acct Based Eval"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of 6 Units from COMM111, COMM121 and COMM221 and registered in a BCOM Academic Program, or registered in a COMM-X Academic Plan.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of 6 Units from COMM111, COMM121 and COMM221 and registered in a BCOM Academic Program, or registered in a COMM-X Academic Plan.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

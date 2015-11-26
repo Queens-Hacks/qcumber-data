@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Upper-year J.D. or combined J.D. student selected as an oralist for an approved moot held in the fall or winter term and who has a previous registration in LAW-473, will be registered in LAW-495 for three upper-year credit units to be graded on a letter grade basis by the faculty supervisor upon completion of the moot. LAW-495 must be added during the period for open enrolment at the beginning of the fall term or at the beginning or the winter term for a winter term moot. If the selection is made after expiry of the open enrolment period for the relevant term, permission for late enrollment must be sought from the Assistant Dean of Students on behalf of the Academic Standing and Policies Committee.\r\nThree upper-year credit units, fall or winter term",
-        "number": "495",
-        "subject": "LAW",
+        "description": "Upper-year J.D. or combined J.D. student selected as an oralist for an approved moot held in the fall or winter term and who has a previous registration in LAW-473, will be registered in LAW-495 for three upper-year credit units to be graded on a letter grade basis by the faculty supervisor upon completion of the moot. LAW-495 must be added during the period for open enrolment at the beginning of the fall term or at the beginning or the winter term for a winter term moot. If the selection is made after expiry of the open enrolment period for the relevant term, permission for late enrollment must be sought from the Assistant Dean of Students on behalf of the Academic Standing and Policies Committee.\r\nThree upper-year credit units, fall or winter term", 
+        "number": "495", 
+        "subject": "LAW", 
         "title": "Competitive Moot II Oralist"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

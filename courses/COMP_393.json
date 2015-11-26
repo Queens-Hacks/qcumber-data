@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A Computing Internship involves spending twelve to sixteen months in a paid internship position in the private or public sectors. Students in a 12-month internship register in COMP 390/6.0 and either COMP 391/3.0 or COMP 392/3.0, or all of COMP 393/3.0, COMP 391/3.0 and COMP 392/3.0. Students in a 16-month internship register in COMP 390/6.0, COMP 391/3.0 and COMP 392/3.0. The Internship Coordinator must be satisfied that the work carried out has educational merit. Successful completion of the course requires submission of a satisfactory report on the experience within thirty days of completion of the work period. The Internship Coordinator is responsible for evaluating the report. The QUIP program includes prior workshops on interviewing, resum\u00e9 preparation and work performance. Career Services manages the non-academic aspects of the program.",
-        "number": "393",
-        "subject": "COMP",
+        "description": "A Computing Internship involves spending twelve to sixteen months in a paid internship position in the private or public sectors. Students in a 12-month internship register in COMP 390/6.0 and either COMP 391/3.0 or COMP 392/3.0, or all of COMP 393/3.0, COMP 391/3.0 and COMP 392/3.0. Students in a 16-month internship register in COMP 390/6.0, COMP 391/3.0 and COMP 392/3.0. The Internship Coordinator must be satisfied that the work carried out has educational merit. Successful completion of the course requires submission of a satisfactory report on the experience within thirty days of completion of the work period. The Internship Coordinator is responsible for evaluating the report. The QUIP program includes prior workshops on interviewing, resum\u00e9 preparation and work performance. Career Services manages the non-academic aspects of the program.", 
+        "number": "393", 
+        "subject": "COMP", 
         "title": "Computing Internship IV"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GPA of 1.90 and Level 2 or above and registration in in BCMPH internship plan (BMCO-I-BCH or COGS-I-BCH or COMA-I-BCH or COMP-I-BCH or CSCI-I-BCH or SODE-I-BCH).",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GPA of 1.90 and Level 2 or above and registration in in BCMPH internship plan (BMCO-I-BCH or COGS-I-BCH or COMA-I-BCH or COMP-I-BCH or CSCI-I-BCH or SODE-I-BCH).", 
+        "grading_basis": "Pass/Fail", 
         "units": "3.00"
     }
 }

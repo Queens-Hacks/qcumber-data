@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Laboratory course introducing modern experimental methods in chemistry, including synthesis, analytical instrumentation and computational methods. The integration of several methods will be emphasized in the synthesis and characterization of molecules. \nLEARNING HOURS\u00a0\u00a0\u00a0 300 (144Lb;12T:144P)",
-        "number": "397A",
-        "subject": "CHEM",
+        "description": "Laboratory course introducing modern experimental methods in chemistry, including synthesis, analytical instrumentation and computational methods. The integration of several methods will be emphasized in the synthesis and characterization of molecules. \nLEARNING HOURS\u00a0\u00a0\u00a0 300 (144Lb;12T:144P)", 
+        "number": "397A", 
+        "subject": "CHEM", 
         "title": "Experimental Chemistry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Tutorial": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 12.0 units at the 200 level in CHEM, including CHEM222 and CHEM223.\r\nCorequisite\u00a0\u00a0\u00a0 6.0 units at the 300 level in CHEM.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from CHEM397; CHEM398; CHEM399.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 12.0 units at the 200 level in CHEM, including CHEM222 and CHEM223.\r\nCorequisite\u00a0\u00a0\u00a0 6.0 units at the 300 level in CHEM.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from CHEM397; CHEM398; CHEM399.", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Continuation of DRAM 251/3.0. An intermediate study of playwriting and dramaturgy, including exercises in dramatic techniques and composition of original works.",
-        "number": "350B",
-        "subject": "DRAM",
+        "description": "Continuation of DRAM 251/3.0. An intermediate study of playwriting and dramaturgy, including exercises in dramatic techniques and composition of original works.", 
+        "number": "350B", 
+        "subject": "DRAM", 
         "title": "Playwriting III"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "The course gives students an introduction to multivariate and multilevel statistical modeling. After a thorough review of multiple regression analysis including interactions, non-linear relationships, and mediation, students learn the basics of analyzing data with a nested structure, such as individuals within groups or observations within individuals. Lectures 1 x 3 hours",
-        "number": "894",
-        "subject": "KHS",
+        "description": "The course gives students an introduction to multivariate and multilevel statistical modeling. After a thorough review of multiple regression analysis including interactions, non-linear relationships, and mediation, students learn the basics of analyzing data with a nested structure, such as individuals within groups or observations within individuals. Lectures 1 x 3 hours", 
+        "number": "894", 
+        "subject": "KHS", 
         "title": "App Multivariate Data Analysis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Analytical methods for nonlinear systems; nonlinear difference equation models:\u00a0\u00a0functional expansions and Volterra, Wiener and Fourier-Hermite kernels; kernel estimation techniques; identification of cascades of linear and static nonlinear systems; use of Volterra series to find region of stability of nonlinear differential equations; applications to pattern recognition, communications, physiological systems, and non-destructive testing. Three term-hours; lectures, Fall. M.J. Korenberg",
-        "number": "841",
-        "subject": "ELEC",
+        "description": "Analytical methods for nonlinear systems; nonlinear difference equation models:\u00a0\u00a0functional expansions and Volterra, Wiener and Fourier-Hermite kernels; kernel estimation techniques; identification of cascades of linear and static nonlinear systems; use of Volterra series to find region of stability of nonlinear differential equations; applications to pattern recognition, communications, physiological systems, and non-destructive testing. Three term-hours; lectures, Fall. M.J. Korenberg", 
+        "number": "841", 
+        "subject": "ELEC", 
         "title": "Nonlinear Sys. Identification"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

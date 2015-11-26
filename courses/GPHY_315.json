@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Methods of measurement and management of environmental data including energy and radiation fluxes, temperature, humidity, wind precipitation, and soil moisture. Practical work involves the design and implementation of a field experiment.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)",
-        "number": "315",
-        "subject": "GPHY",
+        "description": "Methods of measurement and management of environmental data including energy and radiation fluxes, temperature, humidity, wind precipitation, and soil moisture. Practical work involves the design and implementation of a field experiment.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)", 
+        "number": "315", 
+        "subject": "GPHY", 
         "title": "Environmental Measurements: Data Collection and Management"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of 6.0 at\u00a0 the 200-level or above in GPHY_Physical, or permission of the Department.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of 6.0 at\u00a0 the 200-level or above in GPHY_Physical, or permission of the Department.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

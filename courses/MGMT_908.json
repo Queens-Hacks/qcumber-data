@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "In this course, students are introduced to the social networks perspective for analyzing organizational phenomena. Social networks refer to the structure of relationships among individuals, groups, and organizations. The patterns of relationships influence behavior and performance. For example, favorable positions in the network structure are associated with power and influence, innovation and creativity, leadership effectiveness, organizational learning, innovation adoption, firm survival, and organizational performance. The first half of each class will cover theoretical analysis of network constructs such as small worlds, centrality, cohesion, clusters, and structural equivalence. The second part will include a workshop on social network methods and statistical analysis using UCINET software. The workshop will cover topics such as research design, data collection, data management, network measures, hypotheses testing, and visualization. (1.5 credit units)",
-        "number": "908",
-        "subject": "MGMT",
+        "description": "In this course, students are introduced to the social networks perspective for analyzing organizational phenomena. Social networks refer to the structure of relationships among individuals, groups, and organizations. The patterns of relationships influence behavior and performance. For example, favorable positions in the network structure are associated with power and influence, innovation and creativity, leadership effectiveness, organizational learning, innovation adoption, firm survival, and organizational performance. The first half of each class will cover theoretical analysis of network constructs such as small worlds, centrality, cohesion, clusters, and structural equivalence. The second part will include a workshop on social network methods and statistical analysis using UCINET software. The workshop will cover topics such as research design, data collection, data management, network measures, hypotheses testing, and visualization. (1.5 credit units)", 
+        "number": "908", 
+        "subject": "MGMT", 
         "title": "Social Network Theory and Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

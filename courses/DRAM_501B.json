@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An independent advanced project in any area of the basic curriculum, supervised and evaluated by faculty. Completed applications must be submitted for Department approval by 15 March of students, third year. Consult faculty advisors or supervisors for detailed information well in advance of the deadline. \r\nNOTE\u00a0\u00a0\u00a0 In addition to the prerequisites indicated below, the department may require a grade of A- in any DRAM course relevant to the subject of study.",
-        "number": "501B",
-        "subject": "DRAM",
+        "description": "An independent advanced project in any area of the basic curriculum, supervised and evaluated by faculty. Completed applications must be submitted for Department approval by 15 March of students, third year. Consult faculty advisors or supervisors for detailed information well in advance of the deadline. \r\nNOTE\u00a0\u00a0\u00a0 In addition to the prerequisites indicated below, the department may require a grade of A- in any DRAM course relevant to the subject of study.", 
+        "number": "501B", 
+        "subject": "DRAM", 
         "title": "Directed Special Studies"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A GPA of 2.9 in 30 units in DRAM",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 A GPA of 2.9 in 30 units in DRAM", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

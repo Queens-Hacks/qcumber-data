@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The electrophysiology and biophysics of neuronal and cardiac membranes; molecular biology, structure, and function of ion channels. Students will learn to critically evaluate scientific literature.\u00a0Instructional format is primarily student-led seminars.",
-        "number": "424",
-        "subject": "PHGY",
+        "description": "The electrophysiology and biophysics of neuronal and cardiac membranes; molecular biology, structure, and function of ion channels. Students will learn to critically evaluate scientific literature.\u00a0Instructional format is primarily student-led seminars.", 
+        "number": "424", 
+        "subject": "PHGY", 
         "title": "Ion Channels of Excitable Cells"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (A minimum grade of C in: PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0) and Level 4 in a LISC Major or Specialization Plan) and (a GPA of 2.5), or permission fo the course coordinator.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (A minimum grade of C in: PHGY 210/6.0 or PHGY 212/6.0 or PHGY 214/6.0) and Level 4 in a LISC Major or Specialization Plan) and (a GPA of 2.5), or permission fo the course coordinator.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

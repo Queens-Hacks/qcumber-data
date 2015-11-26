@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The origin, composition and diagenesis of carbonate rocks. Study of modern carbonate sediments and depositional environments; development of facies models; petrographic and geochemical analysis of limestones and dolostones. Required extended field trip during term.",
-        "number": "368",
-        "subject": "GEOE",
+        "description": "The origin, composition and diagenesis of carbonate rocks. Study of modern carbonate sediments and depositional environments; development of facies models; petrographic and geochemical analysis of limestones and dolostones. Required extended field trip during term.", 
+        "number": "368", 
+        "subject": "GEOE", 
         "title": "Carbonate Sedimentology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 36,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 18,
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 18, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: GEOE 238 or GEOL 238 or permission of the department. Must also be registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 238 or GEOL 238 or permission of the department. Must also be registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An interdisciplinary course on analytical writing, applying selected principles of rhetoric and linguistics. Collaborative exercises and peer-edited essays are supplemented by critical reading of diverse articles and narratives. Enrolment is limited.",
-        "number": "275",
-        "subject": "WRIT",
+        "description": "An interdisciplinary course on analytical writing, applying selected principles of rhetoric and linguistics. Collaborative exercises and peer-edited essays are supplemented by critical reading of diverse articles and narratives. Enrolment is limited.", 
+        "number": "275", 
+        "subject": "WRIT", 
         "title": "Analytical Writing"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 WRIT175 or permission of the instructor",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 WRIT175 or permission of the instructor", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,44 +1,44 @@
 {
-    "_unique": "215-TUT (5571)",
+    "_unique": "215-TUT (5571)", 
     "availability": {
-        "class_curr": 60,
-        "class_max": 54,
-        "wait_curr": 0,
+        "class_curr": 59, 
+        "class_max": 54, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "215",
-        "course": "112",
-        "season": "Winter",
-        "solus_id": "5571",
-        "status": "Closed",
-        "subject": "APSC",
-        "type": "TUT",
+        "class_num": "215", 
+        "course": "112", 
+        "season": "Winter", 
+        "solus_id": "5571", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "TUT", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "10:30:00",
-            "instructors": [],
-            "location": "STIRLING RM414",
-            "start_time": "09:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM414", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 3,
-            "end_time": "10:30:00",
-            "instructors": [],
-            "location": "STIRLING RM412B",
-            "start_time": "09:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM412B", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students will perform in a public recital in accordance with guidelines established by the School of Music.",
-        "number": "225A",
-        "subject": "MUSC",
+        "description": "Students will perform in a public recital in accordance with guidelines established by the School of Music.", 
+        "number": "225A", 
+        "subject": "MUSC", 
         "title": "Applied Study II (Performance Recital)"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Exam": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BMUS only\r\nCorequisite\u00a0\u00a0\u00a0 MUSC220\r\nExclusion\u00a0\u00a0\u00a0 No more than 6 units from MUSC221 ; MUSC225",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 BMUS only\r\nCorequisite\u00a0\u00a0\u00a0 MUSC220\r\nExclusion\u00a0\u00a0\u00a0 No more than 6 units from MUSC221 ; MUSC225", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

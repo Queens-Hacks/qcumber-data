@@ -1,35 +1,35 @@
 {
-    "_unique": "003-TUT (2746)",
+    "_unique": "003-TUT (2746)", 
     "availability": {
-        "class_curr": 52,
-        "class_max": 52,
-        "wait_curr": 0,
+        "class_curr": 52, 
+        "class_max": 52, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "310",
-        "season": "Fall",
-        "solus_id": "2746",
-        "status": "Closed",
-        "subject": "CHEE",
-        "type": "TUT",
+        "class_num": "003", 
+        "course": "310", 
+        "season": "Fall", 
+        "solus_id": "2746", 
+        "status": "Closed", 
+        "subject": "CHEE", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "14:30:00",
-            "instructors": [],
-            "location": "DUPUIS RM215",
-            "start_time": "13:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "DUPUIS RM215", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

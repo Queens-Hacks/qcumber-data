@@ -1,48 +1,48 @@
 {
-    "_unique": "001-LEC (4044)",
+    "_unique": "001-LEC (4044)", 
     "availability": {
-        "class_curr": 63,
-        "class_max": 120,
-        "wait_curr": 0,
+        "class_curr": 120, 
+        "class_max": 120, 
+        "wait_curr": 3, 
         "wait_max": 12
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "331",
-        "season": "Winter",
-        "solus_id": "4044",
-        "status": "Open",
-        "subject": "KNPE",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "331", 
+        "season": "Winter", 
+        "solus_id": "4044", 
+        "status": null, 
+        "subject": "KNPE", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "16:30:00",
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
             "instructors": [
                 "Ross, David M"
-            ],
-            "location": "KINES & HLTH RM100",
-            "start_time": "15:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "KINES & HLTH RM100", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "15:30:00",
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
             "instructors": [
                 "Ross, David M"
-            ],
-            "location": "KINES & HLTH RM100",
-            "start_time": "14:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "KINES & HLTH RM100", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

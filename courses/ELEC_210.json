@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introductory course for engineering students in disciplines other than electrical or computer engineering. The course begins with a review of the concepts of resistance, capacitance, and inductance. Circuit analysis techniques are then applied to characterize the behaviour of commonly used electrical energy conversion devices such as transformers, dc machines, and induction and synchronous machines.",
-        "number": "210",
-        "subject": "ELEC",
+        "description": "An introductory course for engineering students in disciplines other than electrical or computer engineering. The course begins with a review of the concepts of resistance, capacitance, and inductance. Circuit analysis techniques are then applied to characterize the behaviour of commonly used electrical energy conversion devices such as transformers, dc machines, and induction and synchronous machines.", 
+        "number": "210", 
+        "subject": "ELEC", 
         "title": "Intro Elec Circuits & Machines"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 51,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 51, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of APSC111 and APSC112 and APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC111 and APSC112 and APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.25"
     }
 }

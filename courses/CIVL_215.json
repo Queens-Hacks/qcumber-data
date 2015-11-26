@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The basic engineering properties, micro/macro structure, behaviour and applications of various civil engineering materials will be studied including materials used in structural engineering.\u00a0\u00a0 This will include steel, concrete, timber, polymers, composites and soil.\u00a0\u00a0 Interaction between materials will be examined.\u00a0\u00a0 Laboratory experiments will be used to demonstrate material behaviour.\u00a0\u00a0 PPE will be required for this course at student's cost (see course materials for details).",
-        "number": "215",
-        "subject": "CIVL",
+        "description": "The basic engineering properties, micro/macro structure, behaviour and applications of various civil engineering materials will be studied including materials used in structural engineering.\u00a0\u00a0 This will include steel, concrete, timber, polymers, composites and soil.\u00a0\u00a0 Interaction between materials will be examined.\u00a0\u00a0 Laboratory experiments will be used to demonstrate material behaviour.\u00a0\u00a0 PPE will be required for this course at student's cost (see course materials for details).", 
+        "number": "215", 
+        "subject": "CIVL", 
         "title": "Materials For Civil Engineers"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 12,
-            "Comp St": 0,
-            "Eng Des": 10,
-            "Eng Sci": 32,
+            "Basic Sci": 12, 
+            "Comp St": 0, 
+            "Eng Des": 10, 
+            "Eng Sci": 32, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of APSC151 or CIVL202 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC151 or CIVL202 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

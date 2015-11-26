@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An advanced investigation of the current state of knowledge of processes related to the physical environment in northern settings, with the emphasis on permafrost, water and landscape interactions. Themes will include: climate and permafrost dynamics, periglacial geomorphology, hydrology, limnology.",
-        "number": "824",
-        "subject": "GPHY",
+        "description": "An advanced investigation of the current state of knowledge of processes related to the physical environment in northern settings, with the emphasis on permafrost, water and landscape interactions. Themes will include: climate and permafrost dynamics, periglacial geomorphology, hydrology, limnology.", 
+        "number": "824", 
+        "subject": "GPHY", 
         "title": "Processes in Northern Regions"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

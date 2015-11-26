@@ -1,35 +1,35 @@
 {
-    "_unique": "002-TUT (6873)",
+    "_unique": "002-TUT (6873)", 
     "availability": {
-        "class_curr": 35,
-        "class_max": 65,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
+        "class_curr": 46, 
+        "class_max": 65, 
+        "wait_curr": 0, 
+        "wait_max": 2
+    }, 
     "basic": {
-        "class_num": "002",
-        "course": "338",
-        "season": "Fall",
-        "solus_id": "6873",
-        "status": "Open",
-        "subject": "MTHE",
-        "type": "TUT",
+        "class_num": "002", 
+        "course": "338", 
+        "season": "Fall", 
+        "solus_id": "6873", 
+        "status": "Open", 
+        "subject": "MTHE", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "14:30:00",
-            "instructors": [],
-            "location": "JEFFERY RM225",
-            "start_time": "13:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM225", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

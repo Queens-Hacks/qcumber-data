@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course deals with the fundamental concepts of solid state materials and the principles of operation of modern electronic and optoelectronic devices. Topics in materials include crystal structure, energy bands, carrier processes and junctions. Topics in device operation include p-n junction diodes, bipolar junction transistors, field-effect junction transistors, metal-oxide-semiconductor field-effect transistors, and double heterojunction lasers.(0/18/0/21/0)",
-        "number": "336",
-        "subject": "PHYS",
+        "description": "This course deals with the fundamental concepts of solid state materials and the principles of operation of modern electronic and optoelectronic devices. Topics in materials include crystal structure, energy bands, carrier processes and junctions. Topics in device operation include p-n junction diodes, bipolar junction transistors, field-effect junction transistors, metal-oxide-semiconductor field-effect transistors, and double heterojunction lasers.(0/18/0/21/0)", 
+        "number": "336", 
+        "subject": "PHYS", 
         "title": "Solid State Devices"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Exclusion: PHYS335.\u00a0 Prerequisite of ELEC252 and (ELEC280 or PHYS231) and registration in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusion: PHYS335.\u00a0 Prerequisite of ELEC252 and (ELEC280 or PHYS231) and registration in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.25"
     }
 }

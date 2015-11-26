@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course introduces a number of topics in the field of medical physics. Included are: the physics of radiation therapy, ultrasound imaging, magnetic resonance imaging, x-ray imaging, radioisotope imaging and image reconstruction techniques.",
-        "number": "858",
-        "subject": "PHYS",
+        "description": "This course introduces a number of topics in the field of medical physics. Included are: the physics of radiation therapy, ultrasound imaging, magnetic resonance imaging, x-ray imaging, radioisotope imaging and image reconstruction techniques.", 
+        "number": "858", 
+        "subject": "PHYS", 
         "title": "Introduction - Medical Physics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

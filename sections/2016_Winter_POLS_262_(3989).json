@@ -1,35 +1,35 @@
 {
-    "_unique": "011-TUT (3989)",
+    "_unique": "011-TUT (3989)", 
     "availability": {
-        "class_curr": 8,
-        "class_max": 25,
-        "wait_curr": 0,
+        "class_curr": 14, 
+        "class_max": 25, 
+        "wait_curr": 0, 
         "wait_max": 3
-    },
+    }, 
     "basic": {
-        "class_num": "011",
-        "course": "262",
-        "season": "Winter",
-        "solus_id": "3989",
-        "status": "Open",
-        "subject": "POLS",
-        "type": "TUT",
+        "class_num": "011", 
+        "course": "262", 
+        "season": "Winter", 
+        "solus_id": "3989", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "14:30:00",
-            "instructors": [],
-            "location": "MACINTOSH-CORRY RM C508",
-            "start_time": "13:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM C508", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A study selected by the student under the guidance of a member of the graduate faculty. Normally, this half course will take the form of a closely supervised reading course in the area of the instructor\u00bfs expertise.",
-        "number": "997",
-        "subject": "EDUC",
+        "description": "A study selected by the student under the guidance of a member of the graduate faculty. Normally, this half course will take the form of a closely supervised reading course in the area of the instructor\u00bfs expertise.", 
+        "number": "997", 
+        "subject": "EDUC", 
         "title": "Individual Study"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

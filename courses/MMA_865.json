@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "In this course, we discuss methods for knowledge discovery and predictive analysis using very large data sets (for example, click-stream and social network data).\u00a0 The course surveys statistical and machine learning techniques appropriate for different types of data as well as key technologies and applications that are driving the big data revolution.\u00a0 We contrast traditional and emerging NoSQL database technologies (e.g. SQL versus the MapReduce framework) and examine how Big Data affects interactions with IT departments within organizations.\u00a0 The course also provides a foundation for using predictive models in data-driven decision making.",
-        "number": "865",
-        "subject": "MMA",
+        "description": "In this course, we discuss methods for knowledge discovery and predictive analysis using very large data sets (for example, click-stream and social network data).\u00a0 The course surveys statistical and machine learning techniques appropriate for different types of data as well as key technologies and applications that are driving the big data revolution.\u00a0 We contrast traditional and emerging NoSQL database technologies (e.g. SQL versus the MapReduce framework) and examine how Big Data affects interactions with IT departments within organizations.\u00a0 The course also provides a foundation for using predictive models in data-driven decision making.", 
+        "number": "865", 
+        "subject": "MMA", 
         "title": "Big Data"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

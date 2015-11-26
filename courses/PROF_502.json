@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course will examine the history, culture, and diversity of Aboriginal Canadians.\u00a0 It will also introduce teacher candidates to the concept of culture-based education, and will aid them in finding ways to integrate Aboriginal perspectives into their classrooms.\u00a0 Finally, it will discuss the realities of life in Northern Canada.",
-        "number": "502",
-        "subject": "PROF",
+        "description": "This course will examine the history, culture, and diversity of Aboriginal Canadians.\u00a0 It will also introduce teacher candidates to the concept of culture-based education, and will aid them in finding ways to integrate Aboriginal perspectives into their classrooms.\u00a0 Finally, it will discuss the realities of life in Northern Canada.", 
+        "number": "502", 
+        "subject": "PROF", 
         "title": "Introduction to Aboriginal Studies for Teachers"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.00"
     }
 }

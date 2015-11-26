@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Guidance in the development of the student as a composer of electroacoustic music. \r\nNOTE\u00a0\u00a0\u00a0 Students must submit in writing to the School of Music Office their request to apply for this course by the last day of classes in the Winter Term.",
-        "number": "355A",
-        "subject": "MUSC",
+        "description": "Guidance in the development of the student as a composer of electroacoustic music. \r\nNOTE\u00a0\u00a0\u00a0 Students must submit in writing to the School of Music Office their request to apply for this course by the last day of classes in the Winter Term.", 
+        "number": "355A", 
+        "subject": "MUSC", 
         "title": "Electroacoustic Composition"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "enrollment_requirement": "MUSC255",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "MUSC255", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

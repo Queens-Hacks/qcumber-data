@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Directed study under the guidance of a faculty member in an area of the instructor's expertise. Permission of instructor and graduate coordinator in English is required in advance of registration and is granted only under special circumstances. Workload and evaluation for the course must be approved by the graduate coordinator in English to ensure consistency with English graduate course norms. (Available only to students enrolled in the English PhD program.)",
-        "number": "995",
-        "subject": "ENGL",
+        "description": "Directed study under the guidance of a faculty member in an area of the instructor's expertise. Permission of instructor and graduate coordinator in English is required in advance of registration and is granted only under special circumstances. Workload and evaluation for the course must be approved by the graduate coordinator in English to ensure consistency with English graduate course norms. (Available only to students enrolled in the English PhD program.)", 
+        "number": "995", 
+        "subject": "ENGL", 
         "title": "Directed Reading"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Advanced immunology course focused on current topics in immunology and immunology-related scientific research.",
-        "number": "461",
-        "subject": "MICR",
+        "description": "Advanced immunology course focused on current topics in immunology and immunology-related scientific research.", 
+        "number": "461", 
+        "subject": "MICR", 
         "title": "Advanced Immunology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (MICR 360/3.0 with a minimum grade of A-) and (Level 4 and registration in the LISC Major or Specialization Plan) and (a GPA of 2.5) or permission of the course coordinator.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (MICR 360/3.0 with a minimum grade of A-) and (Level 4 and registration in the LISC Major or Specialization Plan) and (a GPA of 2.5) or permission of the course coordinator.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

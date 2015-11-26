@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics include: arithmetic coding, universal lossless coding, Lempel-Ziv and related dictionary based methods, rate-distortion theory, scalar and vector quantization, predictive and transform coding, applications to speech and image coding.",
-        "number": "477",
-        "subject": "MTHE",
+        "description": "Topics include: arithmetic coding, universal lossless coding, Lempel-Ziv and related dictionary based methods, rate-distortion theory, scalar and vector quantization, predictive and transform coding, applications to speech and image coding.", 
+        "number": "477", 
+        "subject": "MTHE", 
         "title": "Data Compression & Source Codi"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 15,
-            "Eng Sci": 21,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 15, 
+            "Eng Sci": 21, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MTHE 474 or MATH 474 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 474 or MATH 474 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

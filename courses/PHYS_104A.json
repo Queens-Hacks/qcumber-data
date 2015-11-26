@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Mechanics, including systems of particles and rigid body motion; gravitation; fluids; electricity and magnetism; oscillatory motion and waves; topics in modern physics. The material is presented at a more fundamental level appropriate for students who are seeking a deeper appreciation of physics, and who may be considering a concentration in Physics.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;36Lb;36T;96P)\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Physics is required.",
-        "number": "104A",
-        "subject": "PHYS",
+        "description": "Mechanics, including systems of particles and rigid body motion; gravitation; fluids; electricity and magnetism; oscillatory motion and waves; topics in modern physics. The material is presented at a more fundamental level appropriate for students who are seeking a deeper appreciation of physics, and who may be considering a concentration in Physics.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;36Lb;36T;96P)\nRECOMMENDATION\u00a0\u00a0\u00a0 4U Physics is required.", 
+        "number": "104A", 
+        "subject": "PHYS", 
         "title": "Fundamental Physics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture / Discussion": "Required"
-        },
-        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or (MATH123 and MATH124).\r\nExclusions\u00a0\u00a0\u00a0 No more than 6.0 units from PHYS104; PHYS106; PHYS107; PHYS117.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or (MATH123 and MATH124).\r\nExclusions\u00a0\u00a0\u00a0 No more than 6.0 units from PHYS104; PHYS106; PHYS107; PHYS117.", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

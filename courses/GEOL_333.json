@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to the principles of geomorphology relevant to Geological Sciences and Geological Engineering. Identification and evaluation of terrain features using analog and digital imagery via traditional and digital (GIS) methods. Digital terrain model acquisition and analysis. Introduction to digital terrain analysis.",
-        "number": "333",
-        "subject": "GEOL",
+        "description": "An introduction to the principles of geomorphology relevant to Geological Sciences and Geological Engineering. Identification and evaluation of terrain features using analog and digital imagery via traditional and digital (GIS) methods. Digital terrain model acquisition and analysis. Introduction to digital terrain analysis.", 
+        "number": "333", 
+        "subject": "GEOL", 
         "title": "Terrain Evaluation"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GEOL104 or permission of the Department.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GEOL104 or permission of the Department.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

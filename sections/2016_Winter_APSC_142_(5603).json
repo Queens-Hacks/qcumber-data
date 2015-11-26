@@ -1,44 +1,44 @@
 {
-    "_unique": "313-LAB (5603)",
+    "_unique": "313-LAB (5603)", 
     "availability": {
-        "class_curr": 81,
-        "class_max": 82,
-        "wait_curr": 0,
+        "class_curr": 82, 
+        "class_max": 82, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "313",
-        "course": "142",
-        "season": "Winter",
-        "solus_id": "5603",
-        "status": "Closed",
-        "subject": "APSC",
-        "type": "LAB",
+        "class_num": "313", 
+        "course": "142", 
+        "season": "Winter", 
+        "solus_id": "5603", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "LAB", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 4,
-            "end_time": "16:30:00",
-            "instructors": [],
-            "location": "BEAMISH-MUNRO RM212",
-            "start_time": "14:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "16:30:00",
-            "instructors": [],
-            "location": "BEAMISH-MUNRO RM214",
-            "start_time": "14:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

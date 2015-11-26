@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Methods and theory for ordinary and partial differential equations; separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bethel orthogonal functions; the wave, diffusion, and Laplace\u00bfs equation; Sturn-Liouville theory; Fourier transform and Laplace transform techniques.\nLEARNING HOURS\u00a0\u00a0\u00a0 118 (36L;12T;70P)",
-        "number": "338",
-        "subject": "MATH",
+        "description": "Methods and theory for ordinary and partial differential equations; separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bethel orthogonal functions; the wave, diffusion, and Laplace\u00bfs equation; Sturn-Liouville theory; Fourier transform and Laplace transform techniques.\nLEARNING HOURS\u00a0\u00a0\u00a0 118 (36L;12T;70P)", 
+        "number": "338", 
+        "subject": "MATH", 
         "title": "Fourier Methods for Boundary Value Problems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (MATH221 or MATH280) and (MATH232 or MATH231) and (MATH110 or MATH111).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (MATH221 or MATH280) and (MATH232 or MATH231) and (MATH110 or MATH111).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

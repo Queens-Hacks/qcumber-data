@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course begins with a general discussion of the electrical signals which arise in biological systems.\u00a0 Mechanisms of biological signal generation and models of signal production are introduced, with an emphasis on the neuromuscular system and the myoelectric signal.\u00a0 Signal acquisition and instrumentation are discussed.\u00a0 Signal processing of the myoelectric signal, in the time and frequency domains, is covered.\u00a0 A basic knowledge of random signal processing is recommended.\u00a0 Three term-hours; lectures, Fall.\u00a0 E.L. Morin",
-        "number": "811",
-        "subject": "ELEC",
+        "description": "The course begins with a general discussion of the electrical signals which arise in biological systems.\u00a0 Mechanisms of biological signal generation and models of signal production are introduced, with an emphasis on the neuromuscular system and the myoelectric signal.\u00a0 Signal acquisition and instrumentation are discussed.\u00a0 Signal processing of the myoelectric signal, in the time and frequency domains, is covered.\u00a0 A basic knowledge of random signal processing is recommended.\u00a0 Three term-hours; lectures, Fall.\u00a0 E.L. Morin", 
+        "number": "811", 
+        "subject": "ELEC", 
         "title": "Biological Signal Analysis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

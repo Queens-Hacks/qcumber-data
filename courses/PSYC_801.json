@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Topics include: The logic of the test for significance and controversies concerning it; ANOVA and its underlying linear model for between- subject, within-subject and split-plot designs; orthogonal comparisons for trend analysis and for special contrasts; restricted randomization and the randomized-block design; partial confounding in latin-squares; balancing conditions against trend; hierarchical designs; ANOVA and multiple correlation; designs including organismic variables; random- effect models and the fixed-effect fallacy; data transformations and non-parametric tests.\u00a0 Fall; lectures (3 hrs) and tutorials (1\u00bf hrs).",
-        "number": "801",
-        "subject": "PSYC",
+        "description": "Topics include: The logic of the test for significance and controversies concerning it; ANOVA and its underlying linear model for between- subject, within-subject and split-plot designs; orthogonal comparisons for trend analysis and for special contrasts; restricted randomization and the randomized-block design; partial confounding in latin-squares; balancing conditions against trend; hierarchical designs; ANOVA and multiple correlation; designs including organismic variables; random- effect models and the fixed-effect fallacy; data transformations and non-parametric tests.\u00a0 Fall; lectures (3 hrs) and tutorials (1\u00bf hrs).", 
+        "number": "801", 
+        "subject": "PSYC", 
         "title": "Design Of Experiments"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture / Laboratory": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

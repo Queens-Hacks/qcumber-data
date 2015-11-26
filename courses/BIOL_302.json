@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introductory ecology dealing with population growth and regulation, species interactions and reproductive and life history strategies. Laboratory work includes field studies as well as individual and group projects.\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $85.\nLEARNING HOURS\u00a0\u00a0\u00a0 118 (36L;27Lb;12O;19Oc;24P)",
-        "number": "302",
-        "subject": "BIOL",
+        "description": "Introductory ecology dealing with population growth and regulation, species interactions and reproductive and life history strategies. Laboratory work includes field studies as well as individual and group projects.\nNOTE\u00a0\u00a0\u00a0 Field trip: estimated cost $85.\nLEARNING HOURS\u00a0\u00a0\u00a0 118 (36L;27Lb;12O;19Oc;24P)", 
+        "number": "302", 
+        "subject": "BIOL", 
         "title": "Population and Evolutionary Ecology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BIOL201 and BIOL202 and (a minimum grade of C- in BIOL206).\r\nCorequisite\u00a0\u00a0 BIOL243 or PSYC202 or STAT269.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BIOL201 and BIOL202 and (a minimum grade of C- in BIOL206).\r\nCorequisite\u00a0\u00a0 BIOL243 or PSYC202 or STAT269.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,35 +1,35 @@
 {
-    "_unique": "017-TUT (7845)",
+    "_unique": "017-TUT (7845)", 
     "availability": {
-        "class_curr": 4,
-        "class_max": 30,
-        "wait_curr": 0,
+        "class_curr": 11, 
+        "class_max": 30, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "017",
-        "course": "102",
-        "season": "Winter",
-        "solus_id": "7845",
-        "status": "Open",
-        "subject": "GPHY",
-        "type": "TUT",
+        "class_num": "017", 
+        "course": "102", 
+        "season": "Winter", 
+        "solus_id": "7845", 
+        "status": "Open", 
+        "subject": "GPHY", 
+        "type": "TUT", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2016-04-01",
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Bader International Study Ctr",
-        "location": "East Sussex, UK",
+        "campus": "Bader International Study Ctr", 
+        "location": "East Sussex, UK", 
         "session": "Regular Academic Session"
     }
 }

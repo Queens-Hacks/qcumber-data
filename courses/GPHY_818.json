@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Landscape ecology emphasizes the interaction between spatial pattern and ecological processes. This seminar course will examine the theory and practice of landscape ecology, and explore how composition and spatial patterning of landscapes affects ecological processes. Topics include: theoretical aspects of scaling, methods of quantifying landscape structure, and the effects of landscape structure and temporal dynamics on ecosystem functions such as succession, movement of biota, and fluxes of nutrients, energy, and trace gases all in the context of Earth System Science.",
-        "number": "818",
-        "subject": "GPHY",
+        "description": "Landscape ecology emphasizes the interaction between spatial pattern and ecological processes. This seminar course will examine the theory and practice of landscape ecology, and explore how composition and spatial patterning of landscapes affects ecological processes. Topics include: theoretical aspects of scaling, methods of quantifying landscape structure, and the effects of landscape structure and temporal dynamics on ecosystem functions such as succession, movement of biota, and fluxes of nutrients, energy, and trace gases all in the context of Earth System Science.", 
+        "number": "818", 
+        "subject": "GPHY", 
         "title": "Seminar In Landscape Ecology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The objective of this short course is to develop a sound understanding of leadership and teamwork, and to apply these skills in both small group and large group settings. The course is based on the premise that all engineers, at various stages of their career, will be called upon to be both leaders and team members. (0/0/14/0/0) ~ COURSE DELETED IN 2008/09 ~",
-        "number": "306",
-        "subject": "CIVL",
+        "description": "The objective of this short course is to develop a sound understanding of leadership and teamwork, and to apply these skills in both small group and large group settings. The course is based on the premise that all engineers, at various stages of their career, will be called upon to be both leaders and team members. (0/0/14/0/0) ~ COURSE DELETED IN 2008/09 ~", 
+        "number": "306", 
+        "subject": "CIVL", 
         "title": "Leadership And Teamwork Skills"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 14,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 14, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Pass/Fail", 
         "units": "1.25"
     }
 }

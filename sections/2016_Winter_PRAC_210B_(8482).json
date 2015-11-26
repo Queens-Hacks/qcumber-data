@@ -1,0 +1,37 @@
+{
+    "_unique": "100-PRA (8482)", 
+    "availability": {
+        "class_curr": 1, 
+        "class_max": 5, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "100", 
+        "course": "210B", 
+        "season": "Winter", 
+        "solus_id": "8482", 
+        "status": "Open", 
+        "subject": "PRAC", 
+        "type": "PRA", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-04"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
+        "session": "Education Regular"
+    }
+}

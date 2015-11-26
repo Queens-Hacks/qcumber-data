@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Course presents an overview of lasers as they relate to selected manufacturing applications. Topics covered include general principles of laser operation, description of laser types used in manufacturing, and components of laser-based processing systems. Among the applications, laser machining of metals and ceramics, joining of polymers, and laser sintering are examined in greater depth. Analytical and numerical modeling techniques are briefly presented. Students will carry out a survey-based or an experimental project (the latter being subject to instructor\u00bfs approval and availability of resources). Three term-hours, lectures. G. Zak.",
-        "number": "811",
-        "subject": "MECH",
+        "description": "Course presents an overview of lasers as they relate to selected manufacturing applications. Topics covered include general principles of laser operation, description of laser types used in manufacturing, and components of laser-based processing systems. Among the applications, laser machining of metals and ceramics, joining of polymers, and laser sintering are examined in greater depth. Analytical and numerical modeling techniques are briefly presented. Students will carry out a survey-based or an experimental project (the latter being subject to instructor\u00bfs approval and availability of resources). Three term-hours, lectures. G. Zak.", 
+        "number": "811", 
+        "subject": "MECH", 
         "title": "Lasers In Manufacturing Appl."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course is offered in the Fall semester and is open to graduate students enrolled in the Computational Science and Engineering specialization.\u00a0 The purpose of this course is to present the tools necessary to pursue computational science and engineering within the student\u00bfs \u00bfhome\u00bf discipline.\u00a0 This course is offered jointly with CISC 810*.\u00a0 Graduate students not enrolled in the CSE specialization and advanced undergraduate students interested in taking this course must register in CISC 810*.\u00a0 The Queen\u00bfs CSE management committee may cap enrollment, in which case students in the CSE specialization have priority.",
-        "number": "810",
-        "subject": "QCSE",
+        "description": "This course is offered in the Fall semester and is open to graduate students enrolled in the Computational Science and Engineering specialization.\u00a0 The purpose of this course is to present the tools necessary to pursue computational science and engineering within the student\u00bfs \u00bfhome\u00bf discipline.\u00a0 This course is offered jointly with CISC 810*.\u00a0 Graduate students not enrolled in the CSE specialization and advanced undergraduate students interested in taking this course must register in CISC 810*.\u00a0 The Queen\u00bfs CSE management committee may cap enrollment, in which case students in the CSE specialization have priority.", 
+        "number": "810", 
+        "subject": "QCSE", 
         "title": "Fund. Of Computational Science"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The recovery and recycling of metals by both hydrometallurgical and pyrometallurgical techniques is discussed. The thermodynamic and kinetic aspects of the solutions utilized in these processes are reviewed. The major unit operations of the hydrometallurgical and pyrometallurgical processes are studied. For hydrometallurgy, the unit operations are; ion exchange, solvent extraction, cementation, purification, precipitation, electrowinning and electrorefining. Particular emphasis will be placed on the recovery of gold. For pyrometallurgy the unit operations are; roasting, agglomeration, calcination, smelting, converting, refining and electrolysis. In the course, the importance of environmental stewardship in metal extraction is stressed.",
-        "number": "451",
-        "subject": "MINE",
+        "description": "The recovery and recycling of metals by both hydrometallurgical and pyrometallurgical techniques is discussed. The thermodynamic and kinetic aspects of the solutions utilized in these processes are reviewed. The major unit operations of the hydrometallurgical and pyrometallurgical processes are studied. For hydrometallurgy, the unit operations are; ion exchange, solvent extraction, cementation, purification, precipitation, electrowinning and electrorefining. Particular emphasis will be placed on the recovery of gold. For pyrometallurgy the unit operations are; roasting, agglomeration, calcination, smelting, converting, refining and electrolysis. In the course, the importance of environmental stewardship in metal extraction is stressed.", 
+        "number": "451", 
+        "subject": "MINE", 
         "title": "Chemical Extraction Of Metals"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 10,
-            "Comp St": 0,
-            "Eng Des": 10,
-            "Eng Sci": 16,
+            "Basic Sci": 10, 
+            "Comp St": 0, 
+            "Eng Des": 10, 
+            "Eng Sci": 16, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,35 +1,35 @@
 {
-    "_unique": "046-TUT (5707)",
+    "_unique": "046-TUT (5707)", 
     "availability": {
-        "class_curr": 12,
-        "class_max": 22,
-        "wait_curr": 0,
+        "class_curr": 13, 
+        "class_max": 22, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "046",
-        "course": "122A",
-        "season": "Fall",
-        "solus_id": "5707",
-        "status": "Open",
-        "subject": "SOCY",
-        "type": "TUT",
+        "class_num": "046", 
+        "course": "122A", 
+        "season": "Fall", 
+        "solus_id": "5707", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 4,
-            "end_time": "16:30:00",
-            "instructors": [],
-            "location": "KINGSTON RM209",
-            "start_time": "15:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM209", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

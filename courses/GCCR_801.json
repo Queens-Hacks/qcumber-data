@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides students with a thorough understanding of community issues associated with mineral resource development. It provides context and examples to demonstrate how the industry response to these issues has changed over time. The business case for a disciplined approach to community engagement and relationship building is outlined. It introduces the topics of community development, community engagement, and indigenous issues which are further explored in subsequent courses.",
-        "number": "801",
-        "subject": "GCCR",
+        "description": "This course provides students with a thorough understanding of community issues associated with mineral resource development. It provides context and examples to demonstrate how the industry response to these issues has changed over time. The business case for a disciplined approach to community engagement and relationship building is outlined. It introduces the topics of community development, community engagement, and indigenous issues which are further explored in subsequent courses.", 
+        "number": "801", 
+        "subject": "GCCR", 
         "title": "Community Aspects of Mineral Resource"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

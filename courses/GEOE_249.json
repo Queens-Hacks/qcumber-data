@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The application of physical principles to examine and characterize the Earth at all scales. The Earth's physical properties and dynamic processes will be assessed and evaluated by integrating such topics as gravity, seismology, magnetism, geochronology, and heat flow, as related to scientific and engineering problems.",
-        "number": "249",
-        "subject": "GEOE",
+        "description": "The application of physical principles to examine and characterize the Earth at all scales. The Earth's physical properties and dynamic processes will be assessed and evaluated by integrating such topics as gravity, seismology, magnetism, geochronology, and heat flow, as related to scientific and engineering problems.", 
+        "number": "249", 
+        "subject": "GEOE", 
         "title": "Geophysical Char Of The Earth"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 12,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 18,
+            "Basic Sci": 12, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 18, 
             "Math": 12
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: APSC 111 and APSC 151 and APSC 171 and APSC 172 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 111 and APSC 151 and APSC 171 and APSC 172 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

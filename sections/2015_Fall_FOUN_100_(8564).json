@@ -1,35 +1,35 @@
 {
-    "_unique": "003-TUT (8564)",
+    "_unique": "003-TUT (8564)", 
     "availability": {
-        "class_curr": 38,
-        "class_max": 40,
-        "wait_curr": 0,
+        "class_curr": 38, 
+        "class_max": 35, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "100",
-        "season": "Fall",
-        "solus_id": "8564",
-        "status": "Open",
-        "subject": "FOUN",
-        "type": "TUT",
+        "class_num": "003", 
+        "course": "100", 
+        "season": "Fall", 
+        "solus_id": "8564", 
+        "status": "Closed", 
+        "subject": "FOUN", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "15:30:00",
-            "instructors": [],
-            "location": "DUNCAN MCARTHUR RM A239",
-            "start_time": "14:30:00",
-            "term_end": "2015-10-09",
+            "day_of_week": 2, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-09-29", 
             "term_start": "2015-09-08"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
         "session": "Education Regular"
     }
 }

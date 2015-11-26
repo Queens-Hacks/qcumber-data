@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course will explore ethical issues arising in the wellbeing and care of aging adults. Aspects of three streams of ethics will be addressed: professional ethics, organizational ethics, and biomedical ethics, as these streams relate to wellbeing and aging. Issues that will be addressed include: the organizational importance placed on aging adults, moral distress, advance directives, consent, values, and the ethics of wellbeing.",
-        "number": "802",
-        "subject": "AGHE",
+        "description": "This course will explore ethical issues arising in the wellbeing and care of aging adults. Aspects of three streams of ethics will be addressed: professional ethics, organizational ethics, and biomedical ethics, as these streams relate to wellbeing and aging. Issues that will be addressed include: the organizational importance placed on aging adults, moral distress, advance directives, consent, values, and the ethics of wellbeing.", 
+        "number": "802", 
+        "subject": "AGHE", 
         "title": "Ethics and Bioethics of Aging"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

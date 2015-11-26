@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to advanced regression methods for binary, categorical, and count data. Major topics include maximum-likelihood method, binomial and Poisson regression, contingency tables, log linear models, and random effect models. The generalized linear models will be discussed both in theory and in applications to real data from a variety of sources. Given jointly with STAT 873/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
-        "number": "473",
-        "subject": "STAT",
+        "description": "An introduction to advanced regression methods for binary, categorical, and count data. Major topics include maximum-likelihood method, binomial and Poisson regression, contingency tables, log linear models, and random effect models. The generalized linear models will be discussed both in theory and in applications to real data from a variety of sources. Given jointly with STAT 873/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "473", 
+        "subject": "STAT", 
         "title": "Generalized Linear Models"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (STAT361 or ECON351) and (STAT363 or STAT463), permission of the Department.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (STAT361 or ECON351) and (STAT363 or STAT463), permission of the Department.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,48 +1,48 @@
 {
-    "_unique": "001-LEC (2332)",
+    "_unique": "001-LEC (2332)", 
     "availability": {
-        "class_curr": 80,
-        "class_max": 80,
-        "wait_curr": 0,
+        "class_curr": 82, 
+        "class_max": 80, 
+        "wait_curr": 8, 
         "wait_max": 8
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "262",
-        "season": "Winter",
-        "solus_id": "2332",
-        "status": "Closed",
-        "subject": "ECON",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "262", 
+        "season": "Winter", 
+        "solus_id": "2332", 
+        "status": "Closed", 
+        "subject": "ECON", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Stewart, Arthur E"
-            ],
-            "location": "DUNNING RM11",
-            "start_time": "10:00:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "DUNNING RM11", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "10:00:00",
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
             "instructors": [
                 "Stewart, Arthur E"
-            ],
-            "location": "DUNNING RM11",
-            "start_time": "08:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "DUNNING RM11", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

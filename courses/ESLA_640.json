@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "QSoE English for Academic Purposes half-session programs are 6-week, student-centered immersion programs, for students who wish to develop their academic skills but don't wish to commit to a full 12-week program. This program integrates the four language skills: reading, writing, listening and speaking. In addition to the intensive study of these four language components, this program puts particular emphasis on developing vocabulary, pronunciation comprehensibility, English grammar and structure, academic writing techniques, autonomous learning and critical thinking. Students enrolled in this program can only attend weeks 1-6 of the 12-week EAP program.",
-        "number": "640",
-        "subject": "ESLA",
+        "description": "QSoE English for Academic Purposes half-session programs are 6-week, student-centered immersion programs, for students who wish to develop their academic skills but don't wish to commit to a full 12-week program. This program integrates the four language skills: reading, writing, listening and speaking. In addition to the intensive study of these four language components, this program puts particular emphasis on developing vocabulary, pronunciation comprehensibility, English grammar and structure, academic writing techniques, autonomous learning and critical thinking. Students enrolled in this program can only attend weeks 1-6 of the 12-week EAP program.", 
+        "number": "640", 
+        "subject": "ESLA", 
         "title": "English for Academic Advanced level"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Non-Credit",
+        }, 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

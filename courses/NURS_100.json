@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Focuses on nutrition as determinant of health through the study of nutrient metabolism, nutrition throughout the life span, nutrition behaviour, and nutrition behaviour change. Learn about the role of nutrition in promoting health within the context of their professional discipline. Required course for students of nursing science and relevant for students in life science and other health professions.\u00a03 hours lecture/week; 9 units (3 credits) course weight.",
-        "number": "100",
-        "subject": "NURS",
+        "description": "Focuses on nutrition as determinant of health through the study of nutrient metabolism, nutrition throughout the life span, nutrition behaviour, and nutrition behaviour change. Learn about the role of nutrition in promoting health within the context of their professional discipline. Required course for students of nursing science and relevant for students in life science and other health professions.\u00a03 hours lecture/week; 9 units (3 credits) course weight.", 
+        "number": "100", 
+        "subject": "NURS", 
         "title": "Nutrition And Health"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Exclusions: HLTH131 and HLTH230.\u00a0 Corequisite of IDIS150.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Exclusions: HLTH131 and HLTH230.\u00a0 Corequisite of IDIS150.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

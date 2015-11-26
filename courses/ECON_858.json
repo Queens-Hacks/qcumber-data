@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "The course will focus on the intersection of research in experimental economics and game theory.\u00a0 The dialogue between these fields has had an important influence on research topics for game theorists and on topics and methodology for experimentalists. There will be approximately equal weight on game theory and experimental methods and evidence. Game theory topics include evolutionary game theory, learning models, and the logic based models of knowledge and belief revision. The experimental topics will include design considerations and data analysis in the context of providing feedback for the development of the theory.",
-        "number": "858",
-        "subject": "ECON",
+        "description": "The course will focus on the intersection of research in experimental economics and game theory.\u00a0 The dialogue between these fields has had an important influence on research topics for game theorists and on topics and methodology for experimentalists. There will be approximately equal weight on game theory and experimental methods and evidence. Game theory topics include evolutionary game theory, learning models, and the logic based models of knowledge and belief revision. The experimental topics will include design considerations and data analysis in the context of providing feedback for the development of the theory.", 
+        "number": "858", 
+        "subject": "ECON", 
         "title": "Experiments And Game Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

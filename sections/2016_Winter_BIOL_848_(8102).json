@@ -1,37 +1,37 @@
 {
-    "_unique": "001-SEM (8102)",
+    "_unique": "001-SEM (8102)", 
     "availability": {
-        "class_curr": 0,
-        "class_max": 0,
-        "wait_curr": 0,
+        "class_curr": 0, 
+        "class_max": 0, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "848",
-        "season": "Winter",
-        "solus_id": "8102",
-        "status": "Closed",
-        "subject": "BIOL",
-        "type": "SEM",
+        "class_num": "001", 
+        "course": "848", 
+        "season": "Winter", 
+        "solus_id": "8102", 
+        "status": "Closed", 
+        "subject": "BIOL", 
+        "type": "SEM", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Wang, Yuxiang S"
-            ],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2016-04-01",
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

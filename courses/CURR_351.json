@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Provides an initial orientation to science teaching at the secondary level, with particular attention to the teaching of physics.\u00a0 Lesson and unit planning are practiced in the context of exploring teaching procedures that engage students in activities that provide an experiential basis for their learning.",
-        "number": "351",
-        "subject": "CURR",
+        "description": "Provides an initial orientation to science teaching at the secondary level, with particular attention to the teaching of physics.\u00a0 Lesson and unit planning are practiced in the context of exploring teaching procedures that engage students in activities that provide an experiential basis for their learning.", 
+        "number": "351", 
+        "subject": "CURR", 
         "title": "Intro to Teaching Physics (IS)"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

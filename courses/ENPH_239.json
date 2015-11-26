@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The experimental basis and mathematical description of electrostatics, magnetostatics and electromagnetic induction, together with a discussion of the properties of dielectrics and ferromagnetics, are presented. Both the integral and vector forms of Maxwell's equations are deduced.\u00a0",
-        "number": "239",
-        "subject": "ENPH",
+        "description": "The experimental basis and mathematical description of electrostatics, magnetostatics and electromagnetic induction, together with a discussion of the properties of dielectrics and ferromagnetics, are presented. Both the integral and vector forms of Maxwell's equations are deduced.\u00a0", 
+        "number": "239", 
+        "subject": "ENPH", 
         "title": "Eng. Electricity & Magnetism"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 17,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 25,
+            "Basic Sci": 17, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 25, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MTHE 227 or MATH 227 or MTHE 280 or MATH 280 and APSC 111 and APSC 112. Must be registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 227 or MATH 227 or MTHE 280 or MATH 280 and APSC 111 and APSC 112. Must be registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

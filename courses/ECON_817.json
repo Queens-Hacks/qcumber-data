@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course will apply the tools learned in ECON-816* to further topics. Some emphasis will be placed on numerical methods and computation. The topics considered will normally include search and matching, monetary economics, income and wealth inequality, and fiscal policy. Other topics may also be considered. Intended for Ph.D. students.",
-        "number": "817",
-        "subject": "ECON",
+        "description": "This course will apply the tools learned in ECON-816* to further topics. Some emphasis will be placed on numerical methods and computation. The topics considered will normally include search and matching, monetary economics, income and wealth inequality, and fiscal policy. Other topics may also be considered. Intended for Ph.D. students.", 
+        "number": "817", 
+        "subject": "ECON", 
         "title": "Adv. Macroeconomic Theory II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

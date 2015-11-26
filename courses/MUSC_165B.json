@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Ensemble experience for qualified brass performers. \r\nNOTE\u00a0\u00a0\u00a0 Open to non-B.Mus. students, after audition, without credit.",
-        "number": "165B",
-        "subject": "MUSC",
+        "description": "Ensemble experience for qualified brass performers. \r\nNOTE\u00a0\u00a0\u00a0 Open to non-B.Mus. students, after audition, without credit.", 
+        "number": "165B", 
+        "subject": "MUSC", 
         "title": "Brass Choir"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "1.50"
     }
 }

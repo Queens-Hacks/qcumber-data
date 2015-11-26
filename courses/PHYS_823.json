@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Einstein's theory of gravity is developed from fundamental principles to a level which enables the student to read some of the current literature. The course includes an introduction to computer algebra, an essential element of a modern introduction to Einstein's theory. (Offered jointly with PHYS-414.)",
-        "number": "823",
-        "subject": "PHYS",
+        "description": "Einstein's theory of gravity is developed from fundamental principles to a level which enables the student to read some of the current literature. The course includes an introduction to computer algebra, an essential element of a modern introduction to Einstein's theory. (Offered jointly with PHYS-414.)", 
+        "number": "823", 
+        "subject": "PHYS", 
         "title": "Gravitation & Cosmology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A history of the relations between humans and nature through time, with special emphasis on how science has influenced how we perceive our place in nature, and how we define and understand environmental issues.",
-        "number": "200",
-        "subject": "ENSC",
+        "description": "A history of the relations between humans and nature through time, with special emphasis on how science has influenced how we perceive our place in nature, and how we define and understand environmental issues.", 
+        "number": "200", 
+        "subject": "ENSC", 
         "title": "Environmental History"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "EXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from ENSC 200/3.0; HIST 257/3.0.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "EXCLUSION\u00a0\u00a0\u00a0 No more than 3.0 units from ENSC 200/3.0; HIST 257/3.0.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

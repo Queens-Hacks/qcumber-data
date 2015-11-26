@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "Theory of convex sets and functions; separation theorems; primal-dual properties;\u00a0geometric treatment of optimization problems; algorithmic procedures for solving constrained optimization programs;\u00a0engineering and economic applications.",
-        "number": "434",
-        "subject": "MTHE",
+        "description": "Theory of convex sets and functions; separation theorems; primal-dual properties;\u00a0geometric treatment of optimization problems; algorithmic procedures for solving constrained optimization programs;\u00a0engineering and economic applications.", 
+        "number": "434", 
+        "subject": "MTHE", 
         "title": "Optimization Theory and Applications"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 15,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 15, 
             "Math": 15
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: MTHE 280 (MATH 280), MTHE 281 (MATH 281), MTHE 212 (MATH 212) or MTHE 312 (MATH 312), or permission of the instructor", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

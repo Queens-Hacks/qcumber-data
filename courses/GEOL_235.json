@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction to the genesis and characterization of igneous and metamorphic rocks. Students will acquire skills to classify rocks and the theoretical background to place these rocks in the context of where, why, and how they form with implications for resource exploration and utilization. Macroscopic and microscopic properties will be studied.",
-        "number": "235",
-        "subject": "GEOL",
+        "description": "Introduction to the genesis and characterization of igneous and metamorphic rocks. Students will acquire skills to classify rocks and the theoretical background to place these rocks in the context of where, why, and how they form with implications for resource exploration and utilization. Macroscopic and microscopic properties will be studied.", 
+        "number": "235", 
+        "subject": "GEOL", 
         "title": "Igneous and Metamorphic Petrology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOE 232 (or GEOL 232)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 GEOE 232 (or GEOL 232)", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

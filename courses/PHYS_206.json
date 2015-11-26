@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introductory course in classical dynamics of particles, of rigid bodies and of fluids that sets the foundation for more advanced work. Topics include kinematics of particles and of rigid bodies, central forces, kinetics of systems of particles, planar and three dimensional dynamics of rigid bodies and an introduction to fluid mechanics. \r\nRECOMMENDATION\u00a0\u00a0\u00a0 A minimum grade of C in PHYS 104/6.0 or PHYS 106/6.0.",
-        "number": "206",
-        "subject": "PHYS",
+        "description": "An introductory course in classical dynamics of particles, of rigid bodies and of fluids that sets the foundation for more advanced work. Topics include kinematics of particles and of rigid bodies, central forces, kinetics of systems of particles, planar and three dimensional dynamics of rigid bodies and an introduction to fluid mechanics. \r\nRECOMMENDATION\u00a0\u00a0\u00a0 A minimum grade of C in PHYS 104/6.0 or PHYS 106/6.0.", 
+        "number": "206", 
+        "subject": "PHYS", 
         "title": "Dynamics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (PHYS104 or PHYS106) and (MATH120 or MATH121 or MATH122) or permission of the Department.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 (PHYS104 or PHYS106) and (MATH120 or MATH121 or MATH122) or permission of the Department.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

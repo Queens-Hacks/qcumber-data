@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The Elder Law Clinic is a clinical program at Queens Law. Students working in the clinic will research legal issues related to aging, develop and present seminars and written material on topics to interested community groups (public legal education), and work on clients matters under supervision. Typical legal issues would be health care decision-making, drafting or advising on powers of attorney and simple wills, capacity and substitute decision-making, and problems arising in respect to institutional residence.\u00a0Students will be evaluated on their file work, community presentations, written assignments and class participation.\"",
-        "number": "695B",
-        "subject": "LAW",
+        "description": "The Elder Law Clinic is a clinical program at Queens Law. Students working in the clinic will research legal issues related to aging, develop and present seminars and written material on topics to interested community groups (public legal education), and work on clients matters under supervision. Typical legal issues would be health care decision-making, drafting or advising on powers of attorney and simple wills, capacity and substitute decision-making, and problems arising in respect to institutional residence.\u00a0Students will be evaluated on their file work, community presentations, written assignments and class participation.\"", 
+        "number": "695B", 
+        "subject": "LAW", 
         "title": "Elder Law Clinic"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "8.00"
     }
 }

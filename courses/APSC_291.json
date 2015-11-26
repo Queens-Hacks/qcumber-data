@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This course provides an introduction to effective engineering writing and speaking skills with the emphasis on technical proposals, professional correspondence, engineering reports, and oral briefings. These skills are developed in lectures and small group tutorials.",
-        "number": "291",
-        "subject": "APSC",
+        "description": "This course provides an introduction to effective engineering writing and speaking skills with the emphasis on technical proposals, professional correspondence, engineering reports, and oral briefings. These skills are developed in lectures and small group tutorials.", 
+        "number": "291", 
+        "subject": "APSC", 
         "title": "Engineering Communications I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 12,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 12, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Instructor Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Instructor Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "drop_consent": "Instructor Consent Required",
-        "enrollment_requirement": "APSC291 excludes CHEE260, ELEC291, GEOL291, GEOL292 and MECH290.\u00a0 Registration in a BSCE Academic Plan is required.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Instructor Consent Required", 
+        "enrollment_requirement": "APSC291 excludes CHEE260, ELEC291, GEOL291, GEOL292 and MECH290.\u00a0 Registration in a BSCE Academic Plan is required.", 
+        "grading_basis": "Graded", 
         "units": "1.00"
     }
 }

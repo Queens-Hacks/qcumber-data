@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Fundamental equations of real fluid flows are developed and discussed using vector and tensor notations. Some exact and approximate solutions of these equations are introduced. The stability of laminar flows and the transition to turbulence are examined; the Reynolds equations are derived and some applications of these equations are investigated. The boundary layer concept is introduced. Recent developments in the theory of turbulence are outlined and discussed. Three term-hours.",
-        "number": "850",
-        "subject": "CIVL",
+        "description": "Fundamental equations of real fluid flows are developed and discussed using vector and tensor notations. Some exact and approximate solutions of these equations are introduced. The stability of laminar flows and the transition to turbulence are examined; the Reynolds equations are derived and some applications of these equations are investigated. The boundary layer concept is introduced. Recent developments in the theory of turbulence are outlined and discussed. Three term-hours.", 
+        "number": "850", 
+        "subject": "CIVL", 
         "title": "Advanced Fluid Mechanics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

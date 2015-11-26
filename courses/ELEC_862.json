@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course covers wireless mobile and satellite communication systems. The main topics of this course are: Introduction to the basic concepts of wireless mobile systems and standards, Propagation modeling, Co-channel interference, Modulation techniques with applications to mobile communications (PSK, ASK, OFDM, etc.), Digital signaling on flat fading channels and diversity techniques, Equalization and digital signaling on ISI channels, Error probability performance analysis, CDMA and multi-user detection, Cellular coverage planning, Link quality measurements and handoff initiation, Introduction to satellite mobile communications, Third generation global mobile communication standards. Three term-hours; lectures.\u00a0 M. Ibnkahla",
-        "number": "862",
-        "subject": "ELEC",
+        "description": "This course covers wireless mobile and satellite communication systems. The main topics of this course are: Introduction to the basic concepts of wireless mobile systems and standards, Propagation modeling, Co-channel interference, Modulation techniques with applications to mobile communications (PSK, ASK, OFDM, etc.), Digital signaling on flat fading channels and diversity techniques, Equalization and digital signaling on ISI channels, Error probability performance analysis, CDMA and multi-user detection, Cellular coverage planning, Link quality measurements and handoff initiation, Introduction to satellite mobile communications, Third generation global mobile communication standards. Three term-hours; lectures.\u00a0 M. Ibnkahla", 
+        "number": "862", 
+        "subject": "ELEC", 
         "title": "Wireless Mobile Communications"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

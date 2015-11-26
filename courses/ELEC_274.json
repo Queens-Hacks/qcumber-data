@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Number and data representation. Overview of the logical structure of computers, instruction set architecture, instruction execution sequencing. Assembly language programming, assembly versus high-level languages. Datapath and control unit design. Principles of memory hierarchy, I/O, and interrupts. Introduction to pipelining and parallelism.",
-        "number": "274",
-        "subject": "ELEC",
+        "description": "Number and data representation. Overview of the logical structure of computers, instruction set architecture, instruction execution sequencing. Assembly language programming, assembly versus high-level languages. Datapath and control unit design. Principles of memory hierarchy, I/O, and interrupts. Introduction to pipelining and parallelism.", 
+        "number": "274", 
+        "subject": "ELEC", 
         "title": "Computer Architecture"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 22,
-            "Eng Sci": 26,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 22, 
+            "Eng Sci": 26, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "EXCLUSION:\u00a0 ELEC274 excludes CISC221.\u00a0 A prerequisite of APSC142 and (ELEC271 or MATH217) and registration in a BSCE Academic Plan.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "EXCLUSION:\u00a0 ELEC274 excludes CISC221.\u00a0 A prerequisite of APSC142 and (ELEC271 or MATH217) and registration in a BSCE Academic Plan.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

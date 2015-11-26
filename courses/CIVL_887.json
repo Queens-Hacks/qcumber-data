@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course introduces the pertinent underlying concepts for the conversion of biomass to bioenergy, biofuels and higher value bio-based products considering the interface of biotechnology, microbiology, chemistry and material science and how processes can be successfully engineered to support/promote environmentally sound practices.",
-        "number": "887",
-        "subject": "CIVL",
+        "description": "This course introduces the pertinent underlying concepts for the conversion of biomass to bioenergy, biofuels and higher value bio-based products considering the interface of biotechnology, microbiology, chemistry and material science and how processes can be successfully engineered to support/promote environmentally sound practices.", 
+        "number": "887", 
+        "subject": "CIVL", 
         "title": "Biomass Conversion"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

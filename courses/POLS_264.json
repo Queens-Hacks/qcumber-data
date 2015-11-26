@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course examines the evolution of global politics in the modern era, from the institutionalization of sovereignty in the Peace of Westphalia to the contemporary period.",
-        "number": "264",
-        "subject": "POLS",
+        "description": "This course examines the evolution of global politics in the modern era, from the institutionalization of sovereignty in the Peace of Westphalia to the contemporary period.", 
+        "number": "264", 
+        "subject": "POLS", 
         "title": "World Politics in Historical Perspective"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite: POLS 110",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: POLS 110", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

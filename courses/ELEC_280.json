@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "A study of the fundamental aspects of electromagnetic fields. The following topics are covered: partial differential equations for transmission lines and Maxwell\u00bfs equations; vector analysis, including orthogonal coordinate systems, and the calculus of field quantities; electrostatic fields including the concepts of electric potential, capacitance, and current and current density; magnetostatic fields including inductance; time\u00bfvarying fields and the complete form of Maxwell's equations; basic transmission line phenomena including steady\u00bfstate sinusoidal behaviour and standing waves, transient performance and impedance matching.",
-        "number": "280",
-        "subject": "ELEC",
+        "description": "A study of the fundamental aspects of electromagnetic fields. The following topics are covered: partial differential equations for transmission lines and Maxwell\u00bfs equations; vector analysis, including orthogonal coordinate systems, and the calculus of field quantities; electrostatic fields including the concepts of electric potential, capacitance, and current and current density; magnetostatic fields including inductance; time\u00bfvarying fields and the complete form of Maxwell's equations; basic transmission line phenomena including steady\u00bfstate sinusoidal behaviour and standing waves, transient performance and impedance matching.", 
+        "number": "280", 
+        "subject": "ELEC", 
         "title": "Fund. Of Electromagnetics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 20,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 14,
+            "Basic Sci": 20, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 14, 
             "Math": 11
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of APSC112 and APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC112 and APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.75"
     }
 }

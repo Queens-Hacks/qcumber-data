@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Methods of mathematics important for physicists. Function of a complex variable, contour integration, partial differential equations, orthogonal functions, Green functions, Fourier series, Fourier and Laplace transforms, finite difference methods, numerical solution of ordinary and partial differential equations.",
-        "number": "312B",
-        "subject": "ENPH",
+        "description": "Methods of mathematics important for physicists. Function of a complex variable, contour integration, partial differential equations, orthogonal functions, Green functions, Fourier series, Fourier and Laplace transforms, finite difference methods, numerical solution of ordinary and partial differential equations.", 
+        "number": "312B", 
+        "subject": "ENPH", 
         "title": "Math. Methods In Physics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 21,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 21, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 63
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "7.00"
     }
 }

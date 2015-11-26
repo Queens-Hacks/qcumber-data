@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A review of measurement theory including: static and dynamic characteristics of signals, spectral analysis with filtering methodologies, response of systems, and statistical/uncertainty analyses. Subsequently the course then provides insight into traditional as well as contemporary measurement techniques in fluid dynamics ranging from single-point scalar/vector measurements through to spatially resolved volumetric reconstructions. To conclude, post-processing and data-manipulation strategies for such contemporary data sets along with a discussion of future concepts will be presented.",
-        "number": "830",
-        "subject": "MECH",
+        "description": "A review of measurement theory including: static and dynamic characteristics of signals, spectral analysis with filtering methodologies, response of systems, and statistical/uncertainty analyses. Subsequently the course then provides insight into traditional as well as contemporary measurement techniques in fluid dynamics ranging from single-point scalar/vector measurements through to spatially resolved volumetric reconstructions. To conclude, post-processing and data-manipulation strategies for such contemporary data sets along with a discussion of future concepts will be presented.", 
+        "number": "830", 
+        "subject": "MECH", 
         "title": "Experimental Fluid Dynamics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

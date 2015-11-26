@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course develops those evaluation skills which enable exploration geologists and engineers to translate their technical knowledge and expertise into economic planning criteria. Cost, risk, and return characteristics of mineral exploration; introduction to economic evaluation; cash flow and time value concepts; discounted cash flow methods; mining taxation consideration; sensitivity and risk analysis techniques; exploration economics and strategies; evaluation of exploration projects; exploration planning issues, financial statement analysis.",
-        "number": "849",
-        "subject": "GEOL",
+        "description": "The course develops those evaluation skills which enable exploration geologists and engineers to translate their technical knowledge and expertise into economic planning criteria. Cost, risk, and return characteristics of mineral exploration; introduction to economic evaluation; cash flow and time value concepts; discounted cash flow methods; mining taxation consideration; sensitivity and risk analysis techniques; exploration economics and strategies; evaluation of exploration projects; exploration planning issues, financial statement analysis.", 
+        "number": "849", 
+        "subject": "GEOL", 
         "title": "Econ Guidelines-Explor Planing"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

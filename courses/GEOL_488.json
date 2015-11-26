@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An advanced course discussing the principles of earth evolution as exemplified by North America. The holistic approach illustrates the way in which geodynamics, geochemistry, sedimentation, paleo-biology and oceanography are used to unravel the history of the continent.",
-        "number": "488",
-        "subject": "GEOL",
+        "description": "An advanced course discussing the principles of earth evolution as exemplified by North America. The holistic approach illustrates the way in which geodynamics, geochemistry, sedimentation, paleo-biology and oceanography are used to unravel the history of the continent.", 
+        "number": "488", 
+        "subject": "GEOL", 
         "title": "Geology of North America"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0 GEOL107, GEOL235, GEOL249, GEOL238, GEOL300 and GEOL365 or permission of the Department.\nCorequisite\u00a0\u00a0\u00a0 GEOL321 and (GEOL401 or GEOL402).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0 GEOL107, GEOL235, GEOL249, GEOL238, GEOL300 and GEOL365 or permission of the Department.\nCorequisite\u00a0\u00a0\u00a0 GEOL321 and (GEOL401 or GEOL402).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

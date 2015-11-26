@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Mathematical modelling of the dynamics of mechanical systems using Newton's Laws, LaGrange's Equation and Hamilton's Equations; linear and non-linear systems; time-domain and frequency-domain solutions; large systems; stability; response to random excitation. Three term-hours, lectures. R.J. Anderson.\u00a0",
-        "number": "821",
-        "subject": "MECH",
+        "description": "Mathematical modelling of the dynamics of mechanical systems using Newton's Laws, LaGrange's Equation and Hamilton's Equations; linear and non-linear systems; time-domain and frequency-domain solutions; large systems; stability; response to random excitation. Three term-hours, lectures. R.J. Anderson.\u00a0", 
+        "number": "821", 
+        "subject": "MECH", 
         "title": "Adv Dynamics Of Mechanical Sys"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

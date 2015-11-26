@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Principles of design, analysis and implementation of efficient algorithms. Case studies from a variety of areas illustrate divide and conquer methods, the greedy approach, branch and bound algorithms and dynamic programming.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)",
-        "number": "365",
-        "subject": "CISC",
+        "description": "Principles of design, analysis and implementation of efficient algorithms. Case studies from a variety of areas illustrate divide and conquer methods, the greedy approach, branch and bound algorithms and dynamic programming.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)", 
+        "number": "365", 
+        "subject": "CISC", 
         "title": "Algorithms I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 CISC203 and CISC204 and CISC235",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 CISC203 and CISC204 and CISC235", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

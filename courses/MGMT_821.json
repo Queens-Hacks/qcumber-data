@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course covers the theory and empirics related to capital markets research and the pricing of assets.\u00a0 Possible topics include characteristics of financial asset returns, tests of market efficiency, asset pricing models, and market microstructure. (Crossed with MGMT-921*.)",
-        "number": "821",
-        "subject": "MGMT",
+        "description": "This course covers the theory and empirics related to capital markets research and the pricing of assets.\u00a0 Possible topics include characteristics of financial asset returns, tests of market efficiency, asset pricing models, and market microstructure. (Crossed with MGMT-921*.)", 
+        "number": "821", 
+        "subject": "MGMT", 
         "title": "Capital Markets, Theory and Empirics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The general principles and mechanism of immune reaction. Immunochemical and immunobiological aspects of antibody formation and cell-mediated immunity in health and disease will be considered.\nLEARNING HOURS\u00a0\u00a0\u00a0 144 (36L;36O;72P)",
-        "number": "360",
-        "subject": "MICR",
+        "description": "The general principles and mechanism of immune reaction. Immunochemical and immunobiological aspects of antibody formation and cell-mediated immunity in health and disease will be considered.\nLEARNING HOURS\u00a0\u00a0\u00a0 144 (36L;36O;72P)", 
+        "number": "360", 
+        "subject": "MICR", 
         "title": "Immunology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 36,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "COREQUISITE\u00a0\u00a0\u00a0 BCHM 310/6.0 or BCHM 315/3.0 or BIOL 334/3.0 or permission of the Course Coordinator.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "COREQUISITE\u00a0\u00a0\u00a0 BCHM 310/6.0 or BCHM 315/3.0 or BIOL 334/3.0 or permission of the Course Coordinator.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

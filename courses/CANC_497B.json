@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A seminar-based discussion of topics relevant to cancer research. This course will be run as a companion to CANC 499/9.0, and will incorporate the practical experience students gain in that course as one foundation of learning. Students will also be introduced to other relevant practical aspects of cancer research, including critical analysis of current literature, and the presentation of scientific results. The course will also involve attending and discussing a number of research seminars offered throughout the year.",
-        "number": "497B",
-        "subject": "CANC",
+        "description": "A seminar-based discussion of topics relevant to cancer research. This course will be run as a companion to CANC 499/9.0, and will incorporate the practical experience students gain in that course as one foundation of learning. Students will also be introduced to other relevant practical aspects of cancer research, including critical analysis of current literature, and the presentation of scientific results. The course will also involve attending and discussing a number of research seminars offered throughout the year.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36S;12G;72P)", 
+        "number": "497B", 
+        "subject": "CANC", 
         "title": "Current Topics in Cancer Biology and Genetics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Advanced seminar providing detailed reading of one contemporary theme or thinker in Religious Studies. Three term-hours, fall; P. Dickey Young.",
-        "number": "808",
-        "subject": "RELS",
+        "description": "Advanced seminar providing detailed reading of one contemporary theme or thinker in Religious Studies. Three term-hours, fall; P. Dickey Young.", 
+        "number": "808", 
+        "subject": "RELS", 
         "title": "Readings In Religion I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

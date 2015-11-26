@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This is the first of two laboratory courses in\u00a0the third year of the General Option of the Mechanical Engineering program.\u00a0 Lecture topics and course assignments are selected to provide the background required to undertake the laboratory work. Lab modules from MECH 396/397/399 completed but not counted for credit may be included for credit in this course.",
-        "number": "398",
-        "subject": "MECH",
+        "description": "This is the first of two laboratory courses in\u00a0the third year of the General Option of the Mechanical Engineering program.\u00a0 Lecture topics and course assignments are selected to provide the background required to undertake the laboratory work. Lab modules from MECH 396/397/399 completed but not counted for credit may be included for credit in this course.", 
+        "number": "398", 
+        "subject": "MECH", 
         "title": "Mech Eng Lab I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "2.00"
     }
 }

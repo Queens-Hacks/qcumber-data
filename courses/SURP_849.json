@@ -1,23 +1,25 @@
 {
     "basic": {
-        "description": "This course examines how the public and non-profit sectors can implement projects in an era of abruptly reduced funding from taxpayers.\u00a0 It considers redevelopment of public lands by requests for proposals by private developers.\u00a0 Case studies and group projects are set in waterfronts, downtowns and suburbs of North American and European cities.",
-        "number": "849",
-        "subject": "SURP",
+        "description": "This course examines how the public and non-profit sectors can implement projects in an era of abruptly reduced funding from taxpayers.\u00a0 It considers redevelopment of public lands by requests for proposals by private developers.\u00a0 Case studies and group projects are set in waterfronts, downtowns and suburbs of North American and European cities.", 
+        "number": "849", 
+        "subject": "SURP", 
         "title": "Public-Private Partnerships"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A discussion of recent advances in analytical chemistry and its applications to the environmental, materials and biomedical fields. At least four topics will be covered from sample preparation, separation methods, multidimensional chromatography, elemental spectroscopy, mass spectroscopy, and surface analysis methods. Additional topics will be selected from the current literature.\nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36L;72P)",
-        "number": "411",
-        "subject": "CHEM",
+        "description": "A discussion of recent advances in analytical chemistry and its applications to the environmental, materials and biomedical fields. At least four topics will be covered from sample preparation, separation methods, multidimensional chromatography, elemental spectroscopy, mass spectroscopy, and surface analysis methods. Additional topics will be selected from the current literature.\nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36L;72P)", 
+        "number": "411", 
+        "subject": "CHEM", 
         "title": "Advanced Analytical Chemistry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite: CHEM321 or ENSC471.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: CHEM321 or ENSC471.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

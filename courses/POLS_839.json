@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "The focus of this seminar will vary from year to year depending on the research interests of the faculty members involved. See the departmental homepage for further details. (Offered jointly with POLS-439*).",
-        "number": "839",
-        "subject": "POLS",
+        "description": "The focus of this seminar will vary from year to year depending on the research interests of the faculty members involved. See the departmental homepage for further details. (Offered jointly with POLS-439*).", 
+        "number": "839", 
+        "subject": "POLS", 
         "title": "Topics In American Politics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

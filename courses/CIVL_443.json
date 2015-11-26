@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A design-based course where geotechnical and hydrogeologic principles are applied to study environmentally sustainable disposal of solid waste. Topics studied include: source and nature of waste: disposal options; environmental legislation and regulations; public impact and perception; contaminant transport; use of geosynthetic materials; and design issues and tradeoffs. Students will conduct practical design tasks to investigate the planning, design, construction, operation and post-closure of phases of an engineered waste disposal facility. The important role of geology in geoenvironmental problems is emphasized through classroom discussions, planning a site investigation and constructing a geologic model.",
-        "number": "443",
-        "subject": "CIVL",
+        "description": "A design-based course where geotechnical and hydrogeologic principles are applied to study environmentally sustainable disposal of solid waste. Topics studied include: source and nature of waste: disposal options; environmental legislation and regulations; public impact and perception; contaminant transport; use of geosynthetic materials; and design issues and tradeoffs. Students will conduct practical design tasks to investigate the planning, design, construction, operation and post-closure of phases of an engineered waste disposal facility. The important role of geology in geoenvironmental problems is emphasized through classroom discussions, planning a site investigation and constructing a geologic model.", 
+        "number": "443", 
+        "subject": "CIVL", 
         "title": "Geoenvironmental Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 36,
-            "Eng Sci": 12,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 36, 
+            "Eng Sci": 12, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of CIVL340 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of CIVL340 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

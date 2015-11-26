@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "",
-        "number": "800",
-        "subject": "CONT",
+        "description": "", 
+        "number": "800", 
+        "subject": "CONT", 
         "title": "Kindergarten"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Non-Credit",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Non-Credit", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Honours/Pass/Fail",
+        }, 
+        "grading_basis": "Honours/Pass/Fail", 
         "units": "6.00"
     }
 }

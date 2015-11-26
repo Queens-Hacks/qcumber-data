@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is designed to critically expose graduate students to the main tenets of feminist approaches to scientific knowledge and technological innovation and applications. The course focuses primarily on North American and Western European analyses including post-modernity and scientific rationalism, object-relations theory as applied to the construction of scientific knowledge, theories of science and the state, and technological development as masculine endeavor. Issues for women around science and technology in developing countries will also be examined. Medicine, weaponry, production and cultural production are areas which are examined as sites of science and technological applications with both immediate consequences (as medical consumerism, employment possibilities) and long-term implications for women (as the formation and value of knowledge, the medicalization and pathologization of women's experiences, the cultural representation and reproduction of femininity).",
-        "number": "929",
-        "subject": "SOCY",
+        "description": "This course is designed to critically expose graduate students to the main tenets of feminist approaches to scientific knowledge and technological innovation and applications. The course focuses primarily on North American and Western European analyses including post-modernity and scientific rationalism, object-relations theory as applied to the construction of scientific knowledge, theories of science and the state, and technological development as masculine endeavor. Issues for women around science and technology in developing countries will also be examined. Medicine, weaponry, production and cultural production are areas which are examined as sites of science and technological applications with both immediate consequences (as medical consumerism, employment possibilities) and long-term implications for women (as the formation and value of knowledge, the medicalization and pathologization of women's experiences, the cultural representation and reproduction of femininity).", 
+        "number": "929", 
+        "subject": "SOCY", 
         "title": "Feminism\u00a0 Science And Technol."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

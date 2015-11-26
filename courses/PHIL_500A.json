@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course involves a directed study of a philosophical topic. Topics chosen may be from any area of philosophy, and should be determined in consultation with a proposed supervising instructor.",
-        "number": "500A",
-        "subject": "PHIL",
+        "description": "This course involves a directed study of a philosophical topic. Topics chosen may be from any area of philosophy, and should be determined in consultation with a proposed supervising instructor.", 
+        "number": "500A", 
+        "subject": "PHIL", 
         "title": "Directed Special Studies"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

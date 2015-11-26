@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides in-depth integration of advanced concepts in epidemiology, with theory and examples, including causation and causal inference, study design and conduct, alternate designs, confounding, effect modification, internal and external validity, misclassification, source populations, statistical power and sample size, epidemiologic data analysis and interpretation, meta-analysis and selected specific research areas. This is an advanced course intended primarily for Ph.D. students. Sessions consist of lectures, seminars, student presentations and discussions. Three term- hours, fall and winter. Patti Groome and Harriet Richardson",
-        "number": "901B",
-        "subject": "EPID",
+        "description": "This course provides in-depth integration of advanced concepts in epidemiology, with theory and examples, including causation and causal inference, study design and conduct, alternate designs, confounding, effect modification, internal and external validity, misclassification, source populations, statistical power and sample size, epidemiologic data analysis and interpretation, meta-analysis and selected specific research areas. This is an advanced course intended primarily for Ph.D. students. Sessions consist of lectures, seminars, student presentations and discussions. Three term- hours, fall and winter. Patti Groome and Harriet Richardson", 
+        "number": "901B", 
+        "subject": "EPID", 
         "title": "Advanced Epidemiology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

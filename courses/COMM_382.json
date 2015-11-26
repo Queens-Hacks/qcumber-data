@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course expands upon the material from Business Law I (an introduction to common law, specifically the law of tort and contracts).\u00a0 Commerce 382 is concerned primarily with the law and regulation relating to specific business activities (sales, marketing, leasing and bailment) and business relationships (business organizations, agency and credit relationships).\u00a0 Other topics which may be addressed include intellectual property, ownership of real property, insurance and employment law.",
-        "number": "382",
-        "subject": "COMM",
+        "description": "This course expands upon the material from Business Law I (an introduction to common law, specifically the law of tort and contracts).\u00a0 Commerce 382 is concerned primarily with the law and regulation relating to specific business activities (sales, marketing, leasing and bailment) and business relationships (business organizations, agency and credit relationships).\u00a0 Other topics which may be addressed include intellectual property, ownership of real property, insurance and employment law.", 
+        "number": "382", 
+        "subject": "COMM", 
         "title": "Business Law II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 COMM381. Admission restricted to third- and fourth-year students.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 COMM381. Admission restricted to third- and fourth-year students.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

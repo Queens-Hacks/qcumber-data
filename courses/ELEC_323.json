@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This is a first course on the basic concepts and applications of signals and systems analysis. Continuous time signals and systems are emphasized. Topics include: representations of continuous-time signals; linear time-invariant systems; convolution, impulse response, step response; review of Laplace transforms with applications to circuit and system analysis; transfer function; frequency response and Bode plots; filtering concepts; Fourier series and Fourier transforms; signal spectra; AM modulation and demodulation; introduction to angle modulation.",
-        "number": "323",
-        "subject": "ELEC",
+        "description": "This is a first course on the basic concepts and applications of signals and systems analysis. Continuous time signals and systems are emphasized. Topics include: representations of continuous-time signals; linear time-invariant systems; convolution, impulse response, step response; review of Laplace transforms with applications to circuit and system analysis; transfer function; frequency response and Bode plots; filtering concepts; Fourier series and Fourier transforms; signal spectra; AM modulation and demodulation; introduction to angle modulation.", 
+        "number": "323", 
+        "subject": "ELEC", 
         "title": "Continuous-Time Signals and Systems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 33,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 33, 
             "Math": 12
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of ELEC221 and (MTHE235 or MTHE237) and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC221 and (MTHE235 or MTHE237) and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.75"
     }
 }

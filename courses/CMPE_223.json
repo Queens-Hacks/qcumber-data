@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction to techniques for specifying the behaviour of software, with applications of these techniques to design, verification and construction of software. Logic-based techniques such as loop invariants and class invariants. Automata and grammar-based techniques, with applications to scanners, parsers, user-interface dialogs and embedded systems. Computability issues in software specifications.",
-        "number": "223",
-        "subject": "CMPE",
+        "description": "Introduction to techniques for specifying the behaviour of software, with applications of these techniques to design, verification and construction of software. Logic-based techniques such as loop invariants and class invariants. Automata and grammar-based techniques, with applications to scanners, parsers, user-interface dialogs and embedded systems. Computability issues in software specifications.", 
+        "number": "223", 
+        "subject": "CMPE", 
         "title": "Software Specifications"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: ELEC 270 and ELEC 276 or ELEC 278 and must be registered in BSCE.\r\nEXCLUSION: CISC 366",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: ELEC 270 and ELEC 276 or ELEC 278 and must be registered in BSCE.\r\nEXCLUSION: CISC 366", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course, obligatory for all candidates seeking an Ontario Teacher's Certificate, provides an overview of the legal aspects of teaching in Ontario. Attention is focused on the Education Act, R.S.O. 1990 and the Teaching Profession Act, R.S.O. 1990, and selected regulations supporting these statutes. Teacher candidates receive basic information about the legal duties of education personnel; the teacher's contract of employment and related job security procedures; and the purposes, structure and practices of the teacher associations in Ontario.",
-        "number": "181A",
-        "subject": "PROF",
+        "description": "This course, obligatory for all candidates seeking an Ontario Teacher's Certificate, provides an overview of the legal aspects of teaching in Ontario. Attention is focused on the Education Act, R.S.O. 1990 and the Teaching Profession Act, R.S.O. 1990, and selected regulations supporting these statutes. Teacher candidates receive basic information about the legal duties of education personnel; the teacher's contract of employment and related job security procedures; and the purposes, structure and practices of the teacher associations in Ontario.", 
+        "number": "181A", 
+        "subject": "PROF", 
         "title": "School Law and Policy"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "0.00"
     }
 }

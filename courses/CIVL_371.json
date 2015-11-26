@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course introduces students to the fundamentals of groundwater systems with an emphasis on the engineering design of extraction systems for water supply, site dewatering, and parameter estimation tests. Source water protection methods will be discussed. Equations governing the flow of groundwater, flownets, and capture zones are presented. Detailed case histories are presented. Laboratories make extensive use of commercial grade software for surface and groundwater flow simulationPPE will be required for this course at student's cost (see course materials for details).",
-        "number": "371",
-        "subject": "CIVL",
+        "description": "This course introduces students to the fundamentals of groundwater systems with an emphasis on the engineering design of extraction systems for water supply, site dewatering, and parameter estimation tests. Source water protection methods will be discussed. Equations governing the flow of groundwater, flownets, and capture zones are presented. Detailed case histories are presented. Laboratories make extensive use of commercial grade software for surface and groundwater flow simulationPPE will be required for this course at student's cost (see course materials for details).", 
+        "number": "371", 
+        "subject": "CIVL", 
         "title": "Groundwater Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 14,
-            "Eng Sci": 30,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 14, 
+            "Eng Sci": 30, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MTHE 224 OR MTHE 225 OR MTHE 232 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MTHE 224 OR MTHE 225 OR MTHE 232 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.75"
     }
 }

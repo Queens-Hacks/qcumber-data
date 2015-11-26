@@ -1,37 +1,37 @@
 {
-    "_unique": "001-LEC (8695)",
+    "_unique": "001-LEC (8695)", 
     "availability": {
-        "class_curr": 0,
-        "class_max": 15,
-        "wait_curr": 0,
+        "class_curr": 0, 
+        "class_max": 15, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "836",
-        "season": "Fall",
-        "solus_id": "8695",
-        "status": "Open",
-        "subject": "MINE",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "836", 
+        "season": "Fall", 
+        "solus_id": "8695", 
+        "status": "Open", 
+        "subject": "MINE", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Kelebek, Sadan"
-            ],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-12-04",
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

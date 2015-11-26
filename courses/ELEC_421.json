@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Sampling theorem, filter realization structures, quantization errors and finite word length effects, digital signal processor programming, finite and infinite impulse response filter design techniques, discrete and fast Fourier transform.\u00a0",
-        "number": "421",
-        "subject": "ELEC",
+        "description": "Sampling theorem, filter realization structures, quantization errors and finite word length effects, digital signal processor programming, finite and infinite impulse response filter design techniques, discrete and fast Fourier transform.\u00a0", 
+        "number": "421", 
+        "subject": "ELEC", 
         "title": "Digital Signal Processing: Filters and System Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 24,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of (ELEC321 and ELEC324) or (MATH334 and MATH335) and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of (ELEC321 and ELEC324) or (MTHE334 and MTHE335) and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

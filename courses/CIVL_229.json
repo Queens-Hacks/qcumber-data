@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "",
-        "number": "229",
-        "subject": "CIVL",
+        "description": "", 
+        "number": "229", 
+        "subject": "CIVL", 
         "title": "Mechanics And Materials"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of CIVL228 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of CIVL228 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

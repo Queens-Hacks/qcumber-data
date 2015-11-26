@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "An advanced course for honours and graduate students in which selected areas of physiology are studied in depth.\u00a0Two hours seminar. S. Iscoe.",
-        "number": "836",
-        "subject": "PHGY",
+        "description": "An advanced course for honours and graduate students in which selected areas of physiology are studied in depth.\u00a0Two hours seminar. S. Iscoe.", 
+        "number": "836", 
+        "subject": "PHGY", 
         "title": "Advanced Physiology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

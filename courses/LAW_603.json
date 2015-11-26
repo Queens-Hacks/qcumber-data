@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "",
-        "number": "603",
-        "subject": "LAW",
+        "description": "", 
+        "number": "603", 
+        "subject": "LAW", 
         "title": "Comparative Corp Governance"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "enrollment_requirement": "LAW 440",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "LAW 440", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

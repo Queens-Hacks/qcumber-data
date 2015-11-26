@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A critical analysis of important topics in behavioural neuroscience, with emphasis on current, controversial areas including: brain plasticity, learning and memory, neurobiology of sleep and consciousness. Laboratories emphasize behavioural neurosicence methods with hands-on experience in projects related to the lecture material.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;48P)",
-        "number": "371",
-        "subject": "PSYC",
+        "description": "A critical analysis of important topics in behavioural neuroscience, with emphasis on current, controversial areas including: brain plasticity, learning and memory, neurobiology of sleep and consciousness. Laboratories emphasize behavioural neurosicence methods with hands-on experience in projects related to the lecture material.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;36Lb;48P)", 
+        "number": "371", 
+        "subject": "PSYC", 
         "title": "Research Problems in Behavioural Neuroscience"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 PSYC271 and PSYC370",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 PSYC271 and PSYC370", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Cultural heritage preservation will be considered through historical and theoretical documents and with the analyses of approaches using case-studies drawn from UNESCO World Heritage Sites.\u00a0 The impact of war on heritage will be stressed.\u00a0 The goal is to provide an advanced introduction to the subject and to enable focused research on specific sites.",
-        "number": "860",
-        "subject": "ARTH",
+        "description": "Cultural heritage preservation will be considered through historical and theoretical documents and with the analyses of approaches using case-studies drawn from UNESCO World Heritage Sites.\u00a0 The impact of war on heritage will be stressed.\u00a0 The goal is to provide an advanced introduction to the subject and to enable focused research on specific sites.", 
+        "number": "860", 
+        "subject": "ARTH", 
         "title": "Cultural Heritage Preservation"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

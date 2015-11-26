@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Students will gain knowledge and skill in the assessment and management of individuals with musculoskeletal injuries related to physical work, sport and leisure activities. They will be able to critically evaluate the literature related to ergonomic assessment and intervention, including psychophysical, physiological and biomechanical approaches. Topics in occupational health and safety related to injury prevention, as well as advanced manual therapy approaches to the assessment and management of musculoskeletal injury, are included. Lab component.",
-        "number": "865B",
-        "subject": "PT",
+        "description": "Students will gain knowledge and skill in the assessment and management of individuals with musculoskeletal injuries related to physical work, sport and leisure activities. They will be able to critically evaluate the literature related to ergonomic assessment and intervention, including psychophysical, physiological and biomechanical approaches. Topics in occupational health and safety related to injury prevention, as well as advanced manual therapy approaches to the assessment and management of musculoskeletal injury, are included. Lab component.", 
+        "number": "865B", 
+        "subject": "PT", 
         "title": "Motor Function & Occupation"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

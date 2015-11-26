@@ -1,103 +1,103 @@
 {
-    "_unique": "004-LAB (5214)",
+    "_unique": "004-LAB (5214)", 
     "availability": {
-        "class_curr": 55,
-        "class_max": 62,
-        "wait_curr": 0,
+        "class_curr": 64, 
+        "class_max": 73, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "004",
-        "course": "252",
-        "season": "Winter",
-        "solus_id": "5214",
-        "status": "Open",
-        "subject": "ELEC",
-        "type": "LAB",
+        "class_num": "004", 
+        "course": "252", 
+        "season": "Winter", 
+        "solus_id": "5214", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "LAB", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Freundorfer, Alois Peter"
-            ],
-            "location": "BEAMISH-MUNRO RM314",
-            "start_time": "08:30:00",
-            "term_end": "2016-01-10",
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-01-10", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Freundorfer, Alois Peter"
-            ],
-            "location": "BEAMISH-MUNRO RM314",
-            "start_time": "08:30:00",
-            "term_end": "2016-01-24",
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-01-24", 
             "term_start": "2016-01-18"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Freundorfer, Alois Peter"
-            ],
-            "location": "BEAMISH-MUNRO RM314",
-            "start_time": "08:30:00",
-            "term_end": "2016-02-07",
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-02-07", 
             "term_start": "2016-02-01"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Freundorfer, Alois Peter"
-            ],
-            "location": "BEAMISH-MUNRO RM314",
-            "start_time": "08:30:00",
-            "term_end": "2016-02-21",
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-02-21", 
             "term_start": "2016-02-15"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Freundorfer, Alois Peter"
-            ],
-            "location": "BEAMISH-MUNRO RM314",
-            "start_time": "08:30:00",
-            "term_end": "2016-03-06",
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-03-06", 
             "term_start": "2016-02-29"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Freundorfer, Alois Peter"
-            ],
-            "location": "BEAMISH-MUNRO RM314",
-            "start_time": "08:30:00",
-            "term_end": "2016-03-20",
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-03-20", 
             "term_start": "2016-03-14"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Freundorfer, Alois Peter"
-            ],
-            "location": "BEAMISH-MUNRO RM314",
-            "start_time": "08:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-03-28"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

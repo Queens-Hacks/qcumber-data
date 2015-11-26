@@ -1,0 +1,48 @@
+{
+    "_unique": "001-SEM (9094)", 
+    "availability": {
+        "class_curr": 14, 
+        "class_max": 25, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "001", 
+        "course": "850", 
+        "season": "Fall", 
+        "solus_id": "9094", 
+        "status": "Open", 
+        "subject": "CIVL", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "21:00:00", 
+            "instructors": [
+                "da Silva, Ana Maria"
+            ], 
+            "location": "JEFFERY RM115", 
+            "start_time": "18:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "21:00:00", 
+            "instructors": [
+                "da Silva, Ana Maria"
+            ], 
+            "location": "MCLAUGHLIN RM302", 
+            "start_time": "18:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ], 
+    "details": {
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
+        "session": "Regular Academic Session"
+    }
+}

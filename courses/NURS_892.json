@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A study under the guidance of a graduate faculty member in a nursing subject not in existing courses. Normally it takes the form of a closely supervised reading and/or practicum in an area of the instructor's expertise with appropriate means of evaluation. Must not directly overlap thesis work.",
-        "number": "892",
-        "subject": "NURS",
+        "description": "A study under the guidance of a graduate faculty member in a nursing subject not in existing courses. Normally it takes the form of a closely supervised reading and/or practicum in an area of the instructor's expertise with appropriate means of evaluation. Must not directly overlap thesis work.", 
+        "number": "892", 
+        "subject": "NURS", 
         "title": "Independent Study"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

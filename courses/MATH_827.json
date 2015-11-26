@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Topics include: global properties of flows and diffeomorphisms; invariant sets and dynamics; bifurcations of fixed and periodic points; stability and chaos. (Offered jointly with MATH-427*.) Three term-hours, fall or winter; lectures.",
-        "number": "827",
-        "subject": "MATH",
+        "description": "Topics include: global properties of flows and diffeomorphisms; invariant sets and dynamics; bifurcations of fixed and periodic points; stability and chaos. (Offered jointly with MATH-427*.) Three term-hours, fall or winter; lectures.", 
+        "number": "827", 
+        "subject": "MATH", 
         "title": "Deterministic Dynamical System"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A multi-day field trip that uses stratigraphic, sedimentological, paleontological, and structural data to interpret shall-and-deep-marine rock successions in paleoenvironmental and tectonic context. Enrollment is limited. Course runs during the week of Canadian Thanksgiving.\nNOTE\u00a0\u00a0\u00a0 The course runs during the week that includes Canadian Thanksgiving. Students are responsible for the cost of accommodation and transportation during the trip.\u00a0 Please contact the Department for more information.",
-        "number": "401",
-        "subject": "GEOL",
+        "description": "A multi-day field trip that uses stratigraphic, sedimentological, paleontological, and structural data to interpret shall-and-deep-marine rock successions in paleoenvironmental and tectonic context. Enrollment is limited. Course runs during the week of Canadian Thanksgiving.\nNOTE\u00a0\u00a0\u00a0 The course runs during the week that includes Canadian Thanksgiving. Students are responsible for the cost of accommodation and transportation during the trip.\u00a0 Please contact the Department for more information.", 
+        "number": "401", 
+        "subject": "GEOL", 
         "title": "Field Studies in Geology II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Field Studies": "Required"
-        },
-        "enrollment_requirement": "Prereqsuite\u00a0\u00a0\u00a0 (A GPA of 2.9 in GEOL221; GEOL238; GEOL321 or permission of the Dept.\nCorequisite\u00a0\u00a0\u00a0 GEOL488.\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 1.5 units from GEOL401; GEOL402.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prereqsuite\u00a0\u00a0\u00a0 (A GPA of 2.9 in GEOL221; GEOL238; GEOL321 or permission of the Dept.\nCorequisite\u00a0\u00a0\u00a0 GEOL488.\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 1.5 units from GEOL401; GEOL402.", 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

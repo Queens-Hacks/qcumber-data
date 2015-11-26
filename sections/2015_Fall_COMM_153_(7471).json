@@ -1,48 +1,46 @@
 {
-    "_unique": "006-LEC (7471)",
+    "_unique": "006-LEC (7471)", 
     "availability": {
-        "class_curr": 82,
-        "class_max": 82,
-        "wait_curr": 0,
+        "class_curr": 81, 
+        "class_max": 82, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "006",
-        "course": "153",
-        "season": "Fall",
-        "solus_id": "7471",
-        "status": "Closed",
-        "subject": "COMM",
-        "type": "LEC",
+        "class_num": "006", 
+        "course": "153", 
+        "season": "Fall", 
+        "solus_id": "7471", 
+        "status": "Open", 
+        "subject": "COMM", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "13:00:00",
-            "instructors": [
-                "Sansom, Lisa"
-            ],
-            "location": "GOODES RM151",
-            "start_time": "11:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
+            "instructors": [], 
+            "location": "GOODES RM151", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "14:30:00",
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Sansom, Lisa"
-            ],
-            "location": "GOODES RM151",
-            "start_time": "13:00:00",
-            "term_end": "2015-10-09",
+            ], 
+            "location": "GOODES RM151", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

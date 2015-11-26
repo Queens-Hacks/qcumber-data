@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "",
-        "number": "898",
-        "subject": "HIST",
+        "description": "", 
+        "number": "898", 
+        "subject": "HIST", 
         "title": "Master's Essay Res. (Pat. II)"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Pass/Fail",
+        }, 
+        "grading_basis": "Pass/Fail", 
         "units": "6.00"
     }
 }

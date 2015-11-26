@@ -1,37 +1,37 @@
 {
-    "_unique": "001-SEM (2984)",
+    "_unique": "001-SEM (2984)", 
     "availability": {
-        "class_curr": 18,
-        "class_max": 33,
-        "wait_curr": 0,
+        "class_curr": 20, 
+        "class_max": 33, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "430A",
-        "season": "Fall",
-        "solus_id": "2984",
-        "status": "Closed",
-        "subject": "HIST",
-        "type": "SEM",
+        "class_num": "001", 
+        "course": "430A", 
+        "season": "Fall", 
+        "solus_id": "2984", 
+        "status": "Closed", 
+        "subject": "HIST", 
+        "type": "SEM", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 4,
-            "end_time": "17:30:00",
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
             "instructors": [
                 "Greenfield, Richard P H"
-            ],
-            "location": "MACINTOSH-CORRY RM E202",
-            "start_time": "14:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "MACINTOSH-CORRY RM E202", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Advanced technical production studies involving sound, lighting, stage management, wardrobe, and carpentry. Students will participate in major departmental technical projects.\r\nNOTE\u00a0\u00a0 \u00a0The normal classroom time of 36 hours is spread over two terms.",
-        "number": "345B",
-        "subject": "DRAM",
+        "description": "Advanced technical production studies involving sound, lighting, stage management, wardrobe, and carpentry. Students will participate in major departmental technical projects.\r\nNOTE\u00a0\u00a0 \u00a0The normal classroom time of 36 hours is spread over two terms.", 
+        "number": "345B", 
+        "subject": "DRAM", 
         "title": "Applied Technical Production"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

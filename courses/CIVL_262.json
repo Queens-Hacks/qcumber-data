@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "",
-        "number": "262",
-        "subject": "CIVL",
+        "description": "", 
+        "number": "262", 
+        "subject": "CIVL", 
         "title": "Intro To Civl Eng Plan & Desig"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

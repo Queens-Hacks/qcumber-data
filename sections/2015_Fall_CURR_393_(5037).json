@@ -1,59 +1,81 @@
 {
-    "_unique": "001-LEC (5037)",
+    "_unique": "001-LEC (5037)", 
     "availability": {
-        "class_curr": 32,
-        "class_max": 40,
-        "wait_curr": 0,
+        "class_curr": 32, 
+        "class_max": 32, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "393",
-        "season": "Fall",
-        "solus_id": "5037",
-        "status": "Open",
-        "subject": "CURR",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "393", 
+        "season": "Fall", 
+        "solus_id": "5037", 
+        "status": "Closed", 
+        "subject": "CURR", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "10:30:00",
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "Upitis, Rena Brigit"
-            ],
-            "location": "DUNCAN MCARTHUR RM B219",
-            "start_time": "08:30:00",
-            "term_end": "2015-10-09",
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-09", 
             "term_start": "2015-09-02"
-        },
+        }, 
         {
-            "day_of_week": 1,
-            "end_time": "10:30:00",
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "Upitis, Rena Brigit"
-            ],
-            "location": "DUNCAN MCARTHUR RM B219",
-            "start_time": "08:30:00",
-            "term_end": "2015-12-18",
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-30", 
             "term_start": "2015-11-23"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "10:30:00",
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "Upitis, Rena Brigit"
-            ],
-            "location": "DUNCAN MCARTHUR RM B219",
-            "start_time": "08:30:00",
-            "term_end": "2015-09-04",
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-09-04", 
             "term_start": "2015-09-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-09", 
+            "term_start": "2015-12-09"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
         "session": "Education Regular"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A course covering the techniques and applications of cost-benefit analysis and project evaluation. Topics include the foundations of cost-benefit analysis; investment decision rules; the social discount rate; risk and uncertainty; and the shadow pricing of inputs. Objectives such as income distribution and macro-economic goals are also considered. Offered concurrently with ECON 837/3.0.\nLEARNING HOURS\u00a0\u00a0 120 (36L;6G;78P)",
-        "number": "437",
-        "subject": "ECON",
+        "description": "A course covering the techniques and applications of cost-benefit analysis and project evaluation. Topics include the foundations of cost-benefit analysis; investment decision rules; the social discount rate; risk and uncertainty; and the shadow pricing of inputs. Objectives such as income distribution and macro-economic goals are also considered. Offered concurrently with ECON 837/3.0.\nLEARNING HOURS\u00a0\u00a0 120 (36L;6G;78P)", 
+        "number": "437", 
+        "subject": "ECON", 
         "title": "Cost-Benefit Analysis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "(ECON255 AND ECON310)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "(ECON255 AND ECON310)", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

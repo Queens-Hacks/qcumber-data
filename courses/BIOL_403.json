@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A hands-on survey of selected experimental approaches to studying cell biology and molecular physiology.\nLEARNING HOURS\u00a0\u00a0 120 (36Lb;12T;72Oc)",
-        "number": "403",
-        "subject": "BIOL",
+        "description": "A hands-on survey of selected experimental approaches to studying cell biology and molecular physiology.\nLEARNING HOURS\u00a0\u00a0 120 (36Lb;12T;72Oc)", 
+        "number": "403", 
+        "subject": "BIOL", 
         "title": "Frontiers in Cell and Molecular Physiology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 (BIOL330 or BCHM218 or MBIO218) and (BIOL334 or BIOL339 or BIOL341).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0 (BIOL330 or BCHM218 or MBIO218) and (BIOL334 or BIOL339 or BIOL341).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

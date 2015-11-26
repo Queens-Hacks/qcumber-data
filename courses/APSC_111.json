@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This course is an introduction to Newtonian mechanics in the context of engineering applications. Lecture topics are: vectors, motion of a particle, particle dynamics, work and energy, statics and dynamics of rigid bodies, conservation of energy, momentum, and collisions.",
-        "number": "111",
-        "subject": "APSC",
+        "description": "This course is an introduction to Newtonian mechanics in the context of engineering applications. Lecture topics are: vectors, motion of a particle, particle dynamics, work and energy, statics and dynamics of rigid bodies, conservation of energy, momentum, and collisions.", 
+        "number": "111", 
+        "subject": "APSC", 
         "title": "Mechanics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 42,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 42, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Must be registered in a BSCE or UENG program.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

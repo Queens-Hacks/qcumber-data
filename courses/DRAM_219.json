@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A seminar or workshop in selected areas of the curriculum. \r\nNOTE\u00a0\u00a0\u00a0 Not offered each year. Prerequisites vary depending on specific course content. See Department for details.",
-        "number": "219",
-        "subject": "DRAM",
+        "description": "A seminar or workshop in selected areas of the curriculum. \r\nNOTE\u00a0\u00a0\u00a0 Not offered each year. Prerequisites vary depending on specific course content. See Department for details.", 
+        "number": "219", 
+        "subject": "DRAM", 
         "title": "Special Studies I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "DRAM100 OR DRAM101 OR DRAM105 OR DRAM181",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "DRAM100 OR DRAM101 OR DRAM105 OR DRAM181", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

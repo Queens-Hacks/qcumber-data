@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics include: the production and measurement of X-rays and charged particles for radiation therapy and nuclear medicine; interactions of radiation with matter and biological materials; interaction coefficients and radiation dosimetry; radiation safety; physics of medical imaging with examples from nuclear medicine, ultrasound and magnetic resonance imaging.",
-        "number": "495",
-        "subject": "PHYS",
+        "description": "Topics include: the production and measurement of X-rays and charged particles for radiation therapy and nuclear medicine; interactions of radiation with matter and biological materials; interaction coefficients and radiation dosimetry; radiation safety; physics of medical imaging with examples from nuclear medicine, ultrasound and magnetic resonance imaging.", 
+        "number": "495", 
+        "subject": "PHYS", 
         "title": "Introduction to Medical Physics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (PHYS344 or PHYS343) and (PHYS312 or MATH338) and (PHYS350 or PHYS352).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (PHYS344 or PHYS343) and (PHYS312 or MATH338) and (PHYS350 or PHYS352).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

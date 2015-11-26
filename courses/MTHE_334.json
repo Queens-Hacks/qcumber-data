@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Banach and Hilbert spaces of continuous- and discrete-time signals; spaces of continuous and not necessarily\u00a0continuous signals; continuous-discrete Fourier transform; continuous-continuous Fourier transform; discrete-continuous Fourier transform; discrete-discrete Fourier transform; transform inversion using Fourier series and\u00a0Fourier \u00a0integrals.",
-        "number": "334",
-        "subject": "MTHE",
+        "description": "Banach and Hilbert spaces of continuous- and discrete-time signals; spaces of continuous and not necessarily\u00a0continuous signals; continuous-discrete Fourier transform; continuous-continuous Fourier transform; discrete-continuous Fourier transform; discrete-discrete Fourier transform; transform inversion using Fourier series and\u00a0Fourier \u00a0integrals.", 
+        "number": "334", 
+        "subject": "MTHE", 
         "title": "Math Methods For Engrg & Phys"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 14,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 14, 
             "Math": 28
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MTHE 237 or MATH 237 and MTHE 281 or MATH 281 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 237 or MATH 237 and MTHE 281 or MATH 281 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

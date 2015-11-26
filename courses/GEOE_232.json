@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Characterization of rock- and soil-forming silicate and non-silicate minerals (their crystallography, optical and physical behaviour, and crystal chemistry). The structural, chemical and genetic aspects of the crystalline state as displayed by minerals are considered. Implications of mineral properties for the engineering behaviour of soils and rocks, and for human needs, are discussed.",
-        "number": "232",
-        "subject": "GEOE",
+        "description": "Characterization of rock- and soil-forming silicate and non-silicate minerals (their crystallography, optical and physical behaviour, and crystal chemistry). The structural, chemical and genetic aspects of the crystalline state as displayed by minerals are considered. Implications of mineral properties for the engineering behaviour of soils and rocks, and for human needs, are discussed.", 
+        "number": "232", 
+        "subject": "GEOE", 
         "title": "Mineralogy"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 40,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 14,
+            "Basic Sci": 40, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 14, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: APSC 151 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 151 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

@@ -1,70 +1,70 @@
 {
-    "_unique": "003-LEC (3246)",
+    "_unique": "003-LEC (3246)", 
     "availability": {
-        "class_curr": 209,
-        "class_max": 225,
-        "wait_curr": 0,
+        "class_curr": 223, 
+        "class_max": 230, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "112B",
-        "season": "Winter",
-        "solus_id": "3246",
-        "status": "Open",
-        "subject": "CHEM",
-        "type": "LEC",
+        "class_num": "003", 
+        "course": "112B", 
+        "season": "Winter", 
+        "solus_id": "3246", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "15:30:00",
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
             "instructors": [
                 "Wang, Suning"
-            ],
-            "location": "CHERNOFF AUD",
-            "start_time": "14:30:00",
-            "term_end": "2016-02-12",
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-12", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "16:30:00",
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
             "instructors": [
                 "Wang, Suning"
-            ],
-            "location": "CHERNOFF AUD",
-            "start_time": "15:30:00",
-            "term_end": "2016-02-12",
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-02-12", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 1,
-            "end_time": "15:30:00",
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
             "instructors": [
                 "Macartney, Donal H"
-            ],
-            "location": "CHERNOFF AUD",
-            "start_time": "14:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-02-22"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "16:30:00",
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
             "instructors": [
                 "Macartney, Donal H"
-            ],
-            "location": "CHERNOFF AUD",
-            "start_time": "15:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-02-22"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An intensive two-week course taken immediately after final examinations in second year. Teams of students apply geological field methods and geological engineering assessment techniques learned during second year, as the basis for an engineering assessment of overburden and bedrock for a suite of specific engineering design outcomes. These outcomes include mineral resource evaluation, mine design, geotechnical stability and environmental baseline assessment related to future engineering works. In addition the students are expected to optimize the design of their own site investigation program to maximize the practical value of information obtained. A final site investigation and engineering report, including design solutions for the aforementioned problems, is presented and defended. Field safety regulations and safe practice are emphasized.\u00a0(0/0/0/15/45)",
-        "number": "310",
-        "subject": "GEOL",
+        "description": "An intensive two-week course taken immediately after final examinations in second year. Teams of students apply geological field methods and geological engineering assessment techniques learned during second year, as the basis for an engineering assessment of overburden and bedrock for a suite of specific engineering design outcomes. These outcomes include mineral resource evaluation, mine design, geotechnical stability and environmental baseline assessment related to future engineering works. In addition the students are expected to optimize the design of their own site investigation program to maximize the practical value of information obtained. A final site investigation and engineering report, including design solutions for the aforementioned problems, is presented and defended. Field safety regulations and safe practice are emphasized.\u00a0(0/0/0/15/45)", 
+        "number": "310", 
+        "subject": "GEOL", 
         "title": "Geological Engr Field School"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Field Studies": "Required"
-        },
-        "enrollment_requirement": "Exclusion: GEOL300.\u00a0 Prerequisite of GEOL211 and GEOL235 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusion: GEOL300.\u00a0 Prerequisite of GEOL211 and GEOL235 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "5.00"
     }
 }

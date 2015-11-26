@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Methods and theory for ordinary and partial differential equations; separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bessel orthogonal functions; the wave, diffusion, and Laplace's equation; Sturm-Liouville theory; Fourier transform and Laplace transform techniques.",
-        "number": "338",
-        "subject": "MTHE",
+        "description": "Methods and theory for ordinary and partial differential equations; separation of variables in rectangular and cylindrical coordinate systems; sinusoidal and Bessel orthogonal functions; the wave, diffusion, and Laplace's equation; Sturm-Liouville theory; Fourier transform and Laplace transform techniques.", 
+        "number": "338", 
+        "subject": "MTHE", 
         "title": "Fourier Methods for Boundary Value Problems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 14,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 14, 
             "Math": 28
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 (MATH221 or MATH280) and (MATH232 or MATH231) and (MATH110 or MATH111).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: MTHE 227 (MATH 227) or MTHE 280 (MATH 280), MATH 226 or MTHE 237 (MATH\u00a0 237), or MTHE 232 (MATH 232) or permission of the instructor", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

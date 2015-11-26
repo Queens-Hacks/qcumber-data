@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course covers all aspects of the design and operation of internal combustion engines. Principles of thermodynamics and fluid mechanics are used in the analysis of internal combustion engines. Course content includes discussions on both spark ignition and compression ignition (diesel) engines with special emphasis placed on new engine technologies. Intake, in-cylinder and exhaust flows are considered along with various aspects of combustion phenomenon relevant to engines. This course includes a laboratory involving engine performance measurements made using a dynamometer.",
-        "number": "435",
-        "subject": "MECH",
+        "description": "This course covers all aspects of the design and operation of internal combustion engines. Principles of thermodynamics and fluid mechanics are used in the analysis of internal combustion engines. Course content includes discussions on both spark ignition and compression ignition (diesel) engines with special emphasis placed on new engine technologies. Intake, in-cylinder and exhaust flows are considered along with various aspects of combustion phenomenon relevant to engines. This course includes a laboratory involving engine performance measurements made using a dynamometer.", 
+        "number": "435", 
+        "subject": "MECH", 
         "title": "Internal Combustion Engines"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 30,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MECH230 or CHEE210 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH230 or CHEE210 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

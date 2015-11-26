@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Fluid mechanics and thermodynamics applied to turbomachines; dimensionless performance characteristics; momentum and energy equations; thermodynamics and efficiencies; cascade aerodynamics; compressors and turbines, reaction and stage loading; radial equilibrium; radial flow machines; application of generalized performance to choice of compressors; mechanical details and auxiliary systems.",
-        "number": "439",
-        "subject": "MECH",
+        "description": "Fluid mechanics and thermodynamics applied to turbomachines; dimensionless performance characteristics; momentum and energy equations; thermodynamics and efficiencies; cascade aerodynamics; compressors and turbines, reaction and stage loading; radial equilibrium; radial flow machines; application of generalized performance to choice of compressors; mechanical details and auxiliary systems.", 
+        "number": "439", 
+        "subject": "MECH", 
         "title": "Turbomachinery"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 42,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MECH330 and MECH341 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH330 and MECH341 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

@@ -1,37 +1,37 @@
 {
-    "_unique": "005-LAB (6833)",
+    "_unique": "005-LAB (6833)", 
     "availability": {
-        "class_curr": 60,
-        "class_max": 58,
-        "wait_curr": 0,
+        "class_curr": 60, 
+        "class_max": 58, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "005",
-        "course": "224",
-        "season": "Fall",
-        "solus_id": "6833",
-        "status": "Closed",
-        "subject": "MTHE",
-        "type": "LAB",
+        "class_num": "005", 
+        "course": "224", 
+        "season": "Fall", 
+        "solus_id": "6833", 
+        "status": "Closed", 
+        "subject": "MTHE", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "11:30:00",
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Li, Ping"
-            ],
-            "location": "JEFFERY RM155",
-            "start_time": "10:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "JEFFERY RM155", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

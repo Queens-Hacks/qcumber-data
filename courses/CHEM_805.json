@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introductory course on identification of organic and organometallic compounds using multinuclear NMR techniques. The focus will be on practical applications for those working in synthetic chemistry.\u00a0 Fall. F. Sauriol.",
-        "number": "805",
-        "subject": "CHEM",
+        "description": "An introductory course on identification of organic and organometallic compounds using multinuclear NMR techniques. The focus will be on practical applications for those working in synthetic chemistry.\u00a0 Fall. F. Sauriol.", 
+        "number": "805", 
+        "subject": "CHEM", 
         "title": "NMR Methods for Structural Identification"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

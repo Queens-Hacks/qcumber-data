@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "UNENE course number = UN 0801System and overall unit operations relevant to nuclear power plants with emphasis on CANDU; includes all major reactor and process systems with nuclear plant simulator; self-study using interactive CD ROM. Two to three class one day meetings will be scheduled. McMaster University/G. Bereznai",
-        "number": "881",
-        "subject": "UN",
+        "description": "UNENE course number = UN 0801System and overall unit operations relevant to nuclear power plants with emphasis on CANDU; includes all major reactor and process systems with nuclear plant simulator; self-study using interactive CD ROM. Two to three class one day meetings will be scheduled. McMaster University/G. Bereznai", 
+        "number": "881", 
+        "subject": "UN", 
         "title": "Nuclear Plant Syst. Operations"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

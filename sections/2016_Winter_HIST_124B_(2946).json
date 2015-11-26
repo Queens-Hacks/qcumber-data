@@ -1,37 +1,37 @@
 {
-    "_unique": "004-SEM (2946)",
+    "_unique": "004-SEM (2946)", 
     "availability": {
-        "class_curr": 25,
-        "class_max": 35,
-        "wait_curr": 0,
+        "class_curr": 35, 
+        "class_max": 35, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "004",
-        "course": "124B",
-        "season": "Winter",
-        "solus_id": "2946",
-        "status": "Open",
-        "subject": "HIST",
-        "type": "SEM",
+        "class_num": "004", 
+        "course": "124B", 
+        "season": "Winter", 
+        "solus_id": "2946", 
+        "status": "Closed", 
+        "subject": "HIST", 
+        "type": "SEM", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 4,
-            "end_time": "10:00:00",
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
             "instructors": [
                 "Garton, Kendall"
-            ],
-            "location": "KINGSTON RM204",
-            "start_time": "08:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "KINGSTON RM204", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

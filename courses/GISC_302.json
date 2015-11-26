@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Study of the techniques of Geographic Information Systems and their applications in solving physical and environmental problems. Topics include data representation and models, spatial interpolation, raster-based analysis and modelling, surface models and terrain analysis, data visualization, temporal analysis, error and accuracy, and other algorithms and analytical procedures.",
-        "number": "302",
-        "subject": "GISC",
+        "description": "Study of the techniques of Geographic Information Systems and their applications in solving physical and environmental problems. Topics include data representation and models, spatial interpolation, raster-based analysis and modelling, surface models and terrain analysis, data visualization, temporal analysis, error and accuracy, and other algorithms and analytical procedures.", 
+        "number": "302", 
+        "subject": "GISC", 
         "title": "Environmental Modelling"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 16,
-            "Comp St": 6,
-            "Eng Des": 6,
-            "Eng Sci": 4,
+            "Basic Sci": 16, 
+            "Comp St": 6, 
+            "Eng Des": 6, 
+            "Eng Sci": 4, 
             "Math": 4
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Practicum": "Required"
-        },
-        "enrollment_requirement": "(GISC201 AND GPHY247) OR (GISQ202 AND GPHY247) OR (GIMS201 AND GPHY247) OR (GPHY349 AND GPHY247)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "(GISC201 AND GPHY247) OR (GISQ202 AND GPHY247) OR (GIMS201 AND GPHY247) OR (GPHY349 AND GPHY247)", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Evaluation and use of quantitative/qualitative research methodologies as a means of exploring the validity of sociological theories.",
-        "number": "321",
-        "subject": "SOCY",
+        "description": "Evaluation and use of quantitative/qualitative research methodologies as a means of exploring the validity of sociological theories.", 
+        "number": "321", 
+        "subject": "SOCY", 
         "title": "Research Methodology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "(SOCY210 AND SOCY211) OR (SOCY210 AND SOCY221) OR (SOCY210 AND SOCY227) OR (SOCY210 AND SOCY211) OR (SOCY210 AND SOCY226)",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "(SOCY210 AND SOCY211) OR (SOCY210 AND SOCY221) OR (SOCY210 AND SOCY227) OR (SOCY210 AND SOCY211) OR (SOCY210 AND SOCY226)", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

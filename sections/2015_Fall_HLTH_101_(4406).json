@@ -1,35 +1,35 @@
 {
-    "_unique": "018-TUT (4406)",
+    "_unique": "018-TUT (4406)", 
     "availability": {
-        "class_curr": 24,
-        "class_max": 25,
-        "wait_curr": 0,
+        "class_curr": 25, 
+        "class_max": 25, 
+        "wait_curr": 0, 
         "wait_max": 3
-    },
+    }, 
     "basic": {
-        "class_num": "018",
-        "course": "101",
-        "season": "Fall",
-        "solus_id": "4406",
-        "status": "Open",
-        "subject": "HLTH",
-        "type": "TUT",
+        "class_num": "018", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "4406", 
+        "status": "Closed", 
+        "subject": "HLTH", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 5,
-            "end_time": "13:00:00",
-            "instructors": [],
-            "location": "KINES & HLTH RM106",
-            "start_time": "11:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 5, 
+            "end_time": "13:00:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM106", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

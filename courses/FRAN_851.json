@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Les romans de Louis-Ferdinand C\u00e9line et de Samuel Beckett dans leur rapport \u00e0 la langue orale et /ou \u00e0 la langue-m\u00e8re. Hiver, trois heures/semaine. J. B\u00e9nard.",
-        "number": "851",
-        "subject": "FRAN",
+        "description": "Les romans de Louis-Ferdinand C\u00e9line et de Samuel Beckett dans leur rapport \u00e0 la langue orale et /ou \u00e0 la langue-m\u00e8re. Hiver, trois heures/semaine. J. B\u00e9nard.", 
+        "number": "851", 
+        "subject": "FRAN", 
         "title": "Le texte parl\u00e9"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

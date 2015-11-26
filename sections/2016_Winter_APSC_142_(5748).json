@@ -1,35 +1,35 @@
 {
-    "_unique": "222-STD (5748)",
+    "_unique": "222-STD (5748)", 
     "availability": {
-        "class_curr": 83,
-        "class_max": 82,
-        "wait_curr": 0,
+        "class_curr": 75, 
+        "class_max": 82, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "222",
-        "course": "142",
-        "season": "Winter",
-        "solus_id": "5748",
-        "status": "Closed",
-        "subject": "APSC",
-        "type": "STD",
+        "class_num": "222", 
+        "course": "142", 
+        "season": "Winter", 
+        "solus_id": "5748", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "STD", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "10:00:00",
-            "instructors": [],
-            "location": "BEAMISH-MUNRO RM213",
-            "start_time": "08:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 3, 
+            "end_time": "10:00:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

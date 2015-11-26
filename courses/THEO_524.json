@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "",
-        "number": "524",
-        "subject": "THEO",
+        "description": "", 
+        "number": "524", 
+        "subject": "THEO", 
         "title": "Mts Religions Of China"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Must be in a Theology Program: BTH, MDIV, MTS, UTHE, PMDIV, PBTH or GTHE.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be in a Theology Program: BTH, MDIV, MTS, UTHE, PMDIV, PBTH or GTHE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

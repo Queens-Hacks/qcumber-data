@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Complex numbers, analytic functions, harmonic functions, Cauchy's Theorem, Taylor and Laurent series, calculus of residues, Rouche's Theorem.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;84P)",
-        "number": "326",
-        "subject": "MATH",
+        "description": "Complex numbers, analytic functions, harmonic functions, Cauchy's Theorem, Taylor and Laurent series, calculus of residues, Rouche's Theorem.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;84P)", 
+        "number": "326", 
+        "subject": "MATH", 
         "title": "Functions of a Complex Variable"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 MATH281.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from MATH228; MATH326.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 MATH281.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from MATH228; MATH326.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

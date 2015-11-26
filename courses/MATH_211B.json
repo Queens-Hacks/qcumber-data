@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Algebraic techniques used in applied mathematics, statistics, computer science and other areas. Polynomials, complex numbers; least squares approximations; discrete linear systems; eigenvalue estimation; non-negative matrices - Markov chains; permutation groups; linear Diophantine equations; introduction to algebraic structures.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)",
-        "number": "211B",
-        "subject": "MATH",
+        "description": "Algebraic techniques used in applied mathematics, statistics, computer science and other areas. Polynomials, complex numbers; least squares approximations; discrete linear systems; eigenvalue estimation; non-negative matrices - Markov chains; permutation groups; linear Diophantine equations; introduction to algebraic structures.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)", 
+        "number": "211B", 
+        "subject": "MATH", 
         "title": "Algebraic Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

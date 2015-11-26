@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "",
-        "number": "337",
-        "subject": "LAW",
+        "description": "", 
+        "number": "337", 
+        "subject": "LAW", 
         "title": "Client Counsel/Dispute Resol'n"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Exclusion:\u00a0 Maximum of 3.00 units from LAW335, LAW337, LAW341, LAW342, LAW343 and LAW344.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Exclusion:\u00a0 Maximum of 3.00 units from LAW335, LAW337, LAW341, LAW342, LAW343 and LAW344.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

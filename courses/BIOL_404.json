@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Intensive laboratory work (8h/day) to be carried out over two and a half weeks in May. Practical work includes DNA isolations, DNA cloning, PCR, production of proteins, biochemical and immunological analysis of proteins.\nNOTE\u00a0\u00a0\u00a0 Priority to students registered in BIOL\u00a0 Major and Specialization degree plans. See course website for details.",
-        "number": "404",
-        "subject": "BIOL",
+        "description": "Intensive laboratory work (8h/day) to be carried out over two and a half weeks in May. Practical work includes DNA isolations, DNA cloning, PCR, production of proteins, biochemical and immunological analysis of proteins.\nNOTE\u00a0\u00a0\u00a0 Priority to students registered in BIOL\u00a0 Major and Specialization degree plans. See course website for details.", 
+        "number": "404", 
+        "subject": "BIOL", 
         "title": "Techniques in Molecular Biology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Tutorial": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BCHM218 or MBIO218 or BIOL330.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BCHM218 or MBIO218 or BIOL330.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

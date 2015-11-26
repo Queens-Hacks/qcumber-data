@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "The objective of this course is to enhance student's design, innovation, critical thinking, and professional skills by engaging in industry-funded engineering projects.\u00a0 Working in multi-disciplinary teams, students are guided by experienced engineering professionals both internally and externally.\u00a0 Teams interface frequently with the client, including occasional external site visits and bi-weekly conference calls.\u00a0 Projects cover a broad range of engineering disciplines, and typically incorporate the development of physical prototype(s) or digital models/simulations for evaluation and testing.\u00a0\u00a0 Students will integrate elements of engineering design, innovation, and professional practice from prior courses, with enhancements from occasional lectures, workshops, and guest speakers. Project funding supports all necessary travel, communication, software, equipment, prototyping components and related services.\u00a0 Professional engineering skills such as communication, teamwork, project management, engineering economics, ethics, and safety will be integral to the projects.",
-        "number": "480B",
-        "subject": "APSC",
+        "description": "The objective of this course is to enhance student's design, innovation, critical thinking, and professional skills by engaging in industry-funded engineering projects.\u00a0 Working in multi-disciplinary teams, students are guided by experienced engineering professionals both internally and externally.\u00a0 Teams interface frequently with the client, including occasional external site visits and bi-weekly conference calls.\u00a0 Projects cover a broad range of engineering disciplines, and typically incorporate the development of physical prototype(s) or digital models/simulations for evaluation and testing.\u00a0\u00a0 Students will integrate elements of engineering design, innovation, and professional practice from prior courses, with enhancements from occasional lectures, workshops, and guest speakers. Project funding supports all necessary travel, communication, software, equipment, prototyping components and related services.\u00a0 Professional engineering skills such as communication, teamwork, project management, engineering economics, ethics, and safety will be integral to the projects.", 
+        "number": "480B", 
+        "subject": "APSC", 
         "title": "Multi-disciplinary Industry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 28,
-            "Eng Des": 80,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 28, 
+            "Eng Des": 80, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "9.00"
     }
 }

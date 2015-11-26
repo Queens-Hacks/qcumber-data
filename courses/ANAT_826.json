@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A course for graduate students to explore more advanced concepts of sensorimotor integration in the nervous system. This is a multi-disciplinary lecture/seminar course with active student participation expected. The course will consist of weekly sessions focusing on specific concepts such as feature detection, population coding, sensorimotor transformations, reflexes versus voluntary control, central pattern generators. Normally offered concurrently with PSYC-924*. Winter term; 1 hour lecture; 2 hour seminar/discussion. S. Scott",
-        "number": "826",
-        "subject": "ANAT",
+        "description": "A course for graduate students to explore more advanced concepts of sensorimotor integration in the nervous system. This is a multi-disciplinary lecture/seminar course with active student participation expected. The course will consist of weekly sessions focusing on specific concepts such as feature detection, population coding, sensorimotor transformations, reflexes versus voluntary control, central pattern generators. Normally offered concurrently with PSYC-924*. Winter term; 1 hour lecture; 2 hour seminar/discussion. S. Scott", 
+        "number": "826", 
+        "subject": "ANAT", 
         "title": "Sensorimotor Integration"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

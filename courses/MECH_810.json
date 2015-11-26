@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A topical course in manufacturing engineering which deals with some of today's research issues from both a theoretical and pragmatic approach. Research in areas such as Flexible Manufacturing Systems, Computer Integrated Manufacturing, Statistical Quality Control, Group Technology, Just in Time Concepts, Material Removal and Forming Technology, Design for Assemble, etc. are examined based on recent literature and publications. The specific topics to be addressed each year are selected to match the student's research interest and background. Three term-hours, may be given in any term.\u00a0 J. Jeswiet",
-        "number": "810",
-        "subject": "MECH",
+        "description": "A topical course in manufacturing engineering which deals with some of today's research issues from both a theoretical and pragmatic approach. Research in areas such as Flexible Manufacturing Systems, Computer Integrated Manufacturing, Statistical Quality Control, Group Technology, Just in Time Concepts, Material Removal and Forming Technology, Design for Assemble, etc. are examined based on recent literature and publications. The specific topics to be addressed each year are selected to match the student's research interest and background. Three term-hours, may be given in any term.\u00a0 J. Jeswiet", 
+        "number": "810", 
+        "subject": "MECH", 
         "title": "Adv. Top. In Manufacturing Eng"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Rigorous application of geomechanics and rock engineering principles to open-ended design problems related to surface and underground excavation, construction and geo-hazard mitigation. Presentation and discussion of design methodologies and case histories are followed up by related analysis and design problems incorporating industry standard software. Emphasis on the inherent variability of geomaterials and implications for integrated site-investigation planning, quantitative risk assessment, design decision-making and performance-monitoring. A field excursion will be included.",
-        "number": "413",
-        "subject": "GEOE",
+        "description": "Rigorous application of geomechanics and rock engineering principles to open-ended design problems related to surface and underground excavation, construction and geo-hazard mitigation. Presentation and discussion of design methodologies and case histories are followed up by related analysis and design problems incorporating industry standard software. Emphasis on the inherent variability of geomaterials and implications for integrated site-investigation planning, quantitative risk assessment, design decision-making and performance-monitoring. A field excursion will be included.", 
+        "number": "413", 
+        "subject": "GEOE", 
         "title": "Engineering Geomechanics & Rock Engineering Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 30,
-            "Eng Sci": 12,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 30, 
+            "Eng Sci": 12, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "GEOE 281 (GEOL 281), GEOE 300 (GEOL 310) and GEOE 321 (GEOL 321), or permission of the instructor",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "GEOE 281 (GEOL 281), GEOE 300 (GEOL 310) and GEOE 321 (GEOL 321), or permission of the instructor", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

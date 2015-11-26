@@ -1,35 +1,35 @@
 {
-    "_unique": "002-LAB (5899)",
+    "_unique": "002-LAB (5899)", 
     "availability": {
-        "class_curr": 50,
-        "class_max": 50,
-        "wait_curr": 0,
+        "class_curr": 43, 
+        "class_max": 50, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "002",
-        "course": "101",
-        "season": "Fall",
-        "solus_id": "5899",
-        "status": "Closed",
-        "subject": "NURS",
-        "type": "LAB",
+        "class_num": "002", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "5899", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "10:30:00",
-            "instructors": [],
-            "location": "ACTON CEC",
-            "start_time": "08:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "ACTON CEC", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

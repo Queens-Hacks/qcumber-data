@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "This course examines the diversity and current status of the Aboriginal Languages of the Americas, including their distribution, status, structure, use, and connection to culture. Students will then gain an overview of language teaching methodologies and an examination of the selection of appropriate methodologies for Aboriginal language teaching and language programming.",
-        "number": "822",
-        "subject": "PME",
+        "description": "This course examines the diversity and current status of the Aboriginal Languages of the Americas, including their distribution, status, structure, use, and connection to culture. Students will then gain an overview of language teaching methodologies and an examination of the selection of appropriate methodologies for Aboriginal language teaching and language programming.", 
+        "number": "822", 
+        "subject": "PME", 
         "title": "Aboriginal Languages and Language Teaching"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Restricted to PME", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

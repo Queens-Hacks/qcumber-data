@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An overview of learning and development in adolescence with emphasis on classroom applications from Grade 7 to 12. Topics such as communication, management, development, learning, and exceptionalities are presented in the context of modern schooling.",
-        "number": "465",
-        "subject": "FOUN",
+        "description": "An overview of learning and development in adolescence with emphasis on classroom applications from Grade 7 to 12. Topics such as communication, management, development, learning, and exceptionalities are presented in the context of modern schooling.", 
+        "number": "465", 
+        "subject": "FOUN", 
         "title": "Learning & Dev In Adolescence"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Restricted to IS",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Restricted to IS", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

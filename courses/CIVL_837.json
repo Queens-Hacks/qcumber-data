@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Behaviour, analysis and design of pretensioned and post-tensioned concrete systems including simply supported and continuous beams. Considerations of prestress losses, cracking, deflection and anchorage zones. A design project is undertaken in the course. Three term-hours.",
-        "number": "837",
-        "subject": "CIVL",
+        "description": "Behaviour, analysis and design of pretensioned and post-tensioned concrete systems including simply supported and continuous beams. Considerations of prestress losses, cracking, deflection and anchorage zones. A design project is undertaken in the course. Three term-hours.", 
+        "number": "837", 
+        "subject": "CIVL", 
         "title": "Prestressed Concrete"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

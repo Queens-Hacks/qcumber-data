@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Lectures and discussions on mechanisms of metabolic control. Recent research on a wide range of specific metabolic systems is examined critically. Emphasis is placed on biochemical factors and principles which play a role in the integration and control of metabolism. Lectures and seminars, three hours per week; Winter; G.P.C\u00f4t\u00e9. PREREQUISITE: BCHM-431 or equivalent.\u00a0 EXCLUSION: BCHM-822*",
-        "number": "821",
-        "subject": "BMED",
+        "description": "Lectures and discussions on mechanisms of metabolic control. Recent research on a wide range of specific metabolic systems is examined critically. Emphasis is placed on biochemical factors and principles which play a role in the integration and control of metabolism. Lectures and seminars, three hours per week; Winter; G.P.C\u00f4t\u00e9. PREREQUISITE: BCHM-431 or equivalent.\u00a0 EXCLUSION: BCHM-822*", 
+        "number": "821", 
+        "subject": "BMED", 
         "title": "Mechanisms of Metabolic Control"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

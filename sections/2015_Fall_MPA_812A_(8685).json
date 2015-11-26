@@ -1,81 +1,81 @@
 {
-    "_unique": "001-LEC (8685)",
+    "_unique": "001-LEC (8685)", 
     "availability": {
-        "class_curr": 1,
-        "class_max": 25,
-        "wait_curr": 0,
+        "class_curr": 0, 
+        "class_max": 25, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "812A",
-        "season": "Fall",
-        "solus_id": "8685",
-        "status": "Open",
-        "subject": "MPA",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "812A", 
+        "season": "Fall", 
+        "solus_id": "8685", 
+        "status": "Open", 
+        "subject": "MPA", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 6,
-            "end_time": "00:00:00",
+            "day_of_week": 6, 
+            "end_time": "00:00:00", 
             "instructors": [
                 "Fraser, Alison"
-            ],
-            "location": "TBA",
-            "start_time": "00:00:00",
-            "term_end": "2015-09-19",
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-09-19", 
             "term_start": "2015-09-18"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "00:00:00",
+            "day_of_week": 5, 
+            "end_time": "00:00:00", 
             "instructors": [
                 "Fraser, Alison"
-            ],
-            "location": "TBA",
-            "start_time": "00:00:00",
-            "term_end": "2015-09-19",
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-09-19", 
             "term_start": "2015-09-18"
-        },
+        }, 
         {
-            "day_of_week": 6,
-            "end_time": "00:00:00",
+            "day_of_week": 6, 
+            "end_time": "00:00:00", 
             "instructors": [
                 "Fraser, Alison"
-            ],
-            "location": "TBA",
-            "start_time": "00:00:00",
-            "term_end": "2015-10-31",
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-10-31", 
             "term_start": "2015-10-30"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "00:00:00",
+            "day_of_week": 5, 
+            "end_time": "00:00:00", 
             "instructors": [
                 "Fraser, Alison"
-            ],
-            "location": "TBA",
-            "start_time": "00:00:00",
-            "term_end": "2015-10-31",
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-10-31", 
             "term_start": "2015-10-30"
-        },
+        }, 
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Fraser, Alison"
-            ],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-11-28",
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-11-28", 
             "term_start": "2015-11-27"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

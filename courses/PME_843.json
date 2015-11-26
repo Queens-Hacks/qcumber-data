@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "This course builds on PMOE 842 (Literacy: Component Skills) to acquaint participants with research-based interventions and effective programming for a variety of literacy outcomes. Participants will gain an understanding of how these interventions meet the learning needs of typical and exceptional learners and how success of these interventions is measured.",
-        "number": "843",
-        "subject": "PME",
+        "description": "This course builds on PMOE 842 (Literacy: Component Skills) to acquaint participants with research-based interventions and effective programming for a variety of literacy outcomes. Participants will gain an understanding of how these interventions meet the learning needs of typical and exceptional learners and how success of these interventions is measured.", 
+        "number": "843", 
+        "subject": "PME", 
         "title": "Effective Intervention"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Restricted to PME", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

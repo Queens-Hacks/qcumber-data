@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This is a client\u00bfbased team design project which develops skills including design, project management, technical communications, and professionalism. Students work in teams to define problems, gather and identify appropriate information, work effectively with teammates, generate ideas, select ideas, and implement a solution to a presented problem from a client.",
-        "number": "103",
-        "subject": "APSC",
+        "description": "This is a client\u00bfbased team design project which develops skills including design, project management, technical communications, and professionalism. Students work in teams to define problems, gather and identify appropriate information, work effectively with teammates, generate ideas, select ideas, and implement a solution to a presented problem from a client.", 
+        "number": "103", 
+        "subject": "APSC", 
         "title": "First Year Engineering Design Project"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 24,
-            "Eng Des": 18,
-            "Eng Sci": 6,
+            "Basic Sci": 0, 
+            "Comp St": 24, 
+            "Eng Des": 18, 
+            "Eng Sci": 6, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Studio": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "APSC 101& APSC 102 & APSC 103 Exclusions: APSC 100A & B, Permissions of the instructor or Assoc Dean",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "APSC 101& APSC 102 & APSC 103 Exclusions: APSC 100A & B, Permissions of the instructor or Assoc Dean", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

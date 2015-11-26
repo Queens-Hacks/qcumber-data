@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction to and history of various fuel cell systems. Fuel cell fundamentals including thermodynamics, electrode kinetics, fuel cell performance and transport issues. Systems covered include Polymer Electrolyte Membrane (PEMFC), Direct Methanol (DMFC), Alkaline (AFC), Solid Oxide (SOFC), and Molten Carbonate (MCFC). Fueling processing issues and combined heat and power systems. Overview of the current fuel cell industry. This course is offered by the Department of Chemical Engineering and the Department of Mechanical and Materials Engineering.",
-        "number": "437",
-        "subject": "MDEP",
+        "description": "Introduction to and history of various fuel cell systems. Fuel cell fundamentals including thermodynamics, electrode kinetics, fuel cell performance and transport issues. Systems covered include Polymer Electrolyte Membrane (PEMFC), Direct Methanol (DMFC), Alkaline (AFC), Solid Oxide (SOFC), and Molten Carbonate (MCFC). Fueling processing issues and combined heat and power systems. Overview of the current fuel cell industry. This course is offered by the Department of Chemical Engineering and the Department of Mechanical and Materials Engineering.", 
+        "number": "437", 
+        "subject": "MDEP", 
         "title": "Fuel Cell Technology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 21,
-            "Eng Sci": 21,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 21, 
+            "Eng Sci": 21, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITE: MECH 230 or ENPH 274 or ENPH 372 or CHEM 244 or CHEE 210\u00a0 and MECH 241 or MECH 341 or CHEE 323 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITE: MECH 230 or ENPH 274 or ENPH 372 or CHEM 244 or CHEE 210\u00a0 and MECH 241 or MECH 341 or CHEE 323 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students work with thesis/project supervisors to prepare a detailed Master's thesis/report proposal. The proposal should include a well-defined research question, appropriate method(s), and a tentative project schedule. The proposal should be grounded in relevant literature and must include an annotated bibliography in support of the topic. Course evaluation is Pass/Fail. (1.0 credit units). PREREQUISITE: Completion of first year of Master's studies and permission of instructor. COREQUISITE: SURP-898 or SURP-899",
-        "number": "800",
-        "subject": "SURP",
+        "description": "Students work with thesis/project supervisors to prepare a detailed Master's thesis/report proposal. The proposal should include a well-defined research question, appropriate method(s), and a tentative project schedule. The proposal should be grounded in relevant literature and must include an annotated bibliography in support of the topic. Course evaluation is Pass/Fail. (1.0 credit units). PREREQUISITE: Completion of first year of Master's studies and permission of instructor. COREQUISITE: SURP-898 or SURP-899", 
+        "number": "800", 
+        "subject": "SURP", 
         "title": "Master's Research Proposal"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.00"
     }
 }

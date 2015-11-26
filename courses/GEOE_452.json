@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The theory and practical aspects of the techniques of X-ray powder diffraction and scanning electron microscopy are studied. Other techniques including Mossbauer,\u00a0 infra-red spectroscopy, and nuclear magnetic resonance spectroscopy will also be covered. An extensive term project is required where the student employs these techniques to study a material of their choice. \r\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.\u00a0 Prereq: GEOE 232 or permission of the instructor.",
-        "number": "452",
-        "subject": "GEOE",
+        "description": "The theory and practical aspects of the techniques of X-ray powder diffraction and scanning electron microscopy are studied. Other techniques including Mossbauer,\u00a0 infra-red spectroscopy, and nuclear magnetic resonance spectroscopy will also be covered. An extensive term project is required where the student employs these techniques to study a material of their choice. \r\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.\u00a0 Prereq: GEOE 232 or permission of the instructor.", 
+        "number": "452", 
+        "subject": "GEOE", 
         "title": "Instr. Techniq. Stdy of Solids"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite for GEOE 352: GEOE 232\r\nPrerequisite for GEOE 452:\u00a0 GEOE 232 or permission of the department",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite for GEOE 352: GEOE 232\r\nPrerequisite for GEOE 452:\u00a0 GEOE 232 or permission of the department", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

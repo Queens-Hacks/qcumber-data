@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Advanced study of the physical geography of northern regions, emphasizing the Canadian Arctic.\nLEARNING HOURS\u00a0\u00a0\u00a0 126 (36L;6O;84P)",
-        "number": "304",
-        "subject": "GPHY",
+        "description": "Advanced study of the physical geography of northern regions, emphasizing the Canadian Arctic.\nLEARNING HOURS\u00a0\u00a0\u00a0 126 (36L;6O;84P)", 
+        "number": "304", 
+        "subject": "GPHY", 
         "title": "Arctic and Periglacial Environments"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 24,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 12,
+            "Basic Sci": 24, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 12, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GPHY102 or APSC151 or permission of the department.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GPHY102 or APSC151 or permission of the department.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

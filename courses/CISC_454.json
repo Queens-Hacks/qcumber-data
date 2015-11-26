@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction to computer graphics, including a review of current hardware; modelling and transformations in two and three dimensions; visual realism: perspective, hidden surface elimination, and shading; colour models; applications in several fields. James Stewart.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
-        "number": "454",
-        "subject": "CISC",
+        "description": "Introduction to computer graphics, including a review of current hardware; modelling and transformations in two and three dimensions; visual realism: perspective, hidden surface elimination, and shading; colour models; applications in several fields. James Stewart.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "454", 
+        "subject": "CISC", 
         "title": "Graphics (A)"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 Level 3 or 4 and CISC 235/3.0 and (MATH 110 or MATH 111 or MATH 112).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 Level 3 or 4 and CISC 235/3.0 and (MATH 110 or MATH 111 or MATH 112).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "This course is provided for students with little or no prior knowledge of GIS software. It will explore the basic concepts and techniques of GIS software required to create effective maps for urban planning purposes. Specific components include: how to interpret graphic and tabular data, geocoding, using queries and browsing, displaying maps, creating thematic maps and editing attribute and graphical data. Learning Materials: approx.\u00a0$13",
-        "number": "881",
-        "subject": "SURP",
+        "description": "This course is provided for students with little or no prior knowledge of GIS software. It will explore the basic concepts and techniques of GIS software required to create effective maps for urban planning purposes. Specific components include: how to interpret graphic and tabular data, geocoding, using queries and browsing, displaying maps, creating thematic maps and editing attribute and graphical data. Learning Materials: approx.\u00a0$13", 
+        "number": "881", 
+        "subject": "SURP", 
         "title": "Gis In Urban Planning"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Boolean algebra applied to digital systems; logic gates; combinational logic design; electronic circuits for logic gates; arithmetic circuits; latches and flip-flops, registers and counters; synchronous sequential logic and state machine design; implementation in programmable logic chips.",
-        "number": "271",
-        "subject": "ELEC",
+        "description": "Boolean algebra applied to digital systems; logic gates; combinational logic design; electronic circuits for logic gates; arithmetic circuits; latches and flip-flops, registers and counters; synchronous sequential logic and state machine design; implementation in programmable logic chips.", 
+        "number": "271", 
+        "subject": "ELEC", 
         "title": "Digital Systems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 28,
-            "Eng Sci": 23,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 28, 
+            "Eng Sci": 23, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC171 and APSC172 and APSC174 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.25"
     }
 }

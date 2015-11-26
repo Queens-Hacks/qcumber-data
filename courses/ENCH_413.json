@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The application of quantum mechanics to chemical structures, energetics, internal motions of molecules, and chemical reactions. An introduction to the use of modern electronic structure software in chemistry. Offered alternating years with ENCH 412 (CHEM 412).",
-        "number": "413",
-        "subject": "ENCH",
+        "description": "The application of quantum mechanics to chemical structures, energetics, internal motions of molecules, and chemical reactions. An introduction to the use of modern electronic structure software in chemistry. Offered alternating years with ENCH 412 (CHEM 412).", 
+        "number": "413", 
+        "subject": "ENCH", 
         "title": "Computational Chemistry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 36,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prereq: ENCH 346 (CHEM 346)\u00a0 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prereq: ENCH 346 (CHEM 346)\u00a0 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

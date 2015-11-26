@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Topic selected under the supervision of a faculty member. Emphasis is on the application of software engineering techniques to the development of a substantial software system. Group work, oral presentation, participation in design and code review meetings, and delivery of complete software specification and design are required.\nLEARNING HOURS\u00a0\u00a0\u00a0 258 (18S;240P)",
-        "number": "498B",
-        "subject": "CISC",
+        "description": "Topic selected under the supervision of a faculty member. Emphasis is on the application of software engineering techniques to the development of a substantial software system. Group work, oral presentation, participation in design and code review meetings, and delivery of complete software specification and design are required.\nLEARNING HOURS\u00a0\u00a0\u00a0 258 (18S;240P)", 
+        "number": "498B", 
+        "subject": "CISC", 
         "title": "Information Technology Project"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

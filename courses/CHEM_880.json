@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A discussion of some modern methods used in organic synthesis with an emphasis on stereoselective reactions; illustrations of the value and scope of the methods and applications in the synthesis of complex molecules.\u00a0 Winter. R. Whitney.",
-        "number": "880",
-        "subject": "CHEM",
+        "description": "A discussion of some modern methods used in organic synthesis with an emphasis on stereoselective reactions; illustrations of the value and scope of the methods and applications in the synthesis of complex molecules.\u00a0 Winter. R. Whitney.", 
+        "number": "880", 
+        "subject": "CHEM", 
         "title": "Modern Synthetic Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

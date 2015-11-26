@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This course combines fundamentals of chemistry with the engineering issues associated with them.\u00a0 Areas of study are entropy and the second law of thermodynamics, thermodynamics, chemical equilibrium, electrochemistry, chemical kinetics and organic chemistry.\u00a0 Environmental issues associated with each of these topics will be incorporated into lectures when appropriate.",
-        "number": "132",
-        "subject": "APSC",
+        "description": "This course combines fundamentals of chemistry with the engineering issues associated with them.\u00a0 Areas of study are entropy and the second law of thermodynamics, thermodynamics, chemical equilibrium, electrochemistry, chemical kinetics and organic chemistry.\u00a0 Environmental issues associated with each of these topics will be incorporated into lectures when appropriate.", 
+        "number": "132", 
+        "subject": "APSC", 
         "title": "Chemistry and its Applications"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 31,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 11,
+            "Basic Sci": 31, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 11, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "APSC131 OR CHEM120",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "APSC131 OR CHEM120", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

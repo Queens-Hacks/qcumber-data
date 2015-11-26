@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides an introduction to sensing and actuation in mechatronic systems. The topics include sensing principles for the measurement of motion, force, torque, pressure, flow, temperature using analog and digital transducers; actuating principles using for continuous drive actuators and stepper motors; power transmission systems; and methods for signal collection, conditioning and analysis. Various components will be experimentally tested and analyzed.",
-        "number": "344",
-        "subject": "ELEC",
+        "description": "This course provides an introduction to sensing and actuation in mechatronic systems. The topics include sensing principles for the measurement of motion, force, torque, pressure, flow, temperature using analog and digital transducers; actuating principles using for continuous drive actuators and stepper motors; power transmission systems; and methods for signal collection, conditioning and analysis. Various components will be experimentally tested and analyzed.", 
+        "number": "344", 
+        "subject": "ELEC", 
         "title": "Sensors and Actuators"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 39,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 39, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisites for ELEC 344:\u00a0 Elec 221, ELEC 271, ELEC 299 and Corequisite of ELEC 323",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites for ELEC 344:\u00a0 Elec 221, ELEC 271, ELEC 299 and Corequisite of ELEC 323", 
+        "grading_basis": "Graded", 
         "units": "3.25"
     }
 }

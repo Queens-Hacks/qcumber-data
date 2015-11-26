@@ -1,48 +1,48 @@
 {
-    "_unique": "001-LEC (2354)",
+    "_unique": "001-LEC (2354)", 
     "availability": {
-        "class_curr": 111,
-        "class_max": 130,
-        "wait_curr": 0,
+        "class_curr": 116, 
+        "class_max": 130, 
+        "wait_curr": 0, 
         "wait_max": 13
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "222",
-        "season": "Fall",
-        "solus_id": "2354",
-        "status": "Open",
-        "subject": "ECON",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "222", 
+        "season": "Fall", 
+        "solus_id": "2354", 
+        "status": "Open", 
+        "subject": "ECON", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "16:00:00",
+            "day_of_week": 1, 
+            "end_time": "16:00:00", 
             "instructors": [
                 "McKeown, Robert"
-            ],
-            "location": "MACDONALD RM1",
-            "start_time": "14:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "MACDONALD RM1", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "17:30:00",
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
             "instructors": [
                 "McKeown, Robert"
-            ],
-            "location": "MACDONALD RM1",
-            "start_time": "16:00:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "MACDONALD RM1", 
+            "start_time": "16:00:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

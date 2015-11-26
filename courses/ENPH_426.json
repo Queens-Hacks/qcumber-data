@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A continuation of quantum theory at a more advanced level. Topics include time-dependent perturbation theory, scattering theory and the quantum theory of many-particle systems. (0/36/0/0/0)~ COURSE DELETED IN 2009/10 ~",
-        "number": "426",
-        "subject": "ENPH",
+        "description": "A continuation of quantum theory at a more advanced level. Topics include time-dependent perturbation theory, scattering theory and the quantum theory of many-particle systems. (0/36/0/0/0)~ COURSE DELETED IN 2009/10 ~", 
+        "number": "426", 
+        "subject": "ENPH", 
         "title": "Quantum Mechanics II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 36,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PHYS424",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PHYS424", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

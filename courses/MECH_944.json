@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is limited to PhD students who already have a good background in the fundamental and advanced topics related to their research and are interested in other areas not offered in existing graduate courses. Topics will be selected from the general areas of materials engineering. The course will include lectures, open discussions and directed study. The course content for a student or group will be specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and/or presentations and/or exams. Instructors: Various faculty members from within the Department of Mechanical and Materials Engineering. EXCLUSIONS: MECH-940*, MECH-942*, MECH-943*",
-        "number": "944",
-        "subject": "MECH",
+        "description": "This course is limited to PhD students who already have a good background in the fundamental and advanced topics related to their research and are interested in other areas not offered in existing graduate courses. Topics will be selected from the general areas of materials engineering. The course will include lectures, open discussions and directed study. The course content for a student or group will be specified in writing at the beginning of the course and cannot be the same as their thesis research topic. The course mark will be based on reports and/or presentations and/or exams. Instructors: Various faculty members from within the Department of Mechanical and Materials Engineering. EXCLUSIONS: MECH-940*, MECH-942*, MECH-943*", 
+        "number": "944", 
+        "subject": "MECH", 
         "title": "Selected Topics in Materials Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

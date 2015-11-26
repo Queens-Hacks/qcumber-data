@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "High-performance logic design for arithmetic circuits; memory system designs based on static and dynamic RAMs; computer bus protocols and standard I/O interfaces; mass storage devices; hardware description languages (VHDL, Verilog); fault testing, design for testability, built-in self-test, memory testing, and boundary\u00bfscan architectures; asynchronous sequential circuit design; introduction to GPU architectures and GPU computing. The course is supplemented by a CPU design project that allows students to become proficient with Field Programmable Gate Array (FPGA) devices and associated CAD tools, as well as with GPU computing through nVidia CUDA or OpenCL languages.",
-        "number": "374",
-        "subject": "ELEC",
+        "description": "High-performance logic design for arithmetic circuits; memory system designs based on static and dynamic RAMs; computer bus protocols and standard I/O interfaces; mass storage devices; hardware description languages (VHDL, Verilog); fault testing, design for testability, built-in self-test, memory testing, and boundary\u00bfscan architectures; asynchronous sequential circuit design; introduction to GPU architectures and GPU computing. The course is supplemented by a CPU design project that allows students to become proficient with Field Programmable Gate Array (FPGA) devices and associated CAD tools, as well as with GPU computing through nVidia CUDA or OpenCL languages.", 
+        "number": "374", 
+        "subject": "ELEC", 
         "title": "Digital Systems Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 23,
-            "Eng Sci": 28,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 23, 
+            "Eng Sci": 28, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITES:\u00a0 ELEC 252, ELEC 271, ELEC 274 or permission of the instructor",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITES:\u00a0 ELEC 252, ELEC 271, ELEC 274 or permission of the instructor", 
+        "grading_basis": "Graded", 
         "units": "4.25"
     }
 }

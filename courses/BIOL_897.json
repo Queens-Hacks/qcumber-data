@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Attending a diverse array of seminars is an essential component in the development of a student, especially in a department as diverse as biology.\u00a0\u00a0The aim of this course is to develop skills in listening, synthesizing and critical thinking, as well as fostering the development of important oral and written communication skills.\u00a0 Students will be required to attend at least 30 department or specialized research seminars, as well as present a seminar based upon their graduate thesis research.\u00a0 Enrolment is extended over six terms and is limited to new graduate students in Biology. Y. Wang.",
-        "number": "897",
-        "subject": "BIOL",
+        "description": "Attending a diverse array of seminars is an essential component in the development of a student, especially in a department as diverse as biology.\u00a0\u00a0The aim of this course is to develop skills in listening, synthesizing and critical thinking, as well as fostering the development of important oral and written communication skills.\u00a0 Students will be required to attend at least 30 department or specialized research seminars, as well as present a seminar based upon their graduate thesis research.\u00a0 Enrolment is extended over six terms and is limited to new graduate students in Biology. Y. Wang.", 
+        "number": "897", 
+        "subject": "BIOL", 
         "title": "Seminars In Biology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

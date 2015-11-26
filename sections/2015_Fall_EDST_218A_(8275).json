@@ -1,48 +1,59 @@
 {
-    "_unique": "001-LEC (8275)",
+    "_unique": "001-LEC (8275)", 
     "availability": {
-        "class_curr": 30,
-        "class_max": 35,
-        "wait_curr": 0,
+        "class_curr": 26, 
+        "class_max": 35, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "218A",
-        "season": "Fall",
-        "solus_id": "8275",
-        "status": "Open",
-        "subject": "EDST",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "218A", 
+        "season": "Fall", 
+        "solus_id": "8275", 
+        "status": "Open", 
+        "subject": "EDST", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "12:50:00",
+            "day_of_week": 3, 
+            "end_time": "12:50:00", 
             "instructors": [
                 "Reeve, Richard"
-            ],
-            "location": "DUNCAN MCARTHUR RM B242",
-            "start_time": "10:50:00",
-            "term_end": "2015-10-09",
+            ], 
+            "location": "DUNCAN MCARTHUR RM B242", 
+            "start_time": "10:50:00", 
+            "term_end": "2015-10-09", 
             "term_start": "2015-09-02"
-        },
+        }, 
         {
-            "day_of_week": 3,
-            "end_time": "12:50:00",
+            "day_of_week": 3, 
+            "end_time": "12:50:00", 
             "instructors": [
                 "Reeve, Richard"
-            ],
-            "location": "DUNCAN MCARTHUR RM B242",
-            "start_time": "10:50:00",
-            "term_end": "2015-12-18",
+            ], 
+            "location": "DUNCAN MCARTHUR RM B242", 
+            "start_time": "10:50:00", 
+            "term_end": "2015-12-02", 
             "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "12:50:00", 
+            "instructors": [
+                "Reeve, Richard"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B242", 
+            "start_time": "10:50:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-16"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
         "session": "Education Regular"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course introduces teacher candidates to the foundations of classroom assessment and evaluation. Students will engage in examining assessment theory, policy, and practice in relation to the current context of contemporary schooling. Emphasis will be placed on the intersection of assessment practices and principles of teaching and learning. Specifically, topics related to assessment for learning and assessment of learning will be covered in addition to assessment design and principles for fair student assessment.",
-        "number": "101",
-        "subject": "FOUN",
+        "description": "This course introduces teacher candidates to the foundations of classroom assessment and evaluation. Students will engage in examining assessment theory, policy, and practice in relation to the current context of contemporary schooling. Emphasis will be placed on the intersection of assessment practices and principles of teaching and learning. Specifically, topics related to assessment for learning and assessment of learning will be covered in addition to assessment design and principles for fair student assessment.", 
+        "number": "101", 
+        "subject": "FOUN", 
         "title": "Foundations of Assessment"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "1.00"
     }
 }

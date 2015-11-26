@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An examination of the internal accounting model and related information systems designed to keep the manager informed for the purposes of planning and controlling the organization's operations.",
-        "number": "612",
-        "subject": "COMM",
+        "description": "An examination of the internal accounting model and related information systems designed to keep the manager informed for the purposes of planning and controlling the organization's operations.", 
+        "number": "612", 
+        "subject": "COMM", 
         "title": "Management Accounting"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "COMM 612 prereq: CIB only & COMM 211 or 611",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "COMM 612 prereq: CIB only & COMM 211 or 611", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

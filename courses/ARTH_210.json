@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A course surveying the study of artists' materials and techniques through methods of examination such as X-radiography, infrared reflectography, dendrochronology, and high-resolution digital imaging.",
-        "number": "210",
-        "subject": "ARTH",
+        "description": "A course surveying the study of artists' materials and techniques through methods of examination such as X-radiography, infrared reflectography, dendrochronology, and high-resolution digital imaging.", 
+        "number": "210", 
+        "subject": "ARTH", 
         "title": "An Introduction to Technical Art History"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0 Second year standing or above",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 Second year standing or above", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

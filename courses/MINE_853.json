@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Mining equipment suppliers now offer robotic tramming systems for surface and underground vehicles, real-time equipment and personnel tracking systems, as well as telerobotic options for loading, haulage, rock breaking, and other heavy equipment. This course offers an introduction to control and estimation engineering as applied to heavy equipment in mining. The class material attempts to provide students with a sufficient foundation to pursue advanced research in this area. Topics include: a review of commonly used sensor technologies; an introduction to vehicle kinematics/dynamics; trajectory and path tracking control; an introduction to vehicle navigation; robotic mapping/surveying; mining machine case studies and examples.",
-        "number": "853",
-        "subject": "MINE",
+        "description": "Mining equipment suppliers now offer robotic tramming systems for surface and underground vehicles, real-time equipment and personnel tracking systems, as well as telerobotic options for loading, haulage, rock breaking, and other heavy equipment. This course offers an introduction to control and estimation engineering as applied to heavy equipment in mining. The class material attempts to provide students with a sufficient foundation to pursue advanced research in this area. Topics include: a review of commonly used sensor technologies; an introduction to vehicle kinematics/dynamics; trajectory and path tracking control; an introduction to vehicle navigation; robotic mapping/surveying; mining machine case studies and examples.", 
+        "number": "853", 
+        "subject": "MINE", 
         "title": "Mining Robotics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

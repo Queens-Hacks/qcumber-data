@@ -1,37 +1,37 @@
 {
-    "_unique": "001-SEM (8079)",
+    "_unique": "001-SEM (8079)", 
     "availability": {
-        "class_curr": 0,
-        "class_max": 0,
-        "wait_curr": 0,
+        "class_curr": 4, 
+        "class_max": 6, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "842",
-        "season": "Winter",
-        "solus_id": "8079",
-        "status": "Closed",
-        "subject": "MGMT",
-        "type": "SEM",
+        "class_num": "001", 
+        "course": "842", 
+        "season": "Winter", 
+        "solus_id": "8079", 
+        "status": "Open", 
+        "subject": "MGMT", 
+        "type": "SEM", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "13:00:00",
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
             "instructors": [
                 "Ashworth, Laurence T A"
-            ],
-            "location": "TBA",
-            "start_time": "10:00:00",
-            "term_end": "2016-03-29",
+            ], 
+            "location": "TBA", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-03-29", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

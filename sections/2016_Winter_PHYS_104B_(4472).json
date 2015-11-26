@@ -1,59 +1,59 @@
 {
-    "_unique": "001-LDI (4472)",
+    "_unique": "001-LDI (4472)", 
     "availability": {
-        "class_curr": 209,
-        "class_max": 240,
-        "wait_curr": 0,
+        "class_curr": 177, 
+        "class_max": 240, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "104B",
-        "season": "Winter",
-        "solus_id": "4472",
-        "status": "Open",
-        "subject": "PHYS",
-        "type": "LDI",
+        "class_num": "001", 
+        "course": "104B", 
+        "season": "Winter", 
+        "solus_id": "4472", 
+        "status": "Open", 
+        "subject": "PHYS", 
+        "type": "LDI", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "12:30:00",
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
             "instructors": [
                 "Fraser, James"
-            ],
-            "location": "STIRLING AUD",
-            "start_time": "11:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "STIRLING AUD", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 3,
-            "end_time": "14:30:00",
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Fraser, James"
-            ],
-            "location": "STIRLING AUD",
-            "start_time": "13:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "STIRLING AUD", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "13:30:00",
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
             "instructors": [
                 "Fraser, James"
-            ],
-            "location": "STIRLING AUD",
-            "start_time": "12:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "STIRLING AUD", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

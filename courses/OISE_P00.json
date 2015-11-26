@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "",
-        "number": "P00",
-        "subject": "OISE",
+        "description": "", 
+        "number": "P00", 
+        "subject": "OISE", 
         "title": "Registered In An Oise Course"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "grading_basis": "Non-Graded Component",
+        }, 
+        "grading_basis": "Non-Graded Component", 
         "units": "0.00"
     }
 }

@@ -1,26 +1,25 @@
 {
     "basic": {
-        "description": "This course is designed to present a view of schools where artifacts, art activities and art environments form the focus for learning across all academic subjects. Topics include arts and cognition; how arts programs can induce change in schools; the role of social learning and community knowledge: and artscentred curriculum planning.",
-        "number": "215A",
-        "subject": "FOCI",
+        "description": "This course is designed to present a view of schools where artifacts, art activities and art environments form the focus for learning across all academic subjects. Topics include arts and cognition; how arts programs can induce change in schools; the role of social learning and community knowledge: and artscentred curriculum planning.", 
+        "number": "215A", 
+        "subject": "FOCI", 
         "title": "Arts in Education K to 12"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Restricted to PJ",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

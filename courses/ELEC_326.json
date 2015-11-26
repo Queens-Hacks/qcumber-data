@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides an introduction to probabilistic models and methods for addressing uncertainty and variability in engineering applications. Topics include sample spaces and events, axioms of probability, conditional probability, independence, discrete and continuous random variables, probability density and cumulative distribution functions, functions of random variables, and random processes.",
-        "number": "326",
-        "subject": "ELEC",
+        "description": "This course provides an introduction to probabilistic models and methods for addressing uncertainty and variability in engineering applications. Topics include sample spaces and events, axioms of probability, conditional probability, independence, discrete and continuous random variables, probability density and cumulative distribution functions, functions of random variables, and random processes.", 
+        "number": "326", 
+        "subject": "ELEC", 
         "title": "Probability & Random Processes"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 18,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 18, 
             "Math": 24
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Exclusion: STAT251.\u00a0 Prerequisite of APSC171 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusion: STAT251.\u00a0 Prerequisite of APSC171 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

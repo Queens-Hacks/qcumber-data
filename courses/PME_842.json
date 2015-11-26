@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "This course introduces students to the components of literacy, including phonological awareness, decoding, reading comprehension, vocabulary and reading fluency and others. Participants will gain an understanding of how these components interact to contribute to literacy development in a range of readers.",
-        "number": "842",
-        "subject": "PME",
+        "description": "This course introduces students to the components of literacy, including phonological awareness, decoding, reading comprehension, vocabulary and reading fluency and others. Participants will gain an understanding of how these components interact to contribute to literacy development in a range of readers.", 
+        "number": "842", 
+        "subject": "PME", 
         "title": "Component Skills"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Restricted to PME", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

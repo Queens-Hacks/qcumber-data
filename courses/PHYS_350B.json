@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Experiments in heat, optics, electron physics, quantum physics, and radioactivity are performed. A substantial part of the course is an experimental project during the Winter Term. A topic for the experimental physics, or observational astronomy project will be assigned after discussion with the student.",
-        "number": "350B",
-        "subject": "PHYS",
+        "description": "Experiments in heat, optics, electron physics, quantum physics, and radioactivity are performed. A substantial part of the course is an experimental project during the Winter Term. A topic for the experimental physics, or observational astronomy project will be assigned after discussion with the student.", 
+        "number": "350B", 
+        "subject": "PHYS", 
         "title": "General Laboratory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

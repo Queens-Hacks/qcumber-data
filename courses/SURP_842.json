@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course examines the forces that shape cities. It examines the factors that determine land value and land uses. It presents models of urban spatial structure and discusses issues in land development, planning and taxation.\u00a0",
-        "number": "842",
-        "subject": "SURP",
+        "description": "This course examines the forces that shape cities. It examines the factors that determine land value and land uses. It presents models of urban spatial structure and discusses issues in land development, planning and taxation.\u00a0", 
+        "number": "842", 
+        "subject": "SURP", 
         "title": "Economics of Land Development and Planning"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A continuation from CHEM 281/3.0 intended for students in biological sciences and other plans taking no further courses in organic chemistry. Students in chemistry or biochemistry plans should not enrol in this course. Organic molecules and their reactions; relevance to biological systems. Illustrations using biomolecules such as carbohydrates, amino acids and proteins, lipids, and nucleic acids. The virtual laboratory provides knowledge of elementary organic syntheses.\nNOTE\u00a0\u00a0\u00a0 Offered only as a distance course. Consult Continuing and Distance Studies.\nLEARNING HOURS\u00a0\u00a0\u00a0 99 (60O;39P)",
-        "number": "285",
-        "subject": "CHEM",
+        "description": "A continuation from CHEM 281/3.0 intended for students in biological sciences and other plans taking no further courses in organic chemistry. Students in chemistry or biochemistry plans should not enrol in this course. Organic molecules and their reactions; relevance to biological systems. Illustrations using biomolecules such as carbohydrates, amino acids and proteins, lipids, and nucleic acids. The virtual laboratory provides knowledge of elementary organic syntheses.\nNOTE\u00a0\u00a0\u00a0 Offered only as a distance course. Consult Continuing and Distance Studies.\nLEARNING HOURS\u00a0\u00a0\u00a0 99 (60O;39P)", 
+        "number": "285", 
+        "subject": "CHEM", 
         "title": "General Organic Chemistry II (with Virtual Laboratory)"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Distance Studies",
+        }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
-        },
-        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 CHEM281 \nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM 223; CHEM 282; CHEM 285.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Corequisite\u00a0\u00a0\u00a0\u00a0 CHEM281 \nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM 223; CHEM 282; CHEM 285.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

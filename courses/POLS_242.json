@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The nature of political regimes in advanced industrial countries and the developing world.",
-        "number": "242",
-        "subject": "POLS",
+        "description": "The nature of political regimes in advanced industrial countries and the developing world.", 
+        "number": "242", 
+        "subject": "POLS", 
         "title": "Comparative Politics: Contemporary Regimes"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite: POLS 110",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: POLS 110", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

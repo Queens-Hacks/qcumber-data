@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course provides students with a knowledge of the concepts of marketing as well as an understanding of how these concepts are applied in the management of the firm. Specifically, the objectives are: to provide a working knowledge of the basic theories and concepts in marketing; to develop decision making skills and abilities and to gain experience in developing marketing strategies and plans. The course is taught using a combination of lectures, discussions, case analyses, and exams.",
-        "number": "131",
-        "subject": "COMM",
+        "description": "This course provides students with a knowledge of the concepts of marketing as well as an understanding of how these concepts are applied in the management of the firm. Specifically, the objectives are: to provide a working knowledge of the basic theories and concepts in marketing; to develop decision making skills and abilities and to gain experience in developing marketing strategies and plans. The course is taught using a combination of lectures, discussions, case analyses, and exams.", 
+        "number": "131", 
+        "subject": "COMM", 
         "title": "Introduction To Marketing"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "excl 1 from COMM131 and 231",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "excl 1 from COMM131 and 231", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

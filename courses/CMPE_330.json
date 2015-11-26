@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Concepts of computer-integrated surgery systems and underlying techniques such as medical-image computing, robotics, and virtual reality, learned through real-life applications and problems. Techniques learned in class will be applied in a hands-on surgery session where students perform minimally invasive surgery with virtual-reality navigation tools.",
-        "number": "330",
-        "subject": "CMPE",
+        "description": "Concepts of computer-integrated surgery systems and underlying techniques such as medical-image computing, robotics, and virtual reality, learned through real-life applications and problems. Techniques learned in class will be applied in a hands-on surgery session where students perform minimally invasive surgery with virtual-reality navigation tools.", 
+        "number": "330", 
+        "subject": "CMPE", 
         "title": "Computer-Integrated Surgery"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 36,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 36, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: APSC 142 and CMPE 271 or CISC 271 or MTHE 272 or MATH 272 and registered in BSCE>\r\nEXCLUSION: COMP 230",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: CMPE 212, CMPE 271 (CISC 271) or MTHE 272 (MATH 272) and registered in BSCE.\nEXCLUSION: COMP 230", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A nuclear reactor presents a unique environment in which materials must perform. In addition to the high temperatures and stresses to which materials are subjected in conventional applications, nuclear materials are subjected to various kinds of radiation which affect their performance, and often this dictates a requirement for a unique property (for example, a low cross section for thermal neutron absorption) that is not relevant in conventional applications. The effects of the radiation may be direct (e.g., the displacement of atoms form their normal positions by fast neutrons or fission fragments), or indirect (e.g., a more aggressive chemical environment caused by radiolytic decomposition). This course describes materials and structures typically used in nuclear environments, their manufacture, the unique conditions to which they are subjected, the basic physical phenomena that affect their performance and the resulting design and operational requirements for reactor components. The course includes a field trips to components manufacturers and to Canada\u00bfs national nuclear research laboratory .",
-        "number": "483",
-        "subject": "MECH",
+        "description": "A nuclear reactor presents a unique environment in which materials must perform. In addition to the high temperatures and stresses to which materials are subjected in conventional applications, nuclear materials are subjected to various kinds of radiation which affect their performance, and often this dictates a requirement for a unique property (for example, a low cross section for thermal neutron absorption) that is not relevant in conventional applications. The effects of the radiation may be direct (e.g., the displacement of atoms form their normal positions by fast neutrons or fission fragments), or indirect (e.g., a more aggressive chemical environment caused by radiolytic decomposition). This course describes materials and structures typically used in nuclear environments, their manufacture, the unique conditions to which they are subjected, the basic physical phenomena that affect their performance and the resulting design and operational requirements for reactor components. The course includes a field trips to components manufacturers and to Canada\u00bfs national nuclear research laboratory .", 
+        "number": "483", 
+        "subject": "MECH", 
         "title": "Nuclear Materials"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 11,
-            "Comp St": 0,
-            "Eng Des": 11,
-            "Eng Sci": 20,
+            "Basic Sci": 11, 
+            "Comp St": 0, 
+            "Eng Des": 11, 
+            "Eng Sci": 20, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of (MECH370 and MECH371) and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of (MECH370 and MECH371) and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

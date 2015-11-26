@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to spatial information management focusing on methods to support and extend geological mapping, mineral and petroleum exploration, and engineering site investigation. Computers and computation, GIS software and theory, spatial simulation and analysis, databases and data management, and design of effective decision support solutions.\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.\nLEARNING HOURS\u00a0\u00a0\u00a0 112 (33L;24Lb;55Pc)",
-        "number": "463",
-        "subject": "GEOL",
+        "description": "An introduction to spatial information management focusing on methods to support and extend geological mapping, mineral and petroleum exploration, and engineering site investigation. Computers and computation, GIS software and theory, spatial simulation and analysis, databases and data management, and design of effective decision support solutions.\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.\nLEARNING HOURS\u00a0\u00a0\u00a0 112 (33L;24Lb;55Pc)", 
+        "number": "463", 
+        "subject": "GEOL", 
         "title": "Spatial Information Management in the Geosciences"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 GPHY 243 or GEOL 333 or permission of the Department.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 GPHY 243 or GEOL 333 or permission of the Department.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

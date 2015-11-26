@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Each student investigates a problem in geological engineering that is not covered in any of the available courses, and submits a written report on the topic. This course is open to students only if a suitable faculty member is available.",
-        "number": "340",
-        "subject": "GEOE",
+        "description": "Each student investigates a problem in geological engineering that is not covered in any of the available courses, and submits a written report on the topic. This course is open to students only if a suitable faculty member is available.", 
+        "number": "340", 
+        "subject": "GEOE", 
         "title": "Problems In Geological Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 18,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 18,
+            "Basic Sci": 18, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 18, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

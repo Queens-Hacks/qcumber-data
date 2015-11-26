@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The electrophysiology and biophysics of neuronal and cardiac membranes; molecular biology, structure, and function of ion channels.\u00a0 Students will learn to critically evaluate scientific literature.\u00a0 Instructional format is primarily student-led seminars.\u00a0 Enrolment is limited.\u00a0 (Offered even years only; jointly with PHGY-424). Winter. N. Magoski. PREREQUISITES: PHGY-214 (or equivalent) with a minimum of 65 percent (or equivalent) or permission of the course supervisor.\u00a0 EXCLUSION: PHGY-824*",
-        "number": "824",
-        "subject": "BMED",
+        "description": "The electrophysiology and biophysics of neuronal and cardiac membranes; molecular biology, structure, and function of ion channels.\u00a0 Students will learn to critically evaluate scientific literature.\u00a0 Instructional format is primarily student-led seminars.\u00a0 Enrolment is limited.\u00a0 (Offered even years only; jointly with PHGY-424). Winter. N. Magoski. PREREQUISITES: PHGY-214 (or equivalent) with a minimum of 65 percent (or equivalent) or permission of the course supervisor.\u00a0 EXCLUSION: PHGY-824*", 
+        "number": "824", 
+        "subject": "BMED", 
         "title": "Ion Channels of Excitable Cells"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

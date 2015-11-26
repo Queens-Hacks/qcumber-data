@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to the basic principles and tools of artificial intelligence. Problem solving methods and knowledge representation techniques.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
-        "number": "352",
-        "subject": "CISC",
+        "description": "An introduction to the basic principles and tools of artificial intelligence. Problem solving methods and knowledge representation techniques.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "352", 
+        "subject": "CISC", 
         "title": "Artificial Intelligence"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerquisites\u00a0\u00a0\u00a0\u00a0\u00a0 CISC235 and CISC260",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerquisites\u00a0\u00a0\u00a0\u00a0\u00a0 CISC235 and CISC260", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

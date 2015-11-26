@@ -1,37 +1,37 @@
 {
-    "_unique": "001-SEM (3972)",
+    "_unique": "001-SEM (3972)", 
     "availability": {
-        "class_curr": 39,
-        "class_max": 46,
-        "wait_curr": 0,
+        "class_curr": 39, 
+        "class_max": 46, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "468",
-        "season": "Winter",
-        "solus_id": "3972",
-        "status": "Open",
-        "subject": "POLS",
-        "type": "SEM",
+        "class_num": "001", 
+        "course": "468", 
+        "season": "Winter", 
+        "solus_id": "3972", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "SEM", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 4,
-            "end_time": "11:30:00",
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Cox, Wayne S"
-            ],
-            "location": "NICOL RM321",
-            "start_time": "08:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "NICOL RM321", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

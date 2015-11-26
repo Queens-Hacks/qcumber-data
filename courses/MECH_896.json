@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is designed to develop professional skills that expand on a student's existing technical and non- technical skills, as relevant to a future career in engineering. The topics covered will encompass aspects of project management; leadership and crisis management; written and oral communication; engineering integrity and ethics; and social responsibility. A key feature of the course will be the use of a simulation game in project management for both instruction and assessment. This course is open only to MEng students.\u00a0 PREREQUISITE: Permission of the instructor.",
-        "number": "896",
-        "subject": "MECH",
+        "description": "This course is designed to develop professional skills that expand on a student's existing technical and non- technical skills, as relevant to a future career in engineering. The topics covered will encompass aspects of project management; leadership and crisis management; written and oral communication; engineering integrity and ethics; and social responsibility. A key feature of the course will be the use of a simulation game in project management for both instruction and assessment. This course is open only to MEng students.\u00a0 PREREQUISITE: Permission of the instructor.", 
+        "number": "896", 
+        "subject": "MECH", 
         "title": "Professional Development for MEng Students"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course deals with the application of operations research methods in engineering with emphasis on mining applications. Topics covered are linear programming, optimization methods, transportation and network models, discrete optimization, non linear optimization, decision tree methods, simulation and elements of geostatistics as applied to mining. Lab sessions also deal with forecasting techniques, regression analysis, dispatch problems, planning and scheduling.",
-        "number": "326",
-        "subject": "MINE",
+        "description": "The course deals with the application of operations research methods in engineering with emphasis on mining applications. Topics covered are linear programming, optimization methods, transportation and network models, discrete optimization, non linear optimization, decision tree methods, simulation and elements of geostatistics as applied to mining. Lab sessions also deal with forecasting techniques, regression analysis, dispatch problems, planning and scheduling.", 
+        "number": "326", 
+        "subject": "MINE", 
         "title": "Operations Research"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 20,
-            "Eng Sci": 14,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 20, 
+            "Eng Sci": 14, 
             "Math": 20
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of APSC142 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of APSC142 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

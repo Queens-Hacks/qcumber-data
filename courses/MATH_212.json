@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Vector spaces, direct sums, linear transformations, eigenvalues, eigenvectors, inner product spaces, self-adjoint operators, positive operators, singular-value decomposition, minimal polynomials, Jordan canonical form, the projection theorem, applications to approximation and optimization problems.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)",
-        "number": "212",
-        "subject": "MATH",
+        "description": "Vector spaces, direct sums, linear transformations, eigenvalues, eigenvectors, inner product spaces, self-adjoint operators, positive operators, singular-value decomposition, minimal polynomials, Jordan canonical form, the projection theorem, applications to approximation and optimization problems.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)", 
+        "number": "212", 
+        "subject": "MATH", 
         "title": "Linear Algebra ll"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 MATH111 or 112 or MTHE217.\nExclusion\u00a0\u00a0\u00a0\u00a0 MATH110.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 MATH111 or 112 or MTHE217.\nExclusion\u00a0\u00a0\u00a0\u00a0 MATH110.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

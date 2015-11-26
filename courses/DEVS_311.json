@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Explores the relationships between the production of goods, the lives and livelihoods of workers, and socio-economic development at local, national and global levels. Issues include: the international division of labour; global commodity chains; technological change; labour markets; informal sector; genders in production; unions and labour rights.",
-        "number": "311",
-        "subject": "DEVS",
+        "description": "Explores the relationships between the production of goods, the lives and livelihoods of workers, and socio-economic development at local, national and global levels. Issues include: the international division of labour; global commodity chains; technological change; labour markets; informal sector; genders in production; unions and labour rights.", 
+        "number": "311", 
+        "subject": "DEVS", 
         "title": "Labour and Global Development"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite DEVS100 & DEVS230",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite DEVS100 & DEVS230", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

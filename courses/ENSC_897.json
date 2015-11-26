@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This half-credit course spans four semesters and requires students to attend a minimum of 30 seminars, chosen from among those offered by the School of Environmental Studies (at least 18) and other units in any faculty at Queen\u00bfs.\u00a0 Within the School\u00bfs annual seminar series, they must also recruit and host one seminar speaker and present one seminar on their own project. Total contact hours: 30 hours, up to 4-5 semesters; FWNS. Consult Department for offering.",
-        "number": "897",
-        "subject": "ENSC",
+        "description": "This half-credit course spans four semesters and requires students to attend a minimum of 30 seminars, chosen from among those offered by the School of Environmental Studies (at least 18) and other units in any faculty at Queen\u00bfs.\u00a0 Within the School\u00bfs annual seminar series, they must also recruit and host one seminar speaker and present one seminar on their own project. Total contact hours: 30 hours, up to 4-5 semesters; FWNS. Consult Department for offering.", 
+        "number": "897", 
+        "subject": "ENSC", 
         "title": "Environmental Studies Seminars"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

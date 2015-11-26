@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A survey of animals, their internal organization and their relationships to their environment. Organismal biology is discussed in a phylogenetic context and the evolution of organizational complexity and the relations between structure and function are stressed. \nLEARNING HOURS\u00a0\u00a0\u00a0 117 (36L;33Lb;48P)",
-        "number": "202",
-        "subject": "BIOL",
+        "description": "A survey of animals, their internal organization and their relationships to their environment. Organismal biology is discussed in a phylogenetic context and the evolution of organizational complexity and the relations between structure and function are stressed. \nLEARNING HOURS\u00a0\u00a0\u00a0 117 (36L;33Lb;48P)", 
+        "number": "202", 
+        "subject": "BIOL", 
         "title": "Diversity of Life II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

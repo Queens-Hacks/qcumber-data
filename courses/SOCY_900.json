@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course is designed to acquaint doctoral students with some aspects of the teaching and research responsibilities of a sociologist and faculty member. It has both theoretical and practical components, and will cover course planning, presentation and preparation as well as planning, organizing, funding and publishing research. Grading is on a Pass/Fail basis. Course is compulsory for doctoral students and is offered every other year.\u00a0\u00a0 Three term-hours.\u00a0 Offered in 2010-2011.",
-        "number": "900",
-        "subject": "SOCY",
+        "description": "This course is designed to acquaint doctoral students with some aspects of the teaching and research responsibilities of a sociologist and faculty member. It has both theoretical and practical components, and will cover course planning, presentation and preparation as well as planning, organizing, funding and publishing research. Grading is on a Pass/Fail basis. Course is compulsory for doctoral students and is offered every other year.\u00a0\u00a0 Three term-hours.\u00a0 Offered in 2010-2011.", 
+        "number": "900", 
+        "subject": "SOCY", 
         "title": "Professional/Pedagogical Skill"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "CHEE 331, CHEE 332 and CHEE 333 share a core component that introduces the concept and approach to design in engineering practice, and the design and scaleup of unit operations and use of equilibrium stage concepts in process design. Emphasis will be placed on instrumentation, economics, safety and environmental responsibility. A major component of this course is a design project. Enrolment is restricted to students in the Chemical Engineering CHE2 Option.",
-        "number": "332",
-        "subject": "CHEE",
+        "description": "CHEE 331, CHEE 332 and CHEE 333 share a core component that introduces the concept and approach to design in engineering practice, and the design and scaleup of unit operations and use of equilibrium stage concepts in process design. Emphasis will be placed on instrumentation, economics, safety and environmental responsibility. A major component of this course is a design project. Enrolment is restricted to students in the Chemical Engineering CHE2 Option.", 
+        "number": "332", 
+        "subject": "CHEE", 
         "title": "Design of Unit Operations"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 42,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 42, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Pre-requisites CHEE 311, CHEE 321, CHEE 330, or permission of the department.\u00a0 Corequisite: CHEE 360.\u00a0 Must be registered in a BSCE academic program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Pre-requisites APSC 200, APSC 293, CHEE 311, CHEE 321, CHEE 330, or permission of the department.\u00a0 Corequisite: CHEE 360.\u00a0 Must be registered in a BSCE academic program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

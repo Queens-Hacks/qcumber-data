@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A design-based course where geotechnical principles are applied to study the design of a variety of geotechnical engineering structures. Topics studied include: design of a site investigation program, interpretation of site stratigraphy, estimation of soil parameters, design of shallow and/or deep foundations, design of earth retaining structures, and construction issues such as dewatering schemes or temporary excavations. Students will conduct practical design tasks to experience a range of aspects of the geotechnical design process, to utilize common models used in geotechnical design, and to communicate with project partners such as structural consultants, site investigation companies, and construction contractors. The important role of geology in geotechnical problems is emphasized through classroom discussions, planning a site investigation and constructing a geologic model.",
-        "number": "442",
-        "subject": "CIVL",
+        "description": "A design-based course where geotechnical principles are applied to study the design of a variety of geotechnical engineering structures. Topics studied include: design of a site investigation program, interpretation of site stratigraphy, estimation of soil parameters, design of shallow and/or deep foundations, design of earth retaining structures, and construction issues such as dewatering schemes or temporary excavations. Students will conduct practical design tasks to experience a range of aspects of the geotechnical design process, to utilize common models used in geotechnical design, and to communicate with project partners such as structural consultants, site investigation companies, and construction contractors. The important role of geology in geotechnical problems is emphasized through classroom discussions, planning a site investigation and constructing a geologic model.", 
+        "number": "442", 
+        "subject": "CIVL", 
         "title": "Geotechnical Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 35,
-            "Eng Sci": 10,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 35, 
+            "Eng Sci": 10, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.75"
     }
 }

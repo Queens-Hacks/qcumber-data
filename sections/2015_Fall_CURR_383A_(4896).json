@@ -1,48 +1,70 @@
 {
-    "_unique": "001-LEC (4896)",
+    "_unique": "001-LEC (4896)", 
     "availability": {
-        "class_curr": 38,
-        "class_max": 40,
-        "wait_curr": 0,
+        "class_curr": 38, 
+        "class_max": 40, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "383A",
-        "season": "Fall",
-        "solus_id": "4896",
-        "status": "Open",
-        "subject": "CURR",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "383A", 
+        "season": "Fall", 
+        "solus_id": "4896", 
+        "status": "Open", 
+        "subject": "CURR", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "10:30:00",
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "McDuff, Joan E"
-            ],
-            "location": "DUNCAN MCARTHUR RM A342",
-            "start_time": "08:30:00",
-            "term_end": "2015-10-09",
+            ], 
+            "location": "DUNCAN MCARTHUR RM A342", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-09", 
             "term_start": "2015-09-02"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "10:30:00",
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "McDuff, Joan E"
-            ],
-            "location": "DUNCAN MCARTHUR RM A342",
-            "start_time": "08:30:00",
-            "term_end": "2015-12-18",
+            ], 
+            "location": "DUNCAN MCARTHUR RM A342", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-03", 
             "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "McDuff, Joan E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A342", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-10", 
+            "term_start": "2015-12-10"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "McDuff, Joan E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A342", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-15"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
         "session": "Education Regular"
     }
 }

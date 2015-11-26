@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Statistical methods as used in economics. This course introduces statistical hypothesis testing and covers basic methods as far as linear regression analysis.\nNOTE\u00a0\u00a0\u00a0 A grade of C in this course is required as a prerequisite for ECON 351/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12I;72P)",
-        "number": "250",
-        "subject": "ECON",
+        "description": "Statistical methods as used in economics. This course introduces statistical hypothesis testing and covers basic methods as far as linear regression analysis.\nNOTE\u00a0\u00a0\u00a0 A grade of C in this course is required as a prerequisite for ECON 351/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12I;72P)", 
+        "number": "250", 
+        "subject": "ECON", 
         "title": "Introduction to Statistics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 ECON110 or (ECON111 & 112)\r\nCorequisite\u00a0 MATH120 or 121 or 122 or (MATH123 & MATH124) or 126 or APSC172.\r\nExclusion No more than 3.0 units from STAT261; STAT263; STAT267; STAT367; COMM162; ECON250; PSYC202; SOCY211; BIOL243; CHEE209",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 ECON110 or (ECON111 & 112)\r\nCorequisite\u00a0 MATH120 or 121 or 122 or (MATH123 & MATH124) or 126 or APSC172.\r\nExclusion No more than 3.0 units from STAT261; STAT263; STAT267; STAT367; COMM162; ECON250; PSYC202; SOCY211; BIOL243; CHEE209", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

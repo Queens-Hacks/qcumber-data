@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Markov chains, birth and death processes, random walk problems, elementary renewal theory, Markov processes, Brownian motion and Poisson processes, queuing theory, branching processes. Given jointly with STAT 855*.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)",
-        "number": "455",
-        "subject": "STAT",
+        "description": "Markov chains, birth and death processes, random walk problems, elementary renewal theory, Markov processes, Brownian motion and Poisson processes, queuing theory, branching processes. Given jointly with STAT 855*.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)", 
+        "number": "455", 
+        "subject": "STAT", 
         "title": "Stochastic Processes & Applic"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 STAT353 or (STAT269 or STAT351) with permission of the Department).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 STAT353 or (STAT269 or STAT351) with permission of the Department).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

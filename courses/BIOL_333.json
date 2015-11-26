@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course explores biological contributions to society in the fields of environmental assessment and management, materials and food production, and biotechnology. Emphasis is placed on understanding of applied processes in relevant service and production industries.",
-        "number": "333",
-        "subject": "BIOL",
+        "description": "The course explores biological contributions to society in the fields of environmental assessment and management, materials and food production, and biotechnology. Emphasis is placed on understanding of applied processes in relevant service and production industries.", 
+        "number": "333", 
+        "subject": "BIOL", 
         "title": "Applied Biology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture / Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 BIOL201 and BIOL205.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 BIOL201 and BIOL205.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

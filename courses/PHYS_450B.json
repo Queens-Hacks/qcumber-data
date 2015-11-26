@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course provides advanced physics and engineering physics students with experience in a wide range of modern experimental techniques. Experiments encompass measurements in applied physics, quantum solid state physics, low temperature physics, nuclear physics and optics. The course\u00a0has set experiments in the Fall Term and group projects in the Winter Term.",
-        "number": "450B",
-        "subject": "PHYS",
+        "description": "This course provides advanced physics and engineering physics students with experience in a wide range of modern experimental techniques. Experiments encompass measurements in applied physics, quantum solid state physics, low temperature physics, nuclear physics and optics. The course\u00a0has set experiments in the Fall Term and group projects in the Winter Term.", 
+        "number": "450B", 
+        "subject": "PHYS", 
         "title": "Adv Physics Lab & Proj"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The alteration of carbonate sediments in different diagenetic environments leading to the formation of limestone and dolomite. Topics addressed will include biological and chemical modification, cementation, neomorphism, porosity evolution and karst. Emphasis to be on rock-water interactions as revealed through petrography as well as trace element and isotope geochemistry.",
-        "number": "882",
-        "subject": "GEOL",
+        "description": "The alteration of carbonate sediments in different diagenetic environments leading to the formation of limestone and dolomite. Topics addressed will include biological and chemical modification, cementation, neomorphism, porosity evolution and karst. Emphasis to be on rock-water interactions as revealed through petrography as well as trace element and isotope geochemistry.", 
+        "number": "882", 
+        "subject": "GEOL", 
         "title": "Petrogenesis of Carbonate Rocks"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

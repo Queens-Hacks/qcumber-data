@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This practice course focuses on the care of adults with complex health challenges and unpredictable outcomes. The course involves two six week rotations that include laboratory and clinical experiences, care of clients with acute physiological problems and/or exacerbations of chronic illnesses and care of clients with acute or long term mental health problems. Provides an opportunity to enhance assessment, intervention and organizational skills, in laboratory and Clinical Education Centre settings and in direct client care in hospital, community and ambulatory settings.16 hours a week, 2 six week clinical rotations; 16 units (6 credits) course weight.",
-        "number": "345",
-        "subject": "NURS",
+        "description": "This practice course focuses on the care of adults with complex health challenges and unpredictable outcomes. The course involves two six week rotations that include laboratory and clinical experiences, care of clients with acute physiological problems and/or exacerbations of chronic illnesses and care of clients with acute or long term mental health problems. Provides an opportunity to enhance assessment, intervention and organizational skills, in laboratory and Clinical Education Centre settings and in direct client care in hospital, community and ambulatory settings.16 hours a week, 2 six week clinical rotations; 16 units (6 credits) course weight.", 
+        "number": "345", 
+        "subject": "NURS", 
         "title": "Adlt Chron & Acute Phys & Ment"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Clinical": "Required",
+            "Clinical": "Required", 
             "Laboratory": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "level 3 or higher",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "level 3 or higher", 
+        "grading_basis": "Pass/Fail", 
         "units": "6.00"
     }
 }

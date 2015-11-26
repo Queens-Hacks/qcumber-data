@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course will focus on the integration of facilities (machine tools, robotics) and the automation protocols required in the implementation of computer integrated manufacturing. Specific concepts addressed include flexible manufacturing systems (FMS); interfaces between computer aided design and computer aided manufacturing systems; islands of automation.",
-        "number": "455",
-        "subject": "MECH",
+        "description": "The course will focus on the integration of facilities (machine tools, robotics) and the automation protocols required in the implementation of computer integrated manufacturing. Specific concepts addressed include flexible manufacturing systems (FMS); interfaces between computer aided design and computer aided manufacturing systems; islands of automation.", 
+        "number": "455", 
+        "subject": "MECH", 
         "title": "Computer Integrated Manufactur"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 21,
-            "Eng Sci": 21,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 21, 
+            "Eng Sci": 21, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

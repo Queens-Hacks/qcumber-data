@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is intended to enable team projects that started in MECH 460, to continue to the \"implement and operate\" phases of the design cycle. However, new projects can be the subject of MECH 462 as long as they meet the \"implement and operate\" objectives of the course.\u00a0 An engineering report is prepared and defended. The presentation is normally supported by a working prototype or physical mock-up of the design. Testing a process or system can replace the building of a prototype.",
-        "number": "462",
-        "subject": "MECH",
+        "description": "This course is intended to enable team projects that started in MECH 460, to continue to the \"implement and operate\" phases of the design cycle. However, new projects can be the subject of MECH 462 as long as they meet the \"implement and operate\" objectives of the course.\u00a0 An engineering report is prepared and defended. The presentation is normally supported by a working prototype or physical mock-up of the design. Testing a process or system can replace the building of a prototype.", 
+        "number": "462", 
+        "subject": "MECH", 
         "title": "Team Proj.-Implement & Operate"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 42,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 42, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MECH460 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH460 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

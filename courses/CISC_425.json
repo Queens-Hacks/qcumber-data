@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Advanced user-interface styles such as eye-tracking input, digital desks, wearable computing, ubiquitous and context-aware computing, and tangible interfaces.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
-        "number": "425",
-        "subject": "CISC",
+        "description": "Advanced user-interface styles such as eye-tracking input, digital desks, wearable computing, ubiquitous and context-aware computing, and tangible interfaces.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "425", 
+        "subject": "CISC", 
         "title": "Advanced User Interface Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CISC325 or permission of the School\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CISC425; CMPE425",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CISC325 or permission of the School\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CISC425; CMPE425", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

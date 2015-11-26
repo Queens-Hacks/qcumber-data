@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to solving ordinary differential equations. Topics include first order differential equations, linear differential equations with constant coefficients, Laplace transforms, and systems of linear equations.\nNOTE\u00a0\u00a0\u00a0 Some knowledge of linear algebra is assumed.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)",
-        "number": "225",
-        "subject": "MATH",
+        "description": "An introduction to solving ordinary differential equations. Topics include first order differential equations, linear differential equations with constant coefficients, Laplace transforms, and systems of linear equations.\nNOTE\u00a0\u00a0\u00a0 Some knowledge of linear algebra is assumed.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)", 
+        "number": "225", 
+        "subject": "MATH", 
         "title": "Ordinary Differential Equations"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124 or MATH126.\nExclusion\u00a0\u00a0\u00a0\u00a0\u00a0 No more than 1 course from MATH225; MATH226; MATH231; MATH232; MATH235; MATH237.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124 or MATH126.\nExclusion\u00a0\u00a0\u00a0\u00a0\u00a0 No more than 1 course from MATH225; MATH226; MATH231; MATH232; MATH235; MATH237.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "An introduction to the main themes of Western history between the fall of the Roman Empire and the 15th century.\nLEARNING HOURS\u00a0\u00a0\u00a0 252 (72L;48O;132P)",
-        "number": "250B",
-        "subject": "HIST",
+        "description": "An introduction to the main themes of Western history between the fall of the Roman Empire and the 15th century.\nLEARNING HOURS\u00a0\u00a0\u00a0 252 (72L;48O;132P)", 
+        "number": "250B", 
+        "subject": "HIST", 
         "title": "The Middle Ages"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

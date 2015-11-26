@@ -1,37 +1,37 @@
 {
-    "_unique": "002-LAB (1506)",
+    "_unique": "002-LAB (1506)", 
     "availability": {
-        "class_curr": 56,
-        "class_max": 60,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
+        "class_curr": 56, 
+        "class_max": 60, 
+        "wait_curr": 0, 
+        "wait_max": 6
+    }, 
     "basic": {
-        "class_num": "002",
-        "course": "216",
-        "season": "Fall",
-        "solus_id": "1506",
-        "status": "Open",
-        "subject": "FILM",
-        "type": "LAB",
+        "class_num": "002", 
+        "course": "216", 
+        "season": "Fall", 
+        "solus_id": "1506", 
+        "status": "Open", 
+        "subject": "FILM", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 5,
-            "end_time": "13:30:00",
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
             "instructors": [
                 "Baxter, Peter"
-            ],
-            "location": "IBCPA RM329",
-            "start_time": "11:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "IBCPA RM329", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

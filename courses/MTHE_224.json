@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The course will discuss the application of linear differential equations with constant coefficients, and systems of linear equations within the realm of civil engineering. Additionally, the course will explore relevant data analysis techniques including: graphical and statistical analysis and presentation of experimental data, random sampling, estimation using confidence intervals, linear regression, residuals and correlation.",
-        "number": "224",
-        "subject": "MTHE",
+        "description": "The course will discuss the application of linear differential equations with constant coefficients, and systems of linear equations within the realm of civil engineering. Additionally, the course will explore relevant data analysis techniques including: graphical and statistical analysis and presentation of experimental data, random sampling, estimation using confidence intervals, linear regression, residuals and correlation.", 
+        "number": "224", 
+        "subject": "MTHE", 
         "title": "Applied Math For Civil Eng."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 50
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: APSC 142, APSC 172, APSC 174 and registered in BSCE.\r\nEXCLUSIONS: MATH 225, MATH 226, MATH 235, MATH 237, STAT 267, STAT 367",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 142, APSC 172, APSC 174 and registered in BSCE.\r\nEXCLUSIONS: MATH 225, MATH 226, MATH 235, MATH 237, STAT 267, STAT 367", 
+        "grading_basis": "Graded", 
         "units": "4.20"
     }
 }

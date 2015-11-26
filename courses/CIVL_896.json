@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This seminar/workshop series and associated online modules are comprised of three main streams including Aboriginal issues (culture, legal and policy issues), social issues and sustainability standards, and business skills training. This course is a mandatory component of the NSERC CREATE training program on Sustainable Engineering in Remote Areas.",
-        "number": "896",
-        "subject": "CIVL",
+        "description": "This seminar/workshop series and associated online modules are comprised of three main streams including Aboriginal issues (culture, legal and policy issues), social issues and sustainability standards, and business skills training. This course is a mandatory component of the NSERC CREATE training program on Sustainable Engineering in Remote Areas.", 
+        "number": "896", 
+        "subject": "CIVL", 
         "title": "Sustainable Engineering in Remote Areas"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

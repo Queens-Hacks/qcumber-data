@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Each year brings new molecular tools and significant advances in analytical techniques for using molecular data to address evolutionary and ecological questions. This course is an exploration of these with emphases varying from year to year depending on the expertise of the instructor. Topics may span natural selection and phenotypic plasticity, parentage and mating systems, speciation, hybridization, macroevolution, and phylogenetics.Students gain a thorough theoretical grounding of pertinent topics via lectures, student seminars, and readings from the current primary literature. Hands-on analytical experience will be provided through student exercises using the latest software applications.Three term hours; fall or winter. Not offered 2010-2011.",
-        "number": "830",
-        "subject": "BIOL",
+        "description": "Each year brings new molecular tools and significant advances in analytical techniques for using molecular data to address evolutionary and ecological questions. This course is an exploration of these with emphases varying from year to year depending on the expertise of the instructor. Topics may span natural selection and phenotypic plasticity, parentage and mating systems, speciation, hybridization, macroevolution, and phylogenetics.Students gain a thorough theoretical grounding of pertinent topics via lectures, student seminars, and readings from the current primary literature. Hands-on analytical experience will be provided through student exercises using the latest software applications.Three term hours; fall or winter. Not offered 2010-2011.", 
+        "number": "830", 
+        "subject": "BIOL", 
         "title": "Pop. & Ecological Genetics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A seminar course which will acquaint the student with the concepts and principles of quantitative statistical analysis including parametric and non-parametric methods. Students may present various topics throughout the course and critically evaluate research in their area of study. (Offered jointly with KHS-891*.) Three term hours; lectures/seminars; fall.\u00a0\u00a0 Limited enrollment.\u00a0",
-        "number": "834",
-        "subject": "RHBS",
+        "description": "A seminar course which will acquaint the student with the concepts and principles of quantitative statistical analysis including parametric and non-parametric methods. Students may present various topics throughout the course and critically evaluate research in their area of study. (Offered jointly with KHS-891*.) Three term hours; lectures/seminars; fall.\u00a0\u00a0 Limited enrollment.\u00a0", 
+        "number": "834", 
+        "subject": "RHBS", 
         "title": "Statistics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

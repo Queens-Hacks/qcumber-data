@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "Vector spaces, direct sums, linear transformations, eigenvalues, eigenvectors, inner\u00a0product spaces, self-adjoint operators, positive operators, singular-value decomposition, minimal polynomials,\u00a0Jordan canonical form, the projection theorem, applications to approximation and optimization problems.\u00a0",
-        "number": "212",
-        "subject": "MTHE",
+        "description": "Vector spaces, direct sums, linear transformations, eigenvalues, eigenvectors, inner\u00a0product spaces, self-adjoint operators, positive operators, singular-value decomposition, minimal polynomials,\u00a0Jordan canonical form, the projection theorem, applications to approximation and optimization problems.\u00a0", 
+        "number": "212", 
+        "subject": "MTHE", 
         "title": "Linear Algebra"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 42
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITE: APSC174\nEXCLUSIONS:\u00a0 MTHE 312 (MATH 312)", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

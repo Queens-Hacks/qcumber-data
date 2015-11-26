@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Review of statics, forces and equilibrium, internal forces in simple structures; axial, torsion, shear and moment diagrams; concepts of stress and strain; mechanical properties of materials; centroids and moments of areas; axial stress; flexural stress;\u00a0 shear stress in shafts and beams; calculation of displacement by integration; introduction to combined loading; introduction to column buckling. This course is designed primarily for mechanical engineering students.",
-        "number": "220",
-        "subject": "CIVL",
+        "description": "Review of statics, forces and equilibrium, internal forces in simple structures; axial, torsion, shear and moment diagrams; concepts of stress and strain; mechanical properties of materials; centroids and moments of areas; axial stress; flexural stress;\u00a0 shear stress in shafts and beams; calculation of displacement by integration; introduction to combined loading; introduction to column buckling. This course is designed primarily for mechanical engineering students.", 
+        "number": "220", 
+        "subject": "CIVL", 
         "title": "Statics And Solid Mechanics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 48,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 48, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of (APSC111 and APSC171) and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of (APSC111 and APSC171) and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

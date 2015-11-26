@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Algebraic techniques used in applied mathematics, statistics, computer science and other areas. Polynomials, complex numbers; least squares approximations; discrete linear systems; eigenvalue estimation; non-negative matrices - Markov chains; permutation groups; linear Diophantine equations; introduction to algebraic structures.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)",
-        "number": "211A",
-        "subject": "MATH",
+        "description": "Algebraic techniques used in applied mathematics, statistics, computer science and other areas. Polynomials, complex numbers; least squares approximations; discrete linear systems; eigenvalue estimation; non-negative matrices - Markov chains; permutation groups; linear Diophantine equations; introduction to algebraic structures.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)", 
+        "number": "211A", 
+        "subject": "MATH", 
         "title": "Algebraic Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124 or MATH126 and (MATH110 or MATH111).\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH210; MATH211.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 MATH120 or MATH121 or MATH122 or MATH124 or MATH126 and (MATH110 or MATH111).\nExclusion\u00a0\u00a0\u00a0 No more than 1 course from MATH210; MATH211.", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

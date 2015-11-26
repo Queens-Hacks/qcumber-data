@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "UNENE Course Number = UN 0602 Presently, nuclear fuel waste management involves storage in water pools or dry storage containers at reactor sites. If the fuel is then defined as waste, permanent disposal at an appropriate deep geological site would be considered. This course will describe the physical and chemical properties of the fuel and these approaches to storage and disposal. Key features of the fuel include its chemical and physical structure and properties prior to, and after, in-reactor irradiation, the nature and distribution of radionuclides produced in-reactor, and the chemical and physical properties of the Zircaloy fuel cladding before and after in-reactor exposure. The principles behind pool and dry storage will be described including the design of storage containers and the chemical and corrosion processes that could influence their long-term integrity. The possible permanent disposal scenarios developed internationally will be discussed, with a primary emphasis on those potentially applicable in Canada. For this last topic, the design and fabrication of waste containers and the processes that could potentially lead to their failure, the properties of engineered barriers within the geological site, the essential geological features of the chosen site, and the computational modeling approaches used in site performance assessment calculations will be described. University of Western Ontario/D. Shoesmith",
-        "number": "862",
-        "subject": "UN",
+        "description": "UNENE Course Number = UN 0602 Presently, nuclear fuel waste management involves storage in water pools or dry storage containers at reactor sites. If the fuel is then defined as waste, permanent disposal at an appropriate deep geological site would be considered. This course will describe the physical and chemical properties of the fuel and these approaches to storage and disposal. Key features of the fuel include its chemical and physical structure and properties prior to, and after, in-reactor irradiation, the nature and distribution of radionuclides produced in-reactor, and the chemical and physical properties of the Zircaloy fuel cladding before and after in-reactor exposure. The principles behind pool and dry storage will be described including the design of storage containers and the chemical and corrosion processes that could influence their long-term integrity. The possible permanent disposal scenarios developed internationally will be discussed, with a primary emphasis on those potentially applicable in Canada. For this last topic, the design and fabrication of waste containers and the processes that could potentially lead to their failure, the properties of engineered barriers within the geological site, the essential geological features of the chosen site, and the computational modeling approaches used in site performance assessment calculations will be described. University of Western Ontario/D. Shoesmith", 
+        "number": "862", 
+        "subject": "UN", 
         "title": "Nuclear Fuel Waste Management"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

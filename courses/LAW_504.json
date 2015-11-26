@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "",
-        "number": "504",
-        "subject": "LAW",
+        "description": "", 
+        "number": "504", 
+        "subject": "LAW", 
         "title": "Tax Theory & Policy"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "LAW 508",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "LAW 508", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

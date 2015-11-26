@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course gives a broad perspective of the use of microbial systems to treat environmental pollutants and of microorganisms as potential environmental contaminants. Biogeochemical cycles and their applications to processes such as the desulphurization of coal and crude oil, biocorrosion, mineral (eg. uranium, copper and iron) leaching, the degradation of organic compounds, and nitrate removal from drinking water will be studied. Microbial waste disposal systems such as composting and soil bioremediation and the role of biotechnology in waste minimization will be examined. Microorganisms found in air, soil and water, their detection, enumeration and control will be discussed.",
-        "number": "342",
-        "subject": "CHEE",
+        "description": "This course gives a broad perspective of the use of microbial systems to treat environmental pollutants and of microorganisms as potential environmental contaminants. Biogeochemical cycles and their applications to processes such as the desulphurization of coal and crude oil, biocorrosion, mineral (eg. uranium, copper and iron) leaching, the degradation of organic compounds, and nitrate removal from drinking water will be studied. Microbial waste disposal systems such as composting and soil bioremediation and the role of biotechnology in waste minimization will be examined. Microorganisms found in air, soil and water, their detection, enumeration and control will be discussed.", 
+        "number": "342", 
+        "subject": "CHEE", 
         "title": "Environmental Biotechnology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 42,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Registered in BSCE",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Registered in BSCE", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Optional for those in the B.A.(Honours) program with a major concentration in Economics or Applied Economics. The thesis is a major research paper to be undertaken with supervision of a faculty adviser. The thesis proposal should be presented to the Department by 31 October in the graduating year and a completed thesis must be submitted to the Department by the end of the Winter Session in the graduating year.\nNOTE\u00a0\u00a0\u00a0 Enrollment is limited.\nLEARNING HOURS 240 (48I;192P)",
-        "number": "590A",
-        "subject": "ECON",
+        "description": "Optional for those in the B.A.(Honours) program with a major concentration in Economics or Applied Economics. The thesis is a major research paper to be undertaken with supervision of a faculty adviser. The thesis proposal should be presented to the Department by 31 October in the graduating year and a completed thesis must be submitted to the Department by the end of the Winter Session in the graduating year.\nNOTE\u00a0\u00a0\u00a0 Enrollment is limited.\nLEARNING HOURS 240 (48I;192P)", 
+        "number": "590A", 
+        "subject": "ECON", 
         "title": "Economics Thesis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

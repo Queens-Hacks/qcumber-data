@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course covers fundamental understanding of the mechanical response of ceramics and brittle materials subjected to external stress. The emphasis is placed on developing the relationships between microstructure and mechanical properties in ceramics and brittle materials. Topics covered in this course include linear-elastic behaviour, the role of crack-opening displacement in our understanding of the effects of porosity, grain size and cracks on strength and toughness, as well as the role of residual stresses in the design of super strong materials. The structure and mechanical properties of nano-crystalline ceramics and metals will also be covered. This course is offered in conjunction with MECH-475, but has additional reading and work assignments. Three term-hours.\u00a0",
-        "number": "875",
-        "subject": "MECH",
+        "description": "This course covers fundamental understanding of the mechanical response of ceramics and brittle materials subjected to external stress. The emphasis is placed on developing the relationships between microstructure and mechanical properties in ceramics and brittle materials. Topics covered in this course include linear-elastic behaviour, the role of crack-opening displacement in our understanding of the effects of porosity, grain size and cracks on strength and toughness, as well as the role of residual stresses in the design of super strong materials. The structure and mechanical properties of nano-crystalline ceramics and metals will also be covered. This course is offered in conjunction with MECH-475, but has additional reading and work assignments. Three term-hours.\u00a0", 
+        "number": "875", 
+        "subject": "MECH", 
         "title": "Structural Ceramics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

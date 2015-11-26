@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Course focuses on a comprehensive suite of numerical analysis techniques suited to geotechnical design of rock structures and analysis of rockmass stability in natural and engineered settings. Finite element, finite difference, discrete/distinct element and boundary element methods are all discussed with hands-on application workshops using state-of-the-art geomechanics software. Analytical models and pre- and post processing techniques suited to typical rock engineering problems are developed through assignments. Strength criteria and non-linear inelastic constitutive models for continuum plasticity, brittle fracture and discontinuum deformation are explored in detail. Projects involving real case histories are undertaken to highlight the application of and engineering judgment associated with numerical analysis for problems involving rockmasses.",
-        "number": "873",
-        "subject": "GEOL",
+        "description": "Course focuses on a comprehensive suite of numerical analysis techniques suited to geotechnical design of rock structures and analysis of rockmass stability in natural and engineered settings. Finite element, finite difference, discrete/distinct element and boundary element methods are all discussed with hands-on application workshops using state-of-the-art geomechanics software. Analytical models and pre- and post processing techniques suited to typical rock engineering problems are developed through assignments. Strength criteria and non-linear inelastic constitutive models for continuum plasticity, brittle fracture and discontinuum deformation are explored in detail. Projects involving real case histories are undertaken to highlight the application of and engineering judgment associated with numerical analysis for problems involving rockmasses.", 
+        "number": "873", 
+        "subject": "GEOL", 
         "title": "Applied Num. Analysis For Rock Engr."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

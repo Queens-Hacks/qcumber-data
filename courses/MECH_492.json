@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course presents some of the applications of fluid mechanics in human biomechanical systems. The course centres on the hum circulatory and respiratory systems. Topics covered will include: blood flow in the heart, arteries, veins and microcirculation; air flow in lungs and airways; mass transfer across the walls of these systems. Experimental tools for use in biomedical applications will be emphas Students are expected to have experimental and fluids knowledge typically acquired in MECH 215/241/341. Those who have not taken t or similar courses will need to prepare through self study.",
-        "number": "492",
-        "subject": "MECH",
+        "description": "This course presents some of the applications of fluid mechanics in human biomechanical systems. The course centres on the hum circulatory and respiratory systems. Topics covered will include: blood flow in the heart, arteries, veins and microcirculation; air flow in lungs and airways; mass transfer across the walls of these systems. Experimental tools for use in biomedical applications will be emphas Students are expected to have experimental and fluids knowledge typically acquired in MECH 215/241/341. Those who have not taken t or similar courses will need to prepare through self study.", 
+        "number": "492", 
+        "subject": "MECH", 
         "title": "Biofluids"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 42,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 42, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

@@ -1,37 +1,37 @@
 {
-    "_unique": "002-TUT (5764)",
+    "_unique": "002-TUT (5764)", 
     "availability": {
-        "class_curr": 89,
-        "class_max": 95,
-        "wait_curr": 0,
+        "class_curr": 98, 
+        "class_max": 109, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "002",
-        "course": "323",
-        "season": "Fall",
-        "solus_id": "5764",
-        "status": "Open",
-        "subject": "ELEC",
-        "type": "TUT",
+        "class_num": "002", 
+        "course": "323", 
+        "season": "Fall", 
+        "solus_id": "5764", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "17:30:00",
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
             "instructors": [
-                "Ibnkahla, Mohamed"
-            ],
-            "location": "WALTER LIGHT RM210",
-            "start_time": "16:30:00",
-            "term_end": "2015-12-04",
+                "Hayajneh, Khaled"
+            ], 
+            "location": "JEFFERY RM126", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

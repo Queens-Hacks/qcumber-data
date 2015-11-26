@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "In this course students will participate constructively on teams to create solutions to open-ended complex problems, using standard design methods and tools. This project-based course provides instruction primarily in the first 6 weeks of the semester focusing on problem scoping, creativity and idea generation, decision making incorporating technical, economic, societal, and environmental factors, safety, engineering codes and regulations, and engineering ethics. The final 6 weeks of the course centre around a design project delivered by each discipline. This course is integrated with APSC-293, and coordinated by the same instructor.\u00a0 APSC 293 Note: For students taking the CHEE/ENCH sections of APSC 200, CHEE 210 and CHEE 223 are corequisite courses.",
-        "number": "200",
-        "subject": "APSC",
+        "description": "In this course students will participate constructively on teams to create solutions to open-ended complex problems, using standard design methods and tools. This project-based course provides instruction primarily in the first 6 weeks of the semester focusing on problem scoping, creativity and idea generation, decision making incorporating technical, economic, societal, and environmental factors, safety, engineering codes and regulations, and engineering ethics. The final 6 weeks of the course centre around a design project delivered by each discipline. This course is integrated with APSC-293, and coordinated by the same instructor.\u00a0 APSC 293 Note: For students taking the CHEE/ENCH sections of APSC 200, CHEE 210 and CHEE 223 are corequisite courses.", 
+        "number": "200", 
+        "subject": "APSC", 
         "title": "Engineering Design & Practice II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 12,
-            "Eng Des": 36,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 12, 
+            "Eng Des": 36, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Studio": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITE: APSC 100 or permission of instructor\nCOREQUISITE: APSC 293\nEXCLUSION: MECH 212",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITE: APSC 100 or permission of instructor\nCOREQUISITE: APSC 293\nEXCLUSION: MECH 212", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

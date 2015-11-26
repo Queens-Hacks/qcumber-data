@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Construction and properties of finite fields. Polynomials, vector spaces, block codes over finite fields. Hamming distance and other code parameters. Bounds relating code parameters. Cyclic codes and their structure as ideals. Weight distribution. Special codes and their relation to designs and projective planes. Decoding algorithms. (Offered jointly with MATH 406*.) Three term-hours, fall or winter; lectures.",
-        "number": "806",
-        "subject": "MATH",
+        "description": "Construction and properties of finite fields. Polynomials, vector spaces, block codes over finite fields. Hamming distance and other code parameters. Bounds relating code parameters. Cyclic codes and their structure as ideals. Weight distribution. Special codes and their relation to designs and projective planes. Decoding algorithms. (Offered jointly with MATH 406*.) Three term-hours, fall or winter; lectures.", 
+        "number": "806", 
+        "subject": "MATH", 
         "title": "Introduction To Coding Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

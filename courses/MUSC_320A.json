@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Continuation of MUSC 220/6.0. \nNOTE\u00a0\u00a0\u00a0 Students who do not hold the prerequisite may audition for admission to this course.\u00a0 They must obtain a grade of A- in the jury examination component of MUSC 221/6.0 or MUSC 224/6.0 and receive recommendation of the jury.",
-        "number": "320A",
-        "subject": "MUSC",
+        "description": "Continuation of MUSC 220/6.0. \nNOTE\u00a0\u00a0\u00a0 Students who do not hold the prerequisite may audition for admission to this course.\u00a0 They must obtain a grade of A- in the jury examination component of MUSC 221/6.0 or MUSC 224/6.0 and receive recommendation of the jury.", 
+        "number": "320A", 
+        "subject": "MUSC", 
         "title": "Applied Study III (Performance)"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 A grade of B in MUSC 220/6.0 & MUSC 225/6.0.\r\nCOREQUISITE\u00a0\u00a0\u00a0 MUSC 325/6.0. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from MUSC 320/6.0; MUSC 321/6.0.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0 A grade of B in MUSC 220/6.0 & MUSC 225/6.0.\r\nCOREQUISITE\u00a0\u00a0\u00a0 MUSC 325/6.0. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from MUSC 320/6.0; MUSC 321/6.0.", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

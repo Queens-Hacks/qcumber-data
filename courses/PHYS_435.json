@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course provides a detailed account of the formation, structure, evolution and endpoints of stars. Topics include the HR diagram, nuclear energy generation, radiative transport and stellar model building, supernovae, white dwarfs, neutron stars, pulsars and black holes.",
-        "number": "435",
-        "subject": "PHYS",
+        "description": "This course provides a detailed account of the formation, structure, evolution and endpoints of stars. Topics include the HR diagram, nuclear energy generation, radiative transport and stellar model building, supernovae, white dwarfs, neutron stars, pulsars and black holes.", 
+        "number": "435", 
+        "subject": "PHYS", 
         "title": "Stellar Structure and Evolution"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHYS315.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 PHYS315.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

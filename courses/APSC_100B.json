@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This course introduces fundamental professional engineering skills and provides an opportunity to apply engineering science and mathematics content in situations emulating professional practice. It consists of three modules: Module 1. Problem analysis and modeling; Module 2. Experimentation and measurement; Module 3: Engineering design. The course provides an introduction to personal learning styles, team dynamics, oral and written presentation skills, laboratory data collection, analysis and presentation, project management, information management, problem analysis and modeling, numeric computation, economics, design methodologies, and workplace safety.",
-        "number": "100B",
-        "subject": "APSC",
+        "description": "This course introduces fundamental professional engineering skills and provides an opportunity to apply engineering science and mathematics content in situations emulating professional practice. It consists of three modules: Module 1. Problem analysis and modeling; Module 2. Experimentation and measurement; Module 3: Engineering design. The course provides an introduction to personal learning styles, team dynamics, oral and written presentation skills, laboratory data collection, analysis and presentation, project management, information management, problem analysis and modeling, numeric computation, economics, design methodologies, and workplace safety.", 
+        "number": "100B", 
+        "subject": "APSC", 
         "title": "Engineering Practice"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 16,
-            "Comp St": 40,
-            "Eng Des": 30,
-            "Eng Sci": 40,
+            "Basic Sci": 16, 
+            "Comp St": 40, 
+            "Eng Des": 30, 
+            "Eng Sci": 40, 
             "Math": 6
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Studio": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "11.00"
     }
 }

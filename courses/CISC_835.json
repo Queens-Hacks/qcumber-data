@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Consists of formal lectures and the study and discussion of research papers appearing in the current literature.\u00a0 Students will be expected to participate in the presentation of the lecture material.\u00a0 Topics chosen for study will be by arrangement with the School.\u00a0 Three term-hours; lectures and seminars. Ahmed Hassan.",
-        "number": "835",
-        "subject": "CISC",
+        "description": "Consists of formal lectures and the study and discussion of research papers appearing in the current literature.\u00a0 Students will be expected to participate in the presentation of the lecture material.\u00a0 Topics chosen for study will be by arrangement with the School.\u00a0 Three term-hours; lectures and seminars. Ahmed Hassan.", 
+        "number": "835", 
+        "subject": "CISC", 
         "title": "Formal Methods in Software Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,48 +1,48 @@
 {
-    "_unique": "001-SEM (3238)",
+    "_unique": "001-SEM (3238)", 
     "availability": {
-        "class_curr": 9,
-        "class_max": 40,
-        "wait_curr": 0,
+        "class_curr": 9, 
+        "class_max": 40, 
+        "wait_curr": 0, 
         "wait_max": 4
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "306",
-        "season": "Winter",
-        "solus_id": "3238",
-        "status": "Open",
-        "subject": "SPAN",
-        "type": "SEM",
+        "class_num": "001", 
+        "course": "306", 
+        "season": "Winter", 
+        "solus_id": "3238", 
+        "status": "Open", 
+        "subject": "SPAN", 
+        "type": "SEM", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "11:30:00",
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Chamberlain, Daniel Frank"
-            ],
-            "location": "KINGSTON RM208",
-            "start_time": "10:00:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "KINGSTON RM208", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "10:00:00",
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
             "instructors": [
                 "Chamberlain, Daniel Frank"
-            ],
-            "location": "KINGSTON RM208",
-            "start_time": "08:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "KINGSTON RM208", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

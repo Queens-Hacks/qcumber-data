@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "During the final term of the 4-term preservice program, this course identifies the major features and issues of a teacher's professional career. Students will review their development as a teacher through the program and consolidate personal strategies for their on-going professional development. Topics will include teacher-student relationships, pedagogical principles, curriculum change, professional identity, professional collaboration, and school culture and community.",
-        "number": "501",
-        "subject": "PROF",
+        "description": "During the final term of the 4-term preservice program, this course identifies the major features and issues of a teacher's professional career. Students will review their development as a teacher through the program and consolidate personal strategies for their on-going professional development. Topics will include teacher-student relationships, pedagogical principles, curriculum change, professional identity, professional collaboration, and school culture and community.", 
+        "number": "501", 
+        "subject": "PROF", 
         "title": "Building a Professional Career as a Teacher"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

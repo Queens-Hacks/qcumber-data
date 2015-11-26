@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "OTHER COURSES In addition to courses offered in the School of Business, graduate courses of related Programs within the University may be used to form or complement a student's individual program of study. By way of example, students electing a field in managerial economics will take some course work in the Department of Economics in preparation for their comprehensive field examination. Similar opportunities exist with respect to other fields of specialization.",
-        "number": "999",
-        "subject": "MGMT",
+        "description": "OTHER COURSES In addition to courses offered in the School of Business, graduate courses of related Programs within the University may be used to form or complement a student's individual program of study. By way of example, students electing a field in managerial economics will take some course work in the Department of Economics in preparation for their comprehensive field examination. Similar opportunities exist with respect to other fields of specialization.", 
+        "number": "999", 
+        "subject": "MGMT", 
         "title": "Ph.D. Thesis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Pass/Fail",
+        }, 
+        "grading_basis": "Pass/Fail", 
         "units": "6.00"
     }
 }

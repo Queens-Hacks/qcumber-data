@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This is a topics-based course that presents a comprehensive set of research within the broad range of activities in Human-Computer Interaction (HCI). Topics include eye-tracking input, digital desks, wearable computing, ubiquitous and context-aware computing, tangible interfaces and organic user interfaces.\u00a0 Each area will be treated in depth, on the basis of its scientific foundations. In addition, you will get important knowledge on the body of scientific work in HCI, practice of scientific evaluation, practice in advanced engineering with project-based deliverables.\u00a0 PREREQUISITE: CISC-325, CISC 425 or permission of the instructor.",
-        "number": "888",
-        "subject": "CISC",
+        "description": "This is a topics-based course that presents a comprehensive set of research within the broad range of activities in Human-Computer Interaction (HCI). Topics include eye-tracking input, digital desks, wearable computing, ubiquitous and context-aware computing, tangible interfaces and organic user interfaces.\u00a0 Each area will be treated in depth, on the basis of its scientific foundations. In addition, you will get important knowledge on the body of scientific work in HCI, practice of scientific evaluation, practice in advanced engineering with project-based deliverables.\u00a0 PREREQUISITE: CISC-325, CISC 425 or permission of the instructor.", 
+        "number": "888", 
+        "subject": "CISC", 
         "title": "Advanced Research in Human-Computer Interaction"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

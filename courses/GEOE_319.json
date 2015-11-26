@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Techniques of geophysics (including gravity, magnetic, electrical, and seismic) applied to engineering problems, including resource exploration and site investigation. Physical principles, instrumentation, field procedures, data interpretation, and design of field programs are covered for each of the major methods.",
-        "number": "319",
-        "subject": "GEOE",
+        "description": "Techniques of geophysics (including gravity, magnetic, electrical, and seismic) applied to engineering problems, including resource exploration and site investigation. Physical principles, instrumentation, field procedures, data interpretation, and design of field programs are covered for each of the major methods.", 
+        "number": "319", 
+        "subject": "GEOE", 
         "title": "Applied Geophysics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 12,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 24,
+            "Basic Sci": 12, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: GEOE 249 (GEOL 232), MTHE 232 (MATH 232), GEOE359 or permission of instructor Must also be registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: GEOE 249 (GEOL 232), MTHE 232 (MATH 232), GEOE359 or permission of instructor Must also be registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

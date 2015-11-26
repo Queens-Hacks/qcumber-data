@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course will present concepts and tools to analyze and design water services, including storm sewers, sanitary sewers, and water mains, at the site- and sub-division level. Many of the concepts and tools are used in the fields of land-development engineering and municipal engineering. The course will provide an introduction to hydrological processes, design rainfall prediction with intensity-duration-frequency curves, estimation of time of concentration, peak runoff prediction in small drainage areas with the Rational Method and the unit hydrograph method, reservoir routing and storm water management tank and pond design, storm sewer analysis and design with Manning\u00bfs equation, wastewater flow prediction, sanitary sewer analysis and design, water demand prediction, steady-state analysis of pressurized pipes, water main design, and designing water services according to municipal design standards.",
-        "number": "450",
-        "subject": "CIVL",
+        "description": "The course will present concepts and tools to analyze and design water services, including storm sewers, sanitary sewers, and water mains, at the site- and sub-division level. Many of the concepts and tools are used in the fields of land-development engineering and municipal engineering. The course will provide an introduction to hydrological processes, design rainfall prediction with intensity-duration-frequency curves, estimation of time of concentration, peak runoff prediction in small drainage areas with the Rational Method and the unit hydrograph method, reservoir routing and storm water management tank and pond design, storm sewer analysis and design with Manning\u00bfs equation, wastewater flow prediction, sanitary sewer analysis and design, water demand prediction, steady-state analysis of pressurized pipes, water main design, and designing water services according to municipal design standards.", 
+        "number": "450", 
+        "subject": "CIVL", 
         "title": "Municipal Hydraulics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 20,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 20, 
             "Math": 12
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of CIVL350 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of CIVL350 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.75"
     }
 }

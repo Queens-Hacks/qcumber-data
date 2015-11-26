@@ -1,70 +1,92 @@
 {
-    "_unique": "002-LEC (4081)",
+    "_unique": "002-LEC (4081)", 
     "availability": {
-        "class_curr": 38,
-        "class_max": 40,
-        "wait_curr": 0,
+        "class_curr": 39, 
+        "class_max": 40, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "002",
-        "course": "355A",
-        "season": "Fall",
-        "solus_id": "4081",
-        "status": "Open",
-        "subject": "CURR",
-        "type": "LEC",
+        "class_num": "002", 
+        "course": "355A", 
+        "season": "Fall", 
+        "solus_id": "4081", 
+        "status": "Open", 
+        "subject": "CURR", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "10:30:00",
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "Chan, Jessica"
-            ],
-            "location": "DUNCAN MCARTHUR RM A227E",
-            "start_time": "08:30:00",
-            "term_end": "2015-10-09",
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-09", 
             "term_start": "2015-09-02"
-        },
+        }, 
         {
-            "day_of_week": 3,
-            "end_time": "10:30:00",
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "Chan, Jessica"
-            ],
-            "location": "DUNCAN MCARTHUR RM A227W",
-            "start_time": "08:30:00",
-            "term_end": "2015-10-09",
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-09", 
             "term_start": "2015-09-02"
-        },
+        }, 
         {
-            "day_of_week": 3,
-            "end_time": "10:30:00",
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "Chan, Jessica"
-            ],
-            "location": "DUNCAN MCARTHUR RM A227E",
-            "start_time": "08:30:00",
-            "term_end": "2015-12-18",
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-02", 
             "term_start": "2015-11-23"
-        },
+        }, 
         {
-            "day_of_week": 3,
-            "end_time": "10:30:00",
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
             "instructors": [
                 "Chan, Jessica"
-            ],
-            "location": "DUNCAN MCARTHUR RM A227W",
-            "start_time": "08:30:00",
-            "term_end": "2015-12-18",
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-02", 
             "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Chan, Jessica"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-16"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Chan, Jessica"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-16"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (West), ON",
+        "campus": "Main", 
+        "location": "Kingston (West), ON", 
         "session": "Education Regular"
     }
 }

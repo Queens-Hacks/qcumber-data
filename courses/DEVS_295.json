@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Lectures and courses offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each year.",
-        "number": "295",
-        "subject": "DEVS",
+        "description": "Lectures and courses offered by regular and visiting faculty on development topics related to their research interests. Consult the departmental homepage for further details of specific course offerings each year.", 
+        "number": "295", 
+        "subject": "DEVS", 
         "title": "Topics in Development Studies IV"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0 Level 2 or above and registration in any DEVS plan or permission of the department",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 Level 2 or above and registration in any DEVS plan or permission of the department", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

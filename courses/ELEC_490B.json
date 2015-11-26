@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Students work in groups of three on the design and implementation of electrical engineering projects, with the advice of faculty members. This course is intended to give students an opportunity to practice independent design and analysis. Each group is required to prepare an initial engineering proposal, regular progress reports, and a final report together with a formal seminar on the project and its results.",
-        "number": "490B",
-        "subject": "ELEC",
+        "description": "Students work in groups of three on the design and implementation of electrical engineering projects, with the advice of faculty members. This course is intended to give students an opportunity to practice independent design and analysis. Each group is required to prepare an initial engineering proposal, regular progress reports, and a final report together with a formal seminar on the project and its results.", 
+        "number": "490B", 
+        "subject": "ELEC", 
         "title": "Electrical Engineering Project"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 21,
-            "Eng Des": 63,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 21, 
+            "Eng Des": 63, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "7.00"
     }
 }

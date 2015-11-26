@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Geometric Dimensioning &amp; Tolerancing (GD&amp;T) is the standard method of dimensional control notation for use on Mechanical Engineering drawings in all advanced industries in North America and abroad.\u00a0 This course reviews conventional tolerancing and standard fits and includes a discussion of manufacturing processes and how they impact tolerance choices in design. It then introduces the advantages of the functional GD&amp;T approach. The ASME/ANSI Y14.5M standard is used as the primary authority, with reference to related ISO standards.\u00a0 Major topics covered include datums, form, orientation, location and size controls, material condition modifiers, etc. Computer Aided Design (CAD) implementation of GD&amp;T is presented using Autodesk Mechanical Desktop and the Origin International CheckMate software. Programs are written using Dimensional Measuring Interface Standard (DMIS), and used with Coordinate Measuring Machines (CMMs) to measure and analyze inspection data from actual parts.\u00a0 Theory on mathematical data fitting, CMM error compensation, and uncertainty analysis is included at a level appropriate to graduate studies. Use of conventional touch trigger as well as scanning and laser-digitizing sensors is covered. (Lead Instructor: Allan Spence, McMaster)",
-        "number": "820",
-        "subject": "DM",
+        "description": "Geometric Dimensioning &amp; Tolerancing (GD&amp;T) is the standard method of dimensional control notation for use on Mechanical Engineering drawings in all advanced industries in North America and abroad.\u00a0 This course reviews conventional tolerancing and standard fits and includes a discussion of manufacturing processes and how they impact tolerance choices in design. It then introduces the advantages of the functional GD&amp;T approach. The ASME/ANSI Y14.5M standard is used as the primary authority, with reference to related ISO standards.\u00a0 Major topics covered include datums, form, orientation, location and size controls, material condition modifiers, etc. Computer Aided Design (CAD) implementation of GD&amp;T is presented using Autodesk Mechanical Desktop and the Origin International CheckMate software. Programs are written using Dimensional Measuring Interface Standard (DMIS), and used with Coordinate Measuring Machines (CMMs) to measure and analyze inspection data from actual parts.\u00a0 Theory on mathematical data fitting, CMM error compensation, and uncertainty analysis is included at a level appropriate to graduate studies. Use of conventional touch trigger as well as scanning and laser-digitizing sensors is covered. (Lead Instructor: Allan Spence, McMaster)", 
+        "number": "820", 
+        "subject": "DM", 
         "title": "Geometric Dimensioning & Toler"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

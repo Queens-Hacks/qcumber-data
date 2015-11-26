@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to the processing, structure and properties of advanced ceramics used for the design of components in electronic, automotive, aerospace, energy, mining and chemical and petrochemical industries. The emphasis is placed onunderstanding the relationship between microstructure and mechanical, electrical and thermal properties of ceramics.Ceramic systems and related devices which are discussed include electronic and ionic conductors, capacitors, transducers,varistors, and dielectric substartes. The effect of porosity, grain size and residual stresses on strength, elastic and fractureproperties of isotropic and anisotropic ceramics is also discussed. Material transport mechanism and sintering of powder ceramics materials is covered with recent examples of forming and sintering of oxides, carbides and nitrides.",
-        "number": "484",
-        "subject": "MECH",
+        "description": "An introduction to the processing, structure and properties of advanced ceramics used for the design of components in electronic, automotive, aerospace, energy, mining and chemical and petrochemical industries. The emphasis is placed onunderstanding the relationship between microstructure and mechanical, electrical and thermal properties of ceramics.Ceramic systems and related devices which are discussed include electronic and ionic conductors, capacitors, transducers,varistors, and dielectric substartes. The effect of porosity, grain size and residual stresses on strength, elastic and fractureproperties of isotropic and anisotropic ceramics is also discussed. Material transport mechanism and sintering of powder ceramics materials is covered with recent examples of forming and sintering of oxides, carbides and nitrides.", 
+        "number": "484", 
+        "subject": "MECH", 
         "title": "Introduction To Ceramics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 30,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "MECH 370 and MECH 371",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "MECH 370 and MECH 371", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

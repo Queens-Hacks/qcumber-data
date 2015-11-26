@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students will work as teams to tackle projects that require bench and pilot plant equipment, and computer packages that simulate commercial processes. The projects will be more extensive and integrated than in previous laboratories, and will require a thorough and comprehensive analysis of processes and operations. A strong emphasis is placed on project planning and management, as well as professional communication with supervisors. The design component of this course is found in the application of process analysis skills to solve problems. The projects require the students to apply critical and problem solving skills in the operation or simulation of laboratory and process equipment with the goal of solving a problem for a fictitious industrial client. The projects may involve analysis or troubleshooting of existing equipment, or an investigation of the applicability of a concept to a new area.",
-        "number": "420",
-        "subject": "CHEE",
+        "description": "Students will work as teams to tackle projects that require bench and pilot plant equipment, and computer packages that simulate commercial processes. The projects will be more extensive and integrated than in previous laboratories, and will require a thorough and comprehensive analysis of processes and operations. A strong emphasis is placed on project planning and management, as well as professional communication with supervisors. The design component of this course is found in the application of process analysis skills to solve problems. The projects require the students to apply critical and problem solving skills in the operation or simulation of laboratory and process equipment with the goal of solving a problem for a fictitious industrial client. The projects may involve analysis or troubleshooting of existing equipment, or an investigation of the applicability of a concept to a new area.", 
+        "number": "420", 
+        "subject": "CHEE", 
         "title": "Laboratory Projects III"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 24,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Prerequisite CHEE 311, CHEE 315, CHEE 319, CHEE 321, CHEE 330, or permission of the department.\u00a0 Must be registered in a BSCE academic program.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite CHEE 311, CHEE 315, CHEE 319, CHEE 321, CHEE 330, or permission of the department.\u00a0 Must be registered in a BSCE academic program.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

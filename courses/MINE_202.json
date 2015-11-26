@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This lab applies commonly used computer applications to mining engineering problems and conducts experiments with instrumentation used in surface and underground mining and mineral processing. A major field trip in conjunction with MINE 201 will be used to illustrate principles taught and how they are applied in mining operations.",
-        "number": "202",
-        "subject": "MINE",
+        "description": "This lab applies commonly used computer applications to mining engineering problems and conducts experiments with instrumentation used in surface and underground mining and mineral processing. A major field trip in conjunction with MINE 201 will be used to illustrate principles taught and how they are applied in mining operations.", 
+        "number": "202", 
+        "subject": "MINE", 
         "title": "Comp Apps/Instrumntn In Mining"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 6,
-            "Eng Sci": 12,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 6, 
+            "Eng Sci": 12, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

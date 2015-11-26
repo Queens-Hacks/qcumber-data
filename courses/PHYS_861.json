@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "The history of the Universe from the Big Bang to the formation of the cosmic radiation background. Topics include shortcomings of the standard cosmological model; inflation; baryogenesis; the quark-hadron phase transition; big bang nucleosynthesis; dark matter; the epoch of last scattering.",
-        "number": "861",
-        "subject": "PHYS",
+        "description": "The history of the Universe from the Big Bang to the formation of the cosmic radiation background. Topics include shortcomings of the standard cosmological model; inflation; baryogenesis; the quark-hadron phase transition; big bang nucleosynthesis; dark matter; the epoch of last scattering.", 
+        "number": "861", 
+        "subject": "PHYS", 
         "title": "Physics Of The Early Universe"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

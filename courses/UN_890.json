@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "UNENE course number = UN 0900If they so elect, candidates for the M. Eng. (Nuclear Engineering) Degree may spend approximately four months in an industrial laboratory carrying out an industry-oriented project under the supervision of a suitably qualified staff scientist. Usually there is also a university co-supervisor. The Department will attempt to arrange an industrial project in consultation with the candidate and through negotiation with the candidate\u00bfs employer. A satisfactory project topic and appropriate arrangements are required for the project to be approved by the Department and it is possible that in some cases this may not be feasible. Upon completion, the candidate will submit a substantial report on the project and make a presentation on it at the university. The industrial research project can only be undertaken after at least half the required courses have been taken. The industrial research project counts as two half courses. Queen\u00bfs University.",
-        "number": "890",
-        "subject": "UN",
+        "description": "UNENE course number = UN 0900If they so elect, candidates for the M. Eng. (Nuclear Engineering) Degree may spend approximately four months in an industrial laboratory carrying out an industry-oriented project under the supervision of a suitably qualified staff scientist. Usually there is also a university co-supervisor. The Department will attempt to arrange an industrial project in consultation with the candidate and through negotiation with the candidate\u00bfs employer. A satisfactory project topic and appropriate arrangements are required for the project to be approved by the Department and it is possible that in some cases this may not be feasible. Upon completion, the candidate will submit a substantial report on the project and make a presentation on it at the university. The industrial research project can only be undertaken after at least half the required courses have been taken. The industrial research project counts as two half courses. Queen\u00bfs University.", 
+        "number": "890", 
+        "subject": "UN", 
         "title": "Industrial Research Project"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

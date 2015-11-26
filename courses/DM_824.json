@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "The theme of this course is how to integrate materials selection into the design process at an early stage.\u00a0 The objectives are: 1) to upgrade students\u00bf knowledge of mechanical design, engineering materials, failure mechanisms and materials selection in design for service; 2) to develop their skills in materials selection methodologies and the use of sources of information on materials properties.\u00a0\u00a0 This course is directed towards practicing engineers of all disciplines who are involved with design, manufacturing, maintenance and regulation. (Lead Instructors: D. Boyd, K. Pilkey, Queen's).",
-        "number": "824",
-        "subject": "DM",
+        "description": "The theme of this course is how to integrate materials selection into the design process at an early stage.\u00a0 The objectives are: 1) to upgrade students\u00bf knowledge of mechanical design, engineering materials, failure mechanisms and materials selection in design for service; 2) to develop their skills in materials selection methodologies and the use of sources of information on materials properties.\u00a0\u00a0 This course is directed towards practicing engineers of all disciplines who are involved with design, manufacturing, maintenance and regulation. (Lead Instructors: D. Boyd, K. Pilkey, Queen's).", 
+        "number": "824", 
+        "subject": "DM", 
         "title": "Design: Materials Selection"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

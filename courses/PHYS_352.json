@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Measurement of a variety of quantities with particular reference to techniques used in current physics and engineering practice, including optics, X-rays in crystallography and analysis, vacuum practice, nuclear techniques, signal-to-noise enhancement, the use of digital computers for instrumentation purposes, and the statistical analysis of data.",
-        "number": "352",
-        "subject": "PHYS",
+        "description": "Measurement of a variety of quantities with particular reference to techniques used in current physics and engineering practice, including optics, X-rays in crystallography and analysis, vacuum practice, nuclear techniques, signal-to-noise enhancement, the use of digital computers for instrumentation purposes, and the statistical analysis of data.", 
+        "number": "352", 
+        "subject": "PHYS", 
         "title": "Measurement\u00a0 Experiment Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of PHYS 239 & PHYS344",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of PHYS 239 & PHYS344", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

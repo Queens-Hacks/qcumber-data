@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Literacy and numeracy at the secondary school level, basic introduction to concepts of Guidance, characteristics of the non-academic stream, basic introduction to concepts of alternative school models and adolescents at risk.",
-        "number": "211",
-        "subject": "PROF",
+        "description": "Literacy and numeracy at the secondary school level, basic introduction to concepts of Guidance, characteristics of the non-academic stream, basic introduction to concepts of alternative school models and adolescents at risk.", 
+        "number": "211", 
+        "subject": "PROF", 
         "title": "Professional Developm. Yr 2 Is"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

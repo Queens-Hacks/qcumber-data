@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction and review of work done in earlier courses; basic equations for one-dimensional compressible flow; isentropic one-dimensional flow; steady and unsteady normal shock waves; oblique shock waves; steady and unsteady expansion waves; two-dimensional isentropic flow; nozzle flows; effects of friction and heat transfer; boundary layer flow; design of aircraft engine intake systems; design of supersonic wind-tunnels and shock tubes.",
-        "number": "448",
-        "subject": "MECH",
+        "description": "Introduction and review of work done in earlier courses; basic equations for one-dimensional compressible flow; isentropic one-dimensional flow; steady and unsteady normal shock waves; oblique shock waves; steady and unsteady expansion waves; two-dimensional isentropic flow; nozzle flows; effects of friction and heat transfer; boundary layer flow; design of aircraft engine intake systems; design of supersonic wind-tunnels and shock tubes.", 
+        "number": "448", 
+        "subject": "MECH", 
         "title": "Compressible Fluid Flow"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 11,
-            "Eng Sci": 31,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 11, 
+            "Eng Sci": 31, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MECH341 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MECH341 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

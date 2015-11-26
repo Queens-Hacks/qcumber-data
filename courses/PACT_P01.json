@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This is a prerequisite course for Fall Camp School. Students must exhibit a technical proficiency in front crawl, elementary back stroke, side stroke, breast stroke, shallow dive, front dive from one-metre board, survival swimming, rescue, and resuscitation. Students may meet this requirement by producing current swimming qualifications at the RLSS Bronze Medallion level, or by passing the swim test.\nNOTE\u00a0\u00a0\u00a0 Students are strongly encouraged to complete this requirement by the end of Year 2.",
-        "number": "P01",
-        "subject": "PACT",
+        "description": "This is a prerequisite course for Fall Camp School. Students must exhibit a technical proficiency in front crawl, elementary back stroke, side stroke, breast stroke, shallow dive, front dive from one-metre board, survival swimming, rescue, and resuscitation. Students may meet this requirement by producing current swimming qualifications at the RLSS Bronze Medallion level, or by passing the swim test.\nNOTE\u00a0\u00a0\u00a0 Students are strongly encouraged to complete this requirement by the end of Year 2.", 
+        "number": "P01", 
+        "subject": "PACT", 
         "title": "Aquatics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Registration in a PHED Specialization Plan",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 Registration in a PHED Specialization Plan", 
+        "grading_basis": "Pass/Fail", 
         "units": "0.00"
     }
 }

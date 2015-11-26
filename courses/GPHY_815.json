@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Discussion of the processes controlling water, ice and sediment behaviour in lakes and the sea, and the interaction of these processes with the landforms of the basin. Three term-hours.",
-        "number": "815",
-        "subject": "GPHY",
+        "description": "Discussion of the processes controlling water, ice and sediment behaviour in lakes and the sea, and the interaction of these processes with the landforms of the basin. Three term-hours.", 
+        "number": "815", 
+        "subject": "GPHY", 
         "title": "Phys Limnology & Phys Oceanog"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

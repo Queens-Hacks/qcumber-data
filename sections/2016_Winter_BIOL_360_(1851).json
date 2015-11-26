@@ -1,37 +1,37 @@
 {
-    "_unique": "003-TUT (1851)",
+    "_unique": "003-TUT (1851)", 
     "availability": {
-        "class_curr": 40,
-        "class_max": 40,
-        "wait_curr": 0,
+        "class_curr": 40, 
+        "class_max": 40, 
+        "wait_curr": 4, 
         "wait_max": 4
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "360",
-        "season": "Winter",
-        "solus_id": "1851",
-        "status": "Closed",
-        "subject": "BIOL",
-        "type": "TUT",
+        "class_num": "003", 
+        "course": "360", 
+        "season": "Winter", 
+        "solus_id": "1851", 
+        "status": "Closed", 
+        "subject": "BIOL", 
+        "type": "TUT", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 5,
-            "end_time": "11:30:00",
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
             "instructors": [
                 "Lefebvre, Daniel Denis"
-            ],
-            "location": "GOODWIN RM254",
-            "start_time": "10:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "GOODWIN RM254", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

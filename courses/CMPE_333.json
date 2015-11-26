@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Supervised and unsupervised learning, neural networks, support-vector machines, decision trees, metric-based clustering, distribution-based clustering, rule-based techniques, genetic algorithms. Applications to information retrieval, web mining, customer-relationship management, recommender systems, science and engineering.",
-        "number": "333",
-        "subject": "CMPE",
+        "description": "Supervised and unsupervised learning, neural networks, support-vector machines, decision trees, metric-based clustering, distribution-based clustering, rule-based techniques, genetic algorithms. Applications to information retrieval, web mining, customer-relationship management, recommender systems, science and engineering.", 
+        "number": "333", 
+        "subject": "CMPE", 
         "title": "Intro. Data Mining"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 14,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 14, 
             "Math": 10
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: (CMPE 212 or CISC 212 or CISC 121) and (ELEC 270 or CISC 203 or MTHE 217) and (STAT 263 or STAT 261 or MTHE 351 or STAT 351 or ELEC 326) and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: (CMPE 212 or CISC 212 or CISC 121) and (ELEC 270 or CISC 203 or MTHE 217) and (STAT 263 or STAT 261 or MTHE 351 or STAT 351 or ELEC 326) and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

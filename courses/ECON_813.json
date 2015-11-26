@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course provides in depth coverage of current topics in microeconomic theory. Topics will be drawn from: general equilibrium with and without uncertainty; non-cooperative games; equilibrium concepts and refinements; applications of game theory to principal agent models and models of screening and signaling; correlated equilibrium; repeated games; cooperative games, bargaining, auctions, common knowledge, implementation, evolutionary games and theories of learning.\u00a0 Intended for Ph.D. students.",
-        "number": "813",
-        "subject": "ECON",
+        "description": "This course provides in depth coverage of current topics in microeconomic theory. Topics will be drawn from: general equilibrium with and without uncertainty; non-cooperative games; equilibrium concepts and refinements; applications of game theory to principal agent models and models of screening and signaling; correlated equilibrium; repeated games; cooperative games, bargaining, auctions, common knowledge, implementation, evolutionary games and theories of learning.\u00a0 Intended for Ph.D. students.", 
+        "number": "813", 
+        "subject": "ECON", 
         "title": "Adv. Microeconomic Theory II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

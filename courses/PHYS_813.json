@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course describes the material content, energetics, formation and evolution of the Galaxy, and places our Galaxy in the context of galaxies, in general. Topics include the interstellar medium, stellar populations, dynamics, the Galactic center and the Galactic halo.\u00a0",
-        "number": "813",
-        "subject": "PHYS",
+        "description": "This course describes the material content, energetics, formation and evolution of the Galaxy, and places our Galaxy in the context of galaxies, in general. Topics include the interstellar medium, stellar populations, dynamics, the Galactic center and the Galactic halo.\u00a0", 
+        "number": "813", 
+        "subject": "PHYS", 
         "title": "Galactic Astronomy"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

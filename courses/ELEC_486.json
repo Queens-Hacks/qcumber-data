@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course introduces fundamental principles and applications of fiber optic communication systems. Topics include Fabry-Perot and distributed feedback semiconductor lasers, planar dielectric waveguides, propagation characteristics of single-mode optical fibers, p-i-n and avalanche photodiodes, and digital receiver performance. Device technology and system design applications are considered.",
-        "number": "486",
-        "subject": "ELEC",
+        "description": "This course introduces fundamental principles and applications of fiber optic communication systems. Topics include Fabry-Perot and distributed feedback semiconductor lasers, planar dielectric waveguides, propagation characteristics of single-mode optical fibers, p-i-n and avalanche photodiodes, and digital receiver performance. Device technology and system design applications are considered.", 
+        "number": "486", 
+        "subject": "ELEC", 
         "title": "Fiber Optic Communication"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 24,
-            "Eng Sci": 21,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 21, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of ELEC381 or ENPH332 ( PHYS332) and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC381 or ENPH332 ( PHYS332) and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.75"
     }
 }

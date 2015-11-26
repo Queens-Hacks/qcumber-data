@@ -1,37 +1,37 @@
 {
-    "_unique": "002-TUT (1368)",
+    "_unique": "002-TUT (1368)", 
     "availability": {
-        "class_curr": 42,
-        "class_max": 40,
-        "wait_curr": 0,
+        "class_curr": 28, 
+        "class_max": 40, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "002",
-        "course": "150A",
-        "season": "Fall",
-        "solus_id": "1368",
-        "status": "Closed",
-        "subject": "IDIS",
-        "type": "TUT",
+        "class_num": "002", 
+        "course": "150A", 
+        "season": "Fall", 
+        "solus_id": "1368", 
+        "status": "Open", 
+        "subject": "IDIS", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 5,
-            "end_time": "16:30:00",
+            "day_of_week": 5, 
+            "end_time": "16:30:00", 
             "instructors": [
                 "Baer, Allan R"
-            ],
-            "location": "ELLIS RM319",
-            "start_time": "14:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "ELLIS RM319", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

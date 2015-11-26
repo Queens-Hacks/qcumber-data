@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Topics include: neuropsychopharmacology, cardiovascular pharmacology, agents acting on the endocrine system, and chemotherapy. \r\nNOTE\u00a0\u00a0\u00a0 This course involves team based learning sessions and a drug literature evaluation assignment.",
-        "number": "450",
-        "subject": "PHAR",
+        "description": "Topics include: neuropsychopharmacology, cardiovascular pharmacology, agents acting on the endocrine system, and chemotherapy. \r\nNOTE\u00a0\u00a0\u00a0 This course involves team based learning sessions and a drug literature evaluation assignment.", 
+        "number": "450", 
+        "subject": "PHAR", 
         "title": "Principles of General Pharmacology II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHAR 340/3.0 and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5).",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 PHAR 340/3.0 and Level 4 and (registration in a LISC Major or Specialization Plan) and (a GPA of 2.5).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

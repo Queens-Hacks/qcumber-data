@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Special emphasis is placed on the development of electronic technologies of communication in North America and Europe during the nineteenth and early twentieth centuries. These technologies developed within the framework of particular class relations and justifying ideologies which favoured certain patterns of ownership, social diffusion and modes of usage. The nature of this framework and its social consequences are explored with particular reference to recent socio-historical research on the telegraph and the early telephone. Appropriate comparisons are made with recent technological developments, notably the micro- computer and cellular phone.",
-        "number": "922",
-        "subject": "SOCY",
+        "description": "Special emphasis is placed on the development of electronic technologies of communication in North America and Europe during the nineteenth and early twentieth centuries. These technologies developed within the framework of particular class relations and justifying ideologies which favoured certain patterns of ownership, social diffusion and modes of usage. The nature of this framework and its social consequences are explored with particular reference to recent socio-historical research on the telegraph and the early telephone. Appropriate comparisons are made with recent technological developments, notably the micro- computer and cellular phone.", 
+        "number": "922", 
+        "subject": "SOCY", 
         "title": "Communication Technology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

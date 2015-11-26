@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Principles of protein biochemistry, enzymology, and protein engineering. Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling. CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.",
-        "number": "310B",
-        "subject": "BCHM",
+        "description": "Principles of protein biochemistry, enzymology, and protein engineering. Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling. CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.", 
+        "number": "310B", 
+        "subject": "BCHM", 
         "title": "General Biochemistry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 90,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 90, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "9.00"
     }
 }

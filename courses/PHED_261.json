@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Evaluation of human performance from perception to movement execution. Mechanisms underlying skill acquisition and the roles of practice and feedback on performance will be evaluated.",
-        "number": "261",
-        "subject": "PHED",
+        "description": "Evaluation of human performance from perception to movement execution. Mechanisms underlying skill acquisition and the roles of practice and feedback on performance will be evaluated.", 
+        "number": "261", 
+        "subject": "PHED", 
         "title": "Motor Learning"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PSYC100",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PSYC100", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

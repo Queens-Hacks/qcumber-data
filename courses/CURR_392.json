@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "(Internship Technological Education\u00a0candidates only). This course is delivered on-line using ICT. Teacher candidates extend their experiences to further investigate concepts, practices, and processes of the curriculum field to write part of a course profile for Grades 11 or 12. Course expectations reflect the Standards of Practice for the teaching profession described by the Ontario College of Teachers.",
-        "number": "392",
-        "subject": "CURR",
+        "description": "(Internship Technological Education\u00a0candidates only). This course is delivered on-line using ICT. Teacher candidates extend their experiences to further investigate concepts, practices, and processes of the curriculum field to write part of a course profile for Grades 11 or 12. Course expectations reflect the Standards of Practice for the teaching profession described by the Ontario College of Teachers.", 
+        "number": "392", 
+        "subject": "CURR", 
         "title": "Curriculum Dev in Tech Ed,Pt 2"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

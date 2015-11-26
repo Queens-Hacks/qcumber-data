@@ -1,44 +1,44 @@
 {
-    "_unique": "205-STD (5711)",
+    "_unique": "205-STD (5711)", 
     "availability": {
-        "class_curr": 81,
-        "class_max": 83,
-        "wait_curr": 0,
+        "class_curr": 74, 
+        "class_max": 83, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "205",
-        "course": "103",
-        "season": "Winter",
-        "solus_id": "5711",
-        "status": "Open",
-        "subject": "APSC",
-        "type": "STD",
+        "class_num": "205", 
+        "course": "103", 
+        "season": "Winter", 
+        "solus_id": "5711", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "STD", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "14:30:00",
-            "instructors": [],
-            "location": "TBA",
-            "start_time": "11:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 2,
-            "end_time": "13:30:00",
-            "instructors": [],
-            "location": "DUPUIS RM215",
-            "start_time": "11:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 2, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "DUPUIS RM215", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

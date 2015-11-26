@@ -1,35 +1,35 @@
 {
-    "_unique": "003-LAB (1931)",
+    "_unique": "003-LAB (1931)", 
     "availability": {
-        "class_curr": 29,
-        "class_max": 63,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
+        "class_curr": 45, 
+        "class_max": 63, 
+        "wait_curr": 0, 
+        "wait_max": 5
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "365",
-        "season": "Fall",
-        "solus_id": "1931",
-        "status": "Open",
-        "subject": "CISC",
-        "type": "LAB",
+        "class_num": "003", 
+        "course": "365", 
+        "season": "Fall", 
+        "solus_id": "1931", 
+        "status": "Open", 
+        "subject": "CISC", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "10:30:00",
-            "instructors": [],
-            "location": "JEFFERY RM155",
-            "start_time": "08:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM155", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Seminar course on topics in Italian literature. Course details to be announced on\u00a0website.\u00a0",
-        "number": "501",
-        "subject": "ITLN",
+        "description": "Seminar course on topics in Italian literature. Course details to be announced on\u00a0website.\u00a0", 
+        "number": "501", 
+        "subject": "ITLN", 
         "title": "Letteratura italiana: Temi scelti"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Reading": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course presents technologies and techniques employed in open pit mining with a focus on strategic and operations planning considerations. Topics of study include: pit design, application of algorithms for economic pit limit analysis, equipment selection, production scheduling, material control and reconciliation, remote sensing and geomatics applications, mine waste management, emerging trends in open pit mining, and mine safety. Regulatory controls and best practices in design are stressed for all stages of the mine life cycle. Environmental impacts of design decisions and mitigating strategies are explored. The use of software at various stages of the design and planning process is introduced and a strategic design project completed using commercial software applications.",
-        "number": "341",
-        "subject": "MINE",
+        "description": "This course presents technologies and techniques employed in open pit mining with a focus on strategic and operations planning considerations. Topics of study include: pit design, application of algorithms for economic pit limit analysis, equipment selection, production scheduling, material control and reconciliation, remote sensing and geomatics applications, mine waste management, emerging trends in open pit mining, and mine safety. Regulatory controls and best practices in design are stressed for all stages of the mine life cycle. Environmental impacts of design decisions and mitigating strategies are explored. The use of software at various stages of the design and planning process is introduced and a strategic design project completed using commercial software applications.", 
+        "number": "341", 
+        "subject": "MINE", 
         "title": "Open Pit Mining"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 24,
-            "Eng Sci": 16,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 16, 
             "Math": 14
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "APSC 221 and MINE 201, or permission of the insturctor",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "APSC 221 and MINE 201, or permission of the insturctor", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

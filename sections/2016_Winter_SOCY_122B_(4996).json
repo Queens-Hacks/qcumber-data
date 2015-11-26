@@ -1,35 +1,35 @@
 {
-    "_unique": "037-TUT (4996)",
+    "_unique": "037-TUT (4996)", 
     "availability": {
-        "class_curr": 4,
-        "class_max": 22,
-        "wait_curr": 0,
+        "class_curr": 5, 
+        "class_max": 22, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "037",
-        "course": "122B",
-        "season": "Winter",
-        "solus_id": "4996",
-        "status": "Open",
-        "subject": "SOCY",
-        "type": "TUT",
+        "class_num": "037", 
+        "course": "122B", 
+        "season": "Winter", 
+        "solus_id": "4996", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "TUT", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "16:30:00",
-            "instructors": [],
-            "location": "KINGSTON RM209",
-            "start_time": "15:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM209", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

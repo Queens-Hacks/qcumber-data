@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course covers several topics in the area of natural water chemistry including: dilute aqueous solution chemistry of surface and groundwater systems; chemical kinetics and equilibrium; acid-base chemistry; coordination chemistry; precipitation, dissolution and complex formation; carbonate, phosphate and chlorine chemistry; oxidation-reduction reactions and corrosion; and solution of multi-equilibria problems. Three term hours.",
-        "number": "885",
-        "subject": "CIVL",
+        "description": "This course covers several topics in the area of natural water chemistry including: dilute aqueous solution chemistry of surface and groundwater systems; chemical kinetics and equilibrium; acid-base chemistry; coordination chemistry; precipitation, dissolution and complex formation; carbonate, phosphate and chlorine chemistry; oxidation-reduction reactions and corrosion; and solution of multi-equilibria problems. Three term hours.", 
+        "number": "885", 
+        "subject": "CIVL", 
         "title": "Chemistry Of Natural Waters"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

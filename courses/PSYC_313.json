@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "",
-        "number": "313",
-        "subject": "PSYC",
+        "description": "", 
+        "number": "313", 
+        "subject": "PSYC", 
         "title": "Human Information Processing"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "(PSYC202 AND PSYC205) OR (PSYC202 AND PSYC215) OR (PSYC202 AND PSYC205) OR (PSYC202 AND PSYC220) OR (STAT263 AND PSYC205) OR (STAT263 AND PSYC220) OR (STAT263 AND PSYC205) OR (STAT263 AND PSYC215) OR (STAT264 AND PSYC205) OR (STAT264 AND PSYC215) OR (STA",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "(PSYC202 AND PSYC205) OR (PSYC202 AND PSYC215) OR (PSYC202 AND PSYC205) OR (PSYC202 AND PSYC220) OR (STAT263 AND PSYC205) OR (STAT263 AND PSYC220) OR (STAT263 AND PSYC205) OR (STAT263 AND PSYC215) OR (STAT264 AND PSYC205) OR (STAT264 AND PSYC215) OR (STA", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

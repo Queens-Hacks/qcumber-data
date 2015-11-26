@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An independent advanced project in the area of design, supervised and evaluated by faculty. Application must be submitted by 15 March for Department approval. Consult faculty advisors or supervisor for detailed information.NOTE\u00a0\u00a0 \u00a0The normal classroom time of 36 hours is spread over two terms.",
-        "number": "541B",
-        "subject": "DRAM",
+        "description": "An independent advanced project in the area of design, supervised and evaluated by faculty. Application must be submitted by 15 March for Department approval. Consult faculty advisors or supervisor for detailed information.NOTE\u00a0\u00a0 \u00a0The normal classroom time of 36 hours is spread over two terms.", 
+        "number": "541B", 
+        "subject": "DRAM", 
         "title": "Directed Studies Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

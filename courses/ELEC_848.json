@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course provides an overview of manipulator modeling, and presents and analyzes many different control architectures designed for robots and telerobots. Topics include introduction to robotics and telerobotics; serial manipulator forward and inverse kinematics, Jacobian, singularities and dynamics; robot position and force control methodologies and their stability analyses; bilateral teleoperation control architectures, stability and performance issues due to communication delays and environment uncertainties. Three term hours, Lectures, Winter. Dr. K Hashtrudi-Zaad",
-        "number": "848",
-        "subject": "ELEC",
+        "description": "This course provides an overview of manipulator modeling, and presents and analyzes many different control architectures designed for robots and telerobots. Topics include introduction to robotics and telerobotics; serial manipulator forward and inverse kinematics, Jacobian, singularities and dynamics; robot position and force control methodologies and their stability analyses; bilateral teleoperation control architectures, stability and performance issues due to communication delays and environment uncertainties. Three term hours, Lectures, Winter. Dr. K Hashtrudi-Zaad", 
+        "number": "848", 
+        "subject": "ELEC", 
         "title": "Design For Robots & Telerobots"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

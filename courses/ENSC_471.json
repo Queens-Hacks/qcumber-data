@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Two weeks of intensive study in Environmental Analysis. Fundamentals of sample collection and preparation, including statistics and extraction methods, plus instrumental techniques including chromatography, atomic spectroscopy, spectrophotometry, and automated analysis techniques. Laboratory experiments in each of these areas. Enrolment limited. \r\nNOTE\u00a0\u00a0 \u00a0Field trip: estimated cost $15.",
-        "number": "471",
-        "subject": "ENSC",
+        "description": "Two weeks of intensive study in Environmental Analysis. Fundamentals of sample collection and preparation, including statistics and extraction methods, plus instrumental techniques including chromatography, atomic spectroscopy, spectrophotometry, and automated analysis techniques. Laboratory experiments in each of these areas. Enrolment limited. \r\nNOTE\u00a0\u00a0 \u00a0Field trip: estimated cost $15.", 
+        "number": "471", 
+        "subject": "ENSC", 
         "title": "Environmental Analysis Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Field Studies": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CHEM 213 or CHEM 278, or permission of the School.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM 321/3.0; ENSC 471/3.0.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 CHEM 213 or CHEM 278, or permission of the School.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CHEM 321/3.0; ENSC 471/3.0.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

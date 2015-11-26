@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The fluid mechanics basic to fluid hydraulic systems used in the mineral industry are introduced. Topics covered include properties offluids, fluid statics and its application to mining. Hydrodynamicstudies include the energy balance and Bernoulli's equation, energy losses in incompressible flow, the momentum equation and its application, and flow and pressure measuring devices. Flow in closed conduits, including series and parallel pipeline systems and pipe networks, is studied in detail and open channel flow is introduced. Applications include industrial pumps, sump design, hydraulic structures, underground mine dewatering systems, open pit mine drainage systems, and mine backfill and mine tailings transportation.",
-        "number": "324",
-        "subject": "MINE",
+        "description": "The fluid mechanics basic to fluid hydraulic systems used in the mineral industry are introduced. Topics covered include properties offluids, fluid statics and its application to mining. Hydrodynamicstudies include the energy balance and Bernoulli's equation, energy losses in incompressible flow, the momentum equation and its application, and flow and pressure measuring devices. Flow in closed conduits, including series and parallel pipeline systems and pipe networks, is studied in detail and open channel flow is introduced. Applications include industrial pumps, sump design, hydraulic structures, underground mine dewatering systems, open pit mine drainage systems, and mine backfill and mine tailings transportation.", 
+        "number": "324", 
+        "subject": "MINE", 
         "title": "Hydraulics/Mining Applications"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 12,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 30,
+            "Basic Sci": 12, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 30, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: MTHE225, MECH230 and registered in the BSCE program", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

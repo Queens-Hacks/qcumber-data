@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Lecture courses on selected topics in psychology offered periodically.\r\nNOTE\u00a0\u00a0\u00a0 Prerequisites vary depending on specific course content; consult instructor or Undergraduate Office in the Psychology Department.",
-        "number": "399",
-        "subject": "PSYC",
+        "description": "Lecture courses on selected topics in psychology offered periodically.\r\nNOTE\u00a0\u00a0\u00a0 Prerequisites vary depending on specific course content; consult instructor or Undergraduate Office in the Psychology Department.", 
+        "number": "399", 
+        "subject": "PSYC", 
         "title": "Selected Topics in Psychology II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture / Laboratory": "Required"
-        },
-        "enrollment_requirement": "Pre PSYC215 or PSYC221",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Pre PSYC215 or PSYC221", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

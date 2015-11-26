@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A comprehensive course emphasizing the major microbial and viral groups occurring in human and animal disease. The basic mechanisms involved in host-parasite interrelationships as well as current effective methodology used in their control will be studied.\u00a0 Winter term.\u00a0 N. Martin.\u00a0 EXCLUSION: MICR-920*",
-        "number": "878",
-        "subject": "BMED",
+        "description": "A comprehensive course emphasizing the major microbial and viral groups occurring in human and animal disease. The basic mechanisms involved in host-parasite interrelationships as well as current effective methodology used in their control will be studied.\u00a0 Winter term.\u00a0 N. Martin.\u00a0 EXCLUSION: MICR-920*", 
+        "number": "878", 
+        "subject": "BMED", 
         "title": "Microbial Pathogenesis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

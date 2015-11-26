@@ -1,59 +1,59 @@
 {
-    "_unique": "001-LEC (3709)",
+    "_unique": "001-LEC (3709)", 
     "availability": {
-        "class_curr": 185,
-        "class_max": 200,
-        "wait_curr": 0,
+        "class_curr": 218, 
+        "class_max": 220, 
+        "wait_curr": 0, 
         "wait_max": 20
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "151",
-        "season": "Winter",
-        "solus_id": "3709",
-        "status": "Open",
-        "subject": "PHIL",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "151", 
+        "season": "Winter", 
+        "solus_id": "3709", 
+        "status": "Open", 
+        "subject": "PHIL", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "16:30:00",
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
             "instructors": [
                 "Leighton, Stephen Robert"
-            ],
-            "location": "HUMPHREY AUD",
-            "start_time": "15:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "HUMPHREY AUD", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "15:30:00",
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
             "instructors": [
                 "Leighton, Stephen Robert"
-            ],
-            "location": "HUMPHREY AUD",
-            "start_time": "14:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "HUMPHREY AUD", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "17:30:00",
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
             "instructors": [
                 "Leighton, Stephen Robert"
-            ],
-            "location": "HUMPHREY AUD",
-            "start_time": "16:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "HUMPHREY AUD", 
+            "start_time": "16:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

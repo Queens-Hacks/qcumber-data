@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Through lectures, seminars and assigned readings selected topics in mineralogy are explored. Emphasis on the current literature and the details of mineralogical phenomena will lead to better understanding of petrologic systems. \r\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.",
-        "number": "352",
-        "subject": "GEOE",
+        "description": "Through lectures, seminars and assigned readings selected topics in mineralogy are explored. Emphasis on the current literature and the details of mineralogical phenomena will lead to better understanding of petrologic systems. \r\nNOTE\u00a0\u00a0\u00a0 This course may not be offered every year. Consult geol.queensu.ca/currentcourses for more information.", 
+        "number": "352", 
+        "subject": "GEOE", 
         "title": "Topics in Mineralogy"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite for GEOE 352: GEOE 232\r\nPrerequisite for GEOE 452:\u00a0 GEOE 232 or permission of the department",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite for GEOE 352: GEOE 232\r\nPrerequisite for GEOE 452:\u00a0 GEOE 232 or permission of the department", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "This increasing emphasis on school accountability and improvement places demands on teachers and administrators to be able to interpret the meaning of assessment results. These data often form the foundation for setting priorities and setting targets. Given this importance of these activities it is critical that data users be able to identify the strengths and limitations of these data in supporting decision-making.",
-        "number": "826",
-        "subject": "PME",
+        "description": "This increasing emphasis on school accountability and improvement places demands on teachers and administrators to be able to interpret the meaning of assessment results. These data often form the foundation for setting priorities and setting targets. Given this importance of these activities it is critical that data users be able to identify the strengths and limitations of these data in supporting decision-making.", 
+        "number": "826", 
+        "subject": "PME", 
         "title": "Using Classroom and Large-Scale Assessment Data"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Restricted to PME", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

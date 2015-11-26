@@ -1,35 +1,35 @@
 {
-    "_unique": "003-TUT (1801)",
+    "_unique": "003-TUT (1801)", 
     "availability": {
-        "class_curr": 28,
-        "class_max": 28,
-        "wait_curr": 0,
+        "class_curr": 28, 
+        "class_max": 28, 
+        "wait_curr": 0, 
         "wait_max": 3
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "369",
-        "season": "Fall",
-        "solus_id": "1801",
-        "status": "Closed",
-        "subject": "BIOL",
-        "type": "TUT",
+        "class_num": "003", 
+        "course": "369", 
+        "season": "Fall", 
+        "solus_id": "1801", 
+        "status": "Closed", 
+        "subject": "BIOL", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 5,
-            "end_time": "13:30:00",
-            "instructors": [],
-            "location": "BIOSCI RM2109",
-            "start_time": "12:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2109", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

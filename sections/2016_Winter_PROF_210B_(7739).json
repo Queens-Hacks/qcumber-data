@@ -1,37 +1,37 @@
 {
-    "_unique": "200-LEC (7739)",
+    "_unique": "200-LEC (7739)", 
     "availability": {
-        "class_curr": 81,
-        "class_max": 90,
-        "wait_curr": 0,
+        "class_curr": 81, 
+        "class_max": 90, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "200",
-        "course": "210B",
-        "season": "Winter",
-        "solus_id": "7739",
-        "status": "Open",
-        "subject": "PROF",
-        "type": "LEC",
+        "class_num": "200", 
+        "course": "210B", 
+        "season": "Winter", 
+        "solus_id": "7739", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "19:50:00",
+            "day_of_week": 2, 
+            "end_time": "19:50:00", 
             "instructors": [
                 "White, Anne F"
-            ],
-            "location": "TBA",
-            "start_time": "18:00:00",
-            "term_end": "2016-04-05",
+            ], 
+            "location": "TBA", 
+            "start_time": "18:00:00", 
+            "term_end": "2016-04-05", 
             "term_start": "2016-01-06"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Peterborough, ON",
+        "campus": "Main", 
+        "location": "Peterborough, ON", 
         "session": "Education Regular"
     }
 }

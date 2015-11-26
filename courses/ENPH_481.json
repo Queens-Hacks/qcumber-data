@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A course in the physics underlying solid state electronic and optical devices. The course presents an introduction to the electrical and optical properties of insulators, semiconductors and metals, including crystal structure, band theory, and electron transport. This is applied to obtain a physical understanding of the physics governing the behaviour of diodes, field effect and bipolar transistors, and other discrete optical and electronic devices.",
-        "number": "481",
-        "subject": "ENPH",
+        "description": "A course in the physics underlying solid state electronic and optical devices. The course presents an introduction to the electrical and optical properties of insulators, semiconductors and metals, including crystal structure, band theory, and electron transport. This is applied to obtain a physical understanding of the physics governing the behaviour of diodes, field effect and bipolar transistors, and other discrete optical and electronic devices.", 
+        "number": "481", 
+        "subject": "ENPH", 
         "title": "Solid State Device Physics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 12,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 30,
+            "Basic Sci": 12, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 30, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "ENPH (or PHYS 231), ENPH 344 (or PHYS 336)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "ENPH (or PHYS 231), ENPH 344 (or PHYS 336)", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

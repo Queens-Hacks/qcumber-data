@@ -1,35 +1,35 @@
 {
-    "_unique": "003-LAB (5090)",
+    "_unique": "003-LAB (5090)", 
     "availability": {
-        "class_curr": 34,
-        "class_max": 28,
-        "wait_curr": 0,
+        "class_curr": 25, 
+        "class_max": 28, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "207",
-        "season": "Winter",
-        "solus_id": "5090",
-        "status": "Closed",
-        "subject": "NURS",
-        "type": "LAB",
+        "class_num": "003", 
+        "course": "207", 
+        "season": "Winter", 
+        "solus_id": "5090", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "LAB", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "10:00:00",
-            "instructors": [],
-            "location": "CATARAQUI\u00a0 RM221 SIM LAB",
-            "start_time": "08:00:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 1, 
+            "end_time": "10:00:00", 
+            "instructors": [], 
+            "location": "CATARAQUI\u00a0 RM221 SIM LAB", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

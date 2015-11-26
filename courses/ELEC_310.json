@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This is an introductory course on the design of analog electronic and digital logic circuits, using commonly available devices and integrated circuits. The properties of linear circuits, with particular reference to the applications of feedback, are discussed; operational amplifiers are introduced as the fundamental building block for the design of linear filters and amplifiers. Fundamentals of digital circuits including Boolean algebra, logic gates, combinational logic, sequential logic concepts and implementation are presented. Data acquisition and conversion is introduced, and the issues of noise and electromagnetic compatibility are discussed. Laboratory work is linked with lectures and provides practical experience of the subjects covered in lectures.",
-        "number": "310",
-        "subject": "ELEC",
+        "description": "This is an introductory course on the design of analog electronic and digital logic circuits, using commonly available devices and integrated circuits. The properties of linear circuits, with particular reference to the applications of feedback, are discussed; operational amplifiers are introduced as the fundamental building block for the design of linear filters and amplifiers. Fundamentals of digital circuits including Boolean algebra, logic gates, combinational logic, sequential logic concepts and implementation are presented. Data acquisition and conversion is introduced, and the issues of noise and electromagnetic compatibility are discussed. Laboratory work is linked with lectures and provides practical experience of the subjects covered in lectures.", 
+        "number": "310", 
+        "subject": "ELEC", 
         "title": "Introductory Analog Electronic and Digital Circuits"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 27,
-            "Eng Sci": 27,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 27, 
+            "Eng Sci": 27, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: ELEC 210 or ELEC 221 and must be registered in a BSCE Academic Program\nEXCLUSIONS: ENPH 333 and ENPH 334 (PHYS 334)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: ELEC 210 or ELEC 221 and must be registered in a BSCE Academic Program\nEXCLUSIONS: ENPH 333 and ENPH 334 (PHYS 334)", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

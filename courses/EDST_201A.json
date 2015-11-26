@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides a background into the history and theory of Aboriginal Education. It will commence with a discussion of Aboriginal identities and approaches to education from the pre-contact era into the present, as well as Western approaches to education through the lens of Critical Race Theory. The course will then move to Aboriginal educational theory, including such topics as Aboriginal concepts of the person and the learner; teaching as ceremony; Aboriginal differentiated instruction; holistic learning; global Aboriginal identities; language and education; and education for decolonization.",
-        "number": "201A",
-        "subject": "EDST",
+        "description": "This course provides a background into the history and theory of Aboriginal Education. It will commence with a discussion of Aboriginal identities and approaches to education from the pre-contact era into the present, as well as Western approaches to education through the lens of Critical Race Theory. The course will then move to Aboriginal educational theory, including such topics as Aboriginal concepts of the person and the learner; teaching as ceremony; Aboriginal differentiated instruction; holistic learning; global Aboriginal identities; language and education; and education for decolonization.", 
+        "number": "201A", 
+        "subject": "EDST", 
         "title": "Theory of Aboriginal Education"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

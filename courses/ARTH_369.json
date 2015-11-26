@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Theory and practice of architecture and town planning from the 15th to the late 16th centuries in Italy and elsewhere in Europe.",
-        "number": "369",
-        "subject": "ARTH",
+        "description": "Theory and practice of architecture and town planning from the 15th to the late 16th centuries in Italy and elsewhere in Europe.", 
+        "number": "369", 
+        "subject": "ARTH", 
         "title": "Architecture of the Renaissance Period"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of third year standing or above",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of third year standing or above", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Some probability distributions, simulation, Markov chains, queuing theory, dynamic programming, inventory theory.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
-        "number": "337",
-        "subject": "MATH",
+        "description": "Some probability distributions, simulation, Markov chains, queuing theory, dynamic programming, inventory theory.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "337", 
+        "subject": "MATH", 
         "title": "Introduction to Operations Research Models"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (STAT268 or STAT351) and (MATH110 or MATH111 or MATH112) and MATH120 or MATH121 or MATH122 or MATH124.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 (STAT268 or STAT351) and (MATH110 or MATH111 or MATH112) and MATH120 or MATH121 or MATH122 or MATH124.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "This course is composed of active lab modules that provide hands-on practical experience to complement the theory presented in MECH 215. On completion of the course, students will be able to: Install and test a micro controller system for data acquisition and control; Acquire and process digital and analog data; Apply transducers for temperature, pressure, stress, strain and force; position, velocity and acceleration; Formulate conclusions supported by data and comparison of results to appropriate models; Discuss the limitations of data employed, key findings, trends evident, uncertainty and error; Create graphs, tables and charts to clearly present data and support conclusions; Compose technical writing to concisely report measurement results and draw valid conclusions. Students will use experimental and numerical skills typically acquired in MTHE 272 and MECH 215.",
-        "number": "216",
-        "subject": "MECH",
+        "description": "This course is composed of active lab modules that provide hands-on practical experience to complement the theory presented in MECH 215. On completion of the course, students will be able to: Install and test a micro controller system for data acquisition and control; Acquire and process digital and analog data; Apply transducers for temperature, pressure, stress, strain and force; position, velocity and acceleration; Formulate conclusions supported by data and comparison of results to appropriate models; Discuss the limitations of data employed, key findings, trends evident, uncertainty and error; Create graphs, tables and charts to clearly present data and support conclusions; Compose technical writing to concisely report measurement results and draw valid conclusions. Students will use experimental and numerical skills typically acquired in MTHE 272 and MECH 215.", 
+        "number": "216", 
+        "subject": "MECH", 
         "title": "Instrumentation and Measurement Labs"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 8,
-            "Eng Sci": 16,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 8, 
+            "Eng Sci": 16, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: APSC112 and registered in the BSCE program.", 
+        "grading_basis": "Graded", 
         "units": "2.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to aspects of computer software consistent with modern professional practice of statistics. Particular attention is given to the use of the statistical packages SAS and S-Plus. (Offered jointly with STAT-462*.) Three term-hours, fall; lectures.",
-        "number": "862",
-        "subject": "STAT",
+        "description": "An introduction to aspects of computer software consistent with modern professional practice of statistics. Particular attention is given to the use of the statistical packages SAS and S-Plus. (Offered jointly with STAT-462*.) Three term-hours, fall; lectures.", 
+        "number": "862", 
+        "subject": "STAT", 
         "title": "Computational Data Analysis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

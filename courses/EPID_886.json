@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The aim of the course is to help students strengthen some of the core competencies necessary for the practice of public health. Through a combination of workshops, seminars and online learning modules, students will gain skills for their practicum placement and for their ongoing work as a public health professional. This course is graded on a PASS/FAIL basis. 1.5 term hours per week, Fall and Winter terms, every year.",
-        "number": "886",
-        "subject": "EPID",
+        "description": "The aim of the course is to help students strengthen some of the core competencies necessary for the practice of public health. Through a combination of workshops, seminars and online learning modules, students will gain skills for their practicum placement and for their ongoing work as a public health professional. This course is graded on a PASS/FAIL basis. 1.5 term hours per week, Fall and Winter terms, every year.", 
+        "number": "886", 
+        "subject": "EPID", 
         "title": "Public Health Skills Workshops"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture / Demonstration": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "3.00"
     }
 }

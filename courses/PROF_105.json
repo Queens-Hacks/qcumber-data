@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "(Aboriginal Teacher Education Community-Based students only). This course is an introduction to issues and policies that are critical for beginning and experienced teachers in Aboriginal education. It invites candidates to build on their experiences in classrooms and associates schools, to learn about their legal rights and responsibilities as First Nations teachers, to learn about adapting instruction for exceptional Aboriginal learners, and to learn about equity issues they will face in Provincial and First Nations schools.",
-        "number": "105",
-        "subject": "PROF",
+        "description": "(Aboriginal Teacher Education Community-Based students only). This course is an introduction to issues and policies that are critical for beginning and experienced teachers in Aboriginal education. It invites candidates to build on their experiences in classrooms and associates schools, to learn about their legal rights and responsibilities as First Nations teachers, to learn about adapting instruction for exceptional Aboriginal learners, and to learn about equity issues they will face in Provincial and First Nations schools.", 
+        "number": "105", 
+        "subject": "PROF", 
         "title": "Crit Issues & Policies - ATEP"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

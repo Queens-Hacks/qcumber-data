@@ -1,23 +1,25 @@
 {
     "basic": {
-        "description": "Critical review of research methods and strategies applicable to specific topics in planning and policy making. The choice of fields or topics will be determined by the student's interests. Case studies of research strategies in similar projects will be carried out. Students will prepare a research design related to their master's thesis or report.",
-        "number": "890",
-        "subject": "SURP",
+        "description": "Critical review of research methods and strategies applicable to specific topics in planning and policy making. The choice of fields or topics will be determined by the student's interests. Case studies of research strategies in similar projects will be carried out. Students will prepare a research design related to their master's thesis or report.", 
+        "number": "890", 
+        "subject": "SURP", 
         "title": "Topics In Research Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

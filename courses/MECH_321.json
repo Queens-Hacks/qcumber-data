@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Combined states of stress, transformation of stress and strain at a point. Beam deflections and statically indeterminate problems address the elastic deformation of bodies. Design of beams to resist bending and shear loads, as well as the design of shafts to resist bending and torsional moments. Elastic buckling of centrally-loaded slender columns and eccentrically, axially-loaded members are treated during the last portion of the course.",
-        "number": "321",
-        "subject": "MECH",
+        "description": "Combined states of stress, transformation of stress and strain at a point. Beam deflections and statically indeterminate problems address the elastic deformation of bodies. Design of beams to resist bending and shear loads, as well as the design of shafts to resist bending and torsional moments. Elastic buckling of centrally-loaded slender columns and eccentrically, axially-loaded members are treated during the last portion of the course.", 
+        "number": "321", 
+        "subject": "MECH", 
         "title": "Solid Mechanics II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 30,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of CIVL220 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of CIVL220 or MECH 221 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

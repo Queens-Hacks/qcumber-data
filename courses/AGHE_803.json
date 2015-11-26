@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course surveys the latest literature on the demography and geography of aging highlighting\u00a0 the latest census and survey data from Statistics Canada and international sources. Attention is placed on the underlying demographic factors and socio-economic characteristics of population aging and how issues like fertility, mortality, morbidity, life expectancy, mobility and immigration are changing the demography of the older population in Canada and internationally. Emphasis is also placed on how demographic and socio-economic characteristics of population aging result in complex and uneven geographies of aging at various scales from neighbourhood to international comparisons.",
-        "number": "803",
-        "subject": "AGHE",
+        "description": "This course surveys the latest literature on the demography and geography of aging highlighting\u00a0 the latest census and survey data from Statistics Canada and international sources. Attention is placed on the underlying demographic factors and socio-economic characteristics of population aging and how issues like fertility, mortality, morbidity, life expectancy, mobility and immigration are changing the demography of the older population in Canada and internationally. Emphasis is also placed on how demographic and socio-economic characteristics of population aging result in complex and uneven geographies of aging at various scales from neighbourhood to international comparisons.", 
+        "number": "803", 
+        "subject": "AGHE", 
         "title": "Demography and Geography of Aging"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

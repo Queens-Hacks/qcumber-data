@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course examines the conceptual and analytical foundations of audit practice. It covers the role of the public accountant, the audit and the audit report and their interaction with the economic and legal environments. Specific topics include audit objectives, ethics and legal liability, audit planning and reporting, internal control, materiality and risk, statistical sampling, effects of electronic data processing, analytical review, and audit testing.",
-        "number": "317",
-        "subject": "COMM",
+        "description": "This course examines the conceptual and analytical foundations of audit practice. It covers the role of the public accountant, the audit and the audit report and their interaction with the economic and legal environments. Specific topics include audit objectives, ethics and legal liability, audit planning and reporting, internal control, materiality and risk, statistical sampling, effects of electronic data processing, analytical review, and audit testing.", 
+        "number": "317", 
+        "subject": "COMM", 
         "title": "Auditing"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "(Prerequisite of COMM311 and a corequisite of COMM401 and registered in a BCOM Academic Program and have an Academic Program > or equal to 3) or registered in COMM-X Academic Plan.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "(Prerequisite of COMM311 and a corequisite of COMM401 and registered in a BCOM Academic Program and have an Academic Program > or equal to 3) or registered in COMM-X Academic Plan.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

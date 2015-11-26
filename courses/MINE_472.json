@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "In order to address issues related to safety, productivity, and remote operations, the world's mineral resources industry has been gradually shifting towards the increased use of automated systems and roboticallyenhanced machines. It is important, therefore, that graduate engineers understand how these new technologies work so as to improve and make best use of them. This online course introduces senior students to the fundamental tools and techniques of automation and robotics as applied to modern mining practice. Enrolment is open to students from a range of engineering disciplines. This course provides an introduction to the basics of systems control, examples of how methods of automatic control can be applied to mining equipment and associated industrial vehicles, as well as to the fundamentals of sensing and navigation as applied to the design of robotic mobile equipment.",
-        "number": "472",
-        "subject": "MINE",
+        "description": "In order to address issues related to safety, productivity, and remote operations, the world's mineral resources industry has been gradually shifting towards the increased use of automated systems and roboticallyenhanced machines. It is important, therefore, that graduate engineers understand how these new technologies work so as to improve and make best use of them. This online course introduces senior students to the fundamental tools and techniques of automation and robotics as applied to modern mining practice. Enrolment is open to students from a range of engineering disciplines. This course provides an introduction to the basics of systems control, examples of how methods of automatic control can be applied to mining equipment and associated industrial vehicles, as well as to the fundamentals of sensing and navigation as applied to the design of robotic mobile equipment.", 
+        "number": "472", 
+        "subject": "MINE", 
         "title": "Mining Systems, Automation, and Robotics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 18,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 18, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Online": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: MECH 350 or MTHE 332 or ELEC 443 or permission of the instructor.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

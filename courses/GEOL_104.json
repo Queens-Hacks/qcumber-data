@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction to the internal structure of the Earth and the processes that have shaped its surface. Global tectonics and continental movement, rock genesis, mountain building, glaciations and geological time. Laboratories include rock and mineral identification, and problem solving in historical geology, earthquakes, groundwater flow and coastal erosion. \nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36L;12Lb;60P)",
-        "number": "104",
-        "subject": "GEOL",
+        "description": "Introduction to the internal structure of the Earth and the processes that have shaped its surface. Global tectonics and continental movement, rock genesis, mountain building, glaciations and geological time. Laboratories include rock and mineral identification, and problem solving in historical geology, earthquakes, groundwater flow and coastal erosion. \nLEARNING HOURS\u00a0\u00a0\u00a0 108 (36L;12Lb;60P)", 
+        "number": "104", 
+        "subject": "GEOL", 
         "title": "The Dynamic Earth"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

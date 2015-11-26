@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Teacher candidates will explore how to integrate environmental education into all subject areas using two approaches: (a) personal awareness of natural history and natural systems and (b) critical analysis of the ways personal perceptions intersect with philosophical and theoretical frameworks of environmental education.",
-        "number": "503",
-        "subject": "PROF",
+        "description": "Teacher candidates will explore how to integrate environmental education into all subject areas using two approaches: (a) personal awareness of natural history and natural systems and (b) critical analysis of the ways personal perceptions intersect with philosophical and theoretical frameworks of environmental education.", 
+        "number": "503", 
+        "subject": "PROF", 
         "title": "Integrating Environmental Education in the Classroom"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.00"
     }
 }

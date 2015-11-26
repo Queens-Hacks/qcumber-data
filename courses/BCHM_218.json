@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Molecules and macromolecules that participate in the replication and expression of genes. Current methods for exploring the structure, function, and manipulation of genetic material.\r\nNOTE\u00a0\u00a0\u00a0 Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)",
-        "number": "218",
-        "subject": "BCHM",
+        "description": "Molecules and macromolecules that participate in the replication and expression of genes. Current methods for exploring the structure, function, and manipulation of genetic material.\r\nNOTE\u00a0\u00a0\u00a0 Also offered online. Consult Continuing and Distance Studies. Learning Hours may vary.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)", 
+        "number": "218", 
+        "subject": "BCHM", 
         "title": "Molecular Biology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BIOL205",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 BIOL205", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

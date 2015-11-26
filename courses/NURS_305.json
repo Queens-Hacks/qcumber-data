@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Extends the knowledge acquired in Nursing 205. Explore additional clinical problems that challenge the well-being and functioning of clients, using the life span as a principal variable. Evidence-based care and a collaborative approach continue to be emphasized in discussing nursing intervention and responsibility. Health challenges presented may include cancer, musculo-skeletal disorders, impaired integument, diabetes, digestive problems, immune disorders, neurological and cardiovascular disorders.\u00a03 hours lecture per week; 9 units (3 credits) course weight.",
-        "number": "305",
-        "subject": "NURS",
+        "description": "Extends the knowledge acquired in Nursing 205. Explore additional clinical problems that challenge the well-being and functioning of clients, using the life span as a principal variable. Evidence-based care and a collaborative approach continue to be emphasized in discussing nursing intervention and responsibility. Health challenges presented may include cancer, musculo-skeletal disorders, impaired integument, diabetes, digestive problems, immune disorders, neurological and cardiovascular disorders.\u00a03 hours lecture per week; 9 units (3 credits) course weight.", 
+        "number": "305", 
+        "subject": "NURS", 
         "title": "Comn Chalng & Implicat Care II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "level 3 or higher",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "level 3 or higher", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

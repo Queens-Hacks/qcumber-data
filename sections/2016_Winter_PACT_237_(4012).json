@@ -1,35 +1,35 @@
 {
-    "_unique": "001-SEM (4012)",
+    "_unique": "001-SEM (4012)", 
     "availability": {
-        "class_curr": 47,
-        "class_max": 55,
-        "wait_curr": 0,
+        "class_curr": 47, 
+        "class_max": 55, 
+        "wait_curr": 0, 
         "wait_max": 5
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "237",
-        "season": "Winter",
-        "solus_id": "4012",
-        "status": "Open",
-        "subject": "PACT",
-        "type": "SEM",
+        "class_num": "001", 
+        "course": "237", 
+        "season": "Winter", 
+        "solus_id": "4012", 
+        "status": "Open", 
+        "subject": "PACT", 
+        "type": "SEM", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "10:30:00",
-            "instructors": [],
-            "location": "NICOL RM321",
-            "start_time": "08:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "NICOL RM321", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,37 +1,37 @@
 {
-    "_unique": "105-LEC (8231)",
+    "_unique": "105-LEC (8231)", 
     "availability": {
-        "class_curr": 82,
-        "class_max": 137,
-        "wait_curr": 0,
+        "class_curr": 82, 
+        "class_max": 137, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "105",
-        "course": "101",
-        "season": "Fall",
-        "solus_id": "8231",
-        "status": "Closed",
-        "subject": "APSC",
-        "type": "LEC",
+        "class_num": "105", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "8231", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "17:30:00",
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
             "instructors": [
                 "Frank, Brian Matthew"
-            ],
-            "location": "ELLIS RM321",
-            "start_time": "16:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "ELLIS RM321", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

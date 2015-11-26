@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course presents methods for dynamic analysis and controller design for multivariable process control problems, and discrete time control. Control techniques, including feedforward and cascade control, are discussed further, and the concept of model predictive control is presented. Multivariable controller design and the problem of control loop interaction are examined. State space models for processes are introduced. Mathematical tools for analyzing the dynamics of sampled data systems are developed, and the design of discrete time controllers is introduced. Techniques discussed in the course are applied to the control of various chemical process units. This course is offered jointly with CHEE 821.",
-        "number": "434",
-        "subject": "CHEE",
+        "description": "This course presents methods for dynamic analysis and controller design for multivariable process control problems, and discrete time control. Control techniques, including feedforward and cascade control, are discussed further, and the concept of model predictive control is presented. Multivariable controller design and the problem of control loop interaction are examined. State space models for processes are introduced. Mathematical tools for analyzing the dynamics of sampled data systems are developed, and the design of discrete time controllers is introduced. Techniques discussed in the course are applied to the control of various chemical process units. This course is offered jointly with CHEE 821.", 
+        "number": "434", 
+        "subject": "CHEE", 
         "title": "Process Control II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 13,
-            "Eng Sci": 29,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 13, 
+            "Eng Sci": 29, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "CHEE319, or permission of the department. Must be registered in a BSCE program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "CHEE319, or permission of the department. Must be registered in a BSCE program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

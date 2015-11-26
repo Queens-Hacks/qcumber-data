@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This module examines theories of motor control and current literature relating to the neuromuscular, physiological and biochemical aspects of volitional movement. Motor performance outcomes will be discussed within the context of physical rehabilitation and motor control.\u00a0 (NOTE 1.0 credit unit course.) EXCLUSIONS: RHBS-801*, RHBS-901*",
-        "number": "840",
-        "subject": "RHBS",
+        "description": "This module examines theories of motor control and current literature relating to the neuromuscular, physiological and biochemical aspects of volitional movement. Motor performance outcomes will be discussed within the context of physical rehabilitation and motor control.\u00a0 (NOTE 1.0 credit unit course.) EXCLUSIONS: RHBS-801*, RHBS-901*", 
+        "number": "840", 
+        "subject": "RHBS", 
         "title": "Motor Performance in Rehabilitation"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.00"
     }
 }

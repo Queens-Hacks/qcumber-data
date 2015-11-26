@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Transistor-level modeling and design of analog and digital electronic circuits. Differential amplifiers, current mirrors, multi-stage amplifiers, frequency response of amplifiers, high-frequency transistor models, feedback amplifier configurations, two-port networks, CMOS logic gates. Students learn the basics of computer aided design (CAD) of integrated circuits including schematic simulation, layout, design rules, layout versus schematic verification and extracted circuit simulation. Laboratory work is design oriented and complements the lecture material.",
-        "number": "353",
-        "subject": "ELEC",
+        "description": "Transistor-level modeling and design of analog and digital electronic circuits. Differential amplifiers, current mirrors, multi-stage amplifiers, frequency response of amplifiers, high-frequency transistor models, feedback amplifier configurations, two-port networks, CMOS logic gates. Students learn the basics of computer aided design (CAD) of integrated circuits including schematic simulation, layout, design rules, layout versus schematic verification and extracted circuit simulation. Laboratory work is design oriented and complements the lecture material.", 
+        "number": "353", 
+        "subject": "ELEC", 
         "title": "Electronics II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 27,
-            "Eng Sci": 27,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 27, 
+            "Eng Sci": 27, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of ELEC252 and a corequisite of (ELEC323 or MATH326) and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC252 and a corequisite of (ELEC323 or MATH326) and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

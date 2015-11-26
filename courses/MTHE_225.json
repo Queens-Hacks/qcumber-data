@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "First order differential equations, linear differential equations with constant coefficients, and applications, Laplace transforms, systems of linear equations.",
-        "number": "225",
-        "subject": "MTHE",
+        "description": "First order differential equations, linear differential equations with constant coefficients, and applications, Laplace transforms, systems of linear equations.", 
+        "number": "225", 
+        "subject": "MTHE", 
         "title": "Ordinary Differential Equations"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 42
-        },
-        "career": "Distance Studies",
+        }, 
+        "career": "Distance Studies", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: APSC 171, APSC 172, APSC 174 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 171, APSC 172, APSC 174 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

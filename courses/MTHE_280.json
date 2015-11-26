@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Limits, Continuity, C', and linear approximations of functions of several variables. Multiple integrals and Jacobians, Line and surface integrals. The theorems of Green, Stokes, and Gauss.",
-        "number": "280",
-        "subject": "MTHE",
+        "description": "Limits, Continuity, C', and linear approximations of functions of several variables. Multiple integrals and Jacobians, Line and surface integrals. The theorems of Green, Stokes, and Gauss.", 
+        "number": "280", 
+        "subject": "MTHE", 
         "title": "Advanced Calculus"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 42
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisites: APSC 172, APSC 174\nExclusions: MATH 221, MTHE 227 (MATH 227)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites: APSC 172, APSC 174\nExclusions: MATH 221, MTHE 227 (MATH 227)", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

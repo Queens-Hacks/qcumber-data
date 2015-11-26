@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Cost, risk, and return characteristics of mineral exploration; introduction to economic evaluation; cash flow and time value concepts; discounted cash flow methods; mining taxation considerations; sensitivity and risk analysis techniques; exploration economics and strategies; evaluation of exploration projects; exploration planning issues.",
-        "number": "472",
-        "subject": "GEOL",
+        "description": "Cost, risk, and return characteristics of mineral exploration; introduction to economic evaluation; cash flow and time value concepts; discounted cash flow methods; mining taxation considerations; sensitivity and risk analysis techniques; exploration economics and strategies; evaluation of exploration projects; exploration planning issues.", 
+        "number": "472", 
+        "subject": "GEOL", 
         "title": "Economic Analysis Methods in Geological Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GEOL235.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GEOL235.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

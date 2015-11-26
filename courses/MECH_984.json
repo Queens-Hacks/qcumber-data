@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Descriptions of crystal plasticity from continuum mechanics to lower length scales are examined. Specifically, analytical methods and computational tools are developed to describe the microstructural evolution and stress response to deformation of single and polycrystalline metals. Specific topics include dislocation micro-mechanics and microstructural evolution, constitutive relations, large strain and texture evolution, failure and fracture, and temperature and rate effects. Three term-hours, lectures. B.J. Diak and A.K. Pilkey.",
-        "number": "984",
-        "subject": "MECH",
+        "description": "Descriptions of crystal plasticity from continuum mechanics to lower length scales are examined. Specifically, analytical methods and computational tools are developed to describe the microstructural evolution and stress response to deformation of single and polycrystalline metals. Specific topics include dislocation micro-mechanics and microstructural evolution, constitutive relations, large strain and texture evolution, failure and fracture, and temperature and rate effects. Three term-hours, lectures. B.J. Diak and A.K. Pilkey.", 
+        "number": "984", 
+        "subject": "MECH", 
         "title": "Deformation Of Crystallines"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

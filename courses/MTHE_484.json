@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course covers performance models for data networking, delay models and loss models; analysis of multiple access systems, routing, and flow control; multiplexing; priority systems; satellite multiple access, wireless networking, wireless sensor networks. Knowledge of networking protocols is not required.",
-        "number": "484",
-        "subject": "MTHE",
+        "description": "This course covers performance models for data networking, delay models and loss models; analysis of multiple access systems, routing, and flow control; multiplexing; priority systems; satellite multiple access, wireless networking, wireless sensor networks. Knowledge of networking protocols is not required.", 
+        "number": "484", 
+        "subject": "MTHE", 
         "title": "Data Networks"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 26,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 26, 
             "Math": 10
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MTHE 455 or STAT 455 or permission of the department. Must be registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 455 or STAT 455 or permission of the department. Must be registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

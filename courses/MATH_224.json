@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "The course will discuss the application of linear differential equations with constant coefficients, and systems of linear equations within the realm of civil engineering. Additionally, the course will explore relevant data analysis techniques including: graphical and statistical analysis and presentation of experimental data, random sampling, estimation using confidence intervals, linear regression, residuals and correlation. (54/0/0/0/0)",
-        "number": "224",
-        "subject": "MATH",
+        "description": "The course will discuss the application of linear differential equations with constant coefficients, and systems of linear equations within the realm of civil engineering. Additionally, the course will explore relevant data analysis techniques including: graphical and statistical analysis and presentation of experimental data, random sampling, estimation using confidence intervals, linear regression, residuals and correlation. (54/0/0/0/0)", 
+        "number": "224", 
+        "subject": "MATH", 
         "title": "Applied Math For Civil Eng."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Exclusions: MATH225, 226, 235, 237, STAT267 and STAT367.\u00a0 Prerequisites of APSC142, APSC172 and APSC174 and registration in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusions: MATH225, 226, 235, 237, STAT267 and STAT367.\u00a0 Prerequisites of APSC142, APSC172 and APSC174 and registration in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

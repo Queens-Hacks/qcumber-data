@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introduction to the equations of mechanics using the Lagrange formalism and to the calculus of variations leading to Hamilton's principle. The concepts developed in this course are applied to problems ranging from purely theoretical constructs to practical applications. Links to quantum mechanics and extensions to continuous systems are developed.",
-        "number": "321",
-        "subject": "PHYS",
+        "description": "An introduction to the equations of mechanics using the Lagrange formalism and to the calculus of variations leading to Hamilton's principle. The concepts developed in this course are applied to problems ranging from purely theoretical constructs to practical applications. Links to quantum mechanics and extensions to continuous systems are developed.", 
+        "number": "321", 
+        "subject": "PHYS", 
         "title": "Advanced Mechanics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PHYS212 & (MATH221 or MATH227 or MATH280) and (MATH231 or MATH232).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PHYS212 & (MATH221 or MATH227 or MATH280) and (MATH231 or MATH232).", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

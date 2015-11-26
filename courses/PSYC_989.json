@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Give students supervised experience in all aspects of clinical practice, including: interview and assessment, treatment, report writing, interprofessional communication and consultation, and professional development. (8 hrs per wk for a total of 120 hrs per course)",
-        "number": "989",
-        "subject": "PSYC",
+        "description": "Give students supervised experience in all aspects of clinical practice, including: interview and assessment, treatment, report writing, interprofessional communication and consultation, and professional development. (8 hrs per wk for a total of 120 hrs per course)", 
+        "number": "989", 
+        "subject": "PSYC", 
         "title": "Advanced Clinical Practice"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Clinical": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "3.00"
     }
 }

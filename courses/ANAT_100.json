@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This web-based anatomy course is designed to introduce to students the basic structure and functional relationship of the human body. Through a series of 5 study modules, students will learn about the basic language of Gross Anatomy and Histology in order to understand the working of various body systems. This course is also suitable for individuals who have a general interest in human anatomy.\nNOTE\u00a0\u00a0\u00a0 Offered only as a distance course. Consult Continuing and Distance Studies.\nLEARNING HOURS\u00a0\u00a0 120 (48O;72P)",
-        "number": "100",
-        "subject": "ANAT",
+        "description": "This web-based anatomy course is designed to introduce to students the basic structure and functional relationship of the human body. Through a series of 5 study modules, students will learn about the basic language of Gross Anatomy and Histology in order to understand the working of various body systems. This course is also suitable for individuals who have a general interest in human anatomy.\nNOTE\u00a0\u00a0\u00a0 Offered only as a distance course. Consult Continuing and Distance Studies.\nLEARNING HOURS\u00a0\u00a0 120 (48O;72P)", 
+        "number": "100", 
+        "subject": "ANAT", 
         "title": "Anatomy of the Human Body"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Distance Studies",
+        }, 
+        "career": "Distance Studies", 
         "course_components": {
             "Online": "Required"
-        },
-        "enrollment_requirement": "EXCLUSION\u00a0 No more than 3.0 units from ANAT100/3.0; ANAT101/32.0; IDIS150/6.0\r\nOne-WAY EXCLUSION\u00a0 May not be taken with or after:\u00a0 ANAT215/3.0; ANAT216/3.0; ANAT312/3.0; ANAT315/3.0; ANAT316/3.0",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "EXCLUSION\u00a0 No more than 3.0 units from ANAT100/3.0; ANAT101/32.0; IDIS150/6.0\r\nOne-WAY EXCLUSION\u00a0 May not be taken with or after:\u00a0 ANAT215/3.0; ANAT216/3.0; ANAT312/3.0; ANAT315/3.0; ANAT316/3.0", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

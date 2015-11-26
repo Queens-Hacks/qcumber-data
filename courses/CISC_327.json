@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Validation of software throughout the life cycle. Comparative effectiveness in defect removal of formal methods (proofs of correctness), inspection (walkthroughs and reviews), and testing (unit, integration, and system testing; white box versus black box).\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
-        "number": "327",
-        "subject": "CISC",
+        "description": "Validation of software throughout the life cycle. Comparative effectiveness in defect removal of formal methods (proofs of correctness), inspection (walkthroughs and reviews), and testing (unit, integration, and system testing; white box versus black box).\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "327", 
+        "subject": "CISC", 
         "title": "Software Quality Assurance"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC220 and CISC223\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC327; SOFT327",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC220 and CISC223\nExclusion\u00a0\u00a0\u00a0\u00a0 No more than 3.0 units from CISC327; SOFT327", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

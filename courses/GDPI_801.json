@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "This course will enable the student to understand the foundational principles of collaborative learning and to enact those principles in professional practice. This, in turn, will lead to the creation of a collaborative learning community within the context of the course where the knowledge and skills of professional inquiry will be explored and demonstrated.",
-        "number": "801",
-        "subject": "GDPI",
+        "description": "This course will enable the student to understand the foundational principles of collaborative learning and to enact those principles in professional practice. This, in turn, will lead to the creation of a collaborative learning community within the context of the course where the knowledge and skills of professional inquiry will be explored and demonstrated.", 
+        "number": "801", 
+        "subject": "GDPI", 
         "title": "Collaborative Inquiry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Restricted to GDPI", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

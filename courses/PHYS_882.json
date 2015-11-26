@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "The concepts of nonlinear optics are central to most modern research in quantum optics and light matter interactions.\u00a0 Nonlinear optics is the discipline in physics in which the electric polarization density of the medium is studied as a nonlinear function of the light field.\u00a0 Quantum optics concerns the interaction of light with quantum systems, and the quantum nature of light itself.\u00a0 Recent years have seen a rapid growth of activity in research involving both nonlinear and quantum optics, enabled in part by new condensed matter materials (especially semiconductor nanostructures) and ultrafast laser systems.\u00a0 This course will introduce the basic principles of nonlinear and quantum optics and make a connection to a selection of modern research topics in these areas.",
-        "number": "882",
-        "subject": "PHYS",
+        "description": "The concepts of nonlinear optics are central to most modern research in quantum optics and light matter interactions.\u00a0 Nonlinear optics is the discipline in physics in which the electric polarization density of the medium is studied as a nonlinear function of the light field.\u00a0 Quantum optics concerns the interaction of light with quantum systems, and the quantum nature of light itself.\u00a0 Recent years have seen a rapid growth of activity in research involving both nonlinear and quantum optics, enabled in part by new condensed matter materials (especially semiconductor nanostructures) and ultrafast laser systems.\u00a0 This course will introduce the basic principles of nonlinear and quantum optics and make a connection to a selection of modern research topics in these areas.", 
+        "number": "882", 
+        "subject": "PHYS", 
         "title": "Nonlinear And Quantum Optics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Programme de lectures dirig\u00e9es \u00e9tabli en fonction des besoins de l'\u00e9tudiant(e) apr\u00e8s consultation avec la Directrice des \u00e9tudes de 2e et 3e cycles.",
-        "number": "996",
-        "subject": "FRAN",
+        "description": "Programme de lectures dirig\u00e9es \u00e9tabli en fonction des besoins de l'\u00e9tudiant(e) apr\u00e8s consultation avec la Directrice des \u00e9tudes de 2e et 3e cycles.", 
+        "number": "996", 
+        "subject": "FRAN", 
         "title": "Cours de lectures dirig\u00e9es"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

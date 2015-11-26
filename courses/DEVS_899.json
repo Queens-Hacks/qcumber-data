@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Research leading to a dissertation of 70-100 pages will usually involve the collection and analysis of primary data and be of publishable quality. Such data could include oral interviews, archival and other documentary sources, in some cases collected through field work.",
-        "number": "899",
-        "subject": "DEVS",
+        "description": "Research leading to a dissertation of 70-100 pages will usually involve the collection and analysis of primary data and be of publishable quality. Such data could include oral interviews, archival and other documentary sources, in some cases collected through field work.", 
+        "number": "899", 
+        "subject": "DEVS", 
         "title": "Master's Thesis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Thesis Research": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

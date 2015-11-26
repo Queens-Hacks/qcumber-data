@@ -1,37 +1,37 @@
 {
-    "_unique": "003-LAB (2131)",
+    "_unique": "003-LAB (2131)", 
     "availability": {
-        "class_curr": 17,
-        "class_max": 18,
-        "wait_curr": 0,
+        "class_curr": 17, 
+        "class_max": 18, 
+        "wait_curr": 0, 
         "wait_max": 2
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "240",
-        "season": "Fall",
-        "solus_id": "2131",
-        "status": "Open",
-        "subject": "DRAM",
-        "type": "LAB",
+        "class_num": "003", 
+        "course": "240", 
+        "season": "Fall", 
+        "solus_id": "2131", 
+        "status": "Open", 
+        "subject": "DRAM", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "13:00:00",
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
             "instructors": [
                 "Redish, Adair"
-            ],
-            "location": "THEOLOGICAL RM115",
-            "start_time": "11:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "THEOLOGICAL RM115", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

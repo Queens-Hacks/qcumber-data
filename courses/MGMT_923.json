@@ -1,23 +1,25 @@
 {
     "basic": {
-        "description": "This course introduces the students to various topics on asset pricing in a continuous-time setting. The first part of the course covers contingent claim analysis and derivative pricing modeling, including their applications to other areas in finance. The second part of the course covers topics in optimal portfolio and consumption problems, equilibrium and intertemporal asset pricing models. Students should have had some previous exposure to microeconomics theory and some basic courses in financial derivatives. Strong backgrounds in calculus, linear algebra, and probability theory are recommended.",
-        "number": "923",
-        "subject": "MGMT",
-        "title": "Advanced Asset Pricing"
-    },
+        "description": "The objective of this course is to provide students the rigorous theoretical foundations of modern financial economics. The course will cover the central themes of modern finance including individual investment decisions under uncertainty, stochastic dominance, mean variance analysis, arbitrage pricing theory, capital market equilibrium and asset valuation, risk neutral valuation, and incomplete markets. It will give a quick introduction to Ito calculus and its applications to derivative pricing, including options, futures, interest rates, and credit risks. After completing this course, the students should acquire a clear understanding of the major theoretical results concerning individuals' consumption and portfolio decisions under uncertainty and their implications for the valuation of securities.\u00a0 PREREQUISITES: Calculus, matrix algebra and probability.", 
+        "number": "923", 
+        "subject": "MGMT", 
+        "title": "Financial Economics"
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

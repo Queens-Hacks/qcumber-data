@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Focuses on assessing, monitoring and managing the care of clients across the life span, with major life-threatening illnesses. Illnesses may include sudden catastrophic events, an acute exacerbation of a chronic illness, unexpected deterioration in illness trajectory, sudden irreversible deterioration in health or illness pattern. Ethical, legal, societal and current health service delivery issues are incorporated.\u00a03 hours lecture per week; 9 units (3 credits) course weight.",
-        "number": "403",
-        "subject": "NURS",
+        "description": "Focuses on assessing, monitoring and managing the care of clients across the life span, with major life-threatening illnesses. Illnesses may include sudden catastrophic events, an acute exacerbation of a chronic illness, unexpected deterioration in illness trajectory, sudden irreversible deterioration in health or illness pattern. Ethical, legal, societal and current health service delivery issues are incorporated.\u00a03 hours lecture per week; 9 units (3 credits) course weight.", 
+        "number": "403", 
+        "subject": "NURS", 
         "title": "Concpts Acute & Critical Ilnes"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "level 4",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "level 4", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

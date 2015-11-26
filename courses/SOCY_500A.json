@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Students will arrange their reading in consultation with members of the Department. They will be expected to write reports on their readings and to discuss them throughout the year in seminars.",
-        "number": "500A",
-        "subject": "SOCY",
+        "description": "Students will arrange their reading in consultation with members of the Department. They will be expected to write reports on their readings and to discuss them throughout the year in seminars.", 
+        "number": "500A", 
+        "subject": "SOCY", 
         "title": "Directed Special Reading"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "enrollment_requirement": "Prereq: Level 4 & reg in SOCY MAJ or MED & (a min grade of C in SOCY210, SOCY211, SOCY226 & SOCY227) & (a min GPA of 2.60 in SOCY210, SOCY211, SOCY226, SOCY227 & (a min GPA of 2.60 in all units in SOCY).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prereq: Level 4 & reg in SOCY MAJ or MED & (a min grade of C in SOCY210, SOCY211, SOCY226 & SOCY227) & (a min GPA of 2.60 in SOCY210, SOCY211, SOCY226, SOCY227 & (a min GPA of 2.60 in all units in SOCY).", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

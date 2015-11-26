@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Within a team structure involving second, third, and fourth year Civil Engineering students and a faculty advisor, students will engage in a range of exercises designed to promote written and verbal communication, decision making, team building and engineering design skills. Lectures, workshops, design charettes and both individual and team assignments will be utilized to enhance learning.\u00a0 * APSC 480 will be considered as a substitute for CIVL 400 and CIVL 460",
-        "number": "400",
-        "subject": "CIVL",
+        "description": "Within a team structure involving second, third, and fourth year Civil Engineering students and a faculty advisor, students will engage in a range of exercises designed to promote written and verbal communication, decision making, team building and engineering design skills. Lectures, workshops, design charettes and both individual and team assignments will be utilized to enhance learning.\u00a0 * APSC 480 will be considered as a substitute for CIVL 400 and CIVL 460", 
+        "number": "400", 
+        "subject": "CIVL", 
         "title": "Civil Week-Professional Skills"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 14,
-            "Eng Des": 7,
-            "Eng Sci": 7,
+            "Basic Sci": 0, 
+            "Comp St": 14, 
+            "Eng Des": 7, 
+            "Eng Sci": 7, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of CIVL300 and a corequisite of CIVL460 and regitered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of CIVL300 and a corequisite of CIVL460 and regitered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "2.50"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course investigates waters governance from the science, engineering and policy aspects found around the world. This course is designed to engage graduate students in discussions on a wide range of governance issues relating to water in a way that is relevant to their current field of study. Specific policies and governance that are relevant world-wide will be covered and include climate change, water quality, water supply, water and the environment and water and human health. This course, although placed in the Department of Civil Engineering, is designed for inclusion in the course offerings from departments across Queen's University.",
-        "number": "897",
-        "subject": "CIVL",
+        "description": "This course investigates waters governance from the science, engineering and policy aspects found around the world. This course is designed to engage graduate students in discussions on a wide range of governance issues relating to water in a way that is relevant to their current field of study. Specific policies and governance that are relevant world-wide will be covered and include climate change, water quality, water supply, water and the environment and water and human health. This course, although placed in the Department of Civil Engineering, is designed for inclusion in the course offerings from departments across Queen's University.", 
+        "number": "897", 
+        "subject": "CIVL", 
         "title": "Water Policy and Governance"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

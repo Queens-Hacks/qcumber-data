@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Construction and properties of finite fields. Polynomials, vector spaces, block codes over finite fields. Hamming distance and other code parameters. Bounds relating code parameters. Cyclic codes and their structure as ideals. Weight distribution. Special codes and their relation to designs and projective planes. Decoding algorithms.",
-        "number": "406",
-        "subject": "MTHE",
+        "description": "Construction and properties of finite fields. Polynomials, vector spaces, block codes over finite fields. Hamming distance and other code parameters. Bounds relating code parameters. Cyclic codes and their structure as ideals. Weight distribution. Special codes and their relation to designs and projective planes. Decoding algorithms.", 
+        "number": "406", 
+        "subject": "MTHE", 
         "title": "Introduction To Coding Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 10,
-            "Eng Sci": 12,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 10, 
+            "Eng Sci": 12, 
             "Math": 14
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MATH 212 or MTHE 217 or MATH 217 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ:\u00a0 MTHE 217 or MATH 217 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

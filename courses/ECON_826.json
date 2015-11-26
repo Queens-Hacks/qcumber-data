@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Macroeconomic and monetary theory in an open economy including topics such as:\u00a0 capital flows and models of the current account; international risk-sharing; sovereign debt; real and nominal exchange rates; currency crises; and the choice of exchange-rate regime.",
-        "number": "826",
-        "subject": "ECON",
+        "description": "Macroeconomic and monetary theory in an open economy including topics such as:\u00a0 capital flows and models of the current account; international risk-sharing; sovereign debt; real and nominal exchange rates; currency crises; and the choice of exchange-rate regime.", 
+        "number": "826", 
+        "subject": "ECON", 
         "title": "International Finance"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

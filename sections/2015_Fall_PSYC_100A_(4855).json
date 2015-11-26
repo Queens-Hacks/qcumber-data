@@ -1,37 +1,37 @@
 {
-    "_unique": "700-ONL (4855)",
+    "_unique": "700-ONL (4855)", 
     "availability": {
-        "class_curr": 128,
-        "class_max": 150,
-        "wait_curr": 0,
+        "class_curr": 192, 
+        "class_max": 200, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "700",
-        "course": "100A",
-        "season": "Fall",
-        "solus_id": "4855",
-        "status": "Open",
-        "subject": "PSYC",
-        "type": "ONL",
+        "class_num": "700", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "4855", 
+        "status": "Open", 
+        "subject": "PSYC", 
+        "type": "ONL", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Atkinson, Jill L"
-            ],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2015-12-04",
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Kingston (Main), ON",
-        "location": "Graded",
+        "campus": "Kingston (Main), ON", 
+        "location": "Graded", 
         "session": "Regular Academic Session"
     }
 }

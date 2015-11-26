@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course will introduce students to the urban issues and planning processes/methods in non-Western countries, with special emphasis on their cultural contexts. Each module will focus on a particular country. These may include, but are not limited to China, India, Indonesia, and other Asia-Pacific countries.",
-        "number": "831",
-        "subject": "SURP",
+        "description": "This course will introduce students to the urban issues and planning processes/methods in non-Western countries, with special emphasis on their cultural contexts. Each module will focus on a particular country. These may include, but are not limited to China, India, Indonesia, and other Asia-Pacific countries.", 
+        "number": "831", 
+        "subject": "SURP", 
         "title": "International Urban Planning"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.00"
     }
 }

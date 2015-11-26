@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course presents and overview of all aspects of mining from exploration, financing, development and mining operations. Underground and open pit mining are contrasted. Mineral processing systems for the production of gold, diamonds, copper, nickel, zinc and iron will be studied. Topics include decision-making process related to world market commodity pricing, mine planning and design, mining equipment, blasting and environmental considerations. Concepts of sustainability from economic, social and environmental perspective will be explored. Case studies, a major field trip and related assessment will be used to illustrate principles taught and how they are applied in a practical situation. PREREQUISITE: must be enrolled in Mining Engineering, or permission of instructor",
-        "number": "201",
-        "subject": "MINE",
+        "description": "This course presents and overview of all aspects of mining from exploration, financing, development and mining operations. Underground and open pit mining are contrasted. Mineral processing systems for the production of gold, diamonds, copper, nickel, zinc and iron will be studied. Topics include decision-making process related to world market commodity pricing, mine planning and design, mining equipment, blasting and environmental considerations. Concepts of sustainability from economic, social and environmental perspective will be explored. Case studies, a major field trip and related assessment will be used to illustrate principles taught and how they are applied in a practical situation. PREREQUISITE: must be enrolled in Mining Engineering, or permission of instructor", 
+        "number": "201", 
+        "subject": "MINE", 
         "title": "Introduction to Mining and Mineral Processing"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 12,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 36,
+            "Basic Sci": 12, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 36, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Registered in a MINE-M-BSE Academic Plan.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Registered in a MINE-M-BSE Academic Plan.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

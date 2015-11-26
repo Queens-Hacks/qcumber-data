@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "Functions, limits, derivatives; optimization, rate problems, exponentials, logarithms, inverse trigonometric functions; exponential growth as an example of a differential equation. Fundamental Theorem of Calculus, Riemann integral; applications to problems involving areas, volumes, mass, charge, work, etc. Some integration techniques.",
-        "number": "171",
-        "subject": "APSC",
+        "description": "Functions, limits, derivatives; optimization, rate problems, exponentials, logarithms, inverse trigonometric functions; exponential growth as an example of a differential equation. Fundamental Theorem of Calculus, Riemann integral; applications to problems involving areas, volumes, mass, charge, work, etc. Some integration techniques.", 
+        "number": "171", 
+        "subject": "APSC", 
         "title": "Calculus I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 42
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Must be registered in a BSCE or UENG program.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

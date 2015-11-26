@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A survey of the principal ideas of Western political theorists from ancient to modern times, focusing in particular on the role and scope of government; the proper organization of governmental power; the nature of political obligation; and the ethics of political power and authority.",
-        "number": "250A",
-        "subject": "POLS",
+        "description": "A survey of the principal ideas of Western political theorists from ancient to modern times, focusing in particular on the role and scope of government; the proper organization of governmental power; the nature of political obligation; and the ethics of political power and authority.", 
+        "number": "250A", 
+        "subject": "POLS", 
         "title": "Political Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 POLS 110/6.0. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from: PHIL 253/6.0; POLS 250/6.0.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 POLS 110/6.0. \r\nEXCLUSION\u00a0\u00a0\u00a0 No more than 6.0 units from: PHIL 253/6.0; POLS 250/6.0.", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

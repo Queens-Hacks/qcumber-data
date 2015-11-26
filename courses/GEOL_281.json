@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction to all of the integrated fields of Geological Engineering and the essence of engineering design in an earth-systems context. The focus is on geological engineering properties and processes, complementing the resource focus of Earth Systems Engineering II in the winter term. Projects involve engineering design problems with a particular focus on dealing with scale dependency, sampling confidence, natural variability and risk-assessment related to the quantification of engineering properties for geomaterials. Introductory geotechnical engineering, applied geophysics, and engineering hydrogeology methodology with emphasis on site investigation and design related to mining, tunnelling, infrastructure development, natural-hazard mitigation and environmental remediation and management.\u00a0 (0/0/0/32/16)",
-        "number": "281",
-        "subject": "GEOL",
+        "description": "Introduction to all of the integrated fields of Geological Engineering and the essence of engineering design in an earth-systems context. The focus is on geological engineering properties and processes, complementing the resource focus of Earth Systems Engineering II in the winter term. Projects involve engineering design problems with a particular focus on dealing with scale dependency, sampling confidence, natural variability and risk-assessment related to the quantification of engineering properties for geomaterials. Introductory geotechnical engineering, applied geophysics, and engineering hydrogeology methodology with emphasis on site investigation and design related to mining, tunnelling, infrastructure development, natural-hazard mitigation and environmental remediation and management.\u00a0 (0/0/0/32/16)", 
+        "number": "281", 
+        "subject": "GEOL", 
         "title": "Earth Systems Eng I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

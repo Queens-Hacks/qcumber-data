@@ -1,37 +1,37 @@
 {
-    "_unique": "002-TUT (5156)",
+    "_unique": "002-TUT (5156)", 
     "availability": {
-        "class_curr": 162,
-        "class_max": 180,
-        "wait_curr": 0,
+        "class_curr": 198, 
+        "class_max": 217, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "002",
-        "course": "252",
-        "season": "Winter",
-        "solus_id": "5156",
-        "status": "Open",
-        "subject": "ELEC",
-        "type": "TUT",
+        "class_num": "002", 
+        "course": "252", 
+        "season": "Winter", 
+        "solus_id": "5156", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "TUT", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 5,
-            "end_time": "12:30:00",
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
             "instructors": [
                 "Freundorfer, Alois Peter"
-            ],
-            "location": "ELLIS AUD",
-            "start_time": "11:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "ELLIS AUD", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

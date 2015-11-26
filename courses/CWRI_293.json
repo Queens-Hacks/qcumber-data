@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A workshop course focusing on the writing and editing of short fiction, novels, and memoir. Students\u00a0attempt several different approaches to the writing of creative prose, as well as the process of publication in both magazine and book formats.\r\nNOTE\u00a0\u00a0\u00a0 Admission is based on writing samples.",
-        "number": "293",
-        "subject": "CWRI",
+        "description": "A workshop course focusing on the writing and editing of short fiction, novels, and memoir. Students\u00a0attempt several different approaches to the writing of creative prose, as well as the process of publication in both magazine and book formats.\r\nNOTE\u00a0\u00a0\u00a0 Admission is based on writing samples.", 
+        "number": "293", 
+        "subject": "CWRI", 
         "title": "Creative Writing in Prose"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

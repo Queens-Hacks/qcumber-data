@@ -1,37 +1,37 @@
 {
-    "_unique": "001-LEC (8242)",
+    "_unique": "001-LEC (8242)", 
     "availability": {
-        "class_curr": 21,
-        "class_max": 60,
-        "wait_curr": 0,
+        "class_curr": 38, 
+        "class_max": 60, 
+        "wait_curr": 0, 
         "wait_max": 6
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "394",
-        "season": "Fall",
-        "solus_id": "8242",
-        "status": "Open",
-        "subject": "POLS",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "394", 
+        "season": "Fall", 
+        "solus_id": "8242", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "21:30:00",
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
             "instructors": [
                 "Moore, Margaret R"
-            ],
-            "location": "DUNNING RM27",
-            "start_time": "18:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "DUNNING RM27", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

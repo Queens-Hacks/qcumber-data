@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Fundamental concepts in the design and implementation of computer communication networks, protocols, and applications.\u00a0Overview of network architectures; applications; network programming interfaces (e.g., sockets); transport; congestion; routing and data link protocols; addressing; local area networks; wireless networks, mobility management;\u00a0security.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 340/3.0.",
-        "number": "435",
-        "subject": "CISC",
+        "description": "Fundamental concepts in the design and implementation of computer communication networks, protocols, and applications.\u00a0Overview of network architectures; applications; network programming interfaces (e.g., sockets); transport; congestion; routing and data link protocols; addressing; local area networks; wireless networks, mobility management;\u00a0security.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 340/3.0.", 
+        "number": "435", 
+        "subject": "CISC", 
         "title": "Computer Communications and Networks"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 CISC324 or ELEC377",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0\u00a0 CISC324 or ELEC377", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

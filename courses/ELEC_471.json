@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Communication networks architecture, physical layer, data link layer and protocol design, introduction to queuing theory, network layer, routing and interworking and performance evaluation and monitoring.",
-        "number": "471",
-        "subject": "ELEC",
+        "description": "Communication networks architecture, physical layer, data link layer and protocol design, introduction to queuing theory, network layer, routing and interworking and performance evaluation and monitoring.", 
+        "number": "471", 
+        "subject": "ELEC", 
         "title": "Computer Networks I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 26,
-            "Eng Sci": 10,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 26, 
+            "Eng Sci": 10, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Exclusion:\u00a0 CISC435.\u00a0 Corequisite of ELEC326 or STAT351 and registration in a BSCE Academic Program or an SODE-P-BCH Academic Plan.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusion:\u00a0 CISC435.\u00a0 Corequisite of ELEC326 or STAT351 and registration in a BSCE Academic Program or an SODE-P-BCH Academic Plan.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

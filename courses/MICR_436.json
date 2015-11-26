@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A detailed description of the processes of heredity in bacteria including a discussion of gene structure and evolution, gene expression and its control, the exchange of genetic material in the microbial world and genetic engineering and its applications. The laboratory component will emphasize modern approaches to genetic engineering. \nNOTE\u00a0\u00a0\u00a0 Offered in alternate years to MICR 435/3.0.\u00a0",
-        "number": "436",
-        "subject": "MICR",
+        "description": "A detailed description of the processes of heredity in bacteria including a discussion of gene structure and evolution, gene expression and its control, the exchange of genetic material in the microbial world and genetic engineering and its applications. The laboratory component will emphasize modern approaches to genetic engineering. \nNOTE\u00a0\u00a0\u00a0 Offered in alternate years to MICR 435/3.0.\u00a0", 
+        "number": "436", 
+        "subject": "MICR", 
         "title": "Microbial Genetics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0\u00a0 BIOL 205/3.0 and (MICR 221/3.0 or MICR 229/3.0 with a minimum grade of B) and (Level 4 and reg in the LISC Major or Spec. Plan) and (a GPA of 2.5).\r\nCOREQUISITE\u00a0\u00a0\u00a0 BCHM 310/3.0 or BCHM 315/3.0 or BIOL 334/3.0.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITES\u00a0\u00a0\u00a0\u00a0 BIOL 205/3.0 and (MICR 221/3.0 or MICR 229/3.0 with a minimum grade of B) and (Level 4 and reg in the LISC Major or Spec. Plan) and (a GPA of 2.5).\r\nCOREQUISITE\u00a0\u00a0\u00a0 BCHM 310/3.0 or BCHM 315/3.0 or BIOL 334/3.0.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

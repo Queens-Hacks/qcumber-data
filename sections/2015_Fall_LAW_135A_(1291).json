@@ -1,37 +1,37 @@
 {
-    "_unique": "004-TUT (1291)",
+    "_unique": "004-TUT (1291)", 
     "availability": {
-        "class_curr": 25,
-        "class_max": 25,
-        "wait_curr": 0,
+        "class_curr": 24, 
+        "class_max": 25, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "004",
-        "course": "135A",
-        "season": "Fall",
-        "solus_id": "1291",
-        "status": "Closed",
-        "subject": "LAW",
-        "type": "TUT",
+        "class_num": "004", 
+        "course": "135A", 
+        "season": "Fall", 
+        "solus_id": "1291", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 4,
-            "end_time": "14:30:00",
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Bracci, Christa Maria"
-            ],
-            "location": "MACDONALD RM201",
-            "start_time": "13:00:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "MACDONALD RM201", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-08"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Law Regular"
     }
 }

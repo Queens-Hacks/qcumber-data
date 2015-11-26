@@ -1,35 +1,35 @@
 {
-    "_unique": "003-LAB (3498)",
+    "_unique": "003-LAB (3498)", 
     "availability": {
-        "class_curr": 76,
-        "class_max": 80,
-        "wait_curr": 0,
-        "wait_max": 0
-    },
+        "class_curr": 80, 
+        "class_max": 83, 
+        "wait_curr": 0, 
+        "wait_max": 7
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "212",
-        "season": "Fall",
-        "solus_id": "3498",
-        "status": "Open",
-        "subject": "CHEM",
-        "type": "LAB",
+        "class_num": "003", 
+        "course": "212", 
+        "season": "Fall", 
+        "solus_id": "3498", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "17:30:00",
-            "instructors": [],
-            "location": "CHERNOFF RM210B",
-            "start_time": "14:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM210B", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Discussions and presentations on current topics in molecular biology.\u00a0 The emphasis will be on mammalian systems and will cover a wide range of topics relating to recent advances in molecular biology.\u00a0 Typical topics include gene regulation, replication, DNA repair, forensic analysis, human genomics and genetics.\u00a0 Marks are based on student presentations and essays typically in \"News and Views\" or Mini-Review formats.\u00a0\u00a0Three hours per week, presentations and discussions of original papers.\u00a0 Fall;\u00a0 C. Mueller.\u00a0",
-        "number": "820",
-        "subject": "BCHM",
+        "description": "Discussions and presentations on current topics in molecular biology.\u00a0 The emphasis will be on mammalian systems and will cover a wide range of topics relating to recent advances in molecular biology.\u00a0 Typical topics include gene regulation, replication, DNA repair, forensic analysis, human genomics and genetics.\u00a0 Marks are based on student presentations and essays typically in \"News and Views\" or Mini-Review formats.\u00a0\u00a0Three hours per week, presentations and discussions of original papers.\u00a0 Fall;\u00a0 C. Mueller.\u00a0", 
+        "number": "820", 
+        "subject": "BCHM", 
         "title": "Adv. Topics In Molecular Biol."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

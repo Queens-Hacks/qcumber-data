@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course introduces those principals of geostatistics used in evaluating grade distribution in orebodies from drillhole data. Basic concepts of spatial distributions, sampling, distance weighted averages, and variograms are covered. Cases from practice will be employed to illustrate concepts. Use of commercially available software to carry out geostatistical calculations and graphical representation will be made. Utilizing these techniques, students will develop a block model of ore grade distribution for an orebody and then apply this model to a mine pre-feasibility study in a subsequent course.",
-        "number": "467",
-        "subject": "MINE",
+        "description": "This course introduces those principals of geostatistics used in evaluating grade distribution in orebodies from drillhole data. Basic concepts of spatial distributions, sampling, distance weighted averages, and variograms are covered. Cases from practice will be employed to illustrate concepts. Use of commercially available software to carry out geostatistical calculations and graphical representation will be made. Utilizing these techniques, students will develop a block model of ore grade distribution for an orebody and then apply this model to a mine pre-feasibility study in a subsequent course.", 
+        "number": "467", 
+        "subject": "MINE", 
         "title": "Geostatistics and Orebody Modelling"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 24,
-            "Eng Sci": 14,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 14, 
             "Math": 16
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Mine 326 or permission of the instructor",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Mine 326 or permission of the instructor", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

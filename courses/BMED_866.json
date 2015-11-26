@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The objective of this course is to familiarize graduate students with the principles and practice of cutting edge technologies for bioinformatics used in biomedical and molecular sciences research. (Weight= 1.0 credit unit)",
-        "number": "866",
-        "subject": "BMED",
+        "description": "The objective of this course is to familiarize graduate students with the principles and practice of cutting edge technologies for bioinformatics used in biomedical and molecular sciences research. (Weight= 1.0 credit unit)", 
+        "number": "866", 
+        "subject": "BMED", 
         "title": "Methods in bioinformatics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.00"
     }
 }

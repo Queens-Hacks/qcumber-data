@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Principles of protein biochemistry, enzymology, and protein engineering. Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling. \nNOTE\u00a0\u00a0\u00a0 Students lacking the prerequisites CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.\nLEARNING HOURS\u00a0\u00a0\u00a0 348 (72L;36Lb;240P)",
-        "number": "310A",
-        "subject": "BCHM",
+        "description": "Principles of protein biochemistry, enzymology, and protein engineering. Metabolism of carbohydrates, amino acids and lipids. Role of coenzymes. Generation and storage of metabolic energy. Principles of regulatory mechanisms, membrane structure and function, hormone action, and cellular signalling. \nNOTE\u00a0\u00a0\u00a0 Students lacking the prerequisites CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.\nLEARNING HOURS\u00a0\u00a0\u00a0 348 (72L;36Lb;240P)", 
+        "number": "310A", 
+        "subject": "BCHM", 
         "title": "General Biochemistry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0 Level 3 or above and (BCHM218 or MBIO218) & [(CHEM222 &223) or CHEM282]\nExclusion: no more than 1crse fr BCHM310; BCHM315; \nExclusion: no more than 1crse fr BCHM310; BCHM316; \nExclusion: no more than 1crse fr BCHM310; BCHM102;",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0 Level 3 or above and (BCHM218 or MBIO218) & [(CHEM222 &223) or CHEM282]\nExclusion: no more than 1crse fr BCHM310; BCHM315; \nExclusion: no more than 1crse fr BCHM310; BCHM316; \nExclusion: no more than 1crse fr BCHM310; BCHM102;", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

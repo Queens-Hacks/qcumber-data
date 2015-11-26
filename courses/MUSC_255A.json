@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Basic techniques of electroacoustic music composition, including recording, sound editing, synthesis, MIDI, sequencers and synthesizer voicing. Emphasis is also placed on the history and aesthetics of electroacoustic music through listening, discussion and analysis.\nRECOMMENDATION\u00a0\u00a0\u00a0 Experience in music composition is encouraged but not a prerequisite.",
-        "number": "255A",
-        "subject": "MUSC",
+        "description": "Basic techniques of electroacoustic music composition, including recording, sound editing, synthesis, MIDI, sequencers and synthesizer voicing. Emphasis is also placed on the history and aesthetics of electroacoustic music through listening, discussion and analysis.\nRECOMMENDATION\u00a0\u00a0\u00a0 Experience in music composition is encouraged but not a prerequisite.", 
+        "number": "255A", 
+        "subject": "MUSC", 
         "title": "Electroacoustic Music Composition"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

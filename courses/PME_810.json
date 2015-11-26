@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "This course will enable students to inquire into the interconnected structures of planning, instruction, and assessment through an understanding of curricular frameworks. Students will understand the complexities of their intended work environments and apply that understanding to analyze planning, instruction, and assessment to a specific context of practice. Offered jointly with GDPI- 810*. EXCLUSION: GDPI-810*",
-        "number": "810",
-        "subject": "PME",
+        "description": "This course will enable students to inquire into the interconnected structures of planning, instruction, and assessment through an understanding of curricular frameworks. Students will understand the complexities of their intended work environments and apply that understanding to analyze planning, instruction, and assessment to a specific context of practice. Offered jointly with GDPI- 810*. EXCLUSION: GDPI-810*", 
+        "number": "810", 
+        "subject": "PME", 
         "title": "Integrated Planning, Instruction, and Assessment"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Restricted to PME", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

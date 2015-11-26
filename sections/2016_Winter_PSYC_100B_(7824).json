@@ -1,35 +1,35 @@
 {
-    "_unique": "069-LEC (7824)",
+    "_unique": "069-LEC (7824)", 
     "availability": {
-        "class_curr": 36,
-        "class_max": 60,
-        "wait_curr": 0,
+        "class_curr": 47, 
+        "class_max": 60, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "069",
-        "course": "100B",
-        "season": "Winter",
-        "solus_id": "7824",
-        "status": "Open",
-        "subject": "PSYC",
-        "type": "LEC",
+        "class_num": "069", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "7824", 
+        "status": "Open", 
+        "subject": "PSYC", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
-            "instructors": [],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2016-04-01",
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Bader International Study Ctr",
-        "location": "East Sussex, UK",
+        "campus": "Bader International Study Ctr", 
+        "location": "East Sussex, UK", 
         "session": "Regular Academic Session"
     }
 }

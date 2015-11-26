@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "The thesis is optional and counts as one course toward an honours concentration in Political Studies. The thesis subject must be selected at the end of the penultimate year after consultation with members of the Department, and the thesis must be submitted by 31 March of the final year. The student must pay a modest fee for the binding of the departmental copy.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (15I;225P)",
-        "number": "590A",
-        "subject": "POLS",
+        "description": "The thesis is optional and counts as one course toward an honours concentration in Political Studies. The thesis subject must be selected at the end of the penultimate year after consultation with members of the Department, and the thesis must be submitted by 31 March of the final year. The student must pay a modest fee for the binding of the departmental copy.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (15I;225P)", 
+        "number": "590A", 
+        "subject": "POLS", 
         "title": "Thesis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Thesis Research": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 4 and (reg in a POLS Major or Medial Plan) and POLS250 and (a GPA of 2.5 on all units in POLS).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Level 4 and (reg in a POLS Major or Medial Plan) and POLS250 and (a GPA of 2.5 on all units in POLS).", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

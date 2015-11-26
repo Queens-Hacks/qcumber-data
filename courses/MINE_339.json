@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Hydraulics of air flow through mine openings and ducts is studied, leading to mine ventilation design calculations and ventilation network analysis. Topics related to the design of mine ventilation systems include: statutory regulations and engineering design criteria, ventilation circuit design, natural ventilation, testing, application and selection of mine ventilation fans, auxiliary ventilation design, psychrometry, mine air heating and cooling, dust and fume control, and ventilation economics. Health hazards of mine gases, dust and radiation are reviewed, together with statutory requirements for air quality. Procedures for conducting air quantity and quality surveys are also taught.Ventilation Laboratory: Modern laboratory instruments are used to determine the characteristics of air hydraulics, to investigate fan selection procedures and to conduct mine circuit designs. Experiments are also performed to evaluate dust and fume contents of the air and to measure radon gas and daughter products. Air flow measuring techniques to determine air flow characteristics of mine openings are studied.",
-        "number": "339",
-        "subject": "MINE",
+        "description": "Hydraulics of air flow through mine openings and ducts is studied, leading to mine ventilation design calculations and ventilation network analysis. Topics related to the design of mine ventilation systems include: statutory regulations and engineering design criteria, ventilation circuit design, natural ventilation, testing, application and selection of mine ventilation fans, auxiliary ventilation design, psychrometry, mine air heating and cooling, dust and fume control, and ventilation economics. Health hazards of mine gases, dust and radiation are reviewed, together with statutory requirements for air quality. Procedures for conducting air quantity and quality surveys are also taught.Ventilation Laboratory: Modern laboratory instruments are used to determine the characteristics of air hydraulics, to investigate fan selection procedures and to conduct mine circuit designs. Experiments are also performed to evaluate dust and fume contents of the air and to measure radon gas and daughter products. Air flow measuring techniques to determine air flow characteristics of mine openings are studied.", 
+        "number": "339", 
+        "subject": "MINE", 
         "title": "Mine Ventilation"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 14,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 40,
+            "Basic Sci": 14, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 40, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites: MTHE225, MECH230 and registered in the BSCE program.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

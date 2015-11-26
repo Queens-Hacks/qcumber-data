@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "Educators plan and implement programs as a way to address the needs of students and their communities. These needs may be rooted in learning, recreation, behaviour, school culture and health and well-being to name a few. Typically, classroom and school based programs are spearheaded by individual champions or working groups. Their focus is typically on program activities and the challenge of implementation. Rarely do they have the time or resources to learn, in any systematic way, how their programs are working or how they might be improved. This is an issue especially when decisions have to be made about whether programs should be supported, expanded, continued or allowed to end.",
-        "number": "828",
-        "subject": "PME",
+        "description": "Educators plan and implement programs as a way to address the needs of students and their communities. These needs may be rooted in learning, recreation, behaviour, school culture and health and well-being to name a few. Typically, classroom and school based programs are spearheaded by individual champions or working groups. Their focus is typically on program activities and the challenge of implementation. Rarely do they have the time or resources to learn, in any systematic way, how their programs are working or how they might be improved. This is an issue especially when decisions have to be made about whether programs should be supported, expanded, continued or allowed to end.", 
+        "number": "828", 
+        "subject": "PME", 
         "title": "Conducting Quality Program Evaluations"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Restricted to PME", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

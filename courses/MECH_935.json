@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The objective of this course is to analyze numerical techniques for the simulation of turbulent flows. Emphasis will be placed on the understanding of the role of modeling and numerical errors, and on the development of \"best practices\" to validate and establish confidence in the numerical results. The course begins with a review of the governing equations for turbulent flows, of the role of turbulent eddies, and of the statistical quantities used to characterize turbulent flows. The important features of numerical methods will then be examined.An extensive review of the potential, requirements, achievements and limitations of direct simulation, large-eddy simulation and solution of the Reynolds-Averaged Navier-Stokes equations will form the core of the course. Time permitting, additional topics such as Lagrangian particle tracking, or applications to compressible flows will be covered. U. Piomelli.",
-        "number": "935",
-        "subject": "MECH",
+        "description": "The objective of this course is to analyze numerical techniques for the simulation of turbulent flows. Emphasis will be placed on the understanding of the role of modeling and numerical errors, and on the development of \"best practices\" to validate and establish confidence in the numerical results. The course begins with a review of the governing equations for turbulent flows, of the role of turbulent eddies, and of the statistical quantities used to characterize turbulent flows. The important features of numerical methods will then be examined.An extensive review of the potential, requirements, achievements and limitations of direct simulation, large-eddy simulation and solution of the Reynolds-Averaged Navier-Stokes equations will form the core of the course. Time permitting, additional topics such as Lagrangian particle tracking, or applications to compressible flows will be covered. U. Piomelli.", 
+        "number": "935", 
+        "subject": "MECH", 
         "title": "Turbulence Simulations"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

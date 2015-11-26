@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Independent study of an environmental topic by individuals or inter-disciplinary groups.\nNOTE\u00a0\u00a0\u00a0 This course is intended for a self-motivated student with an established record of undergraduate performance, i.e. cumulative GPA of approximately 3.0. It is the responsibility of the student to secure a supervisor prior to registering in the course.\nLEARNING HOURS\u00a0\u00a0\u00a0 228 (48I;180P)",
-        "number": "501A",
-        "subject": "ENSC",
+        "description": "Independent study of an environmental topic by individuals or inter-disciplinary groups.\nNOTE\u00a0\u00a0\u00a0 This course is intended for a self-motivated student with an established record of undergraduate performance, i.e. cumulative GPA of approximately 3.0. It is the responsibility of the student to secure a supervisor prior to registering in the course.\nLEARNING HOURS\u00a0\u00a0\u00a0 228 (48I;180P)", 
+        "number": "501A", 
+        "subject": "ENSC", 
         "title": "Independent Environmental Study"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "4th year standing",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "4th year standing", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

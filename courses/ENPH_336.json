@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course deals with the fundamental concepts of solid state materials and the principles of operation of modern electronic and optoelectronic devices. Topics in materials include crystal structure, energy bands, carrier processes and junctions. Topics in device operation include p-n junction diodes, bipolar junction transistors, field-effect junction transistors, metal-oxide-semiconductor field-effect transistors, and double heterojunction lasers.",
-        "number": "336",
-        "subject": "ENPH",
+        "description": "This course deals with the fundamental concepts of solid state materials and the principles of operation of modern electronic and optoelectronic devices. Topics in materials include crystal structure, energy bands, carrier processes and junctions. Topics in device operation include p-n junction diodes, bipolar junction transistors, field-effect junction transistors, metal-oxide-semiconductor field-effect transistors, and double heterojunction lasers.", 
+        "number": "336", 
+        "subject": "ENPH", 
         "title": "Solid State Devices"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 18,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 21,
+            "Basic Sci": 18, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 21, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: ELEC 352 and ELEC 280 or ENPH 239 or PHYS 231 and registered in BSCE.\r\nEXCLUSIONS: PHYS 335",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: ELEC 352 and ELEC 280 or ENPH 239 or PHYS 231 and registered in BSCE.\r\nEXCLUSIONS: PHYS 335", 
+        "grading_basis": "Graded", 
         "units": "3.25"
     }
 }

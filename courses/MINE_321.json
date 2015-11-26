@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course deals with the principles of commercial explosives technology and the application of blasting in mining and construction. The planning, design, economic considerations and trends of drilling and blasting practices in the different segments of the mining and construction industries are considered. Topics covered are detonation theory, performance and sensitivity of explosives, fragmentation prediction measurement and control, vibrations from blasting, air blast, damage and special blasting techniques used in perimeter blasting and blast design methods.",
-        "number": "321",
-        "subject": "MINE",
+        "description": "This course deals with the principles of commercial explosives technology and the application of blasting in mining and construction. The planning, design, economic considerations and trends of drilling and blasting practices in the different segments of the mining and construction industries are considered. Topics covered are detonation theory, performance and sensitivity of explosives, fragmentation prediction measurement and control, vibrations from blasting, air blast, damage and special blasting techniques used in perimeter blasting and blast design methods.", 
+        "number": "321", 
+        "subject": "MINE", 
         "title": "Drilling & Blasting"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 14,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 40,
+            "Basic Sci": 14, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 40, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: MTHE 367 or CHEE 209 and registered in the BSCE program", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

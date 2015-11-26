@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An introductory course in thermodynamics. Topics include: properties and behaviour of pure substances, concepts of heat, work and energy, the First and Second Laws of Thermodynamics, and the analysis of a variety of power and refrigeration cycles.",
-        "number": "230",
-        "subject": "MECH",
+        "description": "An introductory course in thermodynamics. Topics include: properties and behaviour of pure substances, concepts of heat, work and energy, the First and Second Laws of Thermodynamics, and the analysis of a variety of power and refrigeration cycles.", 
+        "number": "230", 
+        "subject": "MECH", 
         "title": "Applied Thermodynamics I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 30,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 12,
+            "Basic Sci": 30, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 12, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Must be registered in BSCE",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in BSCE", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

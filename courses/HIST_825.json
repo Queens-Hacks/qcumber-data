@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This seminar is designed to provide an advanced level introduction to the methodological field of Global, World, and Transnational History based on the study of global problems, processes, patterns or issues. The course will cover the major trends in historiography, examine the primary epistemological issues, and explore how commodities, people and the environment serve as interesting and important methodological avenues. This course will also engage with the foundational debates in the field, and consider its pragmatic and epistemological challenges.",
-        "number": "825",
-        "subject": "HIST",
+        "description": "This seminar is designed to provide an advanced level introduction to the methodological field of Global, World, and Transnational History based on the study of global problems, processes, patterns or issues. The course will cover the major trends in historiography, examine the primary epistemological issues, and explore how commodities, people and the environment serve as interesting and important methodological avenues. This course will also engage with the foundational debates in the field, and consider its pragmatic and epistemological challenges.", 
+        "number": "825", 
+        "subject": "HIST", 
         "title": "Global, World, and Transnational History"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

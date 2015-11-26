@@ -1,24 +1,25 @@
 {
     "basic": {
-        "description": "The theory and mathematical framework of transport phenomena are introduced. Mass, energy and momentum balances are developed using the integral and differential methods of analysis. The tools used to formulate and solve the problems include representation of physical entities in vector form, multivariable functions and vector operations in 2D and 3D. Specific topics of Chemical Engineering interest include moments of a force, work done by a force, moments of inertia, control surfaces and control volumes and fluid kinematics.",
-        "number": "224",
-        "subject": "CHEE",
+        "description": "The theory and mathematical framework of transport phenomena are introduced. Mass, energy and momentum balances are developed using the integral and differential methods of analysis. The tools used to formulate and solve the problems include representation of physical entities in vector form, multivariable functions and vector operations in 2D and 3D. Specific topics of Chemical Engineering interest include moments of a force, work done by a force, moments of inertia, control surfaces and control volumes and fluid kinematics.", 
+        "number": "224", 
+        "subject": "CHEE", 
         "title": "Transport Phenomena Fundamentals"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 18,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 18, 
             "Math": 18
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites: APSC171, APSC172, and registered in the BSCE program.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

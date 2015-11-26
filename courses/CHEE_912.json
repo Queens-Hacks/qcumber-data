@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This 6 week (3 hours/week) module will provide an overview on the latest developments, fabrication techniques, and principles of operation of contemporary micro- and nanotechnologies used in lab-on-chip (LOC) type platforms. Small-scale subunit operations required in LOC systems, equally relevant across several disciplines in both life sciences and engineering fields, will be covered in detail. The knowledge acquired in these topics will be used during the last part of the course to analyze the design of LOC-based systems in key applications in different areas including biosensing, biotechnology and emerging energy technologies.\u00a0 PREREQUISITE: CHEE-911, or permission of instructor (1.5 credit units)",
-        "number": "912",
-        "subject": "CHEE",
+        "description": "This 6 week (3 hours/week) module will provide an overview on the latest developments, fabrication techniques, and principles of operation of contemporary micro- and nanotechnologies used in lab-on-chip (LOC) type platforms. Small-scale subunit operations required in LOC systems, equally relevant across several disciplines in both life sciences and engineering fields, will be covered in detail. The knowledge acquired in these topics will be used during the last part of the course to analyze the design of LOC-based systems in key applications in different areas including biosensing, biotechnology and emerging energy technologies.\u00a0 PREREQUISITE: CHEE-911, or permission of instructor (1.5 credit units)", 
+        "number": "912", 
+        "subject": "CHEE", 
         "title": "Applied Lab-on-Chip Technologies"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

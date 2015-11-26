@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Basic methods involved in researching the distribution and determinants of health and disease in populations. Core measurement (rates, standardization, impact, association) and interpretation (bias, confounding, interaction, chance) issues are covered. The course also examines epidemiological approaches to study design including descriptive (cross-sectional and ecological), observational (case-control and cohort), and experimental (randomized controlled trials) approaches. \r\nNOTE\u00a0\u00a0\u00a0 Restricted to students in a HLTH, KINE, NURS or PHED Plan. Limited spaces are available to students in the LISC CRSS Specialization Plan.",
-        "number": "323",
-        "subject": "HLTH",
+        "description": "Basic methods involved in researching the distribution and determinants of health and disease in populations. Core measurement (rates, standardization, impact, association) and interpretation (bias, confounding, interaction, chance) issues are covered. The course also examines epidemiological approaches to study design including descriptive (cross-sectional and ecological), observational (case-control and cohort), and experimental (randomized controlled trials) approaches. \r\nNOTE\u00a0\u00a0\u00a0 Restricted to students in a HLTH, KINE, NURS or PHED Plan. Limited spaces are available to students in the LISC CRSS Specialization Plan.", 
+        "number": "323", 
+        "subject": "HLTH", 
         "title": "Epidemiology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (KNPE251 or NURS323 or PSYC202) and (GPHY 240/3.0 or HLTH 252/3.0 or PSYC 203/3.0 or SOCY 210).\nONE-WAY EXCLUSION\u00a0\u00a0\u00a0 May not be taken with or after: EPID 301/3.0",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQUISITE\u00a0\u00a0\u00a0 (KNPE251 or NURS323 or PSYC202) and (GPHY 240/3.0 or HLTH 252/3.0 or PSYC 203/3.0 or SOCY 210).\nONE-WAY EXCLUSION\u00a0\u00a0\u00a0 May not be taken with or after: EPID 301/3.0", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

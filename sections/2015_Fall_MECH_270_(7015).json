@@ -1,35 +1,35 @@
 {
-    "_unique": "003-LAB (7015)",
+    "_unique": "003-LAB (7015)", 
     "availability": {
-        "class_curr": 46,
-        "class_max": 48,
-        "wait_curr": 0,
+        "class_curr": 43, 
+        "class_max": 48, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "003",
-        "course": "270",
-        "season": "Fall",
-        "solus_id": "7015",
-        "status": "Open",
-        "subject": "MECH",
-        "type": "LAB",
+        "class_num": "003", 
+        "course": "270", 
+        "season": "Fall", 
+        "solus_id": "7015", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "LAB", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "16:30:00",
-            "instructors": [],
-            "location": "NICOL RM201",
-            "start_time": "14:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "NICOL RM201", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides an overview of advanced topics in computer design with a quantitative perspective. Topics include: instruction set design, pipelining, instruction-level parallelism, memory-hierarchy design, storage systems, and multiprocessors.",
-        "number": "470",
-        "subject": "ELEC",
+        "description": "This course provides an overview of advanced topics in computer design with a quantitative perspective. Topics include: instruction set design, pipelining, instruction-level parallelism, memory-hierarchy design, storage systems, and multiprocessors.", 
+        "number": "470", 
+        "subject": "ELEC", 
         "title": "Computer System Architecture"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 31,
-            "Eng Sci": 11,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 31, 
+            "Eng Sci": 11, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Exclusion: CISC441.\u00a0 Prerequisite of (ELEC371 and CISC231) or (ELEC371 and ELEC274) and registration in a BSCE Academic Program or an SODE-P-BCH Academic Plan.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusion: CISC441.\u00a0 Prerequisite of (ELEC371 and CISC231) or (ELEC371 and ELEC274) and registration in a BSCE Academic Program or an SODE-P-BCH Academic Plan.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

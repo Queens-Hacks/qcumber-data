@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course covers the following topics related to heat transfer by thermal radiation: fundamentals of thermal radiation, blackbody thermal radiation, radiative properties of real materials, surface to surface exchange of diffuse radiation, numerical solution of diffuse radiation problems, radiation with conduction and convection, radiation in absorbing, emitting and scattering media, gas volume radiation, surface-volume radiation selected applications.",
-        "number": "836",
-        "subject": "MECH",
+        "description": "This course covers the following topics related to heat transfer by thermal radiation: fundamentals of thermal radiation, blackbody thermal radiation, radiative properties of real materials, surface to surface exchange of diffuse radiation, numerical solution of diffuse radiation problems, radiation with conduction and convection, radiation in absorbing, emitting and scattering media, gas volume radiation, surface-volume radiation selected applications.", 
+        "number": "836", 
+        "subject": "MECH", 
         "title": "Radiative Heat Transfer"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Instructor Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Instructor Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

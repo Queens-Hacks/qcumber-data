@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The application of biological research to the conservation of biodiversity and natural resources, as well as the interaction of biology with philosophy, politics and economics in influencing conservation policy.\r\nNOTE\u00a0\u00a0 \u00a0A course fee to cover guest speakers and field trips of not more than $40.\r\nLEARNING HOURS\u00a0\u00a0 108 (36L;36T;36P)",
-        "number": "422",
-        "subject": "BIOL",
+        "description": "The application of biological research to the conservation of biodiversity and natural resources, as well as the interaction of biology with philosophy, politics and economics in influencing conservation policy.\r\nNOTE\u00a0\u00a0 \u00a0A course fee to cover guest speakers and field trips of not more than $40.\r\nLEARNING HOURS\u00a0\u00a0 108 (36L;36T;36P)", 
+        "number": "422", 
+        "subject": "BIOL", 
         "title": "Conservation Biology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 BIOL302 or BIOL303.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 BIOL302 or BIOL303.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

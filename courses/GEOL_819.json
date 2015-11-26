@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Rock classification and tectonic associations, petrochemistry, petro-genesis; the origin and differentiation of primary magmas, model studies of magmatic evolution. Phase diagrams of igneous minerals. Laboratory study of rock suites and special projects. (Offered jointly with GEOL-421.)",
-        "number": "819",
-        "subject": "GEOL",
+        "description": "Rock classification and tectonic associations, petrochemistry, petro-genesis; the origin and differentiation of primary magmas, model studies of magmatic evolution. Phase diagrams of igneous minerals. Laboratory study of rock suites and special projects. (Offered jointly with GEOL-421.)", 
+        "number": "819", 
+        "subject": "GEOL", 
         "title": "Igneous Petrology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

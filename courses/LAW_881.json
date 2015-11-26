@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This mandatory Graduate Seminar will develop the research and writing skills of students. Students will be required in this course to give presentations related to their Graduate Research Project in progress. (To be offered jointly with LAW-321.) Three term hours.",
-        "number": "881",
-        "subject": "LAW",
+        "description": "This mandatory Graduate Seminar will develop the research and writing skills of students. Students will be required in this course to give presentations related to their Graduate Research Project in progress. (To be offered jointly with LAW-321.) Three term hours.", 
+        "number": "881", 
+        "subject": "LAW", 
         "title": "Advanced Legal Research"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Principles of protein biochemistry, enzymology, and protein engineering.\nNOTE\u00a0 Students lacking the prerequisites CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12O;72P)",
-        "number": "315",
-        "subject": "BCHM",
+        "description": "Principles of protein biochemistry, enzymology, and protein engineering.\nNOTE\u00a0 Students lacking the prerequisites CHEM 222/3.0 or CHEM 282/3.0 may take these courses as a corequisite with permission of the Department.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12O;72P)", 
+        "number": "315", 
+        "subject": "BCHM", 
         "title": "Proteins and Enzymes"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 36,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 36, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Lvl 3 or above &(BCHM218 or MBIO218) &[(CHEM222 &CHEM223) or CHEM282].\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 crse from BCHM310; 315.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 crse from BCHM102; 315.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 Lvl 3 or above &(BCHM218 or MBIO218) &[(CHEM222 &CHEM223) or CHEM282].\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 crse from BCHM310; 315.\r\nExclusion\u00a0\u00a0\u00a0 No more than 1 crse from BCHM102; 315.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

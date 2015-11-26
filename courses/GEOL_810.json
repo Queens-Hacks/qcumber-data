@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Mechanisms of brittle and ductile deformation, strain, rheology, and deformation mechanisms applied to geological structures and rock fabrics, with an emphasis on microstructural development of fabrics, flow paths and vorticity analysis.\u00a0 Applications to problems in continental tectonics studies.\u00a0 (1.5 credit units).\u00a0 PREREQUISITE: Permission of the instructor EXCLUSION: GEOL 481,\u00a0 GEOL-816",
-        "number": "810",
-        "subject": "GEOL",
+        "description": "Mechanisms of brittle and ductile deformation, strain, rheology, and deformation mechanisms applied to geological structures and rock fabrics, with an emphasis on microstructural development of fabrics, flow paths and vorticity analysis.\u00a0 Applications to problems in continental tectonics studies.\u00a0 (1.5 credit units).\u00a0 PREREQUISITE: Permission of the instructor EXCLUSION: GEOL 481,\u00a0 GEOL-816", 
+        "number": "810", 
+        "subject": "GEOL", 
         "title": "Microtectonics and orogenic systems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.50"
     }
 }

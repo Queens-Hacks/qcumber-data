@@ -1,48 +1,48 @@
 {
-    "_unique": "001-LEC (4664)",
+    "_unique": "001-LEC (4664)", 
     "availability": {
-        "class_curr": 228,
-        "class_max": 247,
-        "wait_curr": 0,
+        "class_curr": 238, 
+        "class_max": 230, 
+        "wait_curr": 3, 
         "wait_max": 23
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "203",
-        "season": "Winter",
-        "solus_id": "4664",
-        "status": "Open",
-        "subject": "PSYC",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "203", 
+        "season": "Winter", 
+        "solus_id": "4664", 
+        "status": null, 
+        "subject": "PSYC", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "13:00:00",
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
             "instructors": [
                 "Wilson, Daryl"
-            ],
-            "location": "ELLIS AUD",
-            "start_time": "11:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "ELLIS AUD", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "14:30:00",
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Wilson, Daryl"
-            ],
-            "location": "ELLIS AUD",
-            "start_time": "13:00:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "ELLIS AUD", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

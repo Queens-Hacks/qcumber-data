@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides an introduction to modeling and analysis of the dynamics of mechatronic processes and computer control of such systems. Topics include modeling and simulation of mechanical, electrical, thermal, and fluid systems, sampled-data systems and equivalent discrete system, overview of Z-transform, dynamic response of second-order discrete systems, stability analysis and design of linear discrete-time control systems using root locus and frequency response methods. The modeling and controller design methods are implemented and tested using MATLAB/Simulink and laboratory experiments.",
-        "number": "444",
-        "subject": "ELEC",
+        "description": "This course provides an introduction to modeling and analysis of the dynamics of mechatronic processes and computer control of such systems. Topics include modeling and simulation of mechanical, electrical, thermal, and fluid systems, sampled-data systems and equivalent discrete system, overview of Z-transform, dynamic response of second-order discrete systems, stability analysis and design of linear discrete-time control systems using root locus and frequency response methods. The modeling and controller design methods are implemented and tested using MATLAB/Simulink and laboratory experiments.", 
+        "number": "444", 
+        "subject": "ELEC", 
         "title": "Modeling and Computer Control of Mechatronic Systems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 10,
-            "Eng Sci": 29,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 10, 
+            "Eng Sci": 29, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Pre-requisites for ELEC 444:\u00a0 ELEC 324 & ELEC 344 & ELEC 443",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Pre-requisites for ELEC 444:\u00a0 ELEC 324 & ELEC 344 & ELEC 443", 
+        "grading_basis": "Graded", 
         "units": "3.25"
     }
 }

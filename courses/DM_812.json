@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A course on Finite Element Analysis (FEA) as a productivity tool.\u00a0 Topics covered include FEA powers and shortcomings, avoiding common pitfalls and misconceptions, alternate and preferred modelling approaches, reliability of results, integrating FEA with other Computer Aided Design (CAD) tools and finally streamlining FEA and CAD with FEA oriented Solid Modelling practices.\u00a0(Lead Instructor: R. Buchal, Western Ontario)",
-        "number": "812",
-        "subject": "DM",
+        "description": "A course on Finite Element Analysis (FEA) as a productivity tool.\u00a0 Topics covered include FEA powers and shortcomings, avoiding common pitfalls and misconceptions, alternate and preferred modelling approaches, reliability of results, integrating FEA with other Computer Aided Design (CAD) tools and finally streamlining FEA and CAD with FEA oriented Solid Modelling practices.\u00a0(Lead Instructor: R. Buchal, Western Ontario)", 
+        "number": "812", 
+        "subject": "DM", 
         "title": "Finite Elmnt Analysis:Des. Eng"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

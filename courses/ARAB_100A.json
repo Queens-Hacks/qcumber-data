@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction to the basic structures of Modern Standard Arabic. This course gives intensive training equally in listening, speaking, reading, and writing.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)",
-        "number": "100A",
-        "subject": "ARAB",
+        "description": "Introduction to the basic structures of Modern Standard Arabic. This course gives intensive training equally in listening, speaking, reading, and writing.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)", 
+        "number": "100A", 
+        "subject": "ARAB", 
         "title": "Introductory Arabic (Modern Standard)"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Instructor Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Instructor Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

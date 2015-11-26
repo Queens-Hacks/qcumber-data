@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "",
-        "number": "664",
-        "subject": "THEO",
+        "description": "", 
+        "number": "664", 
+        "subject": "THEO", 
         "title": "Christian Social Ethics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be in a Theology Program: BTH, MDIV, MTS, UTHE, PMDIV, PBTH or GTHE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be in a Theology Program: BTH, MDIV, MTS, UTHE, PMDIV, PBTH or GTHE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

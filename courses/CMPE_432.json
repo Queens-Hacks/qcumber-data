@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics include the presentation and storage of data, implementation concerns, and the integration of databases with other areas of computer science.",
-        "number": "432",
-        "subject": "CMPE",
+        "description": "Topics include the presentation and storage of data, implementation concerns, and the integration of databases with other areas of computer science.", 
+        "number": "432", 
+        "subject": "CMPE", 
         "title": "Advanced Database Systems"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: CMPE 332 or CISC 332 and ELEC 276 or ELEC 278 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: CMPE 332 or CISC 332 and ELEC 276 or ELEC 278 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

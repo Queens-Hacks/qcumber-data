@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course emphasizes the neuro-physiological organization of motor behaviour, sensory-motor integration, and the dynamic nature of the central nervous system. This course will provide a foundation for evaluating occupational performance from perception to action. It will focus on evaluation and intervention approaches for cognitive-perceptual and motor control problems at three levels: impairment, strategy and function. Attention will be given to secondary motor performance problems.",
-        "number": "844",
-        "subject": "OT",
+        "description": "This course emphasizes the neuro-physiological organization of motor behaviour, sensory-motor integration, and the dynamic nature of the central nervous system. This course will provide a foundation for evaluating occupational performance from perception to action. It will focus on evaluation and intervention approaches for cognitive-perceptual and motor control problems at three levels: impairment, strategy and function. Attention will be given to secondary motor performance problems.", 
+        "number": "844", 
+        "subject": "OT", 
         "title": "Cognitive-Neuro Part I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

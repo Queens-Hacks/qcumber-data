@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides an overview of, and hands-on experience in, the numerical modelling of fluid flows. Finite volume, finite difference and finite elements methods are introduced. Students are expected to gain critical insight into the capabilities and limitations of fluid flow models by numerically simulating various engineering flows and by doing a term project. Topics include: comparison of numerical, experimental and analytical methods in fluid mechanics, numerical grids and their generation, flow equations and their discretization, solution techniques, turbulence modelling and data presentation. Features of commercial codes are critically reviewed.",
-        "number": "444",
-        "subject": "MECH",
+        "description": "This course provides an overview of, and hands-on experience in, the numerical modelling of fluid flows. Finite volume, finite difference and finite elements methods are introduced. Students are expected to gain critical insight into the capabilities and limitations of fluid flow models by numerically simulating various engineering flows and by doing a term project. Topics include: comparison of numerical, experimental and analytical methods in fluid mechanics, numerical grids and their generation, flow equations and their discretization, solution techniques, turbulence modelling and data presentation. Features of commercial codes are critically reviewed.", 
+        "number": "444", 
+        "subject": "MECH", 
         "title": "Computational Fluid Dynamics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 30,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 30, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MTHE 272 (MATH 272) or ENPH 213 (PHYS 213), MECH 341",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MTHE 272 (MATH 272) or ENPH 213 (PHYS 213), MECH 341", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

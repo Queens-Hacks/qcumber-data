@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Recent DSP topics including: bandpass sampling, oversampling A/D conversion, quantization noise modelling, multi-rate signal processing, filterbanks, quadrature mirror filters, applications to communications systems, speech and image compression; processing of discrete-time random signals.",
-        "number": "422",
-        "subject": "ELEC",
+        "description": "Recent DSP topics including: bandpass sampling, oversampling A/D conversion, quantization noise modelling, multi-rate signal processing, filterbanks, quadrature mirror filters, applications to communications systems, speech and image compression; processing of discrete-time random signals.", 
+        "number": "422", 
+        "subject": "ELEC", 
         "title": "Digital Signal Processing: Random Models and Applications"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 24,
-            "Eng Sci": 12,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 12, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite: (ELEC 323 and ELEC 324 and ELEC 326) or (MTHE 334 (MATH 334) and MTHE 335 (MATH 335) and MTHE 351)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: (ELEC 323 and ELEC 324 and ELEC 326) or (MTHE 334 (MATH 334) and MTHE 335 (MATH 335) and MTHE 351)", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

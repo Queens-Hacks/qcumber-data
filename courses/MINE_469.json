@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "Application of rock mechanics principles to mine design. Includes planning and execution of geotechnical investigation programs, empirical and analytical methods of stability analysis and support design. Numerical methods are introduced, with emphasis on how to choose among them for particular applications and how to evaluate results. Instrumentation programs are described. Methods are illustrated using case histories.",
-        "number": "469",
-        "subject": "MINE",
+        "description": "Application of rock mechanics principles to mine design. Includes planning and execution of geotechnical investigation programs, empirical and analytical methods of stability analysis and support design. Numerical methods are introduced, with emphasis on how to choose among them for particular applications and how to evaluate results. Instrumentation programs are described. Methods are illustrated using case histories.", 
+        "number": "469", 
+        "subject": "MINE", 
         "title": "Stability In Advanced Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 24,
-            "Eng Sci": 12,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 12, 
             "Math": 12
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of MINE325 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of MINE325 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

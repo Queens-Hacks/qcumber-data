@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An exploration of key topics in the history and interpretation of the medieval Crusades. The society and culture of the Latin kingdoms will be studied, as will the impact of the Crusades on the peoples of the eastern Mediterranean, both Muslim and Christian. (Offered jointly with HIST -430.)",
-        "number": "828B",
-        "subject": "HIST",
+        "description": "An exploration of key topics in the history and interpretation of the medieval Crusades. The society and culture of the Latin kingdoms will be studied, as will the impact of the Crusades on the peoples of the eastern Mediterranean, both Muslim and Christian. (Offered jointly with HIST -430.)", 
+        "number": "828B", 
+        "subject": "HIST", 
         "title": "Crusades And Latin Kingdoms"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

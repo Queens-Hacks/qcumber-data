@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Current topics of interest to civil engineering students, as well as other engineering and non-engineering students, will be presented. Staff",
-        "number": "895",
-        "subject": "CIVL",
+        "description": "Current topics of interest to civil engineering students, as well as other engineering and non-engineering students, will be presented. Staff", 
+        "number": "895", 
+        "subject": "CIVL", 
         "title": "Special Topics In Civil Engr."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

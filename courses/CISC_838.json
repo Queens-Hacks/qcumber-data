@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Designing and constructing large software system: requirements analysis, architectural design, detailed design and specification, implementation, test planning, delivery, evolution. Project and configuration management issues. This course includes a team project. Three term-hours; lectures and seminars.",
-        "number": "838",
-        "subject": "CISC",
+        "description": "Designing and constructing large software system: requirements analysis, architectural design, detailed design and specification, implementation, test planning, delivery, evolution. Project and configuration management issues. This course includes a team project. Three term-hours; lectures and seminars.", 
+        "number": "838", 
+        "subject": "CISC", 
         "title": "Software Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

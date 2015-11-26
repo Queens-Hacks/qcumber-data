@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course reviews the formulation, solution, and application of a range of probabilistic modelling techniques. Topics may include inventory models, queueing, simulation, decision analysis, Markov models, forecasting, and stochastic dynamic programming. (Crossed with MGMT-961*).",
-        "number": "861",
-        "subject": "MGMT",
+        "description": "This course reviews the formulation, solution, and application of a range of probabilistic modelling techniques. Topics may include inventory models, queueing, simulation, decision analysis, Markov models, forecasting, and stochastic dynamic programming. (Crossed with MGMT-961*).", 
+        "number": "861", 
+        "subject": "MGMT", 
         "title": "Probabilistic Operations Research Models"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Overview of advanced telecommunication networks and powering requirements: central office equipment, optical networks, Fiber-In-The-Loop systems, and hybrid fiber/coax networks. Powering alternatives: low frequency distribution, dc distribution and high frequency distribution. System modeling and simulation. Stability of the power system. Special emphasis will be placed on the design techniques using practical examples. Three term-hours, lectures.\u00a0 P. Jain",
-        "number": "836",
-        "subject": "ELEC",
+        "description": "Overview of advanced telecommunication networks and powering requirements: central office equipment, optical networks, Fiber-In-The-Loop systems, and hybrid fiber/coax networks. Powering alternatives: low frequency distribution, dc distribution and high frequency distribution. System modeling and simulation. Stability of the power system. Special emphasis will be placed on the design techniques using practical examples. Three term-hours, lectures.\u00a0 P. Jain", 
+        "number": "836", 
+        "subject": "ELEC", 
         "title": "Power Systems Design/Telecom."
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

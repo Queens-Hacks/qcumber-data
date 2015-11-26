@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Introduction to computer graphics, including a review of current hardware; modelling and transformations in two and three dimensions; visual realism: perspective, hidden surface elimination, and shading; colour models; applications in several fields.",
-        "number": "454",
-        "subject": "CMPE",
+        "description": "Introduction to computer graphics, including a review of current hardware; modelling and transformations in two and three dimensions; visual realism: perspective, hidden surface elimination, and shading; colour models; applications in several fields.", 
+        "number": "454", 
+        "subject": "CMPE", 
         "title": "Computer Graphics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 12,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: ELEC 276 or ELEC 278 and registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: ELEC 276 or ELEC 278 and registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

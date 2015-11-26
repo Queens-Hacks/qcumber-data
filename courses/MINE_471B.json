@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course involves a design project with emphasis on the mechanical aspects of mine or plant design and operation. Typical topics include mobile equipment, materials handling, automation, equipment redesign and systems integration.",
-        "number": "471B",
-        "subject": "MINE",
+        "description": "This course involves a design project with emphasis on the mechanical aspects of mine or plant design and operation. Typical topics include mobile equipment, materials handling, automation, equipment redesign and systems integration.", 
+        "number": "471B", 
+        "subject": "MINE", 
         "title": "Mine-Mechanical Design Project"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 18,
-            "Eng Des": 48,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 18, 
+            "Eng Des": 48, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Project": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "5.50"
     }
 }

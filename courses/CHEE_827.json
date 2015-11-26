@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A survey of optimization problems is made and mathematical procedures for their solutions are discussed. Comparisons of optimization techniques for various classes of problems are made using industrial examples and computer studies. Both linear and nonlinear programming methods are studied. Topics include the role of optimization, definitions of objective functions and constraints, conditions for existence of an optimum; one-dimensional strategies; analytical procedures for unconstrained and constrained multi-dimensional problems, numerical procedures for unconstrained and constrained multidimensional problems, introduction to multistage optimization. M. Guay",
-        "number": "827",
-        "subject": "CHEE",
+        "description": "A survey of optimization problems is made and mathematical procedures for their solutions are discussed. Comparisons of optimization techniques for various classes of problems are made using industrial examples and computer studies. Both linear and nonlinear programming methods are studied. Topics include the role of optimization, definitions of objective functions and constraints, conditions for existence of an optimum; one-dimensional strategies; analytical procedures for unconstrained and constrained multi-dimensional problems, numerical procedures for unconstrained and constrained multidimensional problems, introduction to multistage optimization. M. Guay", 
+        "number": "827", 
+        "subject": "CHEE", 
         "title": "System Optimization"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

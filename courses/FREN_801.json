@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The objective of this course is to develop students\u00bf reading skills in French so that they can fulfill language requirements for graduate work and successfully pursue their professional research interests.\u00a0 Although the course will involve some review of vocabulary (idioms, nuances and subtleties) and grammar, its primary focus will be on comprehension of a wide variety of texts in French through translation and group exercises.\u00a0 This is a non-credit course, graded on a Pass/Fail basis.",
-        "number": "801",
-        "subject": "FREN",
+        "description": "The objective of this course is to develop students\u00bf reading skills in French so that they can fulfill language requirements for graduate work and successfully pursue their professional research interests.\u00a0 Although the course will involve some review of vocabulary (idioms, nuances and subtleties) and grammar, its primary focus will be on comprehension of a wide variety of texts in French through translation and group exercises.\u00a0 This is a non-credit course, graded on a Pass/Fail basis.", 
+        "number": "801", 
+        "subject": "FREN", 
         "title": "Reading and Translation French Course for Graduate Students"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "3.00"
     }
 }

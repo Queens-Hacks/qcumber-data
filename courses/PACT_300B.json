@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This advanced activity course will reinforce skill acquisition, introduce skill variation, and develop technical and tactical theory components for the purpose of instruction up to the senior high school level. Students are required to complete two rotations of sporting activities, usually basketball and volleyball.",
-        "number": "300B",
-        "subject": "PACT",
+        "description": "This advanced activity course will reinforce skill acquisition, introduce skill variation, and develop technical and tactical theory components for the purpose of instruction up to the senior high school level. Students are required to complete two rotations of sporting activities, usually basketball and volleyball.", 
+        "number": "300B", 
+        "subject": "PACT", 
         "title": "Advanced Practicum"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

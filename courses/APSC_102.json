@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course introduces concepts of planning and designing\r\nexperiments determine or measure particular system characteristics.\r\nThe course content includes error analysis, data analysis and\r\nrepresentation in Excel, and the design of experimental investigation\r\nfor simple systems.",
-        "number": "102",
-        "subject": "APSC",
+        "description": "This course introduces concepts of planning and designing\r\nexperiments determine or measure particular system characteristics.\r\nThe course content includes error analysis, data analysis and\r\nrepresentation in Excel, and the design of experimental investigation\r\nfor simple systems.", 
+        "number": "102", 
+        "subject": "APSC", 
         "title": "Experimentation and measurement"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 16,
-            "Comp St": 4,
-            "Eng Des": 0,
-            "Eng Sci": 16,
+            "Basic Sci": 16, 
+            "Comp St": 4, 
+            "Eng Des": 0, 
+            "Eng Sci": 16, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "APSC 101& APSC 102 & APSC 103 Exclusions: APSC 100A & B, Permissions of the instructor or Assoc Dean",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "APSC 101& APSC 102 & APSC 103 Exclusions: APSC 100A & B, Permissions of the instructor or Assoc Dean", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

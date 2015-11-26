@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A course in applied statistics with topics to include: planning a survey, questionnaire design, concepts in sampling from a finite population, simple random sampling, stratified sampling, cluster and systematic sampling, introduction to multi-phase and multi-stage surveys, sampling with unequal probabilities, sampling with replacement, and design based estimation.\u00a0 (Offered\u00a0jointly with STAT-460*. ) Three term-hours, fall; lectures.\u00a0\u00a0\u00a0",
-        "number": "867",
-        "subject": "STAT",
+        "description": "A course in applied statistics with topics to include: planning a survey, questionnaire design, concepts in sampling from a finite population, simple random sampling, stratified sampling, cluster and systematic sampling, introduction to multi-phase and multi-stage surveys, sampling with unequal probabilities, sampling with replacement, and design based estimation.\u00a0 (Offered\u00a0jointly with STAT-460*. ) Three term-hours, fall; lectures.\u00a0\u00a0\u00a0", 
+        "number": "867", 
+        "subject": "STAT", 
         "title": "Survey Sampling"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,35 +1,35 @@
 {
-    "_unique": "215-TUT (6273)",
+    "_unique": "215-TUT (6273)", 
     "availability": {
-        "class_curr": 61,
-        "class_max": 54,
-        "wait_curr": 0,
+        "class_curr": 60, 
+        "class_max": 54, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "215",
-        "course": "171",
-        "season": "Fall",
-        "solus_id": "6273",
-        "status": "Closed",
-        "subject": "APSC",
-        "type": "TUT",
+        "class_num": "215", 
+        "course": "171", 
+        "season": "Fall", 
+        "solus_id": "6273", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "12:30:00",
-            "instructors": [],
-            "location": "JEFFERY RM234",
-            "start_time": "11:30:00",
-            "term_end": "2015-12-04",
-            "term_start": "2015-09-14"
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-21"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

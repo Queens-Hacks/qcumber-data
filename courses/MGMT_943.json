@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course extends Consumer Behaviour I by expanding upon the key theoretical perspectives within the discipline of consumer behavior introduced in that course, as well as introducing additional areas of behavioural research not covered in CB I. In both seminars, the focus is on the applicability of behavioral theories and methodologies in the pursuit of a well-developed understanding of the consumption process.(Crossed with MGMT-843*)",
-        "number": "943",
-        "subject": "MGMT",
+        "description": "This course extends Consumer Behaviour I by expanding upon the key theoretical perspectives within the discipline of consumer behavior introduced in that course, as well as introducing additional areas of behavioural research not covered in CB I. In both seminars, the focus is on the applicability of behavioral theories and methodologies in the pursuit of a well-developed understanding of the consumption process.(Crossed with MGMT-843*)", 
+        "number": "943", 
+        "subject": "MGMT", 
         "title": "Consumer Behaviour II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

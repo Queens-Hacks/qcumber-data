@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course surveys the acquisition and preparation of data for basic statistical analyses and presentation.\u00a0 We survey both conventional and unconventional data sources including organized databases, online data capture, and point-of-sale data acquisition, and highlight challenges that each source can present.\u00a0 The hazards of `data-fishing\u00bf will be emphasized \u00bf a particular theme will be maintaining focus in data collection towards a specific problem requiring solution.\u00a0 Topics will include formal and informal measurement methods, surveys, data screening and correction, and data summarization and presentation methods, followed by a review of statistical inference and regression modeling.\u00a0 Parametric and non-parametric remedial measures for missing and censored data will also be studied.",
-        "number": "860",
-        "subject": "MMA",
+        "description": "This course surveys the acquisition and preparation of data for basic statistical analyses and presentation.\u00a0 We survey both conventional and unconventional data sources including organized databases, online data capture, and point-of-sale data acquisition, and highlight challenges that each source can present.\u00a0 The hazards of `data-fishing\u00bf will be emphasized \u00bf a particular theme will be maintaining focus in data collection towards a specific problem requiring solution.\u00a0 Topics will include formal and informal measurement methods, surveys, data screening and correction, and data summarization and presentation methods, followed by a review of statistical inference and regression modeling.\u00a0 Parametric and non-parametric remedial measures for missing and censored data will also be studied.", 
+        "number": "860", 
+        "subject": "MMA", 
         "title": "Acquisition and Analysis of Data"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

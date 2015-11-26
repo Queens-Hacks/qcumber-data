@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Selected topics in microeconomic policy. Topics may include: climate change, health economics, national security (defense economics), globalization and/or regional development, and demographic change. Students are directed to the undergraduate website for a detailed description.\nLEARNING HOURS\u00a0\u00a0 120 (36L;18G;66P)",
-        "number": "443",
-        "subject": "ECON",
+        "description": "Selected topics in microeconomic policy. Topics may include: climate change, health economics, national security (defense economics), globalization and/or regional development, and demographic change. Students are directed to the undergraduate website for a detailed description.\nLEARNING HOURS\u00a0\u00a0 120 (36L;18G;66P)", 
+        "number": "443", 
+        "subject": "ECON", 
         "title": "Issues in Microeconomic Policy"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "ECON310",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "ECON310", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

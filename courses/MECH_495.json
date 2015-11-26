@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides an overview of ergonomic problems that are addressed in engineering design; including biomechanical, physical and physiological issues. Case studies will range from the design of vehicle cockpits to process control rooms, from industrial manual materials handling tasks to human directed robots, and from domestic tools to biomechanical devices.",
-        "number": "495",
-        "subject": "MECH",
+        "description": "This course provides an overview of ergonomic problems that are addressed in engineering design; including biomechanical, physical and physiological issues. Case studies will range from the design of vehicle cockpits to process control rooms, from industrial manual materials handling tasks to human directed robots, and from domestic tools to biomechanical devices.", 
+        "number": "495", 
+        "subject": "MECH", 
         "title": "Ergonomics And Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 42,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 42, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MECH 323 or permission of the instructor. Must be registered in BSCE",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: MECH 323 or permission of the instructor. Must be registered in BSCE", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

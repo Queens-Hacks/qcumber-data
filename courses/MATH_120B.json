@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "For students intending a medial or major concentration in Mathematics or Statistics. The basic concepts in calculus - limit, continuity, the fundamental theorem - as well as its development as a tool are studied. \nNOTE\u00a0\u00a0\u00a0 For students intending to pursue a MATH or STAT plan. MATH 121/6.0 and MATH 126/6.0 cover approximately the same topics in calculus with different emphases.\nLEARNING HOURS\u00a0\u00a0\u00a0 288 (72L;24T;192P)\nRECOMMENDATION\u00a0\u00a0\u00a0 MHF4U and MCV4U, or 4U AFIC, or permission of the Department.",
-        "number": "120B",
-        "subject": "MATH",
+        "description": "For students intending a medial or major concentration in Mathematics or Statistics. The basic concepts in calculus - limit, continuity, the fundamental theorem - as well as its development as a tool are studied. \nNOTE\u00a0\u00a0\u00a0 For students intending to pursue a MATH or STAT plan. MATH 121/6.0 and MATH 126/6.0 cover approximately the same topics in calculus with different emphases.\nLEARNING HOURS\u00a0\u00a0\u00a0 288 (72L;24T;192P)\nRECOMMENDATION\u00a0\u00a0\u00a0 MHF4U and MCV4U, or 4U AFIC, or permission of the Department.", 
+        "number": "120B", 
+        "subject": "MATH", 
         "title": "Diff. & Integral Calculus"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 MHF4U and MCV4U or 4U AFIC, or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from MATH120; MATH121; MATH122; MATH123; MATH124; MATH126.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Recommendation\u00a0\u00a0\u00a0 MHF4U and MCV4U or 4U AFIC, or permission of the Department.\r\nExclusion\u00a0\u00a0\u00a0 No more than 6.0 units from MATH120; MATH121; MATH122; MATH123; MATH124; MATH126.", 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

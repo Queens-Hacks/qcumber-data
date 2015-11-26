@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "",
-        "number": "702",
-        "subject": "THEO",
+        "description": "", 
+        "number": "702", 
+        "subject": "THEO", 
         "title": "Supervised Prac/Rural Ministry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Field Studies": "Required"
-        },
-        "enrollment_requirement": "Must be in a Theology Program: BTH, MDIV, MTS, UTHE, PMDIV, PBTH or GTHE.",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "enrollment_requirement": "Must be in a Theology Program: BTH, MDIV, MTS, UTHE, PMDIV, PBTH or GTHE.", 
+        "grading_basis": "Pass/Fail", 
         "units": "6.00"
     }
 }

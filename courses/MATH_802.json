@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Enumerative combinatorics is concerned with counting the number of elements of a finite set. The techniques covered include inclusion-exclusion, bijective proofs, double-counting arguments, recurrence relations, and generating functions. (Offered jointly with MATH-402).",
-        "number": "802",
-        "subject": "MATH",
+        "description": "Enumerative combinatorics is concerned with counting the number of elements of a finite set. The techniques covered include inclusion-exclusion, bijective proofs, double-counting arguments, recurrence relations, and generating functions. (Offered jointly with MATH-402).", 
+        "number": "802", 
+        "subject": "MATH", 
         "title": "Enumerative Combinatorics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

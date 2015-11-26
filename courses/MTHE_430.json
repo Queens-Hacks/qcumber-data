@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "This course covers core topics in modern control theory: Linearization, existence and uniqueness of trajectories for nonlinear and linear systems, the transition matrix, controllability, observability, minimal realizations, feedback stabilization, linear state observers, optimal control theory, the linear quadratic regulator, dynamic programming.",
-        "number": "430",
-        "subject": "MTHE",
+        "description": "This course covers core topics in modern control theory: Linearization, existence and uniqueness of trajectories for nonlinear and linear systems, the transition matrix, controllability, observability, minimal realizations, feedback stabilization, linear state observers, optimal control theory, the linear quadratic regulator, dynamic programming.", 
+        "number": "430", 
+        "subject": "MTHE", 
         "title": "Modern Control Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 20,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 20, 
             "Math": 28
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "PREREQ: MTHE 237 or MATH 237 and MTHE 312 or MATH 312 and MTHE 326 or MATH 326 and MTHE 332 or MATH 332, or permission of the instructor. Must be registered in BSCE.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: MTHE 237 (MATH 237), MTHE 212 (MATH 212) or MTHE 312 (MATH 312), MTHE 326 (MATH 326), MTHE 332 (MATH 332), or permission of the instructor. Must be registered in BSCE.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

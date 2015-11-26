@@ -1,35 +1,35 @@
 {
-    "_unique": "012-TUT (6787)",
+    "_unique": "012-TUT (6787)", 
     "availability": {
-        "class_curr": 48,
-        "class_max": 120,
-        "wait_curr": 0,
+        "class_curr": 50, 
+        "class_max": 120, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "012",
-        "course": "121A",
-        "season": "Fall",
-        "solus_id": "6787",
-        "status": "Open",
-        "subject": "MATH",
-        "type": "TUT",
+        "class_num": "012", 
+        "course": "121A", 
+        "season": "Fall", 
+        "solus_id": "6787", 
+        "status": "Open", 
+        "subject": "MATH", 
+        "type": "TUT", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "18:30:00",
-            "instructors": [],
-            "location": "JEFFERY RM225",
-            "start_time": "17:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 3, 
+            "end_time": "18:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM225", 
+            "start_time": "17:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course is provided for those students who have an interest in deepening their knowledge through independent study in a particular specialized area not available in the regular course offerings. This advanced study will be conducted under the supervision of, and in active consultation with, an appropriate faculty member of the School. Periodic reporting, written assignments, and oral examinations normally will be part of the learning experience. Students wishing to enrol in this elective should have high academic standing in at least three courses in the general area of this specialization, and must submit their study proposal in writing to the Commerce Program Director. Students may apply for this option only once, and only after completing either the third year or 16 full-course credits.",
-        "number": "501",
-        "subject": "COMM",
-        "title": "Dir Independant Studies In Bus"
-    },
+        "description": "This course is provided for those students who have an interest in deepening their knowledge through independent study in a particular specialized area not available in the regular course offerings. This advanced study will be conducted under the supervision of, and in active consultation with, an appropriate faculty member of the School. Periodic reporting, written assignments, and oral examinations normally will be part of the learning experience. Students wishing to enrol in this elective should have high academic standing in at least three courses in the general area of this specialization, and must submit their study proposal in writing to the Commerce Program Director. Students may apply for this option only once, and only after completing either the third year or 16 full-course credits.", 
+        "number": "501", 
+        "subject": "COMM", 
+        "title": "Dir Independent Studies In Bus"
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "enrollment_requirement": "Exclusion: COMM501, 502, 503 2-way Exclusion\r\nMust be registered in a BCOM Academic Program and have a level > or equal to 4; or registered in COMM-X.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusion: COMM501, 502, 503 2-way Exclusion\r\nMust be registered in a BCOM Academic Program and have a level > or equal to 4; or registered in COMM-X.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

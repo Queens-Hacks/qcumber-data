@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This preceptored course provides an opportunity to select, in collaboration with faculty, a practice setting which enhances and consolidates knowledge and skills. The practicum includes a leadership/management experience, the form and timing of which is determined by the setting selected. Emphasis on advancing professional identity and accountability and strengthening evidence-based and reflective practice. Furthering skills in critical thinking, the nursing process, workload organization, setting priorities for self and others, working effectively with the health team including family and un-regulated health care providers. The practicum includes a wide variety of clinical experiences including, public health, selected community-based agencies and hospital experiences.\u00a040 hours per week for 10 weeks; 38 units (9 credits)\u00a0course weight.",
-        "number": "492",
-        "subject": "NURS",
+        "description": "This preceptored course provides an opportunity to select, in collaboration with faculty, a practice setting which enhances and consolidates knowledge and skills. The practicum includes a leadership/management experience, the form and timing of which is determined by the setting selected. Emphasis on advancing professional identity and accountability and strengthening evidence-based and reflective practice. Furthering skills in critical thinking, the nursing process, workload organization, setting priorities for self and others, working effectively with the health team including family and un-regulated health care providers. The practicum includes a wide variety of clinical experiences including, public health, selected community-based agencies and hospital experiences.\u00a040 hours per week for 10 weeks; 38 units (9 credits)\u00a0course weight.", 
+        "number": "492", 
+        "subject": "NURS", 
         "title": "Integrated Practicum"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Practicum": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Pass/Fail",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
         "units": "9.00"
     }
 }

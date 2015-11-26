@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Specialized study of German literature and/or film in the 21<sup>st</sup> century, focusing on the detailed examination of a particular genre, theme, movement, literary form, or author, or some combination of these elements.",
-        "number": "903",
-        "subject": "GRMN",
+        "description": "Specialized study of German literature and/or film in the 21<sup>st</sup> century, focusing on the detailed examination of a particular genre, theme, movement, literary form, or author, or some combination of these elements.", 
+        "number": "903", 
+        "subject": "GRMN", 
         "title": "21st-Century Studies"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

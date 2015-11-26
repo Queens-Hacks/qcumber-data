@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Offers a basic level of Spanish understanding, speaking, reading and writing for students who have no knowledge of Spanish whatsoever.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)",
-        "number": "P10",
-        "subject": "SPAN",
+        "description": "Offers a basic level of Spanish understanding, speaking, reading and writing for students who have no knowledge of Spanish whatsoever.\r\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;84P)", 
+        "number": "P10", 
+        "subject": "SPAN", 
         "title": "Beginning Spanish I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "One-Way Exclusion\u00a0\u00a0\u00a0 May not be taken with or after SPAN101; SPAN112; SPAN201; SPAN204; SPAN205; SPAN301; SPAN302; SPAN303;SPAN304; SPAN401; SPAN402.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "One-Way Exclusion\u00a0\u00a0\u00a0 May not be taken with or after SPAN101; SPAN112; SPAN201; SPAN204; SPAN205; SPAN301; SPAN302; SPAN303;SPAN304; SPAN401; SPAN402.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

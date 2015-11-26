@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Metric spaces, topological spaces, compactness, completeness, contraction mappings, sequences and series of functions, uniform convergence, inverse and implicit function theorems.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;96P)",
-        "number": "328",
-        "subject": "MATH",
+        "description": "Metric spaces, topological spaces, compactness, completeness, contraction mappings, sequences and series of functions, uniform convergence, inverse and implicit function theorems.\nLEARNING HOURS\u00a0\u00a0\u00a0 132 (36L;96P)", 
+        "number": "328", 
+        "subject": "MATH", 
         "title": "Real Analysis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH281.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 MATH281.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

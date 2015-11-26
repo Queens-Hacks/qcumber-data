@@ -1,59 +1,59 @@
 {
-    "_unique": "103-LEC (8221)",
+    "_unique": "103-LEC (8221)", 
     "availability": {
-        "class_curr": 301,
-        "class_max": 289,
-        "wait_curr": 0,
+        "class_curr": 287, 
+        "class_max": 289, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "103",
-        "course": "151",
-        "season": "Fall",
-        "solus_id": "8221",
-        "status": "Closed",
-        "subject": "APSC",
-        "type": "LEC",
+        "class_num": "103", 
+        "course": "151", 
+        "season": "Fall", 
+        "solus_id": "8221", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "14:30:00",
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Hanes, John A"
-            ],
-            "location": "ETHERINGTON AUD",
-            "start_time": "13:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "ETHERINGTON AUD", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "15:30:00",
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
             "instructors": [
                 "Hanes, John A"
-            ],
-            "location": "ETHERINGTON AUD",
-            "start_time": "14:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "ETHERINGTON AUD", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "12:30:00",
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
             "instructors": [
                 "Hanes, John A"
-            ],
-            "location": "ETHERINGTON AUD",
-            "start_time": "11:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "ETHERINGTON AUD", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

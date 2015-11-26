@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A study of underground mining technology with special reference to economic optimization in both design and production. Conventional andup to date mining methods are reviewed. Developments and trends inmining methods are closely analyzed. Mine design is studied in relationto ore reserves, tonnage and grade distribution, equipment withemphasis on the growing importance of maintenance on undergroundmachinery and capacities of various production units. Development andproduction costs associated with mining are an inherent aspect of thiscourse. The problems and possibilities of existing and evolving miningtechniques are reviewed.",
-        "number": "244",
-        "subject": "MINE",
+        "description": "A study of underground mining technology with special reference to economic optimization in both design and production. Conventional andup to date mining methods are reviewed. Developments and trends inmining methods are closely analyzed. Mine design is studied in relationto ore reserves, tonnage and grade distribution, equipment withemphasis on the growing importance of maintenance on undergroundmachinery and capacities of various production units. Development andproduction costs associated with mining are an inherent aspect of thiscourse. The problems and possibilities of existing and evolving miningtechniques are reviewed.", 
+        "number": "244", 
+        "subject": "MINE", 
         "title": "Underground Mining"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 20,
-            "Eng Sci": 16,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 20, 
+            "Eng Sci": 16, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Must be registered in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites: MINE 201 and registered in the BSCE program", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

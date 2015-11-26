@@ -1,23 +1,24 @@
 {
     "basic": {
-        "description": "This course introduces new engineering students to Newtonian mechanics, including the concepts of work, energy, and momentum. A focus is given to problems that provide foundations for future technical courses in engineering. Finally, an introduction to simple electric circuits is given, and concepts such as voltage, current, and resistance are studied.",
-        "number": "P05",
-        "subject": "MNTC",
+        "description": "This course introduces new engineering students to Newtonian mechanics, including the concepts of work, energy, and momentum. A focus is given to problems that provide foundations for future technical courses in engineering. Finally, an introduction to simple electric circuits is given, and concepts such as voltage, current, and resistance are studied.", 
+        "number": "P05", 
+        "subject": "MNTC", 
         "title": "Foundational Physics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Online": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Must be registered in the BTECH Program", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "(Outdoor and Experiential Education candidates only) This two-part course is available only to teacher candidates registered in the OEE program track. Part 1 is a four-day field trip orienting candidates to methods and principles of adventure activities, environmental education and skill acquisition. Solos in wilderness settings may be included in Part 1. Part 2 is a three-week Practitioner's Workshop (two-week experiential internship and one-week intensive follow-up.) Participation in a traditional winter camping practicum as part of this workshop is possible for OEE candidates. Parts of both components occur in outdoor and off-campus settings.",
-        "number": "417",
-        "subject": "EDST",
+        "description": "(Outdoor and Experiential Education candidates only) This two-part course is available only to teacher candidates registered in the OEE program track. Part 1 is a four-day field trip orienting candidates to methods and principles of adventure activities, environmental education and skill acquisition. Solos in wilderness settings may be included in Part 1. Part 2 is a three-week Practitioner's Workshop (two-week experiential internship and one-week intensive follow-up.) Participation in a traditional winter camping practicum as part of this workshop is possible for OEE candidates. Parts of both components occur in outdoor and off-campus settings.", 
+        "number": "417", 
+        "subject": "EDST", 
         "title": "Educ'l Uses Of The Environment"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "OEE",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "OEE", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

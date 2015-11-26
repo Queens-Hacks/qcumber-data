@@ -1,27 +1,27 @@
 {
     "basic": {
-        "description": "This course provides an introduction to the complex Earth System (which encompasses the solid earth, hydrosphere, atmosphere, and biosphere), and our interactions with it. Using the Earth System as a framework, and coupled with the over-arching theme of sustainability, key concepts/issues relevant to engineers are dealt with, including: population demographics and resource usage; geopolitics; modeling of \"fuzzy\" systems; risk assessment and risk management; local- and global-scale impacts of engineering works on the government; short- and long-term natural and anthropogenic changes (including global warming); moral and ethical considerations.\u00a0",
-        "number": "151",
-        "subject": "APSC",
+        "description": "This course provides an introduction to the complex Earth System (which encompasses the solid earth, hydrosphere, atmosphere, and biosphere), and our interactions with it. Using the Earth System as a framework, and coupled with the over-arching theme of sustainability, key concepts/issues relevant to engineers are dealt with, including: population demographics and resource usage; geopolitics; modeling of \"fuzzy\" systems; risk assessment and risk management; local- and global-scale impacts of engineering works on the government; short- and long-term natural and anthropogenic changes (including global warming); moral and ethical considerations.\u00a0", 
+        "number": "151", 
+        "subject": "APSC", 
         "title": "Earth Systems And Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 24,
-            "Comp St": 12,
-            "Eng Des": 0,
-            "Eng Sci": 12,
+            "Basic Sci": 24, 
+            "Comp St": 12, 
+            "Eng Des": 0, 
+            "Eng Sci": 12, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "enrollment_requirement": "Must be registered in a BSCE or UENG program.",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Must be registered in a BSCE or UENG program.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

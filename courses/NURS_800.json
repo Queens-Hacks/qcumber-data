@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Statistical concepts build upon probability and statistical analysis concepts gained in undergraduate statistic courses. Introduction to hands-on data analysis and computation methods commonly used in nursing inquiry. Focus is on both descriptive and inferential statistics, with an emphasis on appropriate statistical selection, interpretation and reporting of analyses.",
-        "number": "800",
-        "subject": "NURS",
+        "description": "Statistical concepts build upon probability and statistical analysis concepts gained in undergraduate statistic courses. Introduction to hands-on data analysis and computation methods commonly used in nursing inquiry. Focus is on both descriptive and inferential statistics, with an emphasis on appropriate statistical selection, interpretation and reporting of analyses.", 
+        "number": "800", 
+        "subject": "NURS", 
         "title": "Intermediate Statistics and Analysis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,48 +1,48 @@
 {
-    "_unique": "001-LEC (7083)",
+    "_unique": "001-LEC (7083)", 
     "availability": {
-        "class_curr": 24,
-        "class_max": 22,
-        "wait_curr": 0,
+        "class_curr": 24, 
+        "class_max": 22, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "452",
-        "season": "Fall",
-        "solus_id": "7083",
-        "status": "Closed",
-        "subject": "MECH",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "452", 
+        "season": "Fall", 
+        "solus_id": "7083", 
+        "status": "Closed", 
+        "subject": "MECH", 
+        "type": "LEC", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "14:30:00",
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Surgenor, Brian W"
-            ],
-            "location": "NICOL RM232",
-            "start_time": "13:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "NICOL RM232", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "13:30:00",
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
             "instructors": [
                 "Surgenor, Brian W"
-            ],
-            "location": "NICOL RM232",
-            "start_time": "12:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "NICOL RM232", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

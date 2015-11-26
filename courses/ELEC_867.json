@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "Channel characterization and transmission impairments, performance evaluation, baseband pulse transmission, linear modulation, frequency and phase modulation, detection theory and system optimization, equalization, coded modulation. Three term-hours; lectures. P.J. McLane.\u00a0",
-        "number": "867",
-        "subject": "ELEC",
+        "description": "Channel characterization and transmission impairments, performance evaluation, baseband pulse transmission, linear modulation, frequency and phase modulation, detection theory and system optimization, equalization, coded modulation. Three term-hours; lectures. P.J. McLane.\u00a0", 
+        "number": "867", 
+        "subject": "ELEC", 
         "title": "Data Communication"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

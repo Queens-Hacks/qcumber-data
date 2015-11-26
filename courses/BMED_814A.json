@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "A course for new graduate students with backgrounds in other disciplines. The functions of organs, body systems, and the integration of functions in the whole body. Students evaluated by regularly scheduled tests and take-home exams. Three, 1-hour lectures. Fall and Winter. D. Van Vugt. (6.0 credit units) PREREQUISITE: Admission to the PHGY graduate program and permission of the instructor. EXCLUSION: PHGY-814",
-        "number": "814A",
-        "subject": "BMED",
+        "description": "A course for new graduate students with backgrounds in other disciplines. The functions of organs, body systems, and the integration of functions in the whole body. Students evaluated by regularly scheduled tests and take-home exams. Three, 1-hour lectures. Fall and Winter. D. Van Vugt. (6.0 credit units) PREREQUISITE: Admission to the PHGY graduate program and permission of the instructor. EXCLUSION: PHGY-814", 
+        "number": "814A", 
+        "subject": "BMED", 
         "title": "Mammalian Physiology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

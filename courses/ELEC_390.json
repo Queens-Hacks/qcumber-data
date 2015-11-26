@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course prepares the student for ELEC49x, the fourth-year capstone design project course. Students will practice engineering design in the context of one or two mini-projects relevant to Electrical and Computer Engineering. In the second half of the course, students will form project groups, each of which will formulate a project plan. The groups will execute their plans in ELEC 49X in the subsequent year (students going away on internship must join up to form groups that will continue when they return). Through an investigative, ranking and matching, and approval process, groups will be assigned a project from a list of proposed design projects. Each group then prepares a proposal document that describes their project and schedules its milestones for the coming academic year. The lecture material will be augmented by design exercises, project management, and discussions around social, environmental, economic, ethical and legal factors. Students are expected to integrate these factors with their projects and ELEC 49x proposal.",
-        "number": "390",
-        "subject": "ELEC",
+        "description": "This course prepares the student for ELEC49x, the fourth-year capstone design project course. Students will practice engineering design in the context of one or two mini-projects relevant to Electrical and Computer Engineering. In the second half of the course, students will form project groups, each of which will formulate a project plan. The groups will execute their plans in ELEC 49X in the subsequent year (students going away on internship must join up to form groups that will continue when they return). Through an investigative, ranking and matching, and approval process, groups will be assigned a project from a list of proposed design projects. Each group then prepares a proposal document that describes their project and schedules its milestones for the coming academic year. The lecture material will be augmented by design exercises, project management, and discussions around social, environmental, economic, ethical and legal factors. Students are expected to integrate these factors with their projects and ELEC 49x proposal.", 
+        "number": "390", 
+        "subject": "ELEC", 
         "title": "Elec & Computer Eng. Design"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 6,
-            "Eng Des": 21,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 6, 
+            "Eng Des": 21, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "(ELEC323 AND ELEC381) OR (ELEC323 AND ELEC371) OR (ELEC323 AND ELEC353) OR (ELEC371 AND ELEC377)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "(ELEC323 AND ELEC381) OR (ELEC323 AND ELEC371) OR (ELEC323 AND ELEC353) OR (ELEC371 AND ELEC377)", 
+        "grading_basis": "Graded", 
         "units": "2.25"
     }
 }

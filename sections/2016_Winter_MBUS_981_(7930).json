@@ -1,37 +1,37 @@
 {
-    "_unique": "001-LEC (7930)",
+    "_unique": "001-LEC (7930)", 
     "availability": {
-        "class_curr": 0,
-        "class_max": 90,
-        "wait_curr": 0,
+        "class_curr": 83, 
+        "class_max": 90, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "981",
-        "season": "Winter",
-        "solus_id": "7930",
-        "status": "Open",
-        "subject": "MBUS",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "981", 
+        "season": "Winter", 
+        "solus_id": "7930", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Murray, Elspeth J"
-            ],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2016-02-17",
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-02-17", 
             "term_start": "2016-02-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

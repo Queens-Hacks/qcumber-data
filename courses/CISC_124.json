@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction to object-oriented design, architecture, and programming. Use of packages, class libraries, and interfaces. Encapsulation and representational abstraction. Inheritance. Polymorphic programming. Exception handling. Iterators. Introduction to a class design notation. Applications in various areas.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)",
-        "number": "124",
-        "subject": "CISC",
+        "description": "Introduction to object-oriented design, architecture, and programming. Use of packages, class libraries, and interfaces. Encapsulation and representational abstraction. Inheritance. Polymorphic programming. Exception handling. Iterators. Introduction to a class design notation. Applications in various areas.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)", 
+        "number": "124", 
+        "subject": "CISC", 
         "title": "Introduction to Computing Science II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 CISC121 \r\nCorequisite\u00a0\u00a0 MATH111 or MATH121 or MATH122 or MATH110 or MATH112 or MATH120 or MATH123 or MATH124 or MATH126.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 CISC121 \r\nCorequisite\u00a0\u00a0 MATH111 or MATH121 or MATH122 or MATH110 or MATH112 or MATH120 or MATH123 or MATH124 or MATH126.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

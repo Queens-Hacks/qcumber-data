@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A study of Renaissance poetry and prose but excluding drama, with emphasis on the works of Sidney, Spenser, Shakespeare, Donne, and Milton. Such writers as More, Marlowe, Nashe, Jonson, and Bacon may be included.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)",
-        "number": "321B",
-        "subject": "ENGL",
+        "description": "A study of Renaissance poetry and prose but excluding drama, with emphasis on the works of Sidney, Spenser, Shakespeare, Donne, and Milton. Such writers as More, Marlowe, Nashe, Jonson, and Bacon may be included.\nLEARNING HOURS\u00a0\u00a0\u00a0 240 (72L;168P)", 
+        "number": "321B", 
+        "subject": "ENGL", 
         "title": "Renaissance Poetry and Prose"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

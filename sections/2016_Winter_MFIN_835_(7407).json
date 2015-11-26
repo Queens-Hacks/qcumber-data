@@ -1,37 +1,37 @@
 {
-    "_unique": "002-LEC (7407)",
+    "_unique": "002-LEC (7407)", 
     "availability": {
-        "class_curr": 47,
-        "class_max": 80,
-        "wait_curr": 0,
+        "class_curr": 44, 
+        "class_max": 80, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "002",
-        "course": "835",
-        "season": "Winter",
-        "solus_id": "7407",
-        "status": "Open",
-        "subject": "MFIN",
-        "type": "LEC",
+        "class_num": "002", 
+        "course": "835", 
+        "season": "Winter", 
+        "solus_id": "7407", 
+        "status": "Open", 
+        "subject": "MFIN", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": null,
-            "end_time": null,
+            "day_of_week": null, 
+            "end_time": null, 
             "instructors": [
                 "Young, Amelia"
-            ],
-            "location": "TBA",
-            "start_time": null,
-            "term_end": "2016-02-09",
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-02-09", 
             "term_start": "2015-12-11"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

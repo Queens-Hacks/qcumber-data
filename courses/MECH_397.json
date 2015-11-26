@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This is the second of two laboratory courses in the third year of the Materials Option of the Mechanical Engineering program.\u00a0 Lecture topics and course assignments are selected to provide the background required to undertake the laboratory work. Approximately half of the material is common with MECH 399.",
-        "number": "397",
-        "subject": "MECH",
+        "description": "This is the second of two laboratory courses in the third year of the Materials Option of the Mechanical Engineering program.\u00a0 Lecture topics and course assignments are selected to provide the background required to undertake the laboratory work. Approximately half of the material is common with MECH 399.", 
+        "number": "397", 
+        "subject": "MECH", 
         "title": "Mech And Material Eng Lab II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Exclusion: MECH399.\u00a0 Completion of 2nd year, a corequisite of MECH371 and registration in a BSCE Academic Plan.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusion: MECH399.\u00a0 Completion of 2nd year, a corequisite of MECH371 and registration in a BSCE Academic Plan.", 
+        "grading_basis": "Graded", 
         "units": "2.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides a comprehensive discourse of all aspects of underground mining. It is designed to provide engineers with full knowledge to develop strategic and tactical mine planning and to incorporate all aspects of underground mining, including method selection, design, planning, scheduling, development and production. Classification methodologies are introduced to permit selection of a mining method based on orebody characteristics. The program includes description and application of underground mining methods, equipment selection and basic requirements.\u00a0 Layout and design of underground mine development and production and related equipment requirements are presented. Support services, including ground control, ventilation, dewatering, backfill, compressed air are introduced.",
-        "number": "812",
-        "subject": "MINE",
+        "description": "This course provides a comprehensive discourse of all aspects of underground mining. It is designed to provide engineers with full knowledge to develop strategic and tactical mine planning and to incorporate all aspects of underground mining, including method selection, design, planning, scheduling, development and production. Classification methodologies are introduced to permit selection of a mining method based on orebody characteristics. The program includes description and application of underground mining methods, equipment selection and basic requirements.\u00a0 Layout and design of underground mine development and production and related equipment requirements are presented. Support services, including ground control, ventilation, dewatering, backfill, compressed air are introduced.", 
+        "number": "812", 
+        "subject": "MINE", 
         "title": "Underground Mining"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "An overview of theory and data including traditional structural ideas, encoding principles, storage mechanisms, and retrieval processes. Topics include information theory, recognition memory, decision processes, control mechanisms for serial report, and the representation of meaning and knowledge. Emphasis is on current data and models.",
-        "number": "305A",
-        "subject": "PSYC",
+        "description": "An overview of theory and data including traditional structural ideas, encoding principles, storage mechanisms, and retrieval processes. Topics include information theory, recognition memory, decision processes, control mechanisms for serial report, and the representation of meaning and knowledge. Emphasis is on current data and models.", 
+        "number": "305A", 
+        "subject": "PSYC", 
         "title": "Human Memory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture / Laboratory": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PSYC203 and (PSYC221 or PSYC220 or COGS200).",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PSYC203 and (PSYC221 or PSYC220 or COGS200).", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

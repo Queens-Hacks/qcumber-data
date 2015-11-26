@@ -1,37 +1,37 @@
 {
-    "_unique": "001-PRJ (6520)",
+    "_unique": "001-PRJ (6520)", 
     "availability": {
-        "class_curr": 51,
-        "class_max": 61,
-        "wait_curr": 0,
+        "class_curr": 51, 
+        "class_max": 61, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "446",
-        "season": "Fall",
-        "solus_id": "6520",
-        "status": "Open",
-        "subject": "GEOE",
-        "type": "PRJ",
+        "class_num": "001", 
+        "course": "446", 
+        "season": "Fall", 
+        "solus_id": "6520", 
+        "status": "Open", 
+        "subject": "GEOE", 
+        "type": "PRJ", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 5,
-            "end_time": "17:30:00",
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
             "instructors": [
                 "Hutchinson, Jean D"
-            ],
-            "location": "MILLER RM201",
-            "start_time": "14:30:00",
-            "term_end": "2015-12-04",
+            ], 
+            "location": "MILLER RM201", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

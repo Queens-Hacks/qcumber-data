@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduction to object\u00bforiented design, architecture, and programming. Use of packages, class libraries, and interfaces. Encapsulation and representational abstraction. Inheritance. Polymorphic programming.\r\nException handling. Iterators. Introduction to a class design notation. Applications in various areas.",
-        "number": "212",
-        "subject": "CMPE",
+        "description": "Introduction to object\u00bforiented design, architecture, and programming. Use of packages, class libraries, and interfaces. Encapsulation and representational abstraction. Inheritance. Polymorphic programming.\r\nException handling. Iterators. Introduction to a class design notation. Applications in various areas.", 
+        "number": "212", 
+        "subject": "CMPE", 
         "title": "Introduction to Computing Science II"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 22,
-            "Eng Sci": 26,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 22, 
+            "Eng Sci": 26, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "PREREQ: APSC 142 & ELEC278 and Exclusion of CISC124",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "PREREQ: APSC 142 & ELEC278 and Exclusion of CISC124", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

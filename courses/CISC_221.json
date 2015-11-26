@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The descriptive levels of computer architecture. Instruction-set architectures. Assembly Language. Data representation. Support for operating-system management and high-level languages. Input/output and interrupts. Designing for performance. Digital Logic.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 220/3.0.",
-        "number": "221",
-        "subject": "CISC",
+        "description": "The descriptive levels of computer architecture. Instruction-set architectures. Assembly Language. Data representation. Support for operating-system management and high-level languages. Input/output and interrupts. Designing for performance. Digital Logic.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;24Lb;60P)\nRECOMMENDATION\u00a0\u00a0\u00a0 CISC 220/3.0.", 
+        "number": "221", 
+        "subject": "CISC", 
         "title": "Computer Architecture"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 CISC124",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0\u00a0 CISC124", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

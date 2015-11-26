@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Oral presentation of research in Biology. Methods for the presentation and critical analysis of research seminars and posters, including preparation of graphical material and the use of microcomputers. This course will run bi-weekly for two terms/1.5 hours per lecture-seminar. Three term hours; fall. R.D. Montgomerie.",
-        "number": "821",
-        "subject": "BIOL",
+        "description": "Oral presentation of research in Biology. Methods for the presentation and critical analysis of research seminars and posters, including preparation of graphical material and the use of microcomputers. This course will run bi-weekly for two terms/1.5 hours per lecture-seminar. Three term hours; fall. R.D. Montgomerie.", 
+        "number": "821", 
+        "subject": "BIOL", 
         "title": "Communication In Biology"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

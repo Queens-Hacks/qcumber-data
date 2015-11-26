@@ -1,59 +1,59 @@
 {
-    "_unique": "001-LEC (2011)",
+    "_unique": "001-LEC (2011)", 
     "availability": {
-        "class_curr": 243,
-        "class_max": 400,
-        "wait_curr": 0,
+        "class_curr": 390, 
+        "class_max": 390, 
+        "wait_curr": 7, 
         "wait_max": 40
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "103",
-        "season": "Winter",
-        "solus_id": "2011",
-        "status": "Open",
-        "subject": "CLST",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "103", 
+        "season": "Winter", 
+        "solus_id": "2011", 
+        "status": null, 
+        "subject": "CLST", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 2,
-            "end_time": "13:30:00",
+            "day_of_week": 2, 
+            "end_time": "13:30:00", 
             "instructors": [
                 "Reeves, M. Barbara"
-            ],
-            "location": "DUNNING AUD",
-            "start_time": "12:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "DUNNING AUD", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 4,
-            "end_time": "12:30:00",
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
             "instructors": [
                 "Reeves, M. Barbara"
-            ],
-            "location": "DUNNING AUD",
-            "start_time": "11:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "DUNNING AUD", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 5,
-            "end_time": "14:30:00",
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
             "instructors": [
                 "Reeves, M. Barbara"
-            ],
-            "location": "DUNNING AUD",
-            "start_time": "13:30:00",
-            "term_end": "2016-04-01",
+            ], 
+            "location": "DUNNING AUD", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

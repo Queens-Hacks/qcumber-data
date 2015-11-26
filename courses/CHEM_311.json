@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Fundamental mechanistic concepts of organic reactions, structure-activity relationships, solvent effects and catalysis. Mechanistic aspects of substitution, addition, elimination and pericyclic reactions.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)",
-        "number": "311",
-        "subject": "CHEM",
+        "description": "Fundamental mechanistic concepts of organic reactions, structure-activity relationships, solvent effects and catalysis. Mechanistic aspects of substitution, addition, elimination and pericyclic reactions.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (36L;12T;72P)", 
+        "number": "311", 
+        "subject": "CHEM", 
         "title": "Mechanistic Organic Chemistry"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of CHEM223",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of CHEM223", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

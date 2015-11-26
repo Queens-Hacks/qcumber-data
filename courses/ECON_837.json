@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "A course covering the techniques and applications of cost-benefit analysis including project evaluation in the context of both developed and less-developed economies. Topics include: the welfare-economic foundations of cost-benefit analysis; investment decision rules; the choice of a social discount rate; risk and uncertainty; shadow pricing of inputs with and without distortions; and special problems of project evaluation. Other objectives such as income distribution and macro-economic goals are also considered. Offered jointly with ECON-437.",
-        "number": "837",
-        "subject": "ECON",
+        "description": "A course covering the techniques and applications of cost-benefit analysis including project evaluation in the context of both developed and less-developed economies. Topics include: the welfare-economic foundations of cost-benefit analysis; investment decision rules; the choice of a social discount rate; risk and uncertainty; shadow pricing of inputs with and without distortions; and special problems of project evaluation. Other objectives such as income distribution and macro-economic goals are also considered. Offered jointly with ECON-437.", 
+        "number": "837", 
+        "subject": "ECON", 
         "title": "Cost-Benefit Analysis"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

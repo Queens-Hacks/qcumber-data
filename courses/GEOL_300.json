@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An intensive two-week course taken immediately after final examinations in second year (see Sessional Dates). Teams of students use geological field methods as the basis for an assessment of overburden and bedrock for a specific outcome. A final report is presented and defended. \nNOTE\u00a0\u00a0 The cost of accommodation, transportation and food will be borne by the student. Please contact the Department for more information.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (120Oc)",
-        "number": "300",
-        "subject": "GEOL",
+        "description": "An intensive two-week course taken immediately after final examinations in second year (see Sessional Dates). Teams of students use geological field methods as the basis for an assessment of overburden and bedrock for a specific outcome. A final report is presented and defended. \nNOTE\u00a0\u00a0 The cost of accommodation, transportation and food will be borne by the student. Please contact the Department for more information.\nLEARNING HOURS\u00a0\u00a0\u00a0 120 (120Oc)", 
+        "number": "300", 
+        "subject": "GEOL", 
         "title": "Geological Field School"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Field Studies": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GEOL221 and GEOL235, or permission of the Department.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0 GEOL221 and GEOL235, or permission of the Department.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

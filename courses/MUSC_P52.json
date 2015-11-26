@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "An introduction to musical notation, ear-training and analysis for non-B.Mus. students. NOTE\u00a0\u00a0\u00a0 May not be taken by students at Level 4 or who hold the Royal Conservatory Grade II Rudiments with First-Class Honours standing.",
-        "number": "P52",
-        "subject": "MUSC",
+        "description": "An introduction to musical notation, ear-training and analysis for non-B.Mus. students. NOTE\u00a0\u00a0\u00a0 May not be taken by students at Level 4 or who hold the Royal Conservatory Grade II Rudiments with First-Class Honours standing.", 
+        "number": "P52", 
+        "subject": "MUSC", 
         "title": "Rudiments"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "enrollment_requirement": "ONE WAY EXCLUSION\u00a0 May not be taken with or after MUSC191",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "ONE WAY EXCLUSION\u00a0 May not be taken with or after MUSC191", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

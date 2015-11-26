@@ -1,44 +1,44 @@
 {
-    "_unique": "001-LEC (1007)",
+    "_unique": "001-LEC (1007)", 
     "availability": {
-        "class_curr": 48,
-        "class_max": 60,
-        "wait_curr": 0,
+        "class_curr": 48, 
+        "class_max": 60, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "001",
-        "course": "151",
-        "season": "Winter",
-        "solus_id": "1007",
-        "status": "Open",
-        "subject": "LAW",
-        "type": "LEC",
+        "class_num": "001", 
+        "course": "151", 
+        "season": "Winter", 
+        "solus_id": "1007", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
         "year": "2016"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 1,
-            "end_time": "16:30:00",
-            "instructors": [],
-            "location": "MACDONALD RM2",
-            "start_time": "14:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 1, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "MACDONALD RM2", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
-        },
+        }, 
         {
-            "day_of_week": 3,
-            "end_time": "16:30:00",
-            "instructors": [],
-            "location": "MACDONALD RM202",
-            "start_time": "14:30:00",
-            "term_end": "2016-04-01",
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "MACDONALD RM202", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Law Regular"
     }
 }

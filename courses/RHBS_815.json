@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This module course prepares students to design, implement and evaluate community based rehabilitation (CBR) initiatives for and with persons with disabilities globally. The historical development of CBR and its philosophical and theoretical underpinnings will be discussed, as will the current international development landscape.\u00a0 (NOTE 1.0 credit unit course.) PREREQUISITE: RHBS-810 or permission of the instructor \nEXCLUSIONS: RHBS-877*, RHBS-977*",
-        "number": "815",
-        "subject": "RHBS",
+        "description": "This module course prepares students to design, implement and evaluate community based rehabilitation (CBR) initiatives for and with persons with disabilities globally. The historical development of CBR and its philosophical and theoretical underpinnings will be discussed, as will the current international development landscape.\u00a0 (NOTE 1.0 credit unit course.) PREREQUISITE: RHBS-810 or permission of the instructor \nEXCLUSIONS: RHBS-877*, RHBS-977*", 
+        "number": "815", 
+        "subject": "RHBS", 
         "title": "Community Based Rehabilitation"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "1.00"
     }
 }

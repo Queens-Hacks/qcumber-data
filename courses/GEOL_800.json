@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course will consist of three, seminar-based sections, each worth 1/3 of 0.5 credits: \u00a0(1) Principles of scientific methodology in the Geosciences: will provide an overview of the scientific method and tools for effective scientific communication. Professional practice and ethical aspects will also be discussed. (2) Mathematical methods for Geosciences: will provide a foundation in numerical methods and mathematical analysis. Topics include spatial statistics, probability, linear regression, and an introduction to numerical modeling techniques. (3) Experimental/Analytical Techniques in Geosciences: will provide an overview of analytical techniques and equipment available to geoscientists. Intended as an introduction to more advanced methods modules, this last section will provide a fundamental knowledge of the theory and operation of instruments and techniques available to members of our department. .",
-        "number": "800",
-        "subject": "GEOL",
+        "description": "The course will consist of three, seminar-based sections, each worth 1/3 of 0.5 credits: \u00a0(1) Principles of scientific methodology in the Geosciences: will provide an overview of the scientific method and tools for effective scientific communication. Professional practice and ethical aspects will also be discussed. (2) Mathematical methods for Geosciences: will provide a foundation in numerical methods and mathematical analysis. Topics include spatial statistics, probability, linear regression, and an introduction to numerical modeling techniques. (3) Experimental/Analytical Techniques in Geosciences: will provide an overview of analytical techniques and equipment available to geoscientists. Intended as an introduction to more advanced methods modules, this last section will provide a fundamental knowledge of the theory and operation of instruments and techniques available to members of our department. .", 
+        "number": "800", 
+        "subject": "GEOL", 
         "title": "Foundations Of Geosciences"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

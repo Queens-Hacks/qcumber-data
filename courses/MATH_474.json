@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Topics include: information measures, entropy, mutual information, modeling of information sources, lossless data compression, block encoding, variable-length encoding, Kraft inequality, fundamentals of channel coding, channel capacity, rate-distortion theory, lossy data compression, rate-distortion theorem. Given jointly with MATH 874/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 140 (36L;104P)\nRECOMMENDATION\u00a0\u00a0\u00a0 STAT 353/3.0.",
-        "number": "474",
-        "subject": "MATH",
+        "description": "Topics include: information measures, entropy, mutual information, modeling of information sources, lossless data compression, block encoding, variable-length encoding, Kraft inequality, fundamentals of channel coding, channel capacity, rate-distortion theory, lossy data compression, rate-distortion theorem. Given jointly with MATH 874/3.0.\nLEARNING HOURS\u00a0\u00a0\u00a0 140 (36L;104P)\nRECOMMENDATION\u00a0\u00a0\u00a0 STAT 353/3.0.", 
+        "number": "474", 
+        "subject": "MATH", 
         "title": "Information Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 STAT 268 or STAT351",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 STAT 268 or STAT351", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

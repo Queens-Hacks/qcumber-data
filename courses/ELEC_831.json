@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Fundamentals of loss-less switching techniques: zero-voltage switching, zero-current switching. Resonant converters: series, parallel and series-parallel topologies; Soft-switching converters: natural and auxiliary commutation converter topologies; Control techniques: variable frequency, phase-shift and hybrid control. Applications to single-phase three-phase and multi-level converters. Special emphasis will be placed on the design techniques using practical examples. Three term-hours, lectures.P. Jain.",
-        "number": "831",
-        "subject": "ELEC",
+        "description": "Fundamentals of loss-less switching techniques: zero-voltage switching, zero-current switching. Resonant converters: series, parallel and series-parallel topologies; Soft-switching converters: natural and auxiliary commutation converter topologies; Control techniques: variable frequency, phase-shift and hybrid control. Applications to single-phase three-phase and multi-level converters. Special emphasis will be placed on the design techniques using practical examples. Three term-hours, lectures.P. Jain.", 
+        "number": "831", 
+        "subject": "ELEC", 
         "title": "Power Electronics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

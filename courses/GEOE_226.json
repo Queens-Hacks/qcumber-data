@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A study of geological materials and selected geological processes of concern to civil engineers. Topics include geologic structures, glacial deposits, groundwater, coastal processes and permafrost. (0/32/0/4/0)~ COURSE DELETED IN 2009/10 ~",
-        "number": "226",
-        "subject": "GEOE",
+        "description": "A study of geological materials and selected geological processes of concern to civil engineers. Topics include geologic structures, glacial deposits, groundwater, coastal processes and permafrost. (0/32/0/4/0)~ COURSE DELETED IN 2009/10 ~", 
+        "number": "226", 
+        "subject": "GEOE", 
         "title": "Geology For Civil Engineers"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 32,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 4,
+            "Basic Sci": 32, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 4, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

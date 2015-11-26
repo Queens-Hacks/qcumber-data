@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course will start with a description of the relevant anatomy, followed by the kinematics and kinetics of synovial joints and the spine. Methods of engineering analysis will include motion analysis and different types of modelling. Applications from industrial ergonomics and biomechanical engineering in areas such as low back pain and artificial joint replacement will be discussed. Three term-hours, lectures. G. Dumas.",
-        "number": "827",
-        "subject": "MECH",
+        "description": "This course will start with a description of the relevant anatomy, followed by the kinematics and kinetics of synovial joints and the spine. Methods of engineering analysis will include motion analysis and different types of modelling. Applications from industrial ergonomics and biomechanical engineering in areas such as low back pain and artificial joint replacement will be discussed. Three term-hours, lectures. G. Dumas.", 
+        "number": "827", 
+        "subject": "MECH", 
         "title": "Biomechanics Of Human Joints"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

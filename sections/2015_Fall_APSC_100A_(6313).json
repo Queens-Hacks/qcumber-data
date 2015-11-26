@@ -1,35 +1,35 @@
 {
-    "_unique": "222-STD (6313)",
+    "_unique": "222-STD (6313)", 
     "availability": {
-        "class_curr": 0,
-        "class_max": 37,
-        "wait_curr": 0,
+        "class_curr": 0, 
+        "class_max": 37, 
+        "wait_curr": 0, 
         "wait_max": 0
-    },
+    }, 
     "basic": {
-        "class_num": "222",
-        "course": "100A",
-        "season": "Fall",
-        "solus_id": "6313",
-        "status": "Open",
-        "subject": "APSC",
-        "type": "STD",
+        "class_num": "222", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "6313", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "STD", 
         "year": "2015"
-    },
+    }, 
     "classes": [
         {
-            "day_of_week": 3,
-            "end_time": "21:30:00",
-            "instructors": [],
-            "location": "BEAMISH-MUNRO RM213",
-            "start_time": "19:30:00",
-            "term_end": "2015-12-04",
+            "day_of_week": 3, 
+            "end_time": "21:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "19:30:00", 
+            "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ],
+    ], 
     "details": {
-        "campus": "Main",
-        "location": "Kingston (Main), ON",
+        "campus": "Main", 
+        "location": "Kingston (Main), ON", 
         "session": "Regular Academic Session"
     }
 }

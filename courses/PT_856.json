@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students will gain knowledge in the neuroanatomical and neurophysiological bases of motor performance across the lifepan. Students will be able to make links between pathology and clinical presentation for representative conditions that compromise neuromotor performance in children and adults. Students will gain knowledge and skills in assessment of sensory-motor status in children and adults. Lab component.",
-        "number": "856",
-        "subject": "PT",
+        "description": "Students will gain knowledge in the neuroanatomical and neurophysiological bases of motor performance across the lifepan. Students will be able to make links between pathology and clinical presentation for representative conditions that compromise neuromotor performance in children and adults. Students will gain knowledge and skills in assessment of sensory-motor status in children and adults. Lab component.", 
+        "number": "856", 
+        "subject": "PT", 
         "title": "Neuromotor Function I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

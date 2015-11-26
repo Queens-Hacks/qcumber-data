@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "The course will involve a critical review of the literature on a clearly-defined topic relevant to development, a synthesis of ideas, and a final thesis under the supervision of a faculty member. \r\nNOTE\u00a0\u00a0\u00a0 The student must pay a modest fee for the binding of the departmental copy. The estimated cost is $20.\r\nNOTE\u00a0\u00a0\u00a0 The student must identify a willing supervisor from DEVS or a cognate department and receive permission of the Department of Global Development Studies.",
-        "number": "501B",
-        "subject": "DEVS",
+        "description": "The course will involve a critical review of the literature on a clearly-defined topic relevant to development, a synthesis of ideas, and a final thesis under the supervision of a faculty member. \r\nNOTE\u00a0\u00a0\u00a0 The student must pay a modest fee for the binding of the departmental copy. The estimated cost is $20.\r\nNOTE\u00a0\u00a0\u00a0 The student must identify a willing supervisor from DEVS or a cognate department and receive permission of the Department of Global Development Studies.", 
+        "number": "501B", 
+        "subject": "DEVS", 
         "title": "Honours Thesis in Development Studies"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Undergraduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
         "course_components": {
             "Individual Study": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "6.00"
     }
 }

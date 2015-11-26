@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Engineering materials, material properties and characterization, modern steel manufacturing; ferrous alloys, structural carbon steels, special steels; structural aluminum, welding effects on metals, Portland cement concretes, morphology and properties, advanced engineering concretes, durability, pozzolans, admixtures, polymers and fibre reinforced polymers, mechanics and durability, selected additional topics, recent advances and applications. Laboratory experiments\r\nwill be used to strengthen lecture topics. A seminar project is usually undertaken in this course.",
-        "number": "833",
-        "subject": "CIVL",
+        "description": "Engineering materials, material properties and characterization, modern steel manufacturing; ferrous alloys, structural carbon steels, special steels; structural aluminum, welding effects on metals, Portland cement concretes, morphology and properties, advanced engineering concretes, durability, pozzolans, admixtures, polymers and fibre reinforced polymers, mechanics and durability, selected additional topics, recent advances and applications. Laboratory experiments\r\nwill be used to strengthen lecture topics. A seminar project is usually undertaken in this course.", 
+        "number": "833", 
+        "subject": "CIVL", 
         "title": "Advanced Materials for Civil Engineering"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

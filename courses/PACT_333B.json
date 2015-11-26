@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This activity-based course will afford students the opportunity to work with community physical activity programs for persons with disabilities and relate class theory from KNPE 333/3.0 Physical Activity for Persons with Disabilities to practical implementation. Students will also have a weekly laboratory component.\nNOTE\u00a0\u00a0\u00a0 Transportation and other costs (e.g. required Criminal Checks) are the responsibility of the student.\nLEARNING HOURS\u00a0\u00a0\u00a0 126 (18Lb;12Pc;36Oc;60P)",
-        "number": "333B",
-        "subject": "PACT",
+        "description": "This activity-based course will afford students the opportunity to work with community physical activity programs for persons with disabilities and relate class theory from KNPE 333/3.0 Physical Activity for Persons with Disabilities to practical implementation. Students will also have a weekly laboratory component.\nNOTE\u00a0\u00a0\u00a0 Transportation and other costs (e.g. required Criminal Checks) are the responsibility of the student.\nLEARNING HOURS\u00a0\u00a0\u00a0 126 (18Lb;12Pc;36Oc;60P)", 
+        "number": "333B", 
+        "subject": "PACT", 
         "title": "Practicum in Physical Activity for Persons with Disabilities"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Practicum": "Required"
-        },
-        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PACT237\r\nCorequisite\u00a0\u00a0\u00a0\u00a0 KNPE333.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0 PACT237\r\nCorequisite\u00a0\u00a0\u00a0\u00a0 KNPE333.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

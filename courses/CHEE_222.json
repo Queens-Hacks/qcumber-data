@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Time-varying operation of chemical and biochemical processes is introduced. Dynamic mathematical models are formulated using material and energy balances. Effects of operational and design parameters on steady-state and dynamic operations are investigated. Numerical techniques are introduced to solve systems of algebraic and differential equations. Numerical and symbolic computation tools are used to analyze dynamic and steady-state process behaviour.",
-        "number": "222",
-        "subject": "CHEE",
+        "description": "Time-varying operation of chemical and biochemical processes is introduced. Dynamic mathematical models are formulated using material and energy balances. Effects of operational and design parameters on steady-state and dynamic operations are investigated. Numerical techniques are introduced to solve systems of algebraic and differential equations. Numerical and symbolic computation tools are used to analyze dynamic and steady-state process behaviour.", 
+        "number": "222", 
+        "subject": "CHEE", 
         "title": "Process Dynamics & Num Methods"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 20,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 20, 
             "Math": 22
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "APSC142, CHEE221, MTHE225 (or MATH225) or permission of the department. Must be registered in BSCE academic program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "APSC142, CHEE221, MTHE225 (or MATH225) or permission of the department. Must be registered in BSCE academic program.", 
+        "grading_basis": "Graded", 
         "units": "3.50"
     }
 }

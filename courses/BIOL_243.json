@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Introduces descriptive and inferential statistics and data analysis strategies.\u00a0\u00a0 Topics include probability, correlation/regression, experimental design and analysis of variance.\u00a0\u00a0 Online learning and weekly laboratories provide practice in computation, interpretation and communication of statistical findings, and large class review sessions and individual drop in assistance ensure mastery.\u00a0\u00a0 Applications appropriate to different fields of study will be explored.\nNOTE\u00a0\u00a0\u00a0 Enrollment is limited.\u00a0Priority will be given to students registered in BIOL Major (Science); BIOL, BIMA, BIPS, EBIO Specialization (Science) Plans.\nRECOMMENDATION\u00a0\u00a0\u00a0 12U Functions and 12 U Calculus or equivalent high school background or MATH 006/3.0.",
-        "number": "243",
-        "subject": "BIOL",
+        "description": "Introduces descriptive and inferential statistics and data analysis strategies.\u00a0\u00a0 Topics include probability, correlation/regression, experimental design and analysis of variance.\u00a0\u00a0 Online learning and weekly laboratories provide practice in computation, interpretation and communication of statistical findings, and large class review sessions and individual drop in assistance ensure mastery.\u00a0\u00a0 Applications appropriate to different fields of study will be explored.\nNOTE\u00a0\u00a0\u00a0 Enrollment is limited.\u00a0Priority will be given to students registered in BIOL Major (Science); BIOL, BIMA, BIPS, EBIO Specialization (Science) Plans.\nRECOMMENDATION\u00a0\u00a0\u00a0 12U Functions and 12 U Calculus or equivalent high school background or MATH 006/3.0.", 
+        "number": "243", 
+        "subject": "BIOL", 
         "title": "Introduction to Statistics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Exclusion\u00a0 No more than 3.0 units from BIOL243; CHEE209; ECON250; GPHY247; KNPE251 (formerly PHED 251); NURS323; POLS385; PSYC202; SOCY211; STAT263; STAT267; STAT367; COMM162.\r\nOne-way Exclusion\u00a0\u00a0 May not be taken with or after STAT269.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Exclusion\u00a0 No more than 3.0 units from BIOL243; CHEE209; ECON250; GPHY247; KNPE251 (formerly PHED 251); NURS323; POLS385; PSYC202; SOCY211; STAT263; STAT267; STAT367; COMM162.\r\nOne-way Exclusion\u00a0\u00a0 May not be taken with or after STAT269.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

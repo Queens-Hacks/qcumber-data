@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "",
-        "number": "498",
-        "subject": "EDST",
+        "description": "", 
+        "number": "498", 
+        "subject": "EDST", 
         "title": "Write To Learn\u00a0 Learn To Write"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Honours/Pass/Fail",
+        }, 
+        "grading_basis": "Honours/Pass/Fail", 
         "units": "3.00"
     }
 }

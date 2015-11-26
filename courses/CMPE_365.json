@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Principles of design, analysis and implementation of efficient algorithms. Case studies from a variety of areas illustrate divide and conquer methods, the greedy approach, branch and bound algorithms and dynamic programming.",
-        "number": "365",
-        "subject": "CMPE",
+        "description": "Principles of design, analysis and implementation of efficient algorithms. Case studies from a variety of areas illustrate divide and conquer methods, the greedy approach, branch and bound algorithms and dynamic programming.", 
+        "number": "365", 
+        "subject": "CMPE", 
         "title": "Algorithms I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 24,
-            "Eng Sci": 24,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 24, 
+            "Eng Sci": 24, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "ELEC 276 or ELEC 278 and any discrete mathematics course and registered in BSCE. Contact department if discrete math. course is not listed.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "ELEC 276 or ELEC 278 and any discrete mathematics course and registered in BSCE. Contact department if discrete math. course is not listed.", 
+        "grading_basis": "Graded", 
         "units": "4.00"
     }
 }

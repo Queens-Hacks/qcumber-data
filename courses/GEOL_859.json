@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "A course in the use of analytical and computational mathematical techniques to solve a variety of problems in the earth sciences and geological engineering. Through the direct design and implementation of computer programs, the utility, significance and widespread applicability of numerical methods will be illustrated in the evaluation and solution of practical problems taken from environmental science, geology, geotechnique, and geophysics. Students will also be expected to complete a major term project in their field of interest.\u00a0\u00a0",
-        "number": "859",
-        "subject": "GEOL",
+        "description": "A course in the use of analytical and computational mathematical techniques to solve a variety of problems in the earth sciences and geological engineering. Through the direct design and implementation of computer programs, the utility, significance and widespread applicability of numerical methods will be illustrated in the evaluation and solution of practical problems taken from environmental science, geology, geotechnique, and geophysics. Students will also be expected to complete a major term project in their field of interest.\u00a0\u00a0", 
+        "number": "859", 
+        "subject": "GEOL", 
         "title": "Num. Analysis In Earth Science"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Elastic prototypes are developed to investigate stress conditions around mine openings. Failure theories are discussed and used to explain fracture patterns. Stereographic methods of three dimensional analysis are introduced. The presence of fault and joint development in large rock masses dictates the use of broader engineering methods than those based entirely on idealized conditions. Techniques based on empirical knowledge and supported by available theory are presented, including slope stability, open pit design, tunnels, underground structural design, rock foundations, ground water, rock bursts and bumps, and design hazards. Various instrumentation of interest is discussed.",
-        "number": "325",
-        "subject": "MINE",
+        "description": "Elastic prototypes are developed to investigate stress conditions around mine openings. Failure theories are discussed and used to explain fracture patterns. Stereographic methods of three dimensional analysis are introduced. The presence of fault and joint development in large rock masses dictates the use of broader engineering methods than those based entirely on idealized conditions. Techniques based on empirical knowledge and supported by available theory are presented, including slope stability, open pit design, tunnels, underground structural design, rock foundations, ground water, rock bursts and bumps, and design hazards. Various instrumentation of interest is discussed.", 
+        "number": "325", 
+        "subject": "MINE", 
         "title": "Applied Rock Mechanics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 54,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 54, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
+            "Laboratory": "Required", 
             "Lecture": "Required"
-        },
-        "enrollment_requirement": "Prerequisite: CIVL230 and MINE202 or permission of instructor. Must be in a BSCE program",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite: CIVL230 and MINE202 or permission of instructor. Must be in a BSCE program", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

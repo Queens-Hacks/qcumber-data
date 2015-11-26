@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "This course provides a brief review of demand and production, general equilibrium and welfare economics. Topics such as core equivalence and efficient provision of public goods may be considered in depth. In addition, the course provides a substantial introduction to cooperative and non-cooperative game theory and its applications. Intended for Ph.D. students.",
-        "number": "811",
-        "subject": "ECON",
+        "description": "This course provides a brief review of demand and production, general equilibrium and welfare economics. Topics such as core equivalence and efficient provision of public goods may be considered in depth. In addition, the course provides a substantial introduction to cooperative and non-cooperative game theory and its applications. Intended for Ph.D. students.", 
+        "number": "811", 
+        "subject": "ECON", 
         "title": "Adv. Microeconomic Theory I"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

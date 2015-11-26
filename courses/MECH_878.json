@@ -1,23 +1,23 @@
 {
     "basic": {
-        "description": "This course attempts to cover the basic derivations from elasticity theory, the properties of dislocations in crystalline materials, and their role in inelastic material behaviour. This introduction should enable one to comprehend, examine, and criticize current literature on the mechanical behaviour of materials. Topics include: a brief introduction to applied elasticity theory; elastic stress fields of dislocations and their interactions with external ones; the role of a particular crystal structure on the properties and motion of dislocations. The use of dislocation mechanics in the theories of creep, fracture, and yield points will be discussed along with other topics as time permits. Three term-hours. B. J. Diak.",
-        "number": "878",
-        "subject": "MECH",
+        "description": "This course attempts to cover the basic derivations from elasticity theory, the properties of dislocations in crystalline materials, and their role in inelastic material behaviour. This introduction should enable one to comprehend, examine, and criticize current literature on the mechanical behaviour of materials. Topics include: a brief introduction to applied elasticity theory; elastic stress fields of dislocations and their interactions with external ones; the role of a particular crystal structure on the properties and motion of dislocations. The use of dislocation mechanics in the theories of creep, fracture, and yield points will be discussed along with other topics as time permits. Three term-hours. B. J. Diak.", 
+        "number": "878", 
+        "subject": "MECH", 
         "title": "Dislocation Theory"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Graduate",
+        }, 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

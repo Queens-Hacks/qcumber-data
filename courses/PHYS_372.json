@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Temperature, equations of state, internal energy, first and second laws, entropy and response functions. Application to heat engines and refrigerators. Free energies, Legendre transformations, changes of phase.\u00a0Introduction to the Boltzmann factor and statistical mechanics.",
-        "number": "372",
-        "subject": "PHYS",
+        "description": "Temperature, equations of state, internal energy, first and second laws, entropy and response functions. Application to heat engines and refrigerators. Free energies, Legendre transformations, changes of phase.\u00a0Introduction to the Boltzmann factor and statistical mechanics.", 
+        "number": "372", 
+        "subject": "PHYS", 
         "title": "Thermodynamics"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHYS242.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from PHYS274; PHYS372.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite\u00a0\u00a0\u00a0 PHYS242.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from PHYS274; PHYS372.", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

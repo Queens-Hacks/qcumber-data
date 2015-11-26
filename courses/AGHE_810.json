@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Students are introduced to an overview of the core principles central to the epidemiology of aging, with an emphasis on health and disease processes in older adults. Essential epidemiologic\u00a0 design/analytic issues and common themes of age-related factors and disease are addressed. Topics include: definition and measures of disease, application of cohort and experimental studies to aging, bias and confounding arising from the process of aging, causal inferences, and special topics on aging.",
-        "number": "810",
-        "subject": "AGHE",
+        "description": "Students are introduced to an overview of the core principles central to the epidemiology of aging, with an emphasis on health and disease processes in older adults. Essential epidemiologic\u00a0 design/analytic issues and common themes of age-related factors and disease are addressed. Topics include: definition and measures of disease, application of cohort and experimental studies to aging, bias and confounding arising from the process of aging, causal inferences, and special topics on aging.", 
+        "number": "810", 
+        "subject": "AGHE", 
         "title": "Epidemiology of Aging"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

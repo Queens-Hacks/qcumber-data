@@ -1,26 +1,26 @@
 {
     "basic": {
-        "description": "An introduction to the basic principles, operating characteristics, and design of electric machines. Topics to be studied include: three-phase circuits; magnetic circuits; transformers; steady state behaviours of dc generators and motors; rotating magnetic fields; steady state operation of induction machines and synchronous machines; introduction to fractional horsepower machines; speed control of electric motors.",
-        "number": "333",
-        "subject": "ELEC",
+        "description": "An introduction to the basic principles, operating characteristics, and design of electric machines. Topics to be studied include: three-phase circuits; magnetic circuits; transformers; steady state behaviours of dc generators and motors; rotating magnetic fields; steady state operation of induction machines and synchronous machines; introduction to fractional horsepower machines; speed control of electric motors.", 
+        "number": "333", 
+        "subject": "ELEC", 
         "title": "Electric Machines"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 14,
-            "Comp St": 0,
-            "Eng Des": 14,
-            "Eng Sci": 26,
+            "Basic Sci": 14, 
+            "Comp St": 0, 
+            "Eng Des": 14, 
+            "Eng Sci": 26, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Laboratory": "Required",
-            "Lecture": "Required",
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "enrollment_requirement": "Prerequisite of ELEC221 and registered in a BSCE Academic Program.",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "Prerequisite of ELEC221 and registered in a BSCE Academic Program.", 
+        "grading_basis": "Graded", 
         "units": "4.50"
     }
 }

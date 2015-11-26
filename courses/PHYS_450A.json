@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "This course provides advanced physics and engineering physics students with experience in a wide range of modern experimental techniques. Experiments encompass measurements in applied physics, quantum solid state physics, low temperature physics, nuclear physics and optics. The course\u00a0has set experiments in the Fall Term and group projects in the Winter Term.",
-        "number": "450A",
-        "subject": "PHYS",
+        "description": "This course provides advanced physics and engineering physics students with experience in a wide range of modern experimental techniques. Experiments encompass measurements in applied physics, quantum solid state physics, low temperature physics, nuclear physics and optics. The course\u00a0has set experiments in the Fall Term and group projects in the Winter Term.", 
+        "number": "450A", 
+        "subject": "PHYS", 
         "title": "Adv Physics Lab & Proj"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
             "Laboratory": "Required"
-        },
-        "enrollment_requirement": "(PHYS350 AND PHYS343) OR (PHYS343 AND PHYS350) OR (PHYS350 AND CHEM331) OR (PHYS343 AND PHYS351) OR (PHYS342 AND PHYS343) OR (PHYS344 AND PHYS350) OR (PHYS342 AND PHYS351) OR (PHYS350 AND CHEM313) OR (PHYS344 AND PHYS351) OR (PHYS350 AND CHEM313)",
-        "grading_basis": "Graded",
+        }, 
+        "enrollment_requirement": "(PHYS350 AND PHYS343) OR (PHYS343 AND PHYS350) OR (PHYS350 AND CHEM331) OR (PHYS343 AND PHYS351) OR (PHYS342 AND PHYS343) OR (PHYS344 AND PHYS350) OR (PHYS342 AND PHYS351) OR (PHYS350 AND CHEM313) OR (PHYS344 AND PHYS351) OR (PHYS350 AND CHEM313)", 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }

@@ -1,25 +1,25 @@
 {
     "basic": {
-        "description": "Cloud computing is a distributed computing paradigm where computing resources are provided in an on-demand manner. The goal of the courses is to introduce students to key concepts and techniques from cloud computing. The course focuses on issues such as system architectures, resource allocation and management, and approaches and systems for the storage, management and processing of data in cloud environments.",
-        "number": "886",
-        "subject": "CISC",
+        "description": "Cloud computing is a distributed computing paradigm where computing resources are provided in an on-demand manner. The goal of the courses is to introduce students to key concepts and techniques from cloud computing. The course focuses on issues such as system architectures, resource allocation and management, and approaches and systems for the storage, management and processing of data in cloud environments.", 
+        "number": "886", 
+        "subject": "CISC", 
         "title": "Cloud Computing"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "add_consent": "Department Consent Required",
-        "career": "Graduate",
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
-        },
-        "drop_consent": "Department Consent Required",
-        "grading_basis": "Graded",
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
         "units": "3.00"
     }
 }

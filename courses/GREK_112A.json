@@ -1,24 +1,24 @@
 {
     "basic": {
-        "description": "Fundamentals of grammar, syntax and etymology, for students with no or little knowledge of Ancient Greek; provides sufficient background to read Plato, Euripides as well as the New Testament.\nNOTE\u00a0\u00a0\u00a0 Normally not open to students with 4U Greek.\nLEARNING HOURS\u00a0\u00a0\u00a0 276 (72L;24T;180P)",
-        "number": "112A",
-        "subject": "GREK",
+        "description": "Fundamentals of grammar, syntax and etymology, for students with no or little knowledge of Ancient Greek; provides sufficient background to read Plato, Euripides as well as the New Testament.\nNOTE\u00a0\u00a0\u00a0 Normally not open to students with 4U Greek.\nLEARNING HOURS\u00a0\u00a0\u00a0 276 (72L;24T;180P)", 
+        "number": "112A", 
+        "subject": "GREK", 
         "title": "Introductory Greek"
-    },
+    }, 
     "extra": {
         "CEAB": {
-            "Basic Sci": 0,
-            "Comp St": 0,
-            "Eng Des": 0,
-            "Eng Sci": 0,
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
             "Math": 0
-        },
-        "career": "Undergraduate",
+        }, 
+        "career": "Undergraduate", 
         "course_components": {
-            "Lecture": "Required",
+            "Lecture": "Required", 
             "Tutorial": "Required"
-        },
-        "grading_basis": "Graded",
+        }, 
+        "grading_basis": "Graded", 
         "units": "0.00"
     }
 }
