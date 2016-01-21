@@ -1,0 +1,24 @@
+{
+    "_unique": "021-TUT (2458)", 
+    "basic": {
+        "class_num": "2458", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "021", 
+        "status": "Open", 
+        "subject": "ENGL", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D326", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "005-TUT (6843)", 
+    "basic": {
+        "class_num": "6843", 
+        "course": "225", 
+        "season": "Winter", 
+        "solus_id": "005", 
+        "status": "Open", 
+        "subject": "MTHE", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM101", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "_unique": "304-LAB (6468)", 
+    "basic": {
+        "class_num": "6468", 
+        "course": "102", 
+        "season": "Winter", 
+        "solus_id": "304", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "CHERNOFF RM206A", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-05"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "DUPUIS RM236", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-05"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "STIRLING RM406", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-21"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "STIRLING RM407", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-21"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "21:00:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "TBA", 
+            "start_time": "20:00:00", 
+            "term_end": "2015-09-15", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

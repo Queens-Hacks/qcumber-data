@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (8383)", 
+    "basic": {
+        "class_num": "8383", 
+        "course": "885", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "KHS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Tschakovsky, Michael E"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Tschakovsky, Michael E"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

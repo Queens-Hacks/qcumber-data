@@ -1,0 +1,26 @@
+{
+    "_unique": "005-LAB (3640)", 
+    "basic": {
+        "class_num": "3640", 
+        "course": "210", 
+        "season": "Fall", 
+        "solus_id": "005", 
+        "status": "Closed", 
+        "subject": "CIVL", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Champagne, Pascale"
+            ], 
+            "location": "ELLIS RM43", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

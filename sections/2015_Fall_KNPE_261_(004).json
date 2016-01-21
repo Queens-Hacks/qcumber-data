@@ -1,0 +1,123 @@
+{
+    "_unique": "004-LAB (4891)", 
+    "basic": {
+        "class_num": "4891", 
+        "course": "261", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Closed", 
+        "subject": "KNPE", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM202", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-09-20", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM202", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-04", 
+            "term_start": "2015-09-28"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM202", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-18", 
+            "term_start": "2015-10-12"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM202", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-01", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM202", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-15", 
+            "term_start": "2015-11-09"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM202", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-29", 
+            "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM203", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-09-20", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM203", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-04", 
+            "term_start": "2015-09-28"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM203", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-18", 
+            "term_start": "2015-10-12"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM203", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-01", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM203", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-15", 
+            "term_start": "2015-11-09"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM203", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-29", 
+            "term_start": "2015-11-23"
+        }
+    ]
+}

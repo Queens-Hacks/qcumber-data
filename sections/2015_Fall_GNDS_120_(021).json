@@ -1,0 +1,24 @@
+{
+    "_unique": "021-TUT (8318)", 
+    "basic": {
+        "class_num": "8318", 
+        "course": "120", 
+        "season": "Fall", 
+        "solus_id": "021", 
+        "status": "Open", 
+        "subject": "GNDS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "ONTARIO RM209", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

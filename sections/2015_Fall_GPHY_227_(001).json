@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2828)", 
+    "basic": {
+        "class_num": "2828", 
+        "course": "227", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GPHY", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Donald, Betsy J"
+            ], 
+            "location": "CHERNOFF RM117", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

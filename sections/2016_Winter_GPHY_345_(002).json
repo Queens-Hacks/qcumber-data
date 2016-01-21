@@ -1,0 +1,26 @@
+{
+    "_unique": "002-PRA (2778)", 
+    "basic": {
+        "class_num": "2778", 
+        "course": "345", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "GPHY", 
+        "type": "PRA", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Belanger, Paul"
+            ], 
+            "location": "MACINTOSH-CORRY RM E223", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

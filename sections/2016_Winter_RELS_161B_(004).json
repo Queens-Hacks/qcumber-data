@@ -1,0 +1,69 @@
+{
+    "_unique": "004-TUT (4355)", 
+    "basic": {
+        "class_num": "4355", 
+        "course": "161B", 
+        "season": "Winter", 
+        "solus_id": "004", 
+        "status": "Closed", 
+        "subject": "RELS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E202", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-01-11", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E202", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-01-25", 
+            "term_start": "2016-01-25"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E202", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-02-08", 
+            "term_start": "2016-02-08"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E202", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-02-22", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E202", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-03-07", 
+            "term_start": "2016-03-07"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E202", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-03-21", 
+            "term_start": "2016-03-21"
+        }
+    ]
+}

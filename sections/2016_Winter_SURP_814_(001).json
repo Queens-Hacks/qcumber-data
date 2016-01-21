@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8219)", 
+    "basic": {
+        "class_num": "8219", 
+        "course": "814", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "SURP", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Gordon, David L A"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-16", 
+            "term_start": "2016-01-16"
+        }
+    ]
+}

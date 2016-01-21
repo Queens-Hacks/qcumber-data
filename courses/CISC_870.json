@@ -3,7 +3,7 @@
         "description": "Consists of formal lectures and the study and discussion of research papers appearing in the current literature. Students will be expected to participate in the presentation of the lecture material. Topics chosen for study will be by arrangement with the School. Three term-hours; lectures and seminars.", 
         "number": "870", 
         "subject": "CISC", 
-        "title": "Combinatorial Games"
+        "title": "Fuzzy Logics"
     }, 
     "extra": {
         "CEAB": {
@@ -13,10 +13,12 @@
             "Eng Sci": 0, 
             "Math": 0
         }, 
+        "add_consent": "Department Consent Required", 
         "career": "Graduate", 
         "course_components": {
             "Lecture": "Required"
         }, 
+        "drop_consent": "Department Consent Required", 
         "grading_basis": "Graded", 
         "units": "3.00"
     }

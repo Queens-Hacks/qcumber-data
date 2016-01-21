@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (5172)", 
+    "basic": {
+        "class_num": "5172", 
+        "course": "280", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "ELEC", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Kim, Il-Min"
+            ], 
+            "location": "STIRLING RM C", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

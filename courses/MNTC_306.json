@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course focuses on unit operations of mineral processing. Mineral separation processes of a physical and physicochemical nature are studied. Topics include size reduction, classification, flotation, flocculation, gravity concentration, magnetic, electrostatic separations and dewatering. Surface phenomena involving fine particle processing, reagent classifications, flotation machines and circuits, plant practice in ore flotation are discussed. The field school component of MNTC-399 will cover selected topics such as crushing, grinding, particle size analysis, gravity separation, magnetic separation, differential flotation. Quantitative understanding of various topics is facilitated through problem solving in class and assignments on mass balancing, kinetic analysis and circuit sizing.", 
+        "number": "306", 
+        "subject": "MNTC", 
+        "title": "Mineral Processing Unit"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

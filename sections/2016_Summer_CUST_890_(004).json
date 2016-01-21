@@ -1,0 +1,26 @@
+{
+    "_unique": "004-IND (8984)", 
+    "basic": {
+        "class_num": "8984", 
+        "course": "890", 
+        "season": "Summer", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "CUST", 
+        "type": "IND", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Salverson, Julie"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

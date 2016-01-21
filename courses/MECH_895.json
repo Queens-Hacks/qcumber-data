@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "The industrial internship involves spending 4 months in a paid industrial internship position in industry, or government.\u00a0 Successful completion of the course requires submission of a report on the industrial project to be submitted on the last day of the internship. Each project must be approved by the academic supervisor. Career Services manages the non-academic aspects of the course. This course is open only to Materials and Mechanical Engineering (MME) M.Eng. students. Permission of MME M.Eng. Coordinator is required for registration. This course is graded on a Pass/Fail basis.\u00a0 Exclusions: MECH-892,* MECH-893*, MECH-894*", 
+        "number": "895", 
+        "subject": "MECH", 
+        "title": "Industrial Internship for M.Eng."
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

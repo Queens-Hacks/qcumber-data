@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (7457)", 
+    "basic": {
+        "class_num": "7457", 
+        "course": "492", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "COMM", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Thomas, Stephen"
+            ], 
+            "location": "GOODES RM 103", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

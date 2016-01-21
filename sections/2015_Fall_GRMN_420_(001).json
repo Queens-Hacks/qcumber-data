@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (3249)", 
+    "basic": {
+        "class_num": "3249", 
+        "course": "420", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "GRMN", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Pugh, David V"
+            ], 
+            "location": "KINGSTON RM104", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Pugh, David V"
+            ], 
+            "location": "KINGSTON RM104", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

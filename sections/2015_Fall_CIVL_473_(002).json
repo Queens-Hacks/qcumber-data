@@ -1,0 +1,24 @@
+{
+    "_unique": "002-TUT (3708)", 
+    "basic": {
+        "class_num": "3708", 
+        "course": "473", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CIVL", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "GOODWIN RM254", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

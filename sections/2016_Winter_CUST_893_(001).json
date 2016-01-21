@@ -1,0 +1,26 @@
+{
+    "_unique": "001-IND (8361)", 
+    "basic": {
+        "class_num": "8361", 
+        "course": "893", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CUST", 
+        "type": "IND", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Zaiontz, Keren"
+            ], 
+            "location": "IBCPA RM 307", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "_unique": "001-LEC (4374)", 
+    "basic": {
+        "class_num": "4374", 
+        "course": "323", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HLTH", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Janssen, Ian Michael"
+            ], 
+            "location": "KINES & HLTH RM100", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Janssen, Ian Michael"
+            ], 
+            "location": "KINES & HLTH RM100", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM107", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Janssen, Ian Michael"
+            ], 
+            "location": "KINES & HLTH RM107", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

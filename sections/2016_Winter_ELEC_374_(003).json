@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (5190)", 
+    "basic": {
+        "class_num": "5190", 
+        "course": "374", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Afsahi, Ahmad"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

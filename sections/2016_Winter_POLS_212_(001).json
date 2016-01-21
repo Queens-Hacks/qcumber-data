@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (3850)", 
+    "basic": {
+        "class_num": "3850", 
+        "course": "212", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Merolli, Jessica"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Merolli, Jessica"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Merolli, Jessica"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

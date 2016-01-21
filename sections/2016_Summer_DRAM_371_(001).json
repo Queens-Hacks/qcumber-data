@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2051)", 
+    "basic": {
+        "class_num": "2051", 
+        "course": "371", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DRAM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Renyk, Grahame Phillip"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-09-01", 
+            "term_start": "2016-08-17"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (7363)", 
+    "basic": {
+        "class_num": "7363", 
+        "course": "434", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "COMM", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "16:00:00", 
+            "instructors": [
+                "Hamilton, Jim"
+            ], 
+            "location": "GOODES RM304", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Hamilton, Jim"
+            ], 
+            "location": "GOODES RM304", 
+            "start_time": "16:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

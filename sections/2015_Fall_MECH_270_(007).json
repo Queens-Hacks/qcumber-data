@@ -1,0 +1,24 @@
+{
+    "_unique": "007-LAB (7128)", 
+    "basic": {
+        "class_num": "7128", 
+        "course": "270", 
+        "season": "Fall", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "NICOL RM201", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

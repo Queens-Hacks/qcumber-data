@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "The objective of this course is to offer students an introduction to some of the primary tools and techniques of contemporary instrumentation and analysis. Presented is an introduction to signal analysis, data acquisition, sampling and quantization, as well as the fundamental statistical techniques necessary to process and analyze measured data with uncertainty. The course focuses on applied methods and draws on several examples that demonstrate the use of sensors and data acquisition in mining.", 
+        "number": "304", 
+        "subject": "MNTC", 
+        "title": "Applied Metrology and Data Analysis"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

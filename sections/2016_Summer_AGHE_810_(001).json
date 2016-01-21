@@ -1,0 +1,24 @@
+{
+    "_unique": "001-SEM (2054)", 
+    "basic": {
+        "class_num": "2054", 
+        "course": "810", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "AGHE", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-08-31", 
+            "term_start": "2016-05-01"
+        }
+    ]
+}

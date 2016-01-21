@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (2992)", 
+    "basic": {
+        "class_num": "2992", 
+        "course": "390A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Tait, Jackson Edmund"
+            ], 
+            "location": "MACINTOSH-CORRY RM D211", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

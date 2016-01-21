@@ -1,0 +1,24 @@
+{
+    "_unique": "700-ONL (2086)", 
+    "basic": {
+        "class_num": "2086", 
+        "course": "113", 
+        "season": "Summer", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-06-13", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

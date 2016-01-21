@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "The study of rock mechanics is essentially the study of the action of forces on rock masses. The important conditions which are associated with stressed rock involve the formation of fracture phenomena (and related stability assessment) caused by stress, strain and energy transformations resulting from the application of changing or variable networks of forces within rock masses. Elastic prototypes are developed to investigate stress conditions around mine openings. Failure theories are discussed and used to explain fracture patterns. Stereographic methods of three-dimensional analysis are introduced. The presence of fault and joint development in large rock masses dictates the use of broader engineering methods than those based entirely on idealized conditions. Techniques based on empirical knowledge and supported by available theory are presented, including slope stability, open pit design, tunnels, underground structural design, rock foundations, ground water, rock bursts and bumps, and design hazards. Various types of instrumentation of interest for rock characterization and monitoring are also discussed.", 
+        "number": "307", 
+        "subject": "MNTC", 
+        "title": "Geomechanics and Ground"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

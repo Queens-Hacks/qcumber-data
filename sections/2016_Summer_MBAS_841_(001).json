@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2042)", 
+    "basic": {
+        "class_num": "2042", 
+        "course": "841", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBAS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Roman, Paul Anthony"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-06-06", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

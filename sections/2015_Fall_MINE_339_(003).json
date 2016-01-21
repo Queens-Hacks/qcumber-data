@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (6947)", 
+    "basic": {
+        "class_num": "6947", 
+        "course": "339", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "MINE", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "De Souza, Euler Magno"
+            ], 
+            "location": "GOODWIN RM449", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

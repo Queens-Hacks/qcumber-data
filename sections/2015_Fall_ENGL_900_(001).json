@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8913)", 
+    "basic": {
+        "class_num": "8913", 
+        "course": "900", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "ENGL", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "McKegney, Sam Walter"
+            ], 
+            "location": "MACINTOSH-CORRY RM D207", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

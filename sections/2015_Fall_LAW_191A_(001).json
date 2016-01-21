@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (1198)", 
+    "basic": {
+        "class_num": "1198", 
+        "course": "191A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Knutsen, Erik S"
+            ], 
+            "location": "MACDONALD RM400", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Knutsen, Erik S"
+            ], 
+            "location": "MACDONALD RM4", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

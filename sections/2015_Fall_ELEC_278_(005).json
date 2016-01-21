@@ -1,0 +1,81 @@
+{
+    "_unique": "005-LAB (9093)", 
+    "basic": {
+        "class_num": "9093", 
+        "course": "278", 
+        "season": "Fall", 
+        "solus_id": "005", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Moussa, Mohamed Mohamed Essam Mostafa"
+            ], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-09-25", 
+            "term_start": "2015-09-21"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Moussa, Mohamed Mohamed Essam Mostafa"
+            ], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-10-05"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Moussa, Mohamed Mohamed Essam Mostafa"
+            ], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-10-16", 
+            "term_start": "2015-10-12"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Moussa, Mohamed Mohamed Essam Mostafa"
+            ], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-10-30", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Moussa, Mohamed Mohamed Essam Mostafa"
+            ], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-11-13", 
+            "term_start": "2015-11-09"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Moussa, Mohamed Mohamed Essam Mostafa"
+            ], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-11-27", 
+            "term_start": "2015-11-23"
+        }
+    ]
+}

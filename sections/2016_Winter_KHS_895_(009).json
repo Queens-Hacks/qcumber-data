@@ -1,0 +1,26 @@
+{
+    "_unique": "009-LEC (9017)", 
+    "basic": {
+        "class_num": "9017", 
+        "course": "895", 
+        "season": "Winter", 
+        "solus_id": "009", 
+        "status": "Open", 
+        "subject": "KHS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Latimer, Amy E"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

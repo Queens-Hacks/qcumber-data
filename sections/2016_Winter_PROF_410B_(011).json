@@ -1,0 +1,59 @@
+{
+    "_unique": "011-LEC (6870)", 
+    "basic": {
+        "class_num": "6870", 
+        "course": "410B", 
+        "season": "Winter", 
+        "solus_id": "011", 
+        "status": "Closed", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Field, Caroline"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-01-22", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Field, Caroline"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-15", 
+            "term_start": "2016-04-15"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Field, Caroline"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-02-12"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "14:45:00", 
+            "instructors": [
+                "Field, Caroline"
+            ], 
+            "location": "TBA", 
+            "start_time": "12:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-04-29"
+        }
+    ]
+}

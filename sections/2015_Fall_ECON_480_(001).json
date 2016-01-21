@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (2382)", 
+    "basic": {
+        "class_num": "2382", 
+        "course": "480", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "ECON", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "De Souza, Raymond"
+            ], 
+            "location": "TBA", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "De Souza, Raymond"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

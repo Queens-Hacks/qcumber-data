@@ -1,9 +1,9 @@
 {
     "basic": {
-        "description": "General equations of heat conduction (HC), 1,2 and 3-D steady and unsteady HC; unsteady HC with phase change; the inverse conduction problem; numerical methods for HC including finite differences and finite elements. Three term-hours, lectures. S.J. Harrison.\u00a0", 
+        "description": "This course deals with aspects of Convective Heat Transfer not considered in course MECH-831. The main topics considered are: Introduction to Convective Heat Transfer, Natural Convection, Mixed Convection, Convective Heat Transfer in Porous Media, Enhanced Convective Heat Transfer, Nano Heat Transfer, Convective Heat Transfer in High Speed Flows, Interaction of Convection with Other Modes of Heat Transfer.\u00a0 Three term hours.", 
         "number": "833", 
         "subject": "MECH", 
-        "title": "Conductive Heat Transfer"
+        "title": "Topics in Single Phase Convective Heat Transfer"
     }, 
     "extra": {
         "CEAB": {
@@ -13,10 +13,12 @@
             "Eng Sci": 0, 
             "Math": 0
         }, 
+        "add_consent": "Department Consent Required", 
         "career": "Graduate", 
         "course_components": {
-            "Lecture": "Required"
+            "Seminar": "Required"
         }, 
+        "drop_consent": "Department Consent Required", 
         "grading_basis": "Graded", 
         "units": "3.00"
     }

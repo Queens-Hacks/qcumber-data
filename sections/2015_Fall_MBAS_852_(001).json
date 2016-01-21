@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2934)", 
+    "basic": {
+        "class_num": "2934", 
+        "course": "852", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBAS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Raver, Jana L"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-11-17", 
+            "term_start": "2015-10-20"
+        }
+    ]
+}

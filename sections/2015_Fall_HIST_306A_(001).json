@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (2990)", 
+    "basic": {
+        "class_num": "2990", 
+        "course": "306A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Dueck, Gordon B"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Dueck, Gordon B"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

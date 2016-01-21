@@ -1,0 +1,35 @@
+{
+    "_unique": "326-LAB (6411)", 
+    "basic": {
+        "class_num": "6411", 
+        "course": "161", 
+        "season": "Fall", 
+        "solus_id": "326", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Shepertycky, Michael"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

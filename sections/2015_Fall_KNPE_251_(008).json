@@ -1,0 +1,26 @@
+{
+    "_unique": "008-LAB (7602)", 
+    "basic": {
+        "class_num": "7602", 
+        "course": "251", 
+        "season": "Fall", 
+        "solus_id": "008", 
+        "status": "Closed", 
+        "subject": "KNPE", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:00:00", 
+            "instructors": [
+                "Ableson, Alan"
+            ], 
+            "location": "ELLIS RM333", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

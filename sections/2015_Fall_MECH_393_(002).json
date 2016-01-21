@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (7137)", 
+    "basic": {
+        "class_num": "7137", 
+        "course": "393", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Deluzio, Kevin"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

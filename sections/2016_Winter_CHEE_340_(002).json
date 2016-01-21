@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (2773)", 
+    "basic": {
+        "class_num": "2773", 
+        "course": "340", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "CHEE", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Fitzpatrick, Lindsay E"
+            ], 
+            "location": "KINGSTON RM101", 
+            "start_time": "16:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

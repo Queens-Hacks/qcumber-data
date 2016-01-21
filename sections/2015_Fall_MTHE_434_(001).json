@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (6922)", 
+    "basic": {
+        "class_num": "6922", 
+        "course": "434", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MTHE", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Gharesifard, Bahman"
+            ], 
+            "location": "JEFFERY RM126", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Gharesifard, Bahman"
+            ], 
+            "location": "JEFFERY RM126", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Gharesifard, Bahman"
+            ], 
+            "location": "JEFFERY RM126", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

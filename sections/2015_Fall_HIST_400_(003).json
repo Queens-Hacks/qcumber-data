@@ -1,0 +1,26 @@
+{
+    "_unique": "003-SEM (3105)", 
+    "basic": {
+        "class_num": "3105", 
+        "course": "400", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Trofimov, Leonid"
+            ], 
+            "location": "MACINTOSH-CORRY RM E230", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

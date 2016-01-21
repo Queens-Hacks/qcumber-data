@@ -1,0 +1,24 @@
+{
+    "_unique": "065-LAB (4842)", 
+    "basic": {
+        "class_num": "4842", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "065", 
+        "status": "Open", 
+        "subject": "PSYC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

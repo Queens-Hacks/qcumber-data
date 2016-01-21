@@ -1,0 +1,24 @@
+{
+    "_unique": "016-TUT (6797)", 
+    "basic": {
+        "class_num": "6797", 
+        "course": "121A", 
+        "season": "Fall", 
+        "solus_id": "016", 
+        "status": "Open", 
+        "subject": "MATH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM126", 
+            "start_time": "17:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

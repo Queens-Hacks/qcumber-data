@@ -1,0 +1,26 @@
+{
+    "_unique": "005-TUT (1292)", 
+    "basic": {
+        "class_num": "1292", 
+        "course": "135A", 
+        "season": "Fall", 
+        "solus_id": "005", 
+        "status": "Closed", 
+        "subject": "LAW", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Haak, Debra Marie"
+            ], 
+            "location": "MACDONALD RM202", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "007-LAB (7138)", 
+    "basic": {
+        "class_num": "7138", 
+        "course": "398", 
+        "season": "Fall", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "JACKSN RM 301", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

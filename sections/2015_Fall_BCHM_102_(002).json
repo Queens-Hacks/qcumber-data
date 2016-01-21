@@ -1,0 +1,24 @@
+{
+    "_unique": "002-TUT (1402)", 
+    "basic": {
+        "class_num": "1402", 
+        "course": "102", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "BCHM", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

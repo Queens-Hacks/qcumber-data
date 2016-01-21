@@ -1,0 +1,24 @@
+{
+    "_unique": "005-TUT (2179)", 
+    "basic": {
+        "class_num": "2179", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "005", 
+        "status": "Open", 
+        "subject": "DEVS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "ELLIS RM319", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

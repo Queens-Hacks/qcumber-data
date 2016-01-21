@@ -1,0 +1,24 @@
+{
+    "_unique": "007-SEM (7222)", 
+    "basic": {
+        "class_num": "7222", 
+        "course": "405", 
+        "season": "Fall", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM103", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

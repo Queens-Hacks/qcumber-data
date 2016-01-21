@@ -1,0 +1,24 @@
+{
+    "_unique": "007-TUT (4996)", 
+    "basic": {
+        "class_num": "4996", 
+        "course": "131A", 
+        "season": "Fall", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "RELS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "NICOL RM232", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

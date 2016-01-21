@@ -1,0 +1,26 @@
+{
+    "_unique": "003-SEM (9039)", 
+    "basic": {
+        "class_num": "9039", 
+        "course": "803", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "PME", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Briscoe, Patricia"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-11-20", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

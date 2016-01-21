@@ -1,0 +1,24 @@
+{
+    "_unique": "010-TUT (2605)", 
+    "basic": {
+        "class_num": "2605", 
+        "course": "125", 
+        "season": "Winter", 
+        "solus_id": "010", 
+        "status": "Closed", 
+        "subject": "GNDS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM104", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

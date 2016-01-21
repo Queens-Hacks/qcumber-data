@@ -1,0 +1,69 @@
+{
+    "_unique": "003-LAB (5213)", 
+    "basic": {
+        "class_num": "5213", 
+        "course": "353", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "ENPH", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM505", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM506", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM507", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM508", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM404", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM405", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

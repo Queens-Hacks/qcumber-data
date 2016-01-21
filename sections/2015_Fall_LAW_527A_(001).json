@@ -1,0 +1,26 @@
+{
+    "_unique": "001-CLN (1282)", 
+    "basic": {
+        "class_num": "1282", 
+        "course": "527A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
+        "type": "CLN", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "McGrath, Karla Christine"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

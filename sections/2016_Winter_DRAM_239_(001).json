@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (2182)", 
+    "basic": {
+        "class_num": "2182", 
+        "course": "239", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DRAM", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Renders, Kim"
+            ], 
+            "location": "IBCPA RM104", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

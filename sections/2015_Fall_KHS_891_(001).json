@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (9008)", 
+    "basic": {
+        "class_num": "9008", 
+        "course": "891", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "KHS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Fergus, Stevenson"
+            ], 
+            "location": "TBA", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Fergus, Stevenson"
+            ], 
+            "location": "TBA", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

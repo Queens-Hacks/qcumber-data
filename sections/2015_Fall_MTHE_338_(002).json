@@ -1,0 +1,24 @@
+{
+    "_unique": "002-TUT (6873)", 
+    "basic": {
+        "class_num": "6873", 
+        "course": "338", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MTHE", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM225", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

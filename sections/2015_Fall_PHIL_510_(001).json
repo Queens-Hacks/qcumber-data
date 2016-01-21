@@ -1,0 +1,24 @@
+{
+    "_unique": "001-IND (8508)", 
+    "basic": {
+        "class_num": "8508", 
+        "course": "510", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "PHIL", 
+        "type": "IND", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

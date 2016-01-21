@@ -1,0 +1,24 @@
+{
+    "_unique": "002-LEC (9062)", 
+    "basic": {
+        "class_num": "9062", 
+        "course": "130", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ESLA", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-10", 
+            "term_start": "2015-09-10"
+        }
+    ]
+}

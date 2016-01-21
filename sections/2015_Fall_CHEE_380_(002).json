@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (2778)", 
+    "basic": {
+        "class_num": "2778", 
+        "course": "380", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CHEE", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Fam, Hala"
+            ], 
+            "location": "DUNNING RM14", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8194)", 
+    "basic": {
+        "class_num": "8194", 
+        "course": "805", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PHIL", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Kymlicka, Will"
+            ], 
+            "location": "MACINTOSH-CORRY RM C508", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

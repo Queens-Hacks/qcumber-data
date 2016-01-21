@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (5812)", 
+    "basic": {
+        "class_num": "5812", 
+        "course": "443", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Rudie, Karen"
+            ], 
+            "location": "BEAMISH-MUNRO RM326", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

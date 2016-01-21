@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (1210)", 
+    "basic": {
+        "class_num": "1210", 
+        "course": "143", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Metcalf, Cherie M"
+            ], 
+            "location": "MACDONALD RM202", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Metcalf, Cherie M"
+            ], 
+            "location": "MACDONALD RM202", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

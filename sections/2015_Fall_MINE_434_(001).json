@@ -1,0 +1,26 @@
+{
+    "_unique": "001-PRJ (6955)", 
+    "basic": {
+        "class_num": "6955", 
+        "course": "434", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MINE", 
+        "type": "PRJ", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Pickles, Christopher A"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

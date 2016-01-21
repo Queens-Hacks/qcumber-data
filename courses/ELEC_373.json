@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Communication networks architecture, physical layer, data link layer and protocol design, introduction to queuing theory, network layer, routing and interworking and performance evaluation and monitoring. (0/0/0/10/26)", 
+        "number": "373", 
+        "subject": "ELEC", 
+        "title": "Computer Networks I"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 26, 
+            "Eng Sci": 10, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

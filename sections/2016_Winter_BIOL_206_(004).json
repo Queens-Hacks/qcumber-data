@@ -1,0 +1,24 @@
+{
+    "_unique": "004-LAB (1631)", 
+    "basic": {
+        "class_num": "1631", 
+        "course": "206", 
+        "season": "Winter", 
+        "solus_id": "004", 
+        "status": "Closed", 
+        "subject": "BIOL", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM3326", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

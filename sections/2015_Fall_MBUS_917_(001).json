@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (4874)", 
+    "basic": {
+        "class_num": "4874", 
+        "course": "917", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Denford, Jim"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-11-14", 
+            "term_start": "2015-08-21"
+        }
+    ]
+}

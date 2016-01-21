@@ -1,0 +1,51 @@
+{
+    "_unique": "004-LAB (6920)", 
+    "basic": {
+        "class_num": "6920", 
+        "course": "430", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "MTHE", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM326", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-04", 
+            "term_start": "2015-09-28"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM326", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-25", 
+            "term_start": "2015-10-19"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM326", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-15", 
+            "term_start": "2015-11-09"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM326", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-11-30"
+        }
+    ]
+}

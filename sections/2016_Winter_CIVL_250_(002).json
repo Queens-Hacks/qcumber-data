@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (3614)", 
+    "basic": {
+        "class_num": "3614", 
+        "course": "250", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "CIVL", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "da Silva, Ana Maria"
+            ], 
+            "location": "CHERNOFF RM213", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

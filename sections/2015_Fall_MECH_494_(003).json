@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (7109)", 
+    "basic": {
+        "class_num": "7109", 
+        "course": "494", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Hassan, Elizabeth Ann"
+            ], 
+            "location": "JACKSN RM 301", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

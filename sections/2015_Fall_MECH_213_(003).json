@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (7103)", 
+    "basic": {
+        "class_num": "7103", 
+        "course": "213", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Jeswiet, Jacob"
+            ], 
+            "location": "MCLAUGHLIN SHOP", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

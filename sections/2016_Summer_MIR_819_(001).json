@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (1273)", 
+    "basic": {
+        "class_num": "1273", 
+        "course": "819", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MIR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Leighton, Deborah Jean"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-06-30", 
+            "term_start": "2016-05-01"
+        }
+    ]
+}

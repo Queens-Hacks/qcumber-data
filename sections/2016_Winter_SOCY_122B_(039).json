@@ -1,0 +1,24 @@
+{
+    "_unique": "039-TUT (5000)", 
+    "basic": {
+        "class_num": "5000", 
+        "course": "122B", 
+        "season": "Winter", 
+        "solus_id": "039", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM209", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

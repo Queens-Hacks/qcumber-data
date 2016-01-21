@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (7059)", 
+    "basic": {
+        "class_num": "7059", 
+        "course": "430", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Harrison, Stephen J"
+            ], 
+            "location": "DUNNING RM12", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

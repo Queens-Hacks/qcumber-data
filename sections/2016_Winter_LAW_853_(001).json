@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8571)", 
+    "basic": {
+        "class_num": "8571", 
+        "course": "853", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "18:00:00", 
+            "instructors": [
+                "Essert, Chris"
+            ], 
+            "location": "MACDONALD RM211", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

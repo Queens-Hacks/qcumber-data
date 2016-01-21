@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Objective of this course is to give students a basic understanding of the potential and limitations of Computational Fluid Dynamics (CFD), learn the fundamentals of CFD codes, find solutions for test problems, and run commercial software in a competent and critical manner. Three term hours; lectures. Prerequisites: Permission of instructor.", 
+        "number": "835", 
+        "subject": "MECH", 
+        "title": "Introduction to Computational Fluid Dynamics"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

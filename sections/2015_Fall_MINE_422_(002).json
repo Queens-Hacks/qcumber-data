@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (6973)", 
+    "basic": {
+        "class_num": "6973", 
+        "course": "422", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "MINE", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Johnson, Elizabeth Anne"
+            ], 
+            "location": "DUNNING RM12", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

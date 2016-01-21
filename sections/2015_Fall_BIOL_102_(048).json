@@ -1,0 +1,24 @@
+{
+    "_unique": "048-LAB (1733)", 
+    "basic": {
+        "class_num": "1733", 
+        "course": "102", 
+        "season": "Fall", 
+        "solus_id": "048", 
+        "status": "Closed", 
+        "subject": "BIOL", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2319", 
+            "start_time": "16:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-21"
+        }
+    ]
+}

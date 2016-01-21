@@ -1,0 +1,26 @@
+{
+    "_unique": "001-PRJ (6520)", 
+    "basic": {
+        "class_num": "6520", 
+        "course": "446", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GEOE", 
+        "type": "PRJ", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Hutchinson, Jean D"
+            ], 
+            "location": "MILLER RM201", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

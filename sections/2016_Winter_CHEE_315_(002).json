@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LAB (2758)", 
+    "basic": {
+        "class_num": "2758", 
+        "course": "315", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "CHEE", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Poirier, David"
+            ], 
+            "location": "DUPUIS LAB", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

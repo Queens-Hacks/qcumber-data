@@ -1,0 +1,70 @@
+{
+    "_unique": "001-LEC (5037)", 
+    "basic": {
+        "class_num": "5037", 
+        "course": "393", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "CURR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-09-02"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-30", 
+            "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-09-04", 
+            "term_start": "2015-09-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Upitis, Rena Brigit"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B219", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-09", 
+            "term_start": "2015-12-09"
+        }
+    ]
+}

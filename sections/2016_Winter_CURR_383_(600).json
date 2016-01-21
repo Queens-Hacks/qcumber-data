@@ -1,0 +1,81 @@
+{
+    "_unique": "600-LEC (8129)", 
+    "basic": {
+        "class_num": "8129", 
+        "course": "383", 
+        "season": "Winter", 
+        "solus_id": "600", 
+        "status": "Open", 
+        "subject": "CURR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 7, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Stargratt, Dan"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2016-03-06", 
+            "term_start": "2016-03-04"
+        }, 
+        {
+            "day_of_week": 6, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Stargratt, Dan"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2016-03-06", 
+            "term_start": "2016-03-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Stargratt, Dan"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2016-03-06", 
+            "term_start": "2016-03-04"
+        }, 
+        {
+            "day_of_week": 7, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Stargratt, Dan"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2016-04-24", 
+            "term_start": "2016-04-22"
+        }, 
+        {
+            "day_of_week": 6, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Stargratt, Dan"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2016-04-24", 
+            "term_start": "2016-04-22"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Stargratt, Dan"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2016-04-24", 
+            "term_start": "2016-04-22"
+        }
+    ]
+}

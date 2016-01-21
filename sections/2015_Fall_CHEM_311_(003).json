@@ -1,0 +1,24 @@
+{
+    "_unique": "003-TUT (3520)", 
+    "basic": {
+        "class_num": "3520", 
+        "course": "311", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM211", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

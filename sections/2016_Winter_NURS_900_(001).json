@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8307)", 
+    "basic": {
+        "class_num": "8307", 
+        "course": "900", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "NURS", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Tranmer, Joan E"
+            ], 
+            "location": "CATARAQUI ROOM 207", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

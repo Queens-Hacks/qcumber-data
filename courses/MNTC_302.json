@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course continues the development of engineering physics topics in mechanics, electricity, and magnetism. In the first module, concepts of stress and strain are introduced, and followed up by normal and shear stresses in beams. Calculations involving displacements focus learnings on deformations and the concept of torque. In the second module, DC circuits are introduced, and after a brief study of magnetic fields, concepts such as inductance, capacitance, and power are studied, leading to the introduction of electric motors. A focus is given to problems that provide foundations for future technical courses in engineering.", 
+        "number": "302", 
+        "subject": "MNTC", 
+        "title": "Engineering Physics"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

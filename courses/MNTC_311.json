@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course presents a basic introduction to the use of classical and geostatistical estimation techniques for mineral resource estimation. Students will learn to recognize the geological influences to ore body modelling, apply various estimation methods, produce mineralization reports, and classify the mineral resources and reserves according to accepted internationally recognized methods. The course will also include basic ore exploration and sampling concepts.", 
+        "number": "311", 
+        "subject": "MNTC", 
+        "title": "Ore Body Modelling and Resource Estimation"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

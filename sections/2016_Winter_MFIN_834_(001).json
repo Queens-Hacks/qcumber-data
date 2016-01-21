@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (7412)", 
+    "basic": {
+        "class_num": "7412", 
+        "course": "834", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MFIN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Aikman, Jonathan"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-09", 
+            "term_start": "2016-03-12"
+        }
+    ]
+}

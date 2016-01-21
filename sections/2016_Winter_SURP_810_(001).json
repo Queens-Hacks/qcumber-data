@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8217)", 
+    "basic": {
+        "class_num": "8217", 
+        "course": "810", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "SURP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Qadeer, Mohammad"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-03-24", 
+            "term_start": "2016-03-09"
+        }
+    ]
+}

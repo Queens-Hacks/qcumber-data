@@ -1,0 +1,24 @@
+{
+    "_unique": "006-TUT (1807)", 
+    "basic": {
+        "class_num": "1807", 
+        "course": "369", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "BIOL", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2109", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

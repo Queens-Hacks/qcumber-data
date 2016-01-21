@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (5826)", 
+    "basic": {
+        "class_num": "5826", 
+        "course": "278", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Moussa, Mohamed Mohamed Essam Mostafa"
+            ], 
+            "location": "WALTER LIGHT RM205", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

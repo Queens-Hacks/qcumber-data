@@ -1,0 +1,103 @@
+{
+    "_unique": "002-LAB (7212)", 
+    "basic": {
+        "class_num": "7212", 
+        "course": "227", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ARTF", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Dhaliwal, Sarindar"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-10-23", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Dhaliwal, Sarindar"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-10-23", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Dhaliwal, Sarindar"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-10-23", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Dhaliwal, Sarindar"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-10-23", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Winton, Jan"
+            ], 
+            "location": "ONTARIO RM115", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Winton, Jan"
+            ], 
+            "location": "ONTARIO RM115", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Winton, Jan"
+            ], 
+            "location": "ONTARIO RM115", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Winton, Jan"
+            ], 
+            "location": "ONTARIO RM115", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }
+    ]
+}

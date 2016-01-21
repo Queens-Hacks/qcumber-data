@@ -1,0 +1,26 @@
+{
+    "_unique": "004-LAB (4512)", 
+    "basic": {
+        "class_num": "4512", 
+        "course": "251", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "KNPE", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Ableson, Alan"
+            ], 
+            "location": "ELLIS RM333", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

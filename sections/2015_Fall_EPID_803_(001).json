@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (8553)", 
+    "basic": {
+        "class_num": "8553", 
+        "course": "803", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "EPID", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Hunter, Duncan James W"
+            ], 
+            "location": "DUNNING RM27", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Hunter, Duncan James W"
+            ], 
+            "location": "BOTTER RM B143", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-16", 
+            "term_start": "2015-12-05"
+        }
+    ]
+}

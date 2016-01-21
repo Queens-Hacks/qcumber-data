@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (5788)", 
+    "basic": {
+        "class_num": "5788", 
+        "course": "371", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

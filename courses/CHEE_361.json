@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This course provides advanced instruction and practice in engineering communications, engineering ethics and professionalism. Effective engineering writing and speaking skills are developed with an emphasis on engineering reports and oral presentations. Students will learn how to gather literature sources, apply appropriate citation styles, write effective resumes, and present data effectively. Activities include case studies involving the application of codes, engineering ethics, equity and professionalism. This course is integrated with CHEE 331/332/333", 
+        "number": "361", 
+        "subject": "CHEE", 
+        "title": "Engineering Communications, Ethics & Professionalism"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 12, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

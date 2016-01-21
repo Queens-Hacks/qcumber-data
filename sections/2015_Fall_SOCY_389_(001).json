@@ -1,0 +1,70 @@
+{
+    "_unique": "001-LEC (5741)", 
+    "basic": {
+        "class_num": "5741", 
+        "course": "389", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Kay, Fiona M"
+            ], 
+            "location": "DUPUIS RM215", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Kay, Fiona M"
+            ], 
+            "location": "JEFFERY RM102", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Kay, Fiona M"
+            ], 
+            "location": "JEFFERY RM110", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Kay, Fiona M"
+            ], 
+            "location": "JEFFERY RM115", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Kay, Fiona M"
+            ], 
+            "location": "JEFFERY RM422", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

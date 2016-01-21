@@ -1,0 +1,26 @@
+{
+    "_unique": "802-LAB (6469)", 
+    "basic": {
+        "class_num": "6469", 
+        "course": "102", 
+        "season": "Fall", 
+        "solus_id": "802", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Clapham, Lynann"
+            ], 
+            "location": "STIRLING RM406", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-11-27", 
+            "term_start": "2015-11-02"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "_unique": "013-LEC (7188)", 
+    "basic": {
+        "class_num": "7188", 
+        "course": "411A", 
+        "season": "Fall", 
+        "solus_id": "013", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Pitre, Natalie"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A207N", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-09-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Pitre, Natalie"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A207S", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-12-11", 
+            "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Pitre, Natalie"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A207S", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-09-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Pitre, Natalie"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A207N", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-12-11", 
+            "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Pitre, Natalie"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:00:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-18"
+        }
+    ]
+}

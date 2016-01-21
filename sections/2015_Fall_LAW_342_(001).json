@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (1040)", 
+    "basic": {
+        "class_num": "1040", 
+        "course": "342", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "20:30:00", 
+            "instructors": [
+                "Gauci, Maureen"
+            ], 
+            "location": "MACDONALD RM100", 
+            "start_time": "17:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

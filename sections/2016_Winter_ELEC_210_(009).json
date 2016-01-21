@@ -1,0 +1,71 @@
+{
+    "_unique": "009-LAB (5150)", 
+    "basic": {
+        "class_num": "5150", 
+        "course": "210", 
+        "season": "Winter", 
+        "solus_id": "009", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Iqbal, Umar"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-01-17", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-01-31", 
+            "term_start": "2016-01-25"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-02-14", 
+            "term_start": "2016-02-08"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-02-28", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-03-13", 
+            "term_start": "2016-03-07"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-03-27", 
+            "term_start": "2016-03-21"
+        }
+    ]
+}

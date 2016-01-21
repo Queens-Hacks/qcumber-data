@@ -1,0 +1,33 @@
+{
+    "_unique": "001-PRA (1542)", 
+    "basic": {
+        "class_num": "1542", 
+        "course": "410", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "IDIS", 
+        "type": "PRA", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "IBCPA RM104", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "IBCPA RM104", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

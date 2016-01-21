@@ -1,0 +1,26 @@
+{
+    "_unique": "006-LEC (5615)", 
+    "basic": {
+        "class_num": "5615", 
+        "course": "122A", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Beamish, Robin B"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

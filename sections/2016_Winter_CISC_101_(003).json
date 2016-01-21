@@ -1,0 +1,24 @@
+{
+    "_unique": "003-LAB (1885)", 
+    "basic": {
+        "class_num": "1885", 
+        "course": "101", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "CISC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM155", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

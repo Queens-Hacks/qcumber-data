@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8388)", 
+    "basic": {
+        "class_num": "8388", 
+        "course": "868", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "DEVS", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Jefremovas, Villia"
+            ], 
+            "location": "MACINTOSH-CORRY RM E229", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

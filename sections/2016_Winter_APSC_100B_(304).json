@@ -1,0 +1,24 @@
+{
+    "_unique": "304-LAB (5625)", 
+    "basic": {
+        "class_num": "5625", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "304", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

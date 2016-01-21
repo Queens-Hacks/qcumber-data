@@ -1,0 +1,24 @@
+{
+    "_unique": "014-TUT (1517)", 
+    "basic": {
+        "class_num": "1517", 
+        "course": "110B", 
+        "season": "Winter", 
+        "solus_id": "014", 
+        "status": "Open", 
+        "subject": "FILM", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM304", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

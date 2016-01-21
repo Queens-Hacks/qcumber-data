@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course is intended to provide the student with a solid general knowledge of Business Law and Ethics. The course will cover core areas of the law, including the nature and structure of the Canadian justice system, contract, intellectual property, and tort law, as well as introduce concepts such as professional liability and ethics and the professions.", 
+        "number": "312", 
+        "subject": "MNTC", 
+        "title": "Business Law and Ethics"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "004-TUT (4340)", 
+    "basic": {
+        "class_num": "4340", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Closed", 
+        "subject": "HLTH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:00:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM106", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

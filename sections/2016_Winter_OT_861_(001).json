@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (4606)", 
+    "basic": {
+        "class_num": "4606", 
+        "course": "861", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "OT", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Edgelow, Megan Michele"
+            ], 
+            "location": "BOTTER RM B147", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-03-23", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Edgelow, Megan Michele"
+            ], 
+            "location": "DUNNING RM12", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-03-23", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

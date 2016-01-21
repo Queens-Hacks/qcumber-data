@@ -1,0 +1,26 @@
+{
+    "_unique": "004-TUT (3692)", 
+    "basic": {
+        "class_num": "3692", 
+        "course": "230", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "CIVL", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "20:30:00", 
+            "instructors": [
+                "MacDougall, Colin C"
+            ], 
+            "location": "DUNNING RM14", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

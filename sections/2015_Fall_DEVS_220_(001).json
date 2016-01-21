@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2336)", 
+    "basic": {
+        "class_num": "2336", 
+        "course": "220", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DEVS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Lovelace, Robert"
+            ], 
+            "location": "ELLIS RM327", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

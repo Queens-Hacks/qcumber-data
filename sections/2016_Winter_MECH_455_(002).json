@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LAB (6375)", 
+    "basic": {
+        "class_num": "6375", 
+        "course": "455", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Zak, Gennady"
+            ], 
+            "location": "BEAMISH-MUNRO RM326", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

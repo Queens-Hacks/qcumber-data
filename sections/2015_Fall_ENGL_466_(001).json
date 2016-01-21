@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (8394)", 
+    "basic": {
+        "class_num": "8394", 
+        "course": "466", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "ENGL", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Ware, Tracy"
+            ], 
+            "location": "ELLIS RM218", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Ware, Tracy"
+            ], 
+            "location": "ELLIS RM218", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

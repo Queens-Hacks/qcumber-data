@@ -1,0 +1,147 @@
+{
+    "_unique": "003-LAB (5216)", 
+    "basic": {
+        "class_num": "5216", 
+        "course": "273", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-01-17", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-01-31", 
+            "term_start": "2016-01-25"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-02-14", 
+            "term_start": "2016-02-08"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-02-28", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-03-13", 
+            "term_start": "2016-03-07"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-03-27", 
+            "term_start": "2016-03-21"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-01-17", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-01-31", 
+            "term_start": "2016-01-25"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-02-14", 
+            "term_start": "2016-02-08"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-02-28", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-03-13", 
+            "term_start": "2016-03-07"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Atia, Mohamed Maher Mohamed"
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-03-27", 
+            "term_start": "2016-03-21"
+        }
+    ]
+}

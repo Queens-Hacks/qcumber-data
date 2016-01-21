@@ -1,0 +1,24 @@
+{
+    "_unique": "003-TUT (2211)", 
+    "basic": {
+        "class_num": "2211", 
+        "course": "240", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "DEVS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM A311", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

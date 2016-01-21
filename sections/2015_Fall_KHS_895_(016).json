@@ -1,0 +1,26 @@
+{
+    "_unique": "016-LEC (9024)", 
+    "basic": {
+        "class_num": "9024", 
+        "course": "895", 
+        "season": "Fall", 
+        "solus_id": "016", 
+        "status": "Open", 
+        "subject": "KHS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Tschakovsky, Michael E"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LAB (3315)", 
+    "basic": {
+        "class_num": "3315", 
+        "course": "261A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MUSC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Szczesniak, Michel"
+            ], 
+            "location": "HARRISON-LECAINE RM120", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

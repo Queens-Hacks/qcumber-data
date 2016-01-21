@@ -1,0 +1,24 @@
+{
+    "_unique": "002-LAB (1911)", 
+    "basic": {
+        "class_num": "1911", 
+        "course": "220", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "CISC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "GOODWIN RM248", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "100-LEC (5497)", 
+    "basic": {
+        "class_num": "5497", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "100", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "STIRLING AUD", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

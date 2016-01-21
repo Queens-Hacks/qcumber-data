@@ -1,0 +1,26 @@
+{
+    "_unique": "700-ONL (2123)", 
+    "basic": {
+        "class_num": "2123", 
+        "course": "122", 
+        "season": "Summer", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Beamish, Robin B"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-07-22", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

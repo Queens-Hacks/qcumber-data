@@ -1,0 +1,70 @@
+{
+    "_unique": "009-LEC (7184)", 
+    "basic": {
+        "class_num": "7184", 
+        "course": "411A", 
+        "season": "Fall", 
+        "solus_id": "009", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "FitzPatrick, Nancy J"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A211N", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-09-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "FitzPatrick, Nancy J"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A211S", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-12-11", 
+            "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "FitzPatrick, Nancy J"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A211S", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-09-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "FitzPatrick, Nancy J"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A211N", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-12-11", 
+            "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "FitzPatrick, Nancy J"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:00:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-18"
+        }
+    ]
+}

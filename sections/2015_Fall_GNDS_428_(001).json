@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2730)", 
+    "basic": {
+        "class_num": "2730", 
+        "course": "428", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GNDS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Newman, Kenneth Shawn"
+            ], 
+            "location": "KINGSTON RM104", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

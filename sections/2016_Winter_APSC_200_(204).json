@@ -1,0 +1,132 @@
+{
+    "_unique": "204-STD (6251)", 
+    "basic": {
+        "class_num": "6251", 
+        "course": "200", 
+        "season": "Winter", 
+        "solus_id": "204", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "STD", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM313A", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-10-23", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM313A", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-10-23", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM313B", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-10-23", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM313B", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-10-23", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM402", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM402", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM403", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM403", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM404", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM404", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM405", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM405", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-26"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:00:00", 
+            "instructors": [], 
+            "location": "STIRLING RM414", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-10-30"
+        }
+    ]
+}

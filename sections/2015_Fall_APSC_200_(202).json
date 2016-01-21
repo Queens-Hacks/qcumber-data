@@ -1,0 +1,51 @@
+{
+    "_unique": "202-STD (6247)", 
+    "basic": {
+        "class_num": "6247", 
+        "course": "200", 
+        "season": "Fall", 
+        "solus_id": "202", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "STD", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM313A", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM313A", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM313B", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM313B", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

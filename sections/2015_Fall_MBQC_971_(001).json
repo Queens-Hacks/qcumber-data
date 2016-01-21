@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (4885)", 
+    "basic": {
+        "class_num": "4885", 
+        "course": "971", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBQC", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Busch, Marc"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-10-24", 
+            "term_start": "2015-10-18"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "001-SEM (8539)", 
+    "basic": {
+        "class_num": "8539", 
+        "course": "801", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ENSC", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2111", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

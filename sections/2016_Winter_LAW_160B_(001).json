@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (1292)", 
+    "basic": {
+        "class_num": "1292", 
+        "course": "160B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Bailey, Martha Jane"
+            ], 
+            "location": "MACDONALD RM211", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Bailey, Martha Jane"
+            ], 
+            "location": "MACDONALD RM211", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

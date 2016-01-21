@@ -1,0 +1,26 @@
+{
+    "_unique": "003-PRA (2816)", 
+    "basic": {
+        "class_num": "2816", 
+        "course": "243", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "GPHY", 
+        "type": "PRA", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Belanger, Paul"
+            ], 
+            "location": "MACINTOSH-CORRY RM E223", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (4876)", 
+    "basic": {
+        "class_num": "4876", 
+        "course": "932", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Wong, Kenneth B"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-11-27", 
+            "term_start": "2015-11-23"
+        }
+    ]
+}

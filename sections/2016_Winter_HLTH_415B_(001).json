@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (4166)", 
+    "basic": {
+        "class_num": "4166", 
+        "course": "415B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HLTH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Leroux, Janette Samantha"
+            ], 
+            "location": "ELLIS RM333", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Leroux, Janette Samantha"
+            ], 
+            "location": "ELLIS RM327", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

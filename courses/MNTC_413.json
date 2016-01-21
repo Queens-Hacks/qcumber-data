@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course presents a comprehensive overview of the principal components of surface mine design. Topics include pit limit analysis and economic optimization, haul road design, blast design, and basic stability calculations. Equipment selection and application and mine scheduling techniques will be introduced, including dragline applications. The focus will be on the practical application of design techniques to mine planning, and on the available equipment and methods for field monitoring to provide effective design feedback and support safe operations.", 
+        "number": "413", 
+        "subject": "MNTC", 
+        "title": "Surface Mine Design"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

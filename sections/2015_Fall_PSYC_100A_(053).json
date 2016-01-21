@@ -1,0 +1,24 @@
+{
+    "_unique": "053-LAB (4795)", 
+    "basic": {
+        "class_num": "4795", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "053", 
+        "status": "Open", 
+        "subject": "PSYC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM132", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

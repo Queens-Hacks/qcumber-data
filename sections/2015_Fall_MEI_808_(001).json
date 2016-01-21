@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8496)", 
+    "basic": {
+        "class_num": "8496", 
+        "course": "808", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MEI", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Murray, Elspeth J"
+            ], 
+            "location": "GOODES RM302", 
+            "start_time": null, 
+            "term_end": "2015-12-10", 
+            "term_start": "2015-09-21"
+        }
+    ]
+}

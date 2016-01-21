@@ -1,0 +1,24 @@
+{
+    "_unique": "008-TUT (9053)", 
+    "basic": {
+        "class_num": "9053", 
+        "course": "369", 
+        "season": "Fall", 
+        "solus_id": "008", 
+        "status": "Open", 
+        "subject": "BIOL", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM3112", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

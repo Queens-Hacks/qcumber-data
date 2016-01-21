@@ -1,0 +1,70 @@
+{
+    "_unique": "500-PRA (8504)", 
+    "basic": {
+        "class_num": "8504", 
+        "course": "430", 
+        "season": "Fall", 
+        "solus_id": "500", 
+        "status": "Closed", 
+        "subject": "PRAC", 
+        "type": "PRA", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-11-20", 
+            "term_start": "2015-11-02"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-11-20", 
+            "term_start": "2015-11-02"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-11-20", 
+            "term_start": "2015-11-02"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-11-20", 
+            "term_start": "2015-11-02"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "O'Neil, Tammy"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-11-20", 
+            "term_start": "2015-11-02"
+        }
+    ]
+}

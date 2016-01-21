@@ -1,0 +1,26 @@
+{
+    "_unique": "005-TUT (1297)", 
+    "basic": {
+        "class_num": "1297", 
+        "course": "136A", 
+        "season": "Fall", 
+        "solus_id": "005", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Choquette, Hugo Yvon Denis"
+            ], 
+            "location": "MACDONALD RM201", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

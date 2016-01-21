@@ -1,0 +1,37 @@
+{
+    "_unique": "002-LEC (6521)", 
+    "basic": {
+        "class_num": "6521", 
+        "course": "112", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "COMM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Hou, Yu"
+            ], 
+            "location": "GOODES RM118", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Hou, Yu"
+            ], 
+            "location": "GOODES RM118", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

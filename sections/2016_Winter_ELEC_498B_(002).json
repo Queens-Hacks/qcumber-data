@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (5266)", 
+    "basic": {
+        "class_num": "5266", 
+        "course": "498B", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Korenberg, Michael"
+            ], 
+            "location": "BIOSCI RM1102", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

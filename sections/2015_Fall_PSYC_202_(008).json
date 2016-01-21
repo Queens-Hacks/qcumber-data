@@ -1,0 +1,24 @@
+{
+    "_unique": "008-LAB (4649)", 
+    "basic": {
+        "class_num": "4649", 
+        "course": "202", 
+        "season": "Fall", 
+        "solus_id": "008", 
+        "status": "Closed", 
+        "subject": "PSYC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM219", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

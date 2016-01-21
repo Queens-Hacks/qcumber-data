@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (3602)", 
+    "basic": {
+        "class_num": "3602", 
+        "course": "222", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "CIVL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Mumford, Kevin"
+            ], 
+            "location": "BOTTER RM B139", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Mumford, Kevin"
+            ], 
+            "location": "BOTTER RM B139", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

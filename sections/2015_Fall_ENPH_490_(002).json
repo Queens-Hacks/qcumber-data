@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (5288)", 
+    "basic": {
+        "class_num": "5288", 
+        "course": "490", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ENPH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Noble, Anthony"
+            ], 
+            "location": "STIRLING RM414", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

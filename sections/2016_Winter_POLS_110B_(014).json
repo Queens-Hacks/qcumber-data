@@ -1,0 +1,24 @@
+{
+    "_unique": "014-TUT (3784)", 
+    "basic": {
+        "class_num": "3784", 
+        "course": "110B", 
+        "season": "Winter", 
+        "solus_id": "014", 
+        "status": "Closed", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM C508", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

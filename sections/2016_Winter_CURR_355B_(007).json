@@ -1,0 +1,103 @@
+{
+    "_unique": "007-LEC (6461)", 
+    "basic": {
+        "class_num": "6461", 
+        "course": "355B", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "CURR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-01-04", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-04-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-01-04", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-04-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-01-12", 
+            "term_start": "2016-01-12"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-18"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-01-12", 
+            "term_start": "2016-01-12"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Boese, Karen Anne"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-18"
+        }
+    ]
+}

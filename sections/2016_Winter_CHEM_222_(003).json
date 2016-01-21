@@ -1,0 +1,24 @@
+{
+    "_unique": "003-TUT (3312)", 
+    "basic": {
+        "class_num": "3312", 
+        "course": "222", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "CHEM", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM211", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

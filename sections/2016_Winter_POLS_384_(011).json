@@ -1,0 +1,24 @@
+{
+    "_unique": "011-TUT (7787)", 
+    "basic": {
+        "class_num": "7787", 
+        "course": "384", 
+        "season": "Winter", 
+        "solus_id": "011", 
+        "status": "Closed", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D405", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

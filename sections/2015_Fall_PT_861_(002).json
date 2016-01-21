@@ -1,0 +1,33 @@
+{
+    "_unique": "002-LAB (5350)", 
+    "basic": {
+        "class_num": "5350", 
+        "course": "861", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PT", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:00:00", 
+            "instructors": [], 
+            "location": "ACTON RM21", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-10-30", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:00:00", 
+            "instructors": [], 
+            "location": "ACTON RM21", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-10-30", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

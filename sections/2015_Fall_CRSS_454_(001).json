@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LSM (5749)", 
+    "basic": {
+        "class_num": "5749", 
+        "course": "454", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CRSS", 
+        "type": "LSM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "18:00:00", 
+            "instructors": [
+                "Adams, Michael Anthony"
+            ], 
+            "location": "MEDS RM021", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "18:00:00", 
+            "instructors": [
+                "Adams, Michael Anthony"
+            ], 
+            "location": "MEDS RM021", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

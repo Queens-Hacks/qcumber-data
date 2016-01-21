@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (7565)", 
+    "basic": {
+        "class_num": "7565", 
+        "course": "263", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "19:00:00", 
+            "instructors": [
+                "Cookson-Hills, Claire"
+            ], 
+            "location": "ELLIS RM321", 
+            "start_time": "17:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:00:00", 
+            "instructors": [
+                "Cookson-Hills, Claire"
+            ], 
+            "location": "ELLIS AUD", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "19:00:00", 
+            "instructors": [
+                "Cookson-Hills, Claire"
+            ], 
+            "location": "ELLIS RM333", 
+            "start_time": "17:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

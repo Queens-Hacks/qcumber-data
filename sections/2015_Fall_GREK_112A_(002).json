@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (2089)", 
+    "basic": {
+        "class_num": "2089", 
+        "course": "112A", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "GREK", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Kretler, Katherine"
+            ], 
+            "location": "THEOLOGICAL RM209", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

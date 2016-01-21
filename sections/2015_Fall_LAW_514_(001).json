@@ -1,0 +1,24 @@
+{
+    "_unique": "001-SEM (1140)", 
+    "basic": {
+        "class_num": "1140", 
+        "course": "514", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:00:00", 
+            "instructors": [], 
+            "location": "MACDONALD RM515", 
+            "start_time": "15:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

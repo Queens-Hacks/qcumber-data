@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (1524)", 
+    "basic": {
+        "class_num": "1524", 
+        "course": "400", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "FILM", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Allan, Blaine"
+            ], 
+            "location": "IBCPA RM312", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

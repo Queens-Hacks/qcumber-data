@@ -1,0 +1,24 @@
+{
+    "_unique": "003-LAB (6195)", 
+    "basic": {
+        "class_num": "6195", 
+        "course": "393", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "MTHE", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM326", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-02-05", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

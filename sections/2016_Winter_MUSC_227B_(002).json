@@ -1,0 +1,37 @@
+{
+    "_unique": "002-LAB (3458)", 
+    "basic": {
+        "class_num": "3458", 
+        "course": "227B", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MUSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Tormann, Cynthia"
+            ], 
+            "location": "HARRISON-LECAINE RM124", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Tormann, Cynthia"
+            ], 
+            "location": "HARRISON-LECAINE RM124", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

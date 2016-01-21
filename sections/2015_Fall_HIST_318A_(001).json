@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (3058)", 
+    "basic": {
+        "class_num": "3058", 
+        "course": "318A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Hill, Emily M"
+            ], 
+            "location": "JOHN WATSON RM207", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

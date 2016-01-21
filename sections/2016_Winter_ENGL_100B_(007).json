@@ -1,0 +1,24 @@
+{
+    "_unique": "007-TUT (2382)", 
+    "basic": {
+        "class_num": "2382", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Closed", 
+        "subject": "ENGL", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "THEOLOGICAL RM209", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

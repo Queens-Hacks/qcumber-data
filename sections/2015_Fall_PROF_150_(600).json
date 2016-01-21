@@ -1,0 +1,81 @@
+{
+    "_unique": "600-LEC (8762)", 
+    "basic": {
+        "class_num": "8762", 
+        "course": "150", 
+        "season": "Fall", 
+        "solus_id": "600", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 7, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Bell, Nicole"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-10-18", 
+            "term_start": "2015-10-16"
+        }, 
+        {
+            "day_of_week": 6, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Bell, Nicole"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-10-18", 
+            "term_start": "2015-10-16"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Bell, Nicole"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-10-18", 
+            "term_start": "2015-10-16"
+        }, 
+        {
+            "day_of_week": 7, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Bell, Nicole"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-12-13", 
+            "term_start": "2015-12-11"
+        }, 
+        {
+            "day_of_week": 6, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Bell, Nicole"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-12-13", 
+            "term_start": "2015-12-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Bell, Nicole"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-12-13", 
+            "term_start": "2015-12-11"
+        }
+    ]
+}

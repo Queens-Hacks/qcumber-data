@@ -1,0 +1,26 @@
+{
+    "_unique": "004-LAB (6588)", 
+    "basic": {
+        "class_num": "6588", 
+        "course": "104", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "GEOL", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Layton-Matthews, Daniel"
+            ], 
+            "location": "MILLER RM225", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}
