@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "This course provides an applied introduction to the principles and practice of the engineering of software artifacts. Topics include: processes for managing software development, software architecture, software design, software quality management, software testing and human-factors of computing systems. The course is illustrated with case studies in industrial practice in software engineering. (0/0/0/34/8)~ COURSE DELETED IN 2009/10 ~", 
+        "number": "323", 
+        "subject": "CMPE", 
+        "title": "Intro To Software Engineering"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 8, 
+            "Eng Sci": 34, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "403", 
+        "subject": "COMM", 
+        "title": "Business Ethics"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Exclusion: COMM403 excludes COMM338\r\nMust be year 3 or above.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Intensive study of a special topic in the Greek and Roman World from the Dark Ages to Late Antiquity.", 
+        "number": "820", 
+        "subject": "CLAS", 
+        "title": "Topics in Classical Studies"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

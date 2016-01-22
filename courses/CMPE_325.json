@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "Developing usable software requires that human factors be considered throughout the design and development process. This course introduces a series of techniques for development and evaluating usable software, and shows how these techniques can be integrated into a process for software development.\u00a0 Alternately offered as CISC 325/3.0.\u00a0", 
+        "number": "325", 
+        "subject": "CMPE", 
+        "title": "Human-Computer Interaction"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites\u00a0\u00a0\u00a0\u00a0 CISC124 and CISC235.\r\nExclusion\u00a0\u00a0\u00a0 No more than 3.0 units from CISC325; CMPE325.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

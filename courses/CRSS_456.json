@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "description": "An intensive course surveying the molecular and cellular mechanisms underlying the pathophysiology of the major cardiovascular diseases, and the current and emerging tolls used in their diagnosis and treatment. Alterations in signalling, metabolism, and structure and function will be discussed to present an integrative view of how cardiovascular diseases develop and progress.\r\nNOTE\u00a0\u00a0\u00a0 Priority given to students in the CRSS Sub-Plan.", 
+        "number": "456", 
+        "subject": "CRSS", 
+        "title": "Molecular and Cellular Basis of Cardiovascular Disease"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "Prerequisite (PHGY212 or PHGY214) and Level 4 and registration in a LISC Major or Specialization Plan and (a GPA of 2.5).", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

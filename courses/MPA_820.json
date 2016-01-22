@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course addresses the implementation or execution of policy by developing an understanding of the concepts and skills required for effective leadership and management in public organizations.", 
+        "number": "820", 
+        "subject": "MPA", 
+        "title": "Principles Of Management"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

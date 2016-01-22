@@ -12,13 +12,13 @@
     }, 
     "classes": [
         {
-            "day_of_week": null, 
-            "end_time": null, 
+            "day_of_week": 2, 
+            "end_time": "15:30:00", 
             "instructors": [
                 "Murty, Ram P M"
             ], 
-            "location": "TBA", 
-            "start_time": null, 
+            "location": "JEFFERY RM319", 
+            "start_time": "13:30:00", 
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }

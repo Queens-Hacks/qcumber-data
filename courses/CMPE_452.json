@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "Introduction to neural and genetic computing. Topics include associative memory systems, neural optimization strategies, supervised and unsupervised classification networks, genetic algorithms, genetic and evolutionary programming. Applications are examined, and the relation to biologic systems is discussed.", 
+        "number": "452", 
+        "subject": "CMPE", 
+        "title": "Neural And Genetic Computing"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 15, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 12, 
+            "Math": 9
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: ELEC 278 and permission of the department. Must also be registered in BSCE.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

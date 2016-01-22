@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course focuses on selected topics in public management. The content may vary from year to year.", 
+        "number": "895", 
+        "subject": "MPA", 
+        "title": "Topics In Public Management"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

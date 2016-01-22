@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "899", 
+        "subject": "CHEM", 
+        "title": "Master's Thesis Research"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Pass/Fail", 
+        "units": "6.00"
+    }
+}

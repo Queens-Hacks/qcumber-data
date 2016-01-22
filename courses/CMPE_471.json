@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Advanced computational approaches to the problems in molecular biology. Techniques and algorithms for sequence analysis and alignment; molecular databases; protein structure prediction and molecular data mining.", 
+        "number": "471", 
+        "subject": "CMPE", 
+        "title": "Computational Biology"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 18, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 18, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: CMPE 365 or CISC 365 or ELEC 278 and MBIO 218 and registered in BSCE.\r\nCOREQ: BCHM 315", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

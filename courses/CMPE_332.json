@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "Data models: relational, entity-relationship. Relational query languages: relational algebra and SQL. Relational database design. Application interfaces and embedded SQL. Storage and indexing.", 
+        "number": "332", 
+        "subject": "CMPE", 
+        "title": "Database Management Systems"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 12, 
+            "Eng Sci": 24, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "enrollment_requirement": "PREREQ: ELEC 276 or ELEC 278 and ELEC 270 or MTHE 217 or MATH 217 and registered in BSCE.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

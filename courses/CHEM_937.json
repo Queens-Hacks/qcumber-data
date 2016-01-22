@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "The application of statistical mechanics to fluids and interfaces. Topics include classical intermolecular and intramolecular potentials, molecular dynamics simulations, Monte Carlo simulations, and analytical theories. Fall. N. Cann.", 
+        "number": "937", 
+        "subject": "CHEM", 
+        "title": "Advanced Statistical Mechanics"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.50"
+    }
+}

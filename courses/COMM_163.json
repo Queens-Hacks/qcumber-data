@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "description": "This course deals with the application of deterministic mathematical models to management decision-making. Topics will include: the identification and formulation of decision models; the use of marginal analysis in basic problems of pricing and inventory control; the application of mathematical programming models in multivariate resource allocation; and the use of network models in transportation analysis, planning, and project management. Computer modeling and solution techniques will be discussed throughout the course, with emphasis on spreadsheet-based methods. A particular focus will be the interpretation and communication of model results.\u00a0 This course restricted to students enrolled in the 2nd year or higher of the Commerce Program.", 
+        "number": "163", 
+        "subject": "COMM", 
+        "title": "Business Decision Models I"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "enrollment_requirement": "(Prerequisite of COMM162 and registration in a BCOM Academic Program with a level > or equal to 2) or registration in a COMM-X Academic Plan.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}
