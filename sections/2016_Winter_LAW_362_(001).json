@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (7603)", 
+    "basic": {
+        "class_num": "7603", 
+        "course": "362", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "21:00:00", 
+            "instructors": [
+                "Ellis, Mark V P"
+            ], 
+            "location": "MACDONALD RM100", 
+            "start_time": "18:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-10"
+        }
+    ]
+}

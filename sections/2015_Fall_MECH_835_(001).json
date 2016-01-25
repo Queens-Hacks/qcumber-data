@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (9182)", 
+    "basic": {
+        "class_num": "9182", 
+        "course": "835", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Piomelli, Ugo"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "200-LEC (7739)", 
+    "basic": {
+        "class_num": "7739", 
+        "course": "210B", 
+        "season": "Winter", 
+        "solus_id": "200", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "19:50:00", 
+            "instructors": [
+                "White, Anne F"
+            ], 
+            "location": "TBA", 
+            "start_time": "18:00:00", 
+            "term_end": "2016-04-05", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

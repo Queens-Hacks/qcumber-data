@@ -1,0 +1,24 @@
+{
+    "_unique": "010-LAB (2121)", 
+    "basic": {
+        "class_num": "2121", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "010", 
+        "status": "Open", 
+        "subject": "DRAM", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:00:00", 
+            "instructors": [], 
+            "location": "THEOLOGICAL RM106", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

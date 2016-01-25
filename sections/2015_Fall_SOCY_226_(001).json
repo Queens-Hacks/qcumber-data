@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (5667)", 
+    "basic": {
+        "class_num": "5667", 
+        "course": "226", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "SOCY", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Hand, Martin J"
+            ], 
+            "location": "ELLIS AUD", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

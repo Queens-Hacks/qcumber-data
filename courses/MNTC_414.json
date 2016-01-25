@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "A study of underground mining technology will be presented. Up-to-date mining methods are reviewed, and trends in mining method development are closely analyzed. Mine design is studied in relation to ore reserves, tonnage and grade distribution. The problems and possibilities of existing and evolving mining techniques are reviewed.", 
+        "number": "414", 
+        "subject": "MNTC", 
+        "title": "Underground Mine Design"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

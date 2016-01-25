@@ -1,0 +1,235 @@
+{
+    "_unique": "002-LEC (1365)", 
+    "basic": {
+        "class_num": "1365", 
+        "course": "210", 
+        "season": "Summer", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A239", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A240", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A240", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A240", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A240", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Roblin, Nancy E"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A240", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-07-27", 
+            "term_start": "2016-07-04"
+        }
+    ]
+}

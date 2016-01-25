@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (2986)", 
+    "basic": {
+        "class_num": "2986", 
+        "course": "339", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Dueck, Gordon B"
+            ], 
+            "location": "MACINTOSH-CORRY RM D209", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

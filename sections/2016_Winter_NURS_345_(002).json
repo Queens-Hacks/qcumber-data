@@ -1,0 +1,24 @@
+{
+    "_unique": "002-LAB (5935)", 
+    "basic": {
+        "class_num": "5935", 
+        "course": "345", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "CATARAQUI RM222 LAB", 
+            "start_time": "08:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-IND (1243)", 
+    "basic": {
+        "class_num": "1243", 
+        "course": "303", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "INTN", 
+        "type": "IND", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Blake, Susan L"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-08-31", 
+            "term_start": "2016-05-03"
+        }
+    ]
+}

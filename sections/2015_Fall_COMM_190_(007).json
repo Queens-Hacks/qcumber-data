@@ -1,0 +1,37 @@
+{
+    "_unique": "007-LEC (7547)", 
+    "basic": {
+        "class_num": "7547", 
+        "course": "190", 
+        "season": "Fall", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "COMM", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:00:00", 
+            "instructors": [
+                "Ahuja, Suchit"
+            ], 
+            "location": "GOODES RM153", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Ahuja, Suchit"
+            ], 
+            "location": "GOODES RM153", 
+            "start_time": "16:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

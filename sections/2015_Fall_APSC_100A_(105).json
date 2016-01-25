@@ -1,0 +1,26 @@
+{
+    "_unique": "105-LEC (8228)", 
+    "basic": {
+        "class_num": "8228", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "105", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Frank, Brian Matthew"
+            ], 
+            "location": "ELLIS RM321", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

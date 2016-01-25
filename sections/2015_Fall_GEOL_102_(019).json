@@ -1,0 +1,24 @@
+{
+    "_unique": "019-TUT (6712)", 
+    "basic": {
+        "class_num": "6712", 
+        "course": "102", 
+        "season": "Fall", 
+        "solus_id": "019", 
+        "status": "Closed", 
+        "subject": "GEOL", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "_unique": "002-LEC (1258)", 
+    "basic": {
+        "class_num": "1258", 
+        "course": "507", 
+        "season": "Summer", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:50:00", 
+            "instructors": [
+                "Clarke, Kyle"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-06-09", 
+            "term_start": "2016-05-30"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "12:50:00", 
+            "instructors": [
+                "Clarke, Kyle"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-06-09", 
+            "term_start": "2016-05-30"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "12:50:00", 
+            "instructors": [
+                "Clarke, Kyle"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-06-09", 
+            "term_start": "2016-05-30"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:50:00", 
+            "instructors": [
+                "Clarke, Kyle"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-06-09", 
+            "term_start": "2016-05-30"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:50:00", 
+            "instructors": [
+                "Clarke, Kyle"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A234", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-06-09", 
+            "term_start": "2016-05-30"
+        }
+    ]
+}

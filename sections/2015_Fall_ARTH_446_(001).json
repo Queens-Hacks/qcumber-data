@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8755)", 
+    "basic": {
+        "class_num": "8755", 
+        "course": "446", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ARTH", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Dickey, Stephanie"
+            ], 
+            "location": "KINGSTON RM104", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

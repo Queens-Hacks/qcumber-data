@@ -1,0 +1,26 @@
+{
+    "_unique": "001-ONL (6274)", 
+    "basic": {
+        "class_num": "6274", 
+        "course": "472", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MINE", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Marshall, Joshua A"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

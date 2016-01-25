@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (2092)", 
+    "basic": {
+        "class_num": "2092", 
+        "course": "421", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "GREK", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Bevan, George"
+            ], 
+            "location": "JOHN WATSON RM522", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Bevan, George"
+            ], 
+            "location": "JOHN WATSON RM522", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

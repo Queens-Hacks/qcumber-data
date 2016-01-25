@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (7452)", 
+    "basic": {
+        "class_num": "7452", 
+        "course": "237", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "LAW", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:00:00", 
+            "instructors": [
+                "Shaw, Geoff"
+            ], 
+            "location": "MACDONALD RM300", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-02-10", 
+            "term_start": "2016-01-20"
+        }
+    ]
+}

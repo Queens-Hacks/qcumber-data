@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (7087)", 
+    "basic": {
+        "class_num": "7087", 
+        "course": "452", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "MECH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Surgenor, Brian W"
+            ], 
+            "location": "JACKSON RM116", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

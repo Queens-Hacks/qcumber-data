@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LAB (6270)", 
+    "basic": {
+        "class_num": "6270", 
+        "course": "471", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "MINE", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Marshall, Joshua A"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

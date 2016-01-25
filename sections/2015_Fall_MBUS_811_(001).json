@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8525)", 
+    "basic": {
+        "class_num": "8525", 
+        "course": "811", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Moore, John C"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-11-07", 
+            "term_start": "2015-09-11"
+        }
+    ]
+}

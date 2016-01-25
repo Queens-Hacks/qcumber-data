@@ -1,0 +1,26 @@
+{
+    "_unique": "017-TUT (8128)", 
+    "basic": {
+        "class_num": "8128", 
+        "course": "150A", 
+        "season": "Fall", 
+        "solus_id": "017", 
+        "status": "Open", 
+        "subject": "FREN", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Conacher, Agnes M"
+            ], 
+            "location": "MACINTOSH-CORRY RM C416", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

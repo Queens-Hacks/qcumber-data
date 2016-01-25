@@ -1,0 +1,37 @@
+{
+    "_unique": "002-FLD (7779)", 
+    "basic": {
+        "class_num": "7779", 
+        "course": "862", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "OT", 
+        "type": "FLD", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Donnelly, Catherine"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-22", 
+            "term_start": "2016-01-21"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Donnelly, Catherine"
+            ], 
+            "location": "TBA", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-22", 
+            "term_start": "2016-01-22"
+        }
+    ]
+}

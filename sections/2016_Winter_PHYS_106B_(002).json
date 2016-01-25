@@ -1,0 +1,62 @@
+{
+    "_unique": "002-LAB (4480)", 
+    "basic": {
+        "class_num": "4480", 
+        "course": "106B", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "PHYS", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Fraser, James"
+            ], 
+            "location": "STIRLING RM401", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM412A", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM512", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM513", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM514", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

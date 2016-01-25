@@ -1,0 +1,24 @@
+{
+    "_unique": "003-TUT (6078)", 
+    "basic": {
+        "class_num": "6078", 
+        "course": "281", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "MATH", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "ELLIS RM324", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

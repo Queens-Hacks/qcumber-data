@@ -1,0 +1,24 @@
+{
+    "_unique": "700-ONL (2100)", 
+    "basic": {
+        "class_num": "2100", 
+        "course": "140", 
+        "season": "Summer", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "FILM", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-08-12", 
+            "term_start": "2016-07-04"
+        }
+    ]
+}

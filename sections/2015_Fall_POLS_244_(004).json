@@ -1,0 +1,24 @@
+{
+    "_unique": "004-TUT (8248)", 
+    "basic": {
+        "class_num": "8248", 
+        "course": "244", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "JOHN WATSON RM207", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

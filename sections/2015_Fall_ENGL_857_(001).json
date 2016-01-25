@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8929)", 
+    "basic": {
+        "class_num": "8929", 
+        "course": "857", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ENGL", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Berg, Maggie Anne"
+            ], 
+            "location": "JOHN WATSON RM406", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

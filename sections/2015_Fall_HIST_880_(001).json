@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8978)", 
+    "basic": {
+        "class_num": "8978", 
+        "course": "880", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Greenfield, Richard P H"
+            ], 
+            "location": "KINES & HLTH RM102", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

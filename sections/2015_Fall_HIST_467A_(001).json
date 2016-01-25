@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (3030)", 
+    "basic": {
+        "class_num": "3030", 
+        "course": "467A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Carley, Georgia Grace"
+            ], 
+            "location": "HUMPHREY RM223", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

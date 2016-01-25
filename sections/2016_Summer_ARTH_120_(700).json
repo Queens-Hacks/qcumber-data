@@ -1,0 +1,26 @@
+{
+    "_unique": "700-ONL (2079)", 
+    "basic": {
+        "class_num": "2079", 
+        "course": "120", 
+        "season": "Summer", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "ARTH", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Russell-Corbett, Jane P"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-07-22", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

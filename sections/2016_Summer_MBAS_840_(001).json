@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2040)", 
+    "basic": {
+        "class_num": "2040", 
+        "course": "840", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBAS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jenkin, Tracy"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-13", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

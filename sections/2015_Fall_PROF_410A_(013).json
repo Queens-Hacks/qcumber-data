@@ -1,0 +1,37 @@
+{
+    "_unique": "013-LEC (7170)", 
+    "basic": {
+        "class_num": "7170", 
+        "course": "410A", 
+        "season": "Fall", 
+        "solus_id": "013", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Petrick, Robert"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B242", 
+            "start_time": "11:00:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-09-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Petrick, Robert"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B242", 
+            "start_time": "11:00:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-11-23"
+        }
+    ]
+}

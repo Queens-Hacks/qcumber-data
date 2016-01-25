@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LSM (9006)", 
+    "basic": {
+        "class_num": "9006", 
+        "course": "886", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "KHS", 
+        "type": "LSM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Ross, Robert M J"
+            ], 
+            "location": "TBA", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

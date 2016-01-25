@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8971)", 
+    "basic": {
+        "class_num": "8971", 
+        "course": "804", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "van Deusen, Nancy E"
+            ], 
+            "location": "MACINTOSH-CORRY RM C416", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

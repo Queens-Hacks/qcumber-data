@@ -1,0 +1,48 @@
+{
+    "_unique": "001-SEM (2568)", 
+    "basic": {
+        "class_num": "2568", 
+        "course": "480", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "ENSC", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Hall, Geoff"
+            ], 
+            "location": "JOHN WATSON RM207", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Hall, Geoff"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-15"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Hall, Geoff"
+            ], 
+            "location": "JEFFERY RM110", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

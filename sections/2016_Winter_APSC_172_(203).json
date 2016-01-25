@@ -1,0 +1,24 @@
+{
+    "_unique": "203-TUT (5289)", 
+    "basic": {
+        "class_num": "5289", 
+        "course": "172", 
+        "season": "Winter", 
+        "solus_id": "203", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM101", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

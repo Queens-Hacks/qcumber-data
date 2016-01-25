@@ -1,0 +1,24 @@
+{
+    "_unique": "016-TUT (8577)", 
+    "basic": {
+        "class_num": "8577", 
+        "course": "100", 
+        "season": "Fall", 
+        "solus_id": "016", 
+        "status": "Closed", 
+        "subject": "FOUN", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-10-02", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "204-TUT (6055)", 
+    "basic": {
+        "class_num": "6055", 
+        "course": "171", 
+        "season": "Fall", 
+        "solus_id": "204", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM225", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-21"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "216-TUT (6219)", 
+    "basic": {
+        "class_num": "6219", 
+        "course": "131", 
+        "season": "Fall", 
+        "solus_id": "216", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM211", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

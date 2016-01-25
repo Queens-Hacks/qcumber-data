@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8461)", 
+    "basic": {
+        "class_num": "8461", 
+        "course": "800", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "PME", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Searle, Michelle Jennifer"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-03-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (2422)", 
+    "basic": {
+        "class_num": "2422", 
+        "course": "440", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ECON", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Head, Allen C"
+            ], 
+            "location": "MACDONALD RM2", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Head, Allen C"
+            ], 
+            "location": "MACDONALD RM2", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

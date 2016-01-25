@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (8267)", 
+    "basic": {
+        "class_num": "8267", 
+        "course": "892", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MATH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Murty, Ram P M"
+            ], 
+            "location": "JEFFERY RM422", 
+            "start_time": "12:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Murty, Ram P M"
+            ], 
+            "location": "JEFFERY RM422", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

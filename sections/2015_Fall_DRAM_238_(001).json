@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (2181)", 
+    "basic": {
+        "class_num": "2181", 
+        "course": "238", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DRAM", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Salverson, Julie"
+            ], 
+            "location": "IBCPA RM104", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-10-30", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Salverson, Julie"
+            ], 
+            "location": "IBCPA RM104", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-10-30", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

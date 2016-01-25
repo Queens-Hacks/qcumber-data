@@ -1,0 +1,24 @@
+{
+    "_unique": "005-TUT (2436)", 
+    "basic": {
+        "class_num": "2436", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "005", 
+        "status": "Closed", 
+        "subject": "ENGL", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "THEOLOGICAL RM209", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "004-LEC (7546)", 
+    "basic": {
+        "class_num": "7546", 
+        "course": "181", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "COMM", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Wallace, April"
+            ], 
+            "location": "GOODES RM118", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

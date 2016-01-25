@@ -1,0 +1,24 @@
+{
+    "_unique": "008-TUT (1473)", 
+    "basic": {
+        "class_num": "1473", 
+        "course": "110B", 
+        "season": "Winter", 
+        "solus_id": "008", 
+        "status": "Closed", 
+        "subject": "FILM", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D216", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "004-LAB (5903)", 
+    "basic": {
+        "class_num": "5903", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "ACTON CEC", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "_unique": "002-LEC (8310)", 
+    "basic": {
+        "class_num": "8310", 
+        "course": "295A", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "FOCI", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Martin, Andrea K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-09-02"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Martin, Andrea K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-12-02", 
+            "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Martin, Andrea K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-12-02", 
+            "term_start": "2015-11-23"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Martin, Andrea K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-10-09", 
+            "term_start": "2015-09-02"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Martin, Andrea K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-16"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Martin, Andrea K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "15:50:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-12-16"
+        }
+    ]
+}

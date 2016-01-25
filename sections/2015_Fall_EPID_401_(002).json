@@ -1,0 +1,24 @@
+{
+    "_unique": "002-LAB (1005)", 
+    "basic": {
+        "class_num": "1005", 
+        "course": "401", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "EPID", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

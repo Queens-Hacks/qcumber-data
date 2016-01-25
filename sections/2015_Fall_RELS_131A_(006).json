@@ -1,0 +1,24 @@
+{
+    "_unique": "006-TUT (4994)", 
+    "basic": {
+        "class_num": "4994", 
+        "course": "131A", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Closed", 
+        "subject": "RELS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM106", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

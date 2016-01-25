@@ -1,0 +1,26 @@
+{
+    "_unique": "001-PRA (4022)", 
+    "basic": {
+        "class_num": "4022", 
+        "course": "333B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PACT", 
+        "type": "PRA", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jackson, Kathy"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

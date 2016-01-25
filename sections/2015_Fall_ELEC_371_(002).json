@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (5786)", 
+    "basic": {
+        "class_num": "5786", 
+        "course": "371", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "location": "DUNNING RM14", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

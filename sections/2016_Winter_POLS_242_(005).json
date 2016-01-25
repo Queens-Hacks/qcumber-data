@@ -1,0 +1,24 @@
+{
+    "_unique": "005-TUT (7635)", 
+    "basic": {
+        "class_num": "7635", 
+        "course": "242", 
+        "season": "Winter", 
+        "solus_id": "005", 
+        "status": "Closed", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

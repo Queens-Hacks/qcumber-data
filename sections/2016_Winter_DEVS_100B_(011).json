@@ -1,0 +1,24 @@
+{
+    "_unique": "011-TUT (2191)", 
+    "basic": {
+        "class_num": "2191", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "011", 
+        "status": "Closed", 
+        "subject": "DEVS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "THEOLOGICAL RM209", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (5255)", 
+    "basic": {
+        "class_num": "5255", 
+        "course": "851", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "OT", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Fayed, Nora"
+            ], 
+            "location": "ELLIS RM321", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Fayed, Nora"
+            ], 
+            "location": "ACTON CEC", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Fayed, Nora"
+            ], 
+            "location": "ACTON CEC", 
+            "start_time": "09:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

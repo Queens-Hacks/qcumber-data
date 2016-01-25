@@ -1,0 +1,51 @@
+{
+    "_unique": "100-LEC (6005)", 
+    "basic": {
+        "class_num": "6005", 
+        "course": "131", 
+        "season": "Winter", 
+        "solus_id": "100", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "ETHERINGTON AUD", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "BIOSCI AUD", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-11-12", 
+            "term_start": "2015-11-11"
+        }
+    ]
+}

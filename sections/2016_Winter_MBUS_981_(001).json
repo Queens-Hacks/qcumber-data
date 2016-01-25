@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (7930)", 
+    "basic": {
+        "class_num": "7930", 
+        "course": "981", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Murray, Elspeth J"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-02-17", 
+            "term_start": "2016-02-14"
+        }
+    ]
+}

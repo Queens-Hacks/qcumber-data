@@ -1,0 +1,26 @@
+{
+    "_unique": "001-IND (1175)", 
+    "basic": {
+        "class_num": "1175", 
+        "course": "591B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "IND", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Mills, Jana L S"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

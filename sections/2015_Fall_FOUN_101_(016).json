@@ -1,0 +1,42 @@
+{
+    "_unique": "016-TUT (8594)", 
+    "basic": {
+        "class_num": "8594", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "016", 
+        "status": "Open", 
+        "subject": "FOUN", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-18", 
+            "term_start": "2015-11-27"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-02", 
+            "term_start": "2015-12-02"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-16", 
+            "term_start": "2015-12-16"
+        }
+    ]
+}

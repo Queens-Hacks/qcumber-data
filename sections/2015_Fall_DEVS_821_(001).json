@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8545)", 
+    "basic": {
+        "class_num": "8545", 
+        "course": "821", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "DEVS", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Jefremovas, Villia"
+            ], 
+            "location": "MACINTOSH-CORRY RM A416", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

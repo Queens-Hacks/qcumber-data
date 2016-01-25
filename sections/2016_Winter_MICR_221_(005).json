@@ -1,0 +1,69 @@
+{
+    "_unique": "005-LAB (1431)", 
+    "basic": {
+        "class_num": "1431", 
+        "course": "221", 
+        "season": "Winter", 
+        "solus_id": "005", 
+        "status": "Closed", 
+        "subject": "MICR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-01-17", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-01-31", 
+            "term_start": "2016-01-25"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-14", 
+            "term_start": "2016-02-08"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-28", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-03-13", 
+            "term_start": "2016-03-07"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-03-27", 
+            "term_start": "2016-03-21"
+        }
+    ]
+}

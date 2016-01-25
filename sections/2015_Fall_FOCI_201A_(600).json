@@ -1,0 +1,48 @@
+{
+    "_unique": "600-LEC (8761)", 
+    "basic": {
+        "class_num": "8761", 
+        "course": "201A", 
+        "season": "Fall", 
+        "solus_id": "600", 
+        "status": "Open", 
+        "subject": "FOCI", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 7, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Roy, Stephanie"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-09-20", 
+            "term_start": "2015-09-18"
+        }, 
+        {
+            "day_of_week": 6, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Roy, Stephanie"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-09-20", 
+            "term_start": "2015-09-18"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "Roy, Stephanie"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-09-20", 
+            "term_start": "2015-09-18"
+        }
+    ]
+}

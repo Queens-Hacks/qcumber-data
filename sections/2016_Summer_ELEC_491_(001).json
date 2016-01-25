@@ -1,0 +1,24 @@
+{
+    "_unique": "001-LAB (1356)", 
+    "basic": {
+        "class_num": "1356", 
+        "course": "491", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-08-31", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LEC (7553)", 
+    "basic": {
+        "class_num": "7553", 
+        "course": "823", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MFIN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Klar, George"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-09-20", 
+            "term_start": "2015-08-09"
+        }
+    ]
+}

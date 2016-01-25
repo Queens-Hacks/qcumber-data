@@ -1,0 +1,26 @@
+{
+    "_unique": "001-IND (2986)", 
+    "basic": {
+        "class_num": "2986", 
+        "course": "515A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "IND", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "D'Elia, Anthony Francis"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

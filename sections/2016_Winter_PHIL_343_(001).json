@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (3695)", 
+    "basic": {
+        "class_num": "3695", 
+        "course": "343", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "PHIL", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Gordon-Solmon, Kerah"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

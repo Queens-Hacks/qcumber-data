@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course covers the fundamentals and practical applications of major hydrometallurgical and pyrometallurgical unit operations. An introduction to physical, hydrometallurgical and thermochemical processing in the production of metals and materials will be provided. Basic processing concepts and unit operations will be discussed. Fundamentals of mass and heat balances in metallurgical processes will be covered.", 
+        "number": "415", 
+        "subject": "MNTC", 
+        "title": "Metallurgical Techniques"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

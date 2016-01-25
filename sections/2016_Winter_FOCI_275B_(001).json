@@ -1,0 +1,59 @@
+{
+    "_unique": "001-LEC (6853)", 
+    "basic": {
+        "class_num": "6853", 
+        "course": "275B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "FOCI", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Cooper, Amanda"
+            ], 
+            "location": "TBA", 
+            "start_time": "15:50:00", 
+            "term_end": "2016-01-06", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Cooper, Amanda"
+            ], 
+            "location": "TBA", 
+            "start_time": "15:50:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-04-11"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Cooper, Amanda"
+            ], 
+            "location": "DUNMCAN MCARTHUR RM B307", 
+            "start_time": "15:50:00", 
+            "term_end": "2016-01-13", 
+            "term_start": "2016-01-13"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Cooper, Amanda"
+            ], 
+            "location": "TBA", 
+            "start_time": "15:50:00", 
+            "term_end": "2016-02-10", 
+            "term_start": "2016-01-20"
+        }
+    ]
+}

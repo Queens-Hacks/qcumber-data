@@ -1,0 +1,24 @@
+{
+    "_unique": "022-TUT (7715)", 
+    "basic": {
+        "class_num": "7715", 
+        "course": "125", 
+        "season": "Winter", 
+        "solus_id": "022", 
+        "status": "Closed", 
+        "subject": "GNDS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "ONTARIO RM209", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

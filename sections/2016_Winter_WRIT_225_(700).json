@@ -1,0 +1,26 @@
+{
+    "_unique": "700-ONL (6950)", 
+    "basic": {
+        "class_num": "6950", 
+        "course": "225", 
+        "season": "Winter", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "WRIT", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Hardwick, Martina"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

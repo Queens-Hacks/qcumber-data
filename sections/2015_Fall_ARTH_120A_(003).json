@@ -1,0 +1,24 @@
+{
+    "_unique": "003-TUT (4576)", 
+    "basic": {
+        "class_num": "4576", 
+        "course": "120A", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "ARTH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM102", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

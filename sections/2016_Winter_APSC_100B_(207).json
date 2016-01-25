@@ -1,0 +1,33 @@
+{
+    "_unique": "207-STD (5517)", 
+    "basic": {
+        "class_num": "5517", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "207", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "STD", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "700-ONL (6937)", 
+    "basic": {
+        "class_num": "6937", 
+        "course": "211", 
+        "season": "Winter", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "DRAM", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Walker, Craig S"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

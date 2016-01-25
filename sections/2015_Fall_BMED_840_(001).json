@@ -1,0 +1,46 @@
+{
+    "_unique": "001-SEM (8214)", 
+    "basic": {
+        "class_num": "8214", 
+        "course": "840", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "BMED", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "WALTER LIGHT RM205", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Nakatsu, Kanji"
+            ], 
+            "location": "DUPUIS AUD", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Nakatsu, Kanji"
+            ], 
+            "location": "ELLIS AUD", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

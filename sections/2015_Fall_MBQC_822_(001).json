@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (4883)", 
+    "basic": {
+        "class_num": "4883", 
+        "course": "822", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBQC", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Campello, Murillo"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-09-26", 
+            "term_start": "2015-08-22"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "_unique": "206-TUT (6003)", 
+    "basic": {
+        "class_num": "6003", 
+        "course": "111", 
+        "season": "Winter", 
+        "solus_id": "206", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM412A", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM412B", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-IND (2153)", 
+    "basic": {
+        "class_num": "2153", 
+        "course": "501B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "DRAM", 
+        "type": "IND", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Lazarus, John S"
+            ], 
+            "location": "THEOLOGICAL RM118", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

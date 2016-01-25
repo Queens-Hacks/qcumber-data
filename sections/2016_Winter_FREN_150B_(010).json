@@ -1,0 +1,26 @@
+{
+    "_unique": "010-TUT (2575)", 
+    "basic": {
+        "class_num": "2575", 
+        "course": "150B", 
+        "season": "Winter", 
+        "solus_id": "010", 
+        "status": "Open", 
+        "subject": "FREN", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Conacher, Agnes M"
+            ], 
+            "location": "MACINTOSH-CORRY RM C416", 
+            "start_time": "16:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

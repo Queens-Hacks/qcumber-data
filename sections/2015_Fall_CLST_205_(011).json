@@ -1,0 +1,24 @@
+{
+    "_unique": "011-BLN (2053)", 
+    "basic": {
+        "class_num": "2053", 
+        "course": "205", 
+        "season": "Fall", 
+        "solus_id": "011", 
+        "status": "Closed", 
+        "subject": "CLST", 
+        "type": "BLN", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM E230", 
+            "start_time": "16:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

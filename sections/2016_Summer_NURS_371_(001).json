@@ -1,0 +1,48 @@
+{
+    "_unique": "001-CLN (5939)", 
+    "basic": {
+        "class_num": "5939", 
+        "course": "371", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "NURS", 
+        "type": "CLN", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "19:00:00", 
+            "instructors": [
+                "Papanicolaou, Alicia D"
+            ], 
+            "location": "TBA", 
+            "start_time": "07:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Gedcke-Kerr, Laurie M"
+            ], 
+            "location": "TBA", 
+            "start_time": "07:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Gedcke-Kerr, Laurie M"
+            ], 
+            "location": "TBA", 
+            "start_time": "07:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

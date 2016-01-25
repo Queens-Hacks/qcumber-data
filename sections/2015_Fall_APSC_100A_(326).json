@@ -1,0 +1,24 @@
+{
+    "_unique": "326-LAB (6339)", 
+    "basic": {
+        "class_num": "6339", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "326", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

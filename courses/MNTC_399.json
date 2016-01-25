@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Field School I provides a hands-on laboratory experience for fields related to the third year curriculum. Field school modules include an introduction to laboratory techniques and data analysis, rock mechanics, blasting technology, and mineral processing. Students will develop practical skills both in laboratory and realistic field scenarios. A focus on occupational health and safety is emphasized throughout.", 
+        "number": "399", 
+        "subject": "MNTC", 
+        "title": "Field School I (Kingston)"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }
+}

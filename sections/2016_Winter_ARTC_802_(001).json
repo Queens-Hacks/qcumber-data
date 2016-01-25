@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (8673)", 
+    "basic": {
+        "class_num": "8673", 
+        "course": "802", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ARTC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Murray, Alison"
+            ], 
+            "location": "ONTARIO RM206", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Murray, Alison"
+            ], 
+            "location": "ONTARIO RM206", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

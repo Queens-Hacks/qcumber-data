@@ -1,0 +1,46 @@
+{
+    "_unique": "102-LEC (6071)", 
+    "basic": {
+        "class_num": "6071", 
+        "course": "111", 
+        "season": "Winter", 
+        "solus_id": "102", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "STIRLING AUD", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Topper, Anne"
+            ], 
+            "location": "STIRLING AUD", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Topper, Anne"
+            ], 
+            "location": "STIRLING AUD", 
+            "start_time": "13:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

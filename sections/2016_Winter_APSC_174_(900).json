@@ -1,0 +1,81 @@
+{
+    "_unique": "900-LEC (5787)", 
+    "basic": {
+        "class_num": "5787", 
+        "course": "174", 
+        "season": "Winter", 
+        "solus_id": "900", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Deng, Yanxia"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Deng, Yanxia"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Deng, Yanxia"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Deng, Yanxia"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-06-10", 
+            "term_start": "2016-05-02"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Deng, Yanxia"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-06-10", 
+            "term_start": "2016-05-02"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Deng, Yanxia"
+            ], 
+            "location": "JEFFERY RM128", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-06-10", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

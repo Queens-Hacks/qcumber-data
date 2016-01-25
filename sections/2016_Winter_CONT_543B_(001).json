@@ -1,0 +1,24 @@
+{
+    "_unique": "001-ONL (7310)", 
+    "basic": {
+        "class_num": "7310", 
+        "course": "543B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CONT", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-01"
+        }
+    ]
+}

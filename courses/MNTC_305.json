@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course presents an overview of the stages of mining, from exploration and prospecting, through development, exploitation, and finally closure and reclamation. Students are introduced to mine financing, methods and design (both surface and underground), mining operations and planning, services (e.g., rock mechanics, ventilation, drilling and blasting), mining equipment and technologies, as well as social and environmental challenges. Case studies and examples are used to illustrate the fundamentals. Topics related to the processing of mined materials are not covered by this course, but rather in MNTC 306.", 
+        "number": "305", 
+        "subject": "MNTC", 
+        "title": "Introduction to Mining"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

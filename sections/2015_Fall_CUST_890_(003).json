@@ -1,0 +1,26 @@
+{
+    "_unique": "003-IND (8983)", 
+    "basic": {
+        "class_num": "8983", 
+        "course": "890", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "CUST", 
+        "type": "IND", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Miller, James E"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

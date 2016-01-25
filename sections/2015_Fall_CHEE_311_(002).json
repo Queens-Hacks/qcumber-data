@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (2752)", 
+    "basic": {
+        "class_num": "2752", 
+        "course": "311", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "CHEE", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Meunier, Louise"
+            ], 
+            "location": "DUPUIS RM215", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

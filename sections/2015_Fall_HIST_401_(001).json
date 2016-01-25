@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (3064)", 
+    "basic": {
+        "class_num": "3064", 
+        "course": "401", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Brison, Jeffrey"
+            ], 
+            "location": "KINGSTON RM204", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

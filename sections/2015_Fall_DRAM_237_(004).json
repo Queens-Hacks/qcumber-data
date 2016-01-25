@@ -1,0 +1,26 @@
+{
+    "_unique": "004-PRA (8615)", 
+    "basic": {
+        "class_num": "8615", 
+        "course": "237", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Closed", 
+        "subject": "DRAM", 
+        "type": "PRA", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Wanless, Gregory"
+            ], 
+            "location": "IBCPA RM104", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

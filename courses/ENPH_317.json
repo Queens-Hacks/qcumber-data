@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "A continuation of PHYS 316. Partial differential equations, functions of a complex variable and contour integration, and special topics such as probability and statistics, group theory and non-linear dynamics.", 
+        "number": "317", 
+        "subject": "ENPH", 
+        "title": "Mathematical Methods in Physics II"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 11, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 31
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8241)", 
+    "basic": {
+        "class_num": "8241", 
+        "course": "367", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Sokolsky, Joel Jeffrey"
+            ], 
+            "location": "CHERNOFF RM211", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "500-LEC (1254)", 
+    "basic": {
+        "class_num": "1254", 
+        "course": "503", 
+        "season": "Summer", 
+        "solus_id": "500", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-08-05", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

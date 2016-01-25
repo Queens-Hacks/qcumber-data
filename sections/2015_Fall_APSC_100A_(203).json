@@ -1,0 +1,24 @@
+{
+    "_unique": "203-STD (6147)", 
+    "basic": {
+        "class_num": "6147", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "203", 
+        "status": "Closed", 
+        "subject": "APSC", 
+        "type": "STD", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8326)", 
+    "basic": {
+        "class_num": "8326", 
+        "course": "865B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Dubinsky, Karen"
+            ], 
+            "location": "MACINTOSH-CORRY RM A416", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

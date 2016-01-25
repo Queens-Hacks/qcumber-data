@@ -1,0 +1,24 @@
+{
+    "_unique": "002-LEC (8046)", 
+    "basic": {
+        "class_num": "8046", 
+        "course": "899", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "EDUC", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "014-TUT (2454)", 
+    "basic": {
+        "class_num": "2454", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "014", 
+        "status": "Open", 
+        "subject": "ENGL", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "THEOLOGICAL RM209", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

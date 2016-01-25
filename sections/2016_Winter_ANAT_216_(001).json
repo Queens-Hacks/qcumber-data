@@ -1,0 +1,42 @@
+{
+    "_unique": "001-LEC (1324)", 
+    "basic": {
+        "class_num": "1324", 
+        "course": "216", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ANAT", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "STIRLING AUD", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [], 
+            "location": "STIRLING AUD", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "STIRLING AUD", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

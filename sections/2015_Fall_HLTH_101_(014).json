@@ -1,0 +1,24 @@
+{
+    "_unique": "014-TUT (4360)", 
+    "basic": {
+        "class_num": "4360", 
+        "course": "101", 
+        "season": "Fall", 
+        "solus_id": "014", 
+        "status": "Closed", 
+        "subject": "HLTH", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM D122", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

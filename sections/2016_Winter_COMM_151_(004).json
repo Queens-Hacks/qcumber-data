@@ -1,0 +1,26 @@
+{
+    "_unique": "004-LEC (6553)", 
+    "basic": {
+        "class_num": "6553", 
+        "course": "151", 
+        "season": "Winter", 
+        "solus_id": "004", 
+        "status": "Closed", 
+        "subject": "COMM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Shepherd, Margaret"
+            ], 
+            "location": "GOODES RM153", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

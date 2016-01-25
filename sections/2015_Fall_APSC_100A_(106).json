@@ -1,0 +1,26 @@
+{
+    "_unique": "106-LEC (8229)", 
+    "basic": {
+        "class_num": "8229", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "106", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Sweetman, George"
+            ], 
+            "location": "ELLIS RM321", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

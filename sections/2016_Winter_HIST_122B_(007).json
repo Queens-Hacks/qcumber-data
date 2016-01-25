@@ -1,0 +1,26 @@
+{
+    "_unique": "007-SEM (2934)", 
+    "basic": {
+        "class_num": "2934", 
+        "course": "122B", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Quirk, Andrew James"
+            ], 
+            "location": "JEFFERY RM102", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

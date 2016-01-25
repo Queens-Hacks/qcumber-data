@@ -1,0 +1,26 @@
+{
+    "_unique": "003-TUT (6232)", 
+    "basic": {
+        "class_num": "6232", 
+        "course": "448", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "MINE", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "McKinnon, Stephen D"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

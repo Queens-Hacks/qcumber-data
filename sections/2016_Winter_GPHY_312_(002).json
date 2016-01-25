@@ -1,0 +1,26 @@
+{
+    "_unique": "002-PRA (2834)", 
+    "basic": {
+        "class_num": "2834", 
+        "course": "312", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "GPHY", 
+        "type": "PRA", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Lafreniere, Melissa J"
+            ], 
+            "location": "MACINTOSH-CORRY RM E104", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

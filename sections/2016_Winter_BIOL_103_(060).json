@@ -1,0 +1,69 @@
+{
+    "_unique": "060-LAB (6953)", 
+    "basic": {
+        "class_num": "6953", 
+        "course": "103", 
+        "season": "Winter", 
+        "solus_id": "060", 
+        "status": "Open", 
+        "subject": "BIOL", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2319", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-01-17", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2319", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-01-31", 
+            "term_start": "2016-01-25"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2319", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-14", 
+            "term_start": "2016-02-08"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2319", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-28", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2319", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-03-13", 
+            "term_start": "2016-03-07"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "BIOSCI RM2319", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-03-27", 
+            "term_start": "2016-03-21"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "_unique": "008-TUT (7670)", 
+    "basic": {
+        "class_num": "7670", 
+        "course": "215", 
+        "season": "Winter", 
+        "solus_id": "008", 
+        "status": "Closed", 
+        "subject": "PSYC", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Troje, Nikolaus"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-01-17", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Troje, Nikolaus"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-01-31", 
+            "term_start": "2016-01-25"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Troje, Nikolaus"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-02-14", 
+            "term_start": "2016-02-08"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Troje, Nikolaus"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-02-28", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Troje, Nikolaus"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-03-13", 
+            "term_start": "2016-03-07"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Troje, Nikolaus"
+            ], 
+            "location": "JOHN WATSON RM401", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-03-27", 
+            "term_start": "2016-03-21"
+        }
+    ]
+}

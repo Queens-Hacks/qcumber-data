@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (8716)", 
+    "basic": {
+        "class_num": "8716", 
+        "course": "905", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MGMT", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Packalen, Kelley"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-11-30", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

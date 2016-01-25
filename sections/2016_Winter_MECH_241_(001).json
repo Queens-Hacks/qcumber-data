@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (6279)", 
+    "basic": {
+        "class_num": "6279", 
+        "course": "241", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MECH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Pharoah, Jon G"
+            ], 
+            "location": "BIOSCI AUD", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Pharoah, Jon G"
+            ], 
+            "location": "BIOSCI AUD", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Pharoah, Jon G"
+            ], 
+            "location": "BIOSCI AUD", 
+            "start_time": "16:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

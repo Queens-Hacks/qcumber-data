@@ -1,0 +1,24 @@
+{
+    "_unique": "012-LAB (2165)", 
+    "basic": {
+        "class_num": "2165", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "012", 
+        "status": "Closed", 
+        "subject": "DRAM", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "THEOLOGICAL RM106", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

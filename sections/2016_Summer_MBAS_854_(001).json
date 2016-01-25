@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2043)", 
+    "basic": {
+        "class_num": "2043", 
+        "course": "854", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MBAS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Detomasi, David"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-06-06", 
+            "term_start": "2016-05-17"
+        }
+    ]
+}

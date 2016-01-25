@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (8949)", 
+    "basic": {
+        "class_num": "8949", 
+        "course": "850A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "21:00:00", 
+            "instructors": [
+                "Wilson, Rosemary A"
+            ], 
+            "location": "TBA", 
+            "start_time": "18:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

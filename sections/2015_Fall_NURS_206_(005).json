@@ -1,0 +1,24 @@
+{
+    "_unique": "005-LAB (5921)", 
+    "basic": {
+        "class_num": "5921", 
+        "course": "206", 
+        "season": "Fall", 
+        "solus_id": "005", 
+        "status": "Open", 
+        "subject": "NURS", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:00:00", 
+            "instructors": [], 
+            "location": "CATARAQUI\u00a0 RM221 SIM LAB", 
+            "start_time": "08:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "_unique": "001-LEC (4033)", 
+    "basic": {
+        "class_num": "4033", 
+        "course": "364", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "von Hlatky, Stefanie"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "von Hlatky, Stefanie"
+            ], 
+            "location": "MCLAUGHLIN RM315", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "von Hlatky, Stefanie"
+            ], 
+            "location": "JEFFERY RM102", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "von Hlatky, Stefanie"
+            ], 
+            "location": "JEFFERY RM115", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "von Hlatky, Stefanie"
+            ], 
+            "location": "JEFFERY RM116", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:00:00", 
+            "instructors": [
+                "von Hlatky, Stefanie"
+            ], 
+            "location": "JEFFERY RM422", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

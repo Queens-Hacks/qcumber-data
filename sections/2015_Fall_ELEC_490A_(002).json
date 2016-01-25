@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (5872)", 
+    "basic": {
+        "class_num": "5872", 
+        "course": "490A", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Korenberg, Michael"
+            ], 
+            "location": "DUPUIS RM217", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

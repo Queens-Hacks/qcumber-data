@@ -1,0 +1,24 @@
+{
+    "_unique": "001-IND (1130)", 
+    "basic": {
+        "class_num": "1130", 
+        "course": "592", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "IND", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": "00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-08"
+        }
+    ]
+}

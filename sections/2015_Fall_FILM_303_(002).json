@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LAB (2176)", 
+    "basic": {
+        "class_num": "2176", 
+        "course": "303", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "FILM", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Bertrand, Karine"
+            ], 
+            "location": "IBCPA RM222", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

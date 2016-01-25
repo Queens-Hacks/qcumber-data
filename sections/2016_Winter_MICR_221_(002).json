@@ -1,0 +1,78 @@
+{
+    "_unique": "002-LAB (1425)", 
+    "basic": {
+        "class_num": "1425", 
+        "course": "221", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "MICR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-01-10", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-01-24", 
+            "term_start": "2016-01-18"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-07", 
+            "term_start": "2016-02-01"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-21", 
+            "term_start": "2016-02-15"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-03-06", 
+            "term_start": "2016-02-29"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-03-20", 
+            "term_start": "2016-03-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MEDS 400B - Microbiol & Bioche", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-03-28"
+        }
+    ]
+}

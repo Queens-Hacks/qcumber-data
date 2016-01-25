@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (7876)", 
+    "basic": {
+        "class_num": "7876", 
+        "course": "875", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "MGBL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Bu, Nailin"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

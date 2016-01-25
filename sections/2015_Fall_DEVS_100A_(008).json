@@ -1,0 +1,24 @@
+{
+    "_unique": "008-TUT (2232)", 
+    "basic": {
+        "class_num": "2232", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "008", 
+        "status": "Closed", 
+        "subject": "DEVS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "ELLIS RM319", 
+            "start_time": "15:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-PRA (2162)", 
+    "basic": {
+        "class_num": "2162", 
+        "course": "236", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "DRAM", 
+        "type": "PRA", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Renders, Kim"
+            ], 
+            "location": "THEOLOGICAL ROT", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

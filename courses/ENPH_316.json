@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "description": "Methods of mathematics important for physicists. Complex arithmetic, series expansions and approximations of functions, Fourier series and transforms, vector spaces and eigenvalue problems, ordinary differential equations and Green's functions.", 
+        "number": "316", 
+        "subject": "ENPH", 
+        "title": "Mathematical Methods in Physics I"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 11, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 31
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required", 
+            "Tutorial": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.50"
+    }
+}

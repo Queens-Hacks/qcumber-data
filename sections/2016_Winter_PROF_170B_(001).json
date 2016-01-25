@@ -1,0 +1,59 @@
+{
+    "_unique": "001-SEM (6913)", 
+    "basic": {
+        "class_num": "6913", 
+        "course": "170B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "PROF", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Chin, Peter M K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-01-04", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Chin, Peter M K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-04-18", 
+            "term_start": "2016-04-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Chin, Peter M K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-18"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Chin, Peter M K"
+            ], 
+            "location": "DUNCAN MCARTHUR RM B101", 
+            "start_time": "10:50:00", 
+            "term_end": "2016-01-12", 
+            "term_start": "2016-01-12"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (6544)", 
+    "basic": {
+        "class_num": "6544", 
+        "course": "368", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "GEOE", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "James, Noel Pattison"
+            ], 
+            "location": "MILLER RM407", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

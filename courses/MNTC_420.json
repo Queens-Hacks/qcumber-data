@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course presents an introduction to the topic of mechanization in the minerals industry. It includes a comprehensive review of the evolution of mechanized equipment in mining, as well as existing and emerging mechanical excavation technologies (e.g., automation and robotics). Major topics include the theory and principles of mechanical fragmentation and cutting, and appropriate equipment selection to meet production requirements. This course also provides and introduction to reliability modelling and analysis (e.g., failure mode analysis and life distribution models), and discusses the selection of appropriate equipment maintenance strategies (e.g., run-to-failure, scheduled, and condition-based maintenance).", 
+        "number": "420", 
+        "subject": "MNTC", 
+        "title": "Mine Mechanization and Maintenance"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

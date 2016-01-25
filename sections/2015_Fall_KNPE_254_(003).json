@@ -1,0 +1,26 @@
+{
+    "_unique": "003-TUT (4502)", 
+    "basic": {
+        "class_num": "4502", 
+        "course": "254", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "KNPE", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Diesbourg, Tara"
+            ], 
+            "location": "KINES & HLTH RM202", 
+            "start_time": "16:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

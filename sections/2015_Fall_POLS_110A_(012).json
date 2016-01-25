@@ -1,0 +1,24 @@
+{
+    "_unique": "012-TUT (4313)", 
+    "basic": {
+        "class_num": "4313", 
+        "course": "110A", 
+        "season": "Fall", 
+        "solus_id": "012", 
+        "status": "Closed", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "MACINTOSH-CORRY RM C508", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

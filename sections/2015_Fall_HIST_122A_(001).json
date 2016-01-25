@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2948)", 
+    "basic": {
+        "class_num": "2948", 
+        "course": "122A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Sen-Chowdhury, Aditi"
+            ], 
+            "location": "ETHERINGTON AUD", 
+            "start_time": "13:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

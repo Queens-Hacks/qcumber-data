@@ -1,0 +1,24 @@
+{
+    "_unique": "015-LAB (3448)", 
+    "basic": {
+        "class_num": "3448", 
+        "course": "112A", 
+        "season": "Fall", 
+        "solus_id": "015", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM206B", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

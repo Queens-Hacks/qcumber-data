@@ -1,0 +1,81 @@
+{
+    "_unique": "003-LAB (5166)", 
+    "basic": {
+        "class_num": "5166", 
+        "course": "274", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-01-10", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-01-24", 
+            "term_start": "2016-01-18"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-07", 
+            "term_start": "2016-02-01"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-28", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-03-13", 
+            "term_start": "2016-03-07"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Manjikian, Naraig"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-03-27", 
+            "term_start": "2016-03-21"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "012-LAB (4713)", 
+    "basic": {
+        "class_num": "4713", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "012", 
+        "status": "Closed", 
+        "subject": "PSYC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "19:30:00", 
+            "instructors": [], 
+            "location": "HUMPHREY RM131", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

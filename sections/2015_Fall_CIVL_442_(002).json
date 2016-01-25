@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (3714)", 
+    "basic": {
+        "class_num": "3714", 
+        "course": "442", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "CIVL", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Moore, Ian D"
+            ], 
+            "location": "ELLIS RM226", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

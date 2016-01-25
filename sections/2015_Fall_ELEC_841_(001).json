@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (9029)", 
+    "basic": {
+        "class_num": "9029", 
+        "course": "841", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "ELEC", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Korenberg, Michael"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

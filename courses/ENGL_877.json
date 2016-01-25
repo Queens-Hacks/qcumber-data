@@ -3,7 +3,7 @@
         "description": "", 
         "number": "877", 
         "subject": "ENGL", 
-        "title": "Topics In Postcolonial Lit. II"
+        "title": "Topics in Postcolonial Literatures II"
     }, 
     "extra": {
         "CEAB": {
@@ -13,10 +13,12 @@
             "Eng Sci": 0, 
             "Math": 0
         }, 
+        "add_consent": "Department Consent Required", 
         "career": "Graduate", 
         "course_components": {
             "Seminar": "Required"
         }, 
+        "drop_consent": "Department Consent Required", 
         "grading_basis": "Graded", 
         "units": "3.00"
     }

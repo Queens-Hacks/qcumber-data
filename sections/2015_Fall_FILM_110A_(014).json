@@ -1,0 +1,42 @@
+{
+    "_unique": "014-TUT (1492)", 
+    "basic": {
+        "class_num": "1492", 
+        "course": "110A", 
+        "season": "Fall", 
+        "solus_id": "014", 
+        "status": "Open", 
+        "subject": "FILM", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM304", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-10-30", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "GOODWIN RM247", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-11-05", 
+            "term_start": "2015-11-05"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "KINGSTON RM304", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-11-09"
+        }
+    ]
+}

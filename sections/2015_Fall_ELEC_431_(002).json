@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LAB (5860)", 
+    "basic": {
+        "class_num": "5860", 
+        "course": "431", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Jain, Praveen"
+            ], 
+            "location": "BEAMISH-MUNRO RM314", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

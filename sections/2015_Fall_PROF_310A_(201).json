@@ -1,0 +1,26 @@
+{
+    "_unique": "201-LEC (8344)", 
+    "basic": {
+        "class_num": "8344", 
+        "course": "310A", 
+        "season": "Fall", 
+        "solus_id": "201", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "20:50:00", 
+            "instructors": [
+                "White, Anne F"
+            ], 
+            "location": "TBA", 
+            "start_time": "19:00:00", 
+            "term_end": "2015-12-09", 
+            "term_start": "2015-09-10"
+        }
+    ]
+}

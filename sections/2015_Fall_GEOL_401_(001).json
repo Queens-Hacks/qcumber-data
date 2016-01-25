@@ -1,0 +1,24 @@
+{
+    "_unique": "001-FLD (6666)", 
+    "basic": {
+        "class_num": "6666", 
+        "course": "401", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "GEOL", 
+        "type": "FLD", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": "00:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

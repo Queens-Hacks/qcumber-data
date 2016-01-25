@@ -1,0 +1,26 @@
+{
+    "_unique": "002-SEM (2998)", 
+    "basic": {
+        "class_num": "2998", 
+        "course": "121A", 
+        "season": "Fall", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Bailey, Richard G"
+            ], 
+            "location": "MACINTOSH-CORRY RM E230", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

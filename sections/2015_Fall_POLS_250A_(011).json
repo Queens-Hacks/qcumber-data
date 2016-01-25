@@ -1,0 +1,24 @@
+{
+    "_unique": "011-TUT (3887)", 
+    "basic": {
+        "class_num": "3887", 
+        "course": "250A", 
+        "season": "Fall", 
+        "solus_id": "011", 
+        "status": "Open", 
+        "subject": "POLS", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "13:30:00", 
+            "instructors": [], 
+            "location": "JOHN WATSON RM207", 
+            "start_time": "12:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

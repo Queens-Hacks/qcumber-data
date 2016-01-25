@@ -1,0 +1,37 @@
+{
+    "_unique": "003-LEC (7548)", 
+    "basic": {
+        "class_num": "7548", 
+        "course": "321", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "COMM", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Gagnon, Louis"
+            ], 
+            "location": "GOODES RM 103", 
+            "start_time": "16:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [
+                "Gagnon, Louis"
+            ], 
+            "location": "GOODES RM 103", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

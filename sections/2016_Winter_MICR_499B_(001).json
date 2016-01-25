@@ -1,0 +1,24 @@
+{
+    "_unique": "001-SEM (1437)", 
+    "basic": {
+        "class_num": "1437", 
+        "course": "499B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MICR", 
+        "type": "SEM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

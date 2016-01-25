@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LAB (4024)", 
+    "basic": {
+        "class_num": "4024", 
+        "course": "333B", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Closed", 
+        "subject": "PACT", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Jackson, Kathy"
+            ], 
+            "location": "TBA", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

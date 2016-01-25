@@ -1,0 +1,37 @@
+{
+    "_unique": "001-LEC (3182)", 
+    "basic": {
+        "class_num": "3182", 
+        "course": "248", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LLCU", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Medalla, Maria"
+            ], 
+            "location": "KINGSTON RM208", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Medalla, Maria"
+            ], 
+            "location": "KINGSTON RM208", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

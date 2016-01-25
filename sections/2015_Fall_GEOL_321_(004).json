@@ -1,0 +1,26 @@
+{
+    "_unique": "004-LAB (6626)", 
+    "basic": {
+        "class_num": "6626", 
+        "course": "321", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "GEOL", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Godin, Laurent"
+            ], 
+            "location": "BRUCE RM352", 
+            "start_time": "09:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

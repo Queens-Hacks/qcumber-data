@@ -1,0 +1,24 @@
+{
+    "_unique": "004-TUT (1406)", 
+    "basic": {
+        "class_num": "1406", 
+        "course": "218", 
+        "season": "Winter", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "BCHM", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "003-TUT (3129)", 
+    "basic": {
+        "class_num": "3129", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "CHIN", 
+        "type": "TUT", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Bai, Xuelin"
+            ], 
+            "location": "KINGSTON LAB", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

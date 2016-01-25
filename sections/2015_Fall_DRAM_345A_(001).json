@@ -1,0 +1,26 @@
+{
+    "_unique": "001-PRA (2141)", 
+    "basic": {
+        "class_num": "2141", 
+        "course": "345A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "DRAM", 
+        "type": "PRA", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Redish, Adair"
+            ], 
+            "location": "IBCPA RM312", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

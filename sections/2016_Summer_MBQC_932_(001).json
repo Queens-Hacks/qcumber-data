@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2137)", 
+    "basic": {
+        "class_num": "2137", 
+        "course": "932", 
+        "season": "Summer", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBQC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Drummond, Peter"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-07-17", 
+            "term_start": "2016-05-08"
+        }
+    ]
+}

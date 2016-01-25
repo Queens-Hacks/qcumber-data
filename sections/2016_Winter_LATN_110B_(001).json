@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (2035)", 
+    "basic": {
+        "class_num": "2035", 
+        "course": "110B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "LATN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Lehoux, Daryn R"
+            ], 
+            "location": "JEFFERY RM225", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Lehoux, Daryn R"
+            ], 
+            "location": "JEFFERY RM225", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "09:30:00", 
+            "instructors": [
+                "Lehoux, Daryn R"
+            ], 
+            "location": "JEFFERY RM225", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

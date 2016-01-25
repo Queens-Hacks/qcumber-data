@@ -1,0 +1,24 @@
+{
+    "_unique": "006-LAB (2109)", 
+    "basic": {
+        "class_num": "2109", 
+        "course": "100B", 
+        "season": "Winter", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "DRAM", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "THEOLOGICAL AUD", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (2194)", 
+    "basic": {
+        "class_num": "2194", 
+        "course": "429", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Closed", 
+        "subject": "NSCI", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Andrew, R. David"
+            ], 
+            "location": "CHERNOFF RM211", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "_unique": "006-LEC (6460)", 
+    "basic": {
+        "class_num": "6460", 
+        "course": "355B", 
+        "season": "Winter", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "CURR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-22", 
+            "term_start": "2016-04-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-22", 
+            "term_start": "2016-04-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227W", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-25", 
+            "term_start": "2016-04-25"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Deir, Paul Edward"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A227E", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-25", 
+            "term_start": "2016-04-25"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course describes the evolution of policies, operational procedures, and management systems related to sustainability and the social, economic, environmental, ethical, and technical design challenges facing the mining industry. Students will be introduced to a range of complex situations with significant sustainability implications that need to be addressed responsibly during the life cycle of a mine, such as resource, water, and waste management, mining-community relationships, mine closure and rehabilitation, as well as a mine closure's community and environmental implications.", 
+        "number": "418", 
+        "subject": "MNTC", 
+        "title": "Mining Sustainability and the Environment"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

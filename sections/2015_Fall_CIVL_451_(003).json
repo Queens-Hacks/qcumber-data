@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (3704)", 
+    "basic": {
+        "class_num": "3704", 
+        "course": "451", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "CIVL", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Mulligan, Ryan"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

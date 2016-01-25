@@ -1,0 +1,24 @@
+{
+    "_unique": "007-TUT (7976)", 
+    "basic": {
+        "class_num": "7976", 
+        "course": "102", 
+        "season": "Winter", 
+        "solus_id": "007", 
+        "status": "Closed", 
+        "subject": "FOUN", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-IND (8654)", 
+    "basic": {
+        "class_num": "8654", 
+        "course": "301", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "INTN", 
+        "type": "IND", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Blake, Susan L"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

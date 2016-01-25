@@ -1,0 +1,24 @@
+{
+    "_unique": "006-LAB (3730)", 
+    "basic": {
+        "class_num": "3730", 
+        "course": "371", 
+        "season": "Fall", 
+        "solus_id": "006", 
+        "status": "Closed", 
+        "subject": "CIVL", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "001-EXM (3426)", 
+    "basic": {
+        "class_num": "3426", 
+        "course": "125B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MUSC", 
+        "type": "EXM", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

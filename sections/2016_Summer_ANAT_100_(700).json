@@ -1,0 +1,26 @@
+{
+    "_unique": "700-ONL (7579)", 
+    "basic": {
+        "class_num": "7579", 
+        "course": "100", 
+        "season": "Summer", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "ANAT", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "MacKenzie, Leslie W"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

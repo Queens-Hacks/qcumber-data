@@ -1,0 +1,24 @@
+{
+    "_unique": "003-TUT (4339)", 
+    "basic": {
+        "class_num": "4339", 
+        "course": "131B", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "RELS", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [], 
+            "location": "KINES & HLTH RM106", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

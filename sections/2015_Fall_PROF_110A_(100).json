@@ -1,0 +1,37 @@
+{
+    "_unique": "100-LEC (5305)", 
+    "basic": {
+        "class_num": "5305", 
+        "course": "110A", 
+        "season": "Fall", 
+        "solus_id": "100", 
+        "status": "Open", 
+        "subject": "PROF", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "20:30:00", 
+            "instructors": [
+                "Chin, Jane"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A241", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "20:30:00", 
+            "instructors": [
+                "Chin, Jane"
+            ], 
+            "location": "DUNCAN MCARTHUR RM A242", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

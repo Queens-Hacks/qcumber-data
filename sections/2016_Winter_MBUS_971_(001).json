@@ -1,0 +1,26 @@
+{
+    "_unique": "001-LEC (7928)", 
+    "basic": {
+        "class_num": "7928", 
+        "course": "971", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "MBUS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Darling, Michael"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-01-30", 
+            "term_start": "2015-11-21"
+        }
+    ]
+}

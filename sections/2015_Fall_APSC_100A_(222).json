@@ -1,0 +1,24 @@
+{
+    "_unique": "222-STD (6313)", 
+    "basic": {
+        "class_num": "6313", 
+        "course": "100A", 
+        "season": "Fall", 
+        "solus_id": "222", 
+        "status": "Open", 
+        "subject": "APSC", 
+        "type": "STD", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "21:30:00", 
+            "instructors": [], 
+            "location": "BEAMISH-MUNRO RM213", 
+            "start_time": "19:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

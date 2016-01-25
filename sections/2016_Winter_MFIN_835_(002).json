@@ -1,0 +1,26 @@
+{
+    "_unique": "002-LEC (7407)", 
+    "basic": {
+        "class_num": "7407", 
+        "course": "835", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "MFIN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Young, Amelia"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-02-09", 
+            "term_start": "2015-12-11"
+        }
+    ]
+}

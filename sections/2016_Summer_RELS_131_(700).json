@@ -1,0 +1,26 @@
+{
+    "_unique": "700-ONL (2122)", 
+    "basic": {
+        "class_num": "2122", 
+        "course": "131", 
+        "season": "Summer", 
+        "solus_id": "700", 
+        "status": "Open", 
+        "subject": "RELS", 
+        "type": "ONL", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "LaGrone, Danielle"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-07-22", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "001-SEM (3074)", 
+    "basic": {
+        "class_num": "3074", 
+        "course": "456A", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Pehlivan, Zozan"
+            ], 
+            "location": "JOHN WATSON RM122", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

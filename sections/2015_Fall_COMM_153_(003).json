@@ -1,0 +1,35 @@
+{
+    "_unique": "003-LEC (7465)", 
+    "basic": {
+        "class_num": "7465", 
+        "course": "153", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Closed", 
+        "subject": "COMM", 
+        "type": "LEC", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:00:00", 
+            "instructors": [], 
+            "location": "GOODES RM151", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Sansom, Lisa"
+            ], 
+            "location": "GOODES RM151", 
+            "start_time": "10:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

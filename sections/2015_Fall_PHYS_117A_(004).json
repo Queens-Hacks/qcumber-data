@@ -1,0 +1,42 @@
+{
+    "_unique": "004-LAB (5153)", 
+    "basic": {
+        "class_num": "5153", 
+        "course": "117A", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Closed", 
+        "subject": "PHYS", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM412B", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM409", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "STIRLING RM410", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

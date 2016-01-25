@@ -1,0 +1,26 @@
+{
+    "_unique": "002-TUT (1872)", 
+    "basic": {
+        "class_num": "1872", 
+        "course": "442", 
+        "season": "Winter", 
+        "solus_id": "002", 
+        "status": "Open", 
+        "subject": "BIOL", 
+        "type": "TUT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Boag, Peter T"
+            ], 
+            "location": "BIOSCI RM3110", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

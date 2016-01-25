@@ -1,0 +1,59 @@
+{
+    "_unique": "003-LEC (3246)", 
+    "basic": {
+        "class_num": "3246", 
+        "course": "112B", 
+        "season": "Winter", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Wang, Suning"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Wang, Suning"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-02-12", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Macartney, Donal H"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-02-22"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Macartney, Donal H"
+            ], 
+            "location": "CHERNOFF AUD", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-02-22"
+        }
+    ]
+}

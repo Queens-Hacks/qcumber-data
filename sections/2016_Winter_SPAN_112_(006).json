@@ -1,0 +1,37 @@
+{
+    "_unique": "006-LEC (3232)", 
+    "basic": {
+        "class_num": "3232", 
+        "course": "112", 
+        "season": "Winter", 
+        "solus_id": "006", 
+        "status": "Open", 
+        "subject": "SPAN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Thompson, Peter E"
+            ], 
+            "location": "KINGSTON RM304", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Thompson, Peter E"
+            ], 
+            "location": "KINGSTON RM304", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

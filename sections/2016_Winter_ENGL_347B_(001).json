@@ -1,0 +1,48 @@
+{
+    "_unique": "001-LEC (2488)", 
+    "basic": {
+        "class_num": "2488", 
+        "course": "347B", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "ENGL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Murray, Laura J"
+            ], 
+            "location": "ONTARIO RM209", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Murray, Laura J"
+            ], 
+            "location": "ONTARIO RM209", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Murray, Laura J"
+            ], 
+            "location": "ELLIS RM218", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-01-08", 
+            "term_start": "2016-01-08"
+        }
+    ]
+}

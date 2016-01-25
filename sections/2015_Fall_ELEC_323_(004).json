@@ -1,0 +1,37 @@
+{
+    "_unique": "004-LAB (5768)", 
+    "basic": {
+        "class_num": "5768", 
+        "course": "323", 
+        "season": "Fall", 
+        "solus_id": "004", 
+        "status": "Open", 
+        "subject": "ELEC", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Hayajneh, Khaled"
+            ], 
+            "location": "BEAMISH-MUNRO RM212", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Hayajneh, Khaled"
+            ], 
+            "location": "BEAMISH-MUNRO RM214", 
+            "start_time": "18:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

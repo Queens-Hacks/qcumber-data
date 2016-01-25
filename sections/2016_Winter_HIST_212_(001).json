@@ -1,0 +1,26 @@
+{
+    "_unique": "001-PRA (3090)", 
+    "basic": {
+        "class_num": "3090", 
+        "course": "212", 
+        "season": "Winter", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "HIST", 
+        "type": "PRA", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": "00:00:00", 
+            "instructors": [
+                "D'Elia, Anthony Francis"
+            ], 
+            "location": "TBA", 
+            "start_time": "00:00:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

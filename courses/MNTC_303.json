@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course will cover the basic of engineering chemistry, including topics such as stoichiometry and reaction balancing, chemical equilibrium, acid/base reactions, and titration. Then, it will get into details of thermodynamics, including the Three Laws of Thermodynamics, aqueous solution behavior, and gaseous/aqueous face behavior. Finally, the course will get into details of rates of reactions, thermodynamics and kinetics of electrochemical reactions, and organic chemistry. The application of these topics to the mining industry will be explored.", 
+        "number": "303", 
+        "subject": "MNTC", 
+        "title": "Engineering Chemistry"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

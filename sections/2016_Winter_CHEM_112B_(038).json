@@ -1,0 +1,24 @@
+{
+    "_unique": "038-LAB (3587)", 
+    "basic": {
+        "class_num": "3587", 
+        "course": "112B", 
+        "season": "Winter", 
+        "solus_id": "038", 
+        "status": "Open", 
+        "subject": "CHEM", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "CHERNOFF RM202", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-01", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

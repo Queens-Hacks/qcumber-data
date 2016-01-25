@@ -1,0 +1,69 @@
+{
+    "_unique": "001-SEM (8197)", 
+    "basic": {
+        "class_num": "8197", 
+        "course": "832", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "BMED", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "11:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "09:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "08:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BOTTER RM568", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-09-18", 
+            "term_start": "2015-09-14"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-09-25", 
+            "term_start": "2015-09-21"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "BOTTER RM568", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-11-27", 
+            "term_start": "2015-09-28"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [], 
+            "location": "JEFFERY RM234", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-11-30"
+        }
+    ]
+}

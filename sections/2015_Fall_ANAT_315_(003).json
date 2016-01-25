@@ -1,0 +1,26 @@
+{
+    "_unique": "003-LAB (1346)", 
+    "basic": {
+        "class_num": "1346", 
+        "course": "315", 
+        "season": "Fall", 
+        "solus_id": "003", 
+        "status": "Open", 
+        "subject": "ANAT", 
+        "type": "LAB", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Easteal, Ronald Albert"
+            ], 
+            "location": "MEDS RM302 - Anatomy", 
+            "start_time": "10:30:00", 
+            "term_end": "2015-12-04", 
+            "term_start": "2015-09-14"
+        }
+    ]
+}

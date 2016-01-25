@@ -1,0 +1,24 @@
+{
+    "_unique": "500-PRA (1020)", 
+    "basic": {
+        "class_num": "1020", 
+        "course": "461", 
+        "season": "Summer", 
+        "solus_id": "500", 
+        "status": "Open", 
+        "subject": "PRAC", 
+        "type": "PRA", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-27", 
+            "term_start": "2016-05-02"
+        }
+    ]
+}
