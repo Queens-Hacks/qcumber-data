@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7933)", 
+    "availability": {
+        "class_curr": 80, 
+        "class_max": 90, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7933", 
         "course": "812", 
@@ -22,5 +28,10 @@
             "term_end": "2016-03-05", 
             "term_start": "2016-01-15"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/15 - 2016/3/5", 
+        "session": "Regular Academic Session"
+    }
 }

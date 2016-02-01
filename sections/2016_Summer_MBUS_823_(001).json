@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (2073)", 
+    "availability": {
+        "class_curr": 115, 
+        "class_max": 118, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2073", 
         "course": "823", 
@@ -20,5 +26,10 @@
             "term_end": "2016-07-11", 
             "term_start": "2016-05-24"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/5/24 - 2016/7/11", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "006-LAB (5144)", 
+    "availability": {
+        "class_curr": 42, 
+        "class_max": 45, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5144", 
         "course": "210", 
@@ -67,5 +73,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-03-28"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

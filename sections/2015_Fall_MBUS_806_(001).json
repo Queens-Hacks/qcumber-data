@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7566)", 
+    "availability": {
+        "class_curr": 114, 
+        "class_max": 118, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7566", 
         "course": "806", 
@@ -22,5 +28,10 @@
             "term_end": "2015-10-13", 
             "term_start": "2015-05-22"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/5/22 - 2015/10/13", 
+        "session": "Regular Academic Session"
+    }
 }

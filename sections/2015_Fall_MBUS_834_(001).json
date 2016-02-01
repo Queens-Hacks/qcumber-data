@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7570)", 
+    "availability": {
+        "class_curr": 114, 
+        "class_max": 118, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7570", 
         "course": "834", 
@@ -22,5 +28,10 @@
             "term_end": "2015-12-06", 
             "term_start": "2015-10-25"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/10/25 - 2015/12/6", 
+        "session": "Regular Academic Session"
+    }
 }

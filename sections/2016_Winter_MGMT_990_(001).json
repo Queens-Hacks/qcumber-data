@@ -1,5 +1,11 @@
 {
     "_unique": "001-SEM (8100)", 
+    "availability": {
+        "class_curr": 4, 
+        "class_max": 9, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8100", 
         "course": "990", 
@@ -22,5 +28,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

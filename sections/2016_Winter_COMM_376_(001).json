@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (6727)", 
+    "availability": {
+        "class_curr": 55, 
+        "class_max": 55, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6727", 
         "course": "376", 
@@ -17,7 +23,7 @@
             "instructors": [
                 "Bu, Nailin"
             ], 
-            "location": "GOODES RM304", 
+            "location": "GOODES RM153", 
             "start_time": "11:30:00", 
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
@@ -28,10 +34,15 @@
             "instructors": [
                 "Bu, Nailin"
             ], 
-            "location": "GOODES RM304", 
+            "location": "GOODES RM153", 
             "start_time": "13:00:00", 
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

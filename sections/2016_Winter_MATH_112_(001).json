@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (5978)", 
+    "availability": {
+        "class_curr": 219, 
+        "class_max": 230, 
+        "wait_curr": 0, 
+        "wait_max": 20
+    }, 
     "basic": {
         "class_num": "5978", 
         "course": "112", 
@@ -44,5 +50,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

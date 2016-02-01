@@ -1,5 +1,11 @@
 {
     "_unique": "700-ONL (2118)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 75, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2118", 
         "course": "118", 
@@ -22,5 +28,10 @@
             "term_end": "2016-07-22", 
             "term_start": "2016-05-02"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "2016/5/2 - 2016/7/22", 
+        "location": "Distance Studies", 
+        "session": "May-July 12 Week"
+    }
 }

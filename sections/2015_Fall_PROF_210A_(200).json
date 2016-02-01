@@ -1,5 +1,11 @@
 {
     "_unique": "200-LEC (8348)", 
+    "availability": {
+        "class_curr": 81, 
+        "class_max": 90, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8348", 
         "course": "210A", 
@@ -22,5 +28,10 @@
             "term_end": "2015-12-09", 
             "term_start": "2015-09-10"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/10 - 2015/12/9", 
+        "session": "Education Regular"
+    }
 }

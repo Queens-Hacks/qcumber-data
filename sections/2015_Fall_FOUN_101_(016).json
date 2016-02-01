@@ -1,5 +1,11 @@
 {
     "_unique": "016-TUT (8594)", 
+    "availability": {
+        "class_curr": 29, 
+        "class_max": 30, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8594", 
         "course": "101", 
@@ -38,5 +44,10 @@
             "term_end": "2015-12-16", 
             "term_start": "2015-12-16"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Pass/Fail", 
+        "location": "2015/9/2 - 2015/12/18", 
+        "session": "Education Regular"
+    }
 }

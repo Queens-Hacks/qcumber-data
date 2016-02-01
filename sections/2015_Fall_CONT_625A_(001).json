@@ -1,5 +1,11 @@
 {
     "_unique": "001-ONL (7958)", 
+    "availability": {
+        "class_curr": 3, 
+        "class_max": 15, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7958", 
         "course": "625A", 
@@ -20,5 +26,10 @@
             "term_end": "2015-12-31", 
             "term_start": "2015-11-09"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/11/9 - 2015/12/31", 
+        "session": "Continuing Educ- Fall/Winter"
+    }
 }

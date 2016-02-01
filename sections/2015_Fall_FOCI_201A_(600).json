@@ -1,5 +1,11 @@
 {
     "_unique": "600-LEC (8761)", 
+    "availability": {
+        "class_curr": 8, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8761", 
         "course": "201A", 
@@ -44,5 +50,10 @@
             "term_end": "2015-09-20", 
             "term_start": "2015-09-18"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/2 - 2015/12/18", 
+        "session": "Education Regular"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "003-LEC (3246)", 
+    "availability": {
+        "class_curr": 216, 
+        "class_max": 230, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "3246", 
         "course": "112B", 
@@ -55,5 +61,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-02-22"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

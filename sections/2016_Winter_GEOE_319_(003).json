@@ -1,5 +1,11 @@
 {
     "_unique": "003-LAB (5851)", 
+    "availability": {
+        "class_curr": 33, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 2
+    }, 
     "basic": {
         "class_num": "5851", 
         "course": "319", 
@@ -22,5 +28,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

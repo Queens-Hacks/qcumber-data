@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (4889)", 
+    "availability": {
+        "class_curr": 121, 
+        "class_max": 120, 
+        "wait_curr": 0, 
+        "wait_max": 12
+    }, 
     "basic": {
         "class_num": "4889", 
         "course": "342", 
@@ -33,5 +39,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "001-ONL (7698)", 
+    "availability": {
+        "class_curr": 4, 
+        "class_max": 15, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7698", 
         "course": "602", 
@@ -20,5 +26,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-28"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/28 - 2015/12/4", 
+        "session": "Continuing Education - Regular"
+    }
 }

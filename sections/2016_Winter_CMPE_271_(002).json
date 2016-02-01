@@ -1,5 +1,11 @@
 {
     "_unique": "002-LAB (1991)", 
+    "availability": {
+        "class_curr": 33, 
+        "class_max": 37, 
+        "wait_curr": 36, 
+        "wait_max": 3
+    }, 
     "basic": {
         "class_num": "1991", 
         "course": "271", 
@@ -20,5 +26,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "005-LEC (6459)", 
+    "availability": {
+        "class_curr": 36, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6459", 
         "course": "355B", 
@@ -77,5 +83,10 @@
             "term_end": "2016-04-25", 
             "term_start": "2016-04-25"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/29", 
+        "session": "Education Regular"
+    }
 }

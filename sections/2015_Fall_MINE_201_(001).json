@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (6927)", 
+    "availability": {
+        "class_curr": 33, 
+        "class_max": 33, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6927", 
         "course": "201", 
@@ -47,5 +53,10 @@
             "term_end": "2015-11-05", 
             "term_start": "2015-11-05"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/12/4", 
+        "session": "Regular Academic Session"
+    }
 }

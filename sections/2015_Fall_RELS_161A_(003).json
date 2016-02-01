@@ -1,5 +1,11 @@
 {
     "_unique": "003-TUT (5002)", 
+    "availability": {
+        "class_curr": 30, 
+        "class_max": 30, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5002", 
         "course": "161A", 
@@ -65,5 +71,10 @@
             "term_end": "2015-11-29", 
             "term_start": "2015-11-23"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/12/4", 
+        "session": "Regular Academic Session"
+    }
 }

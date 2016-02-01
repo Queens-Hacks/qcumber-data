@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (7655)", 
+    "availability": {
+        "class_curr": 29, 
+        "class_max": 35, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7655", 
         "course": "229B", 
@@ -15,7 +21,7 @@
             "day_of_week": 3, 
             "end_time": "17:50:00", 
             "instructors": [
-                "Nolan, Jennifer Elizabeth Joy"
+                "Myers, Marie Josephine"
             ], 
             "location": "DUNCAN MCARTHUR RM A236", 
             "start_time": "15:50:00", 
@@ -26,12 +32,17 @@
             "day_of_week": 3, 
             "end_time": "17:50:00", 
             "instructors": [
-                "Nolan, Jennifer Elizabeth Joy"
+                "Myers, Marie Josephine"
             ], 
             "location": "DUNCAN MCARTHUR RM A236", 
             "start_time": "15:50:00", 
             "term_end": "2016-04-29", 
             "term_start": "2016-04-11"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/29", 
+        "session": "Education Regular"
+    }
 }

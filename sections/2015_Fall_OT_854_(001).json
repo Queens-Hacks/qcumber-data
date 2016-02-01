@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (5251)", 
+    "availability": {
+        "class_curr": 72, 
+        "class_max": 75, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5251", 
         "course": "854", 
@@ -38,5 +44,10 @@
             "term_end": "2015-10-23", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/10/23", 
+        "session": "Regular Academic Session"
+    }
 }

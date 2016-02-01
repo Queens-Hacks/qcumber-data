@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (8728)", 
+    "availability": {
+        "class_curr": 10, 
+        "class_max": 10, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8728", 
         "course": "988", 
@@ -22,5 +28,10 @@
             "term_end": "2015-11-30", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/11/30", 
+        "session": "Regular Academic Session"
+    }
 }

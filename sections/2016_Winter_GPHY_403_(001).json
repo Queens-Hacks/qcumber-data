@@ -1,5 +1,11 @@
 {
     "_unique": "001-SEM (2782)", 
+    "availability": {
+        "class_curr": 16, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 2
+    }, 
     "basic": {
         "class_num": "2782", 
         "course": "403", 
@@ -33,5 +39,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

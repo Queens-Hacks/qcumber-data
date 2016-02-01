@@ -1,5 +1,11 @@
 {
     "_unique": "005-TUT (8583)", 
+    "availability": {
+        "class_curr": 36, 
+        "class_max": 35, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8583", 
         "course": "101", 
@@ -47,5 +53,10 @@
             "term_end": "2015-12-17", 
             "term_start": "2015-12-10"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Pass/Fail", 
+        "location": "2015/9/2 - 2015/12/18", 
+        "session": "Education Regular"
+    }
 }

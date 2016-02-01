@@ -1,5 +1,11 @@
 {
     "_unique": "001-SEM (1305)", 
+    "availability": {
+        "class_curr": 27, 
+        "class_max": 24, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1305", 
         "course": "263", 
@@ -33,5 +39,10 @@
             "term_end": "2015-10-01", 
             "term_start": "2015-09-08"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/8 - 2015/10/1", 
+        "session": "Law Regular"
+    }
 }

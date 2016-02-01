@@ -1,5 +1,11 @@
 {
     "_unique": "002-LEC (2864)", 
+    "availability": {
+        "class_curr": 104, 
+        "class_max": 133, 
+        "wait_curr": 3, 
+        "wait_max": 9
+    }, 
     "basic": {
         "class_num": "2864", 
         "course": "247", 
@@ -20,5 +26,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

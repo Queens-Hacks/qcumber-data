@@ -1,5 +1,11 @@
 {
     "_unique": "700-LEC (8760)", 
+    "availability": {
+        "class_curr": 13, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8760", 
         "course": "395", 
@@ -44,5 +50,10 @@
             "term_end": "2015-10-18", 
             "term_start": "2015-10-16"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/2 - 2015/12/18", 
+        "session": "Education Regular"
+    }
 }

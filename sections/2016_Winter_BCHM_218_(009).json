@@ -1,5 +1,11 @@
 {
     "_unique": "009-TUT (1416)", 
+    "availability": {
+        "class_curr": 63, 
+        "class_max": 63, 
+        "wait_curr": 0, 
+        "wait_max": 6
+    }, 
     "basic": {
         "class_num": "1416", 
         "course": "218", 
@@ -20,5 +26,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "\u00a0", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "102-LEC (7733)", 
+    "availability": {
+        "class_curr": 66, 
+        "class_max": 90, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7733", 
         "course": "310B", 
@@ -33,5 +39,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-02-16"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Education Regular"
+    }
 }

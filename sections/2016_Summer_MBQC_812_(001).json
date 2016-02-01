@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (2136)", 
+    "availability": {
+        "class_curr": 159, 
+        "class_max": 162, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2136", 
         "course": "812", 
@@ -22,5 +28,10 @@
             "term_end": "2016-05-22", 
             "term_start": "2016-03-13"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/3/13 - 2016/5/22", 
+        "session": "Regular Academic Session"
+    }
 }

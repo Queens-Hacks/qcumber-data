@@ -1,5 +1,11 @@
 {
     "_unique": "005-LAB (4892)", 
+    "availability": {
+        "class_curr": 16, 
+        "class_max": 22, 
+        "wait_curr": 0, 
+        "wait_max": 2
+    }, 
     "basic": {
         "class_num": "4892", 
         "course": "261", 
@@ -119,5 +125,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-11-30"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "\u00a0", 
+        "session": "Regular Academic Session"
+    }
 }

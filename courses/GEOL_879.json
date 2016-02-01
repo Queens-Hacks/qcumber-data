@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Theory and application of observing geophysical fields from space-borne platforms. Orbital mechanics, signal propagation, uncertainty will be addressed. Current missions including radar and laser altimetry, gravimetry and magnetometry, and synthetic aperture radar. Applications in science and engineering (site investigation, geodynamics, ocean and ice, natural resources) through student projects.", 
+        "number": "879", 
+        "subject": "GEOL", 
+        "title": "Satellite Geophysics and Applications"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}
