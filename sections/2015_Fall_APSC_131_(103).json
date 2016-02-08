@@ -1,5 +1,11 @@
 {
     "_unique": "103-LEC (6472)", 
+    "availability": {
+        "class_curr": 286, 
+        "class_max": 289, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6472", 
         "course": "131", 
@@ -47,5 +53,10 @@
             "term_end": "2015-10-14", 
             "term_start": "2015-10-12"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/12/4", 
+        "session": "Regular Academic Session"
+    }
 }

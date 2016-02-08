@@ -1,11 +1,17 @@
 {
     "_unique": "001-SEM (4281)", 
+    "availability": {
+        "class_curr": 16, 
+        "class_max": 17, 
+        "wait_curr": 1, 
+        "wait_max": 2
+    }, 
     "basic": {
         "class_num": "4281", 
         "course": "404", 
         "season": "Winter", 
         "solus_id": "001", 
-        "status": "Closed", 
+        "status": "Open", 
         "subject": "ARTH", 
         "type": "SEM", 
         "year": "2016"
@@ -22,5 +28,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

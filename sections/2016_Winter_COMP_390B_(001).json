@@ -1,11 +1,6 @@
 {
     "_unique": "001-IND (2006)", 
-    "availability": {
-        "class_curr": 16, 
-        "class_max": 20, 
-        "wait_curr": 0, 
-        "wait_max": 0
-    }, 
+    "availability": {}, 
     "basic": {
         "class_num": "2006", 
         "course": "390B", 
@@ -29,9 +24,5 @@
             "term_start": "2016-01-04"
         }
     ], 
-    "details": {
-        "campus": "Pass/Fail", 
-        "location": "2016/1/4 - 2016/4/1", 
-        "session": "Regular Academic Session"
-    }
+    "details": {}
 }

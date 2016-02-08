@@ -1,5 +1,11 @@
 {
     "_unique": "004-TUT (7584)", 
+    "availability": {
+        "class_curr": 38, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 4
+    }, 
     "basic": {
         "class_num": "7584", 
         "course": "360", 
@@ -22,5 +28,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "\u00a0", 
+        "session": "Regular Academic Session"
+    }
 }

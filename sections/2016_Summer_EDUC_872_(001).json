@@ -18,11 +18,47 @@
     }, 
     "classes": [
         {
-            "day_of_week": null, 
-            "end_time": null, 
+            "day_of_week": 5, 
+            "end_time": "16:00:00", 
             "instructors": [], 
-            "location": "TBA", 
-            "start_time": null, 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-07-21", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-07-21", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-07-21", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-07-21", 
+            "term_start": "2016-07-04"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "16:00:00", 
+            "instructors": [], 
+            "location": "DUNCAN MCARTHUR RM A236", 
+            "start_time": "13:00:00", 
             "term_end": "2016-07-21", 
             "term_start": "2016-07-04"
         }
