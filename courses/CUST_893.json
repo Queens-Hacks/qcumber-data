@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Special topics under the guidance of a faculty member in an area of the instructor's expertise.", 
+        "number": "893", 
+        "subject": "CUST", 
+        "title": "Special Topics II"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

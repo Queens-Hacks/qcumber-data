@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "The objective of this course is to provide students with hands-on training in data mining to familiarize them with the principles and practice of cutting edge technologies for bioinformatics used in biomedical and molecular sciences research. This course will span over four weeks and will consist of a combination of lectures and interactive computer labs. Specifically, students will acquire knowledge and skills for mining various biomedical dataset, survey the breadth/depth of biomedical datasets and how they are used to advance biomedical research, design an experiment that will require them to generate a hypothesis and test that hypothesis using real biomedical data. PREREQUISITE: CISC 801, 802 and admission in the Diploma in Biomedical Informatics or Masters in Biomedical Informatics (MBI) or permission of the Program Coordinator. EXCLUSION: None", 
+        "number": "803", 
+        "subject": "CISC", 
+        "title": "Biomedical Data Mining and Applications"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

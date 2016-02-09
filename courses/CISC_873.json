@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Study of the extraction of concepts from large high-dimensional datasets. Statistical foundations; techniques such as supervised neural networks, unsupervised neural networks, decision trees, association rules, Bayesian classifiers, inductive logic programming, genetic algorithms, singular value decomposition, hierarchical clustering. Three term hours; lectures and seminars. David Skillicorn.", 
+        "number": "873", 
+        "subject": "CISC", 
+        "title": "Data Mining (A)"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

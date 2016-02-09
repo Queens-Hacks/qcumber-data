@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Offered at Health, Counselling and Disability Services. Provides training in interviewing, assessment and intervention skills needed in dealing with the wide range of clinical, learning, and career problems encountered by university students. Spring (35 hrs total).", 
+        "number": "858", 
+        "subject": "PSYC", 
+        "title": "Intro. Intervent. Skills Prac."
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

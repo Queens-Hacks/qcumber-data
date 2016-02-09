@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "An introduction to the systematic construction of a compiler: grammars and languages; scanners; top-down and bottom-up parsing; run-time organization; symbol tables; internal representations; Polish notation; syntax trees; semantic routines; storage allocation; code generation; interpreters. Three term-hours; lectures. Jim Cordy.", 
+        "number": "858", 
+        "subject": "CISC", 
+        "title": "Programming Lang Processors (S)"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

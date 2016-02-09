@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "Reading courses to be arranged in consultation with individual members of the Department.\nNOTE\u00a0\u00a0\u00a0 Students are limited to a maximum of two of PSYC 550/3.0, PSYC 555/3.0, PSYC 560/3.0, PSYC 570/3.0, or PSYC 575/3.0. Students are also limited to a maximum of two 500-level courses supervised by the same faculty member. (Students registered in PSYC 501/6.0 concurrently will not normally take one of these courses with their thesis supervisor).\nLEARNING HOURS\u00a0\u00a0\u00a0 117 (20G;13I;84P)", 
+        "number": "555", 
+        "subject": "PSYC", 
+        "title": "Directed Special Reading II"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individual Study": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

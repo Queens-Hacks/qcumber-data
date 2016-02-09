@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Consists of formal lectures and the study and discussion of research papers appearing in the current literature.\u00a0 Students will be expected to participate in the presentation of the lecture material.\u00a0 Topics chosen for study will be by arrangement with the School. Three term-hours; lectures and seminars. Selim Akl.", 
+        "number": "879", 
+        "subject": "CISC", 
+        "title": "Natural Computing"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

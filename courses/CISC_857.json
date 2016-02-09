@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Examines the techniques used in digital image processing. Topics covered include image transformations (FFT, DCT, wavelets), linear and nonlinear filtering, image compression, image restoration and enhancement, Bayesian estimation of image properties, and image registration methods. Applications examined include medical imaging, motion analysis, remote sensing imagery (satellite and aircraft), and industrial imaging (inspection). Three term-hours; lectures and seminars.", 
+        "number": "857", 
+        "subject": "CISC", 
+        "title": "Image Processing"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

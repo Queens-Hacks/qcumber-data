@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Formal techniques: proving programs correct, checking consistency and completeness. Inspections and reviews. Unit/module testing. White box and black box testing. System integration and testing. Tool support for testing. Faults vs. failures. Verification of implementation against both requirements and design. Techniques for critical software. Trust-worthiness vs. reliability. Timing analysis and verification. Safety analysis. Multi-version programming. Software quality assurance, software reliability. Debugging. Three term-hours; lectures and seminars.", 
+        "number": "847", 
+        "subject": "CISC", 
+        "title": "Software Verific. & Validation"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

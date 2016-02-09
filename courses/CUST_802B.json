@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This course is designed to acquaint graduate students with some of the teaching and research responsibilities of a graduate student. Topics may include: course planning, presentation and preparation; grant writing; publishing; giving artist talks and presenting conference papers. Seminars devoted to current research and research-creation will change on a yearly basis. The course is compulsory for all students over the first and second years of their program. Grading is on a Pass/Fail basis. Students are required to attend eight seminars in the first year of their program and six in the second year.", 
+        "number": "802B", 
+        "subject": "CUST", 
+        "title": "Seminar Series"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Pass/Fail", 
+        "units": "6.00"
+    }
+}

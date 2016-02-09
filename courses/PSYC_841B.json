@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "Attended by both faculty and students who present research in their specialty areas and with the focus being on research design issues.\u00a0 The content will vary to some extent depending on the research areas represented by members of the class.\u00a0 Marked pass/fail based on attendance. Seminar (2 hrs bi-weekly)", 
+        "number": "841B", 
+        "subject": "PSYC", 
+        "title": "Pro-Seminars In Develop. Psyc."
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "grading_basis": "Pass/Fail", 
+        "units": "3.00"
+    }
+}

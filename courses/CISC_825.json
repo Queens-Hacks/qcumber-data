@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "This course introduces the different paradigms of wireless and mobile networking.\u00a0 It will also familiarize students with the state-of-the-art technologies, as well as with recent efforts in research and standardization.\u00a0 Students taking this course will develop a strong grasp of the different architectures involved in current and future wireless networks, have a functional understanding of the different paradigms, design and analyze the behavior of wireless and mobile networks protocols using one or more network simulation tools.\u00a0 PREREQUISITE: CISC-435 or equivalent.", 
+        "number": "825", 
+        "subject": "CISC", 
+        "title": "Paradigms of Wireless and Mobile Networking"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

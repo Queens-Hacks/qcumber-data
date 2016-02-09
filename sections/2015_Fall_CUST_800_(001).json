@@ -1,0 +1,37 @@
+{
+    "_unique": "001-SEM (8966)", 
+    "availability": {
+        "class_curr": 17, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
+    "basic": {
+        "class_num": "8966", 
+        "course": "800", 
+        "season": "Fall", 
+        "solus_id": "001", 
+        "status": "Open", 
+        "subject": "CUST", 
+        "type": "SEM", 
+        "year": "2015"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Sully, Justin"
+            ], 
+            "location": "MACINTOSH-CORRY RM D211", 
+            "start_time": "14:30:00", 
+            "term_end": "2015-12-31", 
+            "term_start": "2015-09-01"
+        }
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/1 - 2015/12/31", 
+        "session": "Regular Academic Session"
+    }
+}

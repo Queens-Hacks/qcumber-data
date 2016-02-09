@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "A survey of theory and research on the self. Topics include: the search for self-knowledge, self-development, self-cognition, self-regulation of behaviour, self-presentation, self-esteem, and the role of the self in psychological health. (2 hrs)", 
+        "number": "948", 
+        "subject": "PSYC", 
+        "title": "The Self"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Seminar": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

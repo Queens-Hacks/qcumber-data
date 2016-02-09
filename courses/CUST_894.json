@@ -1,0 +1,23 @@
+{
+    "basic": {
+        "description": "This course is intended to support a student's MA or PhD research through organizational and social experience gained from involvement with relevant off-campus institutions, organizations, and community groups. A CS faculty member will oversee each placement in collaboration with a member of the relevant organization or group. (Equal to other one-term course offerings, the internships are expected to be the equivalent of 1.5 - 2.0 days of work per week for 12 weeks.)", 
+        "number": "894", 
+        "subject": "CUST", 
+        "title": "Community-Based Practicum"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "career": "Graduate", 
+        "course_components": {
+            "Practicum": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

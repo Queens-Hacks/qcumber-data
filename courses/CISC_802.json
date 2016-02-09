@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "The objective of this course is to provide students with hands-on training in the analysis of biomedical datasets to familiarize them with the principles and practice of cutting edge technologies for bioinformatics used in biomedical and molecular sciences research. This course will span over four weeks and will consist of a combination of lectures and interactive computer labs. Specifically, students use examples of real biomedical data to apply methods for recognizing patterns, classify and extract features using supervised and unsupervised learning approaches, and grasp basic concepts in biostatistics and employ statistical algorithms for data analysis. PREREQUISITE: CISC 801 and admission in the Diploma in Biomedical Informatics or Masters in Biomedical Informatics (MBI) or permission of the Program Coordinator. EXCLUSION: None", 
+        "number": "802", 
+        "subject": "CISC", 
+        "title": "Biomedical Data Analysis"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}
