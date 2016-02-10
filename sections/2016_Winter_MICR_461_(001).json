@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (1433)", 
+    "availability": {
+        "class_curr": 38, 
+        "class_max": 36, 
+        "wait_curr": 0, 
+        "wait_max": 4
+    }, 
     "basic": {
         "class_num": "1433", 
         "course": "461", 
@@ -20,5 +26,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

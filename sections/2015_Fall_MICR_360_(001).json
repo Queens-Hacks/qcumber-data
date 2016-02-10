@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (1410)", 
+    "availability": {
+        "class_curr": 199, 
+        "class_max": 201, 
+        "wait_curr": 202, 
+        "wait_max": 19
+    }, 
     "basic": {
         "class_num": "1410", 
         "course": "360", 
@@ -38,5 +44,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/12/4", 
+        "session": "Regular Academic Session"
+    }
 }

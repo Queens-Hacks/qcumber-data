@@ -1,5 +1,11 @@
 {
     "_unique": "001-IND (1268)", 
+    "availability": {
+        "class_curr": 2, 
+        "class_max": 10, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1268", 
         "course": "698A", 
@@ -20,5 +26,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-08"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Pass/Fail", 
+        "location": "2015/9/8 - 2015/12/4", 
+        "session": "Law Regular"
+    }
 }

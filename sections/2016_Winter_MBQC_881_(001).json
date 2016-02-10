@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (8475)", 
+    "availability": {
+        "class_curr": 158, 
+        "class_max": 165, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8475", 
         "course": "881", 
@@ -22,5 +28,10 @@
             "term_end": "2016-01-24", 
             "term_start": "2015-12-13"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/12/13 - 2016/1/24", 
+        "session": "Regular Academic Session"
+    }
 }

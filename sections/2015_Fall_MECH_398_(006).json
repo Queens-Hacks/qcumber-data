@@ -1,5 +1,11 @@
 {
     "_unique": "006-LAB (7055)", 
+    "availability": {
+        "class_curr": 29, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7055", 
         "course": "398", 
@@ -20,5 +26,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/12/4", 
+        "session": "Regular Academic Session"
+    }
 }

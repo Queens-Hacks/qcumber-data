@@ -1,5 +1,11 @@
 {
     "_unique": "002-SEM (6830)", 
+    "availability": {
+        "class_curr": 16, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 2
+    }, 
     "basic": {
         "class_num": "6830", 
         "course": "321", 
@@ -20,5 +26,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "\u00a0", 
+        "session": "Regular Academic Session"
+    }
 }

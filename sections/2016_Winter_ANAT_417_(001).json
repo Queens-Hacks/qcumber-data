@@ -1,11 +1,17 @@
 {
     "_unique": "001-LEC (1346)", 
+    "availability": {
+        "class_curr": 39, 
+        "class_max": 48, 
+        "wait_curr": 2, 
+        "wait_max": 3
+    }, 
     "basic": {
         "class_num": "1346", 
         "course": "417", 
         "season": "Winter", 
         "solus_id": "001", 
-        "status": "Closed", 
+        "status": "Open", 
         "subject": "ANAT", 
         "type": "LEC", 
         "year": "2016"
@@ -20,5 +26,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

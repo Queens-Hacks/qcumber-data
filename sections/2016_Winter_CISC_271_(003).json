@@ -1,5 +1,11 @@
 {
     "_unique": "003-LAB (1907)", 
+    "availability": {
+        "class_curr": 25, 
+        "class_max": 41, 
+        "wait_curr": 0, 
+        "wait_max": 3
+    }, 
     "basic": {
         "class_num": "1907", 
         "course": "271", 
@@ -20,5 +26,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "\u00a0", 
+        "session": "Regular Academic Session"
+    }
 }

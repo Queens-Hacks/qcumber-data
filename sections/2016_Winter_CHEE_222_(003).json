@@ -1,5 +1,11 @@
 {
     "_unique": "003-TUT (2685)", 
+    "availability": {
+        "class_curr": 62, 
+        "class_max": 74, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2685", 
         "course": "222", 
@@ -209,5 +215,10 @@
             "term_end": "2016-03-20", 
             "term_start": "2016-03-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

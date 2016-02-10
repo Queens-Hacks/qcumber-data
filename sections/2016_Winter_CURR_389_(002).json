@@ -1,5 +1,11 @@
 {
     "_unique": "002-LEC (4928)", 
+    "availability": {
+        "class_curr": 38, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "4928", 
         "course": "389", 
@@ -44,5 +50,10 @@
             "term_end": "2015-12-18", 
             "term_start": "2015-12-17"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/2 - 2015/12/18", 
+        "session": "Education Regular"
+    }
 }

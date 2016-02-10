@@ -1,5 +1,11 @@
 {
     "_unique": "004-LEC (1024)", 
+    "availability": {
+        "class_curr": 20, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "1024", 
         "course": "390", 
@@ -121,5 +127,10 @@
             "term_end": "2016-06-23", 
             "term_start": "2016-06-16"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/5/2 - 2016/8/5", 
+        "session": "Education Regular 2"
+    }
 }

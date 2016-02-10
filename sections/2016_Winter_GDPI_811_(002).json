@@ -1,5 +1,11 @@
 {
     "_unique": "002-SEM (8505)", 
+    "availability": {
+        "class_curr": 7, 
+        "class_max": 10, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8505", 
         "course": "811", 
@@ -22,5 +28,10 @@
             "term_end": "2016-03-20", 
             "term_start": "2016-01-11"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

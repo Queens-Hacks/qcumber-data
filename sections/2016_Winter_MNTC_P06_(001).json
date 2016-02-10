@@ -1,5 +1,11 @@
 {
     "_unique": "001-ONL (8465)", 
+    "availability": {
+        "class_curr": 6, 
+        "class_max": 70, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "8465", 
         "course": "P06", 
@@ -20,5 +26,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "2016/1/4 - 2016/4/1", 
+        "location": "Undergraduate", 
+        "session": "Regular Academic Session"
+    }
 }

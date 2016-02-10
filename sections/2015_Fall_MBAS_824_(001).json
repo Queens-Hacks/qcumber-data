@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (2932)", 
+    "availability": {
+        "class_curr": 38, 
+        "class_max": 75, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2932", 
         "course": "824", 
@@ -22,5 +28,10 @@
             "term_end": "2015-11-04", 
             "term_start": "2015-10-05"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/10/5 - 2015/11/4", 
+        "session": "Regular Academic Session"
+    }
 }

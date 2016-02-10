@@ -1,5 +1,11 @@
 {
     "_unique": "001-ONL (7756)", 
+    "availability": {
+        "class_curr": 12, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "7756", 
         "course": "543", 
@@ -20,5 +26,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-28"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/28 - 2015/12/4", 
+        "session": "Continuing Education - Regular"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (4078)", 
+    "availability": {
+        "class_curr": 15, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "4078", 
         "course": "351", 
@@ -77,5 +83,10 @@
             "term_end": "2015-12-18", 
             "term_start": "2015-12-10"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/2 - 2015/12/18", 
+        "session": "Education Regular"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "002-BLN (2037)", 
+    "availability": {
+        "class_curr": 40, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 4
+    }, 
     "basic": {
         "class_num": "2037", 
         "course": "205", 
@@ -20,5 +26,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "\u00a0", 
+        "session": "Regular Academic Session"
+    }
 }

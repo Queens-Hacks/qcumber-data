@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (9175)", 
+    "availability": {
+        "class_curr": 80, 
+        "class_max": 83, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "9175", 
         "course": "941", 
@@ -22,5 +28,10 @@
             "term_end": "2015-11-22", 
             "term_start": "2015-07-10"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/7/10 - 2015/11/22", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "008-LEC (3268)", 
+    "availability": {
+        "class_curr": 36, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 4
+    }, 
     "basic": {
         "class_num": "3268", 
         "course": "111", 
@@ -33,5 +39,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/12/4", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "_unique": "007-TUT (5734)", 
+    "availability": {
+        "class_curr": 28, 
+        "class_max": 29, 
+        "wait_curr": 0, 
+        "wait_max": 3
+    }, 
     "basic": {
         "class_num": "5734", 
         "course": "226", 
@@ -20,5 +26,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "\u00a0", 
+        "session": "Regular Academic Session"
+    }
 }

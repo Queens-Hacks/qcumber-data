@@ -1,5 +1,11 @@
 {
     "_unique": "306-LAB (5541)", 
+    "availability": {
+        "class_curr": 71, 
+        "class_max": 83, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "5541", 
         "course": "100B", 
@@ -55,5 +61,10 @@
             "term_end": "2016-04-01", 
             "term_start": "2016-01-11"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

@@ -1,0 +1,25 @@
+{
+    "basic": {
+        "description": "The objective of this course is to provide students hands-on training in computer programming languages and tools to familiarize them with the principles and practice of cutting edge technologies for bioinformatics used in biomedical and molecular sciences research. This course will span over four weeks and will consist of a combination of lectures and interactive computer labs. Specifically, students will acquire working knowledge of basic functions in Rand MATLAB for managing and pre- processing biomedical data, and use examples of real biomedical data to apply methods for identifying data outliers and gain skills for cloud computing. PREREQUISITE: Admission in the Graduate Diploma (GDip [BI]) or Masters in Biomedical Informatics (MBI) or permission of the Program Coordinator. EXCLUSION: None", 
+        "number": "801", 
+        "subject": "CISC", 
+        "title": "Programming Skills and Tools for Processing of Biomedical Data"
+    }, 
+    "extra": {
+        "CEAB": {
+            "Basic Sci": 0, 
+            "Comp St": 0, 
+            "Eng Des": 0, 
+            "Eng Sci": 0, 
+            "Math": 0
+        }, 
+        "add_consent": "Department Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Lecture": "Required"
+        }, 
+        "drop_consent": "Department Consent Required", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

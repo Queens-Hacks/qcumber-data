@@ -1,5 +1,11 @@
 {
     "_unique": "001-SEM (7409)", 
+    "availability": {
+        "class_curr": 21, 
+        "class_max": 30, 
+        "wait_curr": 2, 
+        "wait_max": 2
+    }, 
     "basic": {
         "class_num": "7409", 
         "course": "878", 
@@ -15,12 +21,17 @@
             "day_of_week": 2, 
             "end_time": "11:30:00", 
             "instructors": [
-                "Brison, Jeffrey"
+                "Brison, Jeff"
             ], 
             "location": "JEFFERY RM115", 
             "start_time": "08:30:00", 
             "term_end": "2016-04-01", 
             "term_start": "2016-01-04"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/1", 
+        "session": "Regular Academic Session"
+    }
 }

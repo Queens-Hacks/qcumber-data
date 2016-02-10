@@ -1,5 +1,11 @@
 {
     "_unique": "001-LEC (2027)", 
+    "availability": {
+        "class_curr": 0, 
+        "class_max": 40, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "2027", 
         "course": "310", 
@@ -101,5 +107,10 @@
             "term_end": "2016-08-17", 
             "term_start": "2016-07-28"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/5/4 - 2016/8/17", 
+        "session": "Education Regular"
+    }
 }

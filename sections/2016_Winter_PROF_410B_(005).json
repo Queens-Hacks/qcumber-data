@@ -1,5 +1,11 @@
 {
     "_unique": "005-LEC (6864)", 
+    "availability": {
+        "class_curr": 19, 
+        "class_max": 20, 
+        "wait_curr": 0, 
+        "wait_max": 0
+    }, 
     "basic": {
         "class_num": "6864", 
         "course": "410B", 
@@ -55,5 +61,10 @@
             "term_end": "2016-04-29", 
             "term_start": "2016-04-29"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2016/1/4 - 2016/4/29", 
+        "session": "Education Regular"
+    }
 }

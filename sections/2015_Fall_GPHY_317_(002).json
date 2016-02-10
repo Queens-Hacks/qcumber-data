@@ -1,5 +1,11 @@
 {
     "_unique": "002-PRA (8389)", 
+    "availability": {
+        "class_curr": 14, 
+        "class_max": 15, 
+        "wait_curr": 0, 
+        "wait_max": 2
+    }, 
     "basic": {
         "class_num": "8389", 
         "course": "317", 
@@ -22,5 +28,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Kingston (Main), ON", 
+        "location": "\u00a0", 
+        "session": "Regular Academic Session"
+    }
 }

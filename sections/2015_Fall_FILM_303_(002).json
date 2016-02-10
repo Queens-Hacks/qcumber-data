@@ -1,5 +1,11 @@
 {
     "_unique": "002-LAB (2176)", 
+    "availability": {
+        "class_curr": 28, 
+        "class_max": 32, 
+        "wait_curr": 0, 
+        "wait_max": 3
+    }, 
     "basic": {
         "class_num": "2176", 
         "course": "303", 
@@ -22,5 +28,10 @@
             "term_end": "2015-12-04", 
             "term_start": "2015-09-14"
         }
-    ]
+    ], 
+    "details": {
+        "campus": "Graded", 
+        "location": "2015/9/14 - 2015/12/4", 
+        "session": "Regular Academic Session"
+    }
 }
